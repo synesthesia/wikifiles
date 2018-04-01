@@ -7,14 +7,14 @@
       "type": "paragraph"
     },
     {
-      "type": "paragraph",
-      "id": "821827c99b90cfd1",
-      "text": "Pages about us."
-    },
-    {
       "type": "factory",
       "id": "63ad2e58eecdd9e5",
       "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below."
+    },
+    {
+      "type": "paragraph",
+      "id": "821827c99b90cfd1",
+      "text": "Pages about us."
     },
     {
       "type": "paragraph",
@@ -27,14 +27,14 @@
       "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
     },
     {
+      "type": "roster",
+      "id": "f7595503bf89c8ea",
+      "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors"
+    },
+    {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
-    },
-    {
-      "type": "roster",
-      "id": "7c3fc2591128b5af",
-      "text": "ROSTER wiki.synesthesia.co.uk"
     }
   ],
   "journal": [
@@ -130,6 +130,66 @@
         "text": "ROSTER wiki.synesthesia.co.uk"
       },
       "date": 1522596108249
+    },
+    {
+      "type": "move",
+      "order": [
+        "63ad2e58eecdd9e5",
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "63ad2e58eecdd9e5",
+      "date": 1522597385286
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "63ad2e58eecdd9e5",
+        "821827c99b90cfd1",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "7b56f22a4b9ee974",
+      "date": 1522597386414
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f7595503bf89c8ea"
+      },
+      "id": "f7595503bf89c8ea",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1522599439809
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "63ad2e58eecdd9e5",
+        "821827c99b90cfd1",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "f7595503bf89c8ea",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "f7595503bf89c8ea",
+      "date": 1522599441176
+    },
+    {
+      "type": "edit",
+      "id": "f7595503bf89c8ea",
+      "item": {
+        "type": "roster",
+        "id": "f7595503bf89c8ea",
+        "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors"
+      },
+      "date": 1522599481820
     }
   ]
 }
