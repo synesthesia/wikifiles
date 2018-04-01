@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/about-federated-wiki.html</loc>
+    <lastmod>2016-07-22</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/about-this-site.html</loc>
     <lastmod>2018-03-29</lastmod>
   </url>
@@ -15,6 +19,10 @@
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/bookmark-key-pages.html</loc>
     <lastmod>2015-02-09</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/broadcast-workflow.html</loc>
+    <lastmod>2014-12-15</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/categorising--things.html</loc>
@@ -63,6 +71,10 @@
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/execute-a-cross-page-move.html</loc>
     <lastmod>2015-02-10</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/familiar-workflows.html</loc>
+    <lastmod>2016-07-23</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/federated-wiki-knowledge-cycle.html</loc>
@@ -117,6 +129,10 @@
     <lastmod>2015-02-05</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/kuhn-cycle.html</loc>
+    <lastmod>2016-01-03</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/learn-shift-click-magic.html</loc>
     <lastmod>2015-02-08</lastmod>
   </url>
@@ -133,8 +149,16 @@
     <lastmod>2015-02-05</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/mixed-content.html</loc>
+    <lastmod>2017-05-26</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/names-of-things.html</loc>
     <lastmod>2015-02-04</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/neighborhoods.html</loc>
+    <lastmod>2017-05-26</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/ontology-v-stigmergy.html</loc>
@@ -149,8 +173,24 @@
     <lastmod>2018-03-28</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/profligate-copying.html</loc>
+    <lastmod>2016-07-23</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/read-a-journal-history.html</loc>
     <lastmod>2015-02-10</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/reflection-workflow.html</loc>
+    <lastmod>2015-01-03</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/reflective-interviews.html</loc>
+    <lastmod>2014-12-22</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/rename-workflow.html</loc>
+    <lastmod>2014-12-18</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/seek.html</loc>
@@ -165,6 +205,10 @@
     <lastmod>2018-03-29</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/simple-rules.html</loc>
+    <lastmod>2015-02-20</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/site-index.html</loc>
     <lastmod>2016-02-02</lastmod>
   </url>
@@ -177,6 +221,10 @@
     <lastmod>2016-02-11</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/structures.html</loc>
+    <lastmod>2016-07-25</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/test-multi-word-page-name.html</loc>
     <lastmod>2018-03-28</lastmod>
   </url>
@@ -187,6 +235,14 @@
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/things-you-must-do.html</loc>
     <lastmod>2016-02-03</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/topic-split-workflow.html</loc>
+    <lastmod>2015-02-18</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/two-tales-of-two-forks.html</loc>
+    <lastmod>2015-01-09</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/understanding-links.html</loc>
@@ -217,71 +273,15 @@
     <lastmod>2018-03-28</lastmod>
   </url>
   <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/working-with-fedwiki.html</loc>
-    <lastmod>2015-01-11</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/about-federated-wiki.html</loc>
-    <lastmod>2016-07-22</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/mixed-content.html</loc>
-    <lastmod>2017-05-26</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/profligate-copying.html</loc>
-    <lastmod>2016-07-23</lastmod>
-  </url>
-  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/workflows.html</loc>
     <lastmod>2016-07-23</lastmod>
   </url>
   <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/structures.html</loc>
-    <lastmod>2016-07-25</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/neighborhoods.html</loc>
-    <lastmod>2017-05-26</lastmod>
+    <loc>http://pkm.wiki.synesthesia.co.uk/working-with-fedwiki.html</loc>
+    <lastmod>2015-01-11</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/writing-with-strangers.html</loc>
     <lastmod>2015-04-17</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/kuhn-cycle.html</loc>
-    <lastmod>2016-01-03</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/familiar-workflows.html</loc>
-    <lastmod>2016-07-23</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/broadcast-workflow.html</loc>
-    <lastmod>2014-12-15</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/rename-workflow.html</loc>
-    <lastmod>2014-12-18</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/reflection-workflow.html</loc>
-    <lastmod>2015-01-03</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/topic-split-workflow.html</loc>
-    <lastmod>2015-02-18</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/reflective-interviews.html</loc>
-    <lastmod>2014-12-22</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/simple-rules.html</loc>
-    <lastmod>2015-02-20</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/two-tales-of-two-forks.html</loc>
-    <lastmod>2015-01-09</lastmod>
   </url>
 </urlset>
