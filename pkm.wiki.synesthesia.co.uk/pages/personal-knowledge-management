@@ -1,0 +1,194 @@
+{
+  "title": "Personal Knowledge Management",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c3e41550f2b94423",
+      "text": "Applying a conscious process to the development of new, personally-applicable knowledge"
+    },
+    {
+      "type": "paragraph",
+      "id": "1296c1b075e76f7e",
+      "text": "I want to explore [[Federated Wiki]] as a tool for supporting PKM, especially Harold Jarche's [http://jarche.com/2014/02/the-seek-sense-share-framework/ Seek Sense Share Framework]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7d8eeb736556f1f9",
+      "text": "Examples of [[Federated Wiki knowledge cycle]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e32498b6c5b3d186",
+      "text": "[[Using Federated Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "32885f18c4e42a3e",
+      "text": "[[Escaping StreamMode]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "16b78d91a1ab74ba",
+      "text": "[[Categorising  Things]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Personal Knowledge Management",
+        "story": []
+      },
+      "date": 1454408917763
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1296c1b075e76f7e"
+      },
+      "id": "1296c1b075e76f7e",
+      "type": "add",
+      "date": 1454408925537
+    },
+    {
+      "type": "edit",
+      "id": "1296c1b075e76f7e",
+      "item": {
+        "type": "paragraph",
+        "id": "1296c1b075e76f7e",
+        "text": "Pretty empty right now - I want to explore [[Federated Wiki]] as a tool for ["
+      },
+      "date": 1454408968425
+    },
+    {
+      "type": "edit",
+      "id": "1296c1b075e76f7e",
+      "item": {
+        "type": "paragraph",
+        "id": "1296c1b075e76f7e",
+        "text": "Pretty empty right now - I want to explore [[Federated Wiki]] as a tool for supporting the [http://jarche.com/2014/02/the-seek-sense-share-framework/ Seek Sense Share Framework]"
+      },
+      "date": 1454409007988
+    },
+    {
+      "type": "edit",
+      "id": "1296c1b075e76f7e",
+      "item": {
+        "type": "paragraph",
+        "id": "1296c1b075e76f7e",
+        "text": "Pretty empty right now - I want to explore [[Federated Wiki]] as a tool for supporting PKM, especially Harold Jarche's [http://jarche.com/2014/02/the-seek-sense-share-framework/ Seek Sense Share Framework]"
+      },
+      "date": 1454409083606
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7d8eeb736556f1f9"
+      },
+      "id": "7d8eeb736556f1f9",
+      "type": "add",
+      "after": "1296c1b075e76f7e",
+      "date": 1454422569333
+    },
+    {
+      "type": "edit",
+      "id": "7d8eeb736556f1f9",
+      "item": {
+        "type": "paragraph",
+        "id": "7d8eeb736556f1f9",
+        "text": "Examples of [[Federated Wiki knowledge cycle]]"
+      },
+      "date": 1454422596640
+    },
+    {
+      "type": "add",
+      "id": "e32498b6c5b3d186",
+      "item": {
+        "type": "paragraph",
+        "id": "e32498b6c5b3d186",
+        "text": "[[Using Federated Wiki]]"
+      },
+      "after": "7d8eeb736556f1f9",
+      "date": 1454431906952
+    },
+    {
+      "type": "fork",
+      "site": "wiki.synesthesia.co.uk",
+      "date": 1454487954832
+    },
+    {
+      "type": "add",
+      "id": "32885f18c4e42a3e",
+      "item": {
+        "type": "paragraph",
+        "id": "32885f18c4e42a3e",
+        "text": "[[Escaping StreamMode]]"
+      },
+      "after": "e32498b6c5b3d186",
+      "date": 1455176325379
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "16b78d91a1ab74ba"
+      },
+      "id": "16b78d91a1ab74ba",
+      "type": "add",
+      "after": "32885f18c4e42a3e",
+      "date": 1522066557333
+    },
+    {
+      "type": "edit",
+      "id": "16b78d91a1ab74ba",
+      "item": {
+        "type": "paragraph",
+        "id": "16b78d91a1ab74ba",
+        "text": "[[Categorising  Things]]"
+      },
+      "date": 1522066584175
+    },
+    {
+      "type": "edit",
+      "id": "1296c1b075e76f7e",
+      "item": {
+        "type": "paragraph",
+        "id": "1296c1b075e76f7e",
+        "text": "I want to explore [[Federated Wiki]] as a tool for supporting PKM, especially Harold Jarche's [http://jarche.com/2014/02/the-seek-sense-share-framework/ Seek Sense Share Framework]"
+      },
+      "date": 1522228487008
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c3e41550f2b94423"
+      },
+      "id": "c3e41550f2b94423",
+      "type": "add",
+      "after": "16b78d91a1ab74ba",
+      "date": 1522228503955
+    },
+    {
+      "type": "edit",
+      "id": "c3e41550f2b94423",
+      "item": {
+        "type": "paragraph",
+        "id": "c3e41550f2b94423",
+        "text": "Applying a conscious process to the development of new, personally-applicable knowledge"
+      },
+      "date": 1522228557843
+    },
+    {
+      "type": "move",
+      "order": [
+        "c3e41550f2b94423",
+        "1296c1b075e76f7e",
+        "7d8eeb736556f1f9",
+        "e32498b6c5b3d186",
+        "32885f18c4e42a3e",
+        "16b78d91a1ab74ba"
+      ],
+      "id": "c3e41550f2b94423",
+      "date": 1522228559685
+    }
+  ]
+}

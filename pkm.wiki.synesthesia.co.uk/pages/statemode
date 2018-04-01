@@ -1,0 +1,94 @@
+{
+  "title": "StateMode",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "0ae6a883f072aba4",
+      "text": "Defined by[http://hapgood.us/  Mike Caulfield] as \n*that iterative mode which sees our work as existing as a sort of snapshot of us and our ideas* [http://hapgood.us/2014/09/07/peak-streammode/ blog]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ba91d6ff07bc477f",
+      "text": "cf [[Stream Mode]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "StateMode",
+        "story": []
+      },
+      "date": 1455177000485
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0ae6a883f072aba4"
+      },
+      "id": "0ae6a883f072aba4",
+      "type": "add",
+      "date": 1455177003789
+    },
+    {
+      "type": "edit",
+      "id": "0ae6a883f072aba4",
+      "item": {
+        "type": "markdown",
+        "id": "0ae6a883f072aba4",
+        "text": "Defined by Mike Caulfield as \n**"
+      },
+      "date": 1455177033099
+    },
+    {
+      "type": "edit",
+      "id": "0ae6a883f072aba4",
+      "item": {
+        "type": "markdown",
+        "id": "0ae6a883f072aba4",
+        "text": "Defined by Mike Caulfield as \n*that iterative mode which sees our work as existing as a sort of snapshot of us and our ideas*"
+      },
+      "date": 1455177049568
+    },
+    {
+      "type": "edit",
+      "id": "0ae6a883f072aba4",
+      "item": {
+        "type": "markdown",
+        "id": "0ae6a883f072aba4",
+        "text": "Defined by[http://hapgood.us/  Mike Caulfield] as \n*that iterative mode which sees our work as existing as a sort of snapshot of us and our ideas*"
+      },
+      "date": 1455177064011
+    },
+    {
+      "type": "edit",
+      "id": "0ae6a883f072aba4",
+      "item": {
+        "type": "markdown",
+        "id": "0ae6a883f072aba4",
+        "text": "Defined by[http://hapgood.us/  Mike Caulfield] as \n*that iterative mode which sees our work as existing as a sort of snapshot of us and our ideas* [http://hapgood.us/2014/09/07/peak-streammode/ blog]"
+      },
+      "date": 1455177099808
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ba91d6ff07bc477f"
+      },
+      "id": "ba91d6ff07bc477f",
+      "type": "add",
+      "after": "0ae6a883f072aba4",
+      "date": 1455177107564
+    },
+    {
+      "type": "edit",
+      "id": "ba91d6ff07bc477f",
+      "item": {
+        "type": "paragraph",
+        "id": "ba91d6ff07bc477f",
+        "text": "cf [[Stream Mode]]"
+      },
+      "date": 1455177115561
+    }
+  ]
+}

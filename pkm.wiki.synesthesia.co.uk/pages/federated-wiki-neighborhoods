@@ -1,0 +1,65 @@
+{
+  "title": "Federated Wiki Neighborhoods",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d281b4f29d7720d2",
+      "text": "The Neighborhood (sic) is the network of sites that your site is related to - it's where search looks, and it changes dynamically."
+    },
+    {
+      "type": "paragraph",
+      "id": "7b21f596b2598b6c",
+      "text": "[[How Federated Wiki neighborhoods grow and change]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Federated Wiki Neighborhoods",
+        "story": []
+      },
+      "date": 1454595422391
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d281b4f29d7720d2"
+      },
+      "id": "d281b4f29d7720d2",
+      "type": "add",
+      "date": 1454595424979
+    },
+    {
+      "type": "edit",
+      "id": "d281b4f29d7720d2",
+      "item": {
+        "type": "paragraph",
+        "id": "d281b4f29d7720d2",
+        "text": "The Neighborhood (sic) is the network of sites that your site is related to - it's where search looks, and it changes dynamically."
+      },
+      "date": 1454595472351
+    },
+    {
+      "type": "add",
+      "id": "7b21f596b2598b6c",
+      "item": {
+        "type": "paragraph",
+        "id": "7b21f596b2598b6c",
+        "text": "[[How "
+      },
+      "after": "d281b4f29d7720d2",
+      "date": 1454595482776
+    },
+    {
+      "type": "edit",
+      "id": "7b21f596b2598b6c",
+      "item": {
+        "type": "paragraph",
+        "id": "7b21f596b2598b6c",
+        "text": "[[How Federated Wiki neighborhoods grow and change]]"
+      },
+      "date": 1454595492991
+    }
+  ]
+}

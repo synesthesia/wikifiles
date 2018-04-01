@@ -1,0 +1,465 @@
+{
+  "title": "Welcome Visitors",
+  "story": [
+    {
+      "text": "This  [[Federated Wiki]] site pulls together my notes on [[Personal Knowledge Management]]. See [[About this Site]] for jumping-off points into the content.",
+      "id": "7b56f22a4b9ee974",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "e5d2b0d3d1e24051",
+      "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+    },
+    {
+      "type": "paragraph",
+      "id": "821827c99b90cfd1",
+      "text": "Pages about me, and the people I collaborate with (or at least read!)"
+    },
+    {
+      "type": "paragraph",
+      "id": "63ad2e58eecdd9e5",
+      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+      "text": "[[Julian Elve]]"
+    },
+    {
+      "type": "roster",
+      "id": "1d37e20209277a2d",
+      "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors"
+    },
+    {
+      "type": "paragraph",
+      "id": "a67f176000831d2d",
+      "text": "[[About This Site]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "aa5ebd0203376ad2",
+      "text": "[[Inspirations]]"
+    },
+    {
+      "type": "markdown",
+      "id": "7a20c6ccff52ba9e",
+      "text": "Start pages forked from elsewhere:"
+    },
+    {
+      "type": "paragraph",
+      "id": "ee416d431ebf4fb4",
+      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby. Also [[Site Index]] for all local pages"
+    },
+    {
+      "type": "markdown",
+      "id": "b8d81c060d223a68",
+      "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!*"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Welcome Visitors",
+        "story": []
+      },
+      "date": 1420938191608
+    },
+    {
+      "type": "add",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "id": "7b56f22a4b9ee974",
+      "date": 1420938199166
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about us."
+      },
+      "after": "7b56f22a4b9ee974",
+      "id": "821827c99b90cfd1",
+      "date": 1420938202921
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below."
+      },
+      "after": "821827c99b90cfd1",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1420938208737
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages where we do and share."
+      },
+      "after": "63ad2e58eecdd9e5",
+      "id": "2bbd646ff3f44b51",
+      "date": 1420938212624
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+      },
+      "after": "2bbd646ff3f44b51",
+      "id": "05e2fa92643677ca",
+      "date": 1420938216782
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "after": "05e2fa92643677ca",
+      "id": "ee416d431ebf4fb4",
+      "date": 1420938220851
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+        "text": "[[Julian Elve]]"
+      },
+      "date": 1454427642983
+    },
+    {
+      "type": "add",
+      "id": "e75b554fffcb3cc4",
+      "item": {
+        "type": "paragraph",
+        "id": "e75b554fffcb3cc4",
+        "text": "[http://wiki.synesthesia.co.uk main wiki]"
+      },
+      "after": "63ad2e58eecdd9e5",
+      "date": 1454427672827
+    },
+    {
+      "type": "add",
+      "id": "6145632e8849c392",
+      "item": {
+        "type": "paragraph",
+        "id": "6145632e8849c392",
+        "text": "[[My Wikis]]"
+      },
+      "after": "63ad2e58eecdd9e5",
+      "date": 1454428108164
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "reference",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "site": "wiki.synesthesia.co.uk",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+      },
+      "date": 1454428920904
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1454428956578
+    },
+    {
+      "type": "remove",
+      "id": "e75b554fffcb3cc4",
+      "date": 1454428968052
+    },
+    {
+      "type": "add",
+      "id": "a67f176000831d2d",
+      "item": {
+        "type": "paragraph",
+        "id": "a67f176000831d2d",
+        "text": "[[About This Site]]"
+      },
+      "after": "2bbd646ff3f44b51",
+      "date": 1454487384064
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "This  [[Federated Wiki]] site pulls together my notes on [[Personal Knowledge Management]]. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1454488004931
+    },
+    {
+      "type": "add",
+      "id": "e5d2b0d3d1e24051",
+      "item": {
+        "type": "paragraph",
+        "id": "e5d2b0d3d1e24051",
+        "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+      },
+      "after": "7b56f22a4b9ee974",
+      "date": 1454488018123
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "This  [[Federated Wiki]] site pulls together my notes on [[Personal Knowledge Management]]. See [[About this Site]] for an index.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1454488096414
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "This  [[Federated Wiki]] site pulls together my notes on [[Personal Knowledge Management]]. See [[About this Site]] for jumping-off points into the content.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1454488116477
+    },
+    {
+      "type": "add",
+      "id": "9d473a6ba60bdbae",
+      "item": {
+        "type": "paragraph",
+        "id": "9d473a6ba60bdbae",
+        "text": "[[Colleagues]]"
+      },
+      "after": "6145632e8849c392",
+      "date": 1454488166348
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about me, and the people I collaborate with (or at least read!)"
+      },
+      "date": 1454488309163
+    },
+    {
+      "type": "add",
+      "id": "aa5ebd0203376ad2",
+      "item": {
+        "type": "paragraph",
+        "id": "aa5ebd0203376ad2",
+        "text": "[[Inspirations]]"
+      },
+      "after": "9d473a6ba60bdbae",
+      "date": 1454488327485
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "[[The Hidden History of Online LEarning]]"
+      },
+      "date": 1486642104050
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "[[The Hidden History of Online Learning]]"
+      },
+      "date": 1486642110467
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e5e169c7e106f1b1"
+      },
+      "id": "e5e169c7e106f1b1",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1486642316252
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7a20c6ccff52ba9e"
+      },
+      "id": "7a20c6ccff52ba9e",
+      "type": "add",
+      "after": "e5e169c7e106f1b1",
+      "date": 1486642319229
+    },
+    {
+      "type": "remove",
+      "id": "e5e169c7e106f1b1",
+      "date": 1486642320733
+    },
+    {
+      "type": "edit",
+      "id": "7a20c6ccff52ba9e",
+      "item": {
+        "type": "markdown",
+        "id": "7a20c6ccff52ba9e",
+        "text": "Start pages forked from elsewhere:"
+      },
+      "date": 1486642331278
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "e5d2b0d3d1e24051",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "6145632e8849c392",
+        "9d473a6ba60bdbae",
+        "aa5ebd0203376ad2",
+        "7a20c6ccff52ba9e",
+        "2bbd646ff3f44b51",
+        "a67f176000831d2d",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "7a20c6ccff52ba9e",
+      "date": 1486642335965
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "e5d2b0d3d1e24051",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "6145632e8849c392",
+        "a67f176000831d2d",
+        "9d473a6ba60bdbae",
+        "aa5ebd0203376ad2",
+        "7a20c6ccff52ba9e",
+        "2bbd646ff3f44b51",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "a67f176000831d2d",
+      "date": 1486642341557
+    },
+    {
+      "type": "add",
+      "id": "b2d06700b1ceb755",
+      "item": {
+        "type": "paragraph",
+        "id": "b2d06700b1ceb755",
+        "text": "[[Fedwiki: The Big Picture]]"
+      },
+      "after": "2bbd646ff3f44b51",
+      "date": 1486642358277
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b8d81c060d223a68"
+      },
+      "id": "b8d81c060d223a68",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1486642394986
+    },
+    {
+      "type": "edit",
+      "id": "b8d81c060d223a68",
+      "item": {
+        "type": "markdown",
+        "id": "b8d81c060d223a68",
+        "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!*"
+      },
+      "date": 1486642399872
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d37e20209277a2d"
+      },
+      "id": "1d37e20209277a2d",
+      "type": "add",
+      "after": "b8d81c060d223a68",
+      "date": 1522066200853
+    },
+    {
+      "type": "edit",
+      "id": "1d37e20209277a2d",
+      "item": {
+        "type": "roster",
+        "id": "1d37e20209277a2d",
+        "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors"
+      },
+      "date": 1522066215327
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "e5d2b0d3d1e24051",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "1d37e20209277a2d",
+        "6145632e8849c392",
+        "a67f176000831d2d",
+        "9d473a6ba60bdbae",
+        "aa5ebd0203376ad2",
+        "7a20c6ccff52ba9e",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "ee416d431ebf4fb4",
+        "b8d81c060d223a68"
+      ],
+      "id": "1d37e20209277a2d",
+      "date": 1522066220466
+    },
+    {
+      "type": "remove",
+      "id": "6145632e8849c392",
+      "date": 1522066234769
+    },
+    {
+      "type": "remove",
+      "id": "9d473a6ba60bdbae",
+      "date": 1522220423126
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1522220705923
+    },
+    {
+      "type": "remove",
+      "id": "b2d06700b1ceb755",
+      "date": 1522220708787
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby. Also [[Site Index]] for all local pages"
+      },
+      "date": 1522221986727
+    }
+  ]
+}

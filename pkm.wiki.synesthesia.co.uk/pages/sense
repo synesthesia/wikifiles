@@ -1,0 +1,185 @@
+{
+  "title": "Sense",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "77f882a26f37fd58",
+      "text": "In terms of [[Personal Knowledge Management]]"
+    },
+    {
+      "type": "html",
+      "id": "83b4793c529d9b3b",
+      "text": "<i>Internalising knowledge</i>"
+    },
+    {
+      "type": "html",
+      "id": "824a9599f53fa64e",
+      "text": "<i>Reflection</i> / [[Reflection Workflow]]\n"
+    },
+    {
+      "type": "html",
+      "id": "7f8b493d83edec66",
+      "text": "<i>Utilising knowledge</i>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Sense",
+        "story": []
+      },
+      "date": 1522228321885
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "77f882a26f37fd58",
+        "text": "In terms of [[Personal Knowledge Management]]"
+      },
+      "id": "77f882a26f37fd58",
+      "type": "add",
+      "date": 1522228324796
+    },
+    {
+      "type": "edit",
+      "id": "77f882a26f37fd58",
+      "item": {
+        "type": "paragraph",
+        "id": "77f882a26f37fd58",
+        "text": "In terms of [[Personal Knowledge Management]]"
+      },
+      "date": 1522228342112
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b3e383b509003ebb",
+        "text": ""
+      },
+      "id": "b3e383b509003ebb",
+      "type": "add",
+      "after": "77f882a26f37fd58",
+      "date": 1522228370411
+    },
+    {
+      "type": "remove",
+      "id": "b3e383b509003ebb",
+      "date": 1522228398996
+    },
+    {
+      "item": {
+        "type": "html",
+        "id": "83b4793c529d9b3b",
+        "text": "<i>Internalising knowledge</i>"
+      },
+      "id": "83b4793c529d9b3b",
+      "type": "add",
+      "after": "77f882a26f37fd58",
+      "date": 1522228401154
+    },
+    {
+      "type": "edit",
+      "id": "83b4793c529d9b3b",
+      "item": {
+        "type": "html",
+        "id": "83b4793c529d9b3b",
+        "text": "<i>Internalising knowledge</i>"
+      },
+      "date": 1522228403726
+    },
+    {
+      "type": "add",
+      "id": "7f8b493d83edec66",
+      "item": {
+        "type": "html",
+        "id": "7f8b493d83edec66",
+        "text": "<i>Utilising knowledge</i>"
+      },
+      "after": "83b4793c529d9b3b",
+      "date": 1522228417021
+    },
+    {
+      "type": "edit",
+      "id": "83b4793c529d9b3b",
+      "item": {
+        "type": "html",
+        "id": "83b4793c529d9b3b",
+        "text": "<i>Internalising knowledge</i>"
+      },
+      "date": 1522228418663
+    },
+    {
+      "type": "edit",
+      "id": "7f8b493d83edec66",
+      "item": {
+        "type": "html",
+        "id": "7f8b493d83edec66",
+        "text": "<i>Utilising knowledge</i>"
+      },
+      "date": 1522228419536
+    },
+    {
+      "item": {
+        "type": "html",
+        "id": "824a9599f53fa64e",
+        "text": "<i>Reflection</i>"
+      },
+      "id": "824a9599f53fa64e",
+      "type": "add",
+      "after": "7f8b493d83edec66",
+      "date": 1522228433504
+    },
+    {
+      "type": "edit",
+      "id": "824a9599f53fa64e",
+      "item": {
+        "type": "html",
+        "id": "824a9599f53fa64e",
+        "text": "<i>Reflection</i>"
+      },
+      "date": 1522228446446
+    },
+    {
+      "type": "edit",
+      "id": "824a9599f53fa64e",
+      "item": {
+        "type": "html",
+        "id": "824a9599f53fa64e",
+        "text": "<i>Reflection</i>"
+      },
+      "date": 1522228448223
+    },
+    {
+      "type": "move",
+      "order": [
+        "77f882a26f37fd58",
+        "83b4793c529d9b3b",
+        "824a9599f53fa64e",
+        "7f8b493d83edec66",
+        "bd57d60bda63a8ee"
+      ],
+      "id": "824a9599f53fa64e",
+      "date": 1522228449582,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1522228453336
+    },
+    {
+      "type": "edit",
+      "id": "824a9599f53fa64e",
+      "item": {
+        "type": "html",
+        "id": "824a9599f53fa64e",
+        "text": "<i>Reflection</i> / [[Reflection Workflow]]\n"
+      },
+      "date": 1522323320704
+    }
+  ]
+}

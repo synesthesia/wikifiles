@@ -1,0 +1,362 @@
+{
+  "title": "Welcome Visitors",
+  "story": [
+    {
+      "text": "Welcome to this [[Federated Wiki]] site. ",
+      "id": "7b56f22a4b9ee974",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "2ac11f8df56b47d7",
+      "text": "This is where I keep code and coding-related notes."
+    },
+    {
+      "type": "markdown",
+      "id": "b1bea368697866f0",
+      "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!*\n"
+    },
+    {
+      "type": "roster",
+      "id": "798a3a9b67a723c7",
+      "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors"
+    },
+    {
+      "type": "paragraph",
+      "id": "5cfeeecb2ddc82be",
+      "text": "[[Domain Driven Design]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "af1945546f160590",
+      "text": "[[JavaScript]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d71c87c252ae2bb8",
+      "text": "[[Extreme Programming]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ee416d431ebf4fb4",
+      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Welcome Visitors",
+        "story": []
+      },
+      "date": 1420938191608
+    },
+    {
+      "type": "add",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "id": "7b56f22a4b9ee974",
+      "date": 1420938199166
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about us."
+      },
+      "after": "7b56f22a4b9ee974",
+      "id": "821827c99b90cfd1",
+      "date": 1420938202921
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below."
+      },
+      "after": "821827c99b90cfd1",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1420938208737
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages where we do and share."
+      },
+      "after": "63ad2e58eecdd9e5",
+      "id": "2bbd646ff3f44b51",
+      "date": 1420938212624
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+      },
+      "after": "2bbd646ff3f44b51",
+      "id": "05e2fa92643677ca",
+      "date": 1420938216782
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "after": "05e2fa92643677ca",
+      "id": "ee416d431ebf4fb4",
+      "date": 1420938220851
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1486640071681,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1486640090782,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1486641113223
+    },
+    {
+      "type": "add",
+      "id": "2ac11f8df56b47d7",
+      "item": {
+        "type": "paragraph",
+        "id": "2ac11f8df56b47d7",
+        "text": "This is where I keep code and coding-related notes"
+      },
+      "after": "7b56f22a4b9ee974",
+      "date": 1486641124138
+    },
+    {
+      "type": "add",
+      "id": "3c76fcc1548f5758",
+      "item": {
+        "type": "paragraph",
+        "id": "3c76fcc1548f5758",
+        "text": "[[My Wikis]]"
+      },
+      "after": "2ac11f8df56b47d7",
+      "date": 1486641128764
+    },
+    {
+      "type": "add",
+      "id": "5cfeeecb2ddc82be",
+      "item": {
+        "type": "paragraph",
+        "id": "5cfeeecb2ddc82be",
+        "text": "[[Domain Driven Design]]"
+      },
+      "after": "3c76fcc1548f5758",
+      "date": 1486641137183
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b1bea368697866f0"
+      },
+      "id": "b1bea368697866f0",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1486641195323
+    },
+    {
+      "type": "fork",
+      "date": 1486641197109
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1486641210206
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1486641214183
+    },
+    {
+      "type": "add",
+      "id": "af1945546f160590",
+      "item": {
+        "type": "paragraph",
+        "id": "af1945546f160590",
+        "text": "[[JavaScript]]"
+      },
+      "after": "5cfeeecb2ddc82be",
+      "date": 1486641259164
+    },
+    {
+      "type": "add",
+      "id": "d71c87c252ae2bb8",
+      "item": {
+        "type": "paragraph",
+        "id": "d71c87c252ae2bb8",
+        "text": "[[Extreme Programming]]"
+      },
+      "after": "af1945546f160590",
+      "date": 1486641531822
+    },
+    {
+      "type": "edit",
+      "id": "2ac11f8df56b47d7",
+      "item": {
+        "type": "paragraph",
+        "id": "2ac11f8df56b47d7",
+        "text": "This is where I keep code and coding-related notes."
+      },
+      "date": 1486641829263
+    },
+    {
+      "type": "add",
+      "id": "1908c09c2063c273",
+      "item": {
+        "type": "paragraph",
+        "id": "1908c09c2063c273",
+        "text": "*NB because this is [{Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!"
+      },
+      "after": "2ac11f8df56b47d7",
+      "date": 1486641876122
+    },
+    {
+      "type": "edit",
+      "id": "1908c09c2063c273",
+      "item": {
+        "type": "paragraph",
+        "id": "1908c09c2063c273",
+        "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!*"
+      },
+      "date": 1486641911323
+    },
+    {
+      "type": "edit",
+      "id": "b1bea368697866f0",
+      "item": {
+        "type": "markdown",
+        "id": "b1bea368697866f0",
+        "text": "*NB because *\n"
+      },
+      "date": 1486641926689
+    },
+    {
+      "type": "edit",
+      "id": "b1bea368697866f0",
+      "item": {
+        "type": "markdown",
+        "id": "b1bea368697866f0",
+        "text": "* NB because *\n"
+      },
+      "date": 1486641939544
+    },
+    {
+      "type": "edit",
+      "id": "b1bea368697866f0",
+      "item": {
+        "type": "markdown",
+        "id": "b1bea368697866f0",
+        "text": "*NB because*\n"
+      },
+      "date": 1486641948623
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2ac11f8df56b47d7",
+        "b1bea368697866f0",
+        "1908c09c2063c273",
+        "3c76fcc1548f5758",
+        "5cfeeecb2ddc82be",
+        "af1945546f160590",
+        "d71c87c252ae2bb8",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "b1bea368697866f0",
+      "date": 1486641960755
+    },
+    {
+      "type": "edit",
+      "id": "b1bea368697866f0",
+      "item": {
+        "type": "markdown",
+        "id": "b1bea368697866f0",
+        "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!*\n"
+      },
+      "date": 1486641975775
+    },
+    {
+      "type": "remove",
+      "id": "1908c09c2063c273",
+      "date": 1486641978826
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "798a3a9b67a723c7"
+      },
+      "id": "798a3a9b67a723c7",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1522066345655
+    },
+    {
+      "type": "edit",
+      "id": "798a3a9b67a723c7",
+      "item": {
+        "type": "roster",
+        "id": "798a3a9b67a723c7",
+        "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors"
+      },
+      "date": 1522066359555
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2ac11f8df56b47d7",
+        "b1bea368697866f0",
+        "798a3a9b67a723c7",
+        "3c76fcc1548f5758",
+        "5cfeeecb2ddc82be",
+        "af1945546f160590",
+        "d71c87c252ae2bb8",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "798a3a9b67a723c7",
+      "date": 1522066362547
+    },
+    {
+      "type": "remove",
+      "id": "3c76fcc1548f5758",
+      "date": 1522066366943
+    }
+  ]
+}

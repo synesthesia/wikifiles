@@ -1,0 +1,507 @@
+{
+  "title": "First tips for newbies",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0e432f6cf770f804",
+      "text": "This page is for people who are new to #fedwiki but were unable to join the happening when Mike and Ward were available to support us."
+    },
+    {
+      "type": "paragraph",
+      "id": "4140d8467780e30d",
+      "text": "Basically: you need to create your own fedwiki, connect it to others (create a neighborhood) then follow \"recent changes\" of other people and collaborate with them (edit their work, see if they've edited yours, etc).. There are many models for how to do this."
+    },
+    {
+      "type": "paragraph",
+      "id": "00b23551240152f2",
+      "text": "First step: create a self-hosted #fedwiki or ask Mike to create a hosted account for you"
+    },
+    {
+      "type": "paragraph",
+      "id": "bbfbc46b6a5f7bc3",
+      "text": "Warning: NEVER fork someone else's page that has the same name as a page of your own unless you mean to overwrite your own page (and definitely NOT the welcome visitors page because that will mess things up for you - we need clarification on how to solve this problem on our own when it does happen - for now, just avoid it)"
+    },
+    {
+      "type": "paragraph",
+      "id": "14b36baf852f09d0",
+      "text": "Second step: you need to become part of some neighborhoods so you can fork other people's pages and they can see yours. Mike can do that for you, but there is also a way to do it manually. I am able to add people to my own \"happening folks\" list by dragging their bio page as a reference in my happening folks page - see [[About Reference plugin]] - you would need to do the same for people whom you want to include in your own neighborhood"
+    },
+    {
+      "type": "markdown",
+      "id": "df9e2b86de753c28",
+      "text": "##Important: Yellow/Orange Halo in Fed wiki\nThis is apparently the most common technical issue with fedwiki and it will drive you nuts until you figure it out (which is actually quite easy): Read Mike's post [http://tinyletter.com/m42/letters/fedwiki-daily-3-skirting-the-orange-halo-of-death html] and watch his [https://www.youtube.com/watch?v=GFwRiyp5jp4 video]."
+    },
+    {
+      "type": "video",
+      "id": "ae042823231cb5c3",
+      "text": " YOUTUBE GFwRiyp5jp4"
+    },
+    {
+      "type": "paragraph",
+      "id": "52c328737665876c",
+      "text": "Also check out [[Introducing Fedwiki to Others]] which has several useful links"
+    },
+    {
+      "type": "markdown",
+      "id": "f18f005d747161c4",
+      "text": "If you want access to everyone in my neighborhood, from your own fedwiki, enter mine and fork the [[Happening Folks]] page. Note: you need to be inside your own account to do this; you can't login to someone else's fedwiki (in the current setup anyway)"
+    },
+    {
+      "type": "markdown",
+      "id": "c97ad6d4a2d8a6a2",
+      "text": "See also [[Understanding the Journal]] and [[Understanding the Factory]]"
+    },
+    {
+      "type": "factory",
+      "id": "87c1d195e7f9d83c"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "First tips for newbies",
+        "story": []
+      },
+      "date": 1420350099655
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0e432f6cf770f804"
+      },
+      "id": "0e432f6cf770f804",
+      "type": "add",
+      "date": 1420350101285
+    },
+    {
+      "type": "edit",
+      "id": "0e432f6cf770f804",
+      "item": {
+        "type": "paragraph",
+        "id": "0e432f6cf770f804",
+        "text": "This page is for people who are new to #fedwiki but were unable to join the happening when Mike and Ward were available to support us."
+      },
+      "date": 1420350123328
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "839e3bd295a04956"
+      },
+      "id": "839e3bd295a04956",
+      "type": "add",
+      "after": "00b23551240152f2",
+      "date": 1420350150165
+    },
+    {
+      "type": "add",
+      "id": "00b23551240152f2",
+      "item": {
+        "type": "paragraph",
+        "id": "00b23551240152f2",
+        "text": "First step: create a self-hosted #fedwiki or ask Mike to create a hosted account for you"
+      },
+      "after": "0e432f6cf770f804",
+      "date": 1420350152398
+    },
+    {
+      "type": "remove",
+      "id": "839e3bd295a04956",
+      "date": 1420350153966
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "14b36baf852f09d0"
+      },
+      "id": "14b36baf852f09d0",
+      "type": "add",
+      "after": "00b23551240152f2",
+      "date": 1420350155502
+    },
+    {
+      "type": "edit",
+      "id": "14b36baf852f09d0",
+      "item": {
+        "type": "paragraph",
+        "id": "14b36baf852f09d0",
+        "text": "Second step: you need to become part of some neighborhoods. Mike can do that for you, but there is also a way to do it manually. I am able to add people to my own \"happening folks\" list by dragging their bio page as a reference - see [[About Reference plugin]]"
+      },
+      "date": 1420350208663
+    },
+    {
+      "type": "edit",
+      "id": "14b36baf852f09d0",
+      "item": {
+        "type": "paragraph",
+        "id": "14b36baf852f09d0",
+        "text": "Second step: you need to become part of some neighborhoods so you can fork other people's pages and they can see yours. Mike can do that for you, but there is also a way to do it manually. I am able to add people to my own \"happening folks\" list by dragging their bio page as a reference in my happening folks page - see [[About Reference plugin]] - you would need to do the same for people whom you want to include in your own neighborhood"
+      },
+      "date": 1420350264460
+    },
+    {
+      "type": "add",
+      "id": "bbfbc46b6a5f7bc3",
+      "item": {
+        "type": "paragraph",
+        "id": "bbfbc46b6a5f7bc3",
+        "text": "Step 1.5 - NEVER fork someone else's page that has the same name as a page of your own (and definitely NOT the welcome visitors page because that will mess things up for you - we need clarification on how to solve this problem on our own when it does happen - for now, just avoid it)"
+      },
+      "after": "00b23551240152f2",
+      "date": 1420350333128
+    },
+    {
+      "type": "edit",
+      "id": "bbfbc46b6a5f7bc3",
+      "item": {
+        "type": "paragraph",
+        "id": "bbfbc46b6a5f7bc3",
+        "text": "Warning: NEVER fork someone else's page that has the same name as a page of your own unless you mean to overwrite your own page (and definitely NOT the welcome visitors page because that will mess things up for you - we need clarification on how to solve this problem on our own when it does happen - for now, just avoid it)"
+      },
+      "date": 1420350940606
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a2d73d9f796a1fbf"
+      },
+      "id": "a2d73d9f796a1fbf",
+      "type": "add",
+      "after": "14b36baf852f09d0",
+      "date": 1420351072430
+    },
+    {
+      "type": "edit",
+      "id": "a2d73d9f796a1fbf",
+      "item": {
+        "type": "factory",
+        "id": "a2d73d9f796a1fbf",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"https://www.youtube.com/\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "https://www.youtube.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0"
+        }
+      },
+      "date": 1420351079953
+    },
+    {
+      "type": "edit",
+      "id": "a2d73d9f796a1fbf",
+      "item": {
+        "type": "factory",
+        "id": "a2d73d9f796a1fbf",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "userAgent": "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0"
+        }
+      },
+      "date": 1420351084528
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d3fe77b72e04722"
+      },
+      "id": "1d3fe77b72e04722",
+      "type": "add",
+      "after": "a2d73d9f796a1fbf",
+      "date": 1420351092487
+    },
+    {
+      "type": "remove",
+      "id": "1d3fe77b72e04722",
+      "date": 1420351098591
+    },
+    {
+      "type": "edit",
+      "id": "a2d73d9f796a1fbf",
+      "item": {
+        "type": "factory",
+        "id": "a2d73d9f796a1fbf",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "userAgent": "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0"
+        }
+      },
+      "date": 1420351100787
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "df9e2b86de753c28"
+      },
+      "id": "df9e2b86de753c28",
+      "type": "add",
+      "after": "a2d73d9f796a1fbf",
+      "date": 1420351151318
+    },
+    {
+      "type": "edit",
+      "id": "df9e2b86de753c28",
+      "item": {
+        "type": "markdown",
+        "id": "df9e2b86de753c28",
+        "text": "##Important: Yellow/Orange Halo in Fed wiki\nThis is apparently the most common technical issue with fedwiki and it will drive you nuts until you figure it out (which is actually quite easy): Read Mike's post and watch his video."
+      },
+      "date": 1420351203764
+    },
+    {
+      "type": "edit",
+      "id": "df9e2b86de753c28",
+      "item": {
+        "type": "markdown",
+        "id": "df9e2b86de753c28",
+        "text": "##Important: Yellow/Orange Halo in Fed wiki\nThis is apparently the most common technical issue with fedwiki and it will drive you nuts until you figure it out (which is actually quite easy): Read Mike's post [http://tinyletter.com/m42/letters/fedwiki-daily-3-skirting-the-orange-halo-of-death html] and watch his video."
+      },
+      "date": 1420351224234
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a344f597730578f0"
+      },
+      "id": "a344f597730578f0",
+      "type": "add",
+      "after": "df9e2b86de753c28",
+      "date": 1420351239506
+    },
+    {
+      "type": "edit",
+      "id": "df9e2b86de753c28",
+      "item": {
+        "type": "markdown",
+        "id": "df9e2b86de753c28",
+        "text": "##Important: Yellow/Orange Halo in Fed wiki\nThis is apparently the most common technical issue with fedwiki and it will drive you nuts until you figure it out (which is actually quite easy): Read Mike's post [http://tinyletter.com/m42/letters/fedwiki-daily-3-skirting-the-orange-halo-of-death html] and watch his [https://www.youtube.com/watch?v=GFwRiyp5jp4 video]."
+      },
+      "date": 1420351241359
+    },
+    {
+      "type": "remove",
+      "id": "a344f597730578f0",
+      "date": 1420351243010
+    },
+    {
+      "type": "remove",
+      "id": "a2d73d9f796a1fbf",
+      "date": 1420351245783
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "13141d1c8afaad6d"
+      },
+      "id": "13141d1c8afaad6d",
+      "type": "add",
+      "after": "df9e2b86de753c28",
+      "date": 1420351315949
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b465994c5ffc174d"
+      },
+      "id": "b465994c5ffc174d",
+      "type": "add",
+      "after": "13141d1c8afaad6d",
+      "date": 1420351324383
+    },
+    {
+      "type": "edit",
+      "id": "13141d1c8afaad6d",
+      "item": {
+        "type": "markdown",
+        "id": "13141d1c8afaad6d",
+        "text": "YOUTUBE GFwRiyp5jp4"
+      },
+      "date": 1420351326381
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "afd52161edb89117"
+      },
+      "id": "afd52161edb89117",
+      "type": "add",
+      "after": "b465994c5ffc174d",
+      "date": 1420351335634
+    },
+    {
+      "type": "edit",
+      "id": "b465994c5ffc174d",
+      "item": {
+        "type": "paragraph",
+        "id": "b465994c5ffc174d",
+        "text": "YOUTUBE GFwRiyp5jp4"
+      },
+      "date": 1420351337050
+    },
+    {
+      "type": "remove",
+      "id": "afd52161edb89117",
+      "date": 1420351348256
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e5fe6958757ee66c"
+      },
+      "id": "e5fe6958757ee66c",
+      "type": "add",
+      "after": "b465994c5ffc174d",
+      "date": 1420351425467
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "video",
+        "id": "ae042823231cb5c3",
+        "text": " YOUTUBE n9TWwG4SFWQ"
+      },
+      "after": "b465994c5ffc174d",
+      "id": "ae042823231cb5c3",
+      "date": 1420351438365
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "52c328737665876c"
+      },
+      "id": "52c328737665876c",
+      "type": "add",
+      "after": "e5fe6958757ee66c",
+      "date": 1420351456016
+    },
+    {
+      "type": "edit",
+      "id": "ae042823231cb5c3",
+      "item": {
+        "type": "video",
+        "id": "ae042823231cb5c3",
+        "text": " YOUTUBE GFwRiyp5jp4"
+      },
+      "date": 1420351457669
+    },
+    {
+      "type": "remove",
+      "id": "e5fe6958757ee66c",
+      "date": 1420351459439
+    },
+    {
+      "type": "remove",
+      "id": "b465994c5ffc174d",
+      "date": 1420351462495
+    },
+    {
+      "type": "remove",
+      "id": "13141d1c8afaad6d",
+      "date": 1420351464848
+    },
+    {
+      "type": "edit",
+      "id": "52c328737665876c",
+      "item": {
+        "type": "paragraph",
+        "id": "52c328737665876c",
+        "text": "Also check out [[Introducing Fedwiki to Others]] which has several useful links"
+      },
+      "date": 1420351518541
+    },
+    {
+      "type": "add",
+      "id": "4140d8467780e30d",
+      "item": {
+        "type": "paragraph",
+        "id": "4140d8467780e30d",
+        "text": "Basically: you need to create your own fedwiki, connect it to others (create a neighborhood) then follow \"recent changes\" of other people and collaborate with them (edit their work, see if they've edited yours, etc).. There are many models for how to do this."
+      },
+      "after": "0e432f6cf770f804",
+      "date": 1420351608470
+    },
+    {
+      "type": "fork",
+      "site": "maha.uk.fedwikihappening.net",
+      "date": 1420400760033
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f18f005d747161c4"
+      },
+      "id": "f18f005d747161c4",
+      "type": "add",
+      "after": "52c328737665876c",
+      "site": "maha.uk.fedwikihappening.net",
+      "date": 1420400760019
+    },
+    {
+      "item": {
+        "type": "markdown",
+        "id": "e43155cc3e3f80c6"
+      },
+      "id": "e43155cc3e3f80c6",
+      "type": "add",
+      "after": "f18f005d747161c4",
+      "date": 1420400902455
+    },
+    {
+      "type": "edit",
+      "id": "f18f005d747161c4",
+      "item": {
+        "type": "markdown",
+        "id": "f18f005d747161c4",
+        "text": "If you want access to everyone in my neighborhood, from your own fedwiki, enter mine and fork the [[Happening Folks]] page. Note: you need to be inside your own account to do this; you can't login to someone else's fedwiki (in the current setup anyway)"
+      },
+      "date": 1420400904172
+    },
+    {
+      "type": "fork",
+      "date": 1420400908562
+    },
+    {
+      "type": "remove",
+      "id": "e43155cc3e3f80c6",
+      "date": 1420428078362
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c97ad6d4a2d8a6a2"
+      },
+      "id": "c97ad6d4a2d8a6a2",
+      "type": "add",
+      "after": "f18f005d747161c4",
+      "date": 1420437973386
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "87c1d195e7f9d83c"
+      },
+      "id": "87c1d195e7f9d83c",
+      "type": "add",
+      "after": "c97ad6d4a2d8a6a2",
+      "date": 1420437998344
+    },
+    {
+      "type": "edit",
+      "id": "c97ad6d4a2d8a6a2",
+      "item": {
+        "type": "markdown",
+        "id": "c97ad6d4a2d8a6a2",
+        "text": "See also [[Understanding the Journal]] and [[Understanding the Factory]]"
+      },
+      "date": 1420437999651
+    },
+    {
+      "type": "fork",
+      "site": "maha.uk.fedwikihappening.net",
+      "date": 1420472377172
+    },
+    {
+      "type": "fork",
+      "site": "jon.sf.fedwikihappening.net",
+      "date": 1454595897145
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "title": "Familiar Workflows",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3cee1803b52b90e5",
+      "text": "Many simple things that could be a button in a centralized system turn into a series of steps in federated wiki. We'll catalog them here as we notice them."
+    },
+    {
+      "type": "paragraph",
+      "id": "d1e60683b61a3fbe",
+      "text": "[[Broadcast Workflow]] from authority to community."
+    },
+    {
+      "type": "paragraph",
+      "id": "e27c44e4db5b4d8d",
+      "text": "[[Rename Workflow]] for better titles everywhere."
+    },
+    {
+      "type": "paragraph",
+      "id": "853c3d1cd9633f6e",
+      "text": "[[Reflection Workflow]] for systematic understanding."
+    },
+    {
+      "type": "paragraph",
+      "id": "fcb4e814c73eda8a",
+      "text": "[[Topic Split Workflow]] when one title is not enough."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Familiar Workflows",
+        "story": []
+      },
+      "date": 1469302415758
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "3cee1803b52b90e5",
+        "text": "Many simple things that could be a button in a centralized system turn into a series of steps in federated wiki. We'll catalog them here as we notice them."
+      },
+      "id": "3cee1803b52b90e5",
+      "date": 1469302433983
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d1e60683b61a3fbe",
+        "text": "[[Broadcast Workflow]] from authority to community."
+      },
+      "after": "3cee1803b52b90e5",
+      "id": "d1e60683b61a3fbe",
+      "date": 1469302437217
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e27c44e4db5b4d8d",
+        "text": "[[Rename Workflow]] for better titles everywhere."
+      },
+      "after": "d1e60683b61a3fbe",
+      "id": "e27c44e4db5b4d8d",
+      "date": 1469302442774
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "853c3d1cd9633f6e",
+        "text": "[[Reflection Workflow]] for systematic understanding."
+      },
+      "after": "e27c44e4db5b4d8d",
+      "id": "853c3d1cd9633f6e",
+      "date": 1469302446822
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "fcb4e814c73eda8a",
+        "text": "[[Topic Split Workflow]] when one title is not enough."
+      },
+      "after": "853c3d1cd9633f6e",
+      "id": "fcb4e814c73eda8a",
+      "date": 1469302451800
+    },
+    {
+      "type": "fork",
+      "date": 1469302598182
+    },
+    {
+      "type": "fork",
+      "site": "forage.ward.fed.wiki.org",
+      "date": 1469302607352
+    },
+    {
+      "type": "fork",
+      "site": "about.fed.wiki",
+      "date": 1522320887037
+    }
+  ]
+}

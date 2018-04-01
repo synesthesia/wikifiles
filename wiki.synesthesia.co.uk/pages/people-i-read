@@ -1,0 +1,303 @@
+{
+  "title": "People I read",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cf0a9490f85d3c9a",
+      "text": "To add a site (or collection of sites) to the search neighbourhood for the current session, click the >> at the end of each row"
+    },
+    {
+      "type": "roster",
+      "id": "3b6126ff71f45ccb",
+      "text": "M C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors"
+    },
+    {
+      "type": "roster",
+      "id": "5396f966b4352926",
+      "text": "Technology Sites (via c0de academy)\n\nREFERENCES c0de.academy/technology-sites"
+    },
+    {
+      "type": "roster",
+      "id": "ad7d0b8a0974c823",
+      "text": "ROSTER sites.fed.wiki/federation-directory"
+    },
+    {
+      "type": "paragraph",
+      "id": "a7cdd673bb128976",
+      "text": "Built using [[Rosters]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "People I read",
+        "story": []
+      },
+      "date": 1454425817268
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3b6126ff71f45ccb"
+      },
+      "id": "3b6126ff71f45ccb",
+      "type": "add",
+      "date": 1454425821689
+    },
+    {
+      "type": "edit",
+      "id": "3b6126ff71f45ccb",
+      "item": {
+        "type": "roster",
+        "id": "3b6126ff71f45ccb",
+        "text": "Mike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nAnd to experiment with Roster transclusion:\n\nWard's Roster\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors"
+      },
+      "date": 1454425825817
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6fb4d063b744db6a"
+      },
+      "id": "6fb4d063b744db6a",
+      "type": "add",
+      "after": "3b6126ff71f45ccb",
+      "date": 1454425860133
+    },
+    {
+      "type": "edit",
+      "id": "6fb4d063b744db6a",
+      "item": {
+        "type": "paragraph",
+        "id": "6fb4d063b744db6a",
+        "text": "Technology Sites\n\nREFERENCES c0de.academy/technology-sites"
+      },
+      "date": 1454425863695
+    },
+    {
+      "type": "remove",
+      "id": "6fb4d063b744db6a",
+      "date": 1454425868279
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5396f966b4352926"
+      },
+      "id": "5396f966b4352926",
+      "type": "add",
+      "after": "3b6126ff71f45ccb",
+      "date": 1454425869488
+    },
+    {
+      "type": "edit",
+      "id": "5396f966b4352926",
+      "item": {
+        "type": "roster",
+        "id": "5396f966b4352926",
+        "text": "Technology Sites\n\nREFERENCES c0de.academy/technology-sites"
+      },
+      "date": 1454425873404
+    },
+    {
+      "type": "edit",
+      "id": "5396f966b4352926",
+      "item": {
+        "type": "roster",
+        "id": "5396f966b4352926",
+        "text": "Technology Sites (via c0de academy)\n\nREFERENCES c0de.academy/technology-sites"
+      },
+      "date": 1454425891917
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a7cdd673bb128976"
+      },
+      "id": "a7cdd673bb128976",
+      "type": "add",
+      "after": "5396f966b4352926",
+      "date": 1454425926358
+    },
+    {
+      "type": "edit",
+      "id": "a7cdd673bb128976",
+      "item": {
+        "type": "paragraph",
+        "id": "a7cdd673bb128976",
+        "text": "Build using [[Rosters]]"
+      },
+      "date": 1454425939994
+    },
+    {
+      "type": "edit",
+      "id": "a7cdd673bb128976",
+      "item": {
+        "type": "paragraph",
+        "id": "a7cdd673bb128976",
+        "text": "Built using [[Rosters]]"
+      },
+      "date": 1454425945186
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2b0df084eefdba80"
+      },
+      "id": "2b0df084eefdba80",
+      "type": "add",
+      "after": "a7cdd673bb128976",
+      "date": 1454425992964
+    },
+    {
+      "type": "edit",
+      "id": "2b0df084eefdba80",
+      "item": {
+        "type": "roster",
+        "id": "2b0df084eefdba80",
+        "text": "Paul Rodwell\n\n"
+      },
+      "date": 1486642634408
+    },
+    {
+      "type": "edit",
+      "id": "2b0df084eefdba80",
+      "item": {
+        "type": "roster",
+        "id": "2b0df084eefdba80",
+        "text": "Paul Rodwell\nhttp://fedwiki.rodwell.me/\n\n"
+      },
+      "date": 1486642646801
+    },
+    {
+      "type": "edit",
+      "id": "2b0df084eefdba80",
+      "item": {
+        "type": "roster",
+        "id": "2b0df084eefdba80",
+        "text": "\n\n"
+      },
+      "date": 1486642675901
+    },
+    {
+      "type": "edit",
+      "id": "3b6126ff71f45ccb",
+      "item": {
+        "type": "roster",
+        "id": "3b6126ff71f45ccb",
+        "text": "Mike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nfedwiki.rodwell.me\n\nAnd to experiment with Roster transclusion:\n\nWard's Roster\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors"
+      },
+      "date": 1486642687900
+    },
+    {
+      "type": "edit",
+      "id": "3b6126ff71f45ccb",
+      "item": {
+        "type": "roster",
+        "id": "3b6126ff71f45ccb",
+        "text": "Mike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nAnd to experiment with Roster transclusion:\n\nWard's Roster\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors"
+      },
+      "date": 1522060928873
+    },
+    {
+      "type": "edit",
+      "id": "3b6126ff71f45ccb",
+      "item": {
+        "type": "roster",
+        "id": "3b6126ff71f45ccb",
+        "text": "M C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nAnd to experiment with Roster transclusion:\n\nWard's Roster\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors"
+      },
+      "date": 1522067337018
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ad7d0b8a0974c823"
+      },
+      "id": "ad7d0b8a0974c823",
+      "type": "add",
+      "after": "2b0df084eefdba80",
+      "date": 1522160375821
+    },
+    {
+      "type": "edit",
+      "id": "2b0df084eefdba80",
+      "item": {
+        "type": "roster",
+        "id": "2b0df084eefdba80",
+        "text": "\n"
+      },
+      "date": 1522160377640
+    },
+    {
+      "type": "edit",
+      "id": "ad7d0b8a0974c823",
+      "item": {
+        "type": "roster",
+        "id": "ad7d0b8a0974c823",
+        "text": "ROSTER sites.fed.wiki/federation-directory"
+      },
+      "date": 1522160380724
+    },
+    {
+      "type": "move",
+      "order": [
+        "3b6126ff71f45ccb",
+        "5396f966b4352926",
+        "ad7d0b8a0974c823",
+        "a7cdd673bb128976",
+        "2b0df084eefdba80"
+      ],
+      "id": "ad7d0b8a0974c823",
+      "date": 1522160383255
+    },
+    {
+      "type": "edit",
+      "id": "3b6126ff71f45ccb",
+      "item": {
+        "type": "roster",
+        "id": "3b6126ff71f45ccb",
+        "text": "M C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors"
+      },
+      "date": 1522160457240
+    },
+    {
+      "type": "remove",
+      "id": "2b0df084eefdba80",
+      "date": 1522160571593
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cf0a9490f85d3c9a"
+      },
+      "id": "cf0a9490f85d3c9a",
+      "type": "add",
+      "after": "a7cdd673bb128976",
+      "date": 1522160576756
+    },
+    {
+      "type": "move",
+      "order": [
+        "cf0a9490f85d3c9a",
+        "3b6126ff71f45ccb",
+        "5396f966b4352926",
+        "ad7d0b8a0974c823",
+        "a7cdd673bb128976"
+      ],
+      "id": "cf0a9490f85d3c9a",
+      "date": 1522160578884
+    },
+    {
+      "type": "edit",
+      "id": "cf0a9490f85d3c9a",
+      "item": {
+        "type": "paragraph",
+        "id": "cf0a9490f85d3c9a",
+        "text": "To add a site (or collection of sites) to the search neighbourhood for the current session, click the >> at the end of each row"
+      },
+      "date": 1522160609864
+    }
+  ]
+}

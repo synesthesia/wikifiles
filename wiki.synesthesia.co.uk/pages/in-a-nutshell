@@ -1,0 +1,976 @@
+{
+  "title": "In a Nutshell",
+  "story": [
+    {
+      "type": "html",
+      "id": "95ac2a1c0fb5de72",
+      "text": "<b>Excel</b>"
+    },
+    {
+      "type": "paragraph",
+      "id": "2ea07a97bf0fb1a3",
+      "text": "Federated Wiki is less like Microsoft Word, and more like Excel."
+    },
+    {
+      "type": "paragraph",
+      "id": "2e7736c2619e67b7",
+      "text": "If you think about Excel, it's a bit of a blank slate. It's the closest thing we have to what von Hippel called a \"user innovation toolkit\" and what Alan Kay called  [[Personal Dynamic Media]]. Kay actually said the two things that came closest to the revolution he envisioned were Excel and Hypercard. "
+    },
+    {
+      "type": "paragraph",
+      "id": "0e5305913c06ba62",
+      "text": "Why Excel? You open it up and some columns stare back at you. They're for adding numbers up right?"
+    },
+    {
+      "type": "html",
+      "id": "94ec5d6971c64cd8",
+      "text": "<b>The Use Is not the Tool</b>"
+    },
+    {
+      "type": "paragraph",
+      "id": "1cbb782e18c2a8e9",
+      "text": "Well, sure. "
+    },
+    {
+      "type": "paragraph",
+      "id": "27de0c785175b5a1",
+      "text": "But the form that collects our mailing list also goes into Excel. It can act as a database for the average person. "
+    },
+    {
+      "type": "paragraph",
+      "id": "b6b69440859fede0",
+      "text": "Engineers build complex simulations in Excel that model natural phenomena. Plug the right equations in, and watch how various levels of runoff promote or discourage bacterial growth. "
+    },
+    {
+      "type": "paragraph",
+      "id": "597dbb3a783b6c9e",
+      "text": "Walk through a model month by month, or minute by minute."
+    },
+    {
+      "type": "paragraph",
+      "id": "5ba42121f0936e25",
+      "text": "People use it as a list tool, or a project management interface, color coding different items to indicate status.  "
+    },
+    {
+      "type": "paragraph",
+      "id": "7652313f65dd9534",
+      "text": "Others have used its grid system to design floor layouts, or present quick UI mockups. "
+    },
+    {
+      "type": "paragraph",
+      "id": "dd1a5cec0f412b53",
+      "text": "You can use it as a cipher-solving code cracker. A working flight simulator. A fractal generator. A drum machine. The list goes on."
+    },
+    {
+      "type": "html",
+      "id": "a115c30a8c79a638",
+      "text": "<b>Powerful Ideas, Linked Together</b>"
+    },
+    {
+      "type": "paragraph",
+      "id": "d0c27ec01e955581",
+      "text": "So what exactly is Excel? "
+    },
+    {
+      "type": "paragraph",
+      "id": "6edd2c9973a4e89f",
+      "text": "Underneath all these uses are some commonalities. It's a way of approaching problems. It's a few powerful ideas that tied together can solve an infinite number of problems. "
+    },
+    {
+      "type": "paragraph",
+      "id": "d53624d74cfb21e6",
+      "text": "Some of those ideas? A grid system that allows annotation. Cells that can derive from other cells via formulas. Iteration: when a cell changes, other cells update based on a new value, and in turn any cells based on *them* update. Macros that can make decisions based on cell values. "
+    },
+    {
+      "type": "paragraph",
+      "id": "db1aaf9934fce48c",
+      "text": "Together those ideas are generative, the same way the basics of HyperCard were. And so a class on Excel is a class on using Excel for something particular. "
+    },
+    {
+      "type": "html",
+      "id": "30368586a6201a88",
+      "text": "<b>The Happening Is Not Fedwiki</b>"
+    },
+    {
+      "type": "paragraph",
+      "id": "4723d0f0dcc68b3f",
+      "text": "Most systems today are made to solve fairly narrow problems (and that's okay). But Federated Wiki is not a tool like that."
+    },
+    {
+      "type": "paragraph",
+      "id": "ff32069a84c3567f",
+      "text": "Federated Wiki is a tool that combines some powerful ideas to see what what happens. "
+    },
+    {
+      "type": "paragraph",
+      "id": "07e7a30d3a8fa9b1",
+      "text": "This is important to remember as we go through this Happening. This is not a course on Federated Wiki anymore than your budgeting course is on Excel. "
+    },
+    {
+      "type": "paragraph",
+      "id": "5e3cda746f4cef81",
+      "text": "We're going to introduce you to the subset of skills you need to participate in the Happening (but leave out other stuff). "
+    },
+    {
+      "type": "paragraph",
+      "id": "68449404862102b7",
+      "text": "We're going to introduce conventions that will make the Happening smoother for people (index pages and signed comments, for example). "
+    },
+    {
+      "type": "paragraph",
+      "id": "f4c5354d7f094668",
+      "text": "We hope you will follow our suggestions not because there is one way this must be done, but because most of them are about being a good neighbor to other participants."
+    },
+    {
+      "type": "paragraph",
+      "id": "2fc52f7824e8719f",
+      "text": "(If you want to just play around with Federated Wiki, but not engage with the Happening commmunity, you should probably do that elsewhere. It's easy to set up a site of your own. See [[Installing on Digital Ocean]])."
+    },
+    {
+      "type": "html",
+      "id": "593d59f595ad1a60",
+      "text": "<b>The End</b>"
+    },
+    {
+      "type": "paragraph",
+      "id": "dc7ab6693cbaa2c5",
+      "text": "At the end of this, we hope you will view the Happening fondly, and want to bring its methods into your pedagogy or product. But more importantly, we hope you will see the bigger ideas behind federated wiki, and get excited enough to build your own thing with Federated Wiki. "
+    },
+    {
+      "type": "paragraph",
+      "id": "ac75ae904325c4b9",
+      "text": "And to do that you probably want to have a grasp on not just the Happening but the ideas that undergird Federated Wiki. So bear with us."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "In a Nutshell",
+        "story": []
+      },
+      "date": 1422935096803
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2ea07a97bf0fb1a3"
+      },
+      "id": "2ea07a97bf0fb1a3",
+      "type": "add",
+      "date": 1422935098170
+    },
+    {
+      "type": "edit",
+      "id": "2ea07a97bf0fb1a3",
+      "item": {
+        "type": "paragraph",
+        "id": "2ea07a97bf0fb1a3",
+        "text": "Federated wiki is less like Microsoft Word, and more like Excel."
+      },
+      "date": 1422935126905
+    },
+    {
+      "type": "edit",
+      "id": "2ea07a97bf0fb1a3",
+      "item": {
+        "type": "paragraph",
+        "id": "2ea07a97bf0fb1a3",
+        "text": "Federated Wiki is less like Microsoft Word, and more like Excel."
+      },
+      "date": 1422935136138
+    },
+    {
+      "type": "add",
+      "id": "2e7736c2619e67b7",
+      "item": {
+        "type": "paragraph",
+        "id": "2e7736c2619e67b7",
+        "text": "If you think about Excel, it's a bit of a blank slate. It's the closest thing we have to what von Hippel called a \"user innovation toolkit\" and what Alan Kay called Dynamic Personal Media."
+      },
+      "after": "2ea07a97bf0fb1a3",
+      "date": 1422935385738
+    },
+    {
+      "type": "edit",
+      "id": "2e7736c2619e67b7",
+      "item": {
+        "type": "paragraph",
+        "id": "2e7736c2619e67b7",
+        "text": "If you think about Excel, it's a bit of a blank slate. It's the closest thing we have to what von Hippel called a \"user innovation toolkit\" and what Alan Kay called Dynamic Personal Media. Kay actually said the two things that came closest to the revolution he envisioned were Excel and Hypercard."
+      },
+      "date": 1422935516678
+    },
+    {
+      "type": "add",
+      "id": "0e5305913c06ba62",
+      "item": {
+        "type": "paragraph",
+        "id": "0e5305913c06ba62",
+        "text": "Why Excel? You open it up and some columns stare back at you. They're for adding numbers up right?"
+      },
+      "after": "2e7736c2619e67b7",
+      "date": 1422935583168
+    },
+    {
+      "type": "add",
+      "id": "1cbb782e18c2a8e9",
+      "item": {
+        "type": "paragraph",
+        "id": "1cbb782e18c2a8e9",
+        "text": "Well, sure. But the form that collects our mailing list also goes into Excel. Engineers build complex simulations in Excel that model natural phenomena. "
+      },
+      "after": "0e5305913c06ba62",
+      "date": 1422935717134
+    },
+    {
+      "type": "edit",
+      "id": "1cbb782e18c2a8e9",
+      "item": {
+        "type": "paragraph",
+        "id": "1cbb782e18c2a8e9",
+        "text": "Well, sure. But the form that collects our mailing list also goes into Excel. It can act as a database for the average person. "
+      },
+      "date": 1422935858732
+    },
+    {
+      "type": "add",
+      "id": "b6b69440859fede0",
+      "item": {
+        "type": "paragraph",
+        "id": "b6b69440859fede0",
+        "text": "Engineers build complex simulations in Excel that model natural phenomena. Plug the right equations in, and watch how various levels of runoff promote or discourage bacterial growth. "
+      },
+      "after": "1cbb782e18c2a8e9",
+      "date": 1422935927646
+    },
+    {
+      "type": "add",
+      "id": "5ba42121f0936e25",
+      "item": {
+        "type": "paragraph",
+        "id": "5ba42121f0936e25",
+        "text": "People use it as a list tool, or a project management interface, color coding different items to indicate status.  "
+      },
+      "after": "b6b69440859fede0",
+      "date": 1422935989238
+    },
+    {
+      "type": "add",
+      "id": "7652313f65dd9534",
+      "item": {
+        "type": "paragraph",
+        "id": "7652313f65dd9534",
+        "text": "Others have used its grid system to design floor layouts, or presentquick UI mockups. "
+      },
+      "after": "5ba42121f0936e25",
+      "date": 1422936175462
+    },
+    {
+      "type": "add",
+      "id": "dd1a5cec0f412b53",
+      "item": {
+        "type": "paragraph",
+        "id": "dd1a5cec0f412b53",
+        "text": "You can use it as a cipher-solving code cracker. "
+      },
+      "after": "7652313f65dd9534",
+      "date": 1422936353051
+    },
+    {
+      "type": "edit",
+      "id": "7652313f65dd9534",
+      "item": {
+        "type": "paragraph",
+        "id": "7652313f65dd9534",
+        "text": "Others have used its grid system to design floor layouts, or present quick UI mockups. "
+      },
+      "date": 1422936360175
+    },
+    {
+      "type": "edit",
+      "id": "dd1a5cec0f412b53",
+      "item": {
+        "type": "paragraph",
+        "id": "dd1a5cec0f412b53",
+        "text": "You can use it as a cipher-solving code cracker. A working flight simulator. "
+      },
+      "date": 1422936451092
+    },
+    {
+      "type": "edit",
+      "id": "dd1a5cec0f412b53",
+      "item": {
+        "type": "paragraph",
+        "id": "dd1a5cec0f412b53",
+        "text": "You can use it as a cipher-solving code cracker. A working flight simulator. A fractal generator. "
+      },
+      "date": 1422936560428
+    },
+    {
+      "type": "edit",
+      "id": "dd1a5cec0f412b53",
+      "item": {
+        "type": "paragraph",
+        "id": "dd1a5cec0f412b53",
+        "text": "You can use it as a cipher-solving code cracker. A working flight simulator. A fractal generator. A drum machine."
+      },
+      "date": 1422936613653
+    },
+    {
+      "type": "add",
+      "id": "d0c27ec01e955581",
+      "item": {
+        "type": "paragraph",
+        "id": "d0c27ec01e955581",
+        "text": "So what exactly is Excel? "
+      },
+      "after": "dd1a5cec0f412b53",
+      "date": 1422936644448
+    },
+    {
+      "type": "add",
+      "id": "6edd2c9973a4e89f",
+      "item": {
+        "type": "paragraph",
+        "id": "6edd2c9973a4e89f",
+        "text": "It's a few powerful ideas that tied together can solve an infinite number of problems. "
+      },
+      "after": "d0c27ec01e955581",
+      "date": 1422936692602
+    },
+    {
+      "type": "add",
+      "id": "d53624d74cfb21e6",
+      "item": {
+        "type": "paragraph",
+        "id": "d53624d74cfb21e6",
+        "text": "Some of those ideas? A grid system that allows annotation. Cells that can derive from other cells via formulas. Iteration: when a cell changes, other cells update based on a new value, and in turn any cells based on *them* update. Macros that can make decisions based on cell values. "
+      },
+      "after": "6edd2c9973a4e89f",
+      "date": 1422936924394
+    },
+    {
+      "type": "edit",
+      "id": "1cbb782e18c2a8e9",
+      "item": {
+        "type": "paragraph",
+        "id": "1cbb782e18c2a8e9",
+        "text": "Well, sure. "
+      },
+      "date": 1422979464177
+    },
+    {
+      "type": "add",
+      "id": "27de0c785175b5a1",
+      "item": {
+        "type": "paragraph",
+        "id": "27de0c785175b5a1",
+        "text": "But the form that collects our mailing list also goes into Excel. It can act as a database for the average person. "
+      },
+      "after": "1cbb782e18c2a8e9",
+      "date": 1422979465357
+    },
+    {
+      "type": "add",
+      "id": "4723d0f0dcc68b3f",
+      "item": {
+        "type": "paragraph",
+        "id": "4723d0f0dcc68b3f",
+        "text": "Most systems today are made to solve fairly narrow problems (and that's okay). But Federated Wiki is not a tool like that."
+      },
+      "after": "d53624d74cfb21e6",
+      "date": 1422979554883
+    },
+    {
+      "type": "add",
+      "id": "ff32069a84c3567f",
+      "item": {
+        "type": "paragraph",
+        "id": "ff32069a84c3567f",
+        "text": "Federated Wiki is a tool that combines some powerful ideas to see what would happen. "
+      },
+      "after": "4723d0f0dcc68b3f",
+      "date": 1422979652671
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "95ac2a1c0fb5de72"
+      },
+      "id": "95ac2a1c0fb5de72",
+      "type": "add",
+      "after": "ff32069a84c3567f",
+      "date": 1422994291985
+    },
+    {
+      "type": "edit",
+      "id": "95ac2a1c0fb5de72",
+      "item": {
+        "type": "paragraph",
+        "id": "95ac2a1c0fb5de72",
+        "text": "<b>Excel</b>"
+      },
+      "date": 1422994306696
+    },
+    {
+      "type": "move",
+      "order": [
+        "95ac2a1c0fb5de72",
+        "2ea07a97bf0fb1a3",
+        "2e7736c2619e67b7",
+        "0e5305913c06ba62",
+        "1cbb782e18c2a8e9",
+        "27de0c785175b5a1",
+        "b6b69440859fede0",
+        "5ba42121f0936e25",
+        "7652313f65dd9534",
+        "dd1a5cec0f412b53",
+        "d0c27ec01e955581",
+        "6edd2c9973a4e89f",
+        "d53624d74cfb21e6",
+        "4723d0f0dcc68b3f",
+        "ff32069a84c3567f"
+      ],
+      "id": "95ac2a1c0fb5de72",
+      "date": 1422994310635
+    },
+    {
+      "type": "edit",
+      "id": "95ac2a1c0fb5de72",
+      "item": {
+        "type": "html",
+        "id": "95ac2a1c0fb5de72",
+        "text": "<b>Excel</b>"
+      },
+      "date": 1422994312231
+    },
+    {
+      "type": "add",
+      "id": "a115c30a8c79a638",
+      "item": {
+        "type": "paragraph",
+        "id": "a115c30a8c79a638",
+        "text": "<b>Powerful Ideas, Linked Together</b>"
+      },
+      "after": "dd1a5cec0f412b53",
+      "date": 1422994366775
+    },
+    {
+      "type": "edit",
+      "id": "a115c30a8c79a638",
+      "item": {
+        "type": "html",
+        "id": "a115c30a8c79a638",
+        "text": "<b>Powerful Ideas, Linked Together</b>"
+      },
+      "date": 1422994369316
+    },
+    {
+      "type": "edit",
+      "id": "dd1a5cec0f412b53",
+      "item": {
+        "type": "paragraph",
+        "id": "dd1a5cec0f412b53",
+        "text": "You can use it as a cipher-solving code cracker. A working flight simulator. A fractal generator. A drum machine. The list goes on."
+      },
+      "date": 1422994429390
+    },
+    {
+      "type": "add",
+      "id": "07e7a30d3a8fa9b1",
+      "item": {
+        "type": "paragraph",
+        "id": "07e7a30d3a8fa9b1",
+        "text": "This is important to remember as we go through this Happening. This is not a course on Federated Wiki anymore than your budgeting course is on Excel. "
+      },
+      "after": "ff32069a84c3567f",
+      "date": 1422994584998
+    },
+    {
+      "type": "add",
+      "id": "30368586a6201a88",
+      "item": {
+        "type": "paragraph",
+        "id": "30368586a6201a88",
+        "text": "<b>The Happening Is Not Fedwiki</b>"
+      },
+      "after": "d53624d74cfb21e6",
+      "date": 1422994751543
+    },
+    {
+      "type": "edit",
+      "id": "30368586a6201a88",
+      "item": {
+        "type": "html",
+        "id": "30368586a6201a88",
+        "text": "<b>The Happening Is Not Fedwiki</b>"
+      },
+      "date": 1422994753990
+    },
+    {
+      "type": "add",
+      "id": "5e3cda746f4cef81",
+      "item": {
+        "type": "paragraph",
+        "id": "5e3cda746f4cef81",
+        "text": "We're going to introduce you to the subset of skills you need to participate in the Happening (but leave out other stuff). "
+      },
+      "after": "07e7a30d3a8fa9b1",
+      "date": 1422994817137
+    },
+    {
+      "type": "add",
+      "id": "68449404862102b7",
+      "item": {
+        "type": "paragraph",
+        "id": "68449404862102b7",
+        "text": "We're going to "
+      },
+      "after": "5e3cda746f4cef81",
+      "date": 1422994825824
+    },
+    {
+      "type": "edit",
+      "id": "68449404862102b7",
+      "item": {
+        "type": "paragraph",
+        "id": "68449404862102b7",
+        "text": "We're going to introduce conventions that will make the Happening smoother for people (index pages and signed comments, for example). We hope you will follow our suggestions not because there is one way wiki muct be done, but because most of them are about being a good neighbor to other participants."
+      },
+      "date": 1422995003034
+    },
+    {
+      "type": "add",
+      "id": "dc7ab6693cbaa2c5",
+      "item": {
+        "type": "paragraph",
+        "id": "dc7ab6693cbaa2c5",
+        "text": "At the end of this, we hope you will view the Happening fondly, and want to bring its methods into your pedagogy or product. B"
+      },
+      "after": "68449404862102b7",
+      "date": 1422995107008
+    },
+    {
+      "type": "add",
+      "id": "366065d1855c02e9",
+      "item": {
+        "type": "paragraph",
+        "id": "366065d1855c02e9",
+        "text": "But more importantly, we hope you will see the bigger ideas behind federated wiki, and "
+      },
+      "after": "dc7ab6693cbaa2c5",
+      "date": 1422995158544
+    },
+    {
+      "type": "edit",
+      "id": "68449404862102b7",
+      "item": {
+        "type": "paragraph",
+        "id": "68449404862102b7",
+        "text": "We're going to introduce conventions that will make the Happening smoother for people (index pages and signed comments, for example). We hope you will follow our suggestions not because there is one way wiki must be done, but because most of them are about being a good neighbor to other participants."
+      },
+      "date": 1422995165786
+    },
+    {
+      "type": "add",
+      "id": "2fc52f7824e8719f",
+      "item": {
+        "type": "paragraph",
+        "id": "2fc52f7824e8719f",
+        "text": "(If you want to just play around with federated wiki, but not engage with the Happening commmunity, you should probably do that elsewhere)."
+      },
+      "after": "68449404862102b7",
+      "date": 1422995219215
+    },
+    {
+      "type": "edit",
+      "id": "2fc52f7824e8719f",
+      "item": {
+        "type": "paragraph",
+        "id": "2fc52f7824e8719f",
+        "text": "(If you want to just play around with Federated Wiki, but not engage with the Happening commmunity, you should probably do that elsewhere)."
+      },
+      "date": 1422995230843
+    },
+    {
+      "type": "add",
+      "id": "593d59f595ad1a60",
+      "item": {
+        "type": "paragraph",
+        "id": "593d59f595ad1a60",
+        "text": "<b>The End</b>"
+      },
+      "after": "2fc52f7824e8719f",
+      "date": 1422995255600
+    },
+    {
+      "type": "edit",
+      "id": "593d59f595ad1a60",
+      "item": {
+        "type": "html",
+        "id": "593d59f595ad1a60",
+        "text": "<b>The End</b>"
+      },
+      "date": 1422995258168
+    },
+    {
+      "type": "edit",
+      "id": "ff32069a84c3567f",
+      "item": {
+        "type": "paragraph",
+        "id": "ff32069a84c3567f",
+        "text": "Federated Wiki is a tool that combines some powerful ideas to see what what happens. "
+      },
+      "date": 1422995316315
+    },
+    {
+      "type": "edit",
+      "id": "b6b69440859fede0",
+      "item": {
+        "type": "paragraph",
+        "id": "b6b69440859fede0",
+        "text": "Engineers build complex simulation in Excel that model natural phenomena. Plug the right equations in, and watch how various levels of runoff promote or discourage bacterial growth. Walk through a model month by month, or minute by minute."
+      },
+      "date": 1422995419018
+    },
+    {
+      "type": "add",
+      "id": "94ec5d6971c64cd8",
+      "item": {
+        "type": "paragraph",
+        "id": "94ec5d6971c64cd8",
+        "text": "<b>The Use Is not the Tool</b>"
+      },
+      "after": "0e5305913c06ba62",
+      "date": 1422995462171
+    },
+    {
+      "type": "edit",
+      "id": "94ec5d6971c64cd8",
+      "item": {
+        "type": "html",
+        "id": "94ec5d6971c64cd8",
+        "text": "<b>The Use Is not the Tool</b>"
+      },
+      "date": 1422995464625
+    },
+    {
+      "type": "edit",
+      "id": "b6b69440859fede0",
+      "item": {
+        "type": "paragraph",
+        "id": "b6b69440859fede0",
+        "text": "Engineers build complex simulations in Excel that model natural phenomena. Plug the right equations in, and watch how various levels of runoff promote or discourage bacterial growth. Walk through a model month by month, or minute by minute."
+      },
+      "date": 1422995486757
+    },
+    {
+      "type": "edit",
+      "id": "b6b69440859fede0",
+      "item": {
+        "type": "paragraph",
+        "id": "b6b69440859fede0",
+        "text": "Engineers build complex simulations in Excel that model natural phenomena. Plug the right equations in, and watch how various levels of runoff promote or discourage bacterial growth. "
+      },
+      "date": 1422995493828
+    },
+    {
+      "type": "add",
+      "id": "597dbb3a783b6c9e",
+      "item": {
+        "type": "paragraph",
+        "id": "597dbb3a783b6c9e",
+        "text": "Walk through a model month by month, or minute by minute."
+      },
+      "after": "b6b69440859fede0",
+      "date": 1422995495709
+    },
+    {
+      "type": "add",
+      "id": "db1aaf9934fce48c",
+      "item": {
+        "type": "paragraph",
+        "id": "db1aaf9934fce48c",
+        "text": "Together those ideas are generative, the same way the basics of HyperCard were. "
+      },
+      "after": "d53624d74cfb21e6",
+      "date": 1422995725023
+    },
+    {
+      "type": "edit",
+      "id": "db1aaf9934fce48c",
+      "item": {
+        "type": "paragraph",
+        "id": "db1aaf9934fce48c",
+        "text": "Together those ideas are generative, the same way the basics of HyperCard were. And so a class on Excel is a class on using Excel for something particular. "
+      },
+      "date": 1422995787312
+    },
+    {
+      "type": "edit",
+      "id": "68449404862102b7",
+      "item": {
+        "type": "paragraph",
+        "id": "68449404862102b7",
+        "text": "We're going to introduce conventions that will make the Happening smoother for people (index pages and signed comments, for example). We hope you will follow our suggestions not because there is one way this must be done, but because most of them are about being a good neighbor to other participants."
+      },
+      "date": 1422995829409
+    },
+    {
+      "type": "edit",
+      "id": "68449404862102b7",
+      "item": {
+        "type": "paragraph",
+        "id": "68449404862102b7",
+        "text": "We're going to introduce conventions that will make the Happening smoother for people (index pages and signed comments, for example). "
+      },
+      "date": 1422995845134
+    },
+    {
+      "type": "add",
+      "id": "f4c5354d7f094668",
+      "item": {
+        "type": "paragraph",
+        "id": "f4c5354d7f094668",
+        "text": "We hope you will follow our suggestions not because there is one way this must be done, but because most of them are about being a good neighbor to other participants."
+      },
+      "after": "68449404862102b7",
+      "date": 1422995846539
+    },
+    {
+      "type": "edit",
+      "id": "366065d1855c02e9",
+      "item": {
+        "type": "paragraph",
+        "id": "366065d1855c02e9",
+        "text": "But more importantly, we hope you will see the bigger ideas behind federated wiki, and get excited enough to build your own thing."
+      },
+      "date": 1422995894217
+    },
+    {
+      "type": "edit",
+      "id": "dc7ab6693cbaa2c5",
+      "item": {
+        "type": "paragraph",
+        "id": "dc7ab6693cbaa2c5",
+        "text": "At the end of this, we hope you will view the Happening fondly, and want to bring its methods into your pedagogy or product. "
+      },
+      "date": 1422995897852
+    },
+    {
+      "type": "edit",
+      "id": "366065d1855c02e9",
+      "item": {
+        "type": "paragraph",
+        "id": "366065d1855c02e9",
+        "text": "But more importantly, we hope you will see the bigger ideas behind federated wiki, and get excited enough to build your own thing with Federated Wiki. "
+      },
+      "date": 1422995910305
+    },
+    {
+      "type": "remove",
+      "id": "366065d1855c02e9",
+      "date": 1422995943872
+    },
+    {
+      "type": "edit",
+      "id": "dc7ab6693cbaa2c5",
+      "item": {
+        "type": "paragraph",
+        "id": "dc7ab6693cbaa2c5",
+        "text": "At the end of this, we hope you will view the Happening fondly, and want to bring its methods into your pedagogy or product. But more importantly, we hope you will see the bigger ideas behind federated wiki, and get excited enough to build your own thing with Federated Wiki. "
+      },
+      "date": 1422995949929
+    },
+    {
+      "type": "add",
+      "id": "ac75ae904325c4b9",
+      "item": {
+        "type": "paragraph",
+        "id": "ac75ae904325c4b9",
+        "text": "And to do that you probably want to have a grasp on not just the Happening but the ideas that undergird Federated Wiki. So bear with us."
+      },
+      "after": "dc7ab6693cbaa2c5",
+      "date": 1422996007899
+    },
+    {
+      "type": "edit",
+      "id": "6edd2c9973a4e89f",
+      "item": {
+        "type": "paragraph",
+        "id": "6edd2c9973a4e89f",
+        "text": "Underneath all these uses are some commonalities. It's a way of approaching problems. It's a few powerful ideas that tied together can solve an infinite number of problems. "
+      },
+      "date": 1422996074067
+    },
+    {
+      "type": "edit",
+      "id": "2e7736c2619e67b7",
+      "item": {
+        "type": "paragraph",
+        "id": "2e7736c2619e67b7",
+        "text": "If you think about Excel, it's a bit of a blank slate. It's the closest thing we have to what von Hippel called a \"user innovation toolkit\" and what Alan Kay called  [[Personal Dynamic Media]]. Kay actually said the two things that came closest to the revolution he envisioned were Excel and Hypercard."
+      },
+      "date": 1423156247009
+    },
+    {
+      "type": "edit",
+      "id": "2e7736c2619e67b7",
+      "item": {
+        "type": "paragraph",
+        "id": "2e7736c2619e67b7",
+        "text": "If you think about Excel, it's a bit of a blank slate. It's the closest thing we have to what von Hippel called a \"user innovation toolkit\" and what Alan Kay called  Personal Dynamic Media. Kay actually said the two things that came closest to the revolution he envisioned were Excel and Hypercard. See [[Personal Dynamic Media]]."
+      },
+      "date": 1423156324553
+    },
+    {
+      "type": "edit",
+      "id": "2e7736c2619e67b7",
+      "item": {
+        "type": "paragraph",
+        "id": "2e7736c2619e67b7",
+        "text": "If you think about Excel, it's a bit of a blank slate. It's the closest thing we have to what von Hippel called a \"user innovation toolkit\" and what Alan Kay called  Personal Dynamic Media. Kay actually said the two things that came closest to the revolution he envisioned were Excel and Hypercard. "
+      },
+      "date": 1423156343119
+    },
+    {
+      "type": "add",
+      "id": "92a61b58330b4b1d",
+      "item": {
+        "type": "paragraph",
+        "id": "92a61b58330b4b1d",
+        "text": "See [[Personal Dynamic Media]]."
+      },
+      "after": "2e7736c2619e67b7",
+      "date": 1423156344511
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a2e78fcd6ff57b6"
+      },
+      "id": "2a2e78fcd6ff57b6",
+      "type": "add",
+      "after": "ac75ae904325c4b9",
+      "date": 1423156394138
+    },
+    {
+      "type": "edit",
+      "id": "2a2e78fcd6ff57b6",
+      "item": {
+        "type": "reference",
+        "id": "2a2e78fcd6ff57b6",
+        "site": "journal.hapgood.net",
+        "slug": "personal-dynamic-media",
+        "title": "Personal Dynamic Media",
+        "text": "A term coined by [[Alan Kay]] to describe a way of using computers.  In Early History Of Smalltalk, Alan Kay explains how after seeing Seymour Papert's work with [[Logo Language]] he grew to see personal computing less as a \"personal dynamic vehicle\" and more as a \"personal dynamic medium\".  Instead of the computer being primarily used for its capacity to perform computation, what if it were used as a medium for communication?  Not just as a way for people to send each other text, or pictures, or sound, but as a way to send each other active, \"live\" simulations of their ideas?"
+      },
+      "date": 1423156397851
+    },
+    {
+      "type": "add",
+      "id": "20d0968ec230d23e",
+      "item": {
+        "type": "paragraph",
+        "id": "20d0968ec230d23e",
+        "text": "----"
+      },
+      "after": "ac75ae904325c4b9",
+      "date": 1423156409985
+    },
+    {
+      "type": "edit",
+      "id": "2a2e78fcd6ff57b6",
+      "item": {
+        "type": "reference",
+        "id": "2a2e78fcd6ff57b6",
+        "site": "journal.hapgood.net",
+        "slug": "personal-dynamic-media",
+        "title": "Personal Dynamic Media",
+        "text": "A term coined by [[Alan Kay]] to describe a way of using computers.  Kay envisioned a world where people could discuss things by passing dynamic, editable, models back and forth."
+      },
+      "date": 1423156499384
+    },
+    {
+      "type": "remove",
+      "id": "92a61b58330b4b1d",
+      "date": 1423156964676
+    },
+    {
+      "type": "edit",
+      "id": "2e7736c2619e67b7",
+      "item": {
+        "type": "paragraph",
+        "id": "2e7736c2619e67b7",
+        "text": "If you think about Excel, it's a bit of a blank slate. It's the closest thing we have to what von Hippel called a \"user innovation toolkit\" and what Alan Kay called  Personal Dynamic Media. Kay actually said the two things that came closest to the revolution he envisioned were Excel and Hypercard. See [[Personal Dynamic Media]]."
+      },
+      "date": 1423156967292
+    },
+    {
+      "type": "edit",
+      "id": "2e7736c2619e67b7",
+      "item": {
+        "type": "paragraph",
+        "id": "2e7736c2619e67b7",
+        "text": "If you think about Excel, it's a bit of a blank slate. It's the closest thing we have to what von Hippel called a \"user innovation toolkit\" and what Alan Kay called  Personal Dynamic Media. Kay actually said the two things that came closest to the revolution he envisioned were Excel and Hypercard. See [[Personal Dynamic Media]]"
+      },
+      "date": 1423156988425
+    },
+    {
+      "type": "edit",
+      "id": "2e7736c2619e67b7",
+      "item": {
+        "type": "paragraph",
+        "id": "2e7736c2619e67b7",
+        "text": "If you think about Excel, it's a bit of a blank slate. It's the closest thing we have to what von Hippel called a \"user innovation toolkit\" and what Alan Kay called  [[Personal Dynamic Media]]. Kay actually said the two things that came closest to the revolution he envisioned were Excel and Hypercard. "
+      },
+      "date": 1423157018048
+    },
+    {
+      "type": "edit",
+      "id": "2fc52f7824e8719f",
+      "item": {
+        "type": "paragraph",
+        "id": "2fc52f7824e8719f",
+        "text": "(If you want to just play around with Federated Wiki, but not engage with the Happening commmunity, you should probably do that elsewhere). It's easy to"
+      },
+      "date": 1423157094179
+    },
+    {
+      "type": "edit",
+      "id": "2fc52f7824e8719f",
+      "item": {
+        "type": "paragraph",
+        "id": "2fc52f7824e8719f",
+        "text": "(If you want to just play around with Federated Wiki, but not engage with the Happening commmunity, you should probably do that elsewhere). It's easy to set up a site of your own. See [[Installing on Digital Ocean]]"
+      },
+      "date": 1423157154140
+    },
+    {
+      "type": "remove",
+      "id": "2a2e78fcd6ff57b6",
+      "date": 1423157188944
+    },
+    {
+      "type": "edit",
+      "id": "2fc52f7824e8719f",
+      "item": {
+        "type": "paragraph",
+        "id": "2fc52f7824e8719f",
+        "text": "(If you want to just play around with Federated Wiki, but not engage with the Happening commmunity, you should probably do that elsewhere. It's easy to set up a site of your own. See [[Installing on Digital Ocean]])."
+      },
+      "date": 1423446911493
+    },
+    {
+      "type": "remove",
+      "id": "20d0968ec230d23e",
+      "date": 1423446914649
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454432142122
+    }
+  ]
+}

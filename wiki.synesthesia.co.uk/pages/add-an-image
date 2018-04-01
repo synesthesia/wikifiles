@@ -1,0 +1,189 @@
+{
+  "title": "Add an Image",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4633edf08a90dd3f",
+      "text": "We've made an encyclopedic page at this point, and it's time to add some other items to it. Here we add an image. "
+    },
+    {
+      "type": "paragraph",
+      "id": "fbce81f91bd8d304",
+      "text": "To add an [[Image]], first save your image locally. Please make sure the image is a reasonable size (less than 100K, ideally less than 50K)."
+    },
+    {
+      "type": "paragraph",
+      "id": "802b60c07c2c3485",
+      "text": "Go to the \"+\" sign at the bottom of the page and click it. You'll remember this is the [[Add Button]] that creates a [[Factory]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "d2c4b88f0536d0d6",
+      "text": "Drag the image from your desktop on top of the Factory and drop it. The image will be loaded into your page with the caption \"Uploaded Image\". To edit the caption, double click the image and type. "
+    },
+    {
+      "type": "paragraph",
+      "id": "eeb92326fe751352",
+      "text": "Remove all text from caption to delete. "
+    },
+    {
+      "type": "paragraph",
+      "id": "5fe1cd81e1d12404",
+      "text": "Due to the current revision saving architecture, every edit to the caption results in another copy of the image being saved to the page. Try to get the captioning done in one go, or use a [[Scratch Page]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Add an Image",
+        "story": []
+      },
+      "date": 1423104036929
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4633edf08a90dd3f"
+      },
+      "id": "4633edf08a90dd3f",
+      "type": "add",
+      "date": 1423104038459
+    },
+    {
+      "type": "edit",
+      "id": "4633edf08a90dd3f",
+      "item": {
+        "type": "paragraph",
+        "id": "4633edf08a90dd3f",
+        "text": "We've made an encyclopedic page at this point, and it's time to add some other items to it. Here we add an image. "
+      },
+      "date": 1423104161338
+    },
+    {
+      "type": "add",
+      "id": "fbce81f91bd8d304",
+      "item": {
+        "type": "paragraph",
+        "id": "fbce81f91bd8d304",
+        "text": "To add an image, go to the \"+\" sign at the bottom of the page. "
+      },
+      "after": "4633edf08a90dd3f",
+      "date": 1423104215399
+    },
+    {
+      "type": "edit",
+      "id": "fbce81f91bd8d304",
+      "item": {
+        "type": "paragraph",
+        "id": "fbce81f91bd8d304",
+        "text": "To add an image, first save your image locally. "
+      },
+      "date": 1423158651786
+    },
+    {
+      "type": "edit",
+      "id": "fbce81f91bd8d304",
+      "item": {
+        "type": "paragraph",
+        "id": "fbce81f91bd8d304",
+        "text": "To add an image, first save your image locally. Please make sure the image is a reasonable size (less than 100K, ideally less than 50K)."
+      },
+      "date": 1423158730865
+    },
+    {
+      "type": "add",
+      "id": "802b60c07c2c3485",
+      "item": {
+        "type": "paragraph",
+        "id": "802b60c07c2c3485",
+        "text": "Go to the \"+\" sign at the bottom of the page and click it. You'll remember this creates a [[Factory]]."
+      },
+      "after": "fbce81f91bd8d304",
+      "date": 1423158778981
+    },
+    {
+      "type": "edit",
+      "id": "802b60c07c2c3485",
+      "item": {
+        "type": "paragraph",
+        "id": "802b60c07c2c3485",
+        "text": "Go to the \"+\" sign at the bottom of the page and click it. You'll remember this is the [[Add Button]] that creates a [[Factory]]."
+      },
+      "date": 1423158806659
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d2c4b88f0536d0d6"
+      },
+      "id": "d2c4b88f0536d0d6",
+      "type": "add",
+      "after": "802b60c07c2c3485",
+      "date": 1423158848728
+    },
+    {
+      "type": "edit",
+      "id": "d2c4b88f0536d0d6",
+      "item": {
+        "type": "paragraph",
+        "id": "d2c4b88f0536d0d6",
+        "text": "Drag the image from your desktop on top of the Factory and drop it. The image will be loaded into your page with the caption \"Uploaded Image\". To edit the caption, double click the image and type. "
+      },
+      "date": 1423158991356
+    },
+    {
+      "type": "add",
+      "id": "eeb92326fe751352",
+      "item": {
+        "type": "paragraph",
+        "id": "eeb92326fe751352",
+        "text": "Remove all text from caption to delete. "
+      },
+      "after": "d2c4b88f0536d0d6",
+      "date": 1423159003757
+    },
+    {
+      "type": "add",
+      "id": "e2c17fd07f255089",
+      "item": {
+        "type": "paragraph",
+        "id": "e2c17fd07f255089",
+        "text": "See [[Image]]"
+      },
+      "after": "eeb92326fe751352",
+      "date": 1423159010672
+    },
+    {
+      "type": "edit",
+      "id": "fbce81f91bd8d304",
+      "item": {
+        "type": "paragraph",
+        "id": "fbce81f91bd8d304",
+        "text": "To add an [[Image]], first save your image locally. Please make sure the image is a reasonable size (less than 100K, ideally less than 50K)."
+      },
+      "date": 1423159559751
+    },
+    {
+      "type": "remove",
+      "id": "e2c17fd07f255089",
+      "date": 1423159593204
+    },
+    {
+      "type": "add",
+      "id": "5fe1cd81e1d12404",
+      "item": {
+        "type": "paragraph",
+        "id": "5fe1cd81e1d12404",
+        "text": "Due to the current revision saving architecture, every edit to the caption results in another copy of the image being saved to the page. Try to get the captioning done in one go, or use a [[Scratch Page]]."
+      },
+      "after": "eeb92326fe751352",
+      "date": 1423178054319
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454432181497
+    }
+  ]
+}

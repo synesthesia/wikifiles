@@ -1,0 +1,149 @@
+{
+  "title": "StreamMode",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "a8fd116b761be59e",
+      "text": "*StreamMode (that running serialization that sees all things as sequenced speech events)*\n\n\nMike Caulfield : **Peak StreamMode** [https://hapgood.us/2014/09/07/peak-streammode/ post]\n\n\n\n\n\n\n"
+    },
+    {
+      "type": "html",
+      "id": "4a1584a45d57d426",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "7e3ea9e8d882b43d",
+      "text": "cf [[StateMode]]"
+    }
+  ],
+  "journal": [
+    {
+      "item": {
+        "type": "html",
+        "id": "4a1584a45d57d426",
+        "text": ""
+      },
+      "id": "4a1584a45d57d426",
+      "type": "add",
+      "after": "a8fd116b761be59e",
+      "date": 1522059608306,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "a8fd116b761be59e",
+      "item": {
+        "type": "markdown",
+        "id": "a8fd116b761be59e",
+        "text": "> we’re pushing too much of our output through what I have decided to call StreamMode (that running serialization that sees all things as sequenced speech events) and too little of our output though StateMode (that iterative mode which sees our work as existing as a sort of snapshot of us and our ideas). We used to work in hybrid forms — self-contained blog posts that were serialized to RSS, Flickr collections with new photos feed. Increasingly, however, we are abandoning StateMode altogether. Instead of Flickr we have Instagram, instead of blogging we have Twitter and Tumblr. Everything is placed on a timeline, and very little is integrated in any greater way than “X came after Y”. You can take my location history, interleave it with my tweets, my Netflix viewing patterns, my Facebook likes, my GoodReads additions. It’s all just one big soup of timestamps.\n\n\n### References\n\nMike Caulfield : Peak StreamMode [https://hapgood.us/2014/09/07/peak-streammode/ post] \n\n"
+      },
+      "date": 1522058333542
+    },
+    {
+      "type": "edit",
+      "id": "a8fd116b761be59e",
+      "item": {
+        "type": "markdown",
+        "id": "a8fd116b761be59e",
+        "text": "\n\n\nReferences:\n\nMike Caulfield : Peak StreamMode [https://hapgood.us/2014/09/07/peak-streammode/ post] \n\n"
+      },
+      "date": 1522058295890
+    },
+    {
+      "type": "edit",
+      "id": "a8fd116b761be59e",
+      "item": {
+        "type": "markdown",
+        "id": "a8fd116b761be59e",
+        "text": "References:\n\nMike Caulfield : Peak StreamMode [https://hapgood.us/2014/09/07/peak-streammode/ post] \n\n"
+      },
+      "date": 1522058236352
+    },
+    {
+      "type": "edit",
+      "id": "a8fd116b761be59e",
+      "item": {
+        "type": "markdown",
+        "id": "a8fd116b761be59e",
+        "text": "References:\n\nMike Caulfield : [Peak StreamMode](https://hapgood.us/2014/09/07/peak-streammode/)\n\n"
+      },
+      "date": 1522057995632
+    },
+    {
+      "type": "edit",
+      "id": "a8fd116b761be59e",
+      "item": {
+        "type": "markdown",
+        "id": "a8fd116b761be59e",
+        "text": "References:\n\nMike Caulfield : [Peak StreamMode]9https://hapgood.us/2014/09/07/peak-streammode/)\n\n"
+      },
+      "date": 1522057988743
+    },
+    {
+      "type": "edit",
+      "id": "a8fd116b761be59e",
+      "item": {
+        "type": "markdown",
+        "id": "a8fd116b761be59e",
+        "text": "References:\n\nMike Caulfield : \n\n"
+      },
+      "date": 1522057970058
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a8fd116b761be59e"
+      },
+      "id": "a8fd116b761be59e",
+      "type": "add",
+      "date": 1522057942601
+    },
+    {
+      "type": "create",
+      "item": {
+        "title": "StreamMode",
+        "story": []
+      },
+      "date": 1522057939401
+    },
+    {
+      "type": "fork",
+      "date": 1522060189835
+    },
+    {
+      "type": "edit",
+      "id": "a8fd116b761be59e",
+      "item": {
+        "type": "markdown",
+        "id": "a8fd116b761be59e",
+        "text": "*StreamMode (that running serialization that sees all things as sequenced speech events)*\n\n\nMike Caulfield : **Peak StreamMode** [https://hapgood.us/2014/09/07/peak-streammode/ post]\n\n\n\n\n\n\n"
+      },
+      "date": 1522060264145
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7e3ea9e8d882b43d"
+      },
+      "id": "7e3ea9e8d882b43d",
+      "type": "add",
+      "after": "4a1584a45d57d426",
+      "date": 1522060269058
+    },
+    {
+      "type": "edit",
+      "id": "7e3ea9e8d882b43d",
+      "item": {
+        "type": "paragraph",
+        "id": "7e3ea9e8d882b43d",
+        "text": "cf [[StateMode]]"
+      },
+      "date": 1522060270929
+    }
+  ]
+}

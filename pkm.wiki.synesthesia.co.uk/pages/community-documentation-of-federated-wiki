@@ -1,0 +1,679 @@
+{
+  "title": "Community Documentation of Federated Wiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "efaf16157d812544",
+      "text": "[[Understanding the Factory]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c2f9e6c3316c9b44",
+      "text": "[[Understanding the Journal]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "43d0f9c9a3ee7986",
+      "text": "[[Understanding Links]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "878671809e64d74e",
+      "text": "[[Understanding Twins]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9b4cf3955ab9f94c",
+      "text": "[[Working with FedWiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "531bde4e05c3b7bb",
+      "text": "[[Composing and Editing in Federated Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "632779f84c18b652",
+      "text": "[[First tips for newbies]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "66f880ee911a72e9",
+      "text": "[[Installing on Digital Ocean]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "0d92c60ea0325e5f",
+      "text": "Pages that could be written"
+    },
+    {
+      "type": "paragraph",
+      "id": "61a1ef2b8e363f7f",
+      "text": "Understanding the Neighborhood"
+    },
+    {
+      "type": "paragraph",
+      "id": "8157488479c3f9f9",
+      "text": "Understanding Forking"
+    },
+    {
+      "type": "paragraph",
+      "id": "fc0d809e181e62fc",
+      "text": "Understanding Page Halo Colors and Ghost Pages"
+    },
+    {
+      "type": "paragraph",
+      "id": "a8204091e4491086",
+      "text": "Understanding References"
+    },
+    {
+      "type": "paragraph",
+      "id": "7d4da9735c58c898",
+      "text": "Advanced Editing in Federated Wiki"
+    },
+    {
+      "type": "pagefold",
+      "id": "4eaabda87a633e75",
+      "text": "Pages that already exist to explain things"
+    },
+    {
+      "type": "paragraph",
+      "id": "d1f3938735d31c28",
+      "text": "[[Kate Bowles]] Below are really useful pages that I still don't fully understand. This suggests to me that they might not work for other users. Or it might just be me."
+    },
+    {
+      "type": "paragraph",
+      "id": "c1a973be873452f6",
+      "text": "[[Erased Image History]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Community Documentation of Federated Wiki",
+        "story": []
+      },
+      "date": 1420476428559
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "efaf16157d812544"
+      },
+      "id": "efaf16157d812544",
+      "type": "add",
+      "date": 1420476459026
+    },
+    {
+      "type": "edit",
+      "id": "efaf16157d812544",
+      "item": {
+        "type": "paragraph",
+        "id": "efaf16157d812544",
+        "text": "[[Understanding the Factory]]"
+      },
+      "date": 1420476469234
+    },
+    {
+      "type": "add",
+      "id": "c2f9e6c3316c9b44",
+      "item": {
+        "type": "paragraph",
+        "id": "c2f9e6c3316c9b44",
+        "text": "[[Understanding the Journal]]"
+      },
+      "after": "efaf16157d812544",
+      "date": 1420476480007
+    },
+    {
+      "type": "add",
+      "id": "531bde4e05c3b7bb",
+      "item": {
+        "type": "paragraph",
+        "id": "531bde4e05c3b7bb",
+        "text": "Composing and Editing in Federate"
+      },
+      "after": "c2f9e6c3316c9b44",
+      "date": 1420476488521
+    },
+    {
+      "type": "edit",
+      "id": "531bde4e05c3b7bb",
+      "item": {
+        "type": "paragraph",
+        "id": "531bde4e05c3b7bb",
+        "text": "[[Composing and Editing in Federated Wiki]]"
+      },
+      "date": 1420476502790
+    },
+    {
+      "type": "add",
+      "id": "632779f84c18b652",
+      "item": {
+        "type": "paragraph",
+        "id": "632779f84c18b652",
+        "text": "[[First tips for newbies]]"
+      },
+      "after": "531bde4e05c3b7bb",
+      "date": 1420476514251
+    },
+    {
+      "type": "fork",
+      "site": "jon.sf.fedwikihappening.net",
+      "date": 1420495471318
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "43d0f9c9a3ee7986"
+      },
+      "id": "43d0f9c9a3ee7986",
+      "type": "add",
+      "after": "632779f84c18b652",
+      "date": 1420495488153
+    },
+    {
+      "type": "edit",
+      "id": "43d0f9c9a3ee7986",
+      "item": {
+        "type": "paragraph",
+        "id": "43d0f9c9a3ee7986",
+        "text": "[[Creating New Pages and Links in Federated Wiki]]"
+      },
+      "date": 1420495500065
+    },
+    {
+      "type": "move",
+      "order": [
+        "efaf16157d812544",
+        "c2f9e6c3316c9b44",
+        "43d0f9c9a3ee7986",
+        "531bde4e05c3b7bb",
+        "632779f84c18b652"
+      ],
+      "id": "43d0f9c9a3ee7986",
+      "date": 1420495502436
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a569fa28d1274eb4"
+      },
+      "id": "a569fa28d1274eb4",
+      "type": "add",
+      "after": "632779f84c18b652",
+      "date": 1420495517851
+    },
+    {
+      "type": "remove",
+      "id": "a569fa28d1274eb4",
+      "date": 1420495598958
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0d92c60ea0325e5f"
+      },
+      "id": "0d92c60ea0325e5f",
+      "type": "add",
+      "after": "632779f84c18b652",
+      "date": 1420496020342
+    },
+    {
+      "type": "edit",
+      "id": "0d92c60ea0325e5f",
+      "item": {
+        "type": "pagefold",
+        "id": "0d92c60ea0325e5f",
+        "text": "Pages that could be written"
+      },
+      "date": 1420496062596
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "61a1ef2b8e363f7f"
+      },
+      "id": "61a1ef2b8e363f7f",
+      "type": "add",
+      "after": "0d92c60ea0325e5f",
+      "date": 1420496066849
+    },
+    {
+      "type": "edit",
+      "id": "61a1ef2b8e363f7f",
+      "item": {
+        "type": "paragraph",
+        "id": "61a1ef2b8e363f7f",
+        "text": "Understanding the Neighborhood"
+      },
+      "date": 1420496078413
+    },
+    {
+      "type": "edit",
+      "id": "61a1ef2b8e363f7f",
+      "item": {
+        "type": "paragraph",
+        "id": "61a1ef2b8e363f7f",
+        "text": "Understanding the Neighborhood: realistically this should have the US spelling. Australians and others can just grind our teeth."
+      },
+      "date": 1420496106678
+    },
+    {
+      "type": "edit",
+      "id": "61a1ef2b8e363f7f",
+      "item": {
+        "type": "paragraph",
+        "id": "61a1ef2b8e363f7f",
+        "text": "Understanding the Neighborhood: realistically this probably should have the US spelling. "
+      },
+      "date": 1420496129372
+    },
+    {
+      "type": "edit",
+      "id": "61a1ef2b8e363f7f",
+      "item": {
+        "type": "paragraph",
+        "id": "61a1ef2b8e363f7f",
+        "text": "Understanding the Neighborhood"
+      },
+      "date": 1420496136013
+    },
+    {
+      "type": "add",
+      "id": "878671809e64d74e",
+      "item": {
+        "type": "paragraph",
+        "id": "878671809e64d74e",
+        "text": "Understanding the Twins "
+      },
+      "after": "61a1ef2b8e363f7f",
+      "date": 1420496163223
+    },
+    {
+      "type": "edit",
+      "id": "878671809e64d74e",
+      "item": {
+        "type": "paragraph",
+        "id": "878671809e64d74e",
+        "text": "Understanding the Twins"
+      },
+      "date": 1420496175868
+    },
+    {
+      "type": "add",
+      "id": "8157488479c3f9f9",
+      "item": {
+        "type": "paragraph",
+        "id": "8157488479c3f9f9",
+        "text": "Understanding Forking"
+      },
+      "after": "878671809e64d74e",
+      "date": 1420496182499
+    },
+    {
+      "type": "add",
+      "id": "7d4da9735c58c898",
+      "item": {
+        "type": "paragraph",
+        "id": "7d4da9735c58c898",
+        "text": "Advanced Editing in Federated Wiki"
+      },
+      "after": "8157488479c3f9f9",
+      "date": 1420496254877
+    },
+    {
+      "type": "add",
+      "id": "fc0d809e181e62fc",
+      "item": {
+        "type": "paragraph",
+        "id": "fc0d809e181e62fc",
+        "text": "Understanding Ghost Pages"
+      },
+      "after": "8157488479c3f9f9",
+      "date": 1420496272850
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4eaabda87a633e75"
+      },
+      "id": "4eaabda87a633e75",
+      "type": "add",
+      "after": "7d4da9735c58c898",
+      "date": 1420496295076
+    },
+    {
+      "type": "edit",
+      "id": "4eaabda87a633e75",
+      "item": {
+        "type": "pagefold",
+        "id": "4eaabda87a633e75",
+        "text": "Pages that exist and need to be included"
+      },
+      "date": 1420496309113
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c1a973be873452f6"
+      },
+      "id": "c1a973be873452f6",
+      "type": "add",
+      "after": "4eaabda87a633e75",
+      "date": 1420496355108
+    },
+    {
+      "type": "edit",
+      "id": "c1a973be873452f6",
+      "item": {
+        "type": "paragraph",
+        "id": "c1a973be873452f6",
+        "text": "[[Erased Image History]]"
+      },
+      "date": 1420496362843
+    },
+    {
+      "type": "edit",
+      "id": "4eaabda87a633e75",
+      "item": {
+        "type": "pagefold",
+        "id": "4eaabda87a633e75",
+        "text": "Really useful pages that already exist"
+      },
+      "date": 1420496377438
+    },
+    {
+      "type": "edit",
+      "id": "4eaabda87a633e75",
+      "item": {
+        "type": "pagefold",
+        "id": "4eaabda87a633e75",
+        "text": "Pages that already exist to explain things"
+      },
+      "date": 1420496406694
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d1f3938735d31c28"
+      },
+      "id": "d1f3938735d31c28",
+      "type": "add",
+      "after": "c1a973be873452f6",
+      "date": 1420496419700
+    },
+    {
+      "type": "edit",
+      "id": "d1f3938735d31c28",
+      "item": {
+        "type": "paragraph",
+        "id": "d1f3938735d31c28",
+        "text": "Below are pages that don't quite meet the lowest-threshhold test: can a user with very little technical language work with this? -- Kate"
+      },
+      "date": 1420496500233
+    },
+    {
+      "type": "move",
+      "order": [
+        "efaf16157d812544",
+        "c2f9e6c3316c9b44",
+        "43d0f9c9a3ee7986",
+        "531bde4e05c3b7bb",
+        "632779f84c18b652",
+        "0d92c60ea0325e5f",
+        "61a1ef2b8e363f7f",
+        "878671809e64d74e",
+        "8157488479c3f9f9",
+        "fc0d809e181e62fc",
+        "7d4da9735c58c898",
+        "4eaabda87a633e75",
+        "d1f3938735d31c28",
+        "c1a973be873452f6"
+      ],
+      "id": "d1f3938735d31c28",
+      "date": 1420496501983
+    },
+    {
+      "type": "edit",
+      "id": "d1f3938735d31c28",
+      "item": {
+        "type": "paragraph",
+        "id": "d1f3938735d31c28",
+        "text": "[[Kate Bowles]] Below are pages that don't quite meet the lowest-threshhold test: can a user with very little technical language work with this?"
+      },
+      "date": 1420496521348
+    },
+    {
+      "type": "edit",
+      "id": "d1f3938735d31c28",
+      "item": {
+        "type": "paragraph",
+        "id": "d1f3938735d31c28",
+        "text": "[[Kate Bowles]] Below are really useful pages that don't quite meet the lowest-threshhold test: can a user with very little technical language work with this? #IMJBM == It Might Just Be Me."
+      },
+      "date": 1420496577820
+    },
+    {
+      "type": "edit",
+      "id": "d1f3938735d31c28",
+      "item": {
+        "type": "paragraph",
+        "id": "d1f3938735d31c28",
+        "text": "[[Kate Bowles]] Below are really useful pages that don't quite meet the lowest-threshhold test: can a user with very little technical language work with this? #IMJBM = It Might Just Be Me."
+      },
+      "date": 1420496585632
+    },
+    {
+      "type": "edit",
+      "id": "d1f3938735d31c28",
+      "item": {
+        "type": "paragraph",
+        "id": "d1f3938735d31c28",
+        "text": "[[Kate Bowles]] Below are really useful pages that don't quite meet the lowest-threshhold test: can a user with very little technical language work with this? #IMJBM: It Might Just Be Me."
+      },
+      "date": 1420496594343
+    },
+    {
+      "type": "move",
+      "order": [
+        "efaf16157d812544",
+        "c2f9e6c3316c9b44",
+        "43d0f9c9a3ee7986",
+        "531bde4e05c3b7bb",
+        "632779f84c18b652",
+        "0d92c60ea0325e5f",
+        "61a1ef2b8e363f7f",
+        "878671809e64d74e",
+        "8157488479c3f9f9",
+        "fc0d809e181e62fc",
+        "d1f3938735d31c28",
+        "7d4da9735c58c898",
+        "4eaabda87a633e75",
+        "c1a973be873452f6"
+      ],
+      "id": "d1f3938735d31c28",
+      "date": 1420496610857
+    },
+    {
+      "type": "move",
+      "order": [
+        "efaf16157d812544",
+        "c2f9e6c3316c9b44",
+        "43d0f9c9a3ee7986",
+        "531bde4e05c3b7bb",
+        "632779f84c18b652",
+        "0d92c60ea0325e5f",
+        "61a1ef2b8e363f7f",
+        "878671809e64d74e",
+        "8157488479c3f9f9",
+        "fc0d809e181e62fc",
+        "7d4da9735c58c898",
+        "4eaabda87a633e75",
+        "d1f3938735d31c28",
+        "c1a973be873452f6"
+      ],
+      "id": "d1f3938735d31c28",
+      "date": 1420496623095
+    },
+    {
+      "type": "edit",
+      "id": "d1f3938735d31c28",
+      "item": {
+        "type": "paragraph",
+        "id": "d1f3938735d31c28",
+        "text": "[[Kate Bowles]] Below are really useful pages that I still don't fully understand. This suggests to me that they might not work for other users. Or it might just be me."
+      },
+      "date": 1420496693675
+    },
+    {
+      "type": "edit",
+      "id": "878671809e64d74e",
+      "item": {
+        "type": "paragraph",
+        "id": "878671809e64d74e",
+        "text": "Understanding Twins"
+      },
+      "date": 1420496706041
+    },
+    {
+      "type": "edit",
+      "id": "fc0d809e181e62fc",
+      "item": {
+        "type": "paragraph",
+        "id": "fc0d809e181e62fc",
+        "text": "Understanding Page Halo Colors and Ghost Pages"
+      },
+      "date": 1420496740617
+    },
+    {
+      "type": "add",
+      "id": "a8204091e4491086",
+      "item": {
+        "type": "paragraph",
+        "id": "a8204091e4491086",
+        "text": "Understanding References"
+      },
+      "after": "fc0d809e181e62fc",
+      "date": 1420496767693
+    },
+    {
+      "type": "fork",
+      "site": "kate.au.fedwikihappening.net",
+      "date": 1420507293677
+    },
+    {
+      "type": "edit",
+      "id": "43d0f9c9a3ee7986",
+      "item": {
+        "type": "paragraph",
+        "id": "43d0f9c9a3ee7986",
+        "text": "[[Understanding Links]]"
+      },
+      "date": 1420822489284
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9b4cf3955ab9f94c"
+      },
+      "id": "9b4cf3955ab9f94c",
+      "type": "add",
+      "after": "c1a973be873452f6",
+      "date": 1420822576949
+    },
+    {
+      "type": "move",
+      "order": [
+        "efaf16157d812544",
+        "c2f9e6c3316c9b44",
+        "43d0f9c9a3ee7986",
+        "9b4cf3955ab9f94c",
+        "531bde4e05c3b7bb",
+        "632779f84c18b652",
+        "0d92c60ea0325e5f",
+        "61a1ef2b8e363f7f",
+        "878671809e64d74e",
+        "8157488479c3f9f9",
+        "fc0d809e181e62fc",
+        "a8204091e4491086",
+        "7d4da9735c58c898",
+        "4eaabda87a633e75",
+        "d1f3938735d31c28",
+        "c1a973be873452f6"
+      ],
+      "id": "9b4cf3955ab9f94c",
+      "date": 1420822582032
+    },
+    {
+      "type": "edit",
+      "id": "9b4cf3955ab9f94c",
+      "item": {
+        "type": "paragraph",
+        "id": "9b4cf3955ab9f94c",
+        "text": "[[Working with FedWiki]]"
+      },
+      "date": 1420822592541
+    },
+    {
+      "type": "fork",
+      "site": "jon.sf.fedwikihappening.net",
+      "date": 1420823198186
+    },
+    {
+      "type": "edit",
+      "id": "878671809e64d74e",
+      "item": {
+        "type": "paragraph",
+        "id": "878671809e64d74e",
+        "text": "[[Understanding Twins]]"
+      },
+      "date": 1420823273832
+    },
+    {
+      "type": "move",
+      "order": [
+        "efaf16157d812544",
+        "c2f9e6c3316c9b44",
+        "43d0f9c9a3ee7986",
+        "878671809e64d74e",
+        "9b4cf3955ab9f94c",
+        "531bde4e05c3b7bb",
+        "632779f84c18b652",
+        "0d92c60ea0325e5f",
+        "61a1ef2b8e363f7f",
+        "8157488479c3f9f9",
+        "fc0d809e181e62fc",
+        "a8204091e4491086",
+        "7d4da9735c58c898",
+        "4eaabda87a633e75",
+        "d1f3938735d31c28",
+        "c1a973be873452f6"
+      ],
+      "id": "878671809e64d74e",
+      "date": 1420826755870
+    },
+    {
+      "type": "fork",
+      "site": "journal.hapgood.net",
+      "date": 1420829350267
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "66f880ee911a72e9",
+        "text": "[[Installing on Digital Ocean]]"
+      },
+      "after": "632779f84c18b652",
+      "id": "66f880ee911a72e9",
+      "date": 1421455197126
+    },
+    {
+      "type": "fork",
+      "site": "jon.sf.fedwikihappening.net",
+      "date": 1454595756458
+    }
+  ]
+}

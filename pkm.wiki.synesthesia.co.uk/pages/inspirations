@@ -1,0 +1,163 @@
+{
+  "title": "Inspirations",
+  "story": [
+    {
+      "type": "html",
+      "id": "72ac91e56a111dd2",
+      "text": "<i>For each list of sites, click the >> to add to the search neighbourhood</i>"
+    },
+    {
+      "type": "roster",
+      "id": "42b5dfae7c6f3cbc",
+      "text": "Mike Caulfield\n\n(most of Mike's fedwikis seem to be down now except)\n\nhhol.mike.fed.wiki.org\n\n\n\n\nWard Cunningham\n\n\nROSTER ward.bay.wiki.org/welcome-visitors"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Inspirations",
+        "story": []
+      },
+      "date": 1454488359751
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "42b5dfae7c6f3cbc"
+      },
+      "id": "42b5dfae7c6f3cbc",
+      "type": "add",
+      "date": 1454488363473
+    },
+    {
+      "type": "edit",
+      "id": "42b5dfae7c6f3cbc",
+      "item": {
+        "type": "roster",
+        "id": "42b5dfae7c6f3cbc",
+        "text": "Mike Caulfield\n\njournal.hapgood.net"
+      },
+      "date": 1454488375501
+    },
+    {
+      "type": "edit",
+      "id": "42b5dfae7c6f3cbc",
+      "item": {
+        "type": "roster",
+        "id": "42b5dfae7c6f3cbc",
+        "text": "Mike Caulfield\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\ntl521a.hapgood.net\neditor.hapgood.net\nhhol.mike.fed.wiki.org\nschoolandsociety.hapgood.net\ndlrn.hapgood.net"
+      },
+      "date": 1454488406891
+    },
+    {
+      "type": "edit",
+      "id": "42b5dfae7c6f3cbc",
+      "item": {
+        "type": "roster",
+        "id": "42b5dfae7c6f3cbc",
+        "text": "Mike Caulfield\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\ntl521a.hapgood.net\neditor.hapgood.net\nhhol.mike.fed.wiki.org\nschoolandsociety.hapgood.net\ndlrn.hapgood.net\n\nWard Cunningham (ward)\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org"
+      },
+      "date": 1454488475851
+    },
+    {
+      "type": "edit",
+      "id": "42b5dfae7c6f3cbc",
+      "item": {
+        "type": "roster",
+        "id": "42b5dfae7c6f3cbc",
+        "text": "Mike Caulfield\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\ntl521a.hapgood.net\neditor.hapgood.net\nhhol.mike.fed.wiki.org\nschoolandsociety.hapgood.net\ndlrn.hapgood.net\n\nWard Cunningham\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org"
+      },
+      "date": 1454488486285
+    },
+    {
+      "type": "edit",
+      "id": "42b5dfae7c6f3cbc",
+      "item": {
+        "type": "roster",
+        "id": "42b5dfae7c6f3cbc",
+        "text": "Mike Caulfield\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\ntl521a.hapgood.net\neditor.hapgood.net\nhhol.mike.fed.wiki.org\nschoolandsociety.hapgood.net\ndlrn.hapgood.net\n\nWard Cunningham\n\nROSTER ward.bay.wiki.org/welcome-visitors"
+      },
+      "date": 1522228763998
+    },
+    {
+      "type": "edit",
+      "id": "42b5dfae7c6f3cbc",
+      "item": {
+        "type": "roster",
+        "id": "42b5dfae7c6f3cbc",
+        "text": "Mike Caulfield\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\ntl521a.hapgood.net\neditor.hapgood.net\nhhol.mike.fed.wiki.org\nschoolandsociety.hapgood.net\ndlrn.hapgood.net\n\n\n\nWard Cunningham\n\nROSTER ward.bay.wiki.org/welcome-visitors"
+      },
+      "date": 1522228771829
+    },
+    {
+      "type": "edit",
+      "id": "42b5dfae7c6f3cbc",
+      "item": {
+        "type": "roster",
+        "id": "42b5dfae7c6f3cbc",
+        "text": "Mike Caulfield\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\ntl521a.hapgood.net\neditor.hapgood.net\nhhol.mike.fed.wiki.org\nschoolandsociety.hapgood.net\ndlrn.hapgood.net\n\n\n\nWard Cunningham\n\n\nROSTER ward.bay.wiki.org/welcome-visitors"
+      },
+      "date": 1522228779199
+    },
+    {
+      "type": "edit",
+      "id": "42b5dfae7c6f3cbc",
+      "item": {
+        "type": "roster",
+        "id": "42b5dfae7c6f3cbc",
+        "text": "Mike Caulfield\n\n(most of Mike's fedwikis seem to be down now except)\n\nhhol.mike.fed.wiki.org\nschoolandsociety.hapgood.net\ndlrn.hapgood.net\n\n\n\nWard Cunningham\n\n\nROSTER ward.bay.wiki.org/welcome-visitors"
+      },
+      "date": 1522228840826
+    },
+    {
+      "type": "edit",
+      "id": "42b5dfae7c6f3cbc",
+      "item": {
+        "type": "roster",
+        "id": "42b5dfae7c6f3cbc",
+        "text": "Mike Caulfield\n\n(most of Mike's fedwikis seem to be down now except)\n\nhhol.mike.fed.wiki.org\n\n\n\n\nWard Cunningham\n\n\nROSTER ward.bay.wiki.org/welcome-visitors"
+      },
+      "date": 1522228879381
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "72ac91e56a111dd2"
+      },
+      "id": "72ac91e56a111dd2",
+      "type": "add",
+      "after": "42b5dfae7c6f3cbc",
+      "date": 1522228903444
+    },
+    {
+      "type": "edit",
+      "id": "72ac91e56a111dd2",
+      "item": {
+        "type": "paragraph",
+        "id": "72ac91e56a111dd2",
+        "text": "<i>For each list of sites, click the >> to add to the search neighbourhood</i>"
+      },
+      "date": 1522228926914
+    },
+    {
+      "type": "edit",
+      "id": "72ac91e56a111dd2",
+      "item": {
+        "type": "html",
+        "id": "72ac91e56a111dd2",
+        "text": "<i>For each list of sites, click the >> to add to the search neighbourhood</i>"
+      },
+      "date": 1522228928179
+    },
+    {
+      "type": "move",
+      "order": [
+        "72ac91e56a111dd2",
+        "42b5dfae7c6f3cbc"
+      ],
+      "id": "72ac91e56a111dd2",
+      "date": 1522228931635
+    }
+  ]
+}

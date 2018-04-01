@@ -1,0 +1,120 @@
+{
+  "title": "Use Conversation Clubs",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ebe7baac00a9ea79",
+      "text": "You should have a \"Conversation Clubs\" link on your site from previous steps in the orientation. "
+    },
+    {
+      "type": "paragraph",
+      "id": "2bacf6ec292d442e",
+      "text": "If you click it you will see a list of recent activity in the happening. The video below shows how to use the Conversation Clubs to engage. Skip ahead to 1 minute in."
+    },
+    {
+      "type": "video",
+      "id": "f67b43e64a26b1f3",
+      "text": "YOUTUBE 5Bdp2vfNHm4\n(double-click to edit caption)\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Use Conversation Clubs",
+        "story": []
+      },
+      "date": 1423760281763
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ebe7baac00a9ea79"
+      },
+      "id": "ebe7baac00a9ea79",
+      "type": "add",
+      "date": 1423760814494
+    },
+    {
+      "type": "edit",
+      "id": "ebe7baac00a9ea79",
+      "item": {
+        "type": "paragraph",
+        "id": "ebe7baac00a9ea79",
+        "text": "You should have a \"Conversation Clubs\" link on your site from previous steps in the orientation. "
+      },
+      "date": 1423760849723
+    },
+    {
+      "type": "add",
+      "id": "2bacf6ec292d442e",
+      "item": {
+        "type": "paragraph",
+        "id": "2bacf6ec292d442e",
+        "text": "If you click it you will see a list of recent activity in the happening. "
+      },
+      "after": "ebe7baac00a9ea79",
+      "date": 1423760880474
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "30f93211f736a2ca"
+      },
+      "id": "30f93211f736a2ca",
+      "type": "add",
+      "after": "2bacf6ec292d442e",
+      "date": 1423760897673
+    },
+    {
+      "type": "remove",
+      "id": "30f93211f736a2ca",
+      "date": 1423760901920
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f67b43e64a26b1f3"
+      },
+      "id": "f67b43e64a26b1f3",
+      "type": "add",
+      "after": "2bacf6ec292d442e",
+      "date": 1423777755247
+    },
+    {
+      "type": "edit",
+      "id": "f67b43e64a26b1f3",
+      "item": {
+        "type": "video",
+        "id": "f67b43e64a26b1f3",
+        "text": "YOUTUBE 5Bdp2vfNHm4\n(double-click to edit caption)\n"
+      },
+      "date": 1423777767542
+    },
+    {
+      "type": "edit",
+      "id": "2bacf6ec292d442e",
+      "item": {
+        "type": "paragraph",
+        "id": "2bacf6ec292d442e",
+        "text": "If you click it you will see a list of recent activity in the happening. The video below shows how to use the Conversation Clubs to engage. Skip ahead to "
+      },
+      "date": 1423777821917
+    },
+    {
+      "type": "edit",
+      "id": "2bacf6ec292d442e",
+      "item": {
+        "type": "paragraph",
+        "id": "2bacf6ec292d442e",
+        "text": "If you click it you will see a list of recent activity in the happening. The video below shows how to use the Conversation Clubs to engage. Skip ahead to 1 minute in."
+      },
+      "date": 1423777847407
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454432251658
+    }
+  ]
+}

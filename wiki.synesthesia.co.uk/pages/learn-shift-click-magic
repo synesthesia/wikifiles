@@ -1,0 +1,567 @@
+{
+  "title": "Learn Shift-Click Magic",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2200febb3464784b",
+      "text": "Modifier keys are used heavily in Federated Wiki. Shift-click is one such modifier key. To use it, hold down your shift key while executing your normal click action."
+    },
+    {
+      "type": "paragraph",
+      "id": "a47b7419bb734c22",
+      "text": "In general shift-click and shift double-click provide a variation on the standard click functionality."
+    },
+    {
+      "type": "html",
+      "id": "b0eb6e7282b32711",
+      "text": "<h3>Open Pages at End of Lineup</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "6c2b34c8247c7305",
+      "text": "Shift-Clicking a [[Wiki Link]] will open a page to the absolute right of the [[Lineup]]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "e17234a7db1b0f19",
+      "text": "To see how this works, click on the Lineup link above and then the Wiki Link link above in the usual way. See how one replaces the other? "
+    },
+    {
+      "type": "paragraph",
+      "id": "f7617b556a497796",
+      "text": "Now try shift-click. Each page will be added to the end of the lineup."
+    },
+    {
+      "type": "html",
+      "id": "0a9d8b8bd4ee6c67",
+      "text": "<h3>Convert to HTML</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "13142cdeb71fecd5",
+      "text": "By default paragraphs have no HTML capability. This is for a number of reasons around reusability, reader experience, and clarity of editing."
+    },
+    {
+      "type": "paragraph",
+      "id": "e4289532b8340e59",
+      "text": "Sometimes you want to use some HTML however, and you don't want to go all the way to the bottom of the page and open up a special [[HTML Plugin]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "5737b20f332bdc0a",
+      "text": "As a short cut, type your paragraph along with the HTML. Hit Enter. You'll see that the HTML is still displayed as tags."
+    },
+    {
+      "type": "paragraph",
+      "id": "fa2811a9823d7c78",
+      "text": "Shift-Double-Click the paragraph. It will be converted to an HTML object. "
+    },
+    {
+      "type": "paragraph",
+      "id": "a90a6a22fc689c11",
+      "text": "This function was introduced initially to handle the conversion of old pages that used unfilitered HTML."
+    },
+    {
+      "type": "html",
+      "id": "79e12f3b45706fbd",
+      "text": "<h3>Copy Item to Another Page</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "3021f5f815750c83",
+      "text": "You saw in our [[Execute a Cross-Page Move]] Demo that you can drag items across pages. "
+    },
+    {
+      "type": "paragraph",
+      "id": "17e0eb6cd2f55546",
+      "text": "Sometimes you might want to copy a paragraph from another page though."
+    },
+    {
+      "type": "paragraph",
+      "id": "18ddbc9ae0a44254",
+      "text": "To do that, hold shift down while you execute the drag action. It will look like the item is being moved, not copied, but when you refresh both pages you will see it has been copied. "
+    },
+    {
+      "type": "html",
+      "id": "4ffd6c682bca0953",
+      "text": "<h3>Short Note on Why</h3> "
+    },
+    {
+      "type": "paragraph",
+      "id": "cd56021cbcc18546",
+      "text": "Federated Wiki tries to not rely as little as possible on modes, menus, or ribbon bars for functionality. While this approach to interface is slower for the user to learn it results is speedier interaction in a very short time."
+    },
+    {
+      "type": "factory",
+      "id": "9a56ba7dbab8f5c8"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Learn Shift-Click Magic",
+        "story": []
+      },
+      "date": 1423242689649
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cd56021cbcc18546"
+      },
+      "id": "cd56021cbcc18546",
+      "type": "add",
+      "date": 1423242691059
+    },
+    {
+      "type": "edit",
+      "id": "cd56021cbcc18546",
+      "item": {
+        "type": "paragraph",
+        "id": "cd56021cbcc18546",
+        "text": "Clicking a [[Wiki Link]]"
+      },
+      "date": 1423242716259
+    },
+    {
+      "type": "edit",
+      "id": "cd56021cbcc18546",
+      "item": {
+        "type": "paragraph",
+        "id": "cd56021cbcc18546",
+        "text": "Clicking a "
+      },
+      "date": 1423242737722
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9a56ba7dbab8f5c8"
+      },
+      "id": "9a56ba7dbab8f5c8",
+      "type": "add",
+      "after": "cd56021cbcc18546",
+      "date": 1423263024751
+    },
+    {
+      "type": "edit",
+      "id": "cd56021cbcc18546",
+      "item": {
+        "type": "paragraph",
+        "id": "cd56021cbcc18546",
+        "text": "Federated Wiki tries to not rely as little as possible on modes, menus, or ribbon bars for functionality. While this approach to interface is slower for the user to learn it results is speedier interaction in a very short time."
+      },
+      "date": 1423263151937
+    },
+    {
+      "type": "edit",
+      "id": "cd56021cbcc18546",
+      "item": {
+        "type": "paragraph",
+        "id": "cd56021cbcc18546",
+        "text": "Federated Wiki tries to not rely as little as possible on modes, menus, or ribbon bars for functionality. While this approach to interface is slower for the user to learn it results is speedier interaction in a very short time."
+      },
+      "date": 1423263204946
+    },
+    {
+      "type": "move",
+      "order": [
+        "2200febb3464784b",
+        "cd56021cbcc18546",
+        "9a56ba7dbab8f5c8"
+      ],
+      "id": "cd56021cbcc18546",
+      "date": 1423263319720,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1423263322392
+    },
+    {
+      "type": "add",
+      "id": "2200febb3464784b",
+      "item": {
+        "type": "paragraph",
+        "id": "2200febb3464784b",
+        "text": "Modifier keys are used heavily in Federated Wiki. Shift-click is one such modifier key. In general shift-click and shift double-click provide a variation on the standard click functionality."
+      },
+      "after": "cd56021cbcc18546",
+      "date": 1423263340838
+    },
+    {
+      "type": "edit",
+      "id": "2200febb3464784b",
+      "item": {
+        "type": "paragraph",
+        "id": "2200febb3464784b",
+        "text": "Modifier keys are used heavily in Federated Wiki. Shift-click is one such modifier key. To use it, hold down your shift key while executing your normal click action."
+      },
+      "date": 1423263399674
+    },
+    {
+      "type": "add",
+      "id": "a47b7419bb734c22",
+      "item": {
+        "type": "paragraph",
+        "id": "a47b7419bb734c22",
+        "text": "In general shift-click and shift double-click provide a variation on the standard click functionality."
+      },
+      "after": "2200febb3464784b",
+      "date": 1423263401752
+    },
+    {
+      "type": "add",
+      "id": "6c2b34c8247c7305",
+      "item": {
+        "type": "paragraph",
+        "id": "6c2b34c8247c7305",
+        "text": "Shift-Clicking a [[Wiki Link]] will open a page to the absolute right of the [[Lineup]]. "
+      },
+      "after": "a47b7419bb734c22",
+      "date": 1423263522739
+    },
+    {
+      "type": "add",
+      "id": "e17234a7db1b0f19",
+      "item": {
+        "type": "paragraph",
+        "id": "e17234a7db1b0f19",
+        "text": "To see how this works, click on the Lineup link and then the Wiki Link link above in the usual way. See how one replaces the other? "
+      },
+      "after": "6c2b34c8247c7305",
+      "date": 1423263532288
+    },
+    {
+      "type": "add",
+      "id": "4ffd6c682bca0953",
+      "item": {
+        "type": "paragraph",
+        "id": "4ffd6c682bca0953",
+        "text": "<h3>Short Note on Why</h3> "
+      },
+      "after": "e17234a7db1b0f19",
+      "date": 1423263649295
+    },
+    {
+      "type": "edit",
+      "id": "4ffd6c682bca0953",
+      "item": {
+        "type": "html",
+        "id": "4ffd6c682bca0953",
+        "text": "<h3>Short Note on Why</h3> "
+      },
+      "date": 1423263657197
+    },
+    {
+      "type": "add",
+      "id": "b0eb6e7282b32711",
+      "item": {
+        "type": "paragraph",
+        "id": "b0eb6e7282b32711",
+        "text": "<h3>Open Pages at End of Lineup</h3>"
+      },
+      "after": "a47b7419bb734c22",
+      "date": 1423263693743
+    },
+    {
+      "type": "edit",
+      "id": "b0eb6e7282b32711",
+      "item": {
+        "type": "html",
+        "id": "b0eb6e7282b32711",
+        "text": "<h3>Open Pages at End of Lineup</h3>"
+      },
+      "date": 1423263696115
+    },
+    {
+      "type": "add",
+      "id": "f7617b556a497796",
+      "item": {
+        "type": "paragraph",
+        "id": "f7617b556a497796",
+        "text": "Now try shift-click. Each page will be added to the end of the lineup."
+      },
+      "after": "e17234a7db1b0f19",
+      "date": 1423263734443
+    },
+    {
+      "type": "add",
+      "id": "0a9d8b8bd4ee6c67",
+      "item": {
+        "type": "paragraph",
+        "id": "0a9d8b8bd4ee6c67",
+        "text": "<h3>Convert to HTML</h3>"
+      },
+      "after": "f7617b556a497796",
+      "date": 1423263771326
+    },
+    {
+      "type": "add",
+      "id": "13142cdeb71fecd5",
+      "item": {
+        "type": "paragraph",
+        "id": "13142cdeb71fecd5",
+        "text": "By default paragraphs have no HTML capability. This is for a number of reasons around reusability, reader experience, and clarity of editing."
+      },
+      "after": "0a9d8b8bd4ee6c67",
+      "date": 1423263848735
+    },
+    {
+      "type": "add",
+      "id": "e4289532b8340e59",
+      "item": {
+        "type": "paragraph",
+        "id": "e4289532b8340e59",
+        "text": "Sometimes you want to use some HTML however, and you don't want to go all the way to the bottom of the page and open up a special [[HTML Plugin]]."
+      },
+      "after": "13142cdeb71fecd5",
+      "date": 1423263896194
+    },
+    {
+      "type": "add",
+      "id": "5737b20f332bdc0a",
+      "item": {
+        "type": "paragraph",
+        "id": "5737b20f332bdc0a",
+        "text": "As a short cut, type your paragraph along with the HTML. Hit return. You'll see that the HTML is still displayed. "
+      },
+      "after": "e4289532b8340e59",
+      "date": 1423263948890
+    },
+    {
+      "type": "edit",
+      "id": "0a9d8b8bd4ee6c67",
+      "item": {
+        "type": "html",
+        "id": "0a9d8b8bd4ee6c67",
+        "text": "<h3>Convert to HTML</h3>"
+      },
+      "date": 1423263952407
+    },
+    {
+      "type": "edit",
+      "id": "5737b20f332bdc0a",
+      "item": {
+        "type": "paragraph",
+        "id": "5737b20f332bdc0a",
+        "text": "As a short cut, type your paragraph along with the HTML. Hit return. You'll see that the HTML is still displayed as tags."
+      },
+      "date": 1423263969986
+    },
+    {
+      "type": "edit",
+      "id": "5737b20f332bdc0a",
+      "item": {
+        "type": "paragraph",
+        "id": "5737b20f332bdc0a",
+        "text": "As a short cut, type your paragraph along with the HTML. Hit Enter. You'll see that the HTML is still displayed as tags."
+      },
+      "date": 1423263978647
+    },
+    {
+      "type": "add",
+      "id": "fa2811a9823d7c78",
+      "item": {
+        "type": "paragraph",
+        "id": "fa2811a9823d7c78",
+        "text": "Shift-Double-Click the paragraph. It will be converted to an HTML object. "
+      },
+      "after": "5737b20f332bdc0a",
+      "date": 1423264024623
+    },
+    {
+      "type": "add",
+      "id": "a90a6a22fc689c11",
+      "item": {
+        "type": "paragraph",
+        "id": "a90a6a22fc689c11",
+        "text": "This function was introduced initially to handle the conversion of old pages that used unfilitered HTML."
+      },
+      "after": "fa2811a9823d7c78",
+      "date": 1423264076769
+    },
+    {
+      "type": "move",
+      "order": [
+        "2200febb3464784b",
+        "a47b7419bb734c22",
+        "b0eb6e7282b32711",
+        "6c2b34c8247c7305",
+        "e17234a7db1b0f19",
+        "f7617b556a497796",
+        "0a9d8b8bd4ee6c67",
+        "13142cdeb71fecd5",
+        "e4289532b8340e59",
+        "5737b20f332bdc0a",
+        "a90a6a22fc689c11",
+        "fa2811a9823d7c78",
+        "4ffd6c682bca0953",
+        "cd56021cbcc18546",
+        "9a56ba7dbab8f5c8"
+      ],
+      "id": "a90a6a22fc689c11",
+      "date": 1423264188967
+    },
+    {
+      "type": "move",
+      "order": [
+        "2200febb3464784b",
+        "a47b7419bb734c22",
+        "b0eb6e7282b32711",
+        "6c2b34c8247c7305",
+        "e17234a7db1b0f19",
+        "f7617b556a497796",
+        "0a9d8b8bd4ee6c67",
+        "13142cdeb71fecd5",
+        "e4289532b8340e59",
+        "5737b20f332bdc0a",
+        "fa2811a9823d7c78",
+        "a90a6a22fc689c11",
+        "4ffd6c682bca0953",
+        "cd56021cbcc18546",
+        "9a56ba7dbab8f5c8"
+      ],
+      "id": "a90a6a22fc689c11",
+      "date": 1423264190811
+    },
+    {
+      "type": "move",
+      "order": [
+        "2200febb3464784b",
+        "a47b7419bb734c22",
+        "b0eb6e7282b32711",
+        "6c2b34c8247c7305",
+        "e17234a7db1b0f19",
+        "f7617b556a497796",
+        "0a9d8b8bd4ee6c67",
+        "13142cdeb71fecd5",
+        "e4289532b8340e59",
+        "5737b20f332bdc0a",
+        "a90a6a22fc689c11",
+        "fa2811a9823d7c78",
+        "4ffd6c682bca0953",
+        "cd56021cbcc18546",
+        "9a56ba7dbab8f5c8"
+      ],
+      "id": "a90a6a22fc689c11",
+      "date": 1423264201092
+    },
+    {
+      "type": "move",
+      "order": [
+        "2200febb3464784b",
+        "a47b7419bb734c22",
+        "b0eb6e7282b32711",
+        "6c2b34c8247c7305",
+        "e17234a7db1b0f19",
+        "f7617b556a497796",
+        "0a9d8b8bd4ee6c67",
+        "13142cdeb71fecd5",
+        "e4289532b8340e59",
+        "5737b20f332bdc0a",
+        "fa2811a9823d7c78",
+        "a90a6a22fc689c11",
+        "4ffd6c682bca0953",
+        "cd56021cbcc18546",
+        "9a56ba7dbab8f5c8"
+      ],
+      "id": "a90a6a22fc689c11",
+      "date": 1423264220180
+    },
+    {
+      "type": "add",
+      "id": "79e12f3b45706fbd",
+      "item": {
+        "type": "paragraph",
+        "id": "79e12f3b45706fbd",
+        "text": "<h3>Copy Paragraph to Another Page</h3>"
+      },
+      "after": "a90a6a22fc689c11",
+      "date": 1423264246808
+    },
+    {
+      "type": "edit",
+      "id": "79e12f3b45706fbd",
+      "item": {
+        "type": "paragraph",
+        "id": "79e12f3b45706fbd",
+        "text": "<h3>Copy Item to Another Page</h3>"
+      },
+      "date": 1423264336562
+    },
+    {
+      "type": "add",
+      "id": "3021f5f815750c83",
+      "item": {
+        "type": "paragraph",
+        "id": "3021f5f815750c83",
+        "text": "You saw in our Cross-Page Move Demo"
+      },
+      "after": "79e12f3b45706fbd",
+      "date": 1423264397545
+    },
+    {
+      "type": "edit",
+      "id": "3021f5f815750c83",
+      "item": {
+        "type": "paragraph",
+        "id": "3021f5f815750c83",
+        "text": "You saw in our [[Execute a Cross-Page Move]] Demo that you can drag items across pages. "
+      },
+      "date": 1423264496124
+    },
+    {
+      "type": "add",
+      "id": "17e0eb6cd2f55546",
+      "item": {
+        "type": "paragraph",
+        "id": "17e0eb6cd2f55546",
+        "text": "Sometimes you might want to copy a paragraph from another page though."
+      },
+      "after": "3021f5f815750c83",
+      "date": 1423264517691
+    },
+    {
+      "type": "add",
+      "id": "18ddbc9ae0a44254",
+      "item": {
+        "type": "paragraph",
+        "id": "18ddbc9ae0a44254",
+        "text": "To do that, hold shift down while you execute the drag action. It will look like the item is being moved, not copied, but when you refresh both pages you will see it has been copied. "
+      },
+      "after": "17e0eb6cd2f55546",
+      "date": 1423264587260
+    },
+    {
+      "type": "edit",
+      "id": "79e12f3b45706fbd",
+      "item": {
+        "type": "html",
+        "id": "79e12f3b45706fbd",
+        "text": "<h3>Copy Item to Another Page</h3>"
+      },
+      "date": 1423264594133
+    },
+    {
+      "type": "edit",
+      "id": "e17234a7db1b0f19",
+      "item": {
+        "type": "paragraph",
+        "id": "e17234a7db1b0f19",
+        "text": "To see how this works, click on the Lineup link above and then the Wiki Link link above in the usual way. See how one replaces the other? "
+      },
+      "date": 1423420575219
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454432207235
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "My other wikis",
+  "story": [],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "My other wikis",
+        "story": []
+      },
+      "date": 1454426990032
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6df7a3e7296714a6"
+      },
+      "id": "6df7a3e7296714a6",
+      "type": "add",
+      "date": 1454426992071
+    },
+    {
+      "type": "edit",
+      "id": "6df7a3e7296714a6",
+      "item": {
+        "type": "reference",
+        "id": "6df7a3e7296714a6",
+        "site": "wiki.synesthesia.co.uk",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+      },
+      "date": 1454427208684
+    },
+    {
+      "type": "remove",
+      "id": "6df7a3e7296714a6",
+      "date": 1454427360374
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ff19e62f4e79c391"
+      },
+      "id": "ff19e62f4e79c391",
+      "type": "add",
+      "date": 1454427362167
+    },
+    {
+      "type": "edit",
+      "id": "ff19e62f4e79c391",
+      "item": {
+        "type": "reference",
+        "id": "ff19e62f4e79c391",
+        "site": "wiki.synesthesia.co.uk",
+        "slug": "about-this-site",
+        "title": "About this site",
+        "text": "This is my general federated wiki - I also have two specialist sites - see [[my other wikis]]"
+      },
+      "date": 1454427365620
+    },
+    {
+      "type": "remove",
+      "id": "ff19e62f4e79c391",
+      "date": 1454427433990
+    }
+  ]
+}

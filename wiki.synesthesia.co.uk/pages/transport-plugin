@@ -1,0 +1,1020 @@
+{
+  "title": "Transport Plugin",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "45c24bb00f1e8fe8",
+      "text": "The Transport Plugin is the name given to the plugin idea initially described here:"
+    },
+    {
+      "type": "paragraph",
+      "id": "20e2a2ce00287698",
+      "text": "It currently enables configuration of the web service (base url only for now), and the ability to drag-drop a url onto the plugin which gets passed onto the web service in the form of a \"drop\" parameter."
+    },
+    {
+      "type": "paragraph",
+      "id": "06df698110ae13ec",
+      "text": "See [[About Transport Plugin]]"
+    },
+    {
+      "type": "markdown",
+      "id": "24faaa023804eb84",
+      "text": "# Issues and Future"
+    },
+    {
+      "type": "paragraph",
+      "id": "ffb6b43802b29328",
+      "text": "Currently the plugin uses client side [[REST]] calls to the external web service. This puts a requirement on that external service to provide the necessary [[CORS Headers]] to the result they return, which is not a standard feature of REST services, and places an additional demand on the coder of the external service - [https://github.com/WardCunningham/wiki-plugin-transport/issues/1 github]"
+    },
+    {
+      "type": "reference",
+      "id": "4fb3ddb7d1a07967",
+      "site": "future.fedwiki.org",
+      "slug": "transport-infrastructure",
+      "title": "Transport Infrastructure",
+      "text": "We imagine how a component like we see in Transporters could become a casual ecosystem of open computational behavior."
+    },
+    {
+      "type": "paragraph",
+      "id": "7eb5d5f8cb6b0859",
+      "text": "Given our requirement to make the creation of services to the federation as easy as possible to anyone with basic coding experience and access to a public server, we ideally don;t want them to have to know about things like [[CORS Headers]] from the get-go."
+    },
+    {
+      "type": "markdown",
+      "id": "766191e3918d3e3d",
+      "text": "# Proposed Changes"
+    },
+    {
+      "type": "paragraph",
+      "id": "d50c52ecbdda33d4",
+      "text": "Let's use the server side component of the plugin to make the REST call, and not the client. This would mean that the client receives it's data directly form the site of origin, and no [[CORS Headers]] are required by the provider of the external Web Service."
+    },
+    {
+      "type": "markdown",
+      "id": "1884835bcb1dc179",
+      "text": "# Development History"
+    },
+    {
+      "type": "paragraph",
+      "id": "d55a84e14c58a882",
+      "text": "We experimented with generating pages from remote servers that could produce correct json but were not otherwise wiki servers."
+    },
+    {
+      "type": "reference",
+      "id": "4690e7d1727dd6f2",
+      "site": "future.fedwiki.org",
+      "slug": "create-page-plugin",
+      "title": "Create Page Plugin",
+      "text": "A generic [[REST Plugin]] that enables simple and flexible integration with [[Federation REST Services]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "113a8706f439b5c9",
+      "text": "We explored several metaphors from which to draw names for this and related operations which we felt could become an important part of federation activities. Immigration related terminology seemed fruitful and topical. Using php to enter wiki reminded us of boats crossing the Mediterranean. "
+    },
+    {
+      "type": "paragraph",
+      "id": "19b90da6223fc4cc",
+      "text": "The metaphor morphed into StarTrek terms when we spoke of entering the federation. It was completed with a function to 'beam up' a page leaving it in a transparent form (ghost page) in the lineup."
+    },
+    {
+      "type": "code",
+      "id": "215faf11730a3393",
+      "text": "beam = (item) ->\n  $.getJSON item.text, (page) ->\n    wiki.showResult wiki.newPage(page)"
+    },
+    {
+      "type": "paragraph",
+      "id": "a7a736fce4334e7f",
+      "text": "We explored some problems that arise when the story items don't have ids. We should detect and correct this situation. [https://github.com/WardCunningham/wiki-plugin-transport/issues/1 github]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4ccd7efcbc006460",
+      "text": "A few months pass."
+    },
+    {
+      "type": "paragraph",
+      "id": "90bb152b3d953d93",
+      "text": "I have renewed interest in the project having offered it as a solution to two needs identified by Mike Caulfield."
+    },
+    {
+      "type": "paragraph",
+      "id": "eea67517042acd66",
+      "text": "￭ Methodical tracking of ip for open ed resources."
+    },
+    {
+      "type": "paragraph",
+      "id": "26f80bb0b9e115b6",
+      "text": "￭ Transcluding large or detailed images."
+    },
+    {
+      "type": "paragraph",
+      "id": "af0ed6bb27e8a533",
+      "text": "Paul and I accept and publish the core javascript changes that has plugins adding new content to the lineup."
+    },
+    {
+      "type": "paragraph",
+      "id": "02123d64a0e2f72c",
+      "text": "I merge Francesco's Transport plugin drop logic and beef it up for various image drops."
+    },
+    {
+      "type": "paragraph",
+      "id": "bfd66f5e98d0c398",
+      "text": "I write an Image Transporter in ruby/sinatra and try all kinds of drops from all kinds of photo sites."
+    },
+    {
+      "type": "paragraph",
+      "id": "edec43f08fe578c6",
+      "text": "I use local wiki to author the Image Transporter drag and drop interface pages in the transporter project itself."
+    },
+    {
+      "type": "code",
+      "id": "f2d4670b22789df1",
+      "text": "wiki -d . -p 3030"
+    },
+    {
+      "type": "paragraph",
+      "id": "8b289994c2aa4216",
+      "text": "I build the catalog that will organize the proliferation of transporters. See [[Transporter Roster]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b33a32d174b3245d",
+      "text": "After a few upgrades I can run the image workflow in public with elements served from asia and my basement."
+    },
+    {
+      "type": "pagefold",
+      "id": "2371ad572b59402d",
+      "text": "to do"
+    },
+    {
+      "type": "paragraph",
+      "id": "1445609f2369109f",
+      "text": "Have a go at porting paragraphs."
+    },
+    {
+      "type": "paragraph",
+      "id": "e73e95d59321ca89",
+      "text": "Package page and federate libraries."
+    },
+    {
+      "type": "paragraph",
+      "id": "d837aa92ded73596",
+      "text": "Write a guide to writing Transporters."
+    },
+    {
+      "type": "paragraph",
+      "id": "e2584ee6b9cf3c9a",
+      "text": "Create npm @ward/wiki for experimenters."
+    },
+    {
+      "type": "markdown",
+      "id": "f04ef733fd43c514",
+      "text": "# Related"
+    },
+    {
+      "type": "reference",
+      "id": "f2896a003e332914",
+      "site": "future.fedwiki.org",
+      "slug": "data-and-javascript",
+      "title": "Data and Javascript",
+      "text": "Here we gather some links and ideas related to using data in the javascript centred world of the Federation:"
+    },
+    {
+      "type": "reference",
+      "id": "a505049f3a20aba7",
+      "site": "future.fedwiki.org",
+      "slug": "factory-wo-drag-and-drop",
+      "title": "Factory w/o Drag and Drop",
+      "text": "The drag and drop features of federated wiki fully exploit newer capabilities of the browser and result in excellent flow for expert users on laptops and desktops. In thinking about the [[Basic Data Editor]] one helpful idea is to consider a drag/dropless factory, and what advantages that might provide certain users.  "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Transport Plugin",
+        "story": []
+      },
+      "date": 1438520200330
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1884835bcb1dc179"
+      },
+      "id": "1884835bcb1dc179",
+      "type": "add",
+      "date": 1438520235466
+    },
+    {
+      "type": "edit",
+      "id": "1884835bcb1dc179",
+      "item": {
+        "type": "paragraph",
+        "id": "1884835bcb1dc179",
+        "text": "We experimented with generating pages from remote servers that could produce correct json but were not otherwise wiki servers."
+      },
+      "date": 1438520396381
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "215faf11730a3393"
+      },
+      "id": "215faf11730a3393",
+      "type": "add",
+      "after": "1884835bcb1dc179",
+      "date": 1438520398645
+    },
+    {
+      "type": "edit",
+      "id": "215faf11730a3393",
+      "item": {
+        "type": "code",
+        "id": "215faf11730a3393",
+        "text": "beam = (url) ->\n  $.getJSON url, (page) ->\n    resultPage = wiki.newPage(page)\n    wiki.showResult resultPage\n"
+      },
+      "date": 1438520408139
+    },
+    {
+      "type": "add",
+      "id": "113a8706f439b5c9",
+      "item": {
+        "type": "paragraph",
+        "id": "113a8706f439b5c9",
+        "text": "We explored several metaphors from which to draw names for this and related operations which we felt could become an important part of federation activities. Immigration related terminology seemed fruitful and topical. This somehow morphed into StarTrek because we already use the term federation which they made popular. We wrote a function that would 'beam up' a page leaving it in a transparent form in the lineup."
+      },
+      "after": "1884835bcb1dc179",
+      "date": 1438520900850
+    },
+    {
+      "type": "edit",
+      "id": "215faf11730a3393",
+      "item": {
+        "type": "code",
+        "id": "215faf11730a3393",
+        "text": "beam = (item) ->\n  $.getJSON item.text, (page) ->\n    wiki.showResult wiki.newPage(page)"
+      },
+      "date": 1438520985742
+    },
+    {
+      "type": "edit",
+      "id": "113a8706f439b5c9",
+      "item": {
+        "type": "paragraph",
+        "id": "113a8706f439b5c9",
+        "text": "We explored several metaphors from which to draw names for this and related operations which we felt could become an important part of federation activities. Immigration related terminology seemed fruitful and topical."
+      },
+      "date": 1438520997333
+    },
+    {
+      "type": "add",
+      "id": "19b90da6223fc4cc",
+      "item": {
+        "type": "paragraph",
+        "id": "19b90da6223fc4cc",
+        "text": "The metaphor somehow morphed into StarTrek terms. We already speak of the federation. The metaphor was completed with a function to 'beam up' a page leaving it in a transparent form (ghost page) in the lineup."
+      },
+      "after": "113a8706f439b5c9",
+      "date": 1438521115077
+    },
+    {
+      "type": "edit",
+      "id": "19b90da6223fc4cc",
+      "item": {
+        "type": "paragraph",
+        "id": "19b90da6223fc4cc",
+        "text": "The metaphor morphed into StarTrek terms when we spoke of entering the federation. It was completed with a function to 'beam up' a page leaving it in a transparent form (ghost page) in the lineup."
+      },
+      "date": 1438521525592
+    },
+    {
+      "type": "edit",
+      "id": "113a8706f439b5c9",
+      "item": {
+        "type": "paragraph",
+        "id": "113a8706f439b5c9",
+        "text": "We explored several metaphors from which to draw names for this and related operations which we felt could become an important part of federation activities. Immigration related terminology seemed fruitful and topical. Using php to enter wiki reminded us of boats crossing the Mediterranean. "
+      },
+      "date": 1438521654518
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a7a736fce4334e7f"
+      },
+      "id": "a7a736fce4334e7f",
+      "type": "add",
+      "after": "215faf11730a3393",
+      "date": 1438545591203
+    },
+    {
+      "type": "edit",
+      "id": "a7a736fce4334e7f",
+      "item": {
+        "type": "paragraph",
+        "id": "a7a736fce4334e7f",
+        "text": "We explored some problems that arise when the story items don't have ids. We should detect and correct this situation. [https://github.com/WardCunningham/wiki-plugin-transport/issues/1 github]"
+      },
+      "date": 1438545676209
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "45c24bb00f1e8fe8",
+        "text": "The Transport Plugin is the name given to the plugin idea initially described here:"
+      },
+      "id": "45c24bb00f1e8fe8",
+      "date": 1438575748187
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "20e2a2ce00287698",
+        "text": "It currently enables configuration of teh web service (base url only for now), and the ability to drag-drop a url onto the plugin which gets passe onto the web service in the from of a \"drop\" parameter."
+      },
+      "after": "45c24bb00f1e8fe8",
+      "id": "20e2a2ce00287698",
+      "date": 1438575752634
+    },
+    {
+      "type": "edit",
+      "id": "20e2a2ce00287698",
+      "item": {
+        "type": "paragraph",
+        "id": "20e2a2ce00287698",
+        "text": "It currently enables configuration of the web service (base url only for now), and the ability to drag-drop a url onto the plugin which gets passed onto the web service in the form of a \"drop\" parameter."
+      },
+      "date": 1438575789359
+    },
+    {
+      "type": "fork",
+      "site": "ward.asia.wiki.org",
+      "date": 1438597966412
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4690e7d1727dd6f2"
+      },
+      "id": "4690e7d1727dd6f2",
+      "type": "add",
+      "after": "a7a736fce4334e7f",
+      "date": 1438597990954
+    },
+    {
+      "type": "edit",
+      "id": "4690e7d1727dd6f2",
+      "item": {
+        "type": "reference",
+        "id": "4690e7d1727dd6f2",
+        "site": "future.fedwiki.org",
+        "slug": "create-page-plugin",
+        "title": "Create Page Plugin",
+        "text": "The [[Create Page Plugin]] is a generic [[REST Plugin]] that enables simple and flexible integration with [[Federation REST Services]] provided by developers for the wider community of users."
+      },
+      "date": 1438598022792
+    },
+    {
+      "type": "move",
+      "order": [
+        "45c24bb00f1e8fe8",
+        "4690e7d1727dd6f2",
+        "20e2a2ce00287698",
+        "1884835bcb1dc179",
+        "113a8706f439b5c9",
+        "19b90da6223fc4cc",
+        "215faf11730a3393",
+        "a7a736fce4334e7f"
+      ],
+      "id": "4690e7d1727dd6f2",
+      "date": 1438598025771
+    },
+    {
+      "type": "edit",
+      "id": "4690e7d1727dd6f2",
+      "item": {
+        "type": "reference",
+        "id": "4690e7d1727dd6f2",
+        "site": "future.fedwiki.org",
+        "slug": "create-page-plugin",
+        "title": "Create Page Plugin",
+        "text": "A generic [[REST Plugin]] that enables simple and flexible integration with [[Federation REST Services]]."
+      },
+      "date": 1438598048907
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f04ef733fd43c514"
+      },
+      "id": "f04ef733fd43c514",
+      "type": "add",
+      "after": "a7a736fce4334e7f",
+      "date": 1438598056495
+    },
+    {
+      "type": "edit",
+      "id": "f04ef733fd43c514",
+      "item": {
+        "type": "paragraph",
+        "id": "f04ef733fd43c514",
+        "text": "# Related"
+      },
+      "date": 1438598063757
+    },
+    {
+      "type": "edit",
+      "id": "f04ef733fd43c514",
+      "item": {
+        "type": "markdown",
+        "id": "f04ef733fd43c514",
+        "text": "# Related"
+      },
+      "date": 1438598064997
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f2896a003e332914"
+      },
+      "id": "f2896a003e332914",
+      "type": "add",
+      "after": "f04ef733fd43c514",
+      "date": 1438598066611
+    },
+    {
+      "type": "edit",
+      "id": "f2896a003e332914",
+      "item": {
+        "type": "reference",
+        "id": "f2896a003e332914",
+        "site": "future.fedwiki.org",
+        "slug": "data-and-javascript",
+        "title": "Data and Javascript",
+        "text": "Here we gather some links and ideas related to using data in the javascript centred world of the Federation:"
+      },
+      "date": 1438598076774
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a505049f3a20aba7"
+      },
+      "id": "a505049f3a20aba7",
+      "type": "add",
+      "after": "f2896a003e332914",
+      "date": 1438598101893
+    },
+    {
+      "type": "edit",
+      "id": "a505049f3a20aba7",
+      "item": {
+        "type": "reference",
+        "id": "a505049f3a20aba7",
+        "site": "future.fedwiki.org",
+        "slug": "factory-wo-drag-and-drop",
+        "title": "Factory w/o Drag and Drop",
+        "text": "The drag and drop features of federated wiki fully exploit newer capabilities of the browser and result in excellent flow for expert users on laptops and desktops. In thinking about the [[Basic Data Editor]] one helpful idea is to consider a drag/dropless factory, and what advantages that might provide certain users.  "
+      },
+      "date": 1438598104449
+    },
+    {
+      "type": "fork",
+      "site": "future.fedwiki.org",
+      "date": 1438789679293
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "4ccd7efcbc006460",
+        "text": "A few months pass."
+      },
+      "after": "a7a736fce4334e7f",
+      "id": "4ccd7efcbc006460",
+      "date": 1446737402844
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "90bb152b3d953d93",
+        "text": "I have renewed interest in the project having offered it as a solution to two needs identified by Mike Caulfield."
+      },
+      "after": "4ccd7efcbc006460",
+      "id": "90bb152b3d953d93",
+      "date": 1446737412897
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "eea67517042acd66",
+        "text": "￭ Methodical tracking of ip for open ed resources."
+      },
+      "after": "90bb152b3d953d93",
+      "id": "eea67517042acd66",
+      "date": 1446737415232
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "26f80bb0b9e115b6",
+        "text": "￭ Transcluding large or detailed images."
+      },
+      "after": "eea67517042acd66",
+      "id": "26f80bb0b9e115b6",
+      "date": 1446737417316
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "af0ed6bb27e8a533",
+        "text": "Paul and I accept and publish the core javascript changes that has plugins adding new content to the lineup."
+      },
+      "after": "26f80bb0b9e115b6",
+      "id": "af0ed6bb27e8a533",
+      "date": 1446737419746
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "02123d64a0e2f72c",
+        "text": "I merge Francesco's Transport plugin drop logic and beef it up for various image drops."
+      },
+      "after": "af0ed6bb27e8a533",
+      "id": "02123d64a0e2f72c",
+      "date": 1446737422964
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "bfd66f5e98d0c398",
+        "text": "I write an Image Transporter in ruby/sinatra and try all kinds of drops from all kinds of photo sites."
+      },
+      "after": "02123d64a0e2f72c",
+      "id": "bfd66f5e98d0c398",
+      "date": 1446737427187
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "edec43f08fe578c6",
+        "text": "I use local wiki to author the Image Transporter drag and drop interface pages in the transporter project itself."
+      },
+      "after": "bfd66f5e98d0c398",
+      "id": "edec43f08fe578c6",
+      "date": 1446737430948
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "code",
+        "id": "f2d4670b22789df1",
+        "text": "wiki -d . -p 3030"
+      },
+      "after": "edec43f08fe578c6",
+      "id": "f2d4670b22789df1",
+      "date": 1446737436324
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "8b289994c2aa4216",
+        "text": "I build the catalog that will organize the proliferation of transporters. See [[Transporter Roster]]"
+      },
+      "after": "f2d4670b22789df1",
+      "id": "8b289994c2aa4216",
+      "date": 1446737439864
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "b33a32d174b3245d",
+        "text": "After a few upgrades I can run the image workflow in public with elements served from asia and my basement."
+      },
+      "after": "8b289994c2aa4216",
+      "id": "b33a32d174b3245d",
+      "date": 1446737443385
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "pagefold",
+        "id": "2371ad572b59402d",
+        "text": "to do"
+      },
+      "after": "b33a32d174b3245d",
+      "id": "2371ad572b59402d",
+      "date": 1446737460121
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "1445609f2369109f",
+        "text": "Have a go at porting paragraphs."
+      },
+      "after": "2371ad572b59402d",
+      "id": "1445609f2369109f",
+      "date": 1446737467098
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e73e95d59321ca89",
+        "text": "Package page and federate libraries."
+      },
+      "after": "1445609f2369109f",
+      "id": "e73e95d59321ca89",
+      "date": 1446737469835
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d837aa92ded73596",
+        "text": "Write a guide to writing Transporters."
+      },
+      "after": "e73e95d59321ca89",
+      "id": "d837aa92ded73596",
+      "date": 1446737472905
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e2584ee6b9cf3c9a",
+        "text": "Create npm @ward/wiki for experimenters."
+      },
+      "after": "d837aa92ded73596",
+      "id": "e2584ee6b9cf3c9a",
+      "date": 1446737475278
+    },
+    {
+      "type": "add",
+      "id": "06df698110ae13ec",
+      "item": {
+        "type": "paragraph",
+        "id": "06df698110ae13ec",
+        "text": "See [[About Transport Plugin]]"
+      },
+      "after": "20e2a2ce00287698",
+      "date": 1446753224382
+    },
+    {
+      "type": "fork",
+      "site": "plugin.fedwiki.org",
+      "date": 1446804561333
+    },
+    {
+      "type": "move",
+      "order": [
+        "45c24bb00f1e8fe8",
+        "20e2a2ce00287698",
+        "4690e7d1727dd6f2",
+        "06df698110ae13ec",
+        "1884835bcb1dc179",
+        "113a8706f439b5c9",
+        "19b90da6223fc4cc",
+        "215faf11730a3393",
+        "a7a736fce4334e7f",
+        "4ccd7efcbc006460",
+        "90bb152b3d953d93",
+        "eea67517042acd66",
+        "26f80bb0b9e115b6",
+        "af0ed6bb27e8a533",
+        "02123d64a0e2f72c",
+        "bfd66f5e98d0c398",
+        "edec43f08fe578c6",
+        "f2d4670b22789df1",
+        "8b289994c2aa4216",
+        "b33a32d174b3245d",
+        "2371ad572b59402d",
+        "1445609f2369109f",
+        "e73e95d59321ca89",
+        "d837aa92ded73596",
+        "e2584ee6b9cf3c9a",
+        "f04ef733fd43c514",
+        "f2896a003e332914",
+        "a505049f3a20aba7"
+      ],
+      "id": "20e2a2ce00287698",
+      "date": 1448019115304
+    },
+    {
+      "type": "move",
+      "order": [
+        "45c24bb00f1e8fe8",
+        "20e2a2ce00287698",
+        "06df698110ae13ec",
+        "1884835bcb1dc179",
+        "4690e7d1727dd6f2",
+        "113a8706f439b5c9",
+        "19b90da6223fc4cc",
+        "215faf11730a3393",
+        "a7a736fce4334e7f",
+        "4ccd7efcbc006460",
+        "90bb152b3d953d93",
+        "eea67517042acd66",
+        "26f80bb0b9e115b6",
+        "af0ed6bb27e8a533",
+        "02123d64a0e2f72c",
+        "bfd66f5e98d0c398",
+        "edec43f08fe578c6",
+        "f2d4670b22789df1",
+        "8b289994c2aa4216",
+        "b33a32d174b3245d",
+        "2371ad572b59402d",
+        "1445609f2369109f",
+        "e73e95d59321ca89",
+        "d837aa92ded73596",
+        "e2584ee6b9cf3c9a",
+        "f04ef733fd43c514",
+        "f2896a003e332914",
+        "a505049f3a20aba7"
+      ],
+      "id": "4690e7d1727dd6f2",
+      "date": 1448019124442
+    },
+    {
+      "type": "move",
+      "order": [
+        "45c24bb00f1e8fe8",
+        "20e2a2ce00287698",
+        "06df698110ae13ec",
+        "4690e7d1727dd6f2",
+        "1884835bcb1dc179",
+        "113a8706f439b5c9",
+        "19b90da6223fc4cc",
+        "215faf11730a3393",
+        "a7a736fce4334e7f",
+        "4ccd7efcbc006460",
+        "90bb152b3d953d93",
+        "eea67517042acd66",
+        "26f80bb0b9e115b6",
+        "af0ed6bb27e8a533",
+        "02123d64a0e2f72c",
+        "bfd66f5e98d0c398",
+        "edec43f08fe578c6",
+        "f2d4670b22789df1",
+        "8b289994c2aa4216",
+        "b33a32d174b3245d",
+        "2371ad572b59402d",
+        "1445609f2369109f",
+        "e73e95d59321ca89",
+        "d837aa92ded73596",
+        "e2584ee6b9cf3c9a",
+        "f04ef733fd43c514",
+        "f2896a003e332914",
+        "a505049f3a20aba7"
+      ],
+      "id": "1884835bcb1dc179",
+      "date": 1448019128900
+    },
+    {
+      "type": "edit",
+      "id": "1884835bcb1dc179",
+      "item": {
+        "type": "paragraph",
+        "id": "1884835bcb1dc179",
+        "text": "# History"
+      },
+      "date": 1448019141862
+    },
+    {
+      "type": "edit",
+      "id": "1884835bcb1dc179",
+      "item": {
+        "type": "markdown",
+        "id": "1884835bcb1dc179",
+        "text": "# History"
+      },
+      "date": 1448019143824
+    },
+    {
+      "type": "add",
+      "id": "d55a84e14c58a882",
+      "item": {
+        "type": "paragraph",
+        "id": "d55a84e14c58a882",
+        "text": "We experimented with generating pages from remote servers that could produce correct json but were not otherwise wiki servers."
+      },
+      "after": "1884835bcb1dc179",
+      "date": 1448019144909
+    },
+    {
+      "type": "edit",
+      "id": "1884835bcb1dc179",
+      "item": {
+        "type": "markdown",
+        "id": "1884835bcb1dc179",
+        "text": "# Development History"
+      },
+      "date": 1448019150104
+    },
+    {
+      "type": "move",
+      "order": [
+        "45c24bb00f1e8fe8",
+        "20e2a2ce00287698",
+        "06df698110ae13ec",
+        "1884835bcb1dc179",
+        "d55a84e14c58a882",
+        "4690e7d1727dd6f2",
+        "113a8706f439b5c9",
+        "19b90da6223fc4cc",
+        "215faf11730a3393",
+        "a7a736fce4334e7f",
+        "4ccd7efcbc006460",
+        "90bb152b3d953d93",
+        "eea67517042acd66",
+        "26f80bb0b9e115b6",
+        "af0ed6bb27e8a533",
+        "02123d64a0e2f72c",
+        "bfd66f5e98d0c398",
+        "edec43f08fe578c6",
+        "f2d4670b22789df1",
+        "8b289994c2aa4216",
+        "b33a32d174b3245d",
+        "2371ad572b59402d",
+        "1445609f2369109f",
+        "e73e95d59321ca89",
+        "d837aa92ded73596",
+        "e2584ee6b9cf3c9a",
+        "f04ef733fd43c514",
+        "f2896a003e332914",
+        "a505049f3a20aba7"
+      ],
+      "id": "4690e7d1727dd6f2",
+      "date": 1448019157815
+    },
+    {
+      "type": "add",
+      "id": "24faaa023804eb84",
+      "item": {
+        "type": "paragraph",
+        "id": "24faaa023804eb84",
+        "text": "# Issues and Future"
+      },
+      "after": "06df698110ae13ec",
+      "date": 1448019174374
+    },
+    {
+      "type": "add",
+      "id": "ffb6b43802b29328",
+      "item": {
+        "type": "paragraph",
+        "id": "ffb6b43802b29328",
+        "text": "Currently the plugin uses client side [[REST]] calls to the external web service. This puts a requirement on that external service to provide the necessary [[CORS Headers]] to the result they return, which is not a standard feature of REST services, and places an additional demand on the coder of the external service."
+      },
+      "after": "24faaa023804eb84",
+      "date": 1448019268400
+    },
+    {
+      "type": "add",
+      "id": "7eb5d5f8cb6b0859",
+      "item": {
+        "type": "paragraph",
+        "id": "7eb5d5f8cb6b0859",
+        "text": "Given our requirement to make the creation of services to the federation as easy as possible to anyone with basic coding experience and access to a public server, we ideally don;t want them to have to know about things like [[CORS Headers]] from the get-go."
+      },
+      "after": "ffb6b43802b29328",
+      "date": 1448019340936
+    },
+    {
+      "type": "add",
+      "id": "766191e3918d3e3d",
+      "item": {
+        "type": "paragraph",
+        "id": "766191e3918d3e3d",
+        "text": "# Proposed Changes"
+      },
+      "after": "7eb5d5f8cb6b0859",
+      "date": 1448019354018
+    },
+    {
+      "type": "add",
+      "id": "d50c52ecbdda33d4",
+      "item": {
+        "type": "paragraph",
+        "id": "d50c52ecbdda33d4",
+        "text": "Let's use the server side component of the plugin to make the REST call, and not the client. This would mean that the client receives it's data directly form the site of origin, and no [[CORS Headers]] are required by the provider of the external Web Service."
+      },
+      "after": "766191e3918d3e3d",
+      "date": 1448019446983
+    },
+    {
+      "type": "edit",
+      "id": "766191e3918d3e3d",
+      "item": {
+        "type": "markdown",
+        "id": "766191e3918d3e3d",
+        "text": "# Proposed Changes"
+      },
+      "date": 1448019448160
+    },
+    {
+      "type": "edit",
+      "id": "24faaa023804eb84",
+      "item": {
+        "type": "markdown",
+        "id": "24faaa023804eb84",
+        "text": "# Issues and Future"
+      },
+      "date": 1448019449856
+    },
+    {
+      "type": "edit",
+      "id": "ffb6b43802b29328",
+      "item": {
+        "type": "paragraph",
+        "id": "ffb6b43802b29328",
+        "text": "Currently the plugin uses client side [[REST]] calls to the external web service. This puts a requirement on that external service to provide the necessary [[CORS Headers]] to the result they return, which is not a standard feature of REST services, and places an additional demand on the coder of the external service - [https://github.com/WardCunningham/wiki-plugin-transport/issues/1 github]"
+      },
+      "date": 1448019535132
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4fb3ddb7d1a07967"
+      },
+      "id": "4fb3ddb7d1a07967",
+      "type": "add",
+      "after": "a505049f3a20aba7",
+      "date": 1451555638864
+    },
+    {
+      "type": "edit",
+      "id": "4fb3ddb7d1a07967",
+      "item": {
+        "type": "reference",
+        "id": "4fb3ddb7d1a07967",
+        "site": "future.fedwiki.org",
+        "slug": "transport-infrastructure",
+        "title": "Transport Infrastructure",
+        "text": "We imagine how a component like we see in Transporters could become a casual ecosystem of open computational behavior."
+      },
+      "date": 1451555641224
+    },
+    {
+      "type": "move",
+      "order": [
+        "45c24bb00f1e8fe8",
+        "20e2a2ce00287698",
+        "06df698110ae13ec",
+        "24faaa023804eb84",
+        "ffb6b43802b29328",
+        "4fb3ddb7d1a07967",
+        "7eb5d5f8cb6b0859",
+        "766191e3918d3e3d",
+        "d50c52ecbdda33d4",
+        "1884835bcb1dc179",
+        "d55a84e14c58a882",
+        "4690e7d1727dd6f2",
+        "113a8706f439b5c9",
+        "19b90da6223fc4cc",
+        "215faf11730a3393",
+        "a7a736fce4334e7f",
+        "4ccd7efcbc006460",
+        "90bb152b3d953d93",
+        "eea67517042acd66",
+        "26f80bb0b9e115b6",
+        "af0ed6bb27e8a533",
+        "02123d64a0e2f72c",
+        "bfd66f5e98d0c398",
+        "edec43f08fe578c6",
+        "f2d4670b22789df1",
+        "8b289994c2aa4216",
+        "b33a32d174b3245d",
+        "2371ad572b59402d",
+        "1445609f2369109f",
+        "e73e95d59321ca89",
+        "d837aa92ded73596",
+        "e2584ee6b9cf3c9a",
+        "f04ef733fd43c514",
+        "f2896a003e332914",
+        "a505049f3a20aba7"
+      ],
+      "id": "4fb3ddb7d1a07967",
+      "date": 1451555653265
+    },
+    {
+      "type": "fork",
+      "site": "future.fedwiki.org",
+      "date": 1454424337824
+    }
+  ]
+}

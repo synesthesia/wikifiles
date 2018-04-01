@@ -1,0 +1,146 @@
+{
+  "title": "Personal Knowledge Management",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1296c1b075e76f7e",
+      "text": "Pretty empty right now - I want to explore [[Federated Wiki]] as a tool for supporting PKM, especially Harold Jarche's [http://jarche.com/2014/02/the-seek-sense-share-framework/ Seek Sense Share Framework]"
+    },
+    {
+      "type": "paragraph",
+      "id": "47d8c33012ff6417",
+      "text": "I've decided to set up a [http://pkm.wiki.synesthesia.co.uk/view/welcome-visitors parallel site for the whole pkm thing]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7d8eeb736556f1f9",
+      "text": "Examples of [[Federated Wiki knowledge cycle]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e32498b6c5b3d186",
+      "text": "[[Using Federated Wiki]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Personal Knowledge Management",
+        "story": []
+      },
+      "date": 1454408917763
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1296c1b075e76f7e"
+      },
+      "id": "1296c1b075e76f7e",
+      "type": "add",
+      "date": 1454408925537
+    },
+    {
+      "type": "edit",
+      "id": "1296c1b075e76f7e",
+      "item": {
+        "type": "paragraph",
+        "id": "1296c1b075e76f7e",
+        "text": "Pretty empty right now - I want to explore [[Federated Wiki]] as a tool for ["
+      },
+      "date": 1454408968425
+    },
+    {
+      "type": "edit",
+      "id": "1296c1b075e76f7e",
+      "item": {
+        "type": "paragraph",
+        "id": "1296c1b075e76f7e",
+        "text": "Pretty empty right now - I want to explore [[Federated Wiki]] as a tool for supporting the [http://jarche.com/2014/02/the-seek-sense-share-framework/ Seek Sense Share Framework]"
+      },
+      "date": 1454409007988
+    },
+    {
+      "type": "edit",
+      "id": "1296c1b075e76f7e",
+      "item": {
+        "type": "paragraph",
+        "id": "1296c1b075e76f7e",
+        "text": "Pretty empty right now - I want to explore [[Federated Wiki]] as a tool for supporting PKM, especially Harold Jarche's [http://jarche.com/2014/02/the-seek-sense-share-framework/ Seek Sense Share Framework]"
+      },
+      "date": 1454409083606
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7d8eeb736556f1f9"
+      },
+      "id": "7d8eeb736556f1f9",
+      "type": "add",
+      "after": "1296c1b075e76f7e",
+      "date": 1454422569333
+    },
+    {
+      "type": "edit",
+      "id": "7d8eeb736556f1f9",
+      "item": {
+        "type": "paragraph",
+        "id": "7d8eeb736556f1f9",
+        "text": "Examples of [[Federated Wiki knowledge cycle]]"
+      },
+      "date": 1454422596640
+    },
+    {
+      "type": "add",
+      "id": "e32498b6c5b3d186",
+      "item": {
+        "type": "paragraph",
+        "id": "e32498b6c5b3d186",
+        "text": "[[Using Federated Wiki]]"
+      },
+      "after": "7d8eeb736556f1f9",
+      "date": 1454431906952
+    },
+    {
+      "type": "add",
+      "id": "47d8c33012ff6417",
+      "item": {
+        "type": "paragraph",
+        "id": "47d8c33012ff6417",
+        "text": "I've decided to "
+      },
+      "after": "1296c1b075e76f7e",
+      "date": 1454580539447
+    },
+    {
+      "type": "edit",
+      "id": "47d8c33012ff6417",
+      "item": {
+        "type": "paragraph",
+        "id": "47d8c33012ff6417",
+        "text": "I've decided to set up a [http://pkm.wiki.synesthesia.co.uk/view/about-this-site parallel site for the whole pkm thing]"
+      },
+      "date": 1454580630993
+    },
+    {
+      "type": "edit",
+      "id": "47d8c33012ff6417",
+      "item": {
+        "type": "paragraph",
+        "id": "47d8c33012ff6417",
+        "text": "I've decided to set up a [http://pkm.wiki.synesthesia.co.uk/view/welcome-vistors parallel site for the whole pkm thing]"
+      },
+      "date": 1454580650325
+    },
+    {
+      "type": "edit",
+      "id": "47d8c33012ff6417",
+      "item": {
+        "type": "paragraph",
+        "id": "47d8c33012ff6417",
+        "text": "I've decided to set up a [http://pkm.wiki.synesthesia.co.uk/view/welcome-visitors parallel site for the whole pkm thing]"
+      },
+      "date": 1454580673252
+    }
+  ]
+}

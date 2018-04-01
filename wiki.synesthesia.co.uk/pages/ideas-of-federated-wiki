@@ -1,0 +1,513 @@
+{
+  "title": "Ideas of Federated Wiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "07a77a7edb1bfad0",
+      "text": "Federated Wiki combines a few powerful, well-chosen ideas. It's helpful to know what these are. Most of these ideas exist someplace else, the particular power is the combination of the ideas in a single environment."
+    },
+    {
+      "type": "paragraph",
+      "id": "c018cc39da5e3322",
+      "text": "[[Virtues of Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b9994a8906d276f4",
+      "text": "[[Federation]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b6b5b2032f26eb9e",
+      "text": "[[Forking]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e786835fed3a6fa5",
+      "text": "[[Data not Layout]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "dcffdd8a26ecbc6d",
+      "text": "[[Browser Within a Browser]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "697615e3ef5f702d",
+      "text": "[[Molecular Paragraphs]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b181c692c0d0ec4a",
+      "text": "[[History Travels With Page]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "80464f669ed99c8c",
+      "text": "[[Parallel Pages]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Ideas of Federated Wiki",
+        "story": []
+      },
+      "date": 1422979689968
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "07a77a7edb1bfad0"
+      },
+      "id": "07a77a7edb1bfad0",
+      "type": "add",
+      "date": 1422979693059
+    },
+    {
+      "type": "edit",
+      "id": "07a77a7edb1bfad0",
+      "item": {
+        "type": "paragraph",
+        "id": "07a77a7edb1bfad0",
+        "text": "Federated Wiki combines a few powerful, well-chosen ideas."
+      },
+      "date": 1422979733070
+    },
+    {
+      "type": "edit",
+      "id": "07a77a7edb1bfad0",
+      "item": {
+        "type": "paragraph",
+        "id": "07a77a7edb1bfad0",
+        "text": "Federated Wiki combines a few powerful, well-chosen ideas. It's helpful to know what these are. Most of these ideas exist someplace else, the particular power is the combination of the ideas in a single environment."
+      },
+      "date": 1422979828208
+    },
+    {
+      "type": "add",
+      "id": "9d8f9655edb54cad",
+      "item": {
+        "type": "paragraph",
+        "id": "9d8f9655edb54cad",
+        "text": "First, federated wiki inherits the virtues of wiki."
+      },
+      "after": "07a77a7edb1bfad0",
+      "date": 1422979849700
+    },
+    {
+      "type": "add",
+      "id": "d6297856966bbb11",
+      "item": {
+        "type": "paragraph",
+        "id": "d6297856966bbb11",
+        "text": "The editor/reader distinction is collapsed. There are no separate modes for editing and reading. "
+      },
+      "after": "9d8f9655edb54cad",
+      "date": 1422979918939
+    },
+    {
+      "type": "add",
+      "id": "afa7d80cdd970d33",
+      "item": {
+        "type": "paragraph",
+        "id": "afa7d80cdd970d33",
+        "text": "It implements automatic linking: make a link to a page that doesn't exist and it will prompt you to create that resource. (This creates an unparalleled editing flow, and invites people to create resources that are missing."
+      },
+      "after": "d6297856966bbb11",
+      "date": 1422980160731
+    },
+    {
+      "type": "add",
+      "id": "dbce469959762c95",
+      "item": {
+        "type": "paragraph",
+        "id": "dbce469959762c95",
+        "text": "Markup is reduced and page format is minimal, both to benefit reading and writing."
+      },
+      "after": "afa7d80cdd970d33",
+      "date": 1422980248079
+    },
+    {
+      "type": "edit",
+      "id": "9d8f9655edb54cad",
+      "item": {
+        "type": "paragraph",
+        "id": "9d8f9655edb54cad",
+        "text": "First, federated wiki inherits the virtues of wiki:"
+      },
+      "date": 1422980257630
+    },
+    {
+      "type": "edit",
+      "id": "afa7d80cdd970d33",
+      "item": {
+        "type": "paragraph",
+        "id": "afa7d80cdd970d33",
+        "text": "It implements automatic linking: make a link to a page that doesn't exist and it will prompt you to create that resource. (This creates an unparalleled editing flow, and invites people to create resources that are missing)."
+      },
+      "date": 1422980270668
+    },
+    {
+      "type": "add",
+      "id": "1e9e73cda17dc9ad",
+      "item": {
+        "type": "paragraph",
+        "id": "1e9e73cda17dc9ad",
+        "text": "The flat, non-hierachical structure promotes cross-linking and reuse. "
+      },
+      "after": "dbce469959762c95",
+      "date": 1422980318884
+    },
+    {
+      "type": "add",
+      "id": "3e70748024a10dc8",
+      "item": {
+        "type": "paragraph",
+        "id": "3e70748024a10dc8",
+        "text": "Page names double as links, making it easy to reference a page without looking up a URL or page ID."
+      },
+      "after": "1e9e73cda17dc9ad",
+      "date": 1422980380955
+    },
+    {
+      "type": "edit",
+      "id": "1e9e73cda17dc9ad",
+      "item": {
+        "type": "paragraph",
+        "id": "1e9e73cda17dc9ad",
+        "text": "The flat, non-hierachical structure promotes cross-linking and reuse, leading to densely networked materials."
+      },
+      "date": 1422980418833
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8327512a2f98dfbc"
+      },
+      "id": "8327512a2f98dfbc",
+      "type": "add",
+      "after": "3e70748024a10dc8",
+      "date": 1422981031661
+    },
+    {
+      "type": "edit",
+      "id": "8327512a2f98dfbc",
+      "item": {
+        "type": "paragraph",
+        "id": "8327512a2f98dfbc",
+        "text": "<b>Virtues of Wiki</b>"
+      },
+      "date": 1422981043652
+    },
+    {
+      "type": "edit",
+      "id": "8327512a2f98dfbc",
+      "item": {
+        "type": "html",
+        "id": "8327512a2f98dfbc",
+        "text": "<b>Virtues of Wiki</b>"
+      },
+      "date": 1422981046748
+    },
+    {
+      "type": "move",
+      "order": [
+        "07a77a7edb1bfad0",
+        "8327512a2f98dfbc",
+        "9d8f9655edb54cad",
+        "d6297856966bbb11",
+        "afa7d80cdd970d33",
+        "dbce469959762c95",
+        "1e9e73cda17dc9ad",
+        "3e70748024a10dc8"
+      ],
+      "id": "8327512a2f98dfbc",
+      "date": 1422981049714
+    },
+    {
+      "type": "add",
+      "id": "da45d71b93c2e4cc",
+      "item": {
+        "type": "paragraph",
+        "id": "da45d71b93c2e4cc",
+        "text": "(There are more virtues of wiki, but that is enough for now)."
+      },
+      "after": "3e70748024a10dc8",
+      "date": 1422981200220
+    },
+    {
+      "type": "add",
+      "id": "b72704f7e053013b",
+      "item": {
+        "type": "paragraph",
+        "id": "b72704f7e053013b",
+        "text": "<b>Federation</b>"
+      },
+      "after": "da45d71b93c2e4cc",
+      "date": 1422981210913
+    },
+    {
+      "type": "edit",
+      "id": "b72704f7e053013b",
+      "item": {
+        "type": "html",
+        "id": "b72704f7e053013b",
+        "text": "<b>Federation</b>"
+      },
+      "date": 1422981215445
+    },
+    {
+      "type": "add",
+      "id": "afb9aef2696cd3f1",
+      "item": {
+        "type": "paragraph",
+        "id": "afb9aef2696cd3f1",
+        "text": "Federation gets title billing in the name and it is one of the key features, but not the only one. "
+      },
+      "after": "b72704f7e053013b",
+      "date": 1422981241683
+    },
+    {
+      "type": "add",
+      "id": "cabf2b59ddef1cf1",
+      "item": {
+        "type": "paragraph",
+        "id": "cabf2b59ddef1cf1",
+        "text": "The web is a federated document database. Pages from wildly different sites are shown in a single browser interface."
+      },
+      "after": "afb9aef2696cd3f1",
+      "date": 1422981357517
+    },
+    {
+      "type": "add",
+      "id": "3b932d5440351190",
+      "item": {
+        "type": "paragraph",
+        "id": "3b932d5440351190",
+        "text": "The Read/Write web is not federated. To edit a WordPress page you must use the WordPress interface that server provides. Same with Tumblr."
+      },
+      "after": "cabf2b59ddef1cf1",
+      "date": 1422981561757
+    },
+    {
+      "type": "edit",
+      "id": "afb9aef2696cd3f1",
+      "item": {
+        "type": "paragraph",
+        "id": "afb9aef2696cd3f1",
+        "text": "Federation gets title billing in the name. It is one of the key features, but not the only one. "
+      },
+      "date": 1422981567971
+    },
+    {
+      "type": "edit",
+      "id": "3b932d5440351190",
+      "item": {
+        "type": "paragraph",
+        "id": "3b932d5440351190",
+        "text": "Federated Wiki goes a step further, federating the read/write web. Documents from many different servers are pulled together into your browser. Clicking into edit any one brings a copy of it to your server, while preserving pointers and history from the server it came from."
+      },
+      "date": 1422996308748
+    },
+    {
+      "type": "remove",
+      "id": "8327512a2f98dfbc",
+      "date": 1422996333630
+    },
+    {
+      "type": "remove",
+      "id": "b72704f7e053013b",
+      "date": 1422996339058
+    },
+    {
+      "type": "add",
+      "id": "c018cc39da5e3322",
+      "item": {
+        "type": "paragraph",
+        "id": "c018cc39da5e3322",
+        "text": "[[Virtues of Wiki]]"
+      },
+      "after": "07a77a7edb1bfad0",
+      "date": 1422996352524
+    },
+    {
+      "type": "remove",
+      "id": "9d8f9655edb54cad",
+      "date": 1422996357900
+    },
+    {
+      "type": "remove",
+      "id": "d6297856966bbb11",
+      "date": 1422996360051
+    },
+    {
+      "type": "remove",
+      "id": "afa7d80cdd970d33",
+      "date": 1422996362464
+    },
+    {
+      "type": "remove",
+      "id": "dbce469959762c95",
+      "date": 1422996364522
+    },
+    {
+      "type": "remove",
+      "id": "1e9e73cda17dc9ad",
+      "date": 1422996368063
+    },
+    {
+      "type": "remove",
+      "id": "3e70748024a10dc8",
+      "date": 1422996370365
+    },
+    {
+      "type": "remove",
+      "id": "da45d71b93c2e4cc",
+      "date": 1422996373859
+    },
+    {
+      "type": "add",
+      "id": "b9994a8906d276f4",
+      "item": {
+        "type": "paragraph",
+        "id": "b9994a8906d276f4",
+        "text": "[[Federation]]"
+      },
+      "after": "c018cc39da5e3322",
+      "date": 1422996384517
+    },
+    {
+      "type": "remove",
+      "id": "afb9aef2696cd3f1",
+      "date": 1422996391344
+    },
+    {
+      "type": "remove",
+      "id": "cabf2b59ddef1cf1",
+      "date": 1422996393834
+    },
+    {
+      "type": "remove",
+      "id": "3b932d5440351190",
+      "date": 1422996396200
+    },
+    {
+      "type": "add",
+      "id": "b6b5b2032f26eb9e",
+      "item": {
+        "type": "paragraph",
+        "id": "b6b5b2032f26eb9e",
+        "text": "[[Forking]]"
+      },
+      "after": "b9994a8906d276f4",
+      "date": 1422996480329
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "60a0f6b264469f23"
+      },
+      "id": "60a0f6b264469f23",
+      "type": "add",
+      "after": "b6b5b2032f26eb9e",
+      "date": 1422997641106
+    },
+    {
+      "type": "remove",
+      "id": "60a0f6b264469f23",
+      "date": 1422999797756
+    },
+    {
+      "type": "add",
+      "id": "e786835fed3a6fa5",
+      "item": {
+        "type": "paragraph",
+        "id": "e786835fed3a6fa5",
+        "text": "[[Data not Layout]]"
+      },
+      "after": "b6b5b2032f26eb9e",
+      "date": 1422999903690
+    },
+    {
+      "type": "add",
+      "id": "dcffdd8a26ecbc6d",
+      "item": {
+        "type": "paragraph",
+        "id": "dcffdd8a26ecbc6d",
+        "text": "[[Browser Within a Browser]]"
+      },
+      "after": "e786835fed3a6fa5",
+      "date": 1423000164316
+    },
+    {
+      "type": "add",
+      "id": "697615e3ef5f702d",
+      "item": {
+        "type": "paragraph",
+        "id": "697615e3ef5f702d",
+        "text": "[[Paragraphs as Atoms]]"
+      },
+      "after": "dcffdd8a26ecbc6d",
+      "date": 1423000593589
+    },
+    {
+      "type": "edit",
+      "id": "697615e3ef5f702d",
+      "item": {
+        "type": "paragraph",
+        "id": "697615e3ef5f702d",
+        "text": "[[Molecular Paragraphs]]"
+      },
+      "date": 1423001568819
+    },
+    {
+      "type": "add",
+      "id": "b181c692c0d0ec4a",
+      "item": {
+        "type": "paragraph",
+        "id": "b181c692c0d0ec4a",
+        "text": "[[Cross-Site Histories]]"
+      },
+      "after": "697615e3ef5f702d",
+      "date": 1423001866931
+    },
+    {
+      "type": "edit",
+      "id": "b181c692c0d0ec4a",
+      "item": {
+        "type": "paragraph",
+        "id": "b181c692c0d0ec4a",
+        "text": "[[History Travels With Page]]"
+      },
+      "date": 1423001896702
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1423008702220
+    },
+    {
+      "type": "add",
+      "id": "80464f669ed99c8c",
+      "item": {
+        "type": "paragraph",
+        "id": "80464f669ed99c8c",
+        "text": "[[Parallel Pages]]"
+      },
+      "after": "b181c692c0d0ec4a",
+      "site": "orientation.hapgood.net",
+      "date": 1423008702213
+    },
+    {
+      "type": "fork",
+      "date": 1423008741808
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454432203039
+    }
+  ]
+}

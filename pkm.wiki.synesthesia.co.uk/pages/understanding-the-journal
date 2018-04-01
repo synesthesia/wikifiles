@@ -1,0 +1,736 @@
+{
+  "title": "Understanding the Journal",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "c90407678fdff76b",
+      "text": "#What is the Journal?\n\nIt's the record of all the changes made to the page. "
+    },
+    {
+      "type": "markdown",
+      "id": "f43e5064ba8b0943",
+      "text": "##Why is it called the Journal?"
+    },
+    {
+      "type": "paragraph",
+      "id": "36714f2ef176d146",
+      "text": "Because the page is built from a (simple) database and, in database lingo, the change history is called a journal."
+    },
+    {
+      "type": "markdown",
+      "id": "0a3bef6bc17e5a5c",
+      "text": "##Working with the Journal"
+    },
+    {
+      "type": "image",
+      "id": "7dc2651e9b47325c",
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAasAAABHCAYAAAC54GggAAAYJ2lDQ1BJQ0MgUHJvZmlsZQAAWIWVeQk4Vd/X/z733MnlmudZZjLPJPM8z0Mq1zzTNUWRkAyVZEghhUSKRlNChpRkylCKFEKpVIZMeQ+q7+//ff/v8z7vfp597ueuvdban7332nufdS8AHKykkJAAFC0AgUFhZGsDbV5HJ2de3FsAARQgAh4gSHIPDdGytDQF/2NZGkK0kfJCYsvX/6z3/y10Hp6h7gBAlgh28wh1D0TwPQDQ7O4h5DAAML2InD8yLGQLLyCYkYwQBACL38LeO5hzC7vtYOltHVtrHQTrAoCnIpHI3gBQb/nnjXD3RvxQhyBt9EEevkGIaiKC97r7kDwAYG9DdHYHBgZv4XkEi7j9hx/v/8en21+fJJL3X7wzlu2C1/UNDQkgRf0fp+N/L4EB4X/62IVUKh+yofXWmJF5K/MPNtnCVAhuCHIzt0AwPYKf+Hps62/hEZ9wQ7vf+nPuoTrInAFmgCy2B0nXBMHIXKKYw/3ttH5jWRJ52xbRR5n7hhnZ/sZu5GDr3/5REZ6hejZ/sI+nkelvn8lBAeZ/8CUvX30jBCORhroX7WPrsMMT1Rbha2+OYGoE94b625j81h+L9tEx/6NDDrfe4iyA4AUvsr71jg7MGhj6Z1ywpDtpmwMrgjXDfGwNd2xhR89QR9M/3Dw8dfV2OMAenkF2vznDSHRpW/+2TQoJsPytD1/yDDCw3pln+FZohM0f2/4wJMB25gF+70cyttzhDy+FhFna7nBDo4Ep0AG6gBeEI9UNBAM/4Ns9VzOHfNtp0QckQAbewBNI/Jb8sXDYbglCnjYgGnxGkCcI/Wunvd3qCSIQ+cZf6c5TAnhtt0ZsW/iDDwgORLOj96LV0KbIUxOpsmhltMofO16aP71i9bC6WEOsPlb0Lw93hHUAUsnA97/L/rHEfMD0Yd5jBjHjmFfABGn1RMa8xTDo78jsweS2l9/fD/rGk//FnBeYgXHETv/36NwQ69k/OmghhLUCWhutjvBHuKOZ0exAAi2PjEQLrYGMTQGR/ifD8L8s/pnLf/e3xe8/x/hbTi1GrfCbhdtf/jp/tf7tRec/5sgD+TT5tyacDN+FO+BH8FO4Aa4BvHATXAt3wQ+38N9ImNyOhD+9WW9z80f8+P7Rka6QnpVe/2+9k34zIG+vNwjzPBy2tSF0gkOiyL7ePmG8WsiJ7MlrFOQuuZtXVlpGAYCt833n+PhhvX1uQ8w9/8hIyPmtLAsAQfsfWTByDlRmI2F94R+ZELI32VQAuGPtHk6O2JGhtx4YQAA0yM5gA9yAH4ggY5IFikANaAI9YAwsgC1wAgeQWfcBgQjrSHAUHAdJIA2cBdngIigExaAM3AR3QA1oAI/AY/AM9IJB8BqJjSnwCcyDJbAGQRAOIkIMEBvEAwlC4pAspAzthfQgU8gacoJcIW8oCAqHjkIJUBp0DroIXYHKodtQHfQIegr1Qa+gd9As9B1aRcEoKhQjigslhJJCKaO0UCYoW9R+lDfqECoalYg6g8pFFaFuoKpRj1DPUIOocdQn1CIMYEqYGeaDJWBlWAe2gJ1hL5gMx8KpcA5cBFfC9chav4DH4Tl4BY1FM6B50RJIfBqi7dDu6EPoWPQp9EV0Gboa3YZ+gX6Hnkf/whAxnBhxjCrGCOOI8cZEYpIwOZhSzH1MO7KjpjBLWCyWGSuMVUL2phPWD3sEewpbgK3CNmP7sBPYRRwOx4YTx6njLHAkXBguCXcBdwPXhOvHTeF+4inxPHhZvD7eGR+Ej8fn4K/jG/H9+Gn8GgUthSCFKoUFhQdFFEU6RQlFPUUPxRTFGoGOIExQJ9gS/AjHCbmESkI74Q3hByUl5S5KFUorSl/KOMpcyluUTyjfUa5Q0VOJUelQuVCFU52hukbVTPWK6geRSBQiahKdiWHEM8RyYitxjPiTmoFaktqI2oP6GHUedTV1P/UXGgoaQRotmgM00TQ5NHdpemjmaClohWh1aEm0sbR5tHW0w7SLdAx0MnQWdIF0p+iu0z2lm6HH0QvR69F70CfSF9O30k8wwAz8DDoM7gwJDCUM7QxTjFhGYUYjRj/GNMabjN2M80z0TPJM9kyHmfKYHjKNM8PMQsxGzAHM6cx3mIeYV1m4WLRYPFlSWCpZ+lmWWTlYNVk9WVNZq1gHWVfZeNn02PzZMthq2EbZ0exi7FbskeyX2NvZ5zgYOdQ43DlSOe5wjHCiOMU4rTmPcBZzdnEucnFzGXCFcF3gauWa42bm1uT2487ibuSe5WHg2cvjy5PF08TzkZeJV4s3gDeXt413no+Tz5AvnO8KXzff2i7hXXa74ndV7RrlJ/Ar83vxZ/G38M8L8AiYCRwVqBAYEaQQVBb0ETwv2CG4LCQs5CB0UqhGaEaYVdhIOFq4QviNCFFEQ+SQSJHIgChWVFnUX7RAtFcMJaYg5iOWJ9YjjhJXFPcVLxDv243ZrbI7aHfR7mEJKgktiQiJCol3ksySppLxkjWSX6QEpJylMqQ6pH5JK0gHSJdIv5ahlzGWiZepl/kuKybrLpsnOyBHlNOXOyZXK/dNXlzeU/6S/EsFBgUzhZMKLQobikqKZMVKxVklASVXpXylYWVGZUvlU8pPVDAq2irHVBpUVlQVVcNU76h+VZNQ81e7rjazR3iP556SPRPqu9RJ6lfUx/fy7nXde3nvuAafBkmjSOO9Jr+mh2ap5rSWqJaf1g2tL9rS2mTt+9rLOqo6MTrNurCugW6qbrcevZ6d3kW9Mf1d+t76FfrzBgoGRwyaDTGGJoYZhsNGXEbuRuVG88ZKxjHGbSZUJjYmF03em4qZkk3rzVBmxmaZZm/MBc2DzGssgIWRRabFqKWw5SHLB1ZYK0urPKsP1jLWR607bBhsDtpct1my1bZNt31tJ2IXbtdiT2PvYl9uv+yg63DOYdxRyjHG8ZkTu5OvU60zztneudR5cZ/evux9Uy4KLkkuQ/uF9x/e//QA+4GAAw8P0hwkHbzrinF1cL3uuk6yIBWRFt2M3PLd5t113M+7f/LQ9MjymPVU9zznOe2l7nXOa8Zb3TvTe9ZHwyfHZ85Xx/ei7zc/Q79Cv2V/C/9r/psBDgFVgfhA18C6IPog/6C2YO7gw8F9IeIhSSHjh1QPZR+aJ5uQS0Oh0P2htWGMyKtOV7hI+InwdxF7I/IifkbaR949THc46HBXlFhUStR0tH701SPoI+5HWo7yHT1+9F2MVsyVWCjWLbblGP+xxGNTcQZxZccJx/2PP4+Xjj8Xv5DgkFCfyJUYlzhxwuBERRJ1Ejlp+KTaycJkdLJvcneKXMqFlF+pHqmdadJpOWnrp9xPdZ6WOZ17evOM15nudMX0S2exZ4PODmVoZJSdozsXfW4i0yyzOos3KzVrIftg9tMc+ZzC84Tz4efHc01zay8IXDh7Yf2iz8XBPO28qnzO/JT85QKPgv5LmpcqC7kK0wpXL/tefnnF4Ep1kVBRTjG2OKL4Q4l9ScdV5avlpeylaaUb14KujZdZl7WVK5WXX+e8nl6BqgivmL3hcqP3pu7N2kqJyitVzFVpt8Ct8Fsfb7veHrpjcqflrvLdynuC9/LvM9xPrYaqo6rna3xqxmudavvqjOta6tXq7z+QfHCtga8h7yHTw/RGQmNi42ZTdNNic0jz3CPvRxMtB1tetzq2DrRZtXW3m7Q/eaz/uLVDq6PpifqThqeqT+s6lTtrnik+q+5S6Lr/XOH5/W7F7uoepZ7aXpXe+r49fY39Gv2PXui+eDxgNPBs0Hywb8hu6OWwy/D4S4+XM68CXn0biRhZex33BvMmdZR2NGeMc6zorejbqnHF8YfvdN91vbd5/3rCfeLTZOjk+lTiB+KHnGme6fIZ2ZmGWf3Z3o/7Pk59Cvm0Npf0me5z/heRL/e+an7tmnecn/pG/rb5/dQPth/XFuQXWhYtF8eWApfWllN/sv0sW1Fe6Vh1WJ1ei1zHreduiG7U/zL59WYzcHMzhEQmbb8KwEhFeXkB8P0aAEQnABiQPI5AvZN//S4wtJV2AGAPSUKfUG1wAtoGo4kVxrHjWSl4COqU5lT+xLPUdTRzdBL0ngzFjBPMYixRrE3sNBwOnCVcP3j28CbyPeenE7AWPC30TASIyol5iZ/f3SmxLCUibSUTJ1shN6iAUpRR2q+cqlKt+m4PUV15r6tGiuZtrTc6eF1FPXf9swa1hmPGkImAqYGZn3m6xT3Ll1Y/bZht5ews7AMdTjtWOj1zfrdv3mV5/9pB4EogsblJuGt5WHse9PL0JvnY+O7x4/WH/McDmgIvByUE+4RYHlIm84biQ7+GDYU3RpRFZh6OjQqIdjpidFQ9RilW8ZhKnNZxk3iHBM/EsBMnkrJOliTfTWlO7UobOvX29PSZz+nfzy5mLJ1bzFzMWs1Bn2fK3X3B4KJ73rH83ILKS02Fzy4PXBkpGi+eLVkoha8xlYmVa193qYi8kXXzTmVf1bfbdHfk7trcC71/trq8pr72UV1rffODBw33H1Y1ljcVNxc8ym5JbT3a5tdu81ixg7Vj5cn4057Ox89aux49b+iu6sntDe3T6Sf2v3iRN+A1qDCEGRoeLnsZ8UpzBDvSgcSXwpvp0YwxtbGJt6fH1cY/vSt8bz0BT1RN2k2uTGV92P2hadp6enLmxKzU7OTHsk9Bc3Jzi5+rvrh/pft6f95y/sO3o99Zvj/+kb4QtEha8kLiaHK1fUNyc3N7/fmhWyg/WBaeQd/GxGEdcep4CQphgjDlLippoiq1FY07bSxdIX0jwywTLbMyC4k1me0e+xgnJZcc9z6eON4rfE27XvMvClIK8QgriBiJuopFiWfuvi3RJTkjjZbhk90j5ywfppCmWKJUp/xc5b3qwh6sOsdeGQ0zzQCtdO1bOr26n/XxBlyGskZ6xnYm7qZBZofNYy0SLE9YJVkn26TanrJLtU90iHL0cbJ11t2n4aK/3/lA5MFs11ukFrdO93aP+575Xke8HXykfal85/x6/esDygPzgtKD40PIh1zImqE8oWthg+E3I5Ii3Q7rRUlHCxzhOsoWwxRLewx7bCnu/fHO+NsJ2YmRJ/YnGZ/UTTZNIaUeT7t66vHpsTNf0hfPLmcsnvuROZ/1OXsu58v5nxdoL6rkBeWXFnRfmiicvTx15W3Rq+K+kidXG0sbrnWWfb7OV7H/Rv7NV1WMt8xvJyOn18p9yWqPmrza/nrMA/mGgw9PNJY2NTQ3PrrecrY1pi2yPe5xekfBk+KnlzrPPAvvsnku0Y3uHum505vW59dv9UJvQG/QashtOPxl4quTIzGvvd7ojLKPzo3VvT057vhO4j3+/YeJ1smCqUMfNKeppgdmimePffT95DHn8znwS8jXkPmQb+TvET+iFiIXfZcMlmmW7/7U+/lsxXnl82rvOtXGyPb6i4M2yAR6ifKEsXA6Whzdg4nGSmFncVfxPhRSFCuETspCqkiiNbUsDTXNEu0rumb6coZMxhgmb2ZrFnVWUTYmtnX2GY5+zkauSu5injzeHL6sXen8SQIRgiQhPWFe4Z8iXaKFYqHihrv5JFASs5LDUk+k62Wuy+bKxcm7KqgoYhV7lLKVHVXYVF6pFqh57JFVx6qP7a3WSNf00dLVFtKh1QW6P/Sm9YcMHhjmGHkaCxqPm+SaWpjhzFrNEyyMLFktP1o1Wmfa+Niq2RHtxuxvOhx1NHZicnrrXLYvGLn/V/Y/PBB3UMcV79pHynfzd9/jQeUx4nnN65C3sve6T5NvnJ+mP/BvDjgeqBOEDmoPPhGiFfLzUAXZCbmzy8MswhbCcyP2RIxFxh3mOvwwyjWaOXrkSMXRhBjHWJHYpWOtcZnHveN1E8QSWU9QJoGkhZMTyc9TqlJPpZFOyZ/GnR45cys99ax/hsE5+nOPM/dlzmVFZ2vlaJ9PvoC/mJo3WcB2SbZQ5bLKFYUiqWKREr6rbKV01whlFOU0SCSp33C9ebLyZtWLW+t3RO463zt3v6+GsdapLr9+uAHzULTRoMmt+dijSy2NrW/bNh/zdeg88X56qvP2s6GujW7Rnn295/vGXsgOnB78Mmzzsm6E73X2qNRb6neRk2kzUZ/Nvy+tWG2t/87vcFsFqwhAJpJn2p9G6iwAGTVInvkAABYCAJZEAGxVAOpkJUAZVALI/8Tf+wNCEk88knMyAx4gCuSRTNMUOCOZ82GQgmSUN0Aj6AcfwDpED4lCmkh+GAqdRvLBdmgCBaH4UNooD9RJJMvrR63C/LAZHA2XwcNoPFoVHYguRr/C0GNMkIysFQthNbFx2BYcBmeMO4t7iefDB+DrKHAUDhRlFKsEM8IVwjKlOWUZFZrKjaqVKEhMIX6htqVuQDKdDFpAe4h2ks6Jroden/4hgzJDNaMqYyuTNdMEczgLliWHVYi1ls2cbYY9mUOGY4KzkMuNW5z7J89j3mw+j13y/Fj+1wJ3BdOFAoRNRMRFiaLzYoPiD3ZfkoiVdJFSkWaUnpd5LntdLkXeR8FYUVKJSWlT+bPKmGq/WueedvW2vR0a3ZojWjPaS7pAD4ucc3hDvBGFMZUJoymfmby5uUWQZZZVg/WULdFO3t7JIcbxslOb87QL5X7pA/YHj7qWkLrdfnoIeNp4nfBu8Fn10/G/ELAS5B7cf0if3BAmH14VKXH4dvSeI70xwcc444bisxJNTyydzErZndp+yvMMU/rbjOeZo9mbubwXVfJNLx28HFV0uWTkmkT55RvSleO3r9w7UENZV9mwv0m8hadd/0lRF1WPSN/SQMawyKu+N5fenn/f/8F1duUz/dcb38GC9JLK8uZK6mrt2sD6g43iXyGbStvnB7T9mwM94ABCQBZoADPgAgJBLMgAJaAO9IApsAExQ1KQMeQFJUBF0CPoPQqNEkaZosioi6hW1FeYEzaBj8JV8CSaHW2NTkO3YyCMOuYI5gFmHauBTcA+xdHinHBXcd/xWvhM/AcKNYpMijmCPrLm65SOlPeQTJhMNUBUIV6mpqQ+TD1N40TTTatP20y3l66JXoe+k8GGYRTJTFeZ0pnFmJ+xHGJlZq1ms2L7wB7FQeQo4dTknOTK4DbmoeYZ5b3Ld2aXL7+2AKvAJ8GHQmeFvUS0RQXF6MXxuzESeElqKXppOhm8zIrsjNywfKfCI8VHSp3Kr1W+q1HvkVa32uurEaZJ1vLRdtQx0FXRk9dXNjAwPGgUa3zFpMN03pzDQs/SH7nTsmzO22bbZdlfdmhy/OassC/O5fkB7oNhrj1u/O5eHtme9726vSd91vyY/eUCbAMjgi4GN4d8JLOE6odFhF+LGDlMG2UWnX7kZYxQbMyxiePeCbSJnUlhydiUk2noU8lnONJbM+IzHbN1zqtdUMtTK1ApFL2CLnpcElHKce1huVsF043RyvZbPXcW78vUHK171kDTqNtMbiltm+3QfnqnS6Y7v3e0f2Hg29D0y4mRmTcLb6F3hAnGKYFpw9mcOaWvqT9KlwNWutcS11s3Fn6tbK8/Ctn9dIAbSIC9wAp4gRiQA26BLvARooDEITOIDOVCzdBHFDNKFxWGKkWNwHSwEZwIN8MbaDV0NLoevY7RwqRihrGi2OPYUdxeXBEejw/GD1CoUBQQUAQ/wiClLuUDKhWqR0RL4gfqeBo+mmZaF9olurP0EvTPGYIYiYxlTNpMb5ijWLhZulnPsLmxa3OIcTJyrnGNctfynOMN5DPdJc3PKoAVWBH8JvRV+IfIhhi1uMBuTQlXyTipAulamReyP+TZFYwU45VaVahUXdRuqeOQd9VGrV3ambrMepUGzkZ0xn2mF82DLe2sZW1G7JztuxwNnV7s83L5eSDBFSKFuA16KHnme1P4HPcj+BcHmgWDkBpycBh3eGtkeJTHkS+xJXFRx4fi1xNRJ/BJtCflkkNTBtLsTs2eST4rmfEqMzlbLedbbvnFA/mEgmuFSpcfFmkUN1/VLe0ssywfqLC90VupX1V3W+TO+Xv4+zHV67Up9UIPeh/GNyk2z7bkt1k8Rnc8eBr6TLxrsvtSr2M/44v+wfRh45ebIzfeWIzOvA0f33gfPwlPxU+jZhI+oj8dm/vyRf9r1HzBt9Pfw3/o/lheuL5ovvh6yWdpaTliefany8+eFZ2VilXiashq/5rCWu7at3Wj9aL1tQ3bjZu/4F+Ov25sQpt2m9e31j/US052+/qAqLQBwIxtbv4QAgB3DoCNjM3NtaLNzY1iJNl4A0BzwM5/O9t3DS0A+W+3UKfYYNy//2P5L2ZEzFZ3sdkRAAABnGlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS40LjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyI+CiAgICAgICAgIDxleGlmOlBpeGVsWERpbWVuc2lvbj40Mjc8L2V4aWY6UGl4ZWxYRGltZW5zaW9uPgogICAgICAgICA8ZXhpZjpQaXhlbFlEaW1lbnNpb24+NzE8L2V4aWY6UGl4ZWxZRGltZW5zaW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KHjjPdQAAFGdJREFUeAHtnX1MlEmex7/a3fI0tCJog7QDIu4y4ltw2OAyd8xxiTOjdwzijnerG5mEm5zJzb9nLpfc3fxzf12y/1xuL5eQGG/EzIw7rHIujo4DCcoqMygLKoMvIwxDL428yJu8NPTTelUNhQ9Pd9NAP8/TDf4qaaqeeur5VdWnquv7VD3F06teMAfmBgcHuUeOCBABIkAEiEDUEVgddSWiAhEBIkAEiAARUBEgsVIBoUMiQASIABGIPgIkVtHXJlQiIkAEiAARUBEgsVIBoUMiQASIABGIPgIkVtHXJlQiIkAEiAARUBEwq479Dtvb2/3itIzIyMgIaG4l5httdU1I0LdtBwepbVdiP+Zf2GB9eSX2qWB1jVTbrkTG8/UpIRA0sxIkyCcCRIAIEIGoJUBiFbVNQwUjAkSACBABQYDESpAgnwgQASJABKKWAIlV1DYNFYwIEAEiQAQEAQ3FyoPmK9VwuoVp8okAESACRIAIaEMg5G7AYNmM97ngXutAoiRSePGsux/rTeKY+264nM+QnGrHnGhlEgoTgTkEnrGbnkto6BxBUk4RinM2zTmr14F3uA0XztVgAFbk//JXyIpf2T22734tLtQ9AtbtxvGjeYjVC2wU2H3V2jYKkOtShCXPrNw9Dag4cwV9Xl4uL4b7OtHjGUHHYyfGPTyOzbQqz6CqsYcfkCMCCyDgQePnn6FhSEJSUhrQehn1zvEFXBdmkvE2nGFCZXYkwZFhx+3zl2f6dZh2o/TygZZKJlQ/MMZJSLP9iN9Vt0VpSTUo1ivWthoQi1oTSxarxF3FKMqRceFUOcrLTuHiDRd+kp+P2K5vcfZ0GcrLT6PJ/CZKi3fRrCpqmz+6Cubta0LjCJBks8GRDMgJKfjx8kW06axXrsab8FgTYbY5EO92w54qo+pCI1sXWIluHN81DSIxKQEbUpMhu22wD13HlZaBlVhZvFptuyKbcLZSSxYrbmFT9huwYAI7Co+jpLgA2VlZyN1/BCeOvQPrBLBzXxY7r7Pz9KGusgotfcYOLZ6+FlypbmHzR/3duLMeZWUV6HimyGu8AxVlZaibE6k4r2Vwsg+f/7oK13R+IGmy70FukhWQZLiexiFNcsOWYcP1c9UY1rI+KluOnHwkyjIktwtjGxwwDwGpUisq65yqlPoe9rXUob5Nz5ry8sdi589S8UyWMPzDU2zYasOoOQXuW/+HxidG9OYZhgb1qWhpWyPHC2UvdV6rw/k/6t2nlDmysE5jclhi1cfuSK3ZRchxqFa816bjUOFuNNfcU9VCh0OvGx29LvS7n+tgPLhJr7sfne39hojVaouVif4Arn7GBIvPMtxOVJ69ymIsWLvGgGcrshtN37vQOao3YwnZxQcgOfsgScPoNTtgG5WRkjKE81UtbLFZJxfL+uu7GXB2M/s9LsRsTcaobIetqxq1bco7BJ3ynzHr7n+Mez/o/7tyiVn78dbGIYxKZvQ4ZaSxWSyDjNaLl4zbIGVUn4qStjVyvFD20tHOx/iKzaQNdTqNyYsXK+8ztNTVoq6+DjceAm/sCvwA3GJ/DYkj91Db0ID6+mboNvGxmHyztxiT7nO4Oe1tYfkCMfrPHFku0qZsHD/8Jnv0zwTr7GmcPnMZvewot+gYstU3CnNKqdGBZGI1BeLMRjC248CRfehrd/tmOnKyA/KohBS5Cb9vfKJRhfzNWBy5KNxrRvfMjMPhMEO2paL/+iXcN+jG1BJjhiVmjX/hdIjZVlCELaNMnW1sFjscj2S26JmQAVRX1kPnVdfp2hjYp6KibQ0cL5TdRYozQ4ozpk/N5qvTmLyE3YAmbEzfhkRWoJieLoy72f1ubOC7exlrkczu2KxTLM1zfl8cON1sJRca8A6jpfEhJk2sEbz9bCES6HrUhOZeE6am2DOP1/cgPV77gdU77ETzQ/YFX7OGZTu9ceR2czPWeL3srj8WWdlZWKtRFdUoLPZdeL+gA2drXb7ZXFJ+MbI3zW7FVCcP/5gxvvblQ4ybGWO537cMd/+bJlT/aMIEA75l3x7sSdKesa/gazPx/js9OPfNMFLY0lx82gYM9wK9jRdRl3Qc+amqmXz4tfVZsGcfxM+ffIo7sEN2meHY4GY3BR7UnavAxg+PwK5523rgbLmL7kn2zWC2B7sm4JFb0djMKuudgmn9VmRvs2tUO7WZWOS9/y4qT9dASnPjaRybxTLI8sQ9nK1KwonCbeoLwj+OYJ8yvm1ZE0ZkvPDg/rW7eMzuOPi9pev+BNyTrbhczfqUZwqW5K3Y/4YOfcqAMXnxYmWKxaaZwWLtjvWoaGhD9oFMv448/PAOkJWDrNRUv3NhRzwfw+PvmjFotoLd//oG74FHzbhntbIvmwy8tlMXsfKMdeNu83cwWxk2mUsk8ODePVYGYEJei5Sd+okVxjtwlQmVcL11NejYUox0fcZtVr8x3KpuhlOyQmKM+RPBzj80Y2S9Fe4hGfu379RPrFhesen5eLe7AjVP17NvXBdcvSNIZLv1etrYzUKqDgOpD6wJWQeK0FN+HqMpqejs6MQAa+Y0hxUP2K5Eu+awveh93Irv2Eoj70PTXcqJ1nusjoy5zB7fbWdipdsticWB9w7vxpmqx0hN6YXT5cKEJQlJo9/D5dkGh9b3IhHtU0a3LdOGiIwXXnTcakV1H1uRYb3IzZ6/Ak7Ufj3dp9zrgDwmVnE8WktnwJi8eLFSVHBtZg7MtReYYK3Bodz02SWxgbY6VNx0YXfRQUVqDYPsS1ZcemLaoNeFz09VYXNhKfI1/3bNLbPElopKT+T6Ij2uOpyuAo6X5M/We25q7Y68zzrw+8+usrt8C948fBxZpof4tOImWxKsxDvH3kO6HtO5GAdO/udLxh9/VIUdJ0tx9Kdaj2DBOTnyDmF31Vk09Hqw+/AJ5KERZVXsXyMKtrF5rF4uHgV/85fs3zL4M0EHjp0oxFBtOW50s22KmouVhJziEuTMVMVVV46vvAUoKdDhBi8ILpM9G7/4syGcq2X/c5WYiw+PbMPXZZ9hgN2daP51inifMrJtmVhEZLyQcPBkCcTI+/3n5fiNpwD/UaJznzJgTF78M6vZTu9m/0d1AbIjC5sHvsHpsnJUXbmCCrZtveLWJHJ2O3Dv4mXovsHI453e5OA1cCcTY8BW/nxuxpulokdgtPuxT6hyDx/DLrsFpsRdOMqeYVlY7IM/GfBAhS31spUqdrNvLGOwGmYfPISsRCu6blSgjG0nh2cIQ3oXQ0pHYVEu1llHUVNxGpcfseW5MSZWOjsj+lKgKsRnFuAg+75a5Q58wYSqkyUaHNL5yVWk+lSk2tbA8ULZxmydyXin05i85JmVq/4LNIDNNAqzfTOLPO8Aqk9dQvqRUuxKnL773mytxMWz9SgtzfOl0YUaW+vnucVYwtDdJRTMZGHoLMZ0hfjM/ShN88LCHkoLx59hffDB6zBJBsx0WFVjWMZxkrGMfXU1JSL/SAnGB5y4f7cRjY96MTDuhUPnN0zwTS1HS3air+Mh7ty+hXani208yNRxRqfZE13RRRblp+YVomTvMNoe3MWthvvo6Hiq27NBX8Ei2Kci0rYGjhfKhl/yAK80stiwTmPyqhfM8bIMDgbe3hjsB8a8HnZ7a2F3+bMVGUdt2e+Q+kEJtikW2T1uDxtkgw+o0fbDZsHqO1vNMALRVtdl+SNuHjc8qyX4NlcFaQs9OL9a/dgDt2c1pHkgB2O8HPvUcmvb5cg4yFd1TnSwPiUSLVl4TUyo5rpYbC/Y59vVpIyfT6iU6ShMBBZEwMKEakEJtU30avVjCxMqbflFs7VXq22juSXmL9uSxSqQ2U2Z/rsCA6WjOCJABIgAESACiyEQgYcQiykepSUCRIAIEAEiAJBYUS8gAkSACBCBqCdAYhX1TUQFJAJEgAgQARIr6gNEgAgQASIQ9QRIrKK+iaiARIAIEAEiEPL/rAgRESACRIAIEIFIE6CZVaRbgPInAkSACBCBkARIrEIiogREgAgQASIQaQIkVpFuAcqfCBABIkAEQhLQ9A0WIXOjBESACBABIqApgZnXu2pqkxtbtWrVvDaNzpfEat7moJNEgAgQgegkwMWCf7z8l8rFbxZpVFQT++lq/uGCpRatSOUbUqxe1Tf8atTmZIYIEAEioDkBMauRZRk2mw2SJPnERcRzgeFhtdAspCDPnz/HxMQERkdH2Q9rWObYEfaNzpeXO6RYLaRylIYIEAEiQASMIyBEIy4uDrGx07+bLeJ4KURY+KFKxtMJgeNpuU0uWlNTU75LhegJe0bnywtBYuVrCvpDBIgAEVgeBLhg8A+f3axbt84nKlqUXAgRt8XDfLY2NjYGs9k8R/yMzlcIJYmVFq1MNogAESACBhIQgiVmQ0qfF4OfF3FLLZa4Xi1iStsiDff1zJfbJrHyIaY/RIAIEIHlR0AIidrn4sGX8RYqIsFEJxgRdX7iWM98SayCtQbFEwEiQASWCQEuFkJwRJGFgAQ6DpVefa2wofZD2eHplbZCpVemVee1LMXKO9yGC+dqMAAr8n/5K2TFm9T1omMiQASIwIonoBzcleHnz6dw98syfFLzCEjOxNtv/xX2702HZWa5joNRphdh4avPq0EGSydmc9znTggo94ULdG2gOJFe+MtPrMbbcIYJVYIjCQ72APD2+cvY+EEh7KRXok3JJwJE4BUhIETBv7oTaDz3Ba49YWda7uBazRf410378G8f/R3efN0OuPtws7oF298/jEzJ/+pQMcHzDS2CoWwHO7/sxMrVeBMeayLMNgfiR10wpwJVFxpx7EgOlsA8GBeKJwJEgAhEPQExI1HPYHj8mukd7S/r8ORb/PvH3748hgP/c6iYzbAUUTNBYc//zHTMfPmGujaYTR4/37XavRtwsg+f/7oK15zu+coS9jlHTj4S2ZZNye3C2AYHzENAqtSKyjpn2LbJABEgAkRgORHgosE/fKYj/Okwm+GErEjc7A47IT7CnvCDmRDn/fN9WRZhs/3qKXzSwKd4/k6kEfaE758S0E6sZDeavnehc3R6rTJQZprExabj0LsZcHYzaz0uxGxNxqhsh62rGrVtzzTJgowQASJABFY+ASZnM2LH6yqEg4fnW+bj5xfquJ1n7VX47/o/zRFUpSgtNF/txEoyIYbVIM5sWWg9lpzO4shF4V4zumUJwz88hcNhhmxLRf/1S7g/vGSzdCERIAJEYFkR4GIQ6MPfFRhoeU9duUDX8jguINwP5oJdx/Pl58T7CrmdNXE2JNisszaF7UA2xLlA+Yb3zMo7jGtfPsS4eQ0g94PrxP1vmlD9o4m9WwrYsm8P9iTpI1727IP4+ZNPcQd2yC4zHBvc6IUHdecqsPHDI7ThIlBrUxwRIAIrigAf3IO54GdeXsGvn8fEy4Sq0Lz5vpjA3eqv0DoOxDBp6Gh2YXDiKs4nt+PF1Chi2GTjr3+2RWUx9GF4YiWP4VZ1M5ySlW1ukMGfVnX+oRkj661wD8nYv32nbmIFmJB1oAg95ecxmpKKzo5ODDCBTHNY8cA5Dnu6+uliaBiUgggQASKwHAlw8VBuTuA7xaeYWOQfOYm/3WHBtar/RcUf+bMTpRuDZ4liJaz458tfoCvjcV0lyl3AOmZ/pIenvo7fVjQyfwwjG17grZw02ISRBfqrWGY+AR4cHAx4yYLfuu514eOPqrDjZCmO/nThs6nBwYyA+ba3tweM94t0d6DizFX2P1cOHDtRiKHactyIeRtH8zb5JVVGZGQEzleZhsJEgAgQgWgjwIdsvszG39HHXyjLnVo0wNa5Tp34F+z9r9/gDfZ8hgtZ/4Na/PbCJTS1jyMxYw8OvFeMP9+Z5NtkIYSO+0on3g3Ify6Eu9D5Kq+ezrf1k1L809Q/ourvd/mVcyH5ijKFN7NSlsvtxSQ/lj3sz8LFSmliSWEpHYVFuaj8+gFqKk6jd8ADa8YIMzW/WC0pL7qICBABIhBFBMRzJT6g87AY2Ll4TY2NY8rDlvnYUhx3iZlv4R/++S98YaW48dkKP+ZO+L6Def7Ml68QIHE5KwJz07sWhf1gvrgmkK+dWDFLvg0WknZ7NgIVOFCctCkbR0t2oq/jIe7cvoV2pwvjyAQtBAaiRXFEgAisFAJi0BdC9VJETHgtj/2bj2n6mZRIJ3xef2V4sTzEtf75+oumb072YnojSDj5arcMuNjazqQPexkwQL4etwcWaf7ZHS0DBgBHUUSACEQ9AS4UYjkuJoZPEfydmN0oZ1oizj918JjJyUnfT4SolwGNzFfUQbuZVfD6Gn4mlFAZXiDKkAgQASKgIwEuYEoxEjMf4fOsleFQRVHami+tkfmuSLGaDy6dIwJEgAisFAJKAVKHlYIjwtznTi0ygXgo7anPK8+pwyIvfo0Ia5EviZW6FeiYCBABIrBMCPDlQO7UosDjlCIS6tkST690ymuV8SIciXxJrAR98okAESACy5SAEBfhB6qG8pwIC1+dnseL2ZD6nPJYXC985TkRVp4TYeGLNMLn8cHyJbESlMgnAkSACCwjAmI2pVeRgwlHpPI1fp+5XmTJLhEgAkTgFSHABYPv0GtqasKTJ0/g8Xh8y35cYBby4Zh4OuFEmPvcFrfJbfM8lDOdSOXLyxly67qoDPlEgAgQASIQHQT4Myj+cbvd6OrqAn8DkXiOFG4JuUAlJCRg8+bNkNgP3K5evdr34XYjlS/Pm8SKUyBHBIgAEVhGBMTsSYiHcmYUTjXELIr7QqR4WMRHKl9eJ3pmFU7L0rVEgAgQgQgQEOLBBYWHhVhpVRQhUMIXdiOVL8+fxEq0AvlEgAgQgWVEQAiJ1kIlEAhhEsfCj1S+JFaiBcgnAkSACCxDAsFERe+qGJ0v7QbUu0XJPhEgAkSACIRNYHaDRdiWyAARIAJEgAgQAZ0I0MxKJ7BklggQASJABLQjQGKlHUuyRASIABEgAjoRILHSCSyZJQJEgAgQAe0I/D8z6rPcrHKV9AAAAABJRU5ErkJggg==",
+      "caption": "Uploaded image",
+      "text": "The Journal looks like this"
+    },
+    {
+      "type": "paragraph",
+      "id": "ca7779bccca4a9d0",
+      "text": "The Journal is the grey pane at the bottom of the page that shows you the history of everything that has happened to the page so far."
+    },
+    {
+      "type": "markdown",
+      "id": "c949399dda4203f9",
+      "text": "Actions recorded in the journal include:\n\n* adding an item\n\n* changing an item\n\n* deleting an item\n\n* moving an item\n\n* <i>forking</i> the page from another site"
+    },
+    {
+      "type": "markdown",
+      "id": "721f9dec76a058b1",
+      "text": "##Two action buttons"
+    },
+    {
+      "type": "paragraph",
+      "id": "77d9a6b4067251d2",
+      "text": "At the bottom-right corner of the Journal are two action buttons. These let you add to the history of the page."
+    },
+    {
+      "type": "paragraph",
+      "id": "9a5fd9161397340e",
+      "text": "The small flag button makes a copy of the page and adds it to your site. This is Forking."
+    },
+    {
+      "type": "paragraph",
+      "id": "092349abf743ec81",
+      "text": "The small [+] button opens up the Factory so that you can work on the page."
+    },
+    {
+      "type": "paragraph",
+      "id": "1156756b5347f3ad",
+      "text": "Related: [[Understanding the Factory]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "69ad688c7f79b57b",
+      "text": "Related: [[Forking as (Cultural) Feature]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Understanding the Journal",
+        "story": []
+      },
+      "date": 1420417524557
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6f062cb57b0843d9"
+      },
+      "id": "6f062cb57b0843d9",
+      "type": "add",
+      "date": 1420417528299
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f43e5064ba8b0943"
+      },
+      "id": "f43e5064ba8b0943",
+      "type": "add",
+      "after": "6f062cb57b0843d9",
+      "date": 1420417530432
+    },
+    {
+      "type": "remove",
+      "id": "6f062cb57b0843d9",
+      "date": 1420417534005
+    },
+    {
+      "type": "edit",
+      "id": "f43e5064ba8b0943",
+      "item": {
+        "type": "markdown",
+        "id": "f43e5064ba8b0943",
+        "text": "##Why is it called the Journal?"
+      },
+      "date": 1420417544015
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "36714f2ef176d146"
+      },
+      "id": "36714f2ef176d146",
+      "type": "add",
+      "after": "f43e5064ba8b0943",
+      "date": 1420417546421
+    },
+    {
+      "type": "edit",
+      "id": "36714f2ef176d146",
+      "item": {
+        "type": "paragraph",
+        "id": "36714f2ef176d146",
+        "text": "It's a term with a technical history. It's not the same as the Journal page that belongs to you, where you can list what you do. That's confusing. If someone could put a good explanation of the use of the word \"journal\" to mean page history that would be great."
+      },
+      "date": 1420417592985
+    },
+    {
+      "type": "edit",
+      "id": "36714f2ef176d146",
+      "item": {
+        "type": "paragraph",
+        "id": "36714f2ef176d146",
+        "text": "It's a term with a technical history. It's not the same as the Journal page that belongs to you, where you can list what you do. That's confusing. If someone could replace this with a good explanation of the use of the word \"journal\" to mean page history that would be great."
+      },
+      "date": 1420417610945
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0a3bef6bc17e5a5c"
+      },
+      "id": "0a3bef6bc17e5a5c",
+      "type": "add",
+      "after": "36714f2ef176d146",
+      "date": 1420417613421
+    },
+    {
+      "type": "edit",
+      "id": "0a3bef6bc17e5a5c",
+      "item": {
+        "type": "markdown",
+        "id": "0a3bef6bc17e5a5c",
+        "text": "##Working with the Journal"
+      },
+      "date": 1420417630312
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ca7779bccca4a9d0"
+      },
+      "id": "ca7779bccca4a9d0",
+      "type": "add",
+      "after": "0a3bef6bc17e5a5c",
+      "date": 1420417632357
+    },
+    {
+      "type": "edit",
+      "id": "ca7779bccca4a9d0",
+      "item": {
+        "type": "paragraph",
+        "id": "ca7779bccca4a9d0",
+        "text": "The Journal shows you the history of everything that has happened on the page that you are looking at."
+      },
+      "date": 1420417772531
+    },
+    {
+      "type": "add",
+      "id": "01048f977ff2eb2f",
+      "item": {
+        "type": "paragraph",
+        "id": "01048f977ff2eb2f",
+        "text": "When two users each have a copy of the page, the two journals will be different."
+      },
+      "after": "ca7779bccca4a9d0",
+      "date": 1420417799238
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "image",
+        "id": "7dc2651e9b47325c",
+        "url": "data:image/png;base64,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",
+        "caption": "Uploaded image",
+        "text": "The Journal looks like this"
+      },
+      "after": "0a3bef6bc17e5a5c",
+      "id": "7dc2651e9b47325c",
+      "date": 1420417806224
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "77d9a6b4067251d2",
+        "text": "At the bottom-right corner of the page's Journal are two buttons that enable you to do things that will add to the history of the page."
+      },
+      "after": "ca7779bccca4a9d0",
+      "id": "77d9a6b4067251d2",
+      "date": 1420417813322
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "092349abf743ec81",
+        "text": "The small [+] button opens up the Factory so that you can work on the page yourself. If the page is not one you created, this will make a copy of the page to be added to your site."
+      },
+      "after": "7dc2651e9b47325c",
+      "id": "092349abf743ec81",
+      "date": 1420417816326
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "9a5fd9161397340e",
+        "text": "The small flag button makes a copy of the page and add its to your site. "
+      },
+      "after": "7dc2651e9b47325c",
+      "id": "9a5fd9161397340e",
+      "date": 1420417819444
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "62dc66d9727658f5",
+        "text": "This is Forking. "
+      },
+      "after": "36714f2ef176d146",
+      "id": "62dc66d9727658f5",
+      "date": 1420417824625
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "69ad688c7f79b57b",
+        "text": "Related: [[Forking as (Cultural) Feature]]"
+      },
+      "after": "36714f2ef176d146",
+      "id": "69ad688c7f79b57b",
+      "date": 1420417828411
+    },
+    {
+      "type": "edit",
+      "id": "36714f2ef176d146",
+      "item": {
+        "type": "paragraph",
+        "id": "36714f2ef176d146",
+        "text": "It's a term with a technical history. It's not the same as the Journal page that belongs to you, where you can list what you do. That's confusing. If someone could replace this paragraph with a good explanation of the use of the word \"journal\" to mean page history that would be great."
+      },
+      "date": 1420417902465
+    },
+    {
+      "type": "move",
+      "order": [
+        "f43e5064ba8b0943",
+        "36714f2ef176d146",
+        "69ad688c7f79b57b",
+        "0a3bef6bc17e5a5c",
+        "7dc2651e9b47325c",
+        "9a5fd9161397340e",
+        "092349abf743ec81",
+        "ca7779bccca4a9d0",
+        "77d9a6b4067251d2",
+        "01048f977ff2eb2f",
+        "62dc66d9727658f5"
+      ],
+      "id": "62dc66d9727658f5",
+      "date": 1420417907507
+    },
+    {
+      "type": "move",
+      "order": [
+        "f43e5064ba8b0943",
+        "36714f2ef176d146",
+        "0a3bef6bc17e5a5c",
+        "7dc2651e9b47325c",
+        "9a5fd9161397340e",
+        "092349abf743ec81",
+        "ca7779bccca4a9d0",
+        "77d9a6b4067251d2",
+        "01048f977ff2eb2f",
+        "62dc66d9727658f5",
+        "69ad688c7f79b57b"
+      ],
+      "id": "69ad688c7f79b57b",
+      "date": 1420417912143
+    },
+    {
+      "type": "move",
+      "order": [
+        "f43e5064ba8b0943",
+        "36714f2ef176d146",
+        "0a3bef6bc17e5a5c",
+        "7dc2651e9b47325c",
+        "ca7779bccca4a9d0",
+        "9a5fd9161397340e",
+        "092349abf743ec81",
+        "77d9a6b4067251d2",
+        "01048f977ff2eb2f",
+        "62dc66d9727658f5",
+        "69ad688c7f79b57b"
+      ],
+      "id": "ca7779bccca4a9d0",
+      "date": 1420417916525
+    },
+    {
+      "type": "move",
+      "order": [
+        "f43e5064ba8b0943",
+        "36714f2ef176d146",
+        "0a3bef6bc17e5a5c",
+        "7dc2651e9b47325c",
+        "ca7779bccca4a9d0",
+        "77d9a6b4067251d2",
+        "9a5fd9161397340e",
+        "092349abf743ec81",
+        "01048f977ff2eb2f",
+        "62dc66d9727658f5",
+        "69ad688c7f79b57b"
+      ],
+      "id": "77d9a6b4067251d2",
+      "date": 1420417925082
+    },
+    {
+      "type": "edit",
+      "id": "77d9a6b4067251d2",
+      "item": {
+        "type": "paragraph",
+        "id": "77d9a6b4067251d2",
+        "text": "At the bottom-right corner of the Journal are two buttons that enable you to do things that will add to the history of the page."
+      },
+      "date": 1420417934164
+    },
+    {
+      "type": "edit",
+      "id": "ca7779bccca4a9d0",
+      "item": {
+        "type": "paragraph",
+        "id": "ca7779bccca4a9d0",
+        "text": "The Journal is the grey pane at the bottom of the page that shows you the history of everything that has happened to the page so far."
+      },
+      "date": 1420417960160
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cc7c1314dbf281e9"
+      },
+      "id": "cc7c1314dbf281e9",
+      "type": "add",
+      "after": "69ad688c7f79b57b",
+      "date": 1420417980556
+    },
+    {
+      "type": "edit",
+      "id": "cc7c1314dbf281e9",
+      "item": {
+        "type": "paragraph",
+        "id": "cc7c1314dbf281e9",
+        "text": "##Using the Journal to do things"
+      },
+      "date": 1420418000239
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "721f9dec76a058b1"
+      },
+      "id": "721f9dec76a058b1",
+      "type": "add",
+      "after": "cc7c1314dbf281e9",
+      "date": 1420418013791
+    },
+    {
+      "type": "remove",
+      "id": "cc7c1314dbf281e9",
+      "date": 1420418015124
+    },
+    {
+      "type": "edit",
+      "id": "721f9dec76a058b1",
+      "item": {
+        "type": "markdown",
+        "id": "721f9dec76a058b1",
+        "text": "##Two action buttons"
+      },
+      "date": 1420418027771
+    },
+    {
+      "type": "move",
+      "order": [
+        "f43e5064ba8b0943",
+        "36714f2ef176d146",
+        "0a3bef6bc17e5a5c",
+        "7dc2651e9b47325c",
+        "ca7779bccca4a9d0",
+        "721f9dec76a058b1",
+        "77d9a6b4067251d2",
+        "9a5fd9161397340e",
+        "092349abf743ec81",
+        "01048f977ff2eb2f",
+        "62dc66d9727658f5",
+        "69ad688c7f79b57b"
+      ],
+      "id": "721f9dec76a058b1",
+      "date": 1420418030776
+    },
+    {
+      "type": "add",
+      "id": "3fc3ae5e10b49a32",
+      "item": {
+        "type": "paragraph",
+        "id": "3fc3ae5e10b49a32",
+        "text": "[It would be great if someone could replace this paragraph with a clear explanation of what the journal tells you, or even a video. I still don't always get it. -- Kate]"
+      },
+      "after": "ca7779bccca4a9d0",
+      "date": 1420418087757
+    },
+    {
+      "type": "edit",
+      "id": "77d9a6b4067251d2",
+      "item": {
+        "type": "paragraph",
+        "id": "77d9a6b4067251d2",
+        "text": "At the bottom-right corner of the Journal are two action buttons. These let you add to the history of the page."
+      },
+      "date": 1420418134895
+    },
+    {
+      "type": "edit",
+      "id": "9a5fd9161397340e",
+      "item": {
+        "type": "paragraph",
+        "id": "9a5fd9161397340e",
+        "text": "The small flag button makes a copy of the page and adds it to your site. "
+      },
+      "date": 1420418152491
+    },
+    {
+      "type": "edit",
+      "id": "9a5fd9161397340e",
+      "item": {
+        "type": "paragraph",
+        "id": "9a5fd9161397340e",
+        "text": "The small flag button makes a copy of the page and adds it to your site. This is Forking."
+      },
+      "date": 1420418179745
+    },
+    {
+      "type": "remove",
+      "id": "62dc66d9727658f5",
+      "date": 1420418201980
+    },
+    {
+      "type": "edit",
+      "id": "3fc3ae5e10b49a32",
+      "item": {
+        "type": "paragraph",
+        "id": "3fc3ae5e10b49a32",
+        "text": "[It would be great if someone could replace this paragraph with a clear explanation of what the journal tells you, or even a video. I still don't always get it. The best I can say is that the Journal records all the ways in which the page is haunted by its former selves. -- Kate]"
+      },
+      "date": 1420418234234
+    },
+    {
+      "type": "edit",
+      "id": "3fc3ae5e10b49a32",
+      "item": {
+        "type": "paragraph",
+        "id": "3fc3ae5e10b49a32",
+        "text": "[It would be great if someone could replace this paragraph with a clear explanation of what the journal tells you, or even a video. I still don't always get it. The best I can say is that the Journal records all the ways in which the page is haunted by its former selves and other lives. -- Kate]"
+      },
+      "date": 1420418251930
+    },
+    {
+      "type": "move",
+      "order": [
+        "f43e5064ba8b0943",
+        "36714f2ef176d146",
+        "0a3bef6bc17e5a5c",
+        "7dc2651e9b47325c",
+        "ca7779bccca4a9d0",
+        "01048f977ff2eb2f",
+        "3fc3ae5e10b49a32",
+        "721f9dec76a058b1",
+        "77d9a6b4067251d2",
+        "9a5fd9161397340e",
+        "092349abf743ec81",
+        "69ad688c7f79b57b"
+      ],
+      "id": "01048f977ff2eb2f",
+      "date": 1420418272634
+    },
+    {
+      "type": "edit",
+      "id": "01048f977ff2eb2f",
+      "item": {
+        "type": "paragraph",
+        "id": "01048f977ff2eb2f",
+        "text": "When two users each have a copy of the same page, the two journals will be different."
+      },
+      "date": 1420418287496
+    },
+    {
+      "type": "edit",
+      "id": "01048f977ff2eb2f",
+      "item": {
+        "type": "paragraph",
+        "id": "01048f977ff2eb2f",
+        "text": "When two users each have a copy of the same page, the two Journals will be different."
+      },
+      "date": 1420418300469
+    },
+    {
+      "type": "edit",
+      "id": "36714f2ef176d146",
+      "item": {
+        "type": "paragraph",
+        "id": "36714f2ef176d146",
+        "text": "[It's a term with a technical history. It's not the same as the Journal page that belongs to you, where you can list what you do. That's confusing. If someone could replace this paragraph with a good explanation of the use of the word \"journal\" to mean page history that would be great--Kate]"
+      },
+      "date": 1420418321176
+    },
+    {
+      "type": "add",
+      "id": "1156756b5347f3ad",
+      "item": {
+        "type": "paragraph",
+        "id": "1156756b5347f3ad",
+        "text": "Related: [[Understanding the Factory]]"
+      },
+      "after": "092349abf743ec81",
+      "date": 1420418352785
+    },
+    {
+      "type": "fork",
+      "site": "kate.au.fedwikihappening.net"
+    },
+    {
+      "type": "edit",
+      "id": "36714f2ef176d146",
+      "item": {
+        "type": "paragraph",
+        "id": "36714f2ef176d146",
+        "text": "Because the page comes from a kind of database and, in the lingo of databases, the change history is ca"
+      },
+      "date": 1420427512595
+    },
+    {
+      "type": "edit",
+      "id": "36714f2ef176d146",
+      "item": {
+        "type": "paragraph",
+        "id": "36714f2ef176d146",
+        "text": "Because the page comes from a kind of database and, in the lingo of databases, the change history is called a journal."
+      },
+      "date": 1420427521669
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c90407678fdff76b"
+      },
+      "id": "c90407678fdff76b",
+      "type": "add",
+      "after": "69ad688c7f79b57b",
+      "date": 1420427529226
+    },
+    {
+      "type": "edit",
+      "id": "c90407678fdff76b",
+      "item": {
+        "type": "markdown",
+        "id": "c90407678fdff76b",
+        "text": "#What is the Journal?"
+      },
+      "date": 1420427540344
+    },
+    {
+      "type": "move",
+      "order": [
+        "c90407678fdff76b",
+        "f43e5064ba8b0943",
+        "36714f2ef176d146",
+        "0a3bef6bc17e5a5c",
+        "7dc2651e9b47325c",
+        "ca7779bccca4a9d0",
+        "01048f977ff2eb2f",
+        "3fc3ae5e10b49a32",
+        "721f9dec76a058b1",
+        "77d9a6b4067251d2",
+        "9a5fd9161397340e",
+        "092349abf743ec81",
+        "1156756b5347f3ad",
+        "69ad688c7f79b57b"
+      ],
+      "id": "c90407678fdff76b",
+      "date": 1420427545845
+    },
+    {
+      "type": "edit",
+      "id": "c90407678fdff76b",
+      "item": {
+        "type": "markdown",
+        "id": "c90407678fdff76b",
+        "text": "#What is the Journal?\n\nIt's the record of all the changes made to the page. "
+      },
+      "date": 1420427579403
+    },
+    {
+      "type": "edit",
+      "id": "36714f2ef176d146",
+      "item": {
+        "type": "paragraph",
+        "id": "36714f2ef176d146",
+        "text": "Because the page is built from a (simple) database and, in the lingo of databases, the change history is called a journal."
+      },
+      "date": 1420427597441
+    },
+    {
+      "type": "edit",
+      "id": "36714f2ef176d146",
+      "item": {
+        "type": "paragraph",
+        "id": "36714f2ef176d146",
+        "text": "Because the page is built from a (simple) database and, in database lingo, the change history is called a journal."
+      },
+      "date": 1420427608007
+    },
+    {
+      "type": "remove",
+      "id": "01048f977ff2eb2f",
+      "date": 1420427653606
+    },
+    {
+      "type": "remove",
+      "id": "3fc3ae5e10b49a32",
+      "date": 1420427665246
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c949399dda4203f9"
+      },
+      "id": "c949399dda4203f9",
+      "type": "add",
+      "after": "69ad688c7f79b57b",
+      "date": 1420427679568
+    },
+    {
+      "type": "edit",
+      "id": "c949399dda4203f9",
+      "item": {
+        "type": "markdown",
+        "id": "c949399dda4203f9",
+        "text": "Actions recorded in the journal include:\n\n* adding an item\n\n* changing an item\n\n* deleting an item\n\n* <i>forking</i> the page from another site"
+      },
+      "date": 1420427723931
+    },
+    {
+      "type": "move",
+      "order": [
+        "c90407678fdff76b",
+        "f43e5064ba8b0943",
+        "36714f2ef176d146",
+        "0a3bef6bc17e5a5c",
+        "7dc2651e9b47325c",
+        "ca7779bccca4a9d0",
+        "c949399dda4203f9",
+        "721f9dec76a058b1",
+        "77d9a6b4067251d2",
+        "9a5fd9161397340e",
+        "092349abf743ec81",
+        "1156756b5347f3ad",
+        "69ad688c7f79b57b"
+      ],
+      "id": "c949399dda4203f9",
+      "date": 1420427728209
+    },
+    {
+      "type": "edit",
+      "id": "092349abf743ec81",
+      "item": {
+        "type": "paragraph",
+        "id": "092349abf743ec81",
+        "text": "The small [+] button opens up the Factory so that you can work on the page."
+      },
+      "date": 1420427769211
+    },
+    {
+      "type": "fork",
+      "site": "jon.sf.fedwikihappening.net"
+    },
+    {
+      "type": "edit",
+      "id": "c949399dda4203f9",
+      "item": {
+        "type": "markdown",
+        "id": "c949399dda4203f9",
+        "text": "Actions recorded in the journal include:\n\n* adding an item\n\n* changing an item\n\n* deleting an item\n\n* moving an item\n\n* <i>forking</i> the page from another site"
+      },
+      "date": 1420431837358
+    },
+    {
+      "type": "fork",
+      "site": "kate.au.fedwikihappening.net",
+      "date": 1420476620468
+    },
+    {
+      "type": "fork",
+      "site": "jon.sf.fedwikihappening.net",
+      "date": 1454595862085
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Using Federated Wiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "78fa865357c4a3da",
+      "text": "Mike Caulfield runs federated Wiki \"Happenings\" - here are some very useful basic notes:"
+    },
+    {
+      "type": "paragraph",
+      "id": "11b991909a73f898",
+      "text": "[[Things You Must Do]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Using Federated Wiki",
+        "story": []
+      },
+      "date": 1454431912236
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "78fa865357c4a3da"
+      },
+      "id": "78fa865357c4a3da",
+      "type": "add",
+      "date": 1454431915232
+    },
+    {
+      "type": "edit",
+      "id": "78fa865357c4a3da",
+      "item": {
+        "type": "paragraph",
+        "id": "78fa865357c4a3da",
+        "text": "Mike Caulfield runs federated Wiki \"Happenings\" - here are some very useful basic notes:"
+      },
+      "date": 1454431937321
+    },
+    {
+      "type": "add",
+      "id": "11b991909a73f898",
+      "item": {
+        "type": "paragraph",
+        "id": "11b991909a73f898",
+        "text": "[[Things You Must Do]]"
+      },
+      "after": "78fa865357c4a3da",
+      "date": 1454431944121
+    }
+  ]
+}

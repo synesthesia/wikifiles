@@ -1,0 +1,469 @@
+{
+  "title": "Getting Started with Federated Wiki",
+  "story": [
+    {
+      "type": "html",
+      "id": "c4f3c116ffa945f3",
+      "text": "For a basic introduction that contextualises [[Federated Wiki]] in knowledge-sharing and educational contexts, a lot of the writings of <a href=\"http://hapgood.us/\">Mike Caulfield</a> are worth checking out. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "e2c205bea955b922",
+      "text": "To start with try reading what Federated Wiki is [[In a Nutshell]]"
+    },
+    {
+      "type": "markdown",
+      "id": "8f84c805e8b850ec",
+      "text": "More broadly, the *smallest-federated-wiki* [https://hapgood.us/tag/smallest-federated-wiki/ tag] on Mike's site gives a very good overview"
+    },
+    {
+      "type": "paragraph",
+      "id": "1410d681afede6e4",
+      "text": "Obviously, read [[How To Wiki]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "1f18824aafa96862",
+      "text": "[[Community Documentation of Federated Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "436119f3032c4367",
+      "text": "One of the hardest things to understand is how [[Federated Wiki Neighborhoods]] work"
+    },
+    {
+      "type": "html",
+      "id": "13aeccb9571e470c",
+      "text": "And then, it's worth following some notes I have forked from one of Mike Caulfield's sites related to a training \"happening\" on Teaching Machines [http://hapgood.us/2015/01/16/a-fedwiki-happening-on-teaching-machines-featuring-audrey-watters blog post] - \n\n   [[Things You Must Do]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "79f0619c7a59a52d",
+      "text": "[[How to add this page to your site]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Getting Started with Federated Wiki",
+        "story": []
+      },
+      "date": 1454485093697
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c4f3c116ffa945f3"
+      },
+      "id": "c4f3c116ffa945f3",
+      "type": "add",
+      "date": 1454485097160
+    },
+    {
+      "type": "edit",
+      "id": "c4f3c116ffa945f3",
+      "item": {
+        "type": "paragraph",
+        "id": "c4f3c116ffa945f3",
+        "text": "For a basic "
+      },
+      "date": 1454485103501
+    },
+    {
+      "type": "edit",
+      "id": "c4f3c116ffa945f3",
+      "item": {
+        "type": "paragraph",
+        "id": "c4f3c116ffa945f3",
+        "text": "For a basic introduction, a lot of the writings of <a href=\"http://hapgood.us/\">Mike Caulfield</a> ar eworth checking out."
+      },
+      "date": 1454485264627
+    },
+    {
+      "type": "edit",
+      "id": "c4f3c116ffa945f3",
+      "item": {
+        "type": "html",
+        "id": "c4f3c116ffa945f3",
+        "text": "For a basic introduction, a lot of the writings of <a href=\"http://hapgood.us/\">Mike Caulfield</a> ar eworth checking out."
+      },
+      "date": 1454485267363
+    },
+    {
+      "type": "edit",
+      "id": "c4f3c116ffa945f3",
+      "item": {
+        "type": "html",
+        "id": "c4f3c116ffa945f3",
+        "text": "For a basic introduction, a lot of the writings of <a href=\"http://hapgood.us/\">Mike Caulfield</a> are worth checking out."
+      },
+      "date": 1454485276882
+    },
+    {
+      "type": "edit",
+      "id": "c4f3c116ffa945f3",
+      "item": {
+        "type": "html",
+        "id": "c4f3c116ffa945f3",
+        "text": "For a basic introduction, a lot of the writings of <a href=\"http://hapgood.us/\">Mike Caulfield</a> are worth checking out. \n\nTo start with try reading what Federated Wiki is [[In a Nutshell]]"
+      },
+      "date": 1454485304596
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1410d681afede6e4"
+      },
+      "id": "1410d681afede6e4",
+      "type": "add",
+      "after": "c4f3c116ffa945f3",
+      "date": 1454485525474
+    },
+    {
+      "type": "edit",
+      "id": "1410d681afede6e4",
+      "item": {
+        "type": "paragraph",
+        "id": "1410d681afede6e4",
+        "text": "Obviously, read [[How To Wiki]]."
+      },
+      "date": 1454485532501
+    },
+    {
+      "type": "add",
+      "id": "13aeccb9571e470c",
+      "item": {
+        "type": "paragraph",
+        "id": "13aeccb9571e470c",
+        "text": "And then, it's worth following some notes I have forked from one of Mike Caulfield's sites related to a training \"Happening\" - [[What You Have To Do]]"
+      },
+      "after": "1410d681afede6e4",
+      "date": 1454485575778
+    },
+    {
+      "type": "edit",
+      "id": "c4f3c116ffa945f3",
+      "item": {
+        "type": "html",
+        "id": "c4f3c116ffa945f3",
+        "text": "For a basic introduction that contextualises [[Federated Wiki]] in knowledge-sharing and educational contexts, a lot of the writings of <a href=\"http://hapgood.us/\">Mike Caulfield</a> are worth checking out. \n\nTo start with try reading what Federated Wiki is [[In a Nutshell]]"
+      },
+      "date": 1454485605892
+    },
+    {
+      "type": "edit",
+      "id": "13aeccb9571e470c",
+      "item": {
+        "type": "paragraph",
+        "id": "13aeccb9571e470c",
+        "text": "And then, it's worth following some notes I have forked from one of Mike Caulfield's sites related to a training \"Happening\" - [[Things You Have To Do]]"
+      },
+      "date": 1454485651459
+    },
+    {
+      "type": "edit",
+      "id": "13aeccb9571e470c",
+      "item": {
+        "type": "paragraph",
+        "id": "13aeccb9571e470c",
+        "text": "And then, it's worth following some notes I have forked from one of Mike Caulfield's sites related to a training \"Happening\" - [[Things You MustDo]]"
+      },
+      "date": 1454485687155
+    },
+    {
+      "type": "edit",
+      "id": "13aeccb9571e470c",
+      "item": {
+        "type": "paragraph",
+        "id": "13aeccb9571e470c",
+        "text": "And then, it's worth following some notes I have forked from one of Mike Caulfield's sites related to a training \"Happening\" - [[Things You Must Do]]"
+      },
+      "date": 1454485690467
+    },
+    {
+      "type": "edit",
+      "id": "13aeccb9571e470c",
+      "item": {
+        "type": "paragraph",
+        "id": "13aeccb9571e470c",
+        "text": "And then, it's worth following some notes I have forked from one of Mike Caulfield's sites related to a training <a href=\"http://hapgood.us/2015/01/16/a-fedwiki-happening-on-teaching-machines-featuring-audrey-watters/\">\"Happening\"</a> - [[Things You Must Do]]"
+      },
+      "date": 1454487233758
+    },
+    {
+      "type": "edit",
+      "id": "13aeccb9571e470c",
+      "item": {
+        "type": "html",
+        "id": "13aeccb9571e470c",
+        "text": "And then, it's worth following some notes I have forked from one of Mike Caulfield's sites related to a training <a href=\"http://hapgood.us/2015/01/16/a-fedwiki-happening-on-teaching-machines-featuring-audrey-watters/\">\"Happening\"</a> - [[Things You Must Do]]"
+      },
+      "date": 1454487236272
+    },
+    {
+      "type": "fork",
+      "site": "je.fedwiki.ssatuk.co.uk",
+      "date": 1454487608228
+    },
+    {
+      "type": "edit",
+      "id": "13aeccb9571e470c",
+      "item": {
+        "type": "html",
+        "id": "13aeccb9571e470c",
+        "text": "And then, it's worth following some notes I have forked from one of Mike Caulfield's sites related to a training [http://hapgood.us/2015/01/16/a-fedwiki-happening-on-teaching-machines-featuring-audrey-watters Happening] - [[Things You Must Do]]"
+      },
+      "date": 1454488978683
+    },
+    {
+      "type": "edit",
+      "id": "13aeccb9571e470c",
+      "item": {
+        "type": "html",
+        "id": "13aeccb9571e470c",
+        "text": "And then, it's worth following some notes I have forked from one of Mike Caulfield's sites related to a training \"happening\" on Teaching Machines [http://hapgood.us/2015/01/16/a-fedwiki-happening-on-teaching-machines-featuring-audrey-watters blog post] - [[Things You Must Do]]"
+      },
+      "date": 1454489154783
+    },
+    {
+      "type": "edit",
+      "id": "13aeccb9571e470c",
+      "item": {
+        "type": "html",
+        "id": "13aeccb9571e470c",
+        "text": "And then, it's worth following some notes I have forked from one of Mike Caulfield's sites related to a training \"happening\" on Teaching Machines [http://hapgood.us/2015/01/16/a-fedwiki-happening-on-teaching-machines-featuring-audrey-watters blog post] - \n\n   [[Things You Must Do]]"
+      },
+      "date": 1454489174634
+    },
+    {
+      "type": "add",
+      "id": "436119f3032c4367",
+      "item": {
+        "type": "paragraph",
+        "id": "436119f3032c4367",
+        "text": "One of the hardest things to understand is how [[Federated Wiki Neighborhoods]] work"
+      },
+      "after": "1410d681afede6e4",
+      "date": 1454595417904
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5dff0ee5f51ff66b"
+      },
+      "id": "5dff0ee5f51ff66b",
+      "type": "add",
+      "after": "13aeccb9571e470c",
+      "date": 1454595730493
+    },
+    {
+      "type": "edit",
+      "id": "5dff0ee5f51ff66b",
+      "item": {
+        "type": "reference",
+        "id": "5dff0ee5f51ff66b",
+        "site": "jon.sf.fedwikihappening.net",
+        "slug": "community-documentation-of-federated-wiki",
+        "title": "Community Documentation of Federated Wiki",
+        "text": "[[Understanding the Factory]]"
+      },
+      "date": 1454595740679
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1f18824aafa96862"
+      },
+      "id": "1f18824aafa96862",
+      "type": "add",
+      "after": "5dff0ee5f51ff66b",
+      "date": 1454595770554
+    },
+    {
+      "type": "edit",
+      "id": "13aeccb9571e470c",
+      "item": {
+        "type": "html",
+        "id": "13aeccb9571e470c",
+        "text": "And then, it's worth following some notes I have forked from one of Mike Caulfield's sites related to a training \"happening\" on Teaching Machines [http://hapgood.us/2015/01/16/a-fedwiki-happening-on-teaching-machines-featuring-audrey-watters blog post] - \n\n   [[Things You Must Do]]\n"
+      },
+      "date": 1454595771679
+    },
+    {
+      "type": "edit",
+      "id": "1f18824aafa96862",
+      "item": {
+        "type": "paragraph",
+        "id": "1f18824aafa96862",
+        "text": "[Community Documentation of Federated Wiki]"
+      },
+      "date": 1454595785084
+    },
+    {
+      "type": "edit",
+      "id": "1f18824aafa96862",
+      "item": {
+        "type": "paragraph",
+        "id": "1f18824aafa96862",
+        "text": "[[Community Documentation of Federated Wiki]]"
+      },
+      "date": 1454595790717
+    },
+    {
+      "type": "move",
+      "order": [
+        "c4f3c116ffa945f3",
+        "1f18824aafa96862",
+        "1410d681afede6e4",
+        "436119f3032c4367",
+        "13aeccb9571e470c",
+        "5dff0ee5f51ff66b"
+      ],
+      "id": "1f18824aafa96862",
+      "date": 1454595801431
+    },
+    {
+      "type": "move",
+      "order": [
+        "c4f3c116ffa945f3",
+        "1410d681afede6e4",
+        "1f18824aafa96862",
+        "436119f3032c4367",
+        "13aeccb9571e470c",
+        "5dff0ee5f51ff66b"
+      ],
+      "id": "1f18824aafa96862",
+      "date": 1454595803507
+    },
+    {
+      "type": "remove",
+      "id": "5dff0ee5f51ff66b",
+      "date": 1454595808710
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "79f0619c7a59a52d"
+      },
+      "id": "79f0619c7a59a52d",
+      "type": "add",
+      "after": "13aeccb9571e470c",
+      "date": 1454596169841
+    },
+    {
+      "type": "edit",
+      "id": "79f0619c7a59a52d",
+      "item": {
+        "type": "markdown",
+        "id": "79f0619c7a59a52d",
+        "text": "[[How to add this page to your site]]"
+      },
+      "date": 1454596184741
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e2c205bea955b922"
+      },
+      "id": "e2c205bea955b922",
+      "type": "add",
+      "after": "79f0619c7a59a52d",
+      "date": 1522224390932
+    },
+    {
+      "type": "edit",
+      "id": "c4f3c116ffa945f3",
+      "item": {
+        "type": "html",
+        "id": "c4f3c116ffa945f3",
+        "text": "For a basic introduction that contextualises [[Federated Wiki]] in knowledge-sharing and educational contexts, a lot of the writings of <a href=\"http://hapgood.us/\">Mike Caulfield</a> are worth checking out. \n"
+      },
+      "date": 1522224392701
+    },
+    {
+      "type": "edit",
+      "id": "e2c205bea955b922",
+      "item": {
+        "type": "markdown",
+        "id": "e2c205bea955b922",
+        "text": "To start with try reading what Federated Wiki is [[In a Nutshell]]"
+      },
+      "date": 1522224397730
+    },
+    {
+      "type": "move",
+      "order": [
+        "c4f3c116ffa945f3",
+        "e2c205bea955b922",
+        "1410d681afede6e4",
+        "1f18824aafa96862",
+        "436119f3032c4367",
+        "13aeccb9571e470c",
+        "79f0619c7a59a52d"
+      ],
+      "id": "e2c205bea955b922",
+      "date": 1522224400911
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8f84c805e8b850ec"
+      },
+      "id": "8f84c805e8b850ec",
+      "type": "add",
+      "after": "79f0619c7a59a52d",
+      "date": 1522224402624
+    },
+    {
+      "type": "edit",
+      "id": "8f84c805e8b850ec",
+      "item": {
+        "type": "markdown",
+        "id": "8f84c805e8b850ec",
+        "text": "More broadly, the *smallest-federated-wiki* [tag "
+      },
+      "date": 1522224453665
+    },
+    {
+      "type": "edit",
+      "id": "8f84c805e8b850ec",
+      "item": {
+        "type": "markdown",
+        "id": "8f84c805e8b850ec",
+        "text": "More broadly, the *smallest-federated-wiki* [https://hapgood.us/tag/smallest-federated-wiki/ tag] on Mike's site gives a very good overview"
+      },
+      "date": 1522224476520
+    },
+    {
+      "type": "move",
+      "order": [
+        "c4f3c116ffa945f3",
+        "8f84c805e8b850ec",
+        "e2c205bea955b922",
+        "1410d681afede6e4",
+        "1f18824aafa96862",
+        "436119f3032c4367",
+        "13aeccb9571e470c",
+        "79f0619c7a59a52d"
+      ],
+      "id": "8f84c805e8b850ec",
+      "date": 1522224480003
+    },
+    {
+      "type": "move",
+      "order": [
+        "c4f3c116ffa945f3",
+        "e2c205bea955b922",
+        "8f84c805e8b850ec",
+        "1410d681afede6e4",
+        "1f18824aafa96862",
+        "436119f3032c4367",
+        "13aeccb9571e470c",
+        "79f0619c7a59a52d"
+      ],
+      "id": "e2c205bea955b922",
+      "date": 1522224482526
+    }
+  ]
+}

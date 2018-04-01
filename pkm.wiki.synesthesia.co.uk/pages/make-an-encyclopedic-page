@@ -1,0 +1,1540 @@
+{
+  "title": "Make an Encyclopedic Page",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "303fdc4f4d2d407d",
+      "text": "In this activity we will make a simple encyclopedic page. "
+    },
+    {
+      "type": "paragraph",
+      "id": "3337f9894cd6a598",
+      "text": "You should have at this point completed the task where you [[Make an Index Page]]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "9d4e1a17155a4971",
+      "text": "Now here's the hard part. To truly get how this works, you'll need to write a page that isn't just \"Hello, World!\"."
+    },
+    {
+      "type": "paragraph",
+      "id": "24ae27e54ea02bf2",
+      "text": "So let's make a short page about a term related to educational technology. You can come up with your own, topic or you can choose from our [[A-Z List of Ideas]]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "afaa759a8198e371",
+      "text": "Once you have your term -- say, the Semaphore Telegraph -- do a little research. Figure you want to write a paragraph or two. You just have to find out what the system did, in what years, and who ran it."
+    },
+    {
+      "type": "paragraph",
+      "id": "52d66672dd24a37a",
+      "text": "Click into a new paragraph on your index page. Add your term in brackets like so:"
+    },
+    {
+      "type": "code",
+      "id": "c9e5afe33e192d39",
+      "text": "[[Monitorial Schools]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2aea9aa165ec258d",
+      "text": "Alt-S (or Command-S) to save (or click outside the box). Then click your newly created link."
+    },
+    {
+      "type": "paragraph",
+      "id": "09844593dd0ea7f8",
+      "text": "It will open up a \"ghost page\" and prompt you to create the page. Click the button to create it. "
+    },
+    {
+      "type": "paragraph",
+      "id": "0ea21bf47628c2bb",
+      "text": "Now research your topic. If there's a lot of information on it, reduce it to a few sentences. If there's not much, write what you have -- others will extend it."
+    },
+    {
+      "type": "paragraph",
+      "id": "a5f5beda777cad54",
+      "text": "Keep in mind this is not Wikipedia. You don't have to write *the* article on the Semaphore Telegraph. We're talking about teaching machines in this course, so make the paragraph fit the purpose:"
+    },
+    {
+      "type": "html",
+      "id": "3dcf67f5628f03b7",
+      "text": "</blockquote>"
+    },
+    {
+      "type": "code",
+      "id": "9fbd0e82bb6cb505",
+      "text": "A system in use in Monitorial Schools of the 18th and 19th centuries whereby one teacher could coordinate the actions of more than a hundred students. A typical model might have six squares that through a system of pulleys and levers could be turned to give instruction to the class.\n\nSeeing commands, the students would respond instantaneously. The command \"S.S.\" for example, displayed high above the students would prompt the students to show their slates to the teacher, who could scan them to see if students were exucting tasks correctly. The command \"F.\" would signal the students to all face forward. \n\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "d4fa817d904f98ba",
+      "text": "And let's stop there, that's enough. We could go on, of course, and draw a parallel to Learning Mangement Systems or link out the \"Monitorial Schools\" term and write up an additional page, but for the moment we just wanted to get this first page started. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Make an Encyclopedic Page",
+        "story": []
+      },
+      "date": 1423086208032
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3337f9894cd6a598"
+      },
+      "id": "3337f9894cd6a598",
+      "type": "add",
+      "date": 1423086209563
+    },
+    {
+      "type": "edit",
+      "id": "3337f9894cd6a598",
+      "item": {
+        "type": "paragraph",
+        "id": "3337f9894cd6a598",
+        "text": "You should have at this point completed the task where you make an index page. "
+      },
+      "date": 1423086249594
+    },
+    {
+      "type": "add",
+      "id": "f34cde48c57431eb",
+      "item": {
+        "type": "paragraph",
+        "id": "f34cde48c57431eb",
+        "text": "See [[Make an Index Page]]."
+      },
+      "after": "3337f9894cd6a598",
+      "date": 1423086266843
+    },
+    {
+      "type": "remove",
+      "id": "f34cde48c57431eb",
+      "date": 1423086301994
+    },
+    {
+      "type": "edit",
+      "id": "3337f9894cd6a598",
+      "item": {
+        "type": "paragraph",
+        "id": "3337f9894cd6a598",
+        "text": "You should have at this point completed the task where you make an index page. See [[Make an Index Page]]."
+      },
+      "date": 1423086304197
+    },
+    {
+      "type": "edit",
+      "id": "3337f9894cd6a598",
+      "item": {
+        "type": "paragraph",
+        "id": "3337f9894cd6a598",
+        "text": "You should have at this point completed the task where you make an index page. "
+      },
+      "date": 1423086322313
+    },
+    {
+      "type": "add",
+      "id": "1c387e9d144016fd",
+      "item": {
+        "type": "paragraph",
+        "id": "1c387e9d144016fd",
+        "text": "See [[Make an Index Page]]."
+      },
+      "after": "3337f9894cd6a598",
+      "date": 1423086323884
+    },
+    {
+      "type": "remove",
+      "id": "1c387e9d144016fd",
+      "date": 1423086332990
+    },
+    {
+      "type": "edit",
+      "id": "3337f9894cd6a598",
+      "item": {
+        "type": "paragraph",
+        "id": "3337f9894cd6a598",
+        "text": "You should have at this point completed the task where you make an index page. See [[Make an Index Page]]."
+      },
+      "date": 1423086340668
+    },
+    {
+      "type": "edit",
+      "id": "3337f9894cd6a598",
+      "item": {
+        "type": "paragraph",
+        "id": "3337f9894cd6a598",
+        "text": "You should have at this point completed the task where you [[Make an Index Page]]. "
+      },
+      "date": 1423086378781
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "303fdc4f4d2d407d"
+      },
+      "id": "303fdc4f4d2d407d",
+      "type": "add",
+      "after": "3337f9894cd6a598",
+      "date": 1423086387820
+    },
+    {
+      "type": "edit",
+      "id": "303fdc4f4d2d407d",
+      "item": {
+        "type": "paragraph",
+        "id": "303fdc4f4d2d407d",
+        "text": "In this activity we will make a simple encyclopedic page. "
+      },
+      "date": 1423086416841
+    },
+    {
+      "type": "move",
+      "order": [
+        "303fdc4f4d2d407d",
+        "3337f9894cd6a598"
+      ],
+      "id": "303fdc4f4d2d407d",
+      "date": 1423086419138
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9d4e1a17155a4971"
+      },
+      "id": "9d4e1a17155a4971",
+      "type": "add",
+      "after": "3337f9894cd6a598",
+      "date": 1423086420561
+    },
+    {
+      "type": "edit",
+      "id": "9d4e1a17155a4971",
+      "item": {
+        "type": "paragraph",
+        "id": "9d4e1a17155a4971",
+        "text": "Now here's the hard part. To truly get how this works, you'll need to write a page that isn't just \"Hello, World!\"."
+      },
+      "date": 1423086518818
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "24ae27e54ea02bf2"
+      },
+      "id": "24ae27e54ea02bf2",
+      "type": "add",
+      "after": "9d4e1a17155a4971",
+      "date": 1423086704994
+    },
+    {
+      "type": "edit",
+      "id": "24ae27e54ea02bf2",
+      "item": {
+        "type": "paragraph",
+        "id": "24ae27e54ea02bf2",
+        "text": "So let's make a short page about an educational technology. You can come up with your own, or you can choose from the list below:"
+      },
+      "date": 1423086774479
+    },
+    {
+      "type": "add",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: abacus, blackboard, "
+      },
+      "after": "24ae27e54ea02bf2",
+      "date": 1423086824930
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: abacus, blackboard,"
+      },
+      "date": 1423086848737
+    },
+    {
+      "type": "add",
+      "id": "3fd92453d612c4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd92453d612c4a5",
+        "text": "Pressey's Machine"
+      },
+      "after": "a22e3e078e18849f",
+      "date": 1423086926518
+    },
+    {
+      "type": "edit",
+      "id": "3fd92453d612c4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd92453d612c4a5",
+        "text": "Pressey's Machine, "
+      },
+      "date": 1423086941948
+    },
+    {
+      "type": "add",
+      "id": "b8058fa344849c4e",
+      "item": {
+        "type": "paragraph",
+        "id": "b8058fa344849c4e",
+        "text": "SRA cards,"
+      },
+      "after": "3fd92453d612c4a5",
+      "date": 1423086958723
+    },
+    {
+      "type": "edit",
+      "id": "3fd92453d612c4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd92453d612c4a5",
+        "text": "Little Professor, MathLab, Pressey's Machine, "
+      },
+      "date": 1423086997425
+    },
+    {
+      "type": "edit",
+      "id": "3fd92453d612c4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd92453d612c4a5",
+        "text": "Little Professor, MyMathLab, Pressey's Machine, "
+      },
+      "date": 1423087036894
+    },
+    {
+      "type": "add",
+      "id": "6e9f314986125712",
+      "item": {
+        "type": "paragraph",
+        "id": "6e9f314986125712",
+        "text": "Wolf"
+      },
+      "after": "b8058fa344849c4e",
+      "date": 1423087053472
+    },
+    {
+      "type": "edit",
+      "id": "3fd92453d612c4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd92453d612c4a5",
+        "text": "Logo, MyMathLab, Pressey's Machine, "
+      },
+      "date": 1423087060441
+    },
+    {
+      "type": "edit",
+      "id": "6e9f314986125712",
+      "item": {
+        "type": "paragraph",
+        "id": "6e9f314986125712",
+        "text": "Wolfram Alpha"
+      },
+      "date": 1423087078478
+    },
+    {
+      "type": "edit",
+      "id": "3fd92453d612c4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd92453d612c4a5",
+        "text": "Logo, MyMathLab, PLATO, "
+      },
+      "date": 1423087117774
+    },
+    {
+      "type": "add",
+      "id": "dc615924cfd67c6a",
+      "item": {
+        "type": "paragraph",
+        "id": "dc615924cfd67c6a",
+        "text": "Fathom,"
+      },
+      "after": "a22e3e078e18849f",
+      "date": 1423087186779
+    },
+    {
+      "type": "edit",
+      "id": "b8058fa344849c4e",
+      "item": {
+        "type": "paragraph",
+        "id": "b8058fa344849c4e",
+        "text": "SRA cards, Sketchpad"
+      },
+      "date": 1423087213048
+    },
+    {
+      "type": "edit",
+      "id": "3fd92453d612c4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd92453d612c4a5",
+        "text": "Logo, MyMathLab, PLATO, Pressey's Machine"
+      },
+      "date": 1423087228450
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: abacus, blackboard, EDUPUNK"
+      },
+      "date": 1423087316789
+    },
+    {
+      "type": "edit",
+      "id": "dc615924cfd67c6a",
+      "item": {
+        "type": "paragraph",
+        "id": "dc615924cfd67c6a",
+        "text": "Fathom, G, H, I, J, K"
+      },
+      "date": 1423087335950
+    },
+    {
+      "type": "edit",
+      "id": "3fd92453d612c4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd92453d612c4a5",
+        "text": "Logo, MyMathLab, PLATO, N, O, Pressey's Machine"
+      },
+      "date": 1423087348636
+    },
+    {
+      "type": "edit",
+      "id": "b8058fa344849c4e",
+      "item": {
+        "type": "paragraph",
+        "id": "b8058fa344849c4e",
+        "text": "SRA cards, textbook, "
+      },
+      "date": 1423087394436
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: Aikins Educational Appliance, Blackboard, "
+      },
+      "date": 1423087679550
+    },
+    {
+      "type": "edit",
+      "id": "dc615924cfd67c6a",
+      "item": {
+        "type": "paragraph",
+        "id": "dc615924cfd67c6a",
+        "text": "Fathom, G, H, IF-AT cards, J, K"
+      },
+      "date": 1423087688752
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: Aikins Educational Appliance, Blackboard, Clickers, "
+      },
+      "date": 1423087712362
+    },
+    {
+      "type": "edit",
+      "id": "b8058fa344849c4e",
+      "item": {
+        "type": "paragraph",
+        "id": "b8058fa344849c4e",
+        "text": "SRA cards, Talkomatic, "
+      },
+      "date": 1423088090387
+    },
+    {
+      "type": "edit",
+      "id": "dc615924cfd67c6a",
+      "item": {
+        "type": "paragraph",
+        "id": "dc615924cfd67c6a",
+        "text": "Fathom, GameLine, H, IF-AT cards, J, K"
+      },
+      "date": 1423088239444
+    },
+    {
+      "type": "edit",
+      "id": "b8058fa344849c4e",
+      "item": {
+        "type": "paragraph",
+        "id": "b8058fa344849c4e",
+        "text": "SRA cards, SAKI, Talkomatic, "
+      },
+      "date": 1423088607111
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: Blackboard, Clickers, "
+      },
+      "date": 1423088678647
+    },
+    {
+      "type": "edit",
+      "id": "3fd92453d612c4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd92453d612c4a5",
+        "text": "Logo, MyMathLab, PLATO, Project Athena, N, O, Pressey's Machine"
+      },
+      "date": 1423088690332
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: Blackboard, BLOSSOMS (MIT), Clickers, CDC PLATO Online, "
+      },
+      "date": 1423088749595
+    },
+    {
+      "type": "edit",
+      "id": "3fd92453d612c4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd92453d612c4a5",
+        "text": "Logo, LaZerte's Problem Cylinder, MyMathLab, PLATO, Project Athena, N, O, Pressey's Machine"
+      },
+      "date": 1423088925336
+    },
+    {
+      "type": "edit",
+      "id": "b8058fa344849c4e",
+      "item": {
+        "type": "paragraph",
+        "id": "b8058fa344849c4e",
+        "text": "SRA cards, SAKI, Sutherland's Sketchpad,  Talkomatic, "
+      },
+      "date": 1423089064946
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: Blackboard, BLOSSOMS (MIT), Clickers, IBM 1500, "
+      },
+      "date": 1423089345365
+    },
+    {
+      "type": "edit",
+      "id": "3fd92453d612c4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd92453d612c4a5",
+        "text": "Logo, LaZerte's Problem Cylinder, MyMathLab, PLATO, Project Athena, Notes (PLATO), O, Pressey's Machine"
+      },
+      "date": 1423089364828
+    },
+    {
+      "type": "edit",
+      "id": "3fd92453d612c4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd92453d612c4a5",
+        "text": "Logo, LaZerte's Problem Cylinder, MyMathLab, PLATO, Project Athena, PLATO Notes, O, Pressey's Machine"
+      },
+      "date": 1423089419455
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: Blackboard, BLOSSOMS (MIT), Clickers, CDC Plato Network, IBM 1500, "
+      },
+      "date": 1423089450078
+    },
+    {
+      "type": "edit",
+      "id": "3fd92453d612c4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd92453d612c4a5",
+        "text": "Logo, LaZerte's Problem Cylinder, MyMathLab, Project Athena, PLATO Notes, O, Pressey's Machine"
+      },
+      "date": 1423089489562
+    },
+    {
+      "type": "edit",
+      "id": "dc615924cfd67c6a",
+      "item": {
+        "type": "paragraph",
+        "id": "dc615924cfd67c6a",
+        "text": "Fathom, , H, IF-AT cards, J, K"
+      },
+      "date": 1423089502633
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: Blackboard, BLOSSOMS (MIT), Clickers, CDC Plato Network, "
+      },
+      "date": 1423089640528
+    },
+    {
+      "type": "edit",
+      "id": "dc615924cfd67c6a",
+      "item": {
+        "type": "paragraph",
+        "id": "dc615924cfd67c6a",
+        "text": "Fathom, , H,  IBM 1500, IF-AT cards, J, K"
+      },
+      "date": 1423089647166
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: Blackboard, BLOSSOMS (MIT), Clickers, CDC Plato Network, Elgg, "
+      },
+      "date": 1423089730148
+    },
+    {
+      "type": "remove",
+      "id": "dc615924cfd67c6a",
+      "date": 1423089738610
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: Blackboard, BLOSSOMS (MIT), Clickers, CDC Plato Network, Elgg, Fathom, , H,  IBM 1500, IF-AT cards, J, K"
+      },
+      "date": 1423089740979
+    },
+    {
+      "type": "edit",
+      "id": "6e9f314986125712",
+      "item": {
+        "type": "paragraph",
+        "id": "6e9f314986125712",
+        "text": "Wiki in Education, "
+      },
+      "date": 1423089899564
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: Blackboard, BLOSSOMS (MIT), Clickers, CDC Plato Network, Elgg, Fathom, Goal-based Scenarios, H, IBM 1500, IF-AT cards, J, K"
+      },
+      "date": 1423090038589
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: Blackboard, BLOSSOMS (MIT), Clickers, , Elgg, Flight Simulators, Goal-based Scenarios, H, IBM 1500, IF-AT cards, J, K"
+      },
+      "date": 1423090070874
+    },
+    {
+      "type": "edit",
+      "id": "3fd92453d612c4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd92453d612c4a5",
+        "text": "Logo, LaZerte's Problem Cylinder, MyMathLab, Pressey's Machine"
+      },
+      "date": 1423090219270
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: Project Athena, Blackboard, BLOSSOMS (MIT), Clickers, , Elgg, Flight Simulators, Goal-based Scenarios, H, IBM 1500, IF-AT cards, J, K"
+      },
+      "date": 1423090234930
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: Project Athena, BLOSSOMS (MIT), Clickers, , Elgg, Flight Simulators, Goal-based Scenarios, H, IBM 1500, IF-AT cards, J, K"
+      },
+      "date": 1423090251206
+    },
+    {
+      "type": "edit",
+      "id": "3fd92453d612c4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd92453d612c4a5",
+        "text": "Logo, LaZerte's Problem Cylinder, MyMathLab, OER, Pressey's Machine"
+      },
+      "date": 1423090322310
+    },
+    {
+      "type": "edit",
+      "id": "3fd92453d612c4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd92453d612c4a5",
+        "text": "Logo, MyMathLab, OER, Pressey's Machine"
+      },
+      "date": 1423090358337
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: Project Athena, BLOSSOMS (MIT), Clickers, , Elgg, Flight Simulators, Goal-based Scenarios, H. Skinner, IBM 1500, IF-AT cards, J, K"
+      },
+      "date": 1423090386817
+    },
+    {
+      "type": "edit",
+      "id": "3fd92453d612c4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3fd92453d612c4a5",
+        "text": "Logo, MyMathLab, OER, Programmed Learning"
+      },
+      "date": 1423090600157
+    },
+    {
+      "type": "edit",
+      "id": "b8058fa344849c4e",
+      "item": {
+        "type": "paragraph",
+        "id": "b8058fa344849c4e",
+        "text": "SRA cards, Talkomatic, "
+      },
+      "date": 1423090610857
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: Project Athena, BLOSSOMS (MIT), Clickers, Dynabook, Elgg, Flight Simulators, Goal-based Scenarios, H. Skinner, IBM 1500, IF-AT cards, J, K"
+      },
+      "date": 1423090635633
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: Abacus, BLOSSOMS (MIT), Clickers, Dynabook, Elgg, Flight Simulators, Goal-based Scenarios, , IBM 1500, IF-AT cards, J, K"
+      },
+      "date": 1423090664617
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: Abacus, BLOSSOMS (MIT), Clickers, Dynabook, Elgg, Flight Simulators, Goal-based Scenarios, H , IBM 1500, IF-AT cards, J, K"
+      },
+      "date": 1423090675983
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Technologies: "
+      },
+      "date": 1423090747446
+    },
+    {
+      "type": "add",
+      "id": "5d9c47c315dc652f",
+      "item": {
+        "type": "paragraph",
+        "id": "5d9c47c315dc652f",
+        "text": "Abacus, "
+      },
+      "after": "a22e3e078e18849f",
+      "date": 1423090752025
+    },
+    {
+      "type": "edit",
+      "id": "5d9c47c315dc652f",
+      "item": {
+        "type": "paragraph",
+        "id": "5d9c47c315dc652f",
+        "text": "Abacus, BLOSSOMS (MIT), Clickers, Dynabook, Elgg, Flight Simulators, Goal-based Scenarios, Holodeck, IBM 1500, IF-AT cards, J, K"
+      },
+      "date": 1423090764031
+    },
+    {
+      "type": "remove",
+      "id": "3fd92453d612c4a5",
+      "date": 1423090768833
+    },
+    {
+      "type": "edit",
+      "id": "5d9c47c315dc652f",
+      "item": {
+        "type": "paragraph",
+        "id": "5d9c47c315dc652f",
+        "text": "Abacus, BLOSSOMS (MIT), Clickers, Dynabook, Elgg, Flight Simulators, Goal-based Scenarios, Holodeck, IBM 1500, IF-AT cards, J, K, Logo, MyMathLab, OER, Programmed Learning"
+      },
+      "date": 1423090773718
+    },
+    {
+      "type": "remove",
+      "id": "b8058fa344849c4e",
+      "date": 1423090775306
+    },
+    {
+      "type": "edit",
+      "id": "5d9c47c315dc652f",
+      "item": {
+        "type": "paragraph",
+        "id": "5d9c47c315dc652f",
+        "text": "Abacus, BLOSSOMS (MIT), Clickers, Dynabook, Elgg, Flight Simulators, Goal-based Scenarios, Holodeck, IBM 1500, IF-AT cards, J, K, Logo, MyMathLab, OER, Programmed Learning, SRA cards, Talkomatic, "
+      },
+      "date": 1423090780357
+    },
+    {
+      "type": "remove",
+      "id": "6e9f314986125712",
+      "date": 1423090784434
+    },
+    {
+      "type": "edit",
+      "id": "5d9c47c315dc652f",
+      "item": {
+        "type": "paragraph",
+        "id": "5d9c47c315dc652f",
+        "text": "Abacus, BLOSSOMS (MIT), Clickers, Dynabook, Elgg, Flight Simulators, Goal-based Scenarios, Holodeck, IBM 1500, IF-AT cards, J, K, Logo, MyMathLab, OER, Programmed Learning, SRA cards, Talkomatic, Wiki in Education, "
+      },
+      "date": 1423090787192
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bd6e1cddd80bafbf"
+      },
+      "id": "bd6e1cddd80bafbf",
+      "type": "add",
+      "after": "5d9c47c315dc652f",
+      "date": 1423090795608
+    },
+    {
+      "type": "remove",
+      "id": "5d9c47c315dc652f",
+      "date": 1423090798118
+    },
+    {
+      "type": "edit",
+      "id": "bd6e1cddd80bafbf",
+      "item": {
+        "type": "markdown",
+        "id": "bd6e1cddd80bafbf",
+        "text": "Abacus\nBlossoms\nClickers\nDynabook\nElgg\nFilmstrips\nGoal-based Scenarios\nHolodeck\nIF-AT cards\nJ, \nK, \nLogo, \nMyMathLab, \nN\nOER, \nProgrammed Learning, \nQuizzes, Multiple Choice\nR\nSRA cards, \nTalkomatic, \nU\nV\nWorldware \nX\nYouTube\nZotero"
+      },
+      "date": 1423090989569
+    },
+    {
+      "type": "edit",
+      "id": "bd6e1cddd80bafbf",
+      "item": {
+        "type": "markdown",
+        "id": "bd6e1cddd80bafbf",
+        "text": "* Abacus\n* Blossoms\n* Clickers\n* Dynabook\n* Elgg\n* Filmstrips\n* Goal-based Scenarios\n* Holodeck\n* IF-AT cards\n* J, \n* K, \n* Logo\n* MyMathLab\n* N\n* OER\n* Programmed Learning\n* Quizzes, Multiple Choice\n* R\n* SRA cards\n* Talkomatic\n* U\n* V\n* Worldware \n* Xerox PARC\n* YouTube\n* Zotero"
+      },
+      "date": 1423091167457
+    },
+    {
+      "type": "edit",
+      "id": "bd6e1cddd80bafbf",
+      "item": {
+        "type": "markdown",
+        "id": "bd6e1cddd80bafbf",
+        "text": "* Abacus\n* Blossoms\n* Clickers\n* Dynabook\n* Elgg\n* Filmstrips\n* Goal-based Scenarios\n* Holodeck\n* IF-AT cards\n* J, \n* K, \n* Logo\n* MyMathLab\n* NLS\n* OER\n* Programmed Learning\n* Quizzes, Multiple Choice\n* R\n* SRA cards\n* Talkomatic\n* U\n* V\n* Worldware \n* Xerox PARC\n* YouTube\n* Zotero"
+      },
+      "date": 1423091196678
+    },
+    {
+      "type": "edit",
+      "id": "bd6e1cddd80bafbf",
+      "item": {
+        "type": "markdown",
+        "id": "bd6e1cddd80bafbf",
+        "text": "* Abacus\n* Blossoms\n* Clickers\n* Dynabook\n* Elgg\n* Filmstrips\n* Goal-based Scenarios\n* Holodeck\n* IF-AT cards\n* J, \n* K, \n* Logo\n* MyMathLab\n* NLS (computer system)\n* OER\n* Programmed Learning\n* Quizzes, Multiple Choice\n* R\n* SRA cards\n* Talkomatic\n* U\n* V\n* Worldware \n* Xerox PARC\n* YouTube\n* Zotero"
+      },
+      "date": 1423091234411
+    },
+    {
+      "type": "edit",
+      "id": "bd6e1cddd80bafbf",
+      "item": {
+        "type": "markdown",
+        "id": "bd6e1cddd80bafbf",
+        "text": "* Abacus\n* Blossoms\n* Clickers\n* Dynabook\n* Elgg\n* Filmstrips\n* Goal-based Scenarios\n* Holodeck\n* IF-AT cards\n* J, \n* K, \n* Logo\n* MyMathLab\n* NLS (computer system)\n* OER\n* Programmed Learning\n* Quizzes, Multiple Choice\n* Robot Teachers in the Jetsons\n* SRA cards\n* Talkomatic\n* U\n* V\n* Worldware \n* Xerox PARC\n* YouTube\n* Zotero"
+      },
+      "date": 1423091348859
+    },
+    {
+      "type": "edit",
+      "id": "bd6e1cddd80bafbf",
+      "item": {
+        "type": "markdown",
+        "id": "bd6e1cddd80bafbf",
+        "text": "* Abacus\n* Blossoms\n* Clickers\n* Dynabook\n* Elgg\n* Filmstrips\n* Goal-based Scenarios\n* Holodeck\n* IF-AT cards\n* J, \n* K, \n* Logo\n* MyMathLab\n* NLS (computer system)\n* OER\n* Programmed Learning\n* Quizzes, Multiple Choice\n* Robot Teachers in the Jetsons\n* SRA cards\n* Talkomatic\n* U\n* V\n* Worldware \n* Xerox PARC\n* YouTube\n* Zoetrope"
+      },
+      "date": 1423091644261
+    },
+    {
+      "type": "edit",
+      "id": "bd6e1cddd80bafbf",
+      "item": {
+        "type": "markdown",
+        "id": "bd6e1cddd80bafbf",
+        "text": "* Abacus\n* Blossoms\n* Clickers\n* Dynabook\n* Elgg\n* Filmstrips\n* Goal-based Scenarios\n* Holodeck\n* IF-AT cards\n* J, \n* K, \n* Logo\n* MyMathLab\n* NLS (computer system)\n* OER\n* Programmed Learning\n* Quizzes, Multiple Choice\n* Robot Teachers in the Jetsons\n* SRA cards\n* Talkomatic\n* U\n* V\n* Worldware \n* Xanadu\n* YouTube\n* Zoetrope"
+      },
+      "date": 1423091705505
+    },
+    {
+      "type": "edit",
+      "id": "bd6e1cddd80bafbf",
+      "item": {
+        "type": "markdown",
+        "id": "bd6e1cddd80bafbf",
+        "text": "* Abacus\n* Blossoms\n* Clickers\n* Dynabook\n* Elgg\n* Filmstrips\n* Goal-based Scenarios\n* Holodeck\n* IF-AT cards\n* J, \n* K, \n* Logo\n* MyMathLab\n* NLS (computer system)\n* OER\n* Programmed Learning\n* Quizzes, Multiple Choice\n* Robot Teachers in the Jetsons\n* SRA cards\n* Talkomatic\n* U\n* V\n* Worldware \n* Xerox Parc\n* YouTube\n* Zoetrope"
+      },
+      "date": 1423091727013
+    },
+    {
+      "type": "edit",
+      "id": "bd6e1cddd80bafbf",
+      "item": {
+        "type": "markdown",
+        "id": "bd6e1cddd80bafbf",
+        "text": "* Abacus\n* Blossoms\n* Clickers\n* Dynabook\n* Elgg\n* Filmstrips\n* Goal-based Scenarios\n* Holodeck\n* IF-AT cards\n* J, \n* KUHT\n* Logo\n* MyMathLab\n* NLS (computer system)\n* OER\n* Programmed Learning\n* Quizzes, Multiple Choice\n* Robot Teachers in the Jetsons\n* SRA cards\n* Talkomatic\n* U\n* V\n* Worldware \n* Xerox Parc\n* YouTube\n* Zoetrope"
+      },
+      "date": 1423091933084
+    },
+    {
+      "type": "edit",
+      "id": "bd6e1cddd80bafbf",
+      "item": {
+        "type": "markdown",
+        "id": "bd6e1cddd80bafbf",
+        "text": "* Abacus\n* Blossoms\n* Clickers\n* Dynabook\n* Elgg\n* Filmstrips\n* Goal-based Scenarios\n* Holodeck\n* IF-AT cards\n* J, \n* KUHT\n* Logo\n* MyMathLab\n* NLS (computer system)\n* OER\n* Programmed Learning\n* Quizzes, Multiple Choice\n* Robot Teachers in the Jetsons\n* SRA cards\n* Talkomatic\n* U\n* Video disks\n* Worldware \n* Xerox Parc\n* YouTube\n* Zoetrope"
+      },
+      "date": 1423092002431
+    },
+    {
+      "type": "edit",
+      "id": "bd6e1cddd80bafbf",
+      "item": {
+        "type": "markdown",
+        "id": "bd6e1cddd80bafbf",
+        "text": "<blockquote>\n* Abacus\n* Blossoms\n* Clickers\n* Dynabook\n* Elgg\n* Filmstrips\n* Goal-based Scenarios\n* Holodeck\n* IF-AT cards\n* J, \n* KUHT\n* Logo\n* MyMathLab\n* NLS (computer system)\n* OER\n* Programmed Learning\n* Quizzes, Multiple Choice\n* Robot Teachers in the Jetsons\n* SRA cards\n* Talkomatic\n* U\n* Video disks\n* Worldware \n* Xerox Parc\n* YouTube\n* Zoetrope"
+      },
+      "date": 1423092049180
+    },
+    {
+      "type": "edit",
+      "id": "bd6e1cddd80bafbf",
+      "item": {
+        "type": "markdown",
+        "id": "bd6e1cddd80bafbf",
+        "text": "\n* Abacus\n* Blossoms\n* Clickers\n* Dynabook\n* Elgg\n* Filmstrips\n* Goal-based Scenarios\n* Holodeck\n* IF-AT cards\n* J, \n* KUHT\n* Logo\n* MyMathLab\n* NLS (computer system)\n* OER\n* Programmed Learning\n* Quizzes, Multiple Choice\n* Robot Teachers in the Jetsons\n* SRA cards\n* Talkomatic\n* U\n* Video disks\n* Worldware \n* Xerox Parc\n* YouTube\n* Zoetrope"
+      },
+      "date": 1423092056051
+    },
+    {
+      "type": "edit",
+      "id": "bd6e1cddd80bafbf",
+      "item": {
+        "type": "markdown",
+        "id": "bd6e1cddd80bafbf",
+        "text": "* Abacus\n* Blossoms\n* Clickers\n* Dynabook\n* Elgg\n* Filmstrips\n* Goal-based Scenarios\n* Holodeck\n* IF-AT cards\n* Jacquard Loom \n* KUHT\n* Logo\n* MyMathLab\n* NLS (computer system)\n* OER\n* Programmed Learning\n* Quizzes, Multiple Choice\n* Robot Teachers in the Jetsons\n* SRA cards\n* Talkomatic\n* U\n* Video disks\n* Worldware \n* Xerox Parc\n* YouTube\n* Zoetrope"
+      },
+      "date": 1423092190624
+    },
+    {
+      "type": "edit",
+      "id": "bd6e1cddd80bafbf",
+      "item": {
+        "type": "markdown",
+        "id": "bd6e1cddd80bafbf",
+        "text": "* Auto-tutor (1964)\n* Blossoms\n* Clickers\n* Dynabook\n* Elgg\n* Filmstrips\n* Goal-based Scenarios\n* Holodeck\n* IF-AT cards\n* Jacquard Loom \n* KUHT\n* Logo\n* MyMathLab\n* NLS (computer system)\n* OER\n* Programmed Learning\n* Quizzes, Multiple Choice\n* Robot Teachers in the Jetsons\n* SRA cards\n* Talkomatic\n* U\n* Video disks\n* Worldware \n* Xerox Parc\n* YouTube\n* Zoetrope"
+      },
+      "date": 1423092477883
+    },
+    {
+      "type": "edit",
+      "id": "bd6e1cddd80bafbf",
+      "item": {
+        "type": "markdown",
+        "id": "bd6e1cddd80bafbf",
+        "text": "* AutoTutor \n* Blossoms\n* Clickers\n* Dynabook\n* Elgg\n* Filmstrips\n* Goal-based Scenarios\n* Holodeck\n* IF-AT cards\n* Jacquard Loom \n* KUHT\n* Logo\n* MyMathLab\n* NLS (computer system)\n* OER\n* Programmed Learning\n* Quizzes, Multiple Choice\n* Robot Teachers in the Jetsons\n* SRA cards\n* Talkomatic\n* U\n* Video disks\n* Worldware \n* Xerox Parc\n* YouTube\n* Zoetrope"
+      },
+      "date": 1423092588309
+    },
+    {
+      "type": "edit",
+      "id": "bd6e1cddd80bafbf",
+      "item": {
+        "type": "markdown",
+        "id": "bd6e1cddd80bafbf",
+        "text": "* AutoTutor (early 60s)\n* Blossoms\n* Clickers\n* Dynabook\n* Elgg\n* Filmstrips\n* Goal-based Scenarios\n* Holodeck\n* IF-AT cards\n* Jacquard Loom \n* KUHT\n* Logo\n* MyMathLab\n* NLS (computer system)\n* OER\n* Programmed Learning\n* Quizzes, Multiple Choice\n* Robot Teachers in the Jetsons\n* SRA cards\n* Talkomatic\n* U\n* Video disks\n* Worldware \n* Xerox Parc\n* YouTube\n* Zoetrope"
+      },
+      "date": 1423092600532
+    },
+    {
+      "type": "edit",
+      "id": "bd6e1cddd80bafbf",
+      "item": {
+        "type": "markdown",
+        "id": "bd6e1cddd80bafbf",
+        "text": "* AutoTutor (early 60s)\n* Blossoms\n* Clickers\n* Dynabook\n* Elgg\n* Filmstrips\n* Goal-based Scenarios\n* Holodeck\n* IF-AT cards\n* Jacquard Loom \n* KUHT\n* Logo\n* MyMathLab\n* NLS (computer system)\n* OER\n* Programmed Learning\n* Quizzes, Multiple Choice\n* Robot Teachers in the Jetsons\n* SRA cards\n* Talkomatic\n* Udacity\n* Video disks\n* Worldware \n* Xerox Parc\n* YouTube\n* Zoetrope"
+      },
+      "date": 1423093019428
+    },
+    {
+      "type": "edit",
+      "id": "a22e3e078e18849f",
+      "item": {
+        "type": "paragraph",
+        "id": "a22e3e078e18849f",
+        "text": "Possible subjects"
+      },
+      "date": 1423093038570
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3dcf67f5628f03b7"
+      },
+      "id": "3dcf67f5628f03b7",
+      "type": "add",
+      "after": "bd6e1cddd80bafbf",
+      "date": 1423093042985
+    },
+    {
+      "type": "edit",
+      "id": "3dcf67f5628f03b7",
+      "item": {
+        "type": "html",
+        "id": "3dcf67f5628f03b7",
+        "text": "</blockquote>"
+      },
+      "date": 1423093060077
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b11580e24487d606"
+      },
+      "id": "b11580e24487d606",
+      "type": "add",
+      "after": "3dcf67f5628f03b7",
+      "date": 1423093062431
+    },
+    {
+      "type": "edit",
+      "id": "b11580e24487d606",
+      "item": {
+        "type": "html",
+        "id": "b11580e24487d606",
+        "text": "<blockquote>&nbsp;"
+      },
+      "date": 1423093084179
+    },
+    {
+      "type": "move",
+      "order": [
+        "303fdc4f4d2d407d",
+        "3337f9894cd6a598",
+        "9d4e1a17155a4971",
+        "24ae27e54ea02bf2",
+        "a22e3e078e18849f",
+        "bd6e1cddd80bafbf",
+        "b11580e24487d606",
+        "3dcf67f5628f03b7"
+      ],
+      "id": "b11580e24487d606",
+      "date": 1423093086344
+    },
+    {
+      "type": "edit",
+      "id": "b11580e24487d606",
+      "item": {
+        "type": "html",
+        "id": "b11580e24487d606",
+        "text": "Possible Terms:\n<blockquote>"
+      },
+      "date": 1423093111906
+    },
+    {
+      "type": "move",
+      "order": [
+        "303fdc4f4d2d407d",
+        "3337f9894cd6a598",
+        "9d4e1a17155a4971",
+        "24ae27e54ea02bf2",
+        "a22e3e078e18849f",
+        "b11580e24487d606",
+        "bd6e1cddd80bafbf",
+        "3dcf67f5628f03b7"
+      ],
+      "id": "b11580e24487d606",
+      "date": 1423093114521
+    },
+    {
+      "type": "edit",
+      "id": "b11580e24487d606",
+      "item": {
+        "type": "html",
+        "id": "b11580e24487d606",
+        "text": "Possible Terms:\n<ul>"
+      },
+      "date": 1423093146096
+    },
+    {
+      "type": "edit",
+      "id": "b11580e24487d606",
+      "item": {
+        "type": "html",
+        "id": "b11580e24487d606",
+        "text": "Possible Terms:\n"
+      },
+      "date": 1423093157739
+    },
+    {
+      "type": "remove",
+      "id": "a22e3e078e18849f",
+      "date": 1423093172859
+    },
+    {
+      "type": "edit",
+      "id": "24ae27e54ea02bf2",
+      "item": {
+        "type": "paragraph",
+        "id": "24ae27e54ea02bf2",
+        "text": "So let's make a short page about a term related to educational technology. You can come up with your own, topic or you can choose from our A-Z list below:"
+      },
+      "date": 1423093206340
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "72cbe64512cfaa3c"
+      },
+      "id": "72cbe64512cfaa3c",
+      "type": "add",
+      "after": "3dcf67f5628f03b7",
+      "date": 1423093222681
+    },
+    {
+      "type": "remove",
+      "id": "bd6e1cddd80bafbf",
+      "date": 1423093225180
+    },
+    {
+      "type": "edit",
+      "id": "72cbe64512cfaa3c",
+      "item": {
+        "type": "code",
+        "id": "72cbe64512cfaa3c",
+        "text": "* AutoTutor (early 60s)\n* Blossoms\n* Clickers\n* Dynabook\n* Elgg\n* Filmstrips\n* Goal-based Scenarios\n* Holodeck\n* IF-AT cards\n* Jacquard Loom \n* KUHT\n* Logo\n* MyMathLab\n* NLS (computer system)\n* OER\n* Programmed Learning\n* Quizzes, Multiple Choice\n* Robot Teachers in the Jetsons\n* SRA cards\n* Talkomatic\n* Udacity\n* Video disks\n* Worldware \n* Xerox Parc\n* YouTube\n* Zoetrope"
+      },
+      "date": 1423093230789
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "29f466d3bbc2a798"
+      },
+      "id": "29f466d3bbc2a798",
+      "type": "add",
+      "after": "72cbe64512cfaa3c",
+      "date": 1423093242547
+    },
+    {
+      "type": "remove",
+      "id": "72cbe64512cfaa3c",
+      "date": 1423093245603
+    },
+    {
+      "type": "remove",
+      "id": "29f466d3bbc2a798",
+      "date": 1423093259315
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "65ff26d7c8ddf5fe"
+      },
+      "id": "65ff26d7c8ddf5fe",
+      "type": "add",
+      "after": "3dcf67f5628f03b7",
+      "date": 1423093437096
+    },
+    {
+      "type": "edit",
+      "id": "65ff26d7c8ddf5fe",
+      "item": {
+        "type": "html",
+        "id": "65ff26d7c8ddf5fe",
+        "text": "<ul>\n<li>AutoTutor (early 60s)\n<li>Blossoms\n<li>Clickers\n<li>Dynabook\n<li>Elgg\n<li>Filmstrips\n<li>Goal-based Scenarios\n<li>Holodeck\n<li>IF-AT cards\n<li>Jacquard Loom \n<li>KUHT\n<li>Logo\n<li>MyMathLab\n<li>NLS (computer system)\n<li>OER\n<li>Programmed Learning\n<li>Quizzes, Multiple Choice\n<li>Robot Teachers in the Jetsons\n<li>SRA cards\n<li>Talkomatic\n<li>Udacity\n<li>Video disks\n<li>Worldware \n<li>Xerox Parc\n<li>YouTube\n<li>Zotero\n</ul>"
+      },
+      "date": 1423093442954
+    },
+    {
+      "type": "edit",
+      "id": "24ae27e54ea02bf2",
+      "item": {
+        "type": "paragraph",
+        "id": "24ae27e54ea02bf2",
+        "text": "So let's make a short page about a term related to educational technology. You can come up with your own, topic or you can choose from our A-Z list at the bottom of this page. "
+      },
+      "date": 1423093461565
+    },
+    {
+      "type": "edit",
+      "id": "24ae27e54ea02bf2",
+      "item": {
+        "type": "paragraph",
+        "id": "24ae27e54ea02bf2",
+        "text": "So let's make a short page about a term related to educational technology. You can come up with your own, topic or you can choose from our [[A-Z List of Ideas]] at the bottom of this page. "
+      },
+      "date": 1423093486599
+    },
+    {
+      "type": "remove",
+      "id": "b11580e24487d606",
+      "date": 1423093498291
+    },
+    {
+      "type": "remove",
+      "id": "65ff26d7c8ddf5fe",
+      "date": 1423093501790
+    },
+    {
+      "type": "edit",
+      "id": "24ae27e54ea02bf2",
+      "item": {
+        "type": "paragraph",
+        "id": "24ae27e54ea02bf2",
+        "text": "So let's make a short page about a term related to educational technology. You can come up with your own, topic or you can choose from our [[A-Z List of Ideas]]. "
+      },
+      "date": 1423093563161
+    },
+    {
+      "type": "add",
+      "id": "afaa759a8198e371",
+      "item": {
+        "type": "paragraph",
+        "id": "afaa759a8198e371",
+        "text": "Once you have your term -- say, NLS"
+      },
+      "after": "24ae27e54ea02bf2",
+      "date": 1423095658574
+    },
+    {
+      "type": "edit",
+      "id": "afaa759a8198e371",
+      "item": {
+        "type": "paragraph",
+        "id": "afaa759a8198e371",
+        "text": "Once you have your term -- say, NLS -- do a little research. "
+      },
+      "date": 1423095764552
+    },
+    {
+      "type": "edit",
+      "id": "afaa759a8198e371",
+      "item": {
+        "type": "paragraph",
+        "id": "afaa759a8198e371",
+        "text": "Once you have your term -- say, the RAND Tablet -- do a little research. Figure you want to write a paragraph or two."
+      },
+      "date": 1423095995453
+    },
+    {
+      "type": "add",
+      "id": "a5f5beda777cad54",
+      "item": {
+        "type": "paragraph",
+        "id": "a5f5beda777cad54",
+        "text": "Keep in mind this is not Wikipedia. You don't have to write *the* article on the RAND Tablet. We're talking about teaching machines in this course, so make the paragraph fit the purpose:"
+      },
+      "after": "afaa759a8198e371",
+      "date": 1423096083936
+    },
+    {
+      "type": "edit",
+      "id": "afaa759a8198e371",
+      "item": {
+        "type": "paragraph",
+        "id": "afaa759a8198e371",
+        "text": "Once you have your term -- say, the Semaphore Telegraph -- do a little research. Figure you want to write a paragraph or two."
+      },
+      "date": 1423096704856
+    },
+    {
+      "type": "edit",
+      "id": "a5f5beda777cad54",
+      "item": {
+        "type": "paragraph",
+        "id": "a5f5beda777cad54",
+        "text": "Keep in mind this is not Wikipedia. You don't have to write *the* article on the Semaphore Telegraph. We're talking about teaching machines in this course, so make the paragraph fit the purpose:"
+      },
+      "date": 1423096717802
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9fbd0e82bb6cb505"
+      },
+      "id": "9fbd0e82bb6cb505",
+      "type": "add",
+      "after": "3dcf67f5628f03b7",
+      "date": 1423096720595
+    },
+    {
+      "type": "edit",
+      "id": "9fbd0e82bb6cb505",
+      "item": {
+        "type": "code",
+        "id": "9fbd0e82bb6cb505",
+        "text": "A system in use in Monitorial Schools of the 18th and 19th centuries whereby one teacher could coordinate the actions of more than a hundred students. \n\nThrough a system of pulleys and levers, commands sould be shown to the students which they would execute simulataneously. The command \"S.S.\" for example, displayed high above the students would prompt the students to show their slates to the teacher, who could scan them to see if students were exucting tasks correctly.\n"
+      },
+      "date": 1423096929922
+    },
+    {
+      "type": "edit",
+      "id": "9fbd0e82bb6cb505",
+      "item": {
+        "type": "code",
+        "id": "9fbd0e82bb6cb505",
+        "text": "A system in use in Monitorial Schools of the 18th and 19th centuries whereby one teacher could coordinate the actions of more than a hundred students. A typical model might have six\n\nThrough a system of pulleys and levers, commands sould be shown to the students which they would execute simulataneously. The command \"S.S.\" for example, displayed high above the students would prompt the students to show their slates to the teacher, who could scan them to see if students were exucting tasks correctly.\n"
+      },
+      "date": 1423096994474
+    },
+    {
+      "type": "edit",
+      "id": "9fbd0e82bb6cb505",
+      "item": {
+        "type": "code",
+        "id": "9fbd0e82bb6cb505",
+        "text": "A system in use in Monitorial Schools of the 18th and 19th centuries whereby one teacher could coordinate the actions of more than a hundred students. A typical model might have six squares that through a system of pulleys and levers could be turned to give instruction to the class.\n\nSeeing commands, the students would respond instantaneously. The command \"S.S.\" for example, displayed high above the students would prompt the students to show their slates to the teacher, who could scan them to see if students were exucting tasks correctly.\n\nThe command \"F.\" would signal the students to all face forward. \n\n\n"
+      },
+      "date": 1423097135852
+    },
+    {
+      "type": "edit",
+      "id": "9fbd0e82bb6cb505",
+      "item": {
+        "type": "code",
+        "id": "9fbd0e82bb6cb505",
+        "text": "A system in use in Monitorial Schools of the 18th and 19th centuries whereby one teacher could coordinate the actions of more than a hundred students. A typical model might have six squares that through a system of pulleys and levers could be turned to give instruction to the class.\n\nSeeing commands, the students would respond instantaneously. The command \"S.S.\" for example, displayed high above the students would prompt the students to show their slates to the teacher, who could scan them to see if students were exucting tasks correctly. The command \"F.\" would signal the students to all face forward. \n\n\n"
+      },
+      "date": 1423097172949
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d4fa817d904f98ba"
+      },
+      "id": "d4fa817d904f98ba",
+      "type": "add",
+      "after": "9fbd0e82bb6cb505",
+      "date": 1423097180411
+    },
+    {
+      "type": "edit",
+      "id": "d4fa817d904f98ba",
+      "item": {
+        "type": "paragraph",
+        "id": "d4fa817d904f98ba",
+        "text": "And let's stop there, that's enough. We could go on, of course, and draw a parallel to Learning Mangement Systems or link out the \"Monitorial Schools\" term and write up an additional page, but for the moment we just wanted to get this first page started. "
+      },
+      "date": 1423097294808
+    },
+    {
+      "type": "edit",
+      "id": "afaa759a8198e371",
+      "item": {
+        "type": "paragraph",
+        "id": "afaa759a8198e371",
+        "text": "Once you have your term -- say, the Semaphore Telegraph -- do a little research. Figure you want to write a paragraph or two. You just have to find out what the system did, in what years, and who ran it."
+      },
+      "date": 1423258602557
+    },
+    {
+      "type": "add",
+      "id": "2aea9aa165ec258d",
+      "item": {
+        "type": "paragraph",
+        "id": "2aea9aa165ec258d",
+        "text": "If there's a lot of information on it, reduce it to a few sentences. If there's not much, write what you have -- others will extend it."
+      },
+      "after": "afaa759a8198e371",
+      "date": 1423258671803
+    },
+    {
+      "type": "add",
+      "id": "52d66672dd24a37a",
+      "item": {
+        "type": "paragraph",
+        "id": "52d66672dd24a37a",
+        "text": "Click into a new paragraph on your index page. Add your term in brackets like so:"
+      },
+      "after": "afaa759a8198e371",
+      "date": 1423589327422
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c9e5afe33e192d39"
+      },
+      "id": "c9e5afe33e192d39",
+      "type": "add",
+      "after": "d4fa817d904f98ba",
+      "date": 1423589331240
+    },
+    {
+      "type": "edit",
+      "id": "c9e5afe33e192d39",
+      "item": {
+        "type": "code",
+        "id": "c9e5afe33e192d39",
+        "text": "[[Monitorial Schools]]"
+      },
+      "date": 1423589341035
+    },
+    {
+      "type": "move",
+      "order": [
+        "303fdc4f4d2d407d",
+        "3337f9894cd6a598",
+        "9d4e1a17155a4971",
+        "24ae27e54ea02bf2",
+        "afaa759a8198e371",
+        "52d66672dd24a37a",
+        "c9e5afe33e192d39",
+        "2aea9aa165ec258d",
+        "a5f5beda777cad54",
+        "3dcf67f5628f03b7",
+        "9fbd0e82bb6cb505",
+        "d4fa817d904f98ba"
+      ],
+      "id": "c9e5afe33e192d39",
+      "date": 1423589347343
+    },
+    {
+      "type": "edit",
+      "id": "2aea9aa165ec258d",
+      "item": {
+        "type": "paragraph",
+        "id": "2aea9aa165ec258d",
+        "text": "Alt-S to save (or click outside the box). Then click your newly created link."
+      },
+      "date": 1423589397789
+    },
+    {
+      "type": "add",
+      "id": "09844593dd0ea7f8",
+      "item": {
+        "type": "paragraph",
+        "id": "09844593dd0ea7f8",
+        "text": "It will open up a \"ghost page\" and prompt you to create the page. Click the button to create it. "
+      },
+      "after": "2aea9aa165ec258d",
+      "date": 1423589480327
+    },
+    {
+      "type": "add",
+      "id": "0ea21bf47628c2bb",
+      "item": {
+        "type": "paragraph",
+        "id": "0ea21bf47628c2bb",
+        "text": "Now research your topic. If there's a lot of information on it, reduce it to a few sentences. If there's not much, write what you have -- others will extend it."
+      },
+      "after": "09844593dd0ea7f8",
+      "date": 1423589492920
+    },
+    {
+      "type": "edit",
+      "id": "2aea9aa165ec258d",
+      "item": {
+        "type": "paragraph",
+        "id": "2aea9aa165ec258d",
+        "text": "Alt-S (or Command-S) to save (or click outside the box). Then click your newly created link."
+      },
+      "date": 1423589608371
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454432160206
+    },
+    {
+      "type": "fork",
+      "date": 1454432163036
+    },
+    {
+      "type": "fork",
+      "site": "wiki.synesthesia.co.uk",
+      "date": 1454485993334
+    },
+    {
+      "type": "fork",
+      "site": "je.fedwiki.ssatuk.co.uk",
+      "date": 1454487758618
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "title": "StateMode",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "819715c91a937ac7",
+      "text": "*StateMode (that iterative mode which sees our work as existing as a sort of snapshot of us and our ideas)*\n\nMike Caulfield : **Peak StreamMode** [https://hapgood.us/2014/09/07/peak-streammode/ post]\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "04005851afdcbdda",
+      "text": "cf [[StreamMode]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "fork",
+      "date": 1522060191892
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "819715c91a937ac7"
+      },
+      "id": "819715c91a937ac7",
+      "type": "add",
+      "date": 1522060200264
+    },
+    {
+      "type": "edit",
+      "id": "819715c91a937ac7",
+      "item": {
+        "type": "markdown",
+        "id": "819715c91a937ac7",
+        "text": "that iterative mode which sees our work as existing as a sort of snapshot of us and our ideas"
+      },
+      "date": 1522060209402
+    },
+    {
+      "type": "edit",
+      "id": "819715c91a937ac7",
+      "item": {
+        "type": "markdown",
+        "id": "819715c91a937ac7",
+        "text": "*StateMode (that iterative mode which sees our work as existing as a sort of snapshot of us and our ideas)*\n\nMike Caulfield : **Peak StreamMode** [https://hapgood.us/2014/09/07/peak-streammode/ post]\n\ncf [[StreamMode]]"
+      },
+      "date": 1522060238056
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "04005851afdcbdda"
+      },
+      "id": "04005851afdcbdda",
+      "type": "add",
+      "after": "819715c91a937ac7",
+      "date": 1522060248507
+    },
+    {
+      "type": "edit",
+      "id": "819715c91a937ac7",
+      "item": {
+        "type": "markdown",
+        "id": "819715c91a937ac7",
+        "text": "*StateMode (that iterative mode which sees our work as existing as a sort of snapshot of us and our ideas)*\n\nMike Caulfield : **Peak StreamMode** [https://hapgood.us/2014/09/07/peak-streammode/ post]\n\n"
+      },
+      "date": 1522060252600
+    },
+    {
+      "type": "edit",
+      "id": "04005851afdcbdda",
+      "item": {
+        "type": "paragraph",
+        "id": "04005851afdcbdda",
+        "text": "cf [[StreamMode]]"
+      },
+      "date": 1522060257000
+    }
+  ]
+}

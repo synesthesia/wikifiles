@@ -1,0 +1,466 @@
+{
+  "title": "Working With Fedwiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "809097940fa24578",
+      "text": "A few things we've learned. We are Opinionated Wiki, but the opinions often come from painful lessons learned."
+    },
+    {
+      "type": "paragraph",
+      "id": "5eaa4dc28292e4a4",
+      "text": "Don't cite authors of articles unless necessary. You'll probably get it wrong, and the authors of a piece change over time anyway. "
+    },
+    {
+      "type": "paragraph",
+      "id": "429790829a989a9c",
+      "text": "If you must cite, consider using [[Via Attribution]]. This is what we do in normal conversation. We say \"Tim told me that you can now buy airline food for home delivery\" and we don't worry about who Tim heard that from, unless we don't trust Tim and we want to do a deep dig."
+    },
+    {
+      "type": "paragraph",
+      "id": "5576548381136712",
+      "text": "[[Don't Collaborate, Cooperate]]. The people your article should please in order of importance: you, your readers. Your collaborators don't even rate. What's the smallest amount of pressure you could feel to accept someone's changes to your document? Feel that. "
+    },
+    {
+      "type": "paragraph",
+      "id": "4da2d2d782fb0971",
+      "text": "Use the [[Idea Mining]] format. It works. It really does. When you make your pieces atomic, most of your problems disappear and you make life easy for us too. Have each page encapsulate a single idea, example, or dataset, or have it be a page like this which points to ideas, examples, and datasets."
+    },
+    {
+      "type": "paragraph",
+      "id": "1ff212a30c3f5c80",
+      "text": "If you speak in the first person, sign the article or comment like so."
+    },
+    {
+      "type": "html",
+      "id": "21d8c544cd785ff8",
+      "text": "<i>I wholeheartedly agree with this. - [[Mike Caulfield]].</i>"
+    },
+    {
+      "type": "paragraph",
+      "id": "5f891165e4a97be4",
+      "text": "Put comments at the bottom of the the article. Remove the comments if they are addressed in subsequent versions of the text. See [[Dissertation Over Discourse]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "bcffc42268e4c0ab",
+      "text": "One link per paragraph if possible. Or none, like this. This becomes even more important in an age of touchscreens and clumsy fingers."
+    },
+    {
+      "type": "paragraph",
+      "id": "e2934a90f055dc5d",
+      "text": "You can also use Bibliographic Paragraphs. See [[Bibliographic Paragraphs]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "0a92e097b0caa1fa",
+      "text": "Using title case for page names helps us reference them in text without linking. For example, I could talk about the page Defense of Capitalized Titles, and you would know that is a page, even though it isn't linked. "
+    },
+    {
+      "type": "paragraph",
+      "id": "1323153d1f5e9945",
+      "text": "Try to not take yourself so seriously. Today's ideas may be wrong tomorrow. Maybe your silly idea will spawn something serious for another reader. Another writer. Be a writer and a reader at once."
+    },
+    {
+      "type": "pagefold",
+      "id": "f0d39a3ed2f0b05e",
+      "text": "Discussion"
+    },
+    {
+      "type": "paragraph",
+      "id": "900727afcb964a4b",
+      "text": "Reading this page and noticing how difficult it is work consistently with \"we\", \"you\" and \"I\" made me think of [[Who's We, White Man?]]--[[Kate Bowles]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Working With Fedwiki",
+        "story": []
+      },
+      "date": 1420757685023
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "809097940fa24578"
+      },
+      "id": "809097940fa24578",
+      "type": "add",
+      "date": 1420757687309
+    },
+    {
+      "type": "edit",
+      "id": "809097940fa24578",
+      "item": {
+        "type": "paragraph",
+        "id": "809097940fa24578",
+        "text": "A few things we've learned."
+      },
+      "date": 1420757702222
+    },
+    {
+      "type": "add",
+      "id": "5eaa4dc28292e4a4",
+      "item": {
+        "type": "paragraph",
+        "id": "5eaa4dc28292e4a4",
+        "text": "Don't cite authors of articles unless necessary. You'll probably get it wrong, and the authors of a piece change over time any way. "
+      },
+      "after": "809097940fa24578",
+      "date": 1420757787186
+    },
+    {
+      "type": "add",
+      "id": "429790829a989a9c",
+      "item": {
+        "type": "paragraph",
+        "id": "429790829a989a9c",
+        "text": "If you must cite, consider using [[Via Attribution]]. This is what we do in normal conversation. We say \"Tim told me that you can now buy airline food for home delivery\" and we don't worry about who Tim heard that from. "
+      },
+      "after": "5eaa4dc28292e4a4",
+      "date": 1420757952986
+    },
+    {
+      "type": "edit",
+      "id": "5eaa4dc28292e4a4",
+      "item": {
+        "type": "paragraph",
+        "id": "5eaa4dc28292e4a4",
+        "text": "Don't cite authors of articles unless necessary. You'll probably get it wrong, and the authors of a piece change over time anyway. "
+      },
+      "date": 1420757986496
+    },
+    {
+      "type": "add",
+      "id": "5576548381136712",
+      "item": {
+        "type": "paragraph",
+        "id": "5576548381136712",
+        "text": "Don't Collaborate, Cooperate. The people your article should please in order of importance: you, your readers. Your collaborators don't even rate. "
+      },
+      "after": "429790829a989a9c",
+      "date": 1420758071720
+    },
+    {
+      "type": "add",
+      "id": "4da2d2d782fb0971",
+      "item": {
+        "type": "paragraph",
+        "id": "4da2d2d782fb0971",
+        "text": "Use the [[Idea Mining]] format. "
+      },
+      "after": "5576548381136712",
+      "date": 1420758100553
+    },
+    {
+      "type": "edit",
+      "id": "4da2d2d782fb0971",
+      "item": {
+        "type": "paragraph",
+        "id": "4da2d2d782fb0971",
+        "text": "Use the [[Idea Mining]] format. It works. It really does. When you make your pieces atomic, most of your problems disappear and you make life easy for us too. "
+      },
+      "date": 1420758166158
+    },
+    {
+      "type": "edit",
+      "id": "5576548381136712",
+      "item": {
+        "type": "paragraph",
+        "id": "5576548381136712",
+        "text": "[[Don't Collaborate, Cooperate]]. The people your article should please in order of importance: you, your readers. Your collaborators don't even rate. "
+      },
+      "date": 1420758182376
+    },
+    {
+      "type": "add",
+      "id": "1ff212a30c3f5c80",
+      "item": {
+        "type": "paragraph",
+        "id": "1ff212a30c3f5c80",
+        "text": "If you speak in the first person, sign the article or comment like so."
+      },
+      "after": "4da2d2d782fb0971",
+      "date": 1420758291179
+    },
+    {
+      "type": "add",
+      "id": "21d8c544cd785ff8",
+      "item": {
+        "type": "paragraph",
+        "id": "21d8c544cd785ff8",
+        "text": "<i>I wholeheartedly agree with this</i>"
+      },
+      "after": "1ff212a30c3f5c80",
+      "date": 1420758343747
+    },
+    {
+      "type": "add",
+      "id": "74499d67ad673efc",
+      "item": {
+        "type": "paragraph",
+        "id": "74499d67ad673efc",
+        "text": "- [[Mike Caulfield]]."
+      },
+      "after": "21d8c544cd785ff8",
+      "date": 1420758361255
+    },
+    {
+      "type": "edit",
+      "id": "21d8c544cd785ff8",
+      "item": {
+        "type": "html",
+        "id": "21d8c544cd785ff8",
+        "text": "<i>I wholeheartedly agree with this</i>"
+      },
+      "date": 1420758364328
+    },
+    {
+      "type": "remove",
+      "id": "74499d67ad673efc",
+      "date": 1420758378249
+    },
+    {
+      "type": "edit",
+      "id": "21d8c544cd785ff8",
+      "item": {
+        "type": "html",
+        "id": "21d8c544cd785ff8",
+        "text": "<i>I wholeheartedly agree with this. - [[Mike Caulfield]].</i>"
+      },
+      "date": 1420758385116
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5f891165e4a97be4"
+      },
+      "id": "5f891165e4a97be4",
+      "type": "add",
+      "after": "21d8c544cd785ff8",
+      "date": 1420758399630
+    },
+    {
+      "type": "edit",
+      "id": "5f891165e4a97be4",
+      "item": {
+        "type": "paragraph",
+        "id": "5f891165e4a97be4",
+        "text": "Put comments at the bottom of the the article. Remove the comments if they are addressed in subsequent versions of the text."
+      },
+      "date": 1420758452932
+    },
+    {
+      "type": "edit",
+      "id": "5f891165e4a97be4",
+      "item": {
+        "type": "paragraph",
+        "id": "5f891165e4a97be4",
+        "text": "Put comments at the bottom of the the article. Remove the comments if they are addressed in subsequent versions of the text. See [[Discourse up Top]]."
+      },
+      "date": 1420758482982
+    },
+    {
+      "type": "edit",
+      "id": "5f891165e4a97be4",
+      "item": {
+        "type": "paragraph",
+        "id": "5f891165e4a97be4",
+        "text": "Put comments at the bottom of the the article. Remove the comments if they are addressed in subsequent versions of the text. See [[Dissertation Over Discourse]]."
+      },
+      "date": 1420758528989
+    },
+    {
+      "type": "edit",
+      "id": "5576548381136712",
+      "item": {
+        "type": "paragraph",
+        "id": "5576548381136712",
+        "text": "[[Don't Collaborate, Cooperate]]. The people your article should please in order of importance: you, your readers. Your collaborators don't even rate. What's the smallest amount of pressure you could feel to accept someone's changes to your document? Feel that. "
+      },
+      "date": 1420758584935
+    },
+    {
+      "type": "add",
+      "id": "bcffc42268e4c0ab",
+      "item": {
+        "type": "paragraph",
+        "id": "bcffc42268e4c0ab",
+        "text": "One link per paragraph if possible. Or none, like this."
+      },
+      "after": "5f891165e4a97be4",
+      "date": 1420758664961
+    },
+    {
+      "type": "add",
+      "id": "e2934a90f055dc5d",
+      "item": {
+        "type": "paragraph",
+        "id": "e2934a90f055dc5d",
+        "text": "You can also use Bibliographic Paragraphs. See [[Bibliographic Paragraphs]]."
+      },
+      "after": "bcffc42268e4c0ab",
+      "date": 1420758699453
+    },
+    {
+      "type": "add",
+      "id": "0a92e097b0caa1fa",
+      "item": {
+        "type": "paragraph",
+        "id": "0a92e097b0caa1fa",
+        "text": "Using title case for page names helps us reference them in text without linking. For example, I could talk about the page In Defense of Title Case"
+      },
+      "after": "e2934a90f055dc5d",
+      "date": 1420758826673
+    },
+    {
+      "type": "edit",
+      "id": "0a92e097b0caa1fa",
+      "item": {
+        "type": "paragraph",
+        "id": "0a92e097b0caa1fa",
+        "text": "Using title case for page names helps us reference them in text without linking. For example, I could talk about the page Defense of Capitalized Titles, and you would know that is a page, even though it isn't linked. "
+      },
+      "date": 1420758945355
+    },
+    {
+      "type": "edit",
+      "id": "bcffc42268e4c0ab",
+      "item": {
+        "type": "paragraph",
+        "id": "bcffc42268e4c0ab",
+        "text": "One link per paragraph if possible. Or none, like this. This becomes enve more important in an age of touchscreens and clumsy fingers."
+      },
+      "date": 1420758990898
+    },
+    {
+      "type": "edit",
+      "id": "bcffc42268e4c0ab",
+      "item": {
+        "type": "paragraph",
+        "id": "bcffc42268e4c0ab",
+        "text": "One link per paragraph if possible. Or none, like this. This becomes even more important in an age of touchscreens and clumsy fingers."
+      },
+      "date": 1420759008451
+    },
+    {
+      "type": "edit",
+      "id": "429790829a989a9c",
+      "item": {
+        "type": "paragraph",
+        "id": "429790829a989a9c",
+        "text": "If you must cite, consider using [[Via Attribution]]. This is what we do in normal conversation. We say \"Tim told me that you can now buy airline food for home delivery\" and we don't worry about who Tim heard that from, unless we don't trust Tim and we want to do a deep dig."
+      },
+      "date": 1420759057773
+    },
+    {
+      "type": "edit",
+      "id": "809097940fa24578",
+      "item": {
+        "type": "paragraph",
+        "id": "809097940fa24578",
+        "text": "A few things we've learned. We are Opinionated Wiki, but the opinions often come from painful lessons learned."
+      },
+      "date": 1420759146552
+    },
+    {
+      "type": "edit",
+      "id": "4da2d2d782fb0971",
+      "item": {
+        "type": "paragraph",
+        "id": "4da2d2d782fb0971",
+        "text": "Use the [[Idea Mining]] format. It works. It really does. When you make your pieces atomic, most of your problems disappear and you make life easy for us too. Have each page encapsulate a single idea, example, or dataset, or have it be a page like this which points to ideas, examples, and datasets."
+      },
+      "date": 1420759276942
+    },
+    {
+      "type": "fork",
+      "site": "journal.hapgood.net",
+      "date": 1420763490995
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f0d39a3ed2f0b05e"
+      },
+      "id": "f0d39a3ed2f0b05e",
+      "type": "add",
+      "after": "0a92e097b0caa1fa",
+      "date": 1420763503765
+    },
+    {
+      "type": "edit",
+      "id": "f0d39a3ed2f0b05e",
+      "item": {
+        "type": "pagefold",
+        "id": "f0d39a3ed2f0b05e",
+        "text": "Discussion"
+      },
+      "date": 1420763512483
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c43227037f05d276"
+      },
+      "id": "c43227037f05d276",
+      "type": "add",
+      "after": "f0d39a3ed2f0b05e",
+      "date": 1420763523042
+    },
+    {
+      "type": "remove",
+      "id": "c43227037f05d276",
+      "date": 1420763567884
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "900727afcb964a4b"
+      },
+      "id": "900727afcb964a4b",
+      "type": "add",
+      "after": "f0d39a3ed2f0b05e",
+      "date": 1420766319710
+    },
+    {
+      "type": "edit",
+      "id": "900727afcb964a4b",
+      "item": {
+        "type": "paragraph",
+        "id": "900727afcb964a4b",
+        "text": "Reading this page and noticing how difficult it is work consistently with \"we\", \"you\" and \"I\" made me think of [[Who's We, White Man?]]--[[Kate Bowles]]"
+      },
+      "date": 1420766556499
+    },
+    {
+      "type": "add",
+      "id": "1323153d1f5e9945",
+      "item": {
+        "type": "paragraph",
+        "id": "1323153d1f5e9945",
+        "text": "Try to not take yourself so seriously. Today's ideas may be wrong tomorrow. Maybe your silly idea will spawn something serious for another reader. Another writer. Be a writer and a reader at once."
+      },
+      "after": "0a92e097b0caa1fa",
+      "date": 1420951986684,
+      "fork": "kate.au.fedwikihappening.net"
+    },
+    {
+      "type": "fork",
+      "site": "kate.au.fedwikihappening.net",
+      "date": 1420951991304
+    },
+    {
+      "type": "fork",
+      "site": "alyson.sf.fedwikihappening.net",
+      "date": 1420956300191
+    },
+    {
+      "type": "fork",
+      "site": "jon.sf.fedwikihappening.net",
+      "date": 1454595887623
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "title": "Data not Layout",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "477c73e9acac33b7",
+      "text": "Pages are stored on federated wiki sites as JSON, a simple, easily parseable data format. You can see what this format looks like by clicking JSON at the bottom of the page. "
+    },
+    {
+      "type": "paragraph",
+      "id": "c5a3cdd7122db50a",
+      "text": "There is a separation of concerns between the server side and the client side of things. If you don't like the interface, and have some coding abilities, it is possible to build a new interface, and still maintain federation with other fedwiki sites. "
+    },
+    {
+      "type": "paragraph",
+      "id": "2a6f776c0ef09021",
+      "text": "The data can also be processed by custom plugins. Below is a plugin Jon Udell wrote last Happening which reads journal data and shows revisions by paragraph."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Data not Layout",
+        "story": []
+      },
+      "date": 1422999911070
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "477c73e9acac33b7"
+      },
+      "id": "477c73e9acac33b7",
+      "type": "add",
+      "date": 1422999912521
+    },
+    {
+      "type": "edit",
+      "id": "477c73e9acac33b7",
+      "item": {
+        "type": "paragraph",
+        "id": "477c73e9acac33b7",
+        "text": "Pages are stored on federated wiki sites as JSON, a simple, easily parseable data format. You can see what this format looks like by clicking JSON at the bottom of the page. "
+      },
+      "date": 1423000009018
+    },
+    {
+      "type": "add",
+      "id": "c5a3cdd7122db50a",
+      "item": {
+        "type": "paragraph",
+        "id": "c5a3cdd7122db50a",
+        "text": "There is a seperation of concerns between the server side and the client side of things. If you don't like the interface, and have some coding abilities, it is possible to build a new interface, and still maintain federation with other fedwiki sites. "
+      },
+      "after": "477c73e9acac33b7",
+      "date": 1423000146130
+    },
+    {
+      "type": "add",
+      "id": "2a6f776c0ef09021",
+      "item": {
+        "type": "paragraph",
+        "id": "2a6f776c0ef09021",
+        "text": "The data can also be processed by custom plugins. Below is a plugin Jon Udell wrote last Happening which "
+      },
+      "after": "c5a3cdd7122db50a",
+      "date": 1423000228683
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "593d97bca69bb685"
+      },
+      "id": "593d97bca69bb685",
+      "type": "add",
+      "after": "2a6f776c0ef09021",
+      "date": 1423000231385
+    },
+    {
+      "type": "edit",
+      "id": "2a6f776c0ef09021",
+      "item": {
+        "type": "paragraph",
+        "id": "2a6f776c0ef09021",
+        "text": "The data can also be processed by custom plugins. Below is a plugin Jon Udell wrote last Happening which reads journal data and shows revisions by paragraph."
+      },
+      "date": 1423000301089
+    },
+    {
+      "type": "edit",
+      "id": "c5a3cdd7122db50a",
+      "item": {
+        "type": "paragraph",
+        "id": "c5a3cdd7122db50a",
+        "text": "There is a separation of concerns between the server side and the client side of things. If you don't like the interface, and have some coding abilities, it is possible to build a new interface, and still maintain federation with other fedwiki sites. "
+      },
+      "date": 1423000307255
+    },
+    {
+      "type": "remove",
+      "id": "593d97bca69bb685",
+      "date": 1423000314071
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "5cb32e15c50c6f72",
+        "site": "orientation.hapgood.net",
+        "slug": "happening-orientation",
+        "title": "Happening Orientation",
+        "text": "The Happening Orientation gets folks set up for a Happening in March. The orientation walks you through a number of steps you should complete prior to the Happening. Click on the link to get started."
+      },
+      "after": "2a6f776c0ef09021",
+      "id": "5cb32e15c50c6f72",
+      "date": 1423333164891
+    },
+    {
+      "type": "remove",
+      "id": "5cb32e15c50c6f72",
+      "date": 1423333332525
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454487150194
+    }
+  ]
+}

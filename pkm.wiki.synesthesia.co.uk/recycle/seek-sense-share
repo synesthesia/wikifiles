@@ -1,0 +1,57 @@
+{
+  "title": "Seek Sense Share",
+  "story": [],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Seek Sense Share",
+        "story": []
+      },
+      "date": 1522221216987
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "80b6d7dc44889a4c"
+      },
+      "id": "80b6d7dc44889a4c",
+      "type": "add",
+      "date": 1522221229870
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f086e842c71676b9"
+      },
+      "id": "f086e842c71676b9",
+      "type": "add",
+      "after": "80b6d7dc44889a4c",
+      "date": 1522221235088
+    },
+    {
+      "type": "remove",
+      "id": "80b6d7dc44889a4c",
+      "date": 1522221236947
+    },
+    {
+      "type": "remove",
+      "id": "f086e842c71676b9",
+      "date": 1522221238849
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c34881c8dea70654"
+      },
+      "id": "c34881c8dea70654",
+      "type": "add",
+      "date": 1522221240408
+    },
+    {
+      "type": "remove",
+      "id": "c34881c8dea70654",
+      "date": 1522221246774
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "title": "Seek",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a69252265f345e26",
+      "text": "In terms of [[Personal Knowledge Management]]"
+    },
+    {
+      "type": "html",
+      "id": "5901aacbf5a3b3aa",
+      "text": "<i>To keep up to date</i>"
+    },
+    {
+      "type": "html",
+      "id": "003561a090345c38",
+      "text": "<i>To find new knowledge</i>"
+    },
+    {
+      "type": "html",
+      "id": "6792181717bb4dc4",
+      "text": "<i>To find new trusted sources</i>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Seek",
+        "story": []
+      },
+      "date": 1522221567478
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e6eca425f00f7043"
+      },
+      "id": "e6eca425f00f7043",
+      "type": "add",
+      "date": 1522221570055
+    },
+    {
+      "type": "remove",
+      "id": "e6eca425f00f7043",
+      "date": 1522221576110
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a69252265f345e26"
+      },
+      "id": "a69252265f345e26",
+      "type": "add",
+      "date": 1522221595700
+    },
+    {
+      "type": "edit",
+      "id": "a69252265f345e26",
+      "item": {
+        "type": "paragraph",
+        "id": "a69252265f345e26",
+        "text": "In "
+      },
+      "date": 1522221602719
+    },
+    {
+      "type": "edit",
+      "id": "a69252265f345e26",
+      "item": {
+        "type": "paragraph",
+        "id": "a69252265f345e26",
+        "text": "In terms of [[Personal Knowledge Management]]"
+      },
+      "date": 1522221652111
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5901aacbf5a3b3aa"
+      },
+      "id": "5901aacbf5a3b3aa",
+      "type": "add",
+      "after": "a69252265f345e26",
+      "date": 1522221655259
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "003561a090345c38"
+      },
+      "id": "003561a090345c38",
+      "type": "add",
+      "after": "5901aacbf5a3b3aa",
+      "date": 1522221672031
+    },
+    {
+      "type": "edit",
+      "id": "5901aacbf5a3b3aa",
+      "item": {
+        "type": "paragraph",
+        "id": "5901aacbf5a3b3aa",
+        "text": "<i>To keep up to date</i>"
+      },
+      "date": 1522221673921
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6792181717bb4dc4"
+      },
+      "id": "6792181717bb4dc4",
+      "type": "add",
+      "after": "003561a090345c38",
+      "date": 1522221688178
+    },
+    {
+      "type": "edit",
+      "id": "003561a090345c38",
+      "item": {
+        "type": "paragraph",
+        "id": "003561a090345c38",
+        "text": "<To find new knowledge</i>"
+      },
+      "date": 1522221689293
+    },
+    {
+      "type": "edit",
+      "id": "6792181717bb4dc4",
+      "item": {
+        "type": "paragraph",
+        "id": "6792181717bb4dc4",
+        "text": "<i>To find new trusted sources</i>"
+      },
+      "date": 1522221711532
+    },
+    {
+      "type": "edit",
+      "id": "6792181717bb4dc4",
+      "item": {
+        "type": "html",
+        "id": "6792181717bb4dc4",
+        "text": "<i>To find new trusted sources</i>"
+      },
+      "date": 1522221713221
+    },
+    {
+      "type": "edit",
+      "id": "5901aacbf5a3b3aa",
+      "item": {
+        "type": "html",
+        "id": "5901aacbf5a3b3aa",
+        "text": "<i>To keep up to date</i>"
+      },
+      "date": 1522221714221
+    },
+    {
+      "type": "edit",
+      "id": "003561a090345c38",
+      "item": {
+        "type": "paragraph",
+        "id": "003561a090345c38",
+        "text": "<i>To find new knowledge</i>"
+      },
+      "date": 1522221723325
+    },
+    {
+      "type": "edit",
+      "id": "003561a090345c38",
+      "item": {
+        "type": "html",
+        "id": "003561a090345c38",
+        "text": "<i>To find new knowledge</i>"
+      },
+      "date": 1522221724970
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "title": "Hypertext History",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d7c3dc6ca05fe272",
+      "text": "Assignment is below. If you have not done an assignment yet, you should look see [[Assignments]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "fc3f2910f8e87964",
+      "text": "[[Sentences About Hypertext History]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6f8dc891d9adfc1f",
+      "text": "[[Idea Mining: Hypertext in the 80's]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7121f93f736fe9a1",
+      "text": "[[Synthesis: Hypertext History]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "847ccd5fbb166b3c",
+      "text": "[[Discussion: Hypertext History]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Hypertext History",
+        "story": []
+      },
+      "date": 1424202208125
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fc3f2910f8e87964"
+      },
+      "id": "fc3f2910f8e87964",
+      "type": "add",
+      "date": 1424202209580
+    },
+    {
+      "type": "edit",
+      "id": "fc3f2910f8e87964",
+      "item": {
+        "type": "paragraph",
+        "id": "fc3f2910f8e87964",
+        "text": "[[Sentences About Hypertext History]]"
+      },
+      "date": 1424202230902
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6f8dc891d9adfc1f"
+      },
+      "id": "6f8dc891d9adfc1f",
+      "type": "add",
+      "after": "fc3f2910f8e87964",
+      "date": 1424202236279
+    },
+    {
+      "type": "edit",
+      "id": "6f8dc891d9adfc1f",
+      "item": {
+        "type": "paragraph",
+        "id": "6f8dc891d9adfc1f",
+        "text": "[[Idea Mining: Hypertext in the 80's]]"
+      },
+      "date": 1424202261334
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "149361c4ff63ee11"
+      },
+      "id": "149361c4ff63ee11",
+      "type": "add",
+      "after": "6f8dc891d9adfc1f",
+      "date": 1424202266913
+    },
+    {
+      "type": "edit",
+      "id": "149361c4ff63ee11",
+      "item": {
+        "type": "paragraph",
+        "id": "149361c4ff63ee11",
+        "text": "[[Synthesis and Critique]]"
+      },
+      "date": 1424202317858
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d7c3dc6ca05fe272"
+      },
+      "id": "d7c3dc6ca05fe272",
+      "type": "add",
+      "after": "149361c4ff63ee11",
+      "date": 1424216010104
+    },
+    {
+      "type": "edit",
+      "id": "d7c3dc6ca05fe272",
+      "item": {
+        "type": "paragraph",
+        "id": "d7c3dc6ca05fe272",
+        "text": "Assignment is below. If you have not done an assignment yet, you should look at how to do [[Assignments]]."
+      },
+      "date": 1424216057787
+    },
+    {
+      "type": "move",
+      "order": [
+        "d7c3dc6ca05fe272",
+        "fc3f2910f8e87964",
+        "6f8dc891d9adfc1f",
+        "149361c4ff63ee11"
+      ],
+      "id": "d7c3dc6ca05fe272",
+      "date": 1424216060123
+    },
+    {
+      "type": "edit",
+      "id": "d7c3dc6ca05fe272",
+      "item": {
+        "type": "paragraph",
+        "id": "d7c3dc6ca05fe272",
+        "text": "Assignment is below. If you have not done an assignment yet, you should look see [[Assignments]]."
+      },
+      "date": 1424216072975
+    },
+    {
+      "type": "add",
+      "id": "7121f93f736fe9a1",
+      "item": {
+        "type": "paragraph",
+        "id": "7121f93f736fe9a1",
+        "text": "[[Synthesis and Critique: Hypertext History]]"
+      },
+      "after": "6f8dc891d9adfc1f",
+      "date": 1424217466982
+    },
+    {
+      "type": "edit",
+      "id": "7121f93f736fe9a1",
+      "item": {
+        "type": "paragraph",
+        "id": "7121f93f736fe9a1",
+        "text": "[[Synthesis and Critique: Hypertext]]"
+      },
+      "date": 1424217488490
+    },
+    {
+      "type": "edit",
+      "id": "7121f93f736fe9a1",
+      "item": {
+        "type": "paragraph",
+        "id": "7121f93f736fe9a1",
+        "text": "[[Synthesis: Hypertext]]"
+      },
+      "date": 1424217515632
+    },
+    {
+      "type": "edit",
+      "id": "7121f93f736fe9a1",
+      "item": {
+        "type": "paragraph",
+        "id": "7121f93f736fe9a1",
+        "text": "[[Synthesis: Hypertext History]]"
+      },
+      "date": 1424217525867
+    },
+    {
+      "type": "remove",
+      "id": "149361c4ff63ee11",
+      "date": 1424218576379
+    },
+    {
+      "type": "add",
+      "id": "847ccd5fbb166b3c",
+      "item": {
+        "type": "paragraph",
+        "id": "847ccd5fbb166b3c",
+        "text": "[[Discussion]]"
+      },
+      "after": "7121f93f736fe9a1",
+      "date": 1424220232434
+    },
+    {
+      "type": "edit",
+      "id": "847ccd5fbb166b3c",
+      "item": {
+        "type": "paragraph",
+        "id": "847ccd5fbb166b3c",
+        "text": "[[Discussion: Hypertext History]]"
+      },
+      "date": 1424220251152
+    },
+    {
+      "type": "fork",
+      "site": "assignments.ny2.fedwikihappening.net",
+      "date": 1424305575226
+    },
+    {
+      "type": "fork",
+      "date": 1424305579622
+    },
+    {
+      "type": "fork",
+      "date": 1424305582296
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454432288738
+    }
+  ]
+}

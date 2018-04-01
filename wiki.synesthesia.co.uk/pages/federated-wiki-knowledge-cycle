@@ -1,0 +1,180 @@
+{
+  "title": "Federated Wiki knowledge cycle",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "17c27042d16000ae",
+      "text": "Some examples:"
+    },
+    {
+      "type": "paragraph",
+      "id": "19369f47c0c8e7b6",
+      "text": "Mike Caulfield - [http://hapgood.us/2014/11/12/shorter-federated-wiki-for-tldrers/ Arthur C Clarke scenario]"
+    },
+    {
+      "type": "html",
+      "id": "1fd0dcc32cfffe47",
+      "text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2Gi9SRsRrE4\" frameborder=\"0\" allowfullscreen></iframe>"
+    },
+    {
+      "type": "video",
+      "id": "80c03e991340cf47",
+      "text": "YOUTUBE 2Gi9SRsRrE4\n(double-click to edit caption)\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Federated Wiki knowledge cycle",
+        "story": []
+      },
+      "date": 1454422600768
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "17c27042d16000ae"
+      },
+      "id": "17c27042d16000ae",
+      "type": "add",
+      "date": 1454422642372
+    },
+    {
+      "type": "edit",
+      "id": "17c27042d16000ae",
+      "item": {
+        "type": "paragraph",
+        "id": "17c27042d16000ae",
+        "text": "Mike Caulfield - Arthur C Clarke scenario"
+      },
+      "date": 1454422658992
+    },
+    {
+      "type": "edit",
+      "id": "17c27042d16000ae",
+      "item": {
+        "type": "paragraph",
+        "id": "17c27042d16000ae",
+        "text": "Mike Caulfield - [http://hapgood.us/2014/11/12/shorter-federated-wiki-for-tldrers/ Arthur C Clarke scenario]"
+      },
+      "date": 1454422674272
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3335ed5e58294344"
+      },
+      "id": "3335ed5e58294344",
+      "type": "add",
+      "after": "17c27042d16000ae",
+      "date": 1454422693484
+    },
+    {
+      "type": "edit",
+      "id": "3335ed5e58294344",
+      "item": {
+        "type": "video",
+        "id": "3335ed5e58294344",
+        "text": "https://www.youtube.com/watch?v=2Gi9SRsRrE4"
+      },
+      "date": 1454422700945
+    },
+    {
+      "type": "remove",
+      "id": "3335ed5e58294344",
+      "date": 1454422717295
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3e7e3c3f03b4219a"
+      },
+      "id": "3e7e3c3f03b4219a",
+      "type": "add",
+      "after": "17c27042d16000ae",
+      "date": 1454422719775
+    },
+    {
+      "type": "remove",
+      "id": "3e7e3c3f03b4219a",
+      "date": 1454422731904
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3ca73fc309bce9cb"
+      },
+      "id": "3ca73fc309bce9cb",
+      "type": "add",
+      "after": "17c27042d16000ae",
+      "date": 1454422744226
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1fd0dcc32cfffe47"
+      },
+      "id": "1fd0dcc32cfffe47",
+      "type": "add",
+      "after": "3ca73fc309bce9cb",
+      "date": 1454422749890
+    },
+    {
+      "type": "remove",
+      "id": "3ca73fc309bce9cb",
+      "date": 1454422754676
+    },
+    {
+      "type": "edit",
+      "id": "1fd0dcc32cfffe47",
+      "item": {
+        "type": "html",
+        "id": "1fd0dcc32cfffe47",
+        "text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2Gi9SRsRrE4\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      "date": 1454422759968
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "80c03e991340cf47"
+      },
+      "id": "80c03e991340cf47",
+      "type": "add",
+      "after": "1fd0dcc32cfffe47",
+      "date": 1454422847890
+    },
+    {
+      "type": "edit",
+      "id": "80c03e991340cf47",
+      "item": {
+        "type": "video",
+        "id": "80c03e991340cf47",
+        "text": "YOUTUBE 2Gi9SRsRrE4\n(double-click to edit caption)\n"
+      },
+      "date": 1454422854535
+    },
+    {
+      "type": "edit",
+      "id": "17c27042d16000ae",
+      "item": {
+        "type": "paragraph",
+        "id": "17c27042d16000ae",
+        "text": "Some examples:"
+      },
+      "date": 1454422885361
+    },
+    {
+      "type": "add",
+      "id": "19369f47c0c8e7b6",
+      "item": {
+        "type": "paragraph",
+        "id": "19369f47c0c8e7b6",
+        "text": "Mike Caulfield - [http://hapgood.us/2014/11/12/shorter-federated-wiki-for-tldrers/ Arthur C Clarke scenario]"
+      },
+      "after": "17c27042d16000ae",
+      "date": 1454422887295
+    }
+  ]
+}

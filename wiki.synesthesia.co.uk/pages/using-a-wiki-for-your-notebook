@@ -1,0 +1,227 @@
+{
+  "title": "Using a Wiki For your Notebook",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "a58e3a4b0c2fcda9",
+      "text": "[http://webseitz.fluxent.com/ Bill Seitz] says:\n"
+    },
+    {
+      "type": "html",
+      "id": "dc3cc5ec0f9c860f",
+      "text": "<blockquote>\n<ul>\n<li>you never get to stop thinking about your life</li>\n<li>your old ideas are worth re-discovering</li>\n<li>ideas that start out separate might have a connection that you discover/infer</li>\n<li>those connections can be messy - Intertwingularity</li>\n<li>you uncover those connections over time - Pattern Recognition, Sense Making</li>\n</ul>\n</blockquote>\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "502b69a76f3d75c4",
+      "text": " - [http://webseitz.fluxent.com/wiki/WhyUseAWikiForYourNotebook Why Use A Wiki For Your Notebook]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Using a Wiki For your Notebook",
+        "story": []
+      },
+      "date": 1454581010900
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c31329c47d33266b"
+      },
+      "id": "c31329c47d33266b",
+      "type": "add",
+      "date": 1454581037707
+    },
+    {
+      "type": "edit",
+      "id": "c31329c47d33266b",
+      "item": {
+        "type": "factory",
+        "id": "c31329c47d33266b",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://webseitz.fluxent.com/wiki/WhyUseAWikiForYourNotebook",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36"
+        }
+      },
+      "date": 1454581040711
+    },
+    {
+      "type": "edit",
+      "id": "c31329c47d33266b",
+      "item": {
+        "type": "paragraph",
+        "id": "c31329c47d33266b",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://webseitz.fluxent.com/wiki/WhyUseAWikiForYourNotebook",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36"
+        },
+        "text": "[http://webseitz.fluxent.com/ Bill Seitz] "
+      },
+      "date": 1454581078525
+    },
+    {
+      "type": "remove",
+      "id": "c31329c47d33266b",
+      "date": 1454581132018
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a58e3a4b0c2fcda9"
+      },
+      "id": "a58e3a4b0c2fcda9",
+      "type": "add",
+      "date": 1454581133406
+    },
+    {
+      "type": "edit",
+      "id": "a58e3a4b0c2fcda9",
+      "item": {
+        "type": "markdown",
+        "id": "a58e3a4b0c2fcda9",
+        "text": "[http://webseitz.fluxent.com/ Bill Seitz] "
+      },
+      "date": 1454581137481
+    },
+    {
+      "type": "edit",
+      "id": "a58e3a4b0c2fcda9",
+      "item": {
+        "type": "markdown",
+        "id": "a58e3a4b0c2fcda9",
+        "text": "[http://webseitz.fluxent.com/ Bill Seitz] says:\n"
+      },
+      "date": 1454581152262
+    },
+    {
+      "type": "edit",
+      "id": "a58e3a4b0c2fcda9",
+      "item": {
+        "type": "markdown",
+        "id": "a58e3a4b0c2fcda9",
+        "text": "[http://webseitz.fluxent.com/ Bill Seitz] says:\n\n>blockquote line 1\n> blockquote line 2\n"
+      },
+      "date": 1454581185309
+    },
+    {
+      "type": "edit",
+      "id": "a58e3a4b0c2fcda9",
+      "item": {
+        "type": "markdown",
+        "id": "a58e3a4b0c2fcda9",
+        "text": "[http://webseitz.fluxent.com/ Bill Seitz] says:\n\n> blockquote line 1\n> blockquote line 2\n"
+      },
+      "date": 1454581191755
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3bf32ea341524efa"
+      },
+      "id": "3bf32ea341524efa",
+      "type": "add",
+      "after": "a58e3a4b0c2fcda9",
+      "date": 1454581197178
+    },
+    {
+      "type": "edit",
+      "id": "3bf32ea341524efa",
+      "item": {
+        "type": "markdown",
+        "id": "3bf32ea341524efa",
+        "text": "> blockquote line 1\n> blockquote line 2"
+      },
+      "date": 1454581203476
+    },
+    {
+      "type": "remove",
+      "id": "3bf32ea341524efa",
+      "date": 1454581209232
+    },
+    {
+      "type": "edit",
+      "id": "a58e3a4b0c2fcda9",
+      "item": {
+        "type": "markdown",
+        "id": "a58e3a4b0c2fcda9",
+        "text": "[http://webseitz.fluxent.com/ Bill Seitz] says:\n"
+      },
+      "date": 1454581384907
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dc3cc5ec0f9c860f"
+      },
+      "id": "dc3cc5ec0f9c860f",
+      "type": "add",
+      "after": "a58e3a4b0c2fcda9",
+      "date": 1454581386073
+    },
+    {
+      "type": "edit",
+      "id": "dc3cc5ec0f9c860f",
+      "item": {
+        "type": "html",
+        "id": "dc3cc5ec0f9c860f",
+        "text": "<blockquote>\nblockquote line 1\nblockquote line 2\n</blockquote>"
+      },
+      "date": 1454581407140
+    },
+    {
+      "type": "edit",
+      "id": "dc3cc5ec0f9c860f",
+      "item": {
+        "type": "html",
+        "id": "dc3cc5ec0f9c860f",
+        "text": "<blockquote>\nblockquote line 1\nblockquote line 2\n</blockquote>\n - <a href=\"http://webseitz.fluxent.com/wiki/WhyUseAWikiForYourNotebook\">Why Use A Wiki For Your Notebook</a>"
+      },
+      "date": 1454581460336
+    },
+    {
+      "type": "edit",
+      "id": "dc3cc5ec0f9c860f",
+      "item": {
+        "type": "html",
+        "id": "dc3cc5ec0f9c860f",
+        "text": "<blockquote>\n<ul>\n<li>you never get to stop thinking about your life</li>\n<li>your old ideas are worth re-discovering</li>\n<li>ideas that start out separate might have a connection that you discover/infer</li>\n<li>those connections can be messy - Intertwingularity</li>\n<li>you uncover those connections over time - Pattern Recognition, Sense Making</li>\n</ul>\n</blockquote>\n - <a href=\"http://webseitz.fluxent.com/wiki/WhyUseAWikiForYourNotebook\">Why Use A Wiki For Your Notebook</a>"
+      },
+      "date": 1454581527059
+    },
+    {
+      "type": "edit",
+      "id": "dc3cc5ec0f9c860f",
+      "item": {
+        "type": "html",
+        "id": "dc3cc5ec0f9c860f",
+        "text": "<blockquote>\n<ul>\n<li>you never get to stop thinking about your life</li>\n<li>your old ideas are worth re-discovering</li>\n<li>ideas that start out separate might have a connection that you discover/infer</li>\n<li>those connections can be messy - Intertwingularity</li>\n<li>you uncover those connections over time - Pattern Recognition, Sense Making</li>\n</ul>\n</blockquote>\n"
+      },
+      "date": 1454581556705
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "502b69a76f3d75c4"
+      },
+      "id": "502b69a76f3d75c4",
+      "type": "add",
+      "after": "dc3cc5ec0f9c860f",
+      "date": 1454581558895
+    },
+    {
+      "type": "edit",
+      "id": "502b69a76f3d75c4",
+      "item": {
+        "type": "paragraph",
+        "id": "502b69a76f3d75c4",
+        "text": " - [http://webseitz.fluxent.com/wiki/WhyUseAWikiForYourNotebook Why Use A Wiki For Your Notebook]"
+      },
+      "date": 1454581575506
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "How to add this page to your site",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "22ca06df2ef10285",
+      "text": "The basic logic for adding a page from another [[Federated Wiki]] is described in [[Copy Pages]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "How to add this page to your site",
+        "story": []
+      },
+      "date": 1454596230475
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "22ca06df2ef10285"
+      },
+      "id": "22ca06df2ef10285",
+      "type": "add",
+      "date": 1454596232107
+    },
+    {
+      "type": "edit",
+      "id": "22ca06df2ef10285",
+      "item": {
+        "type": "paragraph",
+        "id": "22ca06df2ef10285",
+        "text": "The basic logic for adding a page from another [[Federated Wiki]] is described in [[Copy Pages]]"
+      },
+      "date": 1454596254555
+    }
+  ]
+}

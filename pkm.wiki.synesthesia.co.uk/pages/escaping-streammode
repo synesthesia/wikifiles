@@ -1,0 +1,39 @@
+{
+  "title": "Escaping StreamMode",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "93e31f8d35c66aec",
+      "text": "Noticing an increasing number of references to the almost ubiquitous presence of [[Stream Mode]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Escaping StreamMode",
+        "story": []
+      },
+      "date": 1455176333000
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "93e31f8d35c66aec"
+      },
+      "id": "93e31f8d35c66aec",
+      "type": "add",
+      "date": 1455176339225
+    },
+    {
+      "type": "edit",
+      "id": "93e31f8d35c66aec",
+      "item": {
+        "type": "paragraph",
+        "id": "93e31f8d35c66aec",
+        "text": "Noticing an increasing number of references to the almost ubiquitous presence of [[Stream Mode]]"
+      },
+      "date": 1455176417949
+    }
+  ]
+}

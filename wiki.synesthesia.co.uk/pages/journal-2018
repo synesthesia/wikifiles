@@ -1,0 +1,39 @@
+{
+  "title": "journal-2018",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "db5ae5864e9b329e",
+      "text": "[[Journal 2018-03]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "journal-2018",
+        "story": []
+      },
+      "date": 1522057173981
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "db5ae5864e9b329e"
+      },
+      "id": "db5ae5864e9b329e",
+      "type": "add",
+      "date": 1522057353240
+    },
+    {
+      "type": "edit",
+      "id": "db5ae5864e9b329e",
+      "item": {
+        "type": "paragraph",
+        "id": "db5ae5864e9b329e",
+        "text": "[[Journal 2018-03]]"
+      },
+      "date": 1522057372065
+    }
+  ]
+}

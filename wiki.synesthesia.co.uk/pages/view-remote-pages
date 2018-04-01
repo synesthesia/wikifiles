@@ -1,0 +1,400 @@
+{
+  "title": "View Remote Pages",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5b1264da3f8b253b",
+      "text": "You've probably noticed that some of these pages have a \"blue halo\" around them. This means that the data of the page is being served from a server other than the one from which you're browsing (your [[Origin Site]])."
+    },
+    {
+      "type": "paragraph",
+      "id": "48e4befc0d08a5b7",
+      "text": "It's worth getting the conceptualization of this right, because it violates expectations you have about the web. "
+    },
+    {
+      "type": "paragraph",
+      "id": "cb501ea9da552842",
+      "text": "In federated wiki, we seperate the concerns of data retrieval, data storage, and UI. "
+    },
+    {
+      "type": "paragraph",
+      "id": "1b84fd68b95e82a3",
+      "text": "Your site's data (e.g. your pages) are stored on a server you own. Usually you will browse pages with this site as your Origin Site meaning any changes you make to documents are stored on that server. "
+    },
+    {
+      "type": "paragraph",
+      "id": "9082a7e0eaebfd64",
+      "text": "Data can be retrieved, however, from any federated wiki site and displayed as a page. "
+    },
+    {
+      "type": "paragraph",
+      "id": "959f4b14b5eb0d24",
+      "text": "When you are looking at a page that is being served from somewhere other than your current write context, that page will have a \"blue halo\". Edits to such a page will be saved to your write context (making the copies of the pages to your server, and making the blue halo disappear)."
+    },
+    {
+      "type": "paragraph",
+      "id": "04f7fcfcbb8e0a33",
+      "text": "Right now, for instance, your [[Lineup]] probably has a number of pages in it. Your Origin Page is (hopefully) from your own server. This page probably has a blue halo, and is being served from the orientation server that I run. "
+    },
+    {
+      "type": "paragraph",
+      "id": "17e0a5ea6601f076",
+      "text": "Importantly, this page is not even passing through your server to get to you. Your browser is directly pulling different pages from different servers and stitching them together in the interface. More on that later."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "View Remote Pages",
+        "story": []
+      },
+      "date": 1423420633709
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5b1264da3f8b253b"
+      },
+      "id": "5b1264da3f8b253b",
+      "type": "add",
+      "date": 1423420635512
+    },
+    {
+      "type": "edit",
+      "id": "5b1264da3f8b253b",
+      "item": {
+        "type": "paragraph",
+        "id": "5b1264da3f8b253b",
+        "text": "You've probably noticed that some of these pages have a \"blue halo\" around them. This means that the data of the page is being served from a server other than the one your browsing from."
+      },
+      "date": 1423421004570
+    },
+    {
+      "type": "add",
+      "id": "48e4befc0d08a5b7",
+      "item": {
+        "type": "paragraph",
+        "id": "48e4befc0d08a5b7",
+        "text": "It's worth getting the conceptualization of this right, because it violates every expectation you have about the web. "
+      },
+      "after": "5b1264da3f8b253b",
+      "date": 1423421159711
+    },
+    {
+      "type": "add",
+      "id": "44bec93a5eb256b1",
+      "item": {
+        "type": "paragraph",
+        "id": "44bec93a5eb256b1",
+        "text": "With a traditional web page, your browser makes a request to one server. That server grabs data and runs it through server display logic and presents you the page. Your browser displays the result. "
+      },
+      "after": "48e4befc0d08a5b7",
+      "date": 1423421395235
+    },
+    {
+      "type": "add",
+      "id": "0ecb71199e5113dc",
+      "item": {
+        "type": "paragraph",
+        "id": "0ecb71199e5113dc",
+        "text": "(This is a bit of a simplification,but not by much). "
+      },
+      "after": "44bec93a5eb256b1",
+      "date": 1423421414867
+    },
+    {
+      "type": "edit",
+      "id": "0ecb71199e5113dc",
+      "item": {
+        "type": "paragraph",
+        "id": "0ecb71199e5113dc",
+        "text": "(This is a bit of a simplification, but not by much). "
+      },
+      "date": 1423421426807
+    },
+    {
+      "type": "add",
+      "id": "3eab96d4adb03691",
+      "item": {
+        "type": "paragraph",
+        "id": "3eab96d4adb03691",
+        "text": "So in a \"traditional\" web environment, the server you see in your location bar assembles everything for you. "
+      },
+      "after": "0ecb71199e5113dc",
+      "date": 1423421601679
+    },
+    {
+      "type": "edit",
+      "id": "3eab96d4adb03691",
+      "item": {
+        "type": "paragraph",
+        "id": "3eab96d4adb03691",
+        "text": "So in a \"traditional\" web environment, the server you see in your location bar assembles everything for you. Your browser displays what the server assembles. "
+      },
+      "date": 1423421636973
+    },
+    {
+      "type": "add",
+      "id": "26cae6e98525e953",
+      "item": {
+        "type": "paragraph",
+        "id": "26cae6e98525e953",
+        "text": "More recently, browsers have been doing more of the assembly. Usually, however, it's still all about communication with a server."
+      },
+      "after": "3eab96d4adb03691",
+      "date": 1423421694720
+    },
+    {
+      "type": "add",
+      "id": "cb501ea9da552842",
+      "item": {
+        "type": "paragraph",
+        "id": "cb501ea9da552842",
+        "text": "In federated wiki, the process separates the concerns of data retreival, display, and writing."
+      },
+      "after": "26cae6e98525e953",
+      "date": 1423421772876
+    },
+    {
+      "type": "edit",
+      "id": "cb501ea9da552842",
+      "item": {
+        "type": "paragraph",
+        "id": "cb501ea9da552842",
+        "text": "In federated wiki, the process separates the concerns of data retrieval, display, and writing."
+      },
+      "date": 1423421778406
+    },
+    {
+      "type": "edit",
+      "id": "cb501ea9da552842",
+      "item": {
+        "type": "paragraph",
+        "id": "cb501ea9da552842",
+        "text": "In federated wiki, the process separates the concerns of data retrieval, display, and writing. "
+      },
+      "date": 1423421809366
+    },
+    {
+      "type": "add",
+      "id": "1b84fd68b95e82a3",
+      "item": {
+        "type": "paragraph",
+        "id": "1b84fd68b95e82a3",
+        "text": "The site you own does two things. It gives your browser"
+      },
+      "after": "cb501ea9da552842",
+      "date": 1423421849301
+    },
+    {
+      "type": "remove",
+      "id": "44bec93a5eb256b1",
+      "date": 1423421854721
+    },
+    {
+      "type": "remove",
+      "id": "3eab96d4adb03691",
+      "date": 1423421861831
+    },
+    {
+      "type": "remove",
+      "id": "0ecb71199e5113dc",
+      "date": 1423421865603
+    },
+    {
+      "type": "remove",
+      "id": "26cae6e98525e953",
+      "date": 1423421868466
+    },
+    {
+      "type": "edit",
+      "id": "1b84fd68b95e82a3",
+      "item": {
+        "type": "paragraph",
+        "id": "1b84fd68b95e82a3",
+        "text": "Your data is stored on a server you own. Usually you will browse pages with this site as your \"write context\" meaning any changes you make to documents are stored on that server. "
+      },
+      "date": 1423421999325
+    },
+    {
+      "type": "add",
+      "id": "9082a7e0eaebfd64",
+      "item": {
+        "type": "paragraph",
+        "id": "9082a7e0eaebfd64",
+        "text": "Data can be retrieved, however, from any federated wiki site. "
+      },
+      "after": "1b84fd68b95e82a3",
+      "date": 1423422084882
+    },
+    {
+      "type": "edit",
+      "id": "9082a7e0eaebfd64",
+      "item": {
+        "type": "paragraph",
+        "id": "9082a7e0eaebfd64",
+        "text": "Data can be retrieved, however, from any federated wiki site and displayed as a page. "
+      },
+      "date": 1423422103937
+    },
+    {
+      "type": "edit",
+      "id": "1b84fd68b95e82a3",
+      "item": {
+        "type": "paragraph",
+        "id": "1b84fd68b95e82a3",
+        "text": "Your data (e.g. your pages) are stored on a server you own. Usually you will browse pages with this site as your \"write context\" meaning any changes you make to documents are stored on that server. "
+      },
+      "date": 1423422126419
+    },
+    {
+      "type": "add",
+      "id": "959f4b14b5eb0d24",
+      "item": {
+        "type": "paragraph",
+        "id": "959f4b14b5eb0d24",
+        "text": "When you are looking at a page that is being served from somewhere other than your current write context, that page will have a \"blue halo\". Edits to such a page will be saved to your write context (making the blue halo disappear)."
+      },
+      "after": "9082a7e0eaebfd64",
+      "date": 1423422257233
+    },
+    {
+      "type": "add",
+      "id": "04f7fcfcbb8e0a33",
+      "item": {
+        "type": "paragraph",
+        "id": "04f7fcfcbb8e0a33",
+        "text": "Right now, for instance, your [[Lineup]] probably has a number of pages in it. Your [[Origin Page]] is (hopefully) from your own server. This page probably has a blue halo, and is being served from the orientation server that I run. "
+      },
+      "after": "959f4b14b5eb0d24",
+      "date": 1423422453534
+    },
+    {
+      "type": "add",
+      "id": "17e0a5ea6601f076",
+      "item": {
+        "type": "paragraph",
+        "id": "17e0a5ea6601f076",
+        "text": "Importantly, this page is not even passing through your server to get to you. Your browser is directly pulling different pages from different servers and stitching them together in the interface. "
+      },
+      "after": "04f7fcfcbb8e0a33",
+      "date": 1423422595780
+    },
+    {
+      "type": "edit",
+      "id": "48e4befc0d08a5b7",
+      "item": {
+        "type": "paragraph",
+        "id": "48e4befc0d08a5b7",
+        "text": "It's worth getting the conceptualization of this right, because it violates expectations you have about the web. "
+      },
+      "date": 1423449054460
+    },
+    {
+      "type": "edit",
+      "id": "cb501ea9da552842",
+      "item": {
+        "type": "paragraph",
+        "id": "cb501ea9da552842",
+        "text": "In federated wiki, we seperate the concerns of data retrieval, display, and UI. "
+      },
+      "date": 1423449081178
+    },
+    {
+      "type": "edit",
+      "id": "cb501ea9da552842",
+      "item": {
+        "type": "paragraph",
+        "id": "cb501ea9da552842",
+        "text": "In federated wiki, we seperate the concerns of data retrieval, data storage, and UI. "
+      },
+      "date": 1423449114052
+    },
+    {
+      "type": "edit",
+      "id": "5b1264da3f8b253b",
+      "item": {
+        "type": "paragraph",
+        "id": "5b1264da3f8b253b",
+        "text": "You've probably noticed that some of these pages have a \"blue halo\" around them. This means that the data of the page is being served from a server other than the one you're browsing from."
+      },
+      "date": 1423458236550
+    },
+    {
+      "type": "edit",
+      "id": "959f4b14b5eb0d24",
+      "item": {
+        "type": "paragraph",
+        "id": "959f4b14b5eb0d24",
+        "text": "When you are looking at a page that is being served from somewhere other than your current write context, that page will have a \"blue halo\". Edits to such a page will be saved to your write context (making the copies of the pages to your server, and making the blue halo disappear)."
+      },
+      "date": 1423458301751
+    },
+    {
+      "type": "edit",
+      "id": "5b1264da3f8b253b",
+      "item": {
+        "type": "paragraph",
+        "id": "5b1264da3f8b253b",
+        "text": "You've probably noticed that some of these pages have a \"blue halo\" around them. This means that the data of the page is being served from a server other than the one you're browsing from (your [[Origin Site]])."
+      },
+      "date": 1423509518272
+    },
+    {
+      "type": "edit",
+      "id": "5b1264da3f8b253b",
+      "item": {
+        "type": "paragraph",
+        "id": "5b1264da3f8b253b",
+        "text": "You've probably noticed that some of these pages have a \"blue halo\" around them. This means that the data of the page is being served from a server other than the one from which you're browsing (your [[Origin Site]])."
+      },
+      "date": 1423509545480
+    },
+    {
+      "type": "edit",
+      "id": "1b84fd68b95e82a3",
+      "item": {
+        "type": "paragraph",
+        "id": "1b84fd68b95e82a3",
+        "text": "Your site's data (e.g. your pages) are stored on a server you own. Usually you will browse pages with this site as your \"write context\" meaning any changes you make to documents are stored on that server. "
+      },
+      "date": 1423509571031
+    },
+    {
+      "type": "edit",
+      "id": "1b84fd68b95e82a3",
+      "item": {
+        "type": "paragraph",
+        "id": "1b84fd68b95e82a3",
+        "text": "Your site's data (e.g. your pages) are stored on a server you own. Usually you will browse pages with this site as your Origin Site meaning any changes you make to documents are stored on that server. "
+      },
+      "date": 1423509602504
+    },
+    {
+      "type": "edit",
+      "id": "04f7fcfcbb8e0a33",
+      "item": {
+        "type": "paragraph",
+        "id": "04f7fcfcbb8e0a33",
+        "text": "Right now, for instance, your [[Lineup]] probably has a number of pages in it. Your Origin Page is (hopefully) from your own server. This page probably has a blue halo, and is being served from the orientation server that I run. "
+      },
+      "date": 1423509640463
+    },
+    {
+      "type": "edit",
+      "id": "17e0a5ea6601f076",
+      "item": {
+        "type": "paragraph",
+        "id": "17e0a5ea6601f076",
+        "text": "Importantly, this page is not even passing through your server to get to you. Your browser is directly pulling different pages from different servers and stitching them together in the interface. More on that later."
+      },
+      "date": 1423509657525
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454432048680
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "title": "Virtues of Wiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9d8f9655edb54cad",
+      "text": "First, federated wiki inherits the virtues of wiki:"
+    },
+    {
+      "type": "paragraph",
+      "id": "d6297856966bbb11",
+      "text": "The editor/reader distinction is collapsed. There are no separate modes for editing and reading. "
+    },
+    {
+      "type": "paragraph",
+      "id": "afa7d80cdd970d33",
+      "text": "It implements automatic linking: make a link to a page that doesn't exist and it will prompt you to create that resource. Automatic linking creates flow-like associative editing, and highlights opportunities to extend knowledge."
+    },
+    {
+      "type": "paragraph",
+      "id": "dbce469959762c95",
+      "text": "Markup is reduced and page format is minimal, both to benefit reading and writing."
+    },
+    {
+      "type": "paragraph",
+      "id": "1e9e73cda17dc9ad",
+      "text": "The flat, non-hierachical structure promotes cross-linking and reuse, leading to densely networked materials."
+    },
+    {
+      "type": "paragraph",
+      "id": "3e70748024a10dc8",
+      "text": "Page names double as links, making it easy to reference a page without looking up a URL or page ID."
+    },
+    {
+      "type": "paragraph",
+      "id": "da45d71b93c2e4cc",
+      "text": "(There are more virtues of wiki, but that is enough for now)."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Virtues of Wiki",
+        "story": []
+      },
+      "date": 1422996355288
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "9d8f9655edb54cad",
+        "text": "First, federated wiki inherits the virtues of wiki:"
+      },
+      "id": "9d8f9655edb54cad",
+      "date": 1422996357902
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d6297856966bbb11",
+        "text": "The editor/reader distinction is collapsed. There are no separate modes for editing and reading. "
+      },
+      "after": "9d8f9655edb54cad",
+      "id": "d6297856966bbb11",
+      "date": 1422996360052
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "afa7d80cdd970d33",
+        "text": "It implements automatic linking: make a link to a page that doesn't exist and it will prompt you to create that resource. (This creates an unparalleled editing flow, and invites people to create resources that are missing)."
+      },
+      "after": "d6297856966bbb11",
+      "id": "afa7d80cdd970d33",
+      "date": 1422996362465
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "dbce469959762c95",
+        "text": "Markup is reduced and page format is minimal, both to benefit reading and writing."
+      },
+      "after": "afa7d80cdd970d33",
+      "id": "dbce469959762c95",
+      "date": 1422996364523
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "1e9e73cda17dc9ad",
+        "text": "The flat, non-hierachical structure promotes cross-linking and reuse, leading to densely networked materials."
+      },
+      "after": "dbce469959762c95",
+      "id": "1e9e73cda17dc9ad",
+      "date": 1422996368064
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "3e70748024a10dc8",
+        "text": "Page names double as links, making it easy to reference a page without looking up a URL or page ID."
+      },
+      "after": "1e9e73cda17dc9ad",
+      "id": "3e70748024a10dc8",
+      "date": 1422996370366
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "da45d71b93c2e4cc",
+        "text": "(There are more virtues of wiki, but that is enough for now)."
+      },
+      "after": "3e70748024a10dc8",
+      "id": "da45d71b93c2e4cc",
+      "date": 1422996373860
+    },
+    {
+      "type": "edit",
+      "id": "afa7d80cdd970d33",
+      "item": {
+        "type": "paragraph",
+        "id": "afa7d80cdd970d33",
+        "text": "It implements automatic linking: make a link to a page that doesn't exist and it will prompt you to create that resource. Automatic linking creates flow-like associative editing, and highlights opportunities to extend knowledge."
+      },
+      "date": 1423006428713
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454487140937
+    }
+  ]
+}

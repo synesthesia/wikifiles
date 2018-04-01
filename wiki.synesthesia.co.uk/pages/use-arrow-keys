@@ -1,0 +1,187 @@
+{
+  "title": "Use Arrow Keys",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8dbe4c49e759a254",
+      "text": "This is an easy one. We're going to learn how to use keys to navigate. See [[What Arrow Keys Look Like]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "32b48dbdea7b1abd",
+      "text": "First, use the shift-click magic you learned in the previous session to open up three or four versions of this page:"
+    },
+    {
+      "type": "paragraph",
+      "id": "bd5d4a6c2c478ecf",
+      "text": "[[Things You Must Do]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "71952f84a321b8ac",
+      "text": "Now use the Arrow Keys on your keyboard to go forward and back between the pages. Notice how the pages are highlighted slightly as you select them. "
+    },
+    {
+      "type": "paragraph",
+      "id": "fafac7e9f3c4a459",
+      "text": "When you are done going back and forth, click this link to your [[Welcome Vistors]] then click that [[Page Flag]] to get back home."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Use Arrow Keys",
+        "story": []
+      },
+      "date": 1423239823394
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8dbe4c49e759a254"
+      },
+      "id": "8dbe4c49e759a254",
+      "type": "add",
+      "date": 1423239825624
+    },
+    {
+      "type": "edit",
+      "id": "8dbe4c49e759a254",
+      "item": {
+        "type": "paragraph",
+        "id": "8dbe4c49e759a254",
+        "text": "This is an easy one. We're going to learn how to use arrow keys."
+      },
+      "date": 1423239863852
+    },
+    {
+      "type": "add",
+      "id": "32b48dbdea7b1abd",
+      "item": {
+        "type": "paragraph",
+        "id": "32b48dbdea7b1abd",
+        "text": "First, use the shift-click magic you learned in the previous session to open up three or four versions of "
+      },
+      "after": "8dbe4c49e759a254",
+      "date": 1423239973717
+    },
+    {
+      "type": "edit",
+      "id": "32b48dbdea7b1abd",
+      "item": {
+        "type": "paragraph",
+        "id": "32b48dbdea7b1abd",
+        "text": "First, use the shift-click magic you learned in the previous session to open up three or four versions of this page:"
+      },
+      "date": 1423239995405
+    },
+    {
+      "type": "add",
+      "id": "bd5d4a6c2c478ecf",
+      "item": {
+        "type": "paragraph",
+        "id": "bd5d4a6c2c478ecf",
+        "text": "[[Things You Must Do]]"
+      },
+      "after": "32b48dbdea7b1abd",
+      "date": 1423240006423
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "71952f84a321b8ac"
+      },
+      "id": "71952f84a321b8ac",
+      "type": "add",
+      "after": "bd5d4a6c2c478ecf",
+      "date": 1423240023631
+    },
+    {
+      "type": "edit",
+      "id": "71952f84a321b8ac",
+      "item": {
+        "type": "paragraph",
+        "id": "71952f84a321b8ac",
+        "text": "Now use the arrow keys on your keyboard to go forward and back. between the pages."
+      },
+      "date": 1423240076956
+    },
+    {
+      "type": "edit",
+      "id": "71952f84a321b8ac",
+      "item": {
+        "type": "paragraph",
+        "id": "71952f84a321b8ac",
+        "text": "Now use the [[Arrow Keys]] on your keyboard to go forward and back. between the pages."
+      },
+      "date": 1423240207054
+    },
+    {
+      "type": "edit",
+      "id": "71952f84a321b8ac",
+      "item": {
+        "type": "paragraph",
+        "id": "71952f84a321b8ac",
+        "text": "Now use the [[Arrow Keys]] on your keyboard to go forward and back between the pages."
+      },
+      "date": 1423240214942
+    },
+    {
+      "type": "edit",
+      "id": "71952f84a321b8ac",
+      "item": {
+        "type": "paragraph",
+        "id": "71952f84a321b8ac",
+        "text": "Now use the Arrow Keys on your keyboard to go forward and back between the pages."
+      },
+      "date": 1423240229295
+    },
+    {
+      "type": "edit",
+      "id": "8dbe4c49e759a254",
+      "item": {
+        "type": "paragraph",
+        "id": "8dbe4c49e759a254",
+        "text": "This is an easy one. We're going to learn how to use keys to navigate. See [[What Arrow Keys Look Like]]."
+      },
+      "date": 1423240273130
+    },
+    {
+      "type": "edit",
+      "id": "71952f84a321b8ac",
+      "item": {
+        "type": "paragraph",
+        "id": "71952f84a321b8ac",
+        "text": "Now use the Arrow Keys on your keyboard to go forward and back between the pages. Notice how the pages are highlighted slightly as you select them. "
+      },
+      "date": 1423241152387
+    },
+    {
+      "type": "add",
+      "id": "fafac7e9f3c4a459",
+      "item": {
+        "type": "paragraph",
+        "id": "fafac7e9f3c4a459",
+        "text": "When you are done going back and forth, click the [[Page Flag]] to return to your welcome page + current page, or click the [[Permalink]] to load just your current page."
+      },
+      "after": "71952f84a321b8ac",
+      "date": 1423260559574
+    },
+    {
+      "type": "edit",
+      "id": "fafac7e9f3c4a459",
+      "item": {
+        "type": "paragraph",
+        "id": "fafac7e9f3c4a459",
+        "text": "When you are done going back and forth, click this link to your [[Welcome Vistors]] then click that [[Page Flag]] to get back home."
+      },
+      "date": 1423267115029
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454432224935
+    }
+  ]
+}

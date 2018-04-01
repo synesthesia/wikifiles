@@ -1,0 +1,116 @@
+{
+  "title": "Seek Sense Share",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "86266fa548b03c71",
+      "text": ">Simple standards facilitated with\n>a light touch, enables knowledge\n>workers to capture, interpret, \n>and share their knowledge.\n\nHarold Jarche 2014 [http://jarche.com/2014/02/the-seek-sense-share-framework/ blogpost]"
+    },
+    {
+      "type": "paragraph",
+      "id": "904a0c3fe232eb21",
+      "text": "[[Seek]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d7f788a16329ab42",
+      "text": "[[Sense]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e0fb60aa0cb302e3",
+      "text": "[[Share]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Seek Sense Share",
+        "story": []
+      },
+      "date": 1522223434796
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "86266fa548b03c71"
+      },
+      "id": "86266fa548b03c71",
+      "type": "add",
+      "date": 1522223442316
+    },
+    {
+      "type": "edit",
+      "id": "86266fa548b03c71",
+      "item": {
+        "type": "markdown",
+        "id": "86266fa548b03c71",
+        "text": ">Simple standards facilitated with\n>a light touch, enables knowledge\n>workers to capture, interpret, \n>and share their knowledge.\n\nHarold Jarche 2014 [http://jarche.com/2014/02/the-seek-sense-share-framework/ blogpost]"
+      },
+      "date": 1522223445675
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "904a0c3fe232eb21"
+      },
+      "id": "904a0c3fe232eb21",
+      "type": "add",
+      "after": "86266fa548b03c71",
+      "date": 1522223447440
+    },
+    {
+      "type": "edit",
+      "id": "904a0c3fe232eb21",
+      "item": {
+        "type": "paragraph",
+        "id": "904a0c3fe232eb21",
+        "text": "[{Seek]]"
+      },
+      "date": 1522223454975
+    },
+    {
+      "type": "edit",
+      "id": "904a0c3fe232eb21",
+      "item": {
+        "type": "paragraph",
+        "id": "904a0c3fe232eb21",
+        "text": "[["
+      },
+      "date": 1522223461676
+    },
+    {
+      "type": "edit",
+      "id": "904a0c3fe232eb21",
+      "item": {
+        "type": "paragraph",
+        "id": "904a0c3fe232eb21",
+        "text": "[[Seek]]"
+      },
+      "date": 1522223464139
+    },
+    {
+      "type": "add",
+      "id": "d7f788a16329ab42",
+      "item": {
+        "type": "paragraph",
+        "id": "d7f788a16329ab42",
+        "text": "[[Sense]]"
+      },
+      "after": "904a0c3fe232eb21",
+      "date": 1522223468556
+    },
+    {
+      "type": "add",
+      "id": "e0fb60aa0cb302e3",
+      "item": {
+        "type": "paragraph",
+        "id": "e0fb60aa0cb302e3",
+        "text": "[[Share]]"
+      },
+      "after": "d7f788a16329ab42",
+      "date": 1522223472637
+    }
+  ]
+}

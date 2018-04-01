@@ -1,0 +1,362 @@
+{
+  "title": "Understanding Links",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "3d9bf531af1e23bc",
+      "text": "##What do links do in Federated Wiki?"
+    },
+    {
+      "type": "paragraph",
+      "id": "24680ba71f109932",
+      "text": "Links help keep individual pages short and on point. "
+    },
+    {
+      "type": "paragraph",
+      "id": "11a7ea88aa618626",
+      "text": "Links show the full context of an idea that you have used, or a short quote that you have included."
+    },
+    {
+      "type": "paragraph",
+      "id": "69a87e2c05e4f11e",
+      "text": "Links inside Federated Wiki provide pathways from one idea to the next and back again. "
+    },
+    {
+      "type": "paragraph",
+      "id": "4f67b43bd43fb517",
+      "text": "Links are also the first step to creating new pages in Federated Wiki. "
+    },
+    {
+      "type": "markdown",
+      "id": "11d3a9911eec3ff8",
+      "text": "##Links and page creation\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "af2e9f6e7cfa2568",
+      "text": "Read first: [[Understanding the Factory]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a4790f38ebf5c554",
+      "text": "To create a new Federated Wiki page, first you need to create a link to it from where you are. "
+    },
+    {
+      "type": "paragraph",
+      "id": "e4a0ae9b998023b0",
+      "text": "Double click on the Factory to open up the Text Editor. Decide on the new page title and write it inside double square brackets. When you click outside the Text Editor box, the new page title will appear as a link. Click on that link to move to the new page. Federated Wiki will tell you that it doesn't yet exist. Click on the Create button to make the new page."
+    },
+    {
+      "type": "markdown",
+      "id": "7d7ba71301970090",
+      "text": "##Linking to an existing page"
+    },
+    {
+      "type": "paragraph",
+      "id": "8667a25a3f07e9e9",
+      "text": "To link to an existing page in Federated Wiki, use the same link method: put the exact page title inside double square brackets to make the link. "
+    },
+    {
+      "type": "paragraph",
+      "id": "8a0900c557bd4612",
+      "text": "When you click on that link, Federated Wiki will link directly to the page if you already have a copy of it. If you don't, Federated Wiki will find all the versions of that page available to you. Choose the one you want and click on the small flag symbol at the bottom right of its Journal to link to that version and make it your own."
+    },
+    {
+      "type": "paragraph",
+      "id": "5c3bf24c036c35e7",
+      "text": "To see what a link to another Federated Wiki page looks like, double click on this paragraph. Related: [[Defense of Capitalized Titles]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8c47480765b7e148",
+      "text": "Related: [[Bibliographic Paragraphs]]"
+    },
+    {
+      "type": "markdown",
+      "id": "dcfa13e7d0e67d29",
+      "text": "##Linking outside Federated Wiki"
+    },
+    {
+      "type": "paragraph",
+      "id": "8e64d1b4707381a8",
+      "text": "To create a link to an external page, put the URL for the page inside single square brackets and at the end of the link leave one space then write the descriptive term for the type of page you're linking to. If it's a blog, say \"blog\". If it's a PDF, say \"PDF\". This word will be hyperlinked. It tells the reader that the link is outside Federated Wiki, and it also tells the reader what kind of link to expect."
+    },
+    {
+      "type": "paragraph",
+      "id": "def3a4e06ed65998",
+      "text": "To see what a link to external content looks like, double click on this paragraph. [http://hapgood.us/2014/12/21/helping-the-right-ideas-find-one-another-fedwiki-happening/ blog]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Understanding Links",
+        "story": []
+      },
+      "date": 1420762316320
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "3d9bf531af1e23bc",
+        "text": "##What do links do in Federated Wiki?"
+      },
+      "id": "3d9bf531af1e23bc",
+      "date": 1420762325814
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "24680ba71f109932",
+        "text": "Links help keep individual pages short and on point. "
+      },
+      "after": "3d9bf531af1e23bc",
+      "id": "24680ba71f109932",
+      "date": 1420762329946
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "11a7ea88aa618626",
+        "text": "Links show the full context of an idea that you have used, or a short quote that you have included."
+      },
+      "after": "3d9bf531af1e23bc",
+      "id": "11a7ea88aa618626",
+      "date": 1420762333608
+    },
+    {
+      "type": "move",
+      "order": [
+        "3d9bf531af1e23bc",
+        "24680ba71f109932",
+        "11a7ea88aa618626"
+      ],
+      "id": "24680ba71f109932",
+      "date": 1420762339292
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "69a87e2c05e4f11e",
+        "text": "Links inside Federated Wiki provide pathways from one idea to the next and back again. "
+      },
+      "after": "11a7ea88aa618626",
+      "id": "69a87e2c05e4f11e",
+      "date": 1420762342780
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "4f67b43bd43fb517",
+        "text": "Links are also the first step to creating new pages in Federated Wiki. "
+      },
+      "after": "69a87e2c05e4f11e",
+      "id": "4f67b43bd43fb517",
+      "date": 1420762345958
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "11d3a9911eec3ff8",
+        "text": "##Links and page creation\n"
+      },
+      "after": "4f67b43bd43fb517",
+      "id": "11d3a9911eec3ff8",
+      "date": 1420762350657
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "af2e9f6e7cfa2568",
+        "text": "Read first: [[Understanding the Factory]]"
+      },
+      "after": "11d3a9911eec3ff8",
+      "id": "af2e9f6e7cfa2568",
+      "date": 1420762355499
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a4790f38ebf5c554",
+        "text": "To create a new Federated Wiki page, first you need to create a link to it from where you are. "
+      },
+      "after": "af2e9f6e7cfa2568",
+      "id": "a4790f38ebf5c554",
+      "date": 1420762358003
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e4a0ae9b998023b0",
+        "text": "Double click on the Factory to open up the Text Editor. Decide on the new page title and write it inside double square brackets. When you click outside the Text Editor box, the new page title will appear as a link. Click on that link to move to the new page. Federated Wiki will tell you that it doesn't yet exist. Click on the Create button to make it. "
+      },
+      "after": "a4790f38ebf5c554",
+      "id": "e4a0ae9b998023b0",
+      "date": 1420762362034
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "7d7ba71301970090",
+        "text": "##Linking to an existing page"
+      },
+      "after": "e4a0ae9b998023b0",
+      "id": "7d7ba71301970090",
+      "date": 1420762368963
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "8667a25a3f07e9e9",
+        "text": "To link to an existing page in Federated Wiki, use the same link method: put the exact page title inside double square brackets to make the link. "
+      },
+      "after": "7d7ba71301970090",
+      "id": "8667a25a3f07e9e9",
+      "date": 1420762373021
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "8a0900c557bd4612",
+        "text": "When you click on that link, Federated Wiki will link directly to the page if you already have a copy of it. If you don't, Federated Wiki will find all the versions of that page available to you. Choose the one you want and click on the small flag symbol at the bottom right of its Journal to link to that version and make it your own."
+      },
+      "after": "8667a25a3f07e9e9",
+      "id": "8a0900c557bd4612",
+      "date": 1420762381501
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "5c3bf24c036c35e7",
+        "text": "To see what a link to another Federated Wiki page looks like, double click on this paragraph. Related: [[Defense of Capitalized Titles]]"
+      },
+      "after": "8a0900c557bd4612",
+      "id": "5c3bf24c036c35e7",
+      "date": 1420762390059
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "dcfa13e7d0e67d29",
+        "text": "##Linking outside Federated Wiki"
+      },
+      "after": "5c3bf24c036c35e7",
+      "id": "dcfa13e7d0e67d29",
+      "date": 1420762393980
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "8c47480765b7e148",
+        "text": "Related: [[Bibliographic Paragraphs]]"
+      },
+      "after": "dcfa13e7d0e67d29",
+      "id": "8c47480765b7e148",
+      "date": 1420762403948
+    },
+    {
+      "type": "move",
+      "order": [
+        "3d9bf531af1e23bc",
+        "24680ba71f109932",
+        "11a7ea88aa618626",
+        "69a87e2c05e4f11e",
+        "4f67b43bd43fb517",
+        "11d3a9911eec3ff8",
+        "af2e9f6e7cfa2568",
+        "a4790f38ebf5c554",
+        "e4a0ae9b998023b0",
+        "7d7ba71301970090",
+        "8667a25a3f07e9e9",
+        "8a0900c557bd4612",
+        "5c3bf24c036c35e7",
+        "8c47480765b7e148",
+        "dcfa13e7d0e67d29"
+      ],
+      "id": "8c47480765b7e148",
+      "date": 1420762406007
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "8e64d1b4707381a8",
+        "text": "To create a link to an external page, put the URL for the page inside single square brackets and at the end of the link leave one space then write the descriptive term for the type of page you're linking to. If it's a blog, say \"blog\". If it's a PDF, say \"PDF\". This word will be hyperlinked. It tells the reader that the link is outside Federated Wiki, and it also tells the reader what kind of link to expect."
+      },
+      "after": "8c47480765b7e148",
+      "id": "8e64d1b4707381a8",
+      "date": 1420762415675
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "def3a4e06ed65998",
+        "text": "To see what a link to external content looks like, double click on this paragraph. [http://hapgood.us/2014/12/21/helping-the-right-ideas-find-one-another-fedwiki-happening/ blog]"
+      },
+      "after": "dcfa13e7d0e67d29",
+      "id": "def3a4e06ed65998",
+      "date": 1420762419981
+    },
+    {
+      "type": "move",
+      "order": [
+        "3d9bf531af1e23bc",
+        "24680ba71f109932",
+        "11a7ea88aa618626",
+        "69a87e2c05e4f11e",
+        "4f67b43bd43fb517",
+        "11d3a9911eec3ff8",
+        "af2e9f6e7cfa2568",
+        "a4790f38ebf5c554",
+        "e4a0ae9b998023b0",
+        "7d7ba71301970090",
+        "8667a25a3f07e9e9",
+        "8a0900c557bd4612",
+        "5c3bf24c036c35e7",
+        "8c47480765b7e148",
+        "dcfa13e7d0e67d29",
+        "8e64d1b4707381a8",
+        "def3a4e06ed65998"
+      ],
+      "id": "dcfa13e7d0e67d29",
+      "date": 1420762424951
+    },
+    {
+      "type": "edit",
+      "id": "e4a0ae9b998023b0",
+      "item": {
+        "type": "paragraph",
+        "id": "e4a0ae9b998023b0",
+        "text": "Double click on the Factory to open up the Text Editor. Decide on the new page title and write it inside double square brackets. When you click outside the Text Editor box, the new page title will appear as a link. Click on that link to move to the new page. Federated Wiki will tell you that it doesn't yet exist. Click on the Create button to make the new page."
+      },
+      "date": 1420762486675
+    },
+    {
+      "type": "fork",
+      "site": "kate.au.fedwikihappening.net",
+      "date": 1420822033711
+    },
+    {
+      "type": "fork",
+      "site": "journal.hapgood.net",
+      "date": 1454595865759
+    }
+  ]
+}

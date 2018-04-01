@@ -1,0 +1,537 @@
+{
+  "title": "Make Your Bio Page",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "94450ca6b61579c5",
+      "text": "Your bio page helps users to understand who you are and why you might be running this site. This is how to make one."
+    },
+    {
+      "type": "paragraph",
+      "id": "57cb67301eb8b7d2",
+      "text": "First, let's make sure we're in the right place in the orientation. At this point you should have edited Welcome Visitors. See Edit Welcome Visitors if you haven't. Return to [[Things You Must Do]] to view the full sequence."
+    },
+    {
+      "type": "paragraph",
+      "id": "69382b3699d825ae",
+      "text": "Your bio page serves as a profile page for the site. It can be short, but should probably be customized for the site. "
+    },
+    {
+      "type": "paragraph",
+      "id": "e4e0b1bd6601957f",
+      "text": "In this case, the context is the Teaching Machines happening. What would people want to know? "
+    },
+    {
+      "type": "paragraph",
+      "id": "6c7e0719660d1c1d",
+      "text": "Probably if you were a teacher, and administrator, or educational technology staff at an institution. Or maybe you're none of the above?"
+    },
+    {
+      "type": "paragraph",
+      "id": "b1cff6db8bfbc090",
+      "text": "People might want to know why you are interested in federated wiki as well."
+    },
+    {
+      "type": "paragraph",
+      "id": "f43acc7f1ef3f348",
+      "text": "Here's a possible bio page for Jane Doe:"
+    },
+    {
+      "type": "html",
+      "id": "d54831066ff0ed72",
+      "text": "<blockquote><code style=\"font-size:120%\">\nI work as an instructional designer for Keene State College, where I try to encourage faculty to explore social learning, and connectivist practice. <br><br>\n\nThis site is my homebase for the Teaching Machines Happening with Audrey Watters. I'm told that at the end of this experience it will function as a small wiki detailing what I've learned. <br><br>\n\nTwitter: @janedoe\n</code>\n</blockquote>"
+    },
+    {
+      "type": "paragraph",
+      "id": "81e54f09ef907ea7",
+      "text": "And that's it. "
+    },
+    {
+      "type": "paragraph",
+      "id": "55018945c0e81b56",
+      "text": "Now for most things you write on federated wiki you'll not sign them. But occasionally, you might like to leave a signed comment. You can do that by linking to your profile page, as we do at the bottom of this page. "
+    },
+    {
+      "type": "paragraph",
+      "id": "f7bd6429b86581a8",
+      "text": "----"
+    },
+    {
+      "type": "paragraph",
+      "id": "9e781d11db3f748e",
+      "text": "Personally, the kind of comment that I prefer starts with the set of hyphens or a Page Fold, providing a break from the text. The author can then express a personal opinion, and let people know who the \"I\" refers to. - [[Mike Caulfield]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0d16997284adf5a5",
+      "text": "Comments are tricky in federated wiki. Comments only modify the version of the page on your site, so there is no single stream of comments. If you want to annotate the page, or leave suggestions, use this form of comment. Back and forth discussions, however, are best suited to other channels. - [[Jane Doe]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Make Your Bio Page",
+        "story": []
+      },
+      "date": 1423097649382
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "57cb67301eb8b7d2"
+      },
+      "id": "57cb67301eb8b7d2",
+      "type": "add",
+      "date": 1423097650887
+    },
+    {
+      "type": "edit",
+      "id": "57cb67301eb8b7d2",
+      "item": {
+        "type": "paragraph",
+        "id": "57cb67301eb8b7d2",
+        "text": "At this point you should have edited Welcome Visitors. See [[Edit Welcome Visitors]]"
+      },
+      "date": 1423097700457
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "94450ca6b61579c5"
+      },
+      "id": "94450ca6b61579c5",
+      "type": "add",
+      "after": "57cb67301eb8b7d2",
+      "date": 1423097706525
+    },
+    {
+      "type": "edit",
+      "id": "94450ca6b61579c5",
+      "item": {
+        "type": "paragraph",
+        "id": "94450ca6b61579c5",
+        "text": "Your bio page helps users to understand who you are and why you might be running this site. This is how to make one."
+      },
+      "date": 1423097790557
+    },
+    {
+      "type": "move",
+      "order": [
+        "94450ca6b61579c5",
+        "57cb67301eb8b7d2"
+      ],
+      "id": "94450ca6b61579c5",
+      "date": 1423097792443
+    },
+    {
+      "type": "edit",
+      "id": "57cb67301eb8b7d2",
+      "item": {
+        "type": "paragraph",
+        "id": "57cb67301eb8b7d2",
+        "text": "First, let's make sure we're in the right place in the orientation. At this point you should have edited Welcome Visitors. See [[Edit Welcome Visitors]] if you haven't."
+      },
+      "date": 1423097819825
+    },
+    {
+      "type": "add",
+      "id": "69382b3699d825ae",
+      "item": {
+        "type": "paragraph",
+        "id": "69382b3699d825ae",
+        "text": "Your bio page serves as a profile page for the site. It can be short, but should probably be customized for the site. "
+      },
+      "after": "57cb67301eb8b7d2",
+      "date": 1423097863562
+    },
+    {
+      "type": "add",
+      "id": "e4e0b1bd6601957f",
+      "item": {
+        "type": "paragraph",
+        "id": "e4e0b1bd6601957f",
+        "text": "In this case, the context is the Teaching Machines happening. What would people want to know? "
+      },
+      "after": "69382b3699d825ae",
+      "date": 1423097907215
+    },
+    {
+      "type": "add",
+      "id": "6c7e0719660d1c1d",
+      "item": {
+        "type": "paragraph",
+        "id": "6c7e0719660d1c1d",
+        "text": "Probably if you were a teacher, and administrator, or educational technology staff at an institution. Or maybe you're none of the above?"
+      },
+      "after": "e4e0b1bd6601957f",
+      "date": 1423097955272
+    },
+    {
+      "type": "add",
+      "id": "b1cff6db8bfbc090",
+      "item": {
+        "type": "paragraph",
+        "id": "b1cff6db8bfbc090",
+        "text": "People might want to know why you are interested in federated wiki as well."
+      },
+      "after": "6c7e0719660d1c1d",
+      "date": 1423097980865
+    },
+    {
+      "type": "add",
+      "id": "f43acc7f1ef3f348",
+      "item": {
+        "type": "paragraph",
+        "id": "f43acc7f1ef3f348",
+        "text": "Here's a possible Bio page for Jane Doe:"
+      },
+      "after": "b1cff6db8bfbc090",
+      "date": 1423098006695
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bb841292d0c27592"
+      },
+      "id": "bb841292d0c27592",
+      "type": "add",
+      "after": "aa592f0fca7211a8",
+      "date": 1423098008512
+    },
+    {
+      "type": "edit",
+      "id": "bb841292d0c27592",
+      "item": {
+        "type": "code",
+        "id": "bb841292d0c27592",
+        "text": "I work as an instructional designer for Keene State College, where I try to encourage faculty to explore social learning, and connectivist practice. \n\nThis site is my homebase for the Teaching Machines Happening with Audrey Watters. I'm told that at the end of this experience it will function as a small wiki detailing what I've learned."
+      },
+      "date": 1423098180386
+    },
+    {
+      "type": "edit",
+      "id": "bb841292d0c27592",
+      "item": {
+        "type": "code",
+        "id": "bb841292d0c27592",
+        "text": "I work as an instructional designer for Keene State College, where I try to encourage faculty to explore social learning, and connectivist practice. \n\nThis site is my homebase for the Teaching Machines Happening with Audrey Watters. I'm told that at the end of this experience it will function as a small wiki detailing what I've learned.\n\nTwitter: @janedoe"
+      },
+      "date": 1423098196492
+    },
+    {
+      "type": "move",
+      "order": [
+        "94450ca6b61579c5",
+        "57cb67301eb8b7d2",
+        "69382b3699d825ae",
+        "e4e0b1bd6601957f",
+        "6c7e0719660d1c1d",
+        "b1cff6db8bfbc090",
+        "f43acc7f1ef3f348",
+        "bb841292d0c27592"
+      ],
+      "id": "bb841292d0c27592",
+      "date": 1423098214059
+    },
+    {
+      "type": "edit",
+      "id": "bb841292d0c27592",
+      "item": {
+        "type": "code",
+        "id": "bb841292d0c27592",
+        "text": "I work as an instructional designer for Keene State College, where I try to encourage faculty to explore social learning, and connectivist practice. \n\nThis site is my homebase for the Teaching Machines Happening with Audrey Watters. I'm told that at the end of this experience it will function as a small wiki detailing what I've learned.\n\nTwitter: @janedoe\n"
+      },
+      "date": 1423102889802
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eeb989547c2ea891"
+      },
+      "id": "eeb989547c2ea891",
+      "type": "add",
+      "after": "bb841292d0c27592",
+      "date": 1423102894699
+    },
+    {
+      "type": "remove",
+      "id": "eeb989547c2ea891",
+      "date": 1423102907373
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "81e54f09ef907ea7"
+      },
+      "id": "81e54f09ef907ea7",
+      "type": "add",
+      "after": "bb841292d0c27592",
+      "date": 1423102947864
+    },
+    {
+      "type": "edit",
+      "id": "81e54f09ef907ea7",
+      "item": {
+        "type": "paragraph",
+        "id": "81e54f09ef907ea7",
+        "text": "And that's it. "
+      },
+      "date": 1423102957289
+    },
+    {
+      "type": "add",
+      "id": "55018945c0e81b56",
+      "item": {
+        "type": "paragraph",
+        "id": "55018945c0e81b56",
+        "text": "Now for most things you write on federated wiki you'll not sign them. But occasionally, you might like to leave a signed comment. You can do that by linking to your profile page, as we do at the bottom of this page. "
+      },
+      "after": "81e54f09ef907ea7",
+      "date": 1423103243880
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f7bd6429b86581a8"
+      },
+      "id": "f7bd6429b86581a8",
+      "type": "add",
+      "after": "55018945c0e81b56",
+      "date": 1423103247448
+    },
+    {
+      "type": "edit",
+      "id": "f7bd6429b86581a8",
+      "item": {
+        "type": "paragraph",
+        "id": "f7bd6429b86581a8",
+        "text": "----"
+      },
+      "date": 1423103250730
+    },
+    {
+      "type": "add",
+      "id": "9e781d11db3f748e",
+      "item": {
+        "type": "paragraph",
+        "id": "9e781d11db3f748e",
+        "text": "Personally, the kind of comment that I prefer starts with the set of hyphens or a Page Fold, providing a break from the text. The author can then express a personal opinion, and let people know who the I refers to. - [[Mike Caulfield]]"
+      },
+      "after": "f7bd6429b86581a8",
+      "date": 1423103437808
+    },
+    {
+      "type": "edit",
+      "id": "57cb67301eb8b7d2",
+      "item": {
+        "type": "paragraph",
+        "id": "57cb67301eb8b7d2",
+        "text": "First, let's make sure we're in the right place in the orientation. At this point you should have edited Welcome Visitors. See [[Edit Welcome Visitors]] if you haven't. Return to [[Things You Must Do]] to view the full sequence."
+      },
+      "date": 1423103722844
+    },
+    {
+      "type": "edit",
+      "id": "f43acc7f1ef3f348",
+      "item": {
+        "type": "paragraph",
+        "id": "f43acc7f1ef3f348",
+        "text": "Here's a possible bio page for Jane Doe:"
+      },
+      "date": 1423161233061
+    },
+    {
+      "type": "edit",
+      "id": "9e781d11db3f748e",
+      "item": {
+        "type": "paragraph",
+        "id": "9e781d11db3f748e",
+        "text": "Personally, the kind of comment that I prefer starts with the set of hyphens or a Page Fold, providing a break from the text. The author can then express a personal opinion, and let people know who the \"I\" refers to. - [[Mike Caulfield]]"
+      },
+      "date": 1423161263657
+    },
+    {
+      "type": "add",
+      "id": "0d16997284adf5a5",
+      "item": {
+        "type": "paragraph",
+        "id": "0d16997284adf5a5",
+        "text": "Comments are tricky in federated wiki. Comments only modify the version of the page on your site, so there is no single stream of comments. If you want to annotate the page, or leave suggestion, use this form of comment. Back and forth discussions, however, are best suited to other channels."
+      },
+      "after": "9e781d11db3f748e",
+      "date": 1423161430562
+    },
+    {
+      "type": "edit",
+      "id": "57cb67301eb8b7d2",
+      "item": {
+        "type": "paragraph",
+        "id": "57cb67301eb8b7d2",
+        "text": "First, let's make sure we're in the right place in the orientation. At this point you should have edited Welcome Visitors. See Edit Welcome Visitors if you haven't. Return to [[Things You Must Do]] to view the full sequence."
+      },
+      "date": 1423177377250
+    },
+    {
+      "type": "edit",
+      "id": "bb841292d0c27592",
+      "item": {
+        "type": "code",
+        "id": "bb841292d0c27592",
+        "text": "\n"
+      },
+      "date": 1423177402915
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d54831066ff0ed72"
+      },
+      "id": "d54831066ff0ed72",
+      "type": "add",
+      "after": "0d16997284adf5a5",
+      "date": 1423177406174
+    },
+    {
+      "type": "edit",
+      "id": "d54831066ff0ed72",
+      "item": {
+        "type": "html",
+        "id": "d54831066ff0ed72",
+        "text": "<code>\nI work as an instructional designer for Keene State College, where I try to encourage faculty to explore social learning, and connectivist practice. \n\nThis site is my homebase for the Teaching Machines Happening with Audrey Watters. I'm told that at the end of this experience it will function as a small wiki detailing what I've learned.\n\nTwitter: @janedoe\n</code>"
+      },
+      "date": 1423177420794
+    },
+    {
+      "type": "edit",
+      "id": "d54831066ff0ed72",
+      "item": {
+        "type": "html",
+        "id": "d54831066ff0ed72",
+        "text": "<code>\nI work as an instructional designer for Keene State College, where I try to encourage faculty to explore social learning, and connectivist practice. <br><br>\n\nThis site is my homebase for the Teaching Machines Happening with Audrey Watters. I'm told that at the end of this experience it will function as a small wiki detailing what I've learned. <br><br>\n\nTwitter: @janedoe\n</code>"
+      },
+      "date": 1423177443094
+    },
+    {
+      "type": "move",
+      "order": [
+        "94450ca6b61579c5",
+        "57cb67301eb8b7d2",
+        "69382b3699d825ae",
+        "e4e0b1bd6601957f",
+        "6c7e0719660d1c1d",
+        "b1cff6db8bfbc090",
+        "f43acc7f1ef3f348",
+        "d54831066ff0ed72",
+        "bb841292d0c27592",
+        "81e54f09ef907ea7",
+        "55018945c0e81b56",
+        "f7bd6429b86581a8",
+        "9e781d11db3f748e",
+        "0d16997284adf5a5"
+      ],
+      "id": "d54831066ff0ed72",
+      "date": 1423177447593
+    },
+    {
+      "type": "remove",
+      "id": "bb841292d0c27592",
+      "date": 1423177453544
+    },
+    {
+      "type": "edit",
+      "id": "d54831066ff0ed72",
+      "item": {
+        "type": "html",
+        "id": "d54831066ff0ed72",
+        "text": "<blockquote><code>\nI work as an instructional designer for Keene State College, where I try to encourage faculty to explore social learning, and connectivist practice. <br><br>\n\nThis site is my homebase for the Teaching Machines Happening with Audrey Watters. I'm told that at the end of this experience it will function as a small wiki detailing what I've learned. <br><br>\n\nTwitter: @janedoe\n</code></blockquote>"
+      },
+      "date": 1423177485144
+    },
+    {
+      "type": "edit",
+      "id": "d54831066ff0ed72",
+      "item": {
+        "type": "html",
+        "id": "d54831066ff0ed72",
+        "text": "<blockquote>\nI work as an instructional designer for Keene State College, where I try to encourage faculty to explore social learning, and connectivist practice. <br><br>\n\nThis site is my homebase for the Teaching Machines Happening with Audrey Watters. I'm told that at the end of this experience it will function as a small wiki detailing what I've learned. <br><br>\n\nTwitter: @janedoe\n</blockquote>"
+      },
+      "date": 1423177519055
+    },
+    {
+      "type": "edit",
+      "id": "d54831066ff0ed72",
+      "item": {
+        "type": "html",
+        "id": "d54831066ff0ed72",
+        "text": "<blockquote><code font=\"+1\">\nI work as an instructional designer for Keene State College, where I try to encourage faculty to explore social learning, and connectivist practice. <br><br>\n\nThis site is my homebase for the Teaching Machines Happening with Audrey Watters. I'm told that at the end of this experience it will function as a small wiki detailing what I've learned. <br><br>\n\nTwitter: @janedoe\n</blockquote>"
+      },
+      "date": 1423177554253
+    },
+    {
+      "type": "edit",
+      "id": "d54831066ff0ed72",
+      "item": {
+        "type": "html",
+        "id": "d54831066ff0ed72",
+        "text": "<blockquote><code style=\"font-size:150%\">\nI work as an instructional designer for Keene State College, where I try to encourage faculty to explore social learning, and connectivist practice. <br><br>\n\nThis site is my homebase for the Teaching Machines Happening with Audrey Watters. I'm told that at the end of this experience it will function as a small wiki detailing what I've learned. </code><br><br>\n\nTwitter: @janedoe\n</blockquote>"
+      },
+      "date": 1423177593935
+    },
+    {
+      "type": "edit",
+      "id": "d54831066ff0ed72",
+      "item": {
+        "type": "html",
+        "id": "d54831066ff0ed72",
+        "text": "<blockquote><code style=\"font-size:110%\">\nI work as an instructional designer for Keene State College, where I try to encourage faculty to explore social learning, and connectivist practice. <br><br>\n\nThis site is my homebase for the Teaching Machines Happening with Audrey Watters. I'm told that at the end of this experience it will function as a small wiki detailing what I've learned. </code><br><br>\n\nTwitter: @janedoe\n</blockquote>"
+      },
+      "date": 1423177601450
+    },
+    {
+      "type": "edit",
+      "id": "d54831066ff0ed72",
+      "item": {
+        "type": "html",
+        "id": "d54831066ff0ed72",
+        "text": "<blockquote><code style=\"font-size:120%\">\nI work as an instructional designer for Keene State College, where I try to encourage faculty to explore social learning, and connectivist practice. <br><br>\n\nThis site is my homebase for the Teaching Machines Happening with Audrey Watters. I'm told that at the end of this experience it will function as a small wiki detailing what I've learned. </code><br><br>\n\nTwitter: @janedoe\n</blockquote>"
+      },
+      "date": 1423177613628
+    },
+    {
+      "type": "edit",
+      "id": "d54831066ff0ed72",
+      "item": {
+        "type": "html",
+        "id": "d54831066ff0ed72",
+        "text": "<blockquote><code style=\"font-size:120%\">\nI work as an instructional designer for Keene State College, where I try to encourage faculty to explore social learning, and connectivist practice. <br><br>\n\nThis site is my homebase for the Teaching Machines Happening with Audrey Watters. I'm told that at the end of this experience it will function as a small wiki detailing what I've learned. <br><br>\n\nTwitter: @janedoe\n</code>\n</blockquote>"
+      },
+      "date": 1423177647121
+    },
+    {
+      "type": "edit",
+      "id": "0d16997284adf5a5",
+      "item": {
+        "type": "paragraph",
+        "id": "0d16997284adf5a5",
+        "text": "Comments are tricky in federated wiki. Comments only modify the version of the page on your site, so there is no single stream of comments. If you want to annotate the page, or leave suggestion, use this form of comment. Back and forth discussions, however, are best suited to other channels. - [[Jane Doe]]"
+      },
+      "date": 1423177710977
+    },
+    {
+      "type": "edit",
+      "id": "0d16997284adf5a5",
+      "item": {
+        "type": "paragraph",
+        "id": "0d16997284adf5a5",
+        "text": "Comments are tricky in federated wiki. Comments only modify the version of the page on your site, so there is no single stream of comments. If you want to annotate the page, or leave suggestions, use this form of comment. Back and forth discussions, however, are best suited to other channels. - [[Jane Doe]]"
+      },
+      "date": 1423177730902
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454432148068
+    }
+  ]
+}

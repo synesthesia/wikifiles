@@ -1,0 +1,257 @@
+{
+  "title": "Understand Welcome Visitors",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "edbc7214cb7eff9e",
+      "text": "Welcome Visitors is one of a few special system pages. Welcome Visitors is meant to identify what your site is about to others. It also may function as a personal landing page. See [[Special Page Names]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "603916a4332c4d33",
+      "text": "A good welcome page should identify who runs the site, link to the home pages of projects on the site, and optionally identify any related sites that may be of interest."
+    },
+    {
+      "type": "paragraph",
+      "id": "550f83f088dc9a30",
+      "text": "People have also used Welcome Visitors pages to add site styling, organize personal links, and load a [[Neighborhood]]. These are hacks, but we support such experimentation, as long as you make sure the neccessary information is clearly visible.  The page must be useful to visitors first and foremost."
+    },
+    {
+      "type": "paragraph",
+      "id": "4e6739caba4e61c7",
+      "text": "We also recommend you leave the How to Wiki and Recent Changes links on the page. You will need them later. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Understand Welcome Visitors",
+        "story": []
+      },
+      "date": 1422919163777
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "edbc7214cb7eff9e"
+      },
+      "id": "edbc7214cb7eff9e",
+      "type": "add",
+      "date": 1422919165232
+    },
+    {
+      "type": "edit",
+      "id": "edbc7214cb7eff9e",
+      "item": {
+        "type": "paragraph",
+        "id": "edbc7214cb7eff9e",
+        "text": "Welcome Visitors is one of a few special system pages. Welcome Vistors is meant (primarily) to identify what your site is about to others. "
+      },
+      "date": 1422919272863
+    },
+    {
+      "type": "edit",
+      "id": "edbc7214cb7eff9e",
+      "item": {
+        "type": "paragraph",
+        "id": "edbc7214cb7eff9e",
+        "text": "Welcome Visitors is one of a few special system pages. Welcome Vistors is meant to identify what your site is about to others. "
+      },
+      "date": 1422919280085
+    },
+    {
+      "type": "add",
+      "id": "603916a4332c4d33",
+      "item": {
+        "type": "paragraph",
+        "id": "603916a4332c4d33",
+        "text": "A good welcome vistors page should identify who runs the site, link to the home pages of projects on the site, and identify any related sites that may be of interest."
+      },
+      "after": "edbc7214cb7eff9e",
+      "date": 1422919397975
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "550f83f088dc9a30"
+      },
+      "id": "550f83f088dc9a30",
+      "type": "add",
+      "after": "603916a4332c4d33",
+      "date": 1422919443592
+    },
+    {
+      "type": "edit",
+      "id": "550f83f088dc9a30",
+      "item": {
+        "type": "paragraph",
+        "id": "550f83f088dc9a30",
+        "text": "People have also used Welcome Visitors pages to add site styling and organize CSS links. "
+      },
+      "date": 1422919513400
+    },
+    {
+      "type": "add",
+      "id": "d213d0643c705104",
+      "item": {
+        "type": "paragraph",
+        "id": "d213d0643c705104",
+        "text": "Anything is permissible, of course, but we do strongly suggest that you make sure the neccessary information is clearly visible. "
+      },
+      "after": "550f83f088dc9a30",
+      "date": 1422919621509
+    },
+    {
+      "type": "add",
+      "id": "4e6739caba4e61c7",
+      "item": {
+        "type": "paragraph",
+        "id": "4e6739caba4e61c7",
+        "text": "We also recommend you leave the How to Wiki and Recent Changes links on the page. You may need them later. "
+      },
+      "after": "d213d0643c705104",
+      "date": 1422919690635
+    },
+    {
+      "type": "edit",
+      "id": "603916a4332c4d33",
+      "item": {
+        "type": "paragraph",
+        "id": "603916a4332c4d33",
+        "text": "A good welcome page should identify who runs the site, link to the home pages of projects on the site, and identify any related sites that may be of interest."
+      },
+      "date": 1423160876095
+    },
+    {
+      "type": "edit",
+      "id": "603916a4332c4d33",
+      "item": {
+        "type": "paragraph",
+        "id": "603916a4332c4d33",
+        "text": "A good welcome page should identify who runs the site, link to the home pages of projects on the site, and optionally identify any related sites that may be of interest."
+      },
+      "date": 1423160893176
+    },
+    {
+      "type": "edit",
+      "id": "550f83f088dc9a30",
+      "item": {
+        "type": "paragraph",
+        "id": "550f83f088dc9a30",
+        "text": "People have also used Welcome Visitors pages to add site styling and organize CSS links. These are hacks, but we support such experimentation."
+      },
+      "date": 1423160938421
+    },
+    {
+      "type": "remove",
+      "id": "d213d0643c705104",
+      "date": 1423160955352
+    },
+    {
+      "type": "edit",
+      "id": "550f83f088dc9a30",
+      "item": {
+        "type": "paragraph",
+        "id": "550f83f088dc9a30",
+        "text": "People have also used Welcome Visitors pages to add site styling and organize CSS links. These are hacks, but we support such experimentation, as long as you make sure the neccessary information is clearly visible. "
+      },
+      "date": 1423160961090
+    },
+    {
+      "type": "edit",
+      "id": "edbc7214cb7eff9e",
+      "item": {
+        "type": "paragraph",
+        "id": "edbc7214cb7eff9e",
+        "text": "Welcome Visitors is one of a few special system pages. Welcome Vistors is meant to identify what your [[Site]] is about to others. "
+      },
+      "date": 1423160998576
+    },
+    {
+      "type": "edit",
+      "id": "edbc7214cb7eff9e",
+      "item": {
+        "type": "paragraph",
+        "id": "edbc7214cb7eff9e",
+        "text": "Welcome Visitors is one of a few special system pages. Welcome Vistors is meant to identify what your site is about to others. See [[Special Page Names]]"
+      },
+      "date": 1423162540138
+    },
+    {
+      "type": "edit",
+      "id": "550f83f088dc9a30",
+      "item": {
+        "type": "paragraph",
+        "id": "550f83f088dc9a30",
+        "text": "People have also used Welcome Visitors pages to add site styling, organize CSS links, and load a [[Neighborhood]]. These are hacks, but we support such experimentation, as long as you make sure the neccessary information is clearly visible. "
+      },
+      "date": 1423162735197
+    },
+    {
+      "type": "edit",
+      "id": "550f83f088dc9a30",
+      "item": {
+        "type": "paragraph",
+        "id": "550f83f088dc9a30",
+        "text": "People have also used Welcome Visitors pages to add site styling, organize CSS links, and load a Neighborhood. These are hacks, but we support such experimentation, as long as you make sure the neccessary information is clearly visible. "
+      },
+      "date": 1423162750618
+    },
+    {
+      "type": "edit",
+      "id": "550f83f088dc9a30",
+      "item": {
+        "type": "paragraph",
+        "id": "550f83f088dc9a30",
+        "text": "People have also used Welcome Visitors pages to add site styling, organize CSS links, and load a Neighborhood. These are hacks, but we support such experimentation, as long as you make sure the neccessary information is clearly visible.  The page must be useful to visitors first and foremost."
+      },
+      "date": 1423162782481
+    },
+    {
+      "type": "edit",
+      "id": "edbc7214cb7eff9e",
+      "item": {
+        "type": "paragraph",
+        "id": "edbc7214cb7eff9e",
+        "text": "Welcome Visitors is one of a few special system pages. Welcome Visitors is meant to identify what your site is about to others. It also may function as a personal landing page. See [[Special Page Names]]"
+      },
+      "date": 1423177810896
+    },
+    {
+      "type": "edit",
+      "id": "550f83f088dc9a30",
+      "item": {
+        "type": "paragraph",
+        "id": "550f83f088dc9a30",
+        "text": "People have also used Welcome Visitors pages to add site styling, organize persnal links, and load a Neighborhood. These are hacks, but we support such experimentation, as long as you make sure the neccessary information is clearly visible.  The page must be useful to visitors first and foremost."
+      },
+      "date": 1423509714322
+    },
+    {
+      "type": "edit",
+      "id": "550f83f088dc9a30",
+      "item": {
+        "type": "paragraph",
+        "id": "550f83f088dc9a30",
+        "text": "People have also used Welcome Visitors pages to add site styling, organize personal links, and load a [[Neighborhood]]. These are hacks, but we support such experimentation, as long as you make sure the neccessary information is clearly visible.  The page must be useful to visitors first and foremost."
+      },
+      "date": 1423509731318
+    },
+    {
+      "type": "edit",
+      "id": "4e6739caba4e61c7",
+      "item": {
+        "type": "paragraph",
+        "id": "4e6739caba4e61c7",
+        "text": "We also recommend you leave the How to Wiki and Recent Changes links on the page. You will need them later. "
+      },
+      "date": 1423509751134
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454432108038
+    }
+  ]
+}

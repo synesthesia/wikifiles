@@ -1,0 +1,235 @@
+{
+  "title": "Understanding Twins",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ae588f872112a57a",
+      "text": "Twins are pages in your neighborhood that have the same name. In most cases, but not all, they are older or newer revisions of the page you are looking at. "
+    },
+    {
+      "type": "paragraph",
+      "id": "2b2d7396ede72d56",
+      "text": "Twins are displayed at the top of the page, and grouped by whether the current revision is newer, older, or the same as the page you are looking at."
+    },
+    {
+      "type": "paragraph",
+      "id": "2d1d910a057cdc99",
+      "text": "If you are looking for the Original Poster, you can check the journal. You can also avoid citing the OP by using [[Via Attribution]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "069e772c08130095",
+      "text": "Twins are NOT history. The oldest twin is the page that was revised the longest time ago. It is not the page which was created first. As such, twins give no reliable method of identifying who the Original Poster of an article was. "
+    },
+    {
+      "type": "paragraph",
+      "id": "50e9dfc474494fb8",
+      "text": "Clicking on a twin will bring up the latest version of a page from the site the flag indicates. "
+    },
+    {
+      "type": "paragraph",
+      "id": "2a0b5fdc06a41b1a",
+      "text": "Twins will change as your neighborhood changes. However, the sites referenced in the fork history of the journal will always be checked for versions of the page, and display if a version is still available."
+    },
+    {
+      "type": "paragraph",
+      "id": "801228c794c37678",
+      "text": "[[scratch]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Understanding Twins",
+        "story": []
+      },
+      "date": 1420823277489
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ae588f872112a57a"
+      },
+      "id": "ae588f872112a57a",
+      "type": "add",
+      "date": 1420823278963
+    },
+    {
+      "type": "edit",
+      "id": "ae588f872112a57a",
+      "item": {
+        "type": "paragraph",
+        "id": "ae588f872112a57a",
+        "text": "Twins are pages in your neighborhood that have the same name. In most cases, but not all, they are older or newer revisions of the page you are looking at. "
+      },
+      "date": 1420823432339
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "801228c794c37678"
+      },
+      "id": "801228c794c37678",
+      "type": "add",
+      "after": "ae588f872112a57a",
+      "date": 1420823489542
+    },
+    {
+      "type": "edit",
+      "id": "801228c794c37678",
+      "item": {
+        "type": "paragraph",
+        "id": "801228c794c37678",
+        "text": "[[scratch]]"
+      },
+      "date": 1420823496276
+    },
+    {
+      "type": "add",
+      "id": "2b2d7396ede72d56",
+      "item": {
+        "type": "paragraph",
+        "id": "2b2d7396ede72d56",
+        "text": "Twins are displayed at the top of the page, and grouped by whether the current revision is newer, older, or the same as the page you are looking at."
+      },
+      "after": "ae588f872112a57a",
+      "date": 1420826222201
+    },
+    {
+      "type": "add",
+      "id": "9fc79e06595ea987",
+      "item": {
+        "type": "paragraph",
+        "id": "9fc79e06595ea987",
+        "text": "Twins Are Not history. The oldest twin is the page that was <i>revised</i> the longest time ago. It is not the page which was created first. As such, twins give no reliable method of identifying "
+      },
+      "after": "2b2d7396ede72d56",
+      "date": 1420826394844
+    },
+    {
+      "type": "edit",
+      "id": "9fc79e06595ea987",
+      "item": {
+        "type": "paragraph",
+        "id": "9fc79e06595ea987",
+        "text": "Twins are NOT history. The oldest twin is the page that was <i>revised</i> the longest time ago. It is not the page which was created first. As such, twins give no reliable method of identifying who the Original Poster of an article was. "
+      },
+      "date": 1420826427321
+    },
+    {
+      "type": "edit",
+      "id": "9fc79e06595ea987",
+      "item": {
+        "type": "html",
+        "id": "9fc79e06595ea987",
+        "text": "Twins are NOT history. The oldest twin is the page that was <i>revised</i> the longest time ago. It is not the page which was created first. As such, twins give no reliable method of identifying who the Original Poster of an article was. "
+      },
+      "date": 1420826433155
+    },
+    {
+      "type": "add",
+      "id": "50e9dfc474494fb8",
+      "item": {
+        "type": "paragraph",
+        "id": "50e9dfc474494fb8",
+        "text": "Clicking on a twin will bring up the latest version of a page from the site the flag indicates. "
+      },
+      "after": "9fc79e06595ea987",
+      "date": 1420826492402
+    },
+    {
+      "type": "add",
+      "id": "2a0b5fdc06a41b1a",
+      "item": {
+        "type": "paragraph",
+        "id": "2a0b5fdc06a41b1a",
+        "text": "Twins will change as your neighborhood changes. However, the sites referenced in the fork history of the journal will always be checked for versions of the page at minimum."
+      },
+      "after": "50e9dfc474494fb8",
+      "date": 1420826602820
+    },
+    {
+      "type": "edit",
+      "id": "2a0b5fdc06a41b1a",
+      "item": {
+        "type": "paragraph",
+        "id": "2a0b5fdc06a41b1a",
+        "text": "Twins will change as your neighborhood changes. However, the sites referenced in the fork history of the journal will always be checked for versions of the page, and display if a version is still available."
+      },
+      "date": 1420826721829
+    },
+    {
+      "type": "remove",
+      "id": "9fc79e06595ea987",
+      "date": 1420826873562
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "069e772c08130095"
+      },
+      "id": "069e772c08130095",
+      "type": "add",
+      "after": "801228c794c37678",
+      "date": 1420826875137
+    },
+    {
+      "type": "edit",
+      "id": "069e772c08130095",
+      "item": {
+        "type": "paragraph",
+        "id": "069e772c08130095",
+        "text": "Twins are NOT history. The oldest twin is the page that was revised the longest time ago. It is not the page which was created first. As such, twins give no reliable method of identifying who the Original Poster of an article was. "
+      },
+      "date": 1420826880751
+    },
+    {
+      "type": "move",
+      "order": [
+        "ae588f872112a57a",
+        "2b2d7396ede72d56",
+        "069e772c08130095",
+        "50e9dfc474494fb8",
+        "2a0b5fdc06a41b1a",
+        "801228c794c37678"
+      ],
+      "id": "069e772c08130095",
+      "date": 1420826884214
+    },
+    {
+      "type": "add",
+      "id": "2d1d910a057cdc99",
+      "item": {
+        "type": "paragraph",
+        "id": "2d1d910a057cdc99",
+        "text": "If you are looking for the Original Poster, you can check the journal. You can also avoid citing the OP by using [[Via Attribution]]."
+      },
+      "after": "069e772c08130095",
+      "date": 1420826975360
+    },
+    {
+      "type": "fork",
+      "site": "journal.hapgood.net"
+    },
+    {
+      "type": "move",
+      "order": [
+        "ae588f872112a57a",
+        "2b2d7396ede72d56",
+        "2d1d910a057cdc99",
+        "069e772c08130095",
+        "50e9dfc474494fb8",
+        "2a0b5fdc06a41b1a",
+        "801228c794c37678"
+      ],
+      "id": "069e772c08130095",
+      "date": 1420855016994
+    },
+    {
+      "type": "fork",
+      "site": "jon.sf.fedwikihappening.net",
+      "date": 1454595869311
+    }
+  ]
+}

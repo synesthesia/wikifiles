@@ -1,0 +1,304 @@
+{
+  "title": "Simple Rules",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "70842a9d3c305ec1",
+      "text": "Simple rules can lead to complex behavior and vise versa. We reflect on why we want a few biologically inspired rules to govern federated wiki."
+    },
+    {
+      "type": "image",
+      "id": "2ae5eb5690f5130b",
+      "url": "data:image/jpeg;base64,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",
+      "caption": "Uploaded image",
+      "text": "George Price. Introduced the concept of the evolutionarily stable strategy (ESS), a central concept in game theory. [http://en.wikipedia.org/wiki/George_R._Price wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "df9fb7881b7cf59e",
+      "text": "Federated wiki is hard to explain because it is unfamiliar, not because it is complex. The rules amount to meeting others and sharing content. There is also the bit about hosting a site to participate. That's where we make the system stable in the presence of evolution. [http://en.wikipedia.org/wiki/Evolutionarily_stable_strategy wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2f579fc0f445831b",
+      "text": "Federated wiki employs three mechanisms of the modern web to create a field where information structures can persist: creative commons (CC), cross-origin resource sharing (CORS) and javascript object notation (JSON)."
+    },
+    {
+      "type": "paragraph",
+      "id": "da290d91d806bb6e",
+      "text": "The original wiki exploited a experimentation friendly moment in the internet's development where an unstable structure (a site where anyone could edit) could thrive. Now those days are past. One must design systems that tolerate misbehavior because misbehavior cannot be avoided, ever."
+    },
+    {
+      "type": "paragraph",
+      "id": "ded2a04669377b36",
+      "text": "Exploitive sites that harvest eyeballs are happy with complex rules because they benefit from simple user behaviors. Usability experts proclaim, don't make me think. When you find that there is a button for everything you want to do, pretty soon you're happy to just press the buttons presented to you. "
+    },
+    {
+      "type": "paragraph",
+      "id": "78f00e476fc46ad6",
+      "text": "Federated wiki raises the question, what am I suppose to do here? There is no answer to that. Isn't it amazing?"
+    },
+    {
+      "type": "video",
+      "id": "285373707c622261",
+      "text": "YOUTUBE 25bYdk70-Vg\nPublished on Mar 2, 2012.\nSimple rules can yield unpredictable behaviors that may not be observable in the rules themselves. They can be insightful in defining emergent outcomes of complex systems. Dr. Brian Sauser and his students demonstrate."
+    },
+    {
+      "type": "paragraph",
+      "id": "a4e4586694c87493",
+      "text": "Evolution finds and exploits simple rules that work. The complexity of life, literature and culture emerges from staggeringly simple principles: exploit available energy to reproduce. Federated wiki shortcuts evolution by passing the decision to reproduce through the impulses of sentient beings. It works for literature and culture. Wiki does the same, only faster."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Simple Rules",
+        "story": []
+      },
+      "date": 1424315565801
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "70842a9d3c305ec1"
+      },
+      "id": "70842a9d3c305ec1",
+      "type": "add",
+      "date": 1424315571531
+    },
+    {
+      "type": "edit",
+      "id": "70842a9d3c305ec1",
+      "item": {
+        "type": "paragraph",
+        "id": "70842a9d3c305ec1",
+        "text": "Simple rules can lead to complex behavior and vise versa. We reflect on why we want a few biologically inspired rules to govern federated wiki."
+      },
+      "date": 1424315638665
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "285373707c622261"
+      },
+      "id": "285373707c622261",
+      "type": "add",
+      "after": "079e0996b9edaf0b",
+      "date": 1424315647269
+    },
+    {
+      "type": "edit",
+      "id": "285373707c622261",
+      "item": {
+        "type": "video",
+        "id": "285373707c622261",
+        "text": "YOUTUBE 25bYdk70-Vg\n(double-click to edit caption)\n"
+      },
+      "date": 1424315679850
+    },
+    {
+      "type": "edit",
+      "id": "285373707c622261",
+      "item": {
+        "type": "video",
+        "id": "285373707c622261",
+        "text": "YOUTUBE 25bYdk70-Vg\nPublished on Mar 2, 2012.\nSimple rules can yield unpredictable behaviors that may not be observable in the rules themselves. They can be insightful in defining emergent outcomes of complex systems. Dr. Brian Sauser and his students demonstrate."
+      },
+      "date": 1424315715008
+    },
+    {
+      "type": "add",
+      "id": "df9fb7881b7cf59e",
+      "item": {
+        "type": "paragraph",
+        "id": "df9fb7881b7cf59e",
+        "text": "Federated wiki is hard to explain because it is unfamiliar, not because it is complex. The rules amount to meeting others and sharing content. There is also the bit about hosting a site to participate. That's where we make the system stable in the presence of evolution. "
+      },
+      "after": "70842a9d3c305ec1",
+      "date": 1424315946838
+    },
+    {
+      "type": "edit",
+      "id": "df9fb7881b7cf59e",
+      "item": {
+        "type": "paragraph",
+        "id": "df9fb7881b7cf59e",
+        "text": "Federated wiki is hard to explain because it is unfamiliar, not because it is complex. The rules amount to meeting others and sharing content. There is also the bit about hosting a site to participate. That's where we make the system stable in the presence of evolution. [http://en.wikipedia.org/wiki/Evolutionarily_stable_strategy wikipedia]"
+      },
+      "date": 1424315976304
+    },
+    {
+      "type": "move",
+      "order": [
+        "70842a9d3c305ec1",
+        "df9fb7881b7cf59e",
+        "285373707c622261"
+      ],
+      "id": "285373707c622261",
+      "date": 1424316507989
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "image",
+        "id": "2ae5eb5690f5130b",
+        "url": "data:image/jpeg;base64,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",
+        "caption": "Uploaded image",
+        "text": "George Price. Introduced the concept of the evolutionarily stable strategy (ESS), a central concept in game theory. [http://en.wikipedia.org/wiki/George_R._Price wikipedia]"
+      },
+      "after": "70842a9d3c305ec1",
+      "id": "2ae5eb5690f5130b",
+      "date": 1424316517476
+    },
+    {
+      "type": "add",
+      "id": "2f579fc0f445831b",
+      "item": {
+        "type": "paragraph",
+        "id": "2f579fc0f445831b",
+        "text": "Federated wiki employs three mechanisms of the modern web to create a field where information structures can persist: creative commons (CC), cross-origin resource sharing (CORS) and javascript object notation (JSON)."
+      },
+      "after": "df9fb7881b7cf59e",
+      "date": 1424316716414
+    },
+    {
+      "type": "add",
+      "id": "da290d91d806bb6e",
+      "item": {
+        "type": "paragraph",
+        "id": "da290d91d806bb6e",
+        "text": "The original wiki exploited a experimentation friendly moment in the internets development where an unstable structure (a site where anyone could edit) could thrive. Now with those days past one must design systems that tolerate misbehavior because misbehavior cannot be avoided, ever."
+      },
+      "after": "2f579fc0f445831b",
+      "date": 1424316978961
+    },
+    {
+      "type": "add",
+      "id": "ded2a04669377b36",
+      "item": {
+        "type": "paragraph",
+        "id": "ded2a04669377b36",
+        "text": "Exploitive sites that harvest eyeballs are happy with complex rules because they benefit from simple user behaviors. Usability experts proclaim, don't make me think. When you find that there is a button for everything you want to do, pretty soon you're happy to press the buttons presented to you. "
+      },
+      "after": "da290d91d806bb6e",
+      "date": 1424317194816
+    },
+    {
+      "type": "add",
+      "id": "78f00e476fc46ad6",
+      "item": {
+        "type": "paragraph",
+        "id": "78f00e476fc46ad6",
+        "text": "Federated wiki raises the question, what am I suppose to do here?"
+      },
+      "after": "ded2a04669377b36",
+      "date": 1424317242578
+    },
+    {
+      "type": "edit",
+      "id": "78f00e476fc46ad6",
+      "item": {
+        "type": "paragraph",
+        "id": "78f00e476fc46ad6",
+        "text": "Federated wiki raises the question, what am I suppose to do here? There is no answer to that. Isn't it amazing?"
+      },
+      "date": 1424317260127
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a4e4586694c87493"
+      },
+      "id": "a4e4586694c87493",
+      "type": "add",
+      "after": "285373707c622261",
+      "date": 1424317285309
+    },
+    {
+      "type": "edit",
+      "id": "a4e4586694c87493",
+      "item": {
+        "type": "paragraph",
+        "id": "a4e4586694c87493",
+        "text": "Evolution finds and exploits simple rules that work. The complexity of life, literature and culture emerges from startlingly simple principles, exploit available energy to reproduce."
+      },
+      "date": 1424317473788
+    },
+    {
+      "type": "edit",
+      "id": "a4e4586694c87493",
+      "item": {
+        "type": "paragraph",
+        "id": "a4e4586694c87493",
+        "text": "Evolution finds and exploits simple rules that work. The complexity of life, literature and culture emerges from startlingly simple principles, exploit available energy to reproduce. Federated wiki shortcuts evolution by passing the decision to reproduce through the impulses of sentient beings. It works for literature and culture, though wiki could be faster."
+      },
+      "date": 1424317583044
+    },
+    {
+      "type": "edit",
+      "id": "a4e4586694c87493",
+      "item": {
+        "type": "paragraph",
+        "id": "a4e4586694c87493",
+        "text": "Evolution finds and exploits simple rules that work. The complexity of life, literature and culture emerges from staggeringly simple principles, exploit available energy to reproduce. Federated wiki shortcuts evolution by passing the decision to reproduce through the impulses of sentient beings. It works for literature and culture, though wiki could be faster."
+      },
+      "date": 1424317622291
+    },
+    {
+      "type": "edit",
+      "id": "a4e4586694c87493",
+      "item": {
+        "type": "paragraph",
+        "id": "a4e4586694c87493",
+        "text": "Evolution finds and exploits simple rules that work. The complexity of life, literature and culture emerges from staggeringly simple principles: exploit available energy to reproduce. Federated wiki shortcuts evolution by passing the decision to reproduce through the impulses of sentient beings. It works for literature and culture, though wiki could be faster."
+      },
+      "date": 1424317689915
+    },
+    {
+      "type": "edit",
+      "id": "da290d91d806bb6e",
+      "item": {
+        "type": "paragraph",
+        "id": "da290d91d806bb6e",
+        "text": "The original wiki exploited a experimentation friendly moment in the internet's development where an unstable structure (a site where anyone could edit) could thrive. Now with those days past one must design systems that tolerate misbehavior because misbehavior cannot be avoided, ever."
+      },
+      "date": 1424447840096
+    },
+    {
+      "type": "edit",
+      "id": "da290d91d806bb6e",
+      "item": {
+        "type": "paragraph",
+        "id": "da290d91d806bb6e",
+        "text": "The original wiki exploited a experimentation friendly moment in the internet's development where an unstable structure (a site where anyone could edit) could thrive. Now those days are past. One must design systems that tolerate misbehavior because misbehavior cannot be avoided, ever."
+      },
+      "date": 1424447878044
+    },
+    {
+      "type": "edit",
+      "id": "a4e4586694c87493",
+      "item": {
+        "type": "paragraph",
+        "id": "a4e4586694c87493",
+        "text": "Evolution finds and exploits simple rules that work. The complexity of life, literature and culture emerges from staggeringly simple principles: exploit available energy to reproduce. Federated wiki shortcuts evolution by passing the decision to reproduce through the impulses of sentient beings. It works for literature and culture. Wiki does the same, only faster."
+      },
+      "date": 1424447978344
+    },
+    {
+      "type": "edit",
+      "id": "ded2a04669377b36",
+      "item": {
+        "type": "paragraph",
+        "id": "ded2a04669377b36",
+        "text": "Exploitive sites that harvest eyeballs are happy with complex rules because they benefit from simple user behaviors. Usability experts proclaim, don't make me think. When you find that there is a button for everything you want to do, pretty soon you're happy to just press the buttons presented to you. "
+      },
+      "date": 1424448250280
+    },
+    {
+      "type": "fork",
+      "site": "h2.ward.asia.wiki.org",
+      "date": 1522323524414
+    }
+  ]
+}

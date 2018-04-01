@@ -1,0 +1,262 @@
+{
+  "title": "Categorising  Things",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3c4494450b6eb223",
+      "text": "How do we categorise chunks of knowledge in a [[Personal Learning Environment]] ?"
+    },
+    {
+      "type": "markdown",
+      "id": "ba195b85525086fb",
+      "text": "We need to be aware that *coding knowledge reduces information* [http://wikity.synesthesia.co.uk/coding-knowledge-reduces-information/ snippet]"
+    },
+    {
+      "type": "markdown",
+      "id": "7cef90bb141c7a58",
+      "text": "The power of folksonomy"
+    },
+    {
+      "type": "paragraph",
+      "id": "97ce5bc9400df2e2",
+      "text": "[[Ontology v. Stigmergy]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Categorising  Things",
+        "story": []
+      },
+      "date": 1522066587299
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3c4494450b6eb223"
+      },
+      "id": "3c4494450b6eb223",
+      "type": "add",
+      "date": 1522066590174
+    },
+    {
+      "type": "edit",
+      "id": "3c4494450b6eb223",
+      "item": {
+        "type": "paragraph",
+        "id": "3c4494450b6eb223",
+        "text": "How do we categorise chunks of knowledge in a [[personal Learning Environment]] ?"
+      },
+      "date": 1522066620386
+    },
+    {
+      "type": "edit",
+      "id": "3c4494450b6eb223",
+      "item": {
+        "type": "paragraph",
+        "id": "3c4494450b6eb223",
+        "text": "How do we categorise chunks of knowledge in a [[Personal Learning Environment]] ?"
+      },
+      "date": 1522066627040
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "88e97f46e139f3bf"
+      },
+      "id": "88e97f46e139f3bf",
+      "type": "add",
+      "after": "3c4494450b6eb223",
+      "date": 1522066861048
+    },
+    {
+      "type": "edit",
+      "id": "88e97f46e139f3bf",
+      "item": {
+        "type": "factory",
+        "id": "88e97f46e139f3bf",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://wikity.synesthesia.co.uk/coding-knowledge-reduces-information/",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+        }
+      },
+      "date": 1522066869387
+    },
+    {
+      "type": "edit",
+      "id": "88e97f46e139f3bf",
+      "item": {
+        "type": "factory",
+        "id": "88e97f46e139f3bf",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://wikity.synesthesia.co.uk/coding-knowledge-reduces-information/",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+        }
+      },
+      "date": 1522066874350
+    },
+    {
+      "type": "edit",
+      "id": "88e97f46e139f3bf",
+      "item": {
+        "type": "paragraph",
+        "id": "88e97f46e139f3bf",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://wikity.synesthesia.co.uk/coding-knowledge-reduces-information/",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+        },
+        "text": "We need to be aware that Coding knowledge reduces information ()"
+      },
+      "date": 1522066905625
+    },
+    {
+      "type": "edit",
+      "id": "88e97f46e139f3bf",
+      "item": {
+        "type": "paragraph",
+        "id": "88e97f46e139f3bf",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://wikity.synesthesia.co.uk/coding-knowledge-reduces-information/",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+        },
+        "text": "We need to be aware that Coding knowledge reduces information [http://wikity.synesthesia.co.uk/coding-knowledge-reduces-information/]"
+      },
+      "date": 1522066914937
+    },
+    {
+      "type": "edit",
+      "id": "88e97f46e139f3bf",
+      "item": {
+        "type": "paragraph",
+        "id": "88e97f46e139f3bf",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://wikity.synesthesia.co.uk/coding-knowledge-reduces-information/",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+        },
+        "text": "We need to be aware that Coding knowledge reduces information [http://wikity.synesthesia.co.uk/coding-knowledge-reduces-information/ snippet]"
+      },
+      "date": 1522066923275
+    },
+    {
+      "type": "edit",
+      "id": "88e97f46e139f3bf",
+      "item": {
+        "type": "paragraph",
+        "id": "88e97f46e139f3bf",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://wikity.synesthesia.co.uk/coding-knowledge-reduces-information/",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+        },
+        "text": "We need to be aware that *coding knowledge reduces information* [http://wikity.synesthesia.co.uk/coding-knowledge-reduces-information/ snippet]"
+      },
+      "date": 1522066938401
+    },
+    {
+      "type": "remove",
+      "id": "88e97f46e139f3bf",
+      "date": 1522066945525
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ba195b85525086fb"
+      },
+      "id": "ba195b85525086fb",
+      "type": "add",
+      "after": "3c4494450b6eb223",
+      "date": 1522066949448
+    },
+    {
+      "type": "edit",
+      "id": "ba195b85525086fb",
+      "item": {
+        "type": "markdown",
+        "id": "ba195b85525086fb",
+        "text": "We need to be aware that *coding knowledge reduces information* [http://wikity.synesthesia.co.uk/coding-knowledge-reduces-information/ snippet]"
+      },
+      "date": 1522066953928
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7cef90bb141c7a58"
+      },
+      "id": "7cef90bb141c7a58",
+      "type": "add",
+      "after": "ba195b85525086fb",
+      "date": 1522066981345
+    },
+    {
+      "type": "edit",
+      "id": "7cef90bb141c7a58",
+      "item": {
+        "type": "markdown",
+        "id": "7cef90bb141c7a58",
+        "text": "The power of folksonomy, or more formally [["
+      },
+      "date": 1522067003408
+    },
+    {
+      "type": "edit",
+      "id": "7cef90bb141c7a58",
+      "item": {
+        "type": "markdown",
+        "id": "7cef90bb141c7a58",
+        "text": "The power of folksonomy, or more formally [[Ontology v. Stigmergy]]"
+      },
+      "date": 1522067030393
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c1cc5db53de4f8d0"
+      },
+      "id": "c1cc5db53de4f8d0",
+      "type": "add",
+      "after": "7cef90bb141c7a58",
+      "date": 1522067170145
+    },
+    {
+      "type": "edit",
+      "id": "7cef90bb141c7a58",
+      "item": {
+        "type": "markdown",
+        "id": "7cef90bb141c7a58",
+        "text": "The power of folksonomy"
+      },
+      "date": 1522067173367
+    },
+    {
+      "type": "remove",
+      "id": "c1cc5db53de4f8d0",
+      "date": 1522067174621
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "97ce5bc9400df2e2"
+      },
+      "id": "97ce5bc9400df2e2",
+      "type": "add",
+      "after": "7cef90bb141c7a58",
+      "date": 1522067175813
+    },
+    {
+      "type": "edit",
+      "id": "97ce5bc9400df2e2",
+      "item": {
+        "type": "paragraph",
+        "id": "97ce5bc9400df2e2",
+        "text": "[[Ontology v. Stigmergy]]"
+      },
+      "date": 1522067178174
+    }
+  ]
+}

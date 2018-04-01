@@ -1,0 +1,150 @@
+{
+  "title": "Sense",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "77f882a26f37fd58",
+      "text": "In terms of [[Personal Knowledge Management]]"
+    },
+    {
+      "type": "html",
+      "id": "83b4793c529d9b3b",
+      "text": "<i>Internalising knowledge</i>"
+    },
+    {
+      "type": "html",
+      "id": "7f8b493d83edec66",
+      "text": "<i>Utilising knowledge</i>"
+    },
+    {
+      "type": "html",
+      "id": "824a9599f53fa64e",
+      "text": "<i>Reflection</i>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Sense",
+        "story": []
+      },
+      "date": 1522228321885
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "77f882a26f37fd58"
+      },
+      "id": "77f882a26f37fd58",
+      "type": "add",
+      "date": 1522228324796
+    },
+    {
+      "type": "edit",
+      "id": "77f882a26f37fd58",
+      "item": {
+        "type": "paragraph",
+        "id": "77f882a26f37fd58",
+        "text": "In terms of [[Personal Knowledge Management]]"
+      },
+      "date": 1522228342112
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b3e383b509003ebb"
+      },
+      "id": "b3e383b509003ebb",
+      "type": "add",
+      "after": "77f882a26f37fd58",
+      "date": 1522228370411
+    },
+    {
+      "type": "remove",
+      "id": "b3e383b509003ebb",
+      "date": 1522228398996
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "83b4793c529d9b3b"
+      },
+      "id": "83b4793c529d9b3b",
+      "type": "add",
+      "after": "77f882a26f37fd58",
+      "date": 1522228401154
+    },
+    {
+      "type": "edit",
+      "id": "83b4793c529d9b3b",
+      "item": {
+        "type": "paragraph",
+        "id": "83b4793c529d9b3b",
+        "text": "<i>Internalising knowledge</i>"
+      },
+      "date": 1522228403726
+    },
+    {
+      "type": "add",
+      "id": "7f8b493d83edec66",
+      "item": {
+        "type": "paragraph",
+        "id": "7f8b493d83edec66",
+        "text": "<i>Utilising knowledge</i>"
+      },
+      "after": "83b4793c529d9b3b",
+      "date": 1522228417021
+    },
+    {
+      "type": "edit",
+      "id": "83b4793c529d9b3b",
+      "item": {
+        "type": "html",
+        "id": "83b4793c529d9b3b",
+        "text": "<i>Internalising knowledge</i>"
+      },
+      "date": 1522228418663
+    },
+    {
+      "type": "edit",
+      "id": "7f8b493d83edec66",
+      "item": {
+        "type": "html",
+        "id": "7f8b493d83edec66",
+        "text": "<i>Utilising knowledge</i>"
+      },
+      "date": 1522228419536
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "824a9599f53fa64e"
+      },
+      "id": "824a9599f53fa64e",
+      "type": "add",
+      "after": "7f8b493d83edec66",
+      "date": 1522228433504
+    },
+    {
+      "type": "edit",
+      "id": "824a9599f53fa64e",
+      "item": {
+        "type": "paragraph",
+        "id": "824a9599f53fa64e",
+        "text": "<i>Reflection</i>"
+      },
+      "date": 1522228446446
+    },
+    {
+      "type": "edit",
+      "id": "824a9599f53fa64e",
+      "item": {
+        "type": "html",
+        "id": "824a9599f53fa64e",
+        "text": "<i>Reflection</i>"
+      },
+      "date": 1522228448223
+    }
+  ]
+}

@@ -1,0 +1,717 @@
+{
+  "title": "Technical Notes",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9db0a40d746970e1",
+      "text": "Installing Federated Wiki"
+    },
+    {
+      "type": "reference",
+      "id": "11801fba813cfff0",
+      "site": "ward.asia.wiki.org",
+      "slug": "federated-wiki-on-digital-ocean",
+      "title": "Federated Wiki on Digital Ocean",
+      "text": "At some point you may want to run your own Federated Wiki site, or perhaps set one up  for friends or a class. We've had good luck installing on Digital Ocean, which currently offers very cheap hosting and a much simpler setup than services such as Amazon Web Services."
+    },
+    {
+      "type": "paragraph",
+      "id": "4a59f95c735af5a7",
+      "text": "Managing Federated Wiki"
+    },
+    {
+      "type": "reference",
+      "id": "dcfb6da198aa6b2c",
+      "site": "c0de.academy",
+      "slug": "fedwiki-sites",
+      "title": "Fedwiki Sites",
+      "text": "Follow  [[Changes to this Site]], or [[Changes to Fedwiki Sites]], to see what we are [[Currently Working On]]. Use [[Fedwiki Tools]] to author new content."
+    },
+    {
+      "type": "reference",
+      "id": "bcd1522bb2c35624",
+      "site": "wiki.synesthesia.co.uk",
+      "slug": "fedwiki-tools",
+      "title": "Fedwiki Tools",
+      "text": "Here we list a few tools that are of particular use in managing and creating [[Fedwiki]] content:"
+    },
+    {
+      "type": "paragraph",
+      "id": "e37218dfd11c3e84",
+      "text": "[[Tips For Administrators]]"
+    },
+    {
+      "type": "reference",
+      "id": "75b739e7d6ef4347",
+      "site": "wiki.synesthesia.co.uk",
+      "slug": "about-roster-plugin",
+      "title": "About Roster Plugin",
+      "text": "This plugin provides a hoverable, clickable roster of sites participating in a group activity. [https://github.com/fedwiki/wiki-plugin-roster github]"
+    },
+    {
+      "type": "paragraph",
+      "id": "91228a168d03a668",
+      "text": "Extending Federated Wiki"
+    },
+    {
+      "id": "4e88f5b643786631",
+      "type": "reference",
+      "site": "ward.fed.wiki.org",
+      "slug": "about-plugins",
+      "title": "About Plugins",
+      "text": "We explain federated wiki plugins. We define their role interpreting content, recount our experience writing many, describe principles and strategies for future plugins, and offer a step-by-step guide for new plugin authors. We'll also collect pointers here to good plugins when they emerge."
+    },
+    {
+      "type": "reference",
+      "id": "b44740b95d99267d",
+      "site": "fed.wiki.org",
+      "slug": "choose-plugins",
+      "title": "Choose Plugins",
+      "text": "We describe how to choose from available plugins and how to increase those available."
+    },
+    {
+      "type": "reference",
+      "id": "efc25c646f232d1f",
+      "site": "found.ward.bay.wiki.org",
+      "slug": "wiki-launch-codes",
+      "title": "Wiki Launch Codes",
+      "text": "We use to launch wiki with one command: wiki. It is much more complicated now. If you put the info into a wiki config file then it will remember it but you won't know how to change it. For personal servers and especially development, try one of these."
+    },
+    {
+      "type": "paragraph",
+      "id": "9bfafdb2fe844581",
+      "text": "Especially, ideas that may make it easy to pull in content from non-fedwiki sources..."
+    },
+    {
+      "id": "851d9e349dd6962f",
+      "type": "reference",
+      "site": "wiki.synesthesia.co.uk",
+      "slug": "federation-rest-services",
+      "title": "Federation REST Services",
+      "text": "Members of the Federation provide simple CGI's on a server they own, programmed in whatever language they prefer, which responds at the URL specified with [[Fedwiki Page Json]]."
+    },
+    {
+      "id": "28c27ab9625e4535",
+      "type": "reference",
+      "site": "ward.asia.wiki.org",
+      "slug": "transport-plugin",
+      "title": "Transport Plugin",
+      "text": "The Transport Plugin is the name given to the plugin idea initially described here: "
+    },
+    {
+      "type": "paragraph",
+      "id": "99fbba0ec30a535a",
+      "text": "See also [[Technology Sites]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Technical Notes",
+        "story": []
+      },
+      "date": 1454415784862
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f203c40033d73dbd"
+      },
+      "id": "f203c40033d73dbd",
+      "type": "add",
+      "date": 1454415791004
+    },
+    {
+      "type": "remove",
+      "id": "f203c40033d73dbd",
+      "date": 1454415799209
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "11801fba813cfff0"
+      },
+      "id": "11801fba813cfff0",
+      "type": "add",
+      "date": 1454415801714
+    },
+    {
+      "type": "edit",
+      "id": "11801fba813cfff0",
+      "item": {
+        "type": "reference",
+        "id": "11801fba813cfff0",
+        "site": "ward.asia.wiki.org",
+        "slug": "federated-wiki-on-digital-ocean",
+        "title": "Federated Wiki on Digital Ocean",
+        "text": "At some point you may want to run your own Federated Wiki site, or perhaps set one up  for friends or a class. We've had good luck installing on Digital Ocean, which currently offers very cheap hosting and a much simpler setup than services such as Amazon Web Services."
+      },
+      "date": 1454415823136
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "28c27ab9625e4535",
+        "type": "reference",
+        "site": "ward.asia.wiki.org",
+        "slug": "transport-plugin",
+        "title": "Transport Plugin",
+        "text": "The Transport Plugin is the name given to the plugin idea initially described here: "
+      },
+      "after": "11801fba813cfff0",
+      "id": "28c27ab9625e4535",
+      "date": 1454423044044
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4a59f95c735af5a7"
+      },
+      "id": "4a59f95c735af5a7",
+      "type": "add",
+      "after": "28c27ab9625e4535",
+      "date": 1454423046746
+    },
+    {
+      "type": "edit",
+      "id": "4a59f95c735af5a7",
+      "item": {
+        "type": "paragraph",
+        "id": "4a59f95c735af5a7",
+        "text": "Extending Federated Wiki"
+      },
+      "date": 1454423061297
+    },
+    {
+      "type": "move",
+      "order": [
+        "11801fba813cfff0",
+        "4a59f95c735af5a7",
+        "28c27ab9625e4535"
+      ],
+      "id": "4a59f95c735af5a7",
+      "date": 1454423064231
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9db0a40d746970e1"
+      },
+      "id": "9db0a40d746970e1",
+      "type": "add",
+      "after": "28c27ab9625e4535",
+      "date": 1454423065543
+    },
+    {
+      "type": "edit",
+      "id": "9db0a40d746970e1",
+      "item": {
+        "type": "paragraph",
+        "id": "9db0a40d746970e1",
+        "text": "Installing Federated Wiki"
+      },
+      "date": 1454423075168
+    },
+    {
+      "type": "move",
+      "order": [
+        "9db0a40d746970e1",
+        "11801fba813cfff0",
+        "4a59f95c735af5a7",
+        "28c27ab9625e4535"
+      ],
+      "id": "9db0a40d746970e1",
+      "date": 1454423077466
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "4e88f5b643786631",
+        "type": "reference",
+        "site": "ward.fed.wiki.org",
+        "slug": "about-plugins",
+        "title": "About Plugins",
+        "text": "We explain federated wiki plugins. We define their role interpreting content, recount our experience writing many, describe principles and strategies for future plugins, and offer a step-by-step guide for new plugin authors. We'll also collect pointers here to good plugins when they emerge."
+      },
+      "after": "4a59f95c735af5a7",
+      "id": "4e88f5b643786631",
+      "date": 1454423216889
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "b44740b95d99267d",
+        "site": "fed.wiki.org",
+        "slug": "choose-plugins",
+        "title": "Choose Plugins",
+        "text": "We describe how to choose from available plugins and how to increase those available."
+      },
+      "after": "4e88f5b643786631",
+      "id": "b44740b95d99267d",
+      "date": 1454423256227
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9bfafdb2fe844581"
+      },
+      "id": "9bfafdb2fe844581",
+      "type": "add",
+      "after": "28c27ab9625e4535",
+      "date": 1454424475593
+    },
+    {
+      "type": "edit",
+      "id": "9bfafdb2fe844581",
+      "item": {
+        "type": "paragraph",
+        "id": "9bfafdb2fe844581",
+        "text": "Especially, ideas that may make it easy to pull in content from non-fedwiki sources..."
+      },
+      "date": 1454424494733
+    },
+    {
+      "type": "move",
+      "order": [
+        "9db0a40d746970e1",
+        "11801fba813cfff0",
+        "4a59f95c735af5a7",
+        "4e88f5b643786631",
+        "b44740b95d99267d",
+        "9bfafdb2fe844581",
+        "28c27ab9625e4535"
+      ],
+      "id": "9bfafdb2fe844581",
+      "date": 1454424496822
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "851d9e349dd6962f",
+        "type": "reference",
+        "site": "wiki.synesthesia.co.uk",
+        "slug": "federation-rest-services",
+        "title": "Federation REST Services",
+        "text": "Members of the Federation provide simple CGI's on a server they own, programmed in whatever language they prefer, which responds at the URL specified with [[Fedwiki Page Json]]."
+      },
+      "after": "9bfafdb2fe844581",
+      "id": "851d9e349dd6962f",
+      "date": 1454424641815
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5f6a38679f63068c"
+      },
+      "id": "5f6a38679f63068c",
+      "type": "add",
+      "after": "28c27ab9625e4535",
+      "date": 1454424912660
+    },
+    {
+      "type": "edit",
+      "id": "5f6a38679f63068c",
+      "item": {
+        "type": "reference",
+        "id": "5f6a38679f63068c",
+        "site": "future.fedwiki.org",
+        "slug": "fedwiki-tools",
+        "title": "Fedwiki Tools",
+        "text": "Here we list a few tools that are of particular use in managing and creating [[Fedwiki]] content:"
+      },
+      "date": 1454424915519
+    },
+    {
+      "type": "move",
+      "order": [
+        "9db0a40d746970e1",
+        "11801fba813cfff0",
+        "4a59f95c735af5a7",
+        "4e88f5b643786631",
+        "b44740b95d99267d",
+        "5f6a38679f63068c",
+        "9bfafdb2fe844581",
+        "851d9e349dd6962f",
+        "28c27ab9625e4535"
+      ],
+      "id": "5f6a38679f63068c",
+      "date": 1454424918511
+    },
+    {
+      "type": "edit",
+      "id": "4a59f95c735af5a7",
+      "item": {
+        "type": "paragraph",
+        "id": "4a59f95c735af5a7",
+        "text": "Managing Federated Wiki"
+      },
+      "date": 1454424937292
+    },
+    {
+      "type": "add",
+      "id": "91228a168d03a668",
+      "item": {
+        "type": "paragraph",
+        "id": "91228a168d03a668",
+        "text": "Extending Federated Wiki"
+      },
+      "after": "4a59f95c735af5a7",
+      "date": 1454424940746
+    },
+    {
+      "type": "move",
+      "order": [
+        "9db0a40d746970e1",
+        "11801fba813cfff0",
+        "4a59f95c735af5a7",
+        "5f6a38679f63068c",
+        "91228a168d03a668",
+        "4e88f5b643786631",
+        "b44740b95d99267d",
+        "9bfafdb2fe844581",
+        "851d9e349dd6962f",
+        "28c27ab9625e4535"
+      ],
+      "id": "5f6a38679f63068c",
+      "date": 1454424943797
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "99fbba0ec30a535a"
+      },
+      "id": "99fbba0ec30a535a",
+      "type": "add",
+      "after": "28c27ab9625e4535",
+      "date": 1454426086989
+    },
+    {
+      "type": "edit",
+      "id": "99fbba0ec30a535a",
+      "item": {
+        "type": "paragraph",
+        "id": "99fbba0ec30a535a",
+        "text": "See also [[Technology Sites]]"
+      },
+      "date": 1454426189209
+    },
+    {
+      "type": "edit",
+      "id": "4a59f95c735af5a7",
+      "item": {
+        "type": "paragraph",
+        "id": "4a59f95c735af5a7",
+        "text": "##Managing Federated Wiki"
+      },
+      "date": 1522061849311
+    },
+    {
+      "type": "edit",
+      "id": "4a59f95c735af5a7",
+      "item": {
+        "type": "paragraph",
+        "id": "4a59f95c735af5a7",
+        "text": "<h3>Managing Federated Wiki"
+      },
+      "date": 1522061859721
+    },
+    {
+      "type": "edit",
+      "id": "4a59f95c735af5a7",
+      "item": {
+        "type": "paragraph",
+        "id": "4a59f95c735af5a7",
+        "text": "**Managing Federated Wiki**"
+      },
+      "date": 1522061869054
+    },
+    {
+      "type": "edit",
+      "id": "4a59f95c735af5a7",
+      "item": {
+        "type": "paragraph",
+        "id": "4a59f95c735af5a7",
+        "text": "Managing Federated Wiki"
+      },
+      "date": 1522061874829
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e37218dfd11c3e84"
+      },
+      "id": "e37218dfd11c3e84",
+      "type": "add",
+      "after": "99fbba0ec30a535a",
+      "date": 1522061880915
+    },
+    {
+      "type": "move",
+      "order": [
+        "9db0a40d746970e1",
+        "11801fba813cfff0",
+        "4a59f95c735af5a7",
+        "5f6a38679f63068c",
+        "e37218dfd11c3e84",
+        "91228a168d03a668",
+        "4e88f5b643786631",
+        "b44740b95d99267d",
+        "9bfafdb2fe844581",
+        "851d9e349dd6962f",
+        "28c27ab9625e4535",
+        "99fbba0ec30a535a"
+      ],
+      "id": "e37218dfd11c3e84",
+      "date": 1522061884614
+    },
+    {
+      "type": "edit",
+      "id": "e37218dfd11c3e84",
+      "item": {
+        "type": "paragraph",
+        "id": "e37218dfd11c3e84",
+        "text": "[[Tips For Administrators]]"
+      },
+      "date": 1522061909507
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fa72c4fdfd36b811"
+      },
+      "id": "fa72c4fdfd36b811",
+      "type": "add",
+      "after": "99fbba0ec30a535a",
+      "date": 1522067670556
+    },
+    {
+      "type": "edit",
+      "id": "fa72c4fdfd36b811",
+      "item": {
+        "type": "paragraph",
+        "id": "fa72c4fdfd36b811",
+        "text": "[[About Roster pLugin]]"
+      },
+      "date": 1522067679506
+    },
+    {
+      "type": "edit",
+      "id": "fa72c4fdfd36b811",
+      "item": {
+        "type": "paragraph",
+        "id": "fa72c4fdfd36b811",
+        "text": "[[About Roster Plugin]]"
+      },
+      "date": 1522067728975
+    },
+    {
+      "type": "move",
+      "order": [
+        "9db0a40d746970e1",
+        "11801fba813cfff0",
+        "4a59f95c735af5a7",
+        "5f6a38679f63068c",
+        "e37218dfd11c3e84",
+        "fa72c4fdfd36b811",
+        "91228a168d03a668",
+        "4e88f5b643786631",
+        "b44740b95d99267d",
+        "9bfafdb2fe844581",
+        "851d9e349dd6962f",
+        "28c27ab9625e4535",
+        "99fbba0ec30a535a"
+      ],
+      "id": "fa72c4fdfd36b811",
+      "date": 1522067733110
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "75b739e7d6ef4347"
+      },
+      "id": "75b739e7d6ef4347",
+      "type": "add",
+      "after": "99fbba0ec30a535a",
+      "date": 1522067740572
+    },
+    {
+      "type": "edit",
+      "id": "75b739e7d6ef4347",
+      "item": {
+        "type": "reference",
+        "id": "75b739e7d6ef4347",
+        "site": "wiki.synesthesia.co.uk",
+        "slug": "about-roster-plugin",
+        "title": "About Roster Plugin",
+        "text": "This plugin provides a hoverable, clickable roster of sites participating in a group activity. [https://github.com/fedwiki/wiki-plugin-roster github]"
+      },
+      "date": 1522067742915
+    },
+    {
+      "type": "move",
+      "order": [
+        "9db0a40d746970e1",
+        "11801fba813cfff0",
+        "4a59f95c735af5a7",
+        "5f6a38679f63068c",
+        "e37218dfd11c3e84",
+        "75b739e7d6ef4347",
+        "fa72c4fdfd36b811",
+        "91228a168d03a668",
+        "4e88f5b643786631",
+        "b44740b95d99267d",
+        "9bfafdb2fe844581",
+        "851d9e349dd6962f",
+        "28c27ab9625e4535",
+        "99fbba0ec30a535a"
+      ],
+      "id": "75b739e7d6ef4347",
+      "date": 1522067748054
+    },
+    {
+      "type": "remove",
+      "id": "fa72c4fdfd36b811",
+      "date": 1522067752822
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bcd1522bb2c35624"
+      },
+      "id": "bcd1522bb2c35624",
+      "type": "add",
+      "after": "99fbba0ec30a535a",
+      "date": 1522143810677
+    },
+    {
+      "type": "edit",
+      "id": "bcd1522bb2c35624",
+      "item": {
+        "type": "reference",
+        "id": "bcd1522bb2c35624",
+        "site": "wiki.synesthesia.co.uk",
+        "slug": "fedwiki-tools",
+        "title": "Fedwiki Tools",
+        "text": "Here we list a few tools that are of particular use in managing and creating [[Fedwiki]] content:"
+      },
+      "date": 1522143856878
+    },
+    {
+      "type": "move",
+      "order": [
+        "9db0a40d746970e1",
+        "11801fba813cfff0",
+        "4a59f95c735af5a7",
+        "bcd1522bb2c35624",
+        "5f6a38679f63068c",
+        "e37218dfd11c3e84",
+        "75b739e7d6ef4347",
+        "91228a168d03a668",
+        "4e88f5b643786631",
+        "b44740b95d99267d",
+        "9bfafdb2fe844581",
+        "851d9e349dd6962f",
+        "28c27ab9625e4535",
+        "99fbba0ec30a535a"
+      ],
+      "id": "bcd1522bb2c35624",
+      "date": 1522143861967
+    },
+    {
+      "type": "remove",
+      "id": "5f6a38679f63068c",
+      "date": 1522143875900
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dcfb6da198aa6b2c"
+      },
+      "id": "dcfb6da198aa6b2c",
+      "type": "add",
+      "after": "99fbba0ec30a535a",
+      "date": 1522146700560
+    },
+    {
+      "type": "edit",
+      "id": "dcfb6da198aa6b2c",
+      "item": {
+        "type": "reference",
+        "id": "dcfb6da198aa6b2c",
+        "site": "c0de.academy",
+        "slug": "fedwiki-sites",
+        "title": "Fedwiki Sites",
+        "text": "Follow  [[Changes to this Site]], or [[Changes to Fedwiki Sites]], to see what we are [[Currently Working On]]. Use [[Fedwiki Tools]] to author new content."
+      },
+      "date": 1522146705081
+    },
+    {
+      "type": "move",
+      "order": [
+        "9db0a40d746970e1",
+        "11801fba813cfff0",
+        "4a59f95c735af5a7",
+        "dcfb6da198aa6b2c",
+        "bcd1522bb2c35624",
+        "e37218dfd11c3e84",
+        "75b739e7d6ef4347",
+        "91228a168d03a668",
+        "4e88f5b643786631",
+        "b44740b95d99267d",
+        "9bfafdb2fe844581",
+        "851d9e349dd6962f",
+        "28c27ab9625e4535",
+        "99fbba0ec30a535a"
+      ],
+      "id": "dcfb6da198aa6b2c",
+      "date": 1522146713345
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "efc25c646f232d1f"
+      },
+      "id": "efc25c646f232d1f",
+      "type": "add",
+      "after": "99fbba0ec30a535a",
+      "date": 1522160809055
+    },
+    {
+      "type": "edit",
+      "id": "efc25c646f232d1f",
+      "item": {
+        "type": "reference",
+        "id": "efc25c646f232d1f",
+        "site": "found.ward.bay.wiki.org",
+        "slug": "wiki-launch-codes",
+        "title": "Wiki Launch Codes",
+        "text": "We use to launch wiki with one command: wiki. It is much more complicated now. If you put the info into a wiki config file then it will remember it but you won't know how to change it. For personal servers and especially development, try one of these."
+      },
+      "date": 1522160811429
+    },
+    {
+      "type": "move",
+      "order": [
+        "9db0a40d746970e1",
+        "11801fba813cfff0",
+        "4a59f95c735af5a7",
+        "dcfb6da198aa6b2c",
+        "bcd1522bb2c35624",
+        "e37218dfd11c3e84",
+        "75b739e7d6ef4347",
+        "91228a168d03a668",
+        "4e88f5b643786631",
+        "b44740b95d99267d",
+        "efc25c646f232d1f",
+        "9bfafdb2fe844581",
+        "851d9e349dd6962f",
+        "28c27ab9625e4535",
+        "99fbba0ec30a535a"
+      ],
+      "id": "efc25c646f232d1f",
+      "date": 1522160820207
+    }
+  ]
+}

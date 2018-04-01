@@ -1,0 +1,869 @@
+{
+  "title": "Assignments",
+  "story": [
+    {
+      "type": "video",
+      "id": "a8c8c1d79f957290",
+      "text": "YOUTUBE rorvNL0R9Cs\n(double-click to edit caption)\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "5da6fc7c74afc36e",
+      "text": "This is the methodology we'll be using for this Happening. "
+    },
+    {
+      "type": "paragraph",
+      "id": "c330298cabb79959",
+      "text": "It's not meant to be the only methodology, but we are looking to create something that pairs the structured guidance novices often need with the organic exploration that fuels discovery and engagement. "
+    },
+    {
+      "type": "paragraph",
+      "id": "a7ee7f9c7159864c",
+      "text": "The methodology uses modules comprised of four activities or \"phases\": Sentences About, Idea Mining, Synthesis and Critique, and Discussion. Each module will take anywhere from three days to two weeks. "
+    },
+    {
+      "type": "paragraph",
+      "id": "54c8f7009e63dcdd",
+      "text": "Students/Participants can self-pace through the first three phases. The last phase requires coordination."
+    },
+    {
+      "type": "paragraph",
+      "id": "6eb72514bd830c59",
+      "text": "You should be familiar with each of these phases before doing the assignments. "
+    },
+    {
+      "type": "paragraph",
+      "id": "c8a015444d8ea6f9",
+      "text": "[[Sentences About]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b85d9455e35e86db",
+      "text": "[[Idea Mining]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2a84300e080513c8",
+      "text": "[[Synthesis and Critique]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9adc8216a366ab30",
+      "text": "[[Discussion]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1bbcef288b4912a0",
+      "text": "This is a modified version of what Mike Caulfield ran in the fall with his T&L 521 class. Let's try it out and see if it makes us smarter. At the end of this we can talk about ways it might be improved."
+    },
+    {
+      "type": "paragraph",
+      "id": "e62653d4b691e199",
+      "text": "The strength of this style of teaching and learning is that it can be adapted to a typical classroom environment, meet curricular requirements, but not be dragged down by them."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Assignments",
+        "story": []
+      },
+      "date": 1424200654506
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5359d6ff77eaa0b1",
+        "text": "Assignment One: [[Hypertext History]]"
+      },
+      "id": "5359d6ff77eaa0b1",
+      "type": "add",
+      "date": 1424200655959
+    },
+    {
+      "type": "edit",
+      "id": "5359d6ff77eaa0b1",
+      "item": {
+        "type": "paragraph",
+        "id": "5359d6ff77eaa0b1",
+        "text": "Assignment One: [[Hypertext History]]"
+      },
+      "date": 1424200670820
+    },
+    {
+      "type": "edit",
+      "id": "5359d6ff77eaa0b1",
+      "item": {
+        "type": "paragraph",
+        "id": "5359d6ff77eaa0b1",
+        "text": "Assignment One: [[Hypertext History]]"
+      },
+      "date": 1424202176214
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5da6fc7c74afc36e",
+        "text": "Assignments involve three tasks: "
+      },
+      "id": "5da6fc7c74afc36e",
+      "type": "add",
+      "after": "5359d6ff77eaa0b1",
+      "date": 1424203753529
+    },
+    {
+      "type": "edit",
+      "id": "5da6fc7c74afc36e",
+      "item": {
+        "type": "paragraph",
+        "id": "5da6fc7c74afc36e",
+        "text": "Assignments involve three tasks: "
+      },
+      "date": 1424203774755
+    },
+    {
+      "type": "add",
+      "id": "c4696069f8da17fe",
+      "item": {
+        "type": "paragraph",
+        "id": "c4696069f8da17fe",
+        "text": "The first we call Sentences. In this section the facilitor or subject matter expert puts out something that looks sort of like notes from lecture. "
+      },
+      "after": "5da6fc7c74afc36e",
+      "date": 1424203852259
+    },
+    {
+      "type": "move",
+      "order": [
+        "5da6fc7c74afc36e",
+        "5359d6ff77eaa0b1",
+        "c4696069f8da17fe",
+        "781ccf8dbfa3d436"
+      ],
+      "id": "5da6fc7c74afc36e",
+      "date": 1424203857664,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1424203862697
+    },
+    {
+      "type": "move",
+      "order": [
+        "5da6fc7c74afc36e",
+        "c4696069f8da17fe",
+        "5359d6ff77eaa0b1"
+      ],
+      "id": "c4696069f8da17fe",
+      "date": 1424203867846
+    },
+    {
+      "type": "edit",
+      "id": "c4696069f8da17fe",
+      "item": {
+        "type": "paragraph",
+        "id": "c4696069f8da17fe",
+        "text": "The first we call Sentences. In this section the facilitor or subject matter expert puts out something that looks sort of like notes from lecture. Embedded in the notes are links to pages that don't exist yet. "
+      },
+      "date": 1424203914859
+    },
+    {
+      "type": "add",
+      "id": "d55cd7fc33c9f895",
+      "item": {
+        "type": "paragraph",
+        "id": "d55cd7fc33c9f895",
+        "text": "You are asked to take at least one of the links, do some research, and write a short page on it. It doesn't have to be a long page. It can be mostly a summary from Wikipedia if you want. Or it can be something much more detailed."
+      },
+      "after": "c4696069f8da17fe",
+      "date": 1424203989303
+    },
+    {
+      "type": "add",
+      "id": "e5344ac4421c3430",
+      "item": {
+        "type": "paragraph",
+        "id": "e5344ac4421c3430",
+        "text": "You can also edit the notes. If the notes say hypertext goes back to Vannevar Bush and you want to say it goes back to Otlet or Borges, then fork it, and add a line to it that some trace it back to Otlet or Borges, link that and write that up. "
+      },
+      "after": "d55cd7fc33c9f895",
+      "date": 1424204108735
+    },
+    {
+      "type": "add",
+      "id": "2f9fc80a43efc2ae",
+      "item": {
+        "type": "paragraph",
+        "id": "2f9fc80a43efc2ae",
+        "text": "You can do as many articles as you like. You may want to load up a neighborhood though, to see "
+      },
+      "after": "e5344ac4421c3430",
+      "date": 1424204156899
+    },
+    {
+      "type": "edit",
+      "id": "c4696069f8da17fe",
+      "item": {
+        "type": "paragraph",
+        "id": "c4696069f8da17fe",
+        "text": "The first we call Sentences About. In this section the facilitor or subject matter expert puts out something that looks sort of like notes from lecture. Embedded in the notes are links to pages that don't exist yet. "
+      },
+      "date": 1424204242021
+    },
+    {
+      "type": "edit",
+      "id": "2f9fc80a43efc2ae",
+      "item": {
+        "type": "paragraph",
+        "id": "2f9fc80a43efc2ae",
+        "text": "You can do as many articles as you like. You may want to load up a neighborhood though, to see what other people have done. "
+      },
+      "date": 1424204251679
+    },
+    {
+      "type": "add",
+      "id": "400b5fc845a8c958",
+      "item": {
+        "type": "paragraph",
+        "id": "400b5fc845a8c958",
+        "text": "Read other people's articles if you can. "
+      },
+      "after": "2f9fc80a43efc2ae",
+      "date": 1424204290966
+    },
+    {
+      "type": "add",
+      "id": "fc89a384391da4ce",
+      "item": {
+        "type": "paragraph",
+        "id": "fc89a384391da4ce",
+        "text": "The point of "
+      },
+      "after": "400b5fc845a8c958",
+      "date": 1424204296327
+    },
+    {
+      "type": "edit",
+      "id": "400b5fc845a8c958",
+      "item": {
+        "type": "paragraph",
+        "id": "400b5fc845a8c958",
+        "text": "Read other people's articles, and if you don't undersatnd any of the main notes, make sure you understand them before moving on.  "
+      },
+      "date": 1424204582512
+    },
+    {
+      "type": "edit",
+      "id": "c4696069f8da17fe",
+      "item": {
+        "type": "paragraph",
+        "id": "c4696069f8da17fe",
+        "text": "<h3>Sentences About</h3>"
+      },
+      "date": 1424204607465
+    },
+    {
+      "type": "add",
+      "id": "acb7eb84b9c9814f",
+      "item": {
+        "type": "paragraph",
+        "id": "acb7eb84b9c9814f",
+        "text": "The first we call Sentences About. In this section the facilitor or subject matter expert puts out something that looks sort of like notes from lecture. Embedded in the notes are links to pages that don't exist yet. "
+      },
+      "after": "c4696069f8da17fe",
+      "date": 1424204609492
+    },
+    {
+      "type": "edit",
+      "id": "c4696069f8da17fe",
+      "item": {
+        "type": "html",
+        "id": "c4696069f8da17fe",
+        "text": "<h3>Sentences About</h3>"
+      },
+      "date": 1424204612843
+    },
+    {
+      "type": "edit",
+      "id": "fc89a384391da4ce",
+      "item": {
+        "type": "paragraph",
+        "id": "fc89a384391da4ce",
+        "text": "The point of Sentences About is to build and consolidate some common background for participants. It is often centered around examples and basics of the topic. Creating these articles now allows them to be used in higher order conversations later. "
+      },
+      "date": 1424204737844
+    },
+    {
+      "type": "edit",
+      "id": "acb7eb84b9c9814f",
+      "item": {
+        "type": "paragraph",
+        "id": "acb7eb84b9c9814f",
+        "text": "The first activity we call Sentences About. In this section the facilitor or subject matter expert puts out something that looks sort of like notes from lecture. Embedded in the notes are links to pages that don't exist yet. "
+      },
+      "date": 1424204778288
+    },
+    {
+      "type": "edit",
+      "id": "5da6fc7c74afc36e",
+      "item": {
+        "type": "paragraph",
+        "id": "5da6fc7c74afc36e",
+        "text": "Assignments involve three activities."
+      },
+      "date": 1424204784370
+    },
+    {
+      "type": "edit",
+      "id": "5da6fc7c74afc36e",
+      "item": {
+        "type": "paragraph",
+        "id": "5da6fc7c74afc36e",
+        "text": "We"
+      },
+      "date": 1424204802536
+    },
+    {
+      "type": "edit",
+      "id": "5da6fc7c74afc36e",
+      "item": {
+        "type": "paragraph",
+        "id": "5da6fc7c74afc36e",
+        "text": "We're still developing this methodology. "
+      },
+      "date": 1424204833131
+    },
+    {
+      "type": "add",
+      "id": "c330298cabb79959",
+      "item": {
+        "type": "paragraph",
+        "id": "c330298cabb79959",
+        "text": "It's not meant to be the only methodology, but we are looking to create something that provides the structured guidance novices often need with the organic exploration that fuels discovery and engagement. "
+      },
+      "after": "5da6fc7c74afc36e",
+      "date": 1424204934733
+    },
+    {
+      "type": "add",
+      "id": "e62653d4b691e199",
+      "item": {
+        "type": "paragraph",
+        "id": "e62653d4b691e199",
+        "text": "We're also looking for a style of teaching and learning that can be adapted to a typical classroom environment, meet curricular requirements, but not be dragged down by it. "
+      },
+      "after": "c330298cabb79959",
+      "date": 1424205057562
+    },
+    {
+      "type": "add",
+      "id": "1bbcef288b4912a0",
+      "item": {
+        "type": "paragraph",
+        "id": "1bbcef288b4912a0",
+        "text": "This is a modified version of what Mike Caulfield ran in the fall with his T&L 521 class. "
+      },
+      "after": "e62653d4b691e199",
+      "date": 1424205091568
+    },
+    {
+      "type": "add",
+      "id": "a7ee7f9c7159864c",
+      "item": {
+        "type": "paragraph",
+        "id": "a7ee7f9c7159864c",
+        "text": "Assignments will involve three activities: Sentences About, Idea Mining, "
+      },
+      "after": "1bbcef288b4912a0",
+      "date": 1424205123651
+    },
+    {
+      "type": "edit",
+      "id": "1bbcef288b4912a0",
+      "item": {
+        "type": "paragraph",
+        "id": "1bbcef288b4912a0",
+        "text": "This is a modified version of what Mike Caulfield ran in the fall with his T&L 521 class. Let's try it out and see if it makes us smarter."
+      },
+      "date": 1424205135788
+    },
+    {
+      "type": "edit",
+      "id": "a7ee7f9c7159864c",
+      "item": {
+        "type": "paragraph",
+        "id": "a7ee7f9c7159864c",
+        "text": "Assignments will involve three activities: Sentences About, Idea Mining, and Elaboration. "
+      },
+      "date": 1424205185309
+    },
+    {
+      "type": "add",
+      "id": "809167d9db6c3b0f",
+      "item": {
+        "type": "paragraph",
+        "id": "809167d9db6c3b0f",
+        "text": "In both T&L 521 and David Wiley's Open Education course, the Sentences About portion was executed as a Structured Notes activity -- students would listen to a short lecture, watch a video, or read a reading, and produce the notes. We're tryiing something different here. "
+      },
+      "after": "fc89a384391da4ce",
+      "date": 1424205336474
+    },
+    {
+      "type": "add",
+      "id": "c8a015444d8ea6f9",
+      "item": {
+        "type": "paragraph",
+        "id": "c8a015444d8ea6f9",
+        "text": "[[Sentences About]]"
+      },
+      "after": "a7ee7f9c7159864c",
+      "date": 1424205355864
+    },
+    {
+      "type": "remove",
+      "id": "acb7eb84b9c9814f",
+      "date": 1424205363709
+    },
+    {
+      "type": "remove",
+      "id": "d55cd7fc33c9f895",
+      "date": 1424205365766
+    },
+    {
+      "type": "remove",
+      "id": "e5344ac4421c3430",
+      "date": 1424205367932
+    },
+    {
+      "type": "remove",
+      "id": "2f9fc80a43efc2ae",
+      "date": 1424205369956
+    },
+    {
+      "type": "remove",
+      "id": "400b5fc845a8c958",
+      "date": 1424205372498
+    },
+    {
+      "type": "remove",
+      "id": "fc89a384391da4ce",
+      "date": 1424205382735
+    },
+    {
+      "type": "remove",
+      "id": "809167d9db6c3b0f",
+      "date": 1424205385778
+    },
+    {
+      "type": "add",
+      "id": "b85d9455e35e86db",
+      "item": {
+        "type": "paragraph",
+        "id": "b85d9455e35e86db",
+        "text": "[[Idea Mining]]"
+      },
+      "after": "c8a015444d8ea6f9",
+      "date": 1424205395831
+    },
+    {
+      "type": "remove",
+      "id": "c4696069f8da17fe",
+      "date": 1424205401517
+    },
+    {
+      "type": "edit",
+      "id": "a7ee7f9c7159864c",
+      "item": {
+        "type": "paragraph",
+        "id": "a7ee7f9c7159864c",
+        "text": "The methodology involves three activities: Sentences About, Idea Mining, and Elaboration. "
+      },
+      "date": 1424206514379
+    },
+    {
+      "type": "edit",
+      "id": "e62653d4b691e199",
+      "item": {
+        "type": "paragraph",
+        "id": "e62653d4b691e199",
+        "text": "We're also looking for a style of teaching and learning that can be adapted to a typical classroom environment, meet curricular requirements, but not be dragged down by them."
+      },
+      "date": 1424206541007
+    },
+    {
+      "type": "add",
+      "id": "0ca4b8779116861b",
+      "item": {
+        "type": "paragraph",
+        "id": "0ca4b8779116861b",
+        "text": "[[Elaboration and Debate]]"
+      },
+      "after": "b85d9455e35e86db",
+      "date": 1424206586634
+    },
+    {
+      "type": "add",
+      "id": "9adc8216a366ab30",
+      "item": {
+        "type": "paragraph",
+        "id": "9adc8216a366ab30",
+        "text": "[[Discussion]]"
+      },
+      "after": "0ca4b8779116861b",
+      "date": 1424206605814
+    },
+    {
+      "type": "remove",
+      "id": "5359d6ff77eaa0b1",
+      "date": 1424208614839
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c84216207d1015fe"
+      },
+      "id": "c84216207d1015fe",
+      "type": "add",
+      "after": "9adc8216a366ab30",
+      "date": 1424208628695
+    },
+    {
+      "type": "remove",
+      "id": "c84216207d1015fe",
+      "date": 1424208633092
+    },
+    {
+      "type": "edit",
+      "id": "a7ee7f9c7159864c",
+      "item": {
+        "type": "paragraph",
+        "id": "a7ee7f9c7159864c",
+        "text": "The methodology modules composed of three activities: Sentences About, Idea Mining, and Elaboration. "
+      },
+      "date": 1424208760201
+    },
+    {
+      "type": "edit",
+      "id": "a7ee7f9c7159864c",
+      "item": {
+        "type": "paragraph",
+        "id": "a7ee7f9c7159864c",
+        "text": "The methodology uses modules composed of four activities: Sentences About, Idea Mining, Elaboration and Debate, and Discussion."
+      },
+      "date": 1424208794865
+    },
+    {
+      "type": "edit",
+      "id": "1bbcef288b4912a0",
+      "item": {
+        "type": "paragraph",
+        "id": "1bbcef288b4912a0",
+        "text": "This is a modified version of what Mike Caulfield ran in the fall with his T&L 521 class. Let's try it out and see if it makes us smarter. At the end of this we can talk about ways it might be improved."
+      },
+      "date": 1424209160109
+    },
+    {
+      "type": "edit",
+      "id": "a7ee7f9c7159864c",
+      "item": {
+        "type": "paragraph",
+        "id": "a7ee7f9c7159864c",
+        "text": "The methodology uses modules comprised of four activities: Sentences About, Idea Mining, Elaboration and Debate, and Discussion."
+      },
+      "date": 1424209176095
+    },
+    {
+      "type": "edit",
+      "id": "0ca4b8779116861b",
+      "item": {
+        "type": "paragraph",
+        "id": "0ca4b8779116861b",
+        "text": "[[Elaboration and Critique]]"
+      },
+      "date": 1424209382616
+    },
+    {
+      "type": "edit",
+      "id": "a7ee7f9c7159864c",
+      "item": {
+        "type": "paragraph",
+        "id": "a7ee7f9c7159864c",
+        "text": "The methodology uses modules comprised of four activities: Sentences About, Idea Mining, Elaboration and Critique, and Discussion."
+      },
+      "date": 1424209393510
+    },
+    {
+      "type": "add",
+      "id": "2a84300e080513c8",
+      "item": {
+        "type": "paragraph",
+        "id": "2a84300e080513c8",
+        "text": "[[Expansion and Synthesis]]"
+      },
+      "after": "b85d9455e35e86db",
+      "date": 1424209698386
+    },
+    {
+      "type": "remove",
+      "id": "0ca4b8779116861b",
+      "date": 1424209758089
+    },
+    {
+      "type": "edit",
+      "id": "5da6fc7c74afc36e",
+      "item": {
+        "type": "paragraph",
+        "id": "5da6fc7c74afc36e",
+        "text": "This is the methodology we'll be using for this Happening. "
+      },
+      "date": 1424216097924
+    },
+    {
+      "type": "move",
+      "order": [
+        "5da6fc7c74afc36e",
+        "c330298cabb79959",
+        "a7ee7f9c7159864c",
+        "e62653d4b691e199",
+        "1bbcef288b4912a0",
+        "c8a015444d8ea6f9",
+        "b85d9455e35e86db",
+        "2a84300e080513c8",
+        "9adc8216a366ab30"
+      ],
+      "id": "a7ee7f9c7159864c",
+      "date": 1424216127207
+    },
+    {
+      "type": "move",
+      "order": [
+        "5da6fc7c74afc36e",
+        "c330298cabb79959",
+        "a7ee7f9c7159864c",
+        "c8a015444d8ea6f9",
+        "e62653d4b691e199",
+        "1bbcef288b4912a0",
+        "b85d9455e35e86db",
+        "2a84300e080513c8",
+        "9adc8216a366ab30"
+      ],
+      "id": "c8a015444d8ea6f9",
+      "date": 1424216130677
+    },
+    {
+      "type": "move",
+      "order": [
+        "5da6fc7c74afc36e",
+        "c330298cabb79959",
+        "a7ee7f9c7159864c",
+        "c8a015444d8ea6f9",
+        "b85d9455e35e86db",
+        "e62653d4b691e199",
+        "1bbcef288b4912a0",
+        "2a84300e080513c8",
+        "9adc8216a366ab30"
+      ],
+      "id": "b85d9455e35e86db",
+      "date": 1424216133255
+    },
+    {
+      "type": "move",
+      "order": [
+        "5da6fc7c74afc36e",
+        "c330298cabb79959",
+        "a7ee7f9c7159864c",
+        "c8a015444d8ea6f9",
+        "b85d9455e35e86db",
+        "2a84300e080513c8",
+        "e62653d4b691e199",
+        "1bbcef288b4912a0",
+        "9adc8216a366ab30"
+      ],
+      "id": "2a84300e080513c8",
+      "date": 1424216135059
+    },
+    {
+      "type": "move",
+      "order": [
+        "5da6fc7c74afc36e",
+        "c330298cabb79959",
+        "a7ee7f9c7159864c",
+        "c8a015444d8ea6f9",
+        "b85d9455e35e86db",
+        "2a84300e080513c8",
+        "9adc8216a366ab30",
+        "e62653d4b691e199",
+        "1bbcef288b4912a0"
+      ],
+      "id": "9adc8216a366ab30",
+      "date": 1424216136933
+    },
+    {
+      "type": "edit",
+      "id": "a7ee7f9c7159864c",
+      "item": {
+        "type": "paragraph",
+        "id": "a7ee7f9c7159864c",
+        "text": "The methodology uses modules comprised of four activities or \"phases\": Sentences About, Idea Mining, Synthesis and Critique, and Discussion. You should be familiar with each of these phases before doing the assignments. "
+      },
+      "date": 1424216201379
+    },
+    {
+      "type": "edit",
+      "id": "e62653d4b691e199",
+      "item": {
+        "type": "paragraph",
+        "id": "e62653d4b691e199",
+        "text": "The strength of this style of teaching and learning is that it can be adapted to a typical classroom environment, meet curricular requirements, but not be dragged down by them."
+      },
+      "date": 1424216229625
+    },
+    {
+      "type": "move",
+      "order": [
+        "5da6fc7c74afc36e",
+        "c330298cabb79959",
+        "a7ee7f9c7159864c",
+        "c8a015444d8ea6f9",
+        "b85d9455e35e86db",
+        "2a84300e080513c8",
+        "9adc8216a366ab30",
+        "1bbcef288b4912a0",
+        "e62653d4b691e199"
+      ],
+      "id": "1bbcef288b4912a0",
+      "date": 1424216231049
+    },
+    {
+      "type": "edit",
+      "id": "2a84300e080513c8",
+      "item": {
+        "type": "paragraph",
+        "id": "2a84300e080513c8",
+        "text": "[[Synthesis and Critique]]"
+      },
+      "date": 1424277326147
+    },
+    {
+      "type": "edit",
+      "id": "c330298cabb79959",
+      "item": {
+        "type": "paragraph",
+        "id": "c330298cabb79959",
+        "text": "It's not meant to be the only methodology, but we are looking to create something that pairs the structured guidance novices often need with the organic exploration that fuels discovery and engagement. "
+      },
+      "date": 1424278539266
+    },
+    {
+      "type": "edit",
+      "id": "a7ee7f9c7159864c",
+      "item": {
+        "type": "paragraph",
+        "id": "a7ee7f9c7159864c",
+        "text": "The methodology uses modules comprised of four activities or \"phases\": Sentences About, Idea Mining, Synthesis and Critique, and Discussion. Each module will take anywhere from three days to two weeks. "
+      },
+      "date": 1424278597711
+    },
+    {
+      "type": "add",
+      "id": "6eb72514bd830c59",
+      "item": {
+        "type": "paragraph",
+        "id": "6eb72514bd830c59",
+        "text": "You should be familiar with each of these phases before doing the assignments. "
+      },
+      "after": "a7ee7f9c7159864c",
+      "date": 1424278598620
+    },
+    {
+      "type": "add",
+      "id": "54c8f7009e63dcdd",
+      "item": {
+        "type": "paragraph",
+        "id": "54c8f7009e63dcdd",
+        "text": "Students/Participants can self-pace through the first three phases. The last phase requires coordination."
+      },
+      "after": "a7ee7f9c7159864c",
+      "date": 1424281145995
+    },
+    {
+      "type": "fork",
+      "site": "assignments.ny2.fedwikihappening.net"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "caab729482985dde"
+      },
+      "id": "caab729482985dde",
+      "type": "add",
+      "after": "e62653d4b691e199",
+      "date": 1424282273313
+    },
+    {
+      "type": "remove",
+      "id": "caab729482985dde",
+      "date": 1424282306632
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a8c8c1d79f957290"
+      },
+      "id": "a8c8c1d79f957290",
+      "type": "add",
+      "after": "e62653d4b691e199",
+      "date": 1424389945296
+    },
+    {
+      "type": "move",
+      "order": [
+        "a8c8c1d79f957290",
+        "5da6fc7c74afc36e",
+        "c330298cabb79959",
+        "a7ee7f9c7159864c",
+        "54c8f7009e63dcdd",
+        "6eb72514bd830c59",
+        "c8a015444d8ea6f9",
+        "b85d9455e35e86db",
+        "2a84300e080513c8",
+        "9adc8216a366ab30",
+        "1bbcef288b4912a0",
+        "e62653d4b691e199"
+      ],
+      "id": "a8c8c1d79f957290",
+      "date": 1424389949131
+    },
+    {
+      "type": "edit",
+      "id": "a8c8c1d79f957290",
+      "item": {
+        "type": "video",
+        "id": "a8c8c1d79f957290",
+        "text": "YOUTUBE rorvNL0R9Cs\n(double-click to edit caption)\n"
+      },
+      "date": 1424389993030
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454432284759
+    },
+    {
+      "type": "fork",
+      "site": "wiki.synesthesia.co.uk",
+      "date": 1454486070781
+    },
+    {
+      "type": "fork",
+      "site": "je.fedwiki.ssatuk.co.uk",
+      "date": 1454487880404
+    }
+  ]
+}

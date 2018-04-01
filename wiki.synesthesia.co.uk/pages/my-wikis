@@ -1,0 +1,177 @@
+{
+  "title": "My Wikis",
+  "story": [
+    {
+      "type": "roster",
+      "id": "b0e2b351fe651494",
+      "text": "My federated wikis \n\nwiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk"
+    },
+    {
+      "type": "paragraph",
+      "id": "24fd042f9a5ed35d",
+      "text": "[https://wiki.synesthesia.co.uk General wiki]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f831e5a180044302",
+      "text": "[http://pkm.wiki.synesthesia.co.uk PKM wiki]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4b2b2399fb8ea4f0",
+      "text": "[http://code.wiki.synesthesia.co.uk Code and technology wiki]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "My Wikis",
+        "story": []
+      },
+      "date": 1454427443013
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "24fd042f9a5ed35d"
+      },
+      "id": "24fd042f9a5ed35d",
+      "type": "add",
+      "date": 1454427446208
+    },
+    {
+      "type": "edit",
+      "id": "24fd042f9a5ed35d",
+      "item": {
+        "type": "paragraph",
+        "id": "24fd042f9a5ed35d",
+        "text": "[https://wiki.synesthesia.co.uk main site]"
+      },
+      "date": 1454427475237
+    },
+    {
+      "type": "edit",
+      "id": "24fd042f9a5ed35d",
+      "item": {
+        "type": "paragraph",
+        "id": "24fd042f9a5ed35d",
+        "text": "[https://wiki.synesthesia.co.uk General wiki]"
+      },
+      "date": 1454427488788
+    },
+    {
+      "type": "add",
+      "id": "f831e5a180044302",
+      "item": {
+        "type": "paragraph",
+        "id": "f831e5a180044302",
+        "text": "[https://pkm.wiki.synesthesia.co.uk PKM wiki]"
+      },
+      "after": "24fd042f9a5ed35d",
+      "date": 1454427505496
+    },
+    {
+      "type": "edit",
+      "id": "f831e5a180044302",
+      "item": {
+        "type": "paragraph",
+        "id": "f831e5a180044302",
+        "text": "[http://pkm.wiki.synesthesia.co.uk PKM wiki]"
+      },
+      "date": 1454427516949
+    },
+    {
+      "type": "add",
+      "id": "4b2b2399fb8ea4f0",
+      "item": {
+        "type": "paragraph",
+        "id": "4b2b2399fb8ea4f0",
+        "text": "[http://code.wiki.synesthesia.co.uk Code and technology wiki]"
+      },
+      "after": "f831e5a180044302",
+      "date": 1454427533524
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7466e7d18584a9c1"
+      },
+      "id": "7466e7d18584a9c1",
+      "type": "add",
+      "after": "4b2b2399fb8ea4f0",
+      "date": 1454427727240
+    },
+    {
+      "type": "remove",
+      "id": "7466e7d18584a9c1",
+      "date": 1454427734355
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5e513790a51f409e"
+      },
+      "id": "5e513790a51f409e",
+      "type": "add",
+      "after": "4b2b2399fb8ea4f0",
+      "date": 1454428155219
+    },
+    {
+      "type": "edit",
+      "id": "5e513790a51f409e",
+      "item": {
+        "type": "roster",
+        "id": "5e513790a51f409e",
+        "text": "http://wiki.synesthesia.co.uk/\nhttp://pkm.wiki.synesthesia.co.uk/\nhttp://code.wiki.synesthesia.co.uk/"
+      },
+      "date": 1454428189650
+    },
+    {
+      "type": "remove",
+      "id": "5e513790a51f409e",
+      "date": 1454428205057
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b0e2b351fe651494"
+      },
+      "id": "b0e2b351fe651494",
+      "type": "add",
+      "after": "4b2b2399fb8ea4f0",
+      "date": 1454428206664
+    },
+    {
+      "type": "edit",
+      "id": "b0e2b351fe651494",
+      "item": {
+        "type": "roster",
+        "id": "b0e2b351fe651494",
+        "text": "My federated wikis \n\nhttp://wiki.synesthesia.co.uk/\nhttp://pkm.wiki.synesthesia.co.uk/\nhttp://code.wiki.synesthesia.co.uk/"
+      },
+      "date": 1454428212547
+    },
+    {
+      "type": "move",
+      "order": [
+        "b0e2b351fe651494",
+        "24fd042f9a5ed35d",
+        "f831e5a180044302",
+        "4b2b2399fb8ea4f0"
+      ],
+      "id": "b0e2b351fe651494",
+      "date": 1454428219355
+    },
+    {
+      "type": "edit",
+      "id": "b0e2b351fe651494",
+      "item": {
+        "type": "roster",
+        "id": "b0e2b351fe651494",
+        "text": "My federated wikis \n\nwiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk"
+      },
+      "date": 1454428250930
+    }
+  ]
+}

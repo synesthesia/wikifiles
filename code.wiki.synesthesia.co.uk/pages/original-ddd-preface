@@ -1,0 +1,288 @@
+{
+  "title": "Original DDD preface",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "f85584dcf112c6e5",
+      "text": "This page was first drafted Sunday, June 26th, 2011, at [[Indie Web Camp]].\nThis instance of federated wiki is devoted to sharing and building upon the [[Domain Driven Design]] pattern language contained within.\n\n\n"
+    },
+    {
+      "type": "html",
+      "id": "ec1f2d3663508335",
+      "text": "<h3>Source Material"
+    },
+    {
+      "type": "html",
+      "id": "c0394cacaff96512",
+      "text": "This site has been populated with extracts from <i>Domain-Driven Design: Tackling Complexity in the Heart of Software</i>, by Eric Evans, Addison-Wesley 2004.\n\nSee [[Original License Details]].\n"
+    },
+    {
+      "type": "html",
+      "id": "1369b01f4417377c",
+      "text": "<h3>Transcription Methods\n"
+    },
+    {
+      "type": "markdown",
+      "id": "a5ad515c82559e36",
+      "text": "Some of you may know that I built a second pattern repository and that Eric and a few others were very generous in excerpting their published works."
+    },
+    {
+      "type": "markdown",
+      "id": "b3d625322929028c",
+      "text": "This site was built by reprocessing Eric's well crafted Word document, first into html, and from that into the JSON used by this site."
+    },
+    {
+      "type": "markdown",
+      "id": "583213e244b6a1c1",
+      "text": "See my [https://github.com/WardCunningham/ddd github project] for programming details."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Original DDD preface",
+        "story": []
+      },
+      "date": 1486640331370
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "404b0cf97fa01e12"
+      },
+      "id": "404b0cf97fa01e12",
+      "type": "add",
+      "date": 1486640333863
+    },
+    {
+      "type": "remove",
+      "id": "404b0cf97fa01e12",
+      "date": 1486640346008
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f85584dcf112c6e5"
+      },
+      "id": "f85584dcf112c6e5",
+      "type": "add",
+      "date": 1486640363524
+    },
+    {
+      "type": "edit",
+      "id": "f85584dcf112c6e5",
+      "item": {
+        "type": "markdown",
+        "id": "f85584dcf112c6e5",
+        "text": "his page was first drafted Sunday, June 26th, 2011, at [[Indie Web Camp]].\n\n"
+      },
+      "date": 1486640369025
+    },
+    {
+      "type": "edit",
+      "id": "f85584dcf112c6e5",
+      "item": {
+        "type": "markdown",
+        "id": "f85584dcf112c6e5",
+        "text": "his page was first drafted Sunday, June 26th, 2011, at [[Indie Web Camp]].\nThis instance of federated wiki is devoted to sharing and building upon the [[Domain Driven Design]] pattern language contained within.\n\n"
+      },
+      "date": 1486640386951
+    },
+    {
+      "type": "edit",
+      "id": "f85584dcf112c6e5",
+      "item": {
+        "type": "markdown",
+        "id": "f85584dcf112c6e5",
+        "text": "This page was first drafted Sunday, June 26th, 2011, at [[Indie Web Camp]].\nThis instance of federated wiki is devoted to sharing and building upon the [[Domain Driven Design]] pattern language contained within.\n<h3>Source Material\n\n"
+      },
+      "date": 1486640400173
+    },
+    {
+      "type": "edit",
+      "id": "f85584dcf112c6e5",
+      "item": {
+        "type": "markdown",
+        "id": "f85584dcf112c6e5",
+        "text": "This page was first drafted Sunday, June 26th, 2011, at [[Indie Web Camp]].\nThis instance of federated wiki is devoted to sharing and building upon the [[Domain Driven Design]] pattern language contained within.\n\n\n"
+      },
+      "date": 1486640404134
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ec1f2d3663508335"
+      },
+      "id": "ec1f2d3663508335",
+      "type": "add",
+      "after": "f85584dcf112c6e5",
+      "date": 1486640405752
+    },
+    {
+      "type": "edit",
+      "id": "ec1f2d3663508335",
+      "item": {
+        "type": "html",
+        "id": "ec1f2d3663508335",
+        "text": "<h3>Source Material"
+      },
+      "date": 1486640410389
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9b89e646e1dea2b3"
+      },
+      "id": "9b89e646e1dea2b3",
+      "type": "add",
+      "after": "ec1f2d3663508335",
+      "date": 1486640412038
+    },
+    {
+      "type": "remove",
+      "id": "9b89e646e1dea2b3",
+      "date": 1486640414533
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c0394cacaff96512"
+      },
+      "id": "c0394cacaff96512",
+      "type": "add",
+      "after": "ec1f2d3663508335",
+      "date": 1486640419223
+    },
+    {
+      "type": "edit",
+      "id": "c0394cacaff96512",
+      "item": {
+        "type": "html",
+        "id": "c0394cacaff96512",
+        "text": "This site has been populated with extracts from <i>Domain-Driven Design: Tackling Complexity in the Heart of Software</i>, by Eric Evans, Addison-Wesley 2004."
+      },
+      "date": 1486640425193
+    },
+    {
+      "type": "edit",
+      "id": "c0394cacaff96512",
+      "item": {
+        "type": "html",
+        "id": "c0394cacaff96512",
+        "text": "This site has been populated with extracts from <i>Domain-Driven Design: Tackling Complexity in the Heart of Software</i>, by Eric Evans, Addison-Wesley 2004.\n\nSee [[Original License Details]].\n"
+      },
+      "date": 1486640443560
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1369b01f4417377c"
+      },
+      "id": "1369b01f4417377c",
+      "type": "add",
+      "after": "c0394cacaff96512",
+      "date": 1486640503177
+    },
+    {
+      "type": "edit",
+      "id": "1369b01f4417377c",
+      "item": {
+        "type": "html",
+        "id": "1369b01f4417377c",
+        "text": "<h3>Transcription Methods\n"
+      },
+      "date": 1486640508950
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a5ad515c82559e36"
+      },
+      "id": "a5ad515c82559e36",
+      "type": "add",
+      "after": "1369b01f4417377c",
+      "date": 1486640514669
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5874c9bbc3735aaf"
+      },
+      "id": "5874c9bbc3735aaf",
+      "type": "add",
+      "after": "a5ad515c82559e36",
+      "date": 1486640519629
+    },
+    {
+      "type": "edit",
+      "id": "a5ad515c82559e36",
+      "item": {
+        "type": "markdown",
+        "id": "a5ad515c82559e36",
+        "text": "Some of you may know that I built a second pattern repository and that Eric and a few others were very generous in excerpting their published works."
+      },
+      "date": 1486640521526
+    },
+    {
+      "type": "remove",
+      "id": "5874c9bbc3735aaf",
+      "date": 1486640523474
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b3d625322929028c"
+      },
+      "id": "b3d625322929028c",
+      "type": "add",
+      "after": "a5ad515c82559e36",
+      "date": 1486640529507
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c9e22d861a55ea0f"
+      },
+      "id": "c9e22d861a55ea0f",
+      "type": "add",
+      "after": "b3d625322929028c",
+      "date": 1486640534131
+    },
+    {
+      "type": "edit",
+      "id": "b3d625322929028c",
+      "item": {
+        "type": "markdown",
+        "id": "b3d625322929028c",
+        "text": "This site was built by reprocessing Eric's well crafted Word document, first into html, and from that into the JSON used by this site."
+      },
+      "date": 1486640536824
+    },
+    {
+      "type": "remove",
+      "id": "c9e22d861a55ea0f",
+      "date": 1486640538820
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "583213e244b6a1c1"
+      },
+      "id": "583213e244b6a1c1",
+      "type": "add",
+      "after": "b3d625322929028c",
+      "date": 1486640549473
+    },
+    {
+      "type": "edit",
+      "id": "583213e244b6a1c1",
+      "item": {
+        "type": "markdown",
+        "id": "583213e244b6a1c1",
+        "text": "See my [https://github.com/WardCunningham/ddd github project] for programming details."
+      },
+      "date": 1486640555914
+    }
+  ]
+}

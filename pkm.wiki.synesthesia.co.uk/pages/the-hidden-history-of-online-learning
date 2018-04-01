@@ -1,0 +1,2882 @@
+{
+  "title": "The Hidden History of Online Learning",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "7a5585aaec99256c",
+      "text": "Context"
+    },
+    {
+      "type": "markdown",
+      "id": "f4534131409e328f",
+      "text": "This page was forked from a [http://hhol.mike.fed.wiki.org/view/welcome-visitors project] [https://hapgood.us/2014/06/13/presseys-automatic-teacher/ set up] by [https://hapgood.us/ Mike Caulfield] in 2014"
+    },
+    {
+      "type": "pagefold",
+      "id": "893053bd6214d9f4",
+      "text": "Original Project Below"
+    },
+    {
+      "type": "paragraph",
+      "id": "b7ff2d717e66e3df",
+      "text": "This collection of articles details some of the predecessors to today's online education initiatives. "
+    },
+    {
+      "type": "pagefold",
+      "id": "e39560c91160baa3",
+      "text": "Instructions and Tools"
+    },
+    {
+      "type": "paragraph",
+      "id": "d51618b04eb9ccc4",
+      "text": "Let us know that you are working on this project by tweeting your site url with the #hhol hash tag (or just tweet out major edits you make). "
+    },
+    {
+      "type": "paragraph",
+      "id": "9b6f415012e1816b",
+      "text": "[[How to Participate]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3534734597d3e480",
+      "text": "[[Recent Changes]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "940633916b6eebcd",
+      "text": "The whole point of this is to eventually be able to write articles that reference this history without having to do historical legwork each time. For an example, see [[Personalization]]."
+    },
+    {
+      "type": "pagefold",
+      "id": "2c28a24692f45ea6",
+      "text": "Topics"
+    },
+    {
+      "type": "paragraph",
+      "id": "c75d6e71bee67e06",
+      "text": "In [[Companies, Institutions, and Projects]] we document initiatives from all eras that had a positive or negative impact on the developement of effective online learning."
+    },
+    {
+      "type": "paragraph",
+      "id": "74d5215d5674cd56",
+      "text": "[[Theorists]] since ancient times have looked at the technologiesof learning. Here we look at them."
+    },
+    {
+      "type": "paragraph",
+      "id": "ea281a24e5ebded5",
+      "text": "[[Related Precedents]] are things that are not strictly initiatives, machines, or software, but that we want to discuss anyway."
+    },
+    {
+      "type": "paragraph",
+      "id": "761b5cf94027f6d8",
+      "text": "[[Popular Treatments in Culture and Media]] have had an interestingly limited view of what educational technology looks like. Or maybe the broader view has been hidden?"
+    },
+    {
+      "type": "paragraph",
+      "id": "4f68357e110b72c9",
+      "text": "[[Machines and Software]] is not only about teaching machines, but some of the devices underlying developments -- light pens, for instance. "
+    },
+    {
+      "type": "paragraph",
+      "id": "97c58cdc21906e3a",
+      "text": "[[Miscellaneous]] because we want it all"
+    },
+    {
+      "type": "paragraph",
+      "id": "cce8148e7ed89d71",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "b0800b0468b07112",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "f67c829054ccaecb",
+      "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://hhol.mike.fed.wiki.org/\",\"types\":[\"text/plain\",\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+      "punt": {
+        "number": 4,
+        "url": "http://hhol.mike.fed.wiki.org/",
+        "types": [
+          "text/plain",
+          "text/uri-list",
+          "text/html"
+        ],
+        "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+      },
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "a39add8c41a67279",
+      "text": ""
+    },
+    {
+      "type": "pagefold",
+      "id": "de756bc39a119ae9",
+      "text": "Editors/Authors I Follow"
+    },
+    {
+      "type": "reference",
+      "id": "d5ba504d5a04814e",
+      "site": "mike.hapgood.net:3000",
+      "slug": "the-hidden-history-of-online-learning",
+      "title": "The Hidden History of Online Learning",
+      "text": "Hapgood (mike)"
+    },
+    {
+      "type": "reference",
+      "id": "e0bf2c2c570d9d22",
+      "site": "bava.hapgood.net:3000",
+      "slug": "jim-groom",
+      "title": "Jim Groom",
+      "text": "Jim Groom (bava)"
+    },
+    {
+      "type": "reference",
+      "id": "6816a054febf7992",
+      "site": "hhol.mike.fed.wiki.org",
+      "slug": "mike-caulfield",
+      "title": "Mike Caulfield",
+      "text": "Mike Caulfield (hhol)"
+    },
+    {
+      "type": "reference",
+      "id": "fcec1b1c9f8f103a",
+      "site": "audrey.hapgood.net:3000",
+      "slug": "audrey-watters",
+      "title": "Audrey Watters",
+      "text": "Audrey Watters (audrey)"
+    },
+    {
+      "type": "reference",
+      "id": "7783d7933a7dcfe2",
+      "site": "amberman.hapgood.net:3000",
+      "slug": "a-michael-berman",
+      "title": "A. Michael Berman",
+      "text": "Michael Berman (amberman)"
+    },
+    {
+      "type": "reference",
+      "id": "6f23594893616b3b",
+      "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://rolin.hapgood.net:3000/\",\"types\":[\"text/plain\",\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+      "punt": {
+        "number": 4,
+        "url": "http://rolin.hapgood.net:3000/",
+        "types": [
+          "text/plain",
+          "text/uri-list",
+          "text/html"
+        ],
+        "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+      },
+      "site": "rolin.hapgood.net:3000",
+      "slug": "rolin-moe",
+      "title": "Rolin Moe",
+      "text": "Rolin Moe (rolin)"
+    },
+    {
+      "type": "reference",
+      "id": "c9f5675b14b5f72e",
+      "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://gardner.hapgood.net:3000/\",\"types\":[\"text/plain\",\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+      "punt": {
+        "number": 4,
+        "url": "http://gardner.hapgood.net:3000/",
+        "types": [
+          "text/plain",
+          "text/uri-list",
+          "text/html"
+        ],
+        "userAgent": "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+      },
+      "site": "gardner.hapgood.net:3000",
+      "slug": "gardner-campbell",
+      "title": "Gardner Campbell",
+      "text": "Gardner Campbell (gardner)"
+    },
+    {
+      "type": "reference",
+      "id": "60e1ab325e0479c3",
+      "site": "lott.hhol.hapgood.net:3000",
+      "slug": "chris-lott",
+      "title": "Chris Lott",
+      "text": "Chris Lott (lott)"
+    },
+    {
+      "type": "reference",
+      "id": "7fecd4b0c2f95824",
+      "site": "jon.hapgood.net:3000",
+      "slug": "jon-udell",
+      "title": "Jon Udell",
+      "text": "Jon is not an educational technologist, but   he is an honorary member of the tribe."
+    },
+    {
+      "type": "reference",
+      "id": "29481d8eb1894580",
+      "site": "gv.hhol.hapgood.net:3000",
+      "slug": "george-veletsianos",
+      "title": "George Veletsianos",
+      "text": "George Veletsianos (gv)"
+    },
+    {
+      "type": "reference",
+      "id": "08a5f4cdc8a06b43",
+      "site": "cog.hhol.hapgood.net:3000",
+      "slug": "alan-levine",
+      "title": "Alan Levine",
+      "text": "Cogdog"
+    },
+    {
+      "type": "reference",
+      "id": "49f378e223332337",
+      "site": "eric.hhol.hapgood.net:3000",
+      "slug": "eric-likness",
+      "title": "Eric Likness",
+      "text": "Eric Likness (eric)"
+    },
+    {
+      "type": "reference",
+      "id": "acf611e16ef18a0c",
+      "site": "jason.hhol.hapgood.net:3000",
+      "slug": "jason-green",
+      "title": "Jason Green",
+      "text": "Jason Green (jason)"
+    },
+    {
+      "type": "reference",
+      "id": "feef24e199b9b6eb",
+      "site": "mcmorgan.hhol.hapgood.net:3000",
+      "slug": "m-c-morgan",
+      "title": "M. C. Morgan",
+      "text": "M. C. Morgan (mcmorgan)"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Hidden History of Online Learning",
+        "story": []
+      },
+      "date": 1401299314148
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4952470b3baaf4bb"
+      },
+      "id": "4952470b3baaf4bb",
+      "type": "add",
+      "date": 1401299315335
+    },
+    {
+      "type": "edit",
+      "id": "4952470b3baaf4bb",
+      "item": {
+        "type": "paragraph",
+        "id": "4952470b3baaf4bb",
+        "text": "This collection of articles details some of the predecessors to today's online education initiatives. Tim Owens."
+      },
+      "date": 1401299323440
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0683246c61b4a62d",
+        "text": ""
+      },
+      "id": "0683246c61b4a62d",
+      "type": "add",
+      "after": "4952470b3baaf4bb",
+      "date": 1401299323943
+    },
+    {
+      "type": "remove",
+      "id": "0683246c61b4a62d",
+      "date": 1401299325221
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "de756bc39a119ae9"
+      },
+      "id": "de756bc39a119ae9",
+      "type": "add",
+      "after": "4952470b3baaf4bb",
+      "date": 1401299441536
+    },
+    {
+      "type": "edit",
+      "id": "de756bc39a119ae9",
+      "item": {
+        "type": "pagefold",
+        "id": "de756bc39a119ae9",
+        "text": "Related Sites"
+      },
+      "date": 1401299449666
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "904b26d537325795"
+      },
+      "id": "904b26d537325795",
+      "type": "add",
+      "after": "de756bc39a119ae9",
+      "date": 1401299452130
+    },
+    {
+      "type": "edit",
+      "id": "904b26d537325795",
+      "item": {
+        "type": "reference",
+        "id": "904b26d537325795",
+        "site": "hhol.mike.fed.wiki.org",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "This collection of articles details some of the predecessors to today's online education initiatives. Curated by Mike Caulfield."
+      },
+      "date": 1401299453933
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "29c2336f3a6c34c2"
+      },
+      "id": "29c2336f3a6c34c2",
+      "type": "add",
+      "after": "904b26d537325795",
+      "date": 1401299705908
+    },
+    {
+      "type": "edit",
+      "id": "29c2336f3a6c34c2",
+      "item": {
+        "type": "reference",
+        "id": "29c2336f3a6c34c2",
+        "site": "sandbox.fed.wiki.org",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "This collection of articles details some of the predecessors to today's online education initiatives. Curated by Alan Levine."
+      },
+      "date": 1401299708754
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "668739b48f163882"
+      },
+      "id": "668739b48f163882",
+      "type": "add",
+      "after": "29c2336f3a6c34c2",
+      "date": 1401301083238
+    },
+    {
+      "type": "edit",
+      "id": "668739b48f163882",
+      "item": {
+        "type": "paragraph",
+        "id": "668739b48f163882",
+        "text": "[[DTLT 4 Life!]]"
+      },
+      "date": 1401301094268
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "95ea4d9b63eedf9e",
+        "text": ""
+      },
+      "id": "95ea4d9b63eedf9e",
+      "type": "add",
+      "after": "668739b48f163882",
+      "date": 1401301094783
+    },
+    {
+      "type": "remove",
+      "id": "95ea4d9b63eedf9e",
+      "date": 1401301104234
+    },
+    {
+      "type": "fork",
+      "site": "tim.sandbox.fed.wiki.org",
+      "date": 1401301184788
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cce8148e7ed89d71",
+        "text": " "
+      },
+      "id": "cce8148e7ed89d71",
+      "type": "add",
+      "after": "668739b48f163882",
+      "date": 1401301218695
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b0800b0468b07112",
+        "text": ""
+      },
+      "id": "b0800b0468b07112",
+      "type": "add",
+      "after": "cce8148e7ed89d71",
+      "date": 1401301218829
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1474f922750e2be4",
+        "text": ""
+      },
+      "id": "1474f922750e2be4",
+      "type": "add",
+      "after": "cce8148e7ed89d71",
+      "date": 1401301218838
+    },
+    {
+      "type": "remove",
+      "id": "1474f922750e2be4",
+      "date": 1401301220973
+    },
+    {
+      "type": "edit",
+      "id": "668739b48f163882",
+      "item": {
+        "type": "paragraph",
+        "id": "668739b48f163882",
+        "text": "[[DTLT 4 Life!]]  "
+      },
+      "date": 1401301224172
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "eb4f946337e1adf4",
+        "text": ""
+      },
+      "id": "eb4f946337e1adf4",
+      "type": "add",
+      "after": "668739b48f163882",
+      "date": 1401301224676
+    },
+    {
+      "type": "remove",
+      "id": "eb4f946337e1adf4",
+      "date": 1401301225715
+    },
+    {
+      "type": "edit",
+      "id": "668739b48f163882",
+      "item": {
+        "type": "paragraph",
+        "id": "668739b48f163882",
+        "text": "[[DTLT 4 Life!]] "
+      },
+      "date": 1401301235955
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "262efc790dbc6b69",
+        "text": ""
+      },
+      "id": "262efc790dbc6b69",
+      "type": "add",
+      "after": "668739b48f163882",
+      "date": 1401301236459
+    },
+    {
+      "type": "edit",
+      "id": "262efc790dbc6b69",
+      "item": {
+        "type": "paragraph",
+        "id": "262efc790dbc6b69",
+        "text": "[[Dogs Barking]]"
+      },
+      "date": 1401301244323
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "556f709555f94de7",
+        "text": ""
+      },
+      "id": "556f709555f94de7",
+      "type": "add",
+      "after": "262efc790dbc6b69",
+      "date": 1401301244828
+    },
+    {
+      "type": "remove",
+      "id": "556f709555f94de7",
+      "date": 1401301391775
+    },
+    {
+      "type": "fork",
+      "site": "sandbox.fed.wiki.org"
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "29c2336f3a6c34c2",
+        "site": "sandbox.fed.wiki.org",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "This collection of articles details some of the predecessors to today's online education initiatives. Curated by Alan Levine."
+      },
+      "id": "29c2336f3a6c34c2",
+      "date": 1401301718869
+    },
+    {
+      "type": "remove",
+      "id": "904b26d537325795",
+      "date": 1401304995798
+    },
+    {
+      "type": "remove",
+      "id": "29c2336f3a6c34c2",
+      "date": 1401304999453
+    },
+    {
+      "type": "edit",
+      "id": "4952470b3baaf4bb",
+      "item": {
+        "type": "paragraph",
+        "id": "4952470b3baaf4bb",
+        "text": "This collection of articles details some of the predecessors to today's online education initiatives. "
+      },
+      "date": 1401406174209
+    },
+    {
+      "type": "remove",
+      "id": "668739b48f163882",
+      "date": 1401406178765
+    },
+    {
+      "type": "remove",
+      "id": "262efc790dbc6b69",
+      "date": 1401406184776
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c75d6e71bee67e06",
+        "text": ""
+      },
+      "id": "c75d6e71bee67e06",
+      "type": "add",
+      "after": "4952470b3baaf4bb",
+      "date": 1401463844139
+    },
+    {
+      "type": "edit",
+      "id": "c75d6e71bee67e06",
+      "item": {
+        "type": "paragraph",
+        "id": "c75d6e71bee67e06",
+        "text": "[[Companies]]"
+      },
+      "date": 1401463854754
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "74d5215d5674cd56",
+        "text": ""
+      },
+      "id": "74d5215d5674cd56",
+      "type": "add",
+      "after": "c75d6e71bee67e06",
+      "date": 1401463855258
+    },
+    {
+      "type": "edit",
+      "id": "74d5215d5674cd56",
+      "item": {
+        "type": "paragraph",
+        "id": "74d5215d5674cd56",
+        "text": "[[Theorists]]"
+      },
+      "date": 1401463873089
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "18872d2d5bbff53d",
+        "text": ""
+      },
+      "id": "18872d2d5bbff53d",
+      "type": "add",
+      "after": "74d5215d5674cd56",
+      "date": 1401463873593
+    },
+    {
+      "type": "remove",
+      "id": "18872d2d5bbff53d",
+      "date": 1401463881936
+    },
+    {
+      "type": "edit",
+      "id": "c75d6e71bee67e06",
+      "item": {
+        "type": "paragraph",
+        "id": "c75d6e71bee67e06",
+        "text": "[[Companies, Institutions, and Projects]]"
+      },
+      "date": 1401470029353
+    },
+    {
+      "type": "fork",
+      "site": "hhol.mike.fed.wiki.org"
+    },
+    {
+      "type": "remove",
+      "id": "29c2336f3a6c34c2",
+      "date": 1401647533110
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f67c829054ccaecb"
+      },
+      "id": "f67c829054ccaecb",
+      "type": "add",
+      "after": "b0800b0468b07112",
+      "date": 1401679734650
+    },
+    {
+      "type": "edit",
+      "id": "f67c829054ccaecb",
+      "item": {
+        "type": "factory",
+        "id": "f67c829054ccaecb",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://audrey.hapgood.net:3000/\",\"types\":[\"text/plain\",\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 4,
+          "url": "http://audrey.hapgood.net:3000/",
+          "types": [
+            "text/plain",
+            "text/uri-list",
+            "text/html"
+          ],
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+        }
+      },
+      "date": 1401679741773
+    },
+    {
+      "type": "edit",
+      "id": "f67c829054ccaecb",
+      "item": {
+        "type": "factory",
+        "id": "f67c829054ccaecb",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://hhol.mike.fed.wiki.org/\",\"types\":[\"text/plain\",\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 4,
+          "url": "http://hhol.mike.fed.wiki.org/",
+          "types": [
+            "text/plain",
+            "text/uri-list",
+            "text/html"
+          ],
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+        }
+      },
+      "date": 1401679766858
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "904b26d537325795",
+        "site": "hhol.mike.fed.wiki.org",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "This collection of articles details some of the predecessors to today's online education initiatives. Curated by Mike Caulfield."
+      },
+      "after": "b0800b0468b07112",
+      "id": "904b26d537325795",
+      "date": 1401679842093
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "271d1e944535c2d5",
+        "site": "audrey.hapgood.net:3000",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "Audrey Watters Site"
+      },
+      "after": "904b26d537325795",
+      "id": "271d1e944535c2d5",
+      "date": 1401679895097
+    },
+    {
+      "type": "edit",
+      "id": "904b26d537325795",
+      "item": {
+        "type": "reference",
+        "id": "904b26d537325795",
+        "site": "hhol.mike.fed.wiki.org",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "Mike Caulfield"
+      },
+      "date": 1401679916868
+    },
+    {
+      "type": "edit",
+      "id": "271d1e944535c2d5",
+      "item": {
+        "type": "reference",
+        "id": "271d1e944535c2d5",
+        "site": "audrey.hapgood.net:3000",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "Audrey Watters"
+      },
+      "date": 1401679922876
+    },
+    {
+      "type": "edit",
+      "id": "de756bc39a119ae9",
+      "item": {
+        "type": "pagefold",
+        "id": "de756bc39a119ae9",
+        "text": "Federation"
+      },
+      "date": 1401679935613
+    },
+    {
+      "type": "move",
+      "order": [
+        "4952470b3baaf4bb",
+        "c75d6e71bee67e06",
+        "74d5215d5674cd56",
+        "de756bc39a119ae9",
+        "cce8148e7ed89d71",
+        "b0800b0468b07112",
+        "271d1e944535c2d5",
+        "904b26d537325795",
+        "f67c829054ccaecb"
+      ],
+      "id": "904b26d537325795",
+      "date": 1401679954247
+    },
+    {
+      "type": "edit",
+      "id": "904b26d537325795",
+      "item": {
+        "type": "reference",
+        "id": "904b26d537325795",
+        "site": "hhol.mike.fed.wiki.org",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "Mike Caulfield (HHOL)"
+      },
+      "date": 1401679967559
+    },
+    {
+      "type": "edit",
+      "id": "904b26d537325795",
+      "item": {
+        "type": "reference",
+        "id": "904b26d537325795",
+        "site": "hhol.mike.fed.wiki.org",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "Mike Caulfield (hhol.mike.fed.wiki.org)"
+      },
+      "date": 1401679998975
+    },
+    {
+      "type": "edit",
+      "id": "271d1e944535c2d5",
+      "item": {
+        "type": "reference",
+        "id": "271d1e944535c2d5",
+        "site": "audrey.hapgood.net:3000",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "Audrey Watters (audrey.hapgood.net)"
+      },
+      "date": 1401680020534
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "29c2336f3a6c34c2",
+        "site": "sandbox.fed.wiki.org",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "This collection of articles details some of the predecessors to today's online education initiatives. Curated by Alan Levine."
+      },
+      "after": "904b26d537325795",
+      "id": "29c2336f3a6c34c2",
+      "date": 1401680054108
+    },
+    {
+      "type": "edit",
+      "id": "29c2336f3a6c34c2",
+      "item": {
+        "type": "reference",
+        "id": "29c2336f3a6c34c2",
+        "site": "sandbox.fed.wiki.org",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "Sandbox (sandbox.fed.wiki.org)"
+      },
+      "date": 1401680086804
+    },
+    {
+      "type": "fork",
+      "site": "audrey.hapgood.net:3000",
+      "date": 1401680254250
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "761b5cf94027f6d8",
+        "text": ""
+      },
+      "id": "761b5cf94027f6d8",
+      "type": "add",
+      "after": "74d5215d5674cd56",
+      "date": 1401680398885
+    },
+    {
+      "type": "edit",
+      "id": "761b5cf94027f6d8",
+      "item": {
+        "type": "paragraph",
+        "id": "761b5cf94027f6d8",
+        "text": "[[Popular Treatments in Culture and Media]]"
+      },
+      "date": 1401680432352
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a0d13095106d1d8c",
+        "text": ""
+      },
+      "id": "a0d13095106d1d8c",
+      "type": "add",
+      "after": "761b5cf94027f6d8",
+      "date": 1401680432864
+    },
+    {
+      "type": "remove",
+      "id": "a0d13095106d1d8c",
+      "date": 1401680454356
+    },
+    {
+      "type": "fork",
+      "site": "hhol.mike.fed.wiki.org"
+    },
+    {
+      "type": "edit",
+      "id": "f67c829054ccaecb",
+      "item": {
+        "type": "paragraph",
+        "id": "f67c829054ccaecb",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://hhol.mike.fed.wiki.org/\",\"types\":[\"text/plain\",\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 4,
+          "url": "http://hhol.mike.fed.wiki.org/",
+          "types": [
+            "text/plain",
+            "text/uri-list",
+            "text/html"
+          ],
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+        },
+        "text": " "
+      },
+      "site": "hhol.mike.fed.wiki.org",
+      "date": 1401740878608
+    },
+    {
+      "type": "remove",
+      "id": "81e4afe15f3a56d3",
+      "date": 1401740878632
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "81e4afe15f3a56d3",
+        "text": ""
+      },
+      "id": "81e4afe15f3a56d3",
+      "type": "add",
+      "after": "f67c829054ccaecb",
+      "date": 1401740879127
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a39add8c41a67279",
+        "text": ""
+      },
+      "id": "a39add8c41a67279",
+      "type": "add",
+      "after": "f67c829054ccaecb",
+      "date": 1401740879139
+    },
+    {
+      "type": "remove",
+      "id": "a39add8c41a67279",
+      "date": 1401740882915
+    },
+    {
+      "type": "fork",
+      "date": 1401740895826
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4f68357e110b72c9",
+        "text": ""
+      },
+      "id": "4f68357e110b72c9",
+      "type": "add",
+      "after": "761b5cf94027f6d8",
+      "date": 1401743771596
+    },
+    {
+      "type": "edit",
+      "id": "4f68357e110b72c9",
+      "item": {
+        "type": "paragraph",
+        "id": "4f68357e110b72c9",
+        "text": "[[Machines and Software]]"
+      },
+      "date": 1401743783839
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8da4277c7fa737aa",
+        "text": ""
+      },
+      "id": "8da4277c7fa737aa",
+      "type": "add",
+      "after": "4f68357e110b72c9",
+      "date": 1401743784349
+    },
+    {
+      "type": "remove",
+      "id": "8da4277c7fa737aa",
+      "date": 1401743788184
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ea281a24e5ebded5",
+        "text": ""
+      },
+      "id": "ea281a24e5ebded5",
+      "type": "add",
+      "after": "74d5215d5674cd56",
+      "date": 1402084584924
+    },
+    {
+      "type": "edit",
+      "id": "ea281a24e5ebded5",
+      "item": {
+        "type": "paragraph",
+        "id": "ea281a24e5ebded5",
+        "text": "[[Related Precedents]]"
+      },
+      "date": 1402084602487
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "40a665a9699bb596",
+        "text": ""
+      },
+      "id": "40a665a9699bb596",
+      "type": "add",
+      "after": "ea281a24e5ebded5",
+      "date": 1402084602995
+    },
+    {
+      "type": "remove",
+      "id": "40a665a9699bb596",
+      "date": 1402084606551
+    },
+    {
+      "type": "remove",
+      "id": "904b26d537325795",
+      "date": 1402085835078
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "904b26d537325795",
+        "site": "hhol.mike.fed.wiki.org",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "Mike Caulfield (hhol.mike.fed.wiki.org)"
+      },
+      "after": "271d1e944535c2d5",
+      "id": "904b26d537325795",
+      "date": 1402085849974
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d5ba504d5a04814e"
+      },
+      "id": "d5ba504d5a04814e",
+      "type": "add",
+      "after": "a39add8c41a67279",
+      "date": 1402085902310
+    },
+    {
+      "type": "edit",
+      "id": "d5ba504d5a04814e",
+      "item": {
+        "type": "reference",
+        "id": "d5ba504d5a04814e",
+        "site": "mike.hapgood.net:3000",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "This collection of articles details some of the predecessors to today's online education initiatives. "
+      },
+      "date": 1402085908690
+    },
+    {
+      "type": "fork",
+      "site": "hhol.mike.fed.wiki.org",
+      "date": 1402089982059
+    },
+    {
+      "type": "fork",
+      "site": "mike.hapgood.net:3000",
+      "date": 1402171057795
+    },
+    {
+      "type": "edit",
+      "id": "d5ba504d5a04814e",
+      "item": {
+        "type": "reference",
+        "id": "d5ba504d5a04814e",
+        "site": "mike.hapgood.net:3000",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "Hapgood"
+      },
+      "date": 1402171256171
+    },
+    {
+      "type": "edit",
+      "id": "de756bc39a119ae9",
+      "item": {
+        "type": "pagefold",
+        "id": "de756bc39a119ae9",
+        "text": "Curators/Authors"
+      },
+      "date": 1402171324053
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e11302a3fdfb9c14"
+      },
+      "id": "e11302a3fdfb9c14",
+      "type": "add",
+      "after": "d5ba504d5a04814e",
+      "date": 1402171356856
+    },
+    {
+      "type": "edit",
+      "id": "e11302a3fdfb9c14",
+      "item": {
+        "type": "factory",
+        "id": "e11302a3fdfb9c14",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://bava.hapgood.net:3000/\",\"types\":[\"text/plain\",\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 4,
+          "url": "http://bava.hapgood.net:3000/",
+          "types": [
+            "text/plain",
+            "text/uri-list",
+            "text/html"
+          ],
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+        }
+      },
+      "date": 1402171362909
+    },
+    {
+      "type": "edit",
+      "id": "e11302a3fdfb9c14",
+      "item": {
+        "type": "reference",
+        "id": "e11302a3fdfb9c14",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://bava.hapgood.net:3000/\",\"types\":[\"text/plain\",\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 4,
+          "url": "http://bava.hapgood.net:3000/",
+          "types": [
+            "text/plain",
+            "text/uri-list",
+            "text/html"
+          ],
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+        },
+        "site": "bava.hapgood.net:3000",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "This collection of articles details some of the predecessors to today's online education initiatives. "
+      },
+      "date": 1402171375185
+    },
+    {
+      "type": "edit",
+      "id": "e11302a3fdfb9c14",
+      "item": {
+        "type": "reference",
+        "id": "e11302a3fdfb9c14",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://bava.hapgood.net:3000/\",\"types\":[\"text/plain\",\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 4,
+          "url": "http://bava.hapgood.net:3000/",
+          "types": [
+            "text/plain",
+            "text/uri-list",
+            "text/html"
+          ],
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+        },
+        "site": "bava.hapgood.net:3000",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "Jim Groom"
+      },
+      "date": 1402171394224
+    },
+    {
+      "type": "fork",
+      "site": "bava.hapgood.net:3000",
+      "date": 1402181071017
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e0bf2c2c570d9d22"
+      },
+      "id": "e0bf2c2c570d9d22",
+      "type": "add",
+      "after": "e11302a3fdfb9c14",
+      "date": 1402242630084
+    },
+    {
+      "type": "edit",
+      "id": "e0bf2c2c570d9d22",
+      "item": {
+        "type": "reference",
+        "id": "e0bf2c2c570d9d22",
+        "site": "bava.hapgood.net:3000",
+        "slug": "jim-groom",
+        "title": "Jim Groom",
+        "text": "Jim is Director of Something or Other at UMW. He recently wrote a pretty rad article with Brian Lamb on why we need to move away from enterprise learning technologies."
+      },
+      "date": 1402242639824
+    },
+    {
+      "type": "remove",
+      "id": "e11302a3fdfb9c14",
+      "date": 1402242648134
+    },
+    {
+      "type": "edit",
+      "id": "e0bf2c2c570d9d22",
+      "item": {
+        "type": "reference",
+        "id": "e0bf2c2c570d9d22",
+        "site": "bava.hapgood.net:3000",
+        "slug": "jim-groom",
+        "title": "Jim Groom",
+        "text": "Jim Groom"
+      },
+      "date": 1402242660963
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6816a054febf7992"
+      },
+      "id": "6816a054febf7992",
+      "type": "add",
+      "after": "e0bf2c2c570d9d22",
+      "date": 1402242709744
+    },
+    {
+      "type": "edit",
+      "id": "6816a054febf7992",
+      "item": {
+        "type": "reference",
+        "id": "6816a054febf7992",
+        "site": "hhol.mike.fed.wiki.org",
+        "slug": "mike-caulfield",
+        "title": "Mike Caulfield",
+        "text": "Mike Caulfield has been working in online education since 1997. He is an education dot com survivor. "
+      },
+      "date": 1402242714507
+    },
+    {
+      "type": "edit",
+      "id": "6816a054febf7992",
+      "item": {
+        "type": "reference",
+        "id": "6816a054febf7992",
+        "site": "hhol.mike.fed.wiki.org",
+        "slug": "mike-caulfield",
+        "title": "Mike Caulfield",
+        "text": "Mike Caulfield "
+      },
+      "date": 1402242723038
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fcec1b1c9f8f103a"
+      },
+      "id": "fcec1b1c9f8f103a",
+      "type": "add",
+      "after": "6816a054febf7992",
+      "date": 1402242796185
+    },
+    {
+      "type": "edit",
+      "id": "fcec1b1c9f8f103a",
+      "item": {
+        "type": "reference",
+        "id": "fcec1b1c9f8f103a",
+        "site": "audrey.hapgood.net:3000",
+        "slug": "audrey-watters",
+        "title": "Audrey Watters",
+        "text": "Audrey Watters is an education writer, working on a book on this history of [http://teachingmachin.es teaching machines]. She blogs at [http://hackeducation.com Hack Education] but picks fights all across the Internet."
+      },
+      "date": 1402242803102
+    },
+    {
+      "type": "edit",
+      "id": "fcec1b1c9f8f103a",
+      "item": {
+        "type": "reference",
+        "id": "fcec1b1c9f8f103a",
+        "site": "audrey.hapgood.net:3000",
+        "slug": "audrey-watters",
+        "title": "Audrey Watters",
+        "text": "Audrey Watters "
+      },
+      "date": 1402242810576
+    },
+    {
+      "type": "remove",
+      "id": "271d1e944535c2d5",
+      "date": 1402242818513
+    },
+    {
+      "type": "remove",
+      "id": "904b26d537325795",
+      "date": 1402242854703
+    },
+    {
+      "type": "remove",
+      "id": "29c2336f3a6c34c2",
+      "date": 1402242888609
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "97c58cdc21906e3a",
+        "text": ""
+      },
+      "id": "97c58cdc21906e3a",
+      "type": "add",
+      "after": "4f68357e110b72c9",
+      "date": 1402243123489
+    },
+    {
+      "type": "edit",
+      "id": "97c58cdc21906e3a",
+      "item": {
+        "type": "paragraph",
+        "id": "97c58cdc21906e3a",
+        "text": "[[Miscellaneous]]"
+      },
+      "date": 1402243137835
+    },
+    {
+      "type": "fork",
+      "site": "hhol.mike.fed.wiki.org",
+      "date": 1402247030258
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ac6cc5aec64c43f7"
+      },
+      "id": "ac6cc5aec64c43f7",
+      "type": "add",
+      "after": "fcec1b1c9f8f103a",
+      "date": 1402247169587
+    },
+    {
+      "type": "edit",
+      "id": "ac6cc5aec64c43f7",
+      "item": {
+        "type": "factory",
+        "id": "ac6cc5aec64c43f7",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://amberman.hapgood.net:3000/\",\"types\":[\"text/plain\",\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 4,
+          "url": "http://amberman.hapgood.net:3000/",
+          "types": [
+            "text/plain",
+            "text/uri-list",
+            "text/html"
+          ],
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+        }
+      },
+      "date": 1402247175586
+    },
+    {
+      "type": "edit",
+      "id": "ac6cc5aec64c43f7",
+      "item": {
+        "type": "reference",
+        "id": "ac6cc5aec64c43f7",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://amberman.hapgood.net:3000/\",\"types\":[\"text/plain\",\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 4,
+          "url": "http://amberman.hapgood.net:3000/",
+          "types": [
+            "text/plain",
+            "text/uri-list",
+            "text/html"
+          ],
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+        },
+        "site": "amberman.hapgood.net:3000",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "This collection of articles details some of the predecessors to today's online education initiatives. "
+      },
+      "date": 1402247180902
+    },
+    {
+      "type": "remove",
+      "id": "ac6cc5aec64c43f7",
+      "date": 1402247206512
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7783d7933a7dcfe2"
+      },
+      "id": "7783d7933a7dcfe2",
+      "type": "add",
+      "after": "fcec1b1c9f8f103a",
+      "date": 1402247209398
+    },
+    {
+      "type": "edit",
+      "id": "7783d7933a7dcfe2",
+      "item": {
+        "type": "reference",
+        "id": "7783d7933a7dcfe2",
+        "site": "amberman.hapgood.net:3000",
+        "slug": "a-michael-berman",
+        "title": "A. Michael Berman",
+        "text": "One paragraph bio here, plus links to relevant sites."
+      },
+      "date": 1402247302470
+    },
+    {
+      "type": "edit",
+      "id": "7783d7933a7dcfe2",
+      "item": {
+        "type": "reference",
+        "id": "7783d7933a7dcfe2",
+        "site": "amberman.hapgood.net:3000",
+        "slug": "a-michael-berman",
+        "title": "A. Michael Berman",
+        "text": "Michael Berman (amberman)"
+      },
+      "date": 1402247322880
+    },
+    {
+      "type": "edit",
+      "id": "fcec1b1c9f8f103a",
+      "item": {
+        "type": "reference",
+        "id": "fcec1b1c9f8f103a",
+        "site": "audrey.hapgood.net:3000",
+        "slug": "audrey-watters",
+        "title": "Audrey Watters",
+        "text": "Audrey Watters (audrey)"
+      },
+      "date": 1402247335336
+    },
+    {
+      "type": "edit",
+      "id": "6816a054febf7992",
+      "item": {
+        "type": "reference",
+        "id": "6816a054febf7992",
+        "site": "hhol.mike.fed.wiki.org",
+        "slug": "mike-caulfield",
+        "title": "Mike Caulfield",
+        "text": "Mike Caulfield (hhol)"
+      },
+      "date": 1402247343107
+    },
+    {
+      "type": "move",
+      "order": [
+        "4952470b3baaf4bb",
+        "c75d6e71bee67e06",
+        "74d5215d5674cd56",
+        "ea281a24e5ebded5",
+        "761b5cf94027f6d8",
+        "4f68357e110b72c9",
+        "97c58cdc21906e3a",
+        "cce8148e7ed89d71",
+        "b0800b0468b07112",
+        "f67c829054ccaecb",
+        "de756bc39a119ae9",
+        "a39add8c41a67279",
+        "d5ba504d5a04814e",
+        "e0bf2c2c570d9d22",
+        "6816a054febf7992",
+        "fcec1b1c9f8f103a",
+        "7783d7933a7dcfe2"
+      ],
+      "id": "de756bc39a119ae9",
+      "date": 1402247350125
+    },
+    {
+      "type": "edit",
+      "id": "e0bf2c2c570d9d22",
+      "item": {
+        "type": "reference",
+        "id": "e0bf2c2c570d9d22",
+        "site": "bava.hapgood.net:3000",
+        "slug": "jim-groom",
+        "title": "Jim Groom",
+        "text": "Jim Groom (bava)"
+      },
+      "date": 1402247350454
+    },
+    {
+      "type": "edit",
+      "id": "d5ba504d5a04814e",
+      "item": {
+        "type": "reference",
+        "id": "d5ba504d5a04814e",
+        "site": "mike.hapgood.net:3000",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "Hapgood (mike)"
+      },
+      "date": 1402247361208
+    },
+    {
+      "type": "fork",
+      "site": "amberman.hapgood.net:3000",
+      "date": 1402247547945
+    },
+    {
+      "type": "fork",
+      "site": "hhol.mike.fed.wiki.org",
+      "date": 1402288070441
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6f23594893616b3b"
+      },
+      "id": "6f23594893616b3b",
+      "type": "add",
+      "after": "7783d7933a7dcfe2",
+      "date": 1402288149829
+    },
+    {
+      "type": "edit",
+      "id": "6f23594893616b3b",
+      "item": {
+        "type": "factory",
+        "id": "6f23594893616b3b",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://rolin.hapgood.net:3000/\",\"types\":[\"text/plain\",\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 4,
+          "url": "http://rolin.hapgood.net:3000/",
+          "types": [
+            "text/plain",
+            "text/uri-list",
+            "text/html"
+          ],
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+        }
+      },
+      "date": 1402288154636
+    },
+    {
+      "type": "edit",
+      "id": "6f23594893616b3b",
+      "item": {
+        "type": "reference",
+        "id": "6f23594893616b3b",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://rolin.hapgood.net:3000/\",\"types\":[\"text/plain\",\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 4,
+          "url": "http://rolin.hapgood.net:3000/",
+          "types": [
+            "text/plain",
+            "text/uri-list",
+            "text/html"
+          ],
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+        },
+        "site": "rolin.hapgood.net:3000",
+        "slug": "rolin-moe",
+        "title": "Rolin Moe",
+        "text": "A page with 0 items."
+      },
+      "date": 1402288168479
+    },
+    {
+      "type": "edit",
+      "id": "6f23594893616b3b",
+      "item": {
+        "type": "reference",
+        "id": "6f23594893616b3b",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://rolin.hapgood.net:3000/\",\"types\":[\"text/plain\",\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 4,
+          "url": "http://rolin.hapgood.net:3000/",
+          "types": [
+            "text/plain",
+            "text/uri-list",
+            "text/html"
+          ],
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+        },
+        "site": "rolin.hapgood.net:3000",
+        "slug": "rolin-moe",
+        "title": "Rolin Moe",
+        "text": "Rolin Moe (rolin)"
+      },
+      "date": 1402288192993
+    },
+    {
+      "type": "move",
+      "order": [
+        "4952470b3baaf4bb",
+        "c75d6e71bee67e06",
+        "74d5215d5674cd56",
+        "ea281a24e5ebded5",
+        "761b5cf94027f6d8",
+        "4f68357e110b72c9",
+        "97c58cdc21906e3a",
+        "cce8148e7ed89d71",
+        "b0800b0468b07112",
+        "f67c829054ccaecb",
+        "a39add8c41a67279",
+        "de756bc39a119ae9",
+        "d5ba504d5a04814e",
+        "e0bf2c2c570d9d22",
+        "6816a054febf7992",
+        "fcec1b1c9f8f103a",
+        "7783d7933a7dcfe2",
+        "6f23594893616b3b"
+      ],
+      "id": "de756bc39a119ae9",
+      "date": 1402288243295
+    },
+    {
+      "type": "edit",
+      "id": "de756bc39a119ae9",
+      "item": {
+        "type": "pagefold",
+        "id": "de756bc39a119ae9",
+        "text": "Architects/Authors"
+      },
+      "date": 1402288267357
+    },
+    {
+      "type": "edit",
+      "id": "de756bc39a119ae9",
+      "item": {
+        "type": "pagefold",
+        "id": "de756bc39a119ae9",
+        "text": "Editors/Authors"
+      },
+      "date": 1402289198896
+    },
+    {
+      "type": "fork",
+      "site": "rolin.hapgood.net:3000",
+      "date": 1402290014975
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9b6f415012e1816b",
+        "text": ""
+      },
+      "id": "9b6f415012e1816b",
+      "type": "add",
+      "after": "4952470b3baaf4bb",
+      "date": 1402354614006
+    },
+    {
+      "type": "edit",
+      "id": "9b6f415012e1816b",
+      "item": {
+        "type": "paragraph",
+        "id": "9b6f415012e1816b",
+        "text": "[[How to Participate]]"
+      },
+      "date": 1402354627875
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e11ee51b29cbc03a",
+        "text": ""
+      },
+      "id": "e11ee51b29cbc03a",
+      "type": "add",
+      "after": "9b6f415012e1816b",
+      "date": 1402354628379
+    },
+    {
+      "type": "remove",
+      "id": "e11ee51b29cbc03a",
+      "date": 1402354636313
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2c28a24692f45ea6"
+      },
+      "id": "2c28a24692f45ea6",
+      "type": "add",
+      "after": "6f23594893616b3b",
+      "date": 1402354636350
+    },
+    {
+      "type": "edit",
+      "id": "2c28a24692f45ea6",
+      "item": {
+        "type": "pagefold",
+        "id": "2c28a24692f45ea6",
+        "text": "Topics"
+      },
+      "date": 1402354648029
+    },
+    {
+      "type": "move",
+      "order": [
+        "4952470b3baaf4bb",
+        "9b6f415012e1816b",
+        "2c28a24692f45ea6",
+        "c75d6e71bee67e06",
+        "74d5215d5674cd56",
+        "ea281a24e5ebded5",
+        "761b5cf94027f6d8",
+        "4f68357e110b72c9",
+        "97c58cdc21906e3a",
+        "cce8148e7ed89d71",
+        "b0800b0468b07112",
+        "f67c829054ccaecb",
+        "a39add8c41a67279",
+        "de756bc39a119ae9",
+        "d5ba504d5a04814e",
+        "e0bf2c2c570d9d22",
+        "6816a054febf7992",
+        "fcec1b1c9f8f103a",
+        "7783d7933a7dcfe2",
+        "6f23594893616b3b"
+      ],
+      "id": "2c28a24692f45ea6",
+      "date": 1402354652205
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e39560c91160baa3"
+      },
+      "id": "e39560c91160baa3",
+      "type": "add",
+      "after": "6f23594893616b3b",
+      "date": 1402354665356
+    },
+    {
+      "type": "edit",
+      "id": "e39560c91160baa3",
+      "item": {
+        "type": "pagefold",
+        "id": "e39560c91160baa3",
+        "text": "Intstructions"
+      },
+      "date": 1402354675983
+    },
+    {
+      "type": "move",
+      "order": [
+        "4952470b3baaf4bb",
+        "e39560c91160baa3",
+        "9b6f415012e1816b",
+        "2c28a24692f45ea6",
+        "c75d6e71bee67e06",
+        "74d5215d5674cd56",
+        "ea281a24e5ebded5",
+        "761b5cf94027f6d8",
+        "4f68357e110b72c9",
+        "97c58cdc21906e3a",
+        "cce8148e7ed89d71",
+        "b0800b0468b07112",
+        "f67c829054ccaecb",
+        "a39add8c41a67279",
+        "de756bc39a119ae9",
+        "d5ba504d5a04814e",
+        "e0bf2c2c570d9d22",
+        "6816a054febf7992",
+        "fcec1b1c9f8f103a",
+        "7783d7933a7dcfe2",
+        "6f23594893616b3b"
+      ],
+      "id": "e39560c91160baa3",
+      "date": 1402354679906
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3534734597d3e480",
+        "text": ""
+      },
+      "id": "3534734597d3e480",
+      "type": "add",
+      "after": "4952470b3baaf4bb",
+      "date": 1402597881326
+    },
+    {
+      "type": "edit",
+      "id": "3534734597d3e480",
+      "item": {
+        "type": "paragraph",
+        "id": "3534734597d3e480",
+        "text": "[[Recent Changes]]"
+      },
+      "date": 1402597893639
+    },
+    {
+      "type": "move",
+      "order": [
+        "4952470b3baaf4bb",
+        "e39560c91160baa3",
+        "9b6f415012e1816b",
+        "3534734597d3e480",
+        "2c28a24692f45ea6",
+        "c75d6e71bee67e06",
+        "74d5215d5674cd56",
+        "ea281a24e5ebded5",
+        "761b5cf94027f6d8",
+        "4f68357e110b72c9",
+        "97c58cdc21906e3a",
+        "cce8148e7ed89d71",
+        "b0800b0468b07112",
+        "f67c829054ccaecb",
+        "a39add8c41a67279",
+        "de756bc39a119ae9",
+        "d5ba504d5a04814e",
+        "e0bf2c2c570d9d22",
+        "6816a054febf7992",
+        "fcec1b1c9f8f103a",
+        "7783d7933a7dcfe2",
+        "6f23594893616b3b"
+      ],
+      "id": "3534734597d3e480",
+      "date": 1402597896996
+    },
+    {
+      "type": "edit",
+      "id": "e39560c91160baa3",
+      "item": {
+        "type": "pagefold",
+        "id": "e39560c91160baa3",
+        "text": "Intstructions and Tools"
+      },
+      "date": 1402597904944
+    },
+    {
+      "type": "fork",
+      "site": "hhol.mike.fed.wiki.org",
+      "date": 1402633516958
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d51618b04eb9ccc4",
+        "text": ""
+      },
+      "id": "d51618b04eb9ccc4",
+      "type": "add",
+      "after": "4952470b3baaf4bb",
+      "date": 1402672849194
+    },
+    {
+      "type": "edit",
+      "id": "d51618b04eb9ccc4",
+      "item": {
+        "type": "paragraph",
+        "id": "d51618b04eb9ccc4",
+        "text": "Let us know that you are working on this project by tweeting your site url to #hhol."
+      },
+      "date": 1402672922610
+    },
+    {
+      "type": "edit",
+      "id": "d51618b04eb9ccc4",
+      "item": {
+        "type": "paragraph",
+        "id": "d51618b04eb9ccc4",
+        "text": "Let us know that you are working on this project by tweeting your site url with the #hhol hash tag."
+      },
+      "date": 1402672945767
+    },
+    {
+      "type": "edit",
+      "id": "d51618b04eb9ccc4",
+      "item": {
+        "type": "paragraph",
+        "id": "d51618b04eb9ccc4",
+        "text": "Let us know that you are working on this project by tweeting your site url with the #hhol hash tag (or just tweet out major edits you make). "
+      },
+      "date": 1402673036552
+    },
+    {
+      "type": "move",
+      "order": [
+        "4952470b3baaf4bb",
+        "e39560c91160baa3",
+        "d51618b04eb9ccc4",
+        "9b6f415012e1816b",
+        "3534734597d3e480",
+        "2c28a24692f45ea6",
+        "c75d6e71bee67e06",
+        "74d5215d5674cd56",
+        "ea281a24e5ebded5",
+        "761b5cf94027f6d8",
+        "4f68357e110b72c9",
+        "97c58cdc21906e3a",
+        "cce8148e7ed89d71",
+        "b0800b0468b07112",
+        "f67c829054ccaecb",
+        "a39add8c41a67279",
+        "de756bc39a119ae9",
+        "d5ba504d5a04814e",
+        "e0bf2c2c570d9d22",
+        "6816a054febf7992",
+        "fcec1b1c9f8f103a",
+        "7783d7933a7dcfe2",
+        "6f23594893616b3b"
+      ],
+      "id": "d51618b04eb9ccc4",
+      "date": 1402673047720
+    },
+    {
+      "type": "fork",
+      "site": "mike.hapgood.net:3000",
+      "date": 1402673396208
+    },
+    {
+      "type": "edit",
+      "id": "e39560c91160baa3",
+      "item": {
+        "type": "pagefold",
+        "id": "e39560c91160baa3",
+        "text": "Instructions and Tools"
+      },
+      "date": 1402673415025
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c9f5675b14b5f72e"
+      },
+      "id": "c9f5675b14b5f72e",
+      "type": "add",
+      "after": "6f23594893616b3b",
+      "date": 1402673483188
+    },
+    {
+      "type": "edit",
+      "id": "c9f5675b14b5f72e",
+      "item": {
+        "type": "factory",
+        "id": "c9f5675b14b5f72e",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://gardner.hapgood.net:3000/\",\"types\":[\"text/plain\",\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 4,
+          "url": "http://gardner.hapgood.net:3000/",
+          "types": [
+            "text/plain",
+            "text/uri-list",
+            "text/html"
+          ],
+          "userAgent": "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+        }
+      },
+      "date": 1402673492555
+    },
+    {
+      "type": "edit",
+      "id": "c9f5675b14b5f72e",
+      "item": {
+        "type": "reference",
+        "id": "c9f5675b14b5f72e",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://gardner.hapgood.net:3000/\",\"types\":[\"text/plain\",\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 4,
+          "url": "http://gardner.hapgood.net:3000/",
+          "types": [
+            "text/plain",
+            "text/uri-list",
+            "text/html"
+          ],
+          "userAgent": "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+        },
+        "site": "gardner.hapgood.net:3000",
+        "slug": "gardner-campbell",
+        "title": "Gardner Campbell",
+        "text": "Gardner is an edtech god."
+      },
+      "date": 1402673579186
+    },
+    {
+      "type": "fork",
+      "site": "gardner.hapgood.net:3000",
+      "date": 1402677540005
+    },
+    {
+      "type": "edit",
+      "id": "de756bc39a119ae9",
+      "item": {
+        "type": "pagefold",
+        "id": "de756bc39a119ae9",
+        "text": "Editors/Authors I Follow"
+      },
+      "date": 1402678316255
+    },
+    {
+      "type": "fork",
+      "site": "mike.hapgood.net:3000"
+    },
+    {
+      "type": "edit",
+      "id": "c9f5675b14b5f72e",
+      "item": {
+        "type": "reference",
+        "id": "c9f5675b14b5f72e",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://gardner.hapgood.net:3000/\",\"types\":[\"text/plain\",\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 4,
+          "url": "http://gardner.hapgood.net:3000/",
+          "types": [
+            "text/plain",
+            "text/uri-list",
+            "text/html"
+          ],
+          "userAgent": "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+        },
+        "site": "gardner.hapgood.net:3000",
+        "slug": "gardner-campbell",
+        "title": "Gardner Campbell",
+        "text": "Gardner Campbell (gardner)"
+      },
+      "date": 1402693141710
+    },
+    {
+      "type": "fork",
+      "site": "hhol.mike.fed.wiki.org",
+      "date": 1402725288866
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "60e1ab325e0479c3"
+      },
+      "id": "60e1ab325e0479c3",
+      "type": "add",
+      "after": "c9f5675b14b5f72e",
+      "date": 1402725325928
+    },
+    {
+      "type": "edit",
+      "id": "60e1ab325e0479c3",
+      "item": {
+        "type": "reference",
+        "id": "60e1ab325e0479c3",
+        "site": "lott.hhol.hapgood.net:3000",
+        "slug": "chris-lott",
+        "title": "Chris Lott",
+        "text": "A page with 0 items."
+      },
+      "date": 1402725334221
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7fecd4b0c2f95824"
+      },
+      "id": "7fecd4b0c2f95824",
+      "type": "add",
+      "after": "60e1ab325e0479c3",
+      "date": 1402725837700
+    },
+    {
+      "type": "edit",
+      "id": "7fecd4b0c2f95824",
+      "item": {
+        "type": "reference",
+        "id": "7fecd4b0c2f95824",
+        "site": "jon.hapgood.net:3000",
+        "slug": "jon-udell",
+        "title": "Jon Udell",
+        "text": "Jon is not an educational technologist, but   he is an honorary member of the tribe."
+      },
+      "date": 1402725844812
+    },
+    {
+      "type": "fork",
+      "site": "lott.hhol.hapgood.net:3000",
+      "date": 1402784927067
+    },
+    {
+      "type": "fork",
+      "site": "mike.hapgood.net:3000",
+      "date": 1402784987340
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "29481d8eb1894580"
+      },
+      "id": "29481d8eb1894580",
+      "type": "add",
+      "after": "7fecd4b0c2f95824",
+      "date": 1402785107327
+    },
+    {
+      "type": "edit",
+      "id": "29481d8eb1894580",
+      "item": {
+        "type": "reference",
+        "id": "29481d8eb1894580",
+        "site": "gv.hhol.hapgood.net:3000",
+        "slug": "george-veletsianos",
+        "title": "George Veletsianos",
+        "text": "George Veletsianos"
+      },
+      "date": 1402785115236
+    },
+    {
+      "type": "edit",
+      "id": "29481d8eb1894580",
+      "item": {
+        "type": "reference",
+        "id": "29481d8eb1894580",
+        "site": "gv.hhol.hapgood.net:3000",
+        "slug": "george-veletsianos",
+        "title": "George Veletsianos",
+        "text": "George Veletsianos (gv)"
+      },
+      "date": 1402785128821
+    },
+    {
+      "type": "edit",
+      "id": "60e1ab325e0479c3",
+      "item": {
+        "type": "reference",
+        "id": "60e1ab325e0479c3",
+        "site": "lott.hhol.hapgood.net:3000",
+        "slug": "chris-lott",
+        "title": "Chris Lott",
+        "text": "Chris Lott"
+      },
+      "date": 1402785217095
+    },
+    {
+      "type": "edit",
+      "id": "60e1ab325e0479c3",
+      "item": {
+        "type": "reference",
+        "id": "60e1ab325e0479c3",
+        "site": "lott.hhol.hapgood.net:3000",
+        "slug": "chris-lott",
+        "title": "Chris Lott",
+        "text": "Chris Lott (lott)"
+      },
+      "date": 1402785253024
+    },
+    {
+      "type": "fork",
+      "site": "gv.hhol.hapgood.net:3000",
+      "date": 1402785299905
+    },
+    {
+      "type": "fork",
+      "date": 1402785328900
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "08a5f4cdc8a06b43"
+      },
+      "id": "08a5f4cdc8a06b43",
+      "type": "add",
+      "after": "29481d8eb1894580",
+      "date": 1402880195603
+    },
+    {
+      "type": "edit",
+      "id": "08a5f4cdc8a06b43",
+      "item": {
+        "type": "reference",
+        "id": "08a5f4cdc8a06b43",
+        "site": "cog.hhol.hapgood.net:3000",
+        "slug": "alan-levine",
+        "title": "Alan Levine",
+        "text": "A page with 0 items."
+      },
+      "date": 1402880215708
+    },
+    {
+      "type": "edit",
+      "id": "08a5f4cdc8a06b43",
+      "item": {
+        "type": "reference",
+        "id": "08a5f4cdc8a06b43",
+        "site": "cog.hhol.hapgood.net:3000",
+        "slug": "alan-levine",
+        "title": "Alan Levine",
+        "text": "Cogdog"
+      },
+      "date": 1402880247986
+    },
+    {
+      "type": "fork",
+      "site": "hhol.mike.fed.wiki.org",
+      "date": 1403032220418
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "49f378e223332337"
+      },
+      "id": "49f378e223332337",
+      "type": "add",
+      "after": "08a5f4cdc8a06b43",
+      "date": 1403032267966
+    },
+    {
+      "type": "edit",
+      "id": "49f378e223332337",
+      "item": {
+        "type": "reference",
+        "id": "49f378e223332337",
+        "site": "eric.hhol.hapgood.net:3000",
+        "slug": "eric-likness",
+        "title": "Eric Likness",
+        "text": "Eric Likness (eric)"
+      },
+      "date": 1403032286454
+    },
+    {
+      "type": "move",
+      "order": [
+        "4952470b3baaf4bb",
+        "e39560c91160baa3",
+        "d51618b04eb9ccc4",
+        "9b6f415012e1816b",
+        "3534734597d3e480",
+        "2c28a24692f45ea6",
+        "c75d6e71bee67e06",
+        "74d5215d5674cd56",
+        "ea281a24e5ebded5",
+        "761b5cf94027f6d8",
+        "4f68357e110b72c9",
+        "97c58cdc21906e3a",
+        "cce8148e7ed89d71",
+        "b0800b0468b07112",
+        "f67c829054ccaecb",
+        "a39add8c41a67279",
+        "de756bc39a119ae9",
+        "d5ba504d5a04814e",
+        "e0bf2c2c570d9d22",
+        "6816a054febf7992",
+        "fcec1b1c9f8f103a",
+        "7783d7933a7dcfe2",
+        "6f23594893616b3b",
+        "c9f5675b14b5f72e",
+        "60e1ab325e0479c3",
+        "7fecd4b0c2f95824",
+        "29481d8eb1894580",
+        "49f378e223332337",
+        "08a5f4cdc8a06b43"
+      ],
+      "id": "49f378e223332337",
+      "date": 1403033219689
+    },
+    {
+      "type": "move",
+      "order": [
+        "4952470b3baaf4bb",
+        "e39560c91160baa3",
+        "d51618b04eb9ccc4",
+        "9b6f415012e1816b",
+        "3534734597d3e480",
+        "2c28a24692f45ea6",
+        "c75d6e71bee67e06",
+        "74d5215d5674cd56",
+        "ea281a24e5ebded5",
+        "761b5cf94027f6d8",
+        "4f68357e110b72c9",
+        "97c58cdc21906e3a",
+        "cce8148e7ed89d71",
+        "b0800b0468b07112",
+        "f67c829054ccaecb",
+        "a39add8c41a67279",
+        "de756bc39a119ae9",
+        "d5ba504d5a04814e",
+        "e0bf2c2c570d9d22",
+        "6816a054febf7992",
+        "fcec1b1c9f8f103a",
+        "7783d7933a7dcfe2",
+        "6f23594893616b3b",
+        "c9f5675b14b5f72e",
+        "60e1ab325e0479c3",
+        "7fecd4b0c2f95824",
+        "29481d8eb1894580",
+        "08a5f4cdc8a06b43",
+        "49f378e223332337"
+      ],
+      "id": "49f378e223332337",
+      "date": 1403033226639
+    },
+    {
+      "type": "fork",
+      "site": "eric.hhol.hapgood.net:3000",
+      "date": 1403036692486
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "0cbb4ef5f5d7e472",
+        "text": "Look for the <i>claim</i> button below this page. If you have your own OpenID you can use it to claim these pages so that only you can edit them. If you have a Google account you can use that too. Press the (G) button. Press the (Y) button to use your Yahoo account. You get the idea."
+      },
+      "after": "ea281a24e5ebded5",
+      "id": "0cbb4ef5f5d7e472",
+      "date": 1403036748327
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "acf611e16ef18a0c"
+      },
+      "id": "acf611e16ef18a0c",
+      "type": "add",
+      "after": "49f378e223332337",
+      "date": 1403036880399
+    },
+    {
+      "type": "edit",
+      "id": "acf611e16ef18a0c",
+      "item": {
+        "type": "reference",
+        "id": "acf611e16ef18a0c",
+        "site": "jason.hhol.hapgood.net:3000",
+        "slug": "jason-green",
+        "title": "Jason Green",
+        "text": "Jason Green (jason)"
+      },
+      "date": 1403036886421
+    },
+    {
+      "type": "move",
+      "order": [
+        "4952470b3baaf4bb",
+        "e39560c91160baa3",
+        "d51618b04eb9ccc4",
+        "9b6f415012e1816b",
+        "3534734597d3e480",
+        "2c28a24692f45ea6",
+        "c75d6e71bee67e06",
+        "74d5215d5674cd56",
+        "ea281a24e5ebded5",
+        "761b5cf94027f6d8",
+        "4f68357e110b72c9",
+        "97c58cdc21906e3a",
+        "0cbb4ef5f5d7e472",
+        "cce8148e7ed89d71",
+        "b0800b0468b07112",
+        "f67c829054ccaecb",
+        "a39add8c41a67279",
+        "de756bc39a119ae9",
+        "d5ba504d5a04814e",
+        "e0bf2c2c570d9d22",
+        "6816a054febf7992",
+        "fcec1b1c9f8f103a",
+        "7783d7933a7dcfe2",
+        "6f23594893616b3b",
+        "c9f5675b14b5f72e",
+        "60e1ab325e0479c3",
+        "7fecd4b0c2f95824",
+        "29481d8eb1894580",
+        "08a5f4cdc8a06b43",
+        "49f378e223332337",
+        "acf611e16ef18a0c"
+      ],
+      "id": "0cbb4ef5f5d7e472",
+      "date": 1403038294666
+    },
+    {
+      "type": "fork",
+      "site": "hhol.mike.fed.wiki.org",
+      "date": 1403209504544
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "feef24e199b9b6eb"
+      },
+      "id": "feef24e199b9b6eb",
+      "type": "add",
+      "after": "acf611e16ef18a0c",
+      "date": 1403209556661
+    },
+    {
+      "type": "edit",
+      "id": "feef24e199b9b6eb",
+      "item": {
+        "type": "reference",
+        "id": "feef24e199b9b6eb",
+        "site": "mcmorgan.hhol.hapgood.net:3000",
+        "slug": "m-c-morgan",
+        "title": "M. C. Morgan",
+        "text": "M. C. Morgan (mcmorgan)"
+      },
+      "date": 1403209602392
+    },
+    {
+      "type": "fork",
+      "site": "mcmorgan.hhol.hapgood.net:3000",
+      "date": 1403209672992
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "edf3745fd0360d65"
+      },
+      "id": "edf3745fd0360d65",
+      "type": "add",
+      "after": "feef24e199b9b6eb",
+      "date": 1403277585183
+    },
+    {
+      "type": "edit",
+      "id": "edf3745fd0360d65",
+      "item": {
+        "type": "reference",
+        "id": "edf3745fd0360d65",
+        "site": "ward.fed.wiki.org",
+        "slug": "ward-cunningham",
+        "title": "Ward Cunningham",
+        "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
+      },
+      "date": 1403277596160
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "57f7f55915a5d8e2",
+        "text": ""
+      },
+      "id": "57f7f55915a5d8e2",
+      "type": "add",
+      "after": "97c58cdc21906e3a",
+      "date": 1403277633175
+    },
+    {
+      "type": "edit",
+      "id": "57f7f55915a5d8e2",
+      "item": {
+        "type": "paragraph",
+        "id": "57f7f55915a5d8e2",
+        "text": "[[Noteworthy Reframings]]"
+      },
+      "date": 1403277642243
+    },
+    {
+      "type": "remove",
+      "id": "57f7f55915a5d8e2",
+      "date": 1403277672222
+    },
+    {
+      "type": "edit",
+      "id": "c75d6e71bee67e06",
+      "item": {
+        "type": "paragraph",
+        "id": "c75d6e71bee67e06",
+        "text": "[[Companies, Institutions, and Projects]] documents initiatives from all eras that had a positive or negative impact on the developement of effective online learning."
+      },
+      "date": 1403278480144
+    },
+    {
+      "type": "edit",
+      "id": "c75d6e71bee67e06",
+      "item": {
+        "type": "paragraph",
+        "id": "c75d6e71bee67e06",
+        "text": "In [[Companies, Institutions, and Projects]] we document initiatives from all eras that had a positive or negative impact on the developement of effective online learning."
+      },
+      "date": 1403278505746
+    },
+    {
+      "type": "edit",
+      "id": "74d5215d5674cd56",
+      "item": {
+        "type": "paragraph",
+        "id": "74d5215d5674cd56",
+        "text": "[[Theorists]] since ancient times have looked at the technologiesof learning. Here we look at them."
+      },
+      "date": 1403278553039
+    },
+    {
+      "type": "edit",
+      "id": "ea281a24e5ebded5",
+      "item": {
+        "type": "paragraph",
+        "id": "ea281a24e5ebded5",
+        "text": "[[Related Precedents]] are things that are not strictly initiatives, machines, or software, but that we want to discuss anyway."
+      },
+      "date": 1403278612340
+    },
+    {
+      "type": "edit",
+      "id": "761b5cf94027f6d8",
+      "item": {
+        "type": "paragraph",
+        "id": "761b5cf94027f6d8",
+        "text": "[[Popular Treatments in Culture and Media]] have had an interestingly limited view of what educational technology looks like. Or maybe the broader view has been hidden?"
+      },
+      "date": 1403278675798
+    },
+    {
+      "type": "edit",
+      "id": "4f68357e110b72c9",
+      "item": {
+        "type": "paragraph",
+        "id": "4f68357e110b72c9",
+        "text": "[[Machines and Software]] is not only about teaching machines, but some of the devices underlying developments -- light pens, for instance. "
+      },
+      "date": 1403278751503
+    },
+    {
+      "type": "edit",
+      "id": "97c58cdc21906e3a",
+      "item": {
+        "type": "paragraph",
+        "id": "97c58cdc21906e3a",
+        "text": "[[Miscellaneous]] becuase we want it all"
+      },
+      "date": 1403278771840
+    },
+    {
+      "type": "remove",
+      "id": "0cbb4ef5f5d7e472",
+      "date": 1403278779713
+    },
+    {
+      "type": "remove",
+      "id": "edf3745fd0360d65",
+      "date": 1403278953745
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "940633916b6eebcd",
+        "text": ""
+      },
+      "id": "940633916b6eebcd",
+      "type": "add",
+      "after": "3534734597d3e480",
+      "date": 1403638202478
+    },
+    {
+      "type": "edit",
+      "id": "940633916b6eebcd",
+      "item": {
+        "type": "paragraph",
+        "id": "940633916b6eebcd",
+        "text": "The whole point of this is to eventually be able to write articles that reference this history without having to do historical legwork each time. For an example, see [[Personalization]]."
+      },
+      "date": 1403638274666
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8149367321a90f94",
+        "text": ""
+      },
+      "id": "8149367321a90f94",
+      "type": "add",
+      "after": "940633916b6eebcd",
+      "date": 1403638275170
+    },
+    {
+      "type": "remove",
+      "id": "8149367321a90f94",
+      "date": 1403638278751
+    },
+    {
+      "type": "edit",
+      "id": "97c58cdc21906e3a",
+      "item": {
+        "type": "paragraph",
+        "id": "97c58cdc21906e3a",
+        "text": "[[Miscellaneous]] because we want it all"
+      },
+      "date": 1403643946935
+    },
+    {
+      "type": "remove",
+      "id": "940633916b6eebcd",
+      "date": 1405804667880
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "940633916b6eebcd",
+        "text": "The whole point of this is to eventually be able to write articles that reference this history without having to do historical legwork each time. For an example, see [[Personalization]]."
+      },
+      "after": "3534734597d3e480",
+      "id": "940633916b6eebcd",
+      "date": 1405804670913
+    },
+    {
+      "type": "fork",
+      "site": "hhol.mike.fed.wiki.org",
+      "date": 1486642156247
+    },
+    {
+      "type": "edit",
+      "id": "4952470b3baaf4bb",
+      "item": {
+        "type": "paragraph",
+        "id": "4952470b3baaf4bb",
+        "text": "This page was forked from a This collection of articles details some of the predecessors to today's online education initiatives. "
+      },
+      "date": 1522223771844
+    },
+    {
+      "type": "edit",
+      "id": "4952470b3baaf4bb",
+      "item": {
+        "type": "paragraph",
+        "id": "4952470b3baaf4bb",
+        "text": "This page was forked from a "
+      },
+      "date": 1522223854781
+    },
+    {
+      "type": "add",
+      "id": "b7ff2d717e66e3df",
+      "item": {
+        "type": "paragraph",
+        "id": "b7ff2d717e66e3df",
+        "text": "This collection of articles details some of the predecessors to today's online education initiatives. "
+      },
+      "after": "4952470b3baaf4bb",
+      "date": 1522223856672
+    },
+    {
+      "type": "remove",
+      "id": "4952470b3baaf4bb",
+      "date": 1522223871596
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f4534131409e328f"
+      },
+      "id": "f4534131409e328f",
+      "type": "add",
+      "after": "feef24e199b9b6eb",
+      "date": 1522223878173
+    },
+    {
+      "type": "edit",
+      "id": "f4534131409e328f",
+      "item": {
+        "type": "markdown",
+        "id": "f4534131409e328f",
+        "text": "This page was forked from a project set up by Mike Caulfield"
+      },
+      "date": 1522223883753
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4534131409e328f",
+        "b7ff2d717e66e3df",
+        "e39560c91160baa3",
+        "d51618b04eb9ccc4",
+        "9b6f415012e1816b",
+        "3534734597d3e480",
+        "940633916b6eebcd",
+        "2c28a24692f45ea6",
+        "c75d6e71bee67e06",
+        "74d5215d5674cd56",
+        "ea281a24e5ebded5",
+        "761b5cf94027f6d8",
+        "4f68357e110b72c9",
+        "97c58cdc21906e3a",
+        "cce8148e7ed89d71",
+        "b0800b0468b07112",
+        "f67c829054ccaecb",
+        "a39add8c41a67279",
+        "de756bc39a119ae9",
+        "d5ba504d5a04814e",
+        "e0bf2c2c570d9d22",
+        "6816a054febf7992",
+        "fcec1b1c9f8f103a",
+        "7783d7933a7dcfe2",
+        "6f23594893616b3b",
+        "c9f5675b14b5f72e",
+        "60e1ab325e0479c3",
+        "7fecd4b0c2f95824",
+        "29481d8eb1894580",
+        "08a5f4cdc8a06b43",
+        "49f378e223332337",
+        "acf611e16ef18a0c",
+        "feef24e199b9b6eb"
+      ],
+      "id": "f4534131409e328f",
+      "date": 1522223890089
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7a5585aaec99256c"
+      },
+      "id": "7a5585aaec99256c",
+      "type": "add",
+      "after": "feef24e199b9b6eb",
+      "date": 1522223901527
+    },
+    {
+      "type": "edit",
+      "id": "7a5585aaec99256c",
+      "item": {
+        "type": "pagefold",
+        "id": "7a5585aaec99256c",
+        "text": "Context"
+      },
+      "date": 1522223916294
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4534131409e328f",
+        "b7ff2d717e66e3df",
+        "7a5585aaec99256c",
+        "e39560c91160baa3",
+        "d51618b04eb9ccc4",
+        "9b6f415012e1816b",
+        "3534734597d3e480",
+        "940633916b6eebcd",
+        "2c28a24692f45ea6",
+        "c75d6e71bee67e06",
+        "74d5215d5674cd56",
+        "ea281a24e5ebded5",
+        "761b5cf94027f6d8",
+        "4f68357e110b72c9",
+        "97c58cdc21906e3a",
+        "cce8148e7ed89d71",
+        "b0800b0468b07112",
+        "f67c829054ccaecb",
+        "a39add8c41a67279",
+        "de756bc39a119ae9",
+        "d5ba504d5a04814e",
+        "e0bf2c2c570d9d22",
+        "6816a054febf7992",
+        "fcec1b1c9f8f103a",
+        "7783d7933a7dcfe2",
+        "6f23594893616b3b",
+        "c9f5675b14b5f72e",
+        "60e1ab325e0479c3",
+        "7fecd4b0c2f95824",
+        "29481d8eb1894580",
+        "08a5f4cdc8a06b43",
+        "49f378e223332337",
+        "acf611e16ef18a0c",
+        "feef24e199b9b6eb"
+      ],
+      "id": "7a5585aaec99256c",
+      "date": 1522223924293
+    },
+    {
+      "type": "move",
+      "order": [
+        "7a5585aaec99256c",
+        "f4534131409e328f",
+        "b7ff2d717e66e3df",
+        "e39560c91160baa3",
+        "d51618b04eb9ccc4",
+        "9b6f415012e1816b",
+        "3534734597d3e480",
+        "940633916b6eebcd",
+        "2c28a24692f45ea6",
+        "c75d6e71bee67e06",
+        "74d5215d5674cd56",
+        "ea281a24e5ebded5",
+        "761b5cf94027f6d8",
+        "4f68357e110b72c9",
+        "97c58cdc21906e3a",
+        "cce8148e7ed89d71",
+        "b0800b0468b07112",
+        "f67c829054ccaecb",
+        "a39add8c41a67279",
+        "de756bc39a119ae9",
+        "d5ba504d5a04814e",
+        "e0bf2c2c570d9d22",
+        "6816a054febf7992",
+        "fcec1b1c9f8f103a",
+        "7783d7933a7dcfe2",
+        "6f23594893616b3b",
+        "c9f5675b14b5f72e",
+        "60e1ab325e0479c3",
+        "7fecd4b0c2f95824",
+        "29481d8eb1894580",
+        "08a5f4cdc8a06b43",
+        "49f378e223332337",
+        "acf611e16ef18a0c",
+        "feef24e199b9b6eb"
+      ],
+      "id": "7a5585aaec99256c",
+      "date": 1522223926400
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "893053bd6214d9f4"
+      },
+      "id": "893053bd6214d9f4",
+      "type": "add",
+      "after": "feef24e199b9b6eb",
+      "date": 1522223932736
+    },
+    {
+      "type": "edit",
+      "id": "893053bd6214d9f4",
+      "item": {
+        "type": "pagefold",
+        "id": "893053bd6214d9f4",
+        "text": "Original Project Below"
+      },
+      "date": 1522223947708
+    },
+    {
+      "type": "move",
+      "order": [
+        "7a5585aaec99256c",
+        "f4534131409e328f",
+        "893053bd6214d9f4",
+        "b7ff2d717e66e3df",
+        "e39560c91160baa3",
+        "d51618b04eb9ccc4",
+        "9b6f415012e1816b",
+        "3534734597d3e480",
+        "940633916b6eebcd",
+        "2c28a24692f45ea6",
+        "c75d6e71bee67e06",
+        "74d5215d5674cd56",
+        "ea281a24e5ebded5",
+        "761b5cf94027f6d8",
+        "4f68357e110b72c9",
+        "97c58cdc21906e3a",
+        "cce8148e7ed89d71",
+        "b0800b0468b07112",
+        "f67c829054ccaecb",
+        "a39add8c41a67279",
+        "de756bc39a119ae9",
+        "d5ba504d5a04814e",
+        "e0bf2c2c570d9d22",
+        "6816a054febf7992",
+        "fcec1b1c9f8f103a",
+        "7783d7933a7dcfe2",
+        "6f23594893616b3b",
+        "c9f5675b14b5f72e",
+        "60e1ab325e0479c3",
+        "7fecd4b0c2f95824",
+        "29481d8eb1894580",
+        "08a5f4cdc8a06b43",
+        "49f378e223332337",
+        "acf611e16ef18a0c",
+        "feef24e199b9b6eb"
+      ],
+      "id": "893053bd6214d9f4",
+      "date": 1522223954784
+    },
+    {
+      "type": "edit",
+      "id": "f4534131409e328f",
+      "item": {
+        "type": "markdown",
+        "id": "f4534131409e328f",
+        "text": "This page was forked from a [http://hhol.mike.fed.wiki.org/view/welcome-visitors project] set up by Mike Caulfield"
+      },
+      "date": 1522223978584
+    },
+    {
+      "type": "edit",
+      "id": "f4534131409e328f",
+      "item": {
+        "type": "markdown",
+        "id": "f4534131409e328f",
+        "text": "This page was forked from a [http://hhol.mike.fed.wiki.org/view/welcome-visitors project] [https://hapgood.us/2014/06/13/presseys-automatic-teacher/ set up] by Mike Caulfield in 2014"
+      },
+      "date": 1522224044490
+    },
+    {
+      "type": "edit",
+      "id": "f4534131409e328f",
+      "item": {
+        "type": "markdown",
+        "id": "f4534131409e328f",
+        "text": "This page was forked from a [http://hhol.mike.fed.wiki.org/view/welcome-visitors project] [https://hapgood.us/2014/06/13/presseys-automatic-teacher/ set up] by [https://hapgood.us/ Mike Caulfield] in 2014"
+      },
+      "date": 1522224067873
+    }
+  ]
+}

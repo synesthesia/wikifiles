@@ -1,0 +1,101 @@
+{
+  "title": "Neighborhood",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "bbdd0dda7630a151",
+      "text": "The neighborhood is the list of sites seen while browsing within one tab. The site's flags are shown in the footer."
+    },
+    {
+      "type": "paragraph",
+      "id": "4630836f832c35fe",
+      "text": "A flag shows gray if the site is not currently available."
+    },
+    {
+      "type": "paragraph",
+      "id": "1ac6b577e07ae907",
+      "text": "A flag rotates while waiting to be polled for a [[Sitemap]] of available pages. A crooked flag shows the poll failed."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Neighborhood",
+        "story": []
+      },
+      "date": 1423057901338
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bbdd0dda7630a151"
+      },
+      "id": "bbdd0dda7630a151",
+      "type": "add",
+      "date": 1423057909451
+    },
+    {
+      "type": "edit",
+      "id": "bbdd0dda7630a151",
+      "item": {
+        "type": "paragraph",
+        "id": "bbdd0dda7630a151",
+        "text": "The neighborhood is the list of sites seen while browsing within one tab. The site's flags are shown in the footer."
+      },
+      "date": 1423058381237
+    },
+    {
+      "type": "add",
+      "id": "4630836f832c35fe",
+      "item": {
+        "type": "paragraph",
+        "id": "4630836f832c35fe",
+        "text": "A flag shows gray if the site is not currently available."
+      },
+      "after": "bbdd0dda7630a151",
+      "date": 1423058511180
+    },
+    {
+      "type": "add",
+      "id": "1ac6b577e07ae907",
+      "item": {
+        "type": "paragraph",
+        "id": "1ac6b577e07ae907",
+        "text": "A flag rotates while waiting to be polled for a [[Sitemap]] of available pages."
+      },
+      "after": "4630836f832c35fe",
+      "date": 1423058635453
+    },
+    {
+      "type": "edit",
+      "id": "1ac6b577e07ae907",
+      "item": {
+        "type": "paragraph",
+        "id": "1ac6b577e07ae907",
+        "text": "A flag rotates while waiting to be polled for a [[Sitemap]] of available pages. A crooked flag shows that the polling failed."
+      },
+      "date": 1423058683950
+    },
+    {
+      "type": "edit",
+      "id": "1ac6b577e07ae907",
+      "item": {
+        "type": "paragraph",
+        "id": "1ac6b577e07ae907",
+        "text": "A flag rotates while waiting to be polled for a [[Sitemap]] of available pages. A crooked flag shows the poll failed."
+      },
+      "date": 1423058702902
+    },
+    {
+      "type": "fork",
+      "site": "glossary.asia.wiki.org",
+      "date": 1423458410112
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454432124003
+    }
+  ]
+}

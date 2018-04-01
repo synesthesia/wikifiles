@@ -1,0 +1,144 @@
+{
+  "title": "Journal 2018-03",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "054bd2018f05facb",
+      "text": "## 2018-03-26\nTrying again with SFW"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Journal 2018-03",
+        "story": []
+      },
+      "date": 1522057377601
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ef292babc18e82d4"
+      },
+      "id": "ef292babc18e82d4",
+      "type": "add",
+      "date": 1522057382102
+    },
+    {
+      "type": "edit",
+      "id": "ef292babc18e82d4",
+      "item": {
+        "type": "paragraph",
+        "id": "ef292babc18e82d4",
+        "text": "2018-03-26 Kickstarting another experiment with fedwiki"
+      },
+      "date": 1522057403409
+    },
+    {
+      "type": "edit",
+      "id": "ef292babc18e82d4",
+      "item": {
+        "type": "paragraph",
+        "id": "ef292babc18e82d4",
+        "text": "2018-03-26 "
+      },
+      "date": 1522057435570
+    },
+    {
+      "type": "edit",
+      "id": "ef292babc18e82d4",
+      "item": {
+        "type": "paragraph",
+        "id": "ef292babc18e82d4",
+        "text": "2018-03-26"
+      },
+      "date": 1522057449345
+    },
+    {
+      "type": "add",
+      "id": "4593afa90442ea62",
+      "item": {
+        "type": "paragraph",
+        "id": "4593afa90442ea62",
+        "text": "Kickstarting another experiment with fedwiki"
+      },
+      "after": "ef292babc18e82d4",
+      "date": 1522057453821
+    },
+    {
+      "type": "edit",
+      "id": "ef292babc18e82d4",
+      "item": {
+        "type": "paragraph",
+        "id": "ef292babc18e82d4",
+        "text": "##2018-03-26##"
+      },
+      "date": 1522057493425
+    },
+    {
+      "type": "edit",
+      "id": "ef292babc18e82d4",
+      "item": {
+        "type": "paragraph",
+        "id": "ef292babc18e82d4",
+        "text": "## 2018-03-26 ##"
+      },
+      "date": 1522057505096
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9b5c635a6281c564"
+      },
+      "id": "9b5c635a6281c564",
+      "type": "add",
+      "after": "4593afa90442ea62",
+      "date": 1522057510862
+    },
+    {
+      "type": "remove",
+      "id": "9b5c635a6281c564",
+      "date": 1522057518537
+    },
+    {
+      "type": "remove",
+      "id": "4593afa90442ea62",
+      "date": 1522057522486
+    },
+    {
+      "type": "remove",
+      "id": "ef292babc18e82d4",
+      "date": 1522057528198
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "054bd2018f05facb"
+      },
+      "id": "054bd2018f05facb",
+      "type": "add",
+      "date": 1522057531917
+    },
+    {
+      "type": "edit",
+      "id": "054bd2018f05facb",
+      "item": {
+        "type": "markdown",
+        "id": "054bd2018f05facb",
+        "text": "## 2018-03-26 ##\nTrying again with SFW"
+      },
+      "date": 1522057558109
+    },
+    {
+      "type": "edit",
+      "id": "054bd2018f05facb",
+      "item": {
+        "type": "markdown",
+        "id": "054bd2018f05facb",
+        "text": "## 2018-03-26\nTrying again with SFW"
+      },
+      "date": 1522057564206
+    }
+  ]
+}

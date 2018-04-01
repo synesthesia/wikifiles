@@ -1,0 +1,681 @@
+{
+  "title": "Commenting",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b97073480d4a379d",
+      "text": "There is no single stream on federated wiki, so commenting in federated wiki should be used for comments on the document, not for extended back and forth discussion. "
+    },
+    {
+      "type": "paragraph",
+      "id": "6c9591c6063beef9",
+      "text": "That said, comments can be really useful. Here's how to do them."
+    },
+    {
+      "type": "paragraph",
+      "id": "8c8c6963dafe6e5c",
+      "text": "Read the page you want to comment on carefully. Consider first whether you could address your issue by just making an edit or by forking it."
+    },
+    {
+      "type": "paragraph",
+      "id": "034d9f97782fa151",
+      "text": "Example: Suppose you read a page on the Ludovico Technique (below). Click the link to take a look at it."
+    },
+    {
+      "type": "reference",
+      "id": "d42ef8efb5b5032c",
+      "site": "machines.hapgood.net",
+      "slug": "ludovico-technique",
+      "title": "Ludovico technique",
+      "text": "A fictional form of behavioral conditioning described in Anthony Burgess’ 1962 novel A Clockwork Orange."
+    },
+    {
+      "type": "paragraph",
+      "id": "9c352b8039417bae",
+      "text": "If you find it useful, you don't need to comment. Just fork it to your site. The message will be clear enough. "
+    },
+    {
+      "type": "paragraph",
+      "id": "691bbe2687bd3811",
+      "text": "But maybe you think the author should add an image, or highlight the machine used?"
+    },
+    {
+      "type": "paragraph",
+      "id": "843cb0c0fa38359a",
+      "text": "In that case, don't comment, adapt. Add a picture. Extend the article. "
+    },
+    {
+      "type": "paragraph",
+      "id": "11a95012324c7ded",
+      "text": "You can do the same thing if you believe an author is arguing against straw men -- add real counterarguments. Replace expansive language with more precise language. "
+    },
+    {
+      "type": "paragraph",
+      "id": "265805dbf5b930ef",
+      "text": "When edits can't address your issue, comments are helpful. Here's a possible comment:"
+    },
+    {
+      "type": "pagefold",
+      "id": "c503eda3841e1ff4",
+      "text": "example"
+    },
+    {
+      "type": "paragraph",
+      "id": "03fffdd364985f7a",
+      "text": "----"
+    },
+    {
+      "type": "paragraph",
+      "id": "b72a164f38680c1c",
+      "text": "Something I never realized until now is the extent to which this novel was written at the height of Behaviorism. That's masked for us by the fact that the film came out later. - [[Mike Caulfield]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "4cae31dd175e7113",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "b0646e0dd63fe831",
+      "text": "Keep in mind that your comment is only written to your version on your site. The authors of the piece may see your comment, and perhaps change the article because of it. Your readers will get the benefit of the original piece plus your comment. "
+    },
+    {
+      "type": "paragraph",
+      "id": "d04556faf0c8d1b3",
+      "text": "Comments can be particularly helpful when you fork something to your site you don't entirely agree with, as in this comment on an imagined page."
+    },
+    {
+      "type": "pagefold",
+      "id": "35fab07cd804821d",
+      "text": "example"
+    },
+    {
+      "type": "paragraph",
+      "id": "6d2ba437b8ac0e3c",
+      "text": "I don't know if I buy into the conspiracy theory here, but I'm not sure that part matters. The pressures that exist push this in one direction inexorably, you don't need a conspiracy when structural bias will do. - [[Mike Caulfield]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "aa24c24c2fde7fe1",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "6575078f4f68407d",
+      "text": "Note that in both these cases we sign the page by linking to our profile page. "
+    },
+    {
+      "type": "paragraph",
+      "id": "66f9f8146f263642",
+      "text": "If you want to have a back and forth discussion, create a topic in Google Groups with the page name, and have it there. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Commenting",
+        "story": []
+      },
+      "date": 1423760970716
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b97073480d4a379d"
+      },
+      "id": "b97073480d4a379d",
+      "type": "add",
+      "date": 1423760972031
+    },
+    {
+      "type": "edit",
+      "id": "b97073480d4a379d",
+      "item": {
+        "type": "paragraph",
+        "id": "b97073480d4a379d",
+        "text": "There is no single stream on federated wiki, so commenting in federated wiki should be used for comments on the document, not for extended back and forth discussion. "
+      },
+      "date": 1423761042119
+    },
+    {
+      "type": "add",
+      "id": "66f9f8146f263642",
+      "item": {
+        "type": "paragraph",
+        "id": "66f9f8146f263642",
+        "text": "If you want to have a back and forth discussion, create a topic in Google Groups with the page name, and have it there. "
+      },
+      "after": "b97073480d4a379d",
+      "date": 1423761098846
+    },
+    {
+      "type": "add",
+      "id": "6c9591c6063beef9",
+      "item": {
+        "type": "paragraph",
+        "id": "6c9591c6063beef9",
+        "text": "That said, comments can be really useful. Here's how to do them."
+      },
+      "after": "b97073480d4a379d",
+      "date": 1423761165714
+    },
+    {
+      "type": "add",
+      "id": "8c8c6963dafe6e5c",
+      "item": {
+        "type": "paragraph",
+        "id": "8c8c6963dafe6e5c",
+        "text": "Read the page you want to comment on carefully. Consider first whether you could address your issue by just making an edit. "
+      },
+      "after": "6c9591c6063beef9",
+      "date": 1423761223128
+    },
+    {
+      "type": "add",
+      "id": "034d9f97782fa151",
+      "item": {
+        "type": "paragraph",
+        "id": "034d9f97782fa151",
+        "text": "Example: Suppose you read a page on the Ludovico Technique (below)."
+      },
+      "after": "8c8c6963dafe6e5c",
+      "date": 1423761276345
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d42ef8efb5b5032c"
+      },
+      "id": "d42ef8efb5b5032c",
+      "type": "add",
+      "after": "66f9f8146f263642",
+      "date": 1423761390257
+    },
+    {
+      "type": "edit",
+      "id": "d42ef8efb5b5032c",
+      "item": {
+        "type": "reference",
+        "id": "d42ef8efb5b5032c",
+        "site": "machines.hapgood.net",
+        "slug": "ludovico-technique",
+        "title": "Ludovico technique",
+        "text": "A fictional form of behavioral conditioning described in Anthony Burgess’ 1962 novel A Clockwork Orange, in which the subject is forced to view violent images while under the influence of nausea-inducing drugs. The subject is thus trained to become physically ill at the thought of violence."
+      },
+      "date": 1423761393434
+    },
+    {
+      "type": "edit",
+      "id": "d42ef8efb5b5032c",
+      "item": {
+        "type": "reference",
+        "id": "d42ef8efb5b5032c",
+        "site": "machines.hapgood.net",
+        "slug": "ludovico-technique",
+        "title": "Ludovico technique",
+        "text": "A fictional form of behavioral conditioning described in Anthony Burgess’ 1962 novel A Clockwork Orange."
+      },
+      "date": 1423761403645
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9c352b8039417bae"
+      },
+      "id": "9c352b8039417bae",
+      "type": "add",
+      "after": "d42ef8efb5b5032c",
+      "date": 1423761408308
+    },
+    {
+      "type": "move",
+      "order": [
+        "b97073480d4a379d",
+        "6c9591c6063beef9",
+        "8c8c6963dafe6e5c",
+        "034d9f97782fa151",
+        "d42ef8efb5b5032c",
+        "9c352b8039417bae",
+        "66f9f8146f263642"
+      ],
+      "id": "66f9f8146f263642",
+      "date": 1423761426292
+    },
+    {
+      "type": "edit",
+      "id": "8c8c6963dafe6e5c",
+      "item": {
+        "type": "paragraph",
+        "id": "8c8c6963dafe6e5c",
+        "text": "Read the page you want to comment on carefully. Consider first whether you could address your issue by just making an edit or by forking it."
+      },
+      "date": 1423761427999
+    },
+    {
+      "type": "edit",
+      "id": "9c352b8039417bae",
+      "item": {
+        "type": "paragraph",
+        "id": "9c352b8039417bae",
+        "text": "If you find it useful, you don't need to comment. Just fork it to your site. The message will be clear enough. "
+      },
+      "date": 1423761461229
+    },
+    {
+      "type": "edit",
+      "id": "034d9f97782fa151",
+      "item": {
+        "type": "paragraph",
+        "id": "034d9f97782fa151",
+        "text": "Example: Suppose you read a page on the Ludovico Technique (below). Click the link to take a look at it."
+      },
+      "date": 1423761485019
+    },
+    {
+      "type": "add",
+      "id": "691bbe2687bd3811",
+      "item": {
+        "type": "paragraph",
+        "id": "691bbe2687bd3811",
+        "text": "But maybe you think the author should add an image, or highlight the machine used?"
+      },
+      "after": "9c352b8039417bae",
+      "date": 1423761528699
+    },
+    {
+      "type": "add",
+      "id": "843cb0c0fa38359a",
+      "item": {
+        "type": "paragraph",
+        "id": "843cb0c0fa38359a",
+        "text": "In that case, don't comment, adapt. Add a picture. Extend the article. "
+      },
+      "after": "691bbe2687bd3811",
+      "date": 1423761551272
+    },
+    {
+      "type": "add",
+      "id": "11a95012324c7ded",
+      "item": {
+        "type": "paragraph",
+        "id": "11a95012324c7ded",
+        "text": "You can do the same thing if you believe an author is arguing against straw men -- add real counterarguments. Replace expansive language with more precise language. "
+      },
+      "after": "843cb0c0fa38359a",
+      "date": 1423761611091
+    },
+    {
+      "type": "add",
+      "id": "265805dbf5b930ef",
+      "item": {
+        "type": "paragraph",
+        "id": "265805dbf5b930ef",
+        "text": "When edits can't address your issue, comments are helpful."
+      },
+      "after": "11a95012324c7ded",
+      "date": 1423761676437
+    },
+    {
+      "type": "edit",
+      "id": "265805dbf5b930ef",
+      "item": {
+        "type": "paragraph",
+        "id": "265805dbf5b930ef",
+        "text": "When edits can't address your issue, comments are helpful. Here's a possible comment:"
+      },
+      "date": 1423761689866
+    },
+    {
+      "type": "add",
+      "id": "03fffdd364985f7a",
+      "item": {
+        "type": "paragraph",
+        "id": "03fffdd364985f7a",
+        "text": "Something I never realized until now is the extent to which this novel was written at the height of Behaviorism. That's masked for us by the fact that the film came out later. - [[Mike Caulfield]]"
+      },
+      "after": "265805dbf5b930ef",
+      "date": 1423761912719
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c503eda3841e1ff4"
+      },
+      "id": "c503eda3841e1ff4",
+      "type": "add",
+      "after": "66f9f8146f263642",
+      "date": 1423761918493
+    },
+    {
+      "type": "edit",
+      "id": "c503eda3841e1ff4",
+      "item": {
+        "type": "pagefold",
+        "id": "c503eda3841e1ff4",
+        "text": "example"
+      },
+      "date": 1423761927864
+    },
+    {
+      "type": "move",
+      "order": [
+        "b97073480d4a379d",
+        "6c9591c6063beef9",
+        "8c8c6963dafe6e5c",
+        "034d9f97782fa151",
+        "d42ef8efb5b5032c",
+        "9c352b8039417bae",
+        "691bbe2687bd3811",
+        "843cb0c0fa38359a",
+        "11a95012324c7ded",
+        "265805dbf5b930ef",
+        "c503eda3841e1ff4",
+        "03fffdd364985f7a",
+        "66f9f8146f263642"
+      ],
+      "id": "c503eda3841e1ff4",
+      "date": 1423761929946
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4cae31dd175e7113"
+      },
+      "id": "4cae31dd175e7113",
+      "type": "add",
+      "after": "66f9f8146f263642",
+      "date": 1423761934806
+    },
+    {
+      "type": "edit",
+      "id": "4cae31dd175e7113",
+      "item": {
+        "type": "pagefold",
+        "id": "4cae31dd175e7113",
+        "text": "."
+      },
+      "date": 1423761942695
+    },
+    {
+      "type": "move",
+      "order": [
+        "b97073480d4a379d",
+        "6c9591c6063beef9",
+        "8c8c6963dafe6e5c",
+        "034d9f97782fa151",
+        "d42ef8efb5b5032c",
+        "9c352b8039417bae",
+        "691bbe2687bd3811",
+        "843cb0c0fa38359a",
+        "11a95012324c7ded",
+        "265805dbf5b930ef",
+        "c503eda3841e1ff4",
+        "03fffdd364985f7a",
+        "4cae31dd175e7113",
+        "66f9f8146f263642"
+      ],
+      "id": "4cae31dd175e7113",
+      "date": 1423761946649
+    },
+    {
+      "type": "add",
+      "id": "b0646e0dd63fe831",
+      "item": {
+        "type": "paragraph",
+        "id": "b0646e0dd63fe831",
+        "text": "Keep in mind that your comment is only written to your version on your site. The authors of the piece may see your comment, and "
+      },
+      "after": "4cae31dd175e7113",
+      "date": 1423762152985
+    },
+    {
+      "type": "edit",
+      "id": "03fffdd364985f7a",
+      "item": {
+        "type": "paragraph",
+        "id": "03fffdd364985f7a",
+        "text": "----"
+      },
+      "date": 1423762158177
+    },
+    {
+      "type": "add",
+      "id": "b72a164f38680c1c",
+      "item": {
+        "type": "paragraph",
+        "id": "b72a164f38680c1c",
+        "text": "Something I never realized until now is the extent to which this novel was written at the height of Behaviorism. That's masked for us by the fact that the film came out later. - [[Mike Caulfield]]"
+      },
+      "after": "03fffdd364985f7a",
+      "date": 1423762159630
+    },
+    {
+      "type": "edit",
+      "id": "b0646e0dd63fe831",
+      "item": {
+        "type": "paragraph",
+        "id": "b0646e0dd63fe831",
+        "text": "Keep in mind that your comment is only written to your version on your site. The authors of the piece may see your comment, and perhaps change the article because of it. Your readers will get the benefit of the original piece plus your comment. "
+      },
+      "date": 1423762214983
+    },
+    {
+      "type": "add",
+      "id": "d04556faf0c8d1b3",
+      "item": {
+        "type": "paragraph",
+        "id": "d04556faf0c8d1b3",
+        "text": "Comments can be particularly helpful when you fork something to your site you don't entirely agree with. "
+      },
+      "after": "b0646e0dd63fe831",
+      "date": 1423762271139
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "35fab07cd804821d"
+      },
+      "id": "35fab07cd804821d",
+      "type": "add",
+      "after": "66f9f8146f263642",
+      "date": 1423762276475
+    },
+    {
+      "type": "edit",
+      "id": "35fab07cd804821d",
+      "item": {
+        "type": "pagefold",
+        "id": "35fab07cd804821d",
+        "text": "example"
+      },
+      "date": 1423762284181
+    },
+    {
+      "type": "move",
+      "order": [
+        "b97073480d4a379d",
+        "6c9591c6063beef9",
+        "8c8c6963dafe6e5c",
+        "034d9f97782fa151",
+        "d42ef8efb5b5032c",
+        "9c352b8039417bae",
+        "691bbe2687bd3811",
+        "843cb0c0fa38359a",
+        "11a95012324c7ded",
+        "265805dbf5b930ef",
+        "c503eda3841e1ff4",
+        "03fffdd364985f7a",
+        "b72a164f38680c1c",
+        "4cae31dd175e7113",
+        "b0646e0dd63fe831",
+        "d04556faf0c8d1b3",
+        "35fab07cd804821d",
+        "66f9f8146f263642"
+      ],
+      "id": "35fab07cd804821d",
+      "date": 1423762288752
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6d2ba437b8ac0e3c"
+      },
+      "id": "6d2ba437b8ac0e3c",
+      "type": "add",
+      "after": "66f9f8146f263642",
+      "date": 1423762291927
+    },
+    {
+      "type": "edit",
+      "id": "6d2ba437b8ac0e3c",
+      "item": {
+        "type": "paragraph",
+        "id": "6d2ba437b8ac0e3c",
+        "text": "I don't know if I buy into the conspiracy theory here, but I'm not sure that part matters. The pressures that exist push this in one direction inexorably, you don't need a conspiracy when structural bias will do. - [[Mike Caulfield]]"
+      },
+      "date": 1423762398164
+    },
+    {
+      "type": "move",
+      "order": [
+        "b97073480d4a379d",
+        "6c9591c6063beef9",
+        "8c8c6963dafe6e5c",
+        "034d9f97782fa151",
+        "d42ef8efb5b5032c",
+        "9c352b8039417bae",
+        "691bbe2687bd3811",
+        "843cb0c0fa38359a",
+        "11a95012324c7ded",
+        "265805dbf5b930ef",
+        "c503eda3841e1ff4",
+        "03fffdd364985f7a",
+        "b72a164f38680c1c",
+        "4cae31dd175e7113",
+        "b0646e0dd63fe831",
+        "d04556faf0c8d1b3",
+        "35fab07cd804821d",
+        "6d2ba437b8ac0e3c",
+        "66f9f8146f263642"
+      ],
+      "id": "6d2ba437b8ac0e3c",
+      "date": 1423762400773
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aa24c24c2fde7fe1"
+      },
+      "id": "aa24c24c2fde7fe1",
+      "type": "add",
+      "after": "66f9f8146f263642",
+      "date": 1423762404885
+    },
+    {
+      "type": "edit",
+      "id": "aa24c24c2fde7fe1",
+      "item": {
+        "type": "pagefold",
+        "id": "aa24c24c2fde7fe1",
+        "text": "."
+      },
+      "date": 1423762410552
+    },
+    {
+      "type": "move",
+      "order": [
+        "b97073480d4a379d",
+        "6c9591c6063beef9",
+        "8c8c6963dafe6e5c",
+        "034d9f97782fa151",
+        "d42ef8efb5b5032c",
+        "9c352b8039417bae",
+        "691bbe2687bd3811",
+        "843cb0c0fa38359a",
+        "11a95012324c7ded",
+        "265805dbf5b930ef",
+        "c503eda3841e1ff4",
+        "03fffdd364985f7a",
+        "b72a164f38680c1c",
+        "4cae31dd175e7113",
+        "b0646e0dd63fe831",
+        "d04556faf0c8d1b3",
+        "35fab07cd804821d",
+        "6d2ba437b8ac0e3c",
+        "aa24c24c2fde7fe1",
+        "66f9f8146f263642"
+      ],
+      "id": "aa24c24c2fde7fe1",
+      "date": 1423762414384
+    },
+    {
+      "type": "edit",
+      "id": "d04556faf0c8d1b3",
+      "item": {
+        "type": "paragraph",
+        "id": "d04556faf0c8d1b3",
+        "text": "Comments can be particularly helpful when you fork something to your site you don't entirely agree with, as in this comment on an imagined page."
+      },
+      "date": 1423762437448
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6575078f4f68407d"
+      },
+      "id": "6575078f4f68407d",
+      "type": "add",
+      "after": "66f9f8146f263642",
+      "date": 1423762475176
+    },
+    {
+      "type": "edit",
+      "id": "6575078f4f68407d",
+      "item": {
+        "type": "paragraph",
+        "id": "6575078f4f68407d",
+        "text": "Note that in both these cases we sign the page by linking to our profile page. "
+      },
+      "date": 1423762496036
+    },
+    {
+      "type": "move",
+      "order": [
+        "b97073480d4a379d",
+        "6c9591c6063beef9",
+        "8c8c6963dafe6e5c",
+        "034d9f97782fa151",
+        "d42ef8efb5b5032c",
+        "9c352b8039417bae",
+        "691bbe2687bd3811",
+        "843cb0c0fa38359a",
+        "11a95012324c7ded",
+        "265805dbf5b930ef",
+        "c503eda3841e1ff4",
+        "03fffdd364985f7a",
+        "b72a164f38680c1c",
+        "4cae31dd175e7113",
+        "b0646e0dd63fe831",
+        "d04556faf0c8d1b3",
+        "35fab07cd804821d",
+        "6d2ba437b8ac0e3c",
+        "aa24c24c2fde7fe1",
+        "6575078f4f68407d",
+        "66f9f8146f263642"
+      ],
+      "id": "6575078f4f68407d",
+      "date": 1423762497344
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454486064220
+    },
+    {
+      "type": "fork",
+      "site": "je.fedwiki.ssatuk.co.uk",
+      "date": 1454487868666
+    }
+  ]
+}

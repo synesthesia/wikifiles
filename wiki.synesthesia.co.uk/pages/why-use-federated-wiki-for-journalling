@@ -1,0 +1,46 @@
+{
+  "title": "Why use Federated Wiki for journalling",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "48d569a6b3c6c7c5",
+      "text": "I think [[Federated Wiki]] has huge potential for  using as a journal that escapes the constraints of [[StreamMode]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8399557553627e47",
+      "text": "Others have written about the power of [[Using a Wiki For your Notebook]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Why use Federated Wiki for journalling",
+        "story": []
+      },
+      "date": 1454581685923
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "48d569a6b3c6c7c5",
+        "text": "I think [[Federated Wiki]] has huge potential for  using as a journal that escapes the constraints of [[StreamMode]]"
+      },
+      "id": "48d569a6b3c6c7c5",
+      "date": 1454581688610
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "8399557553627e47",
+        "text": "Others have written about the power of [[Using a Wiki For your Notebook]]"
+      },
+      "after": "48d569a6b3c6c7c5",
+      "id": "8399557553627e47",
+      "date": 1454581690260
+    }
+  ]
+}

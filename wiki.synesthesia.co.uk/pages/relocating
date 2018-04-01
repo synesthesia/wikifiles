@@ -1,0 +1,143 @@
+{
+  "title": "Relocating",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "42a4ec674e7455d8",
+      "text": "We consider how one might move a whole site and why that might be necessary."
+    },
+    {
+      "type": "paragraph",
+      "id": "a582f1ac997414d4",
+      "text": "See [[Backup]] for ways to retrieve whole sites."
+    },
+    {
+      "type": "paragraph",
+      "id": "6bf59df9078d180d",
+      "text": "See [[Hosting]] for ways to create homes for sites."
+    },
+    {
+      "type": "paragraph",
+      "id": "40cb498702d81f34",
+      "text": "A site's pages can be stored as flat files in a directory, a single json file with all pages in 'export' format, or in some other store such as a database."
+    },
+    {
+      "type": "paragraph",
+      "id": "340f233a10a88068",
+      "text": "Files are easily moved between servers. Pages stored in databases can be moved by exporting to a file."
+    },
+    {
+      "type": "paragraph",
+      "id": "6a4bfe2788581158",
+      "text": "[[Restore]] from backup files or export."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Relocating",
+        "story": []
+      },
+      "date": 1434119662546
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "42a4ec674e7455d8"
+      },
+      "id": "42a4ec674e7455d8",
+      "type": "add",
+      "date": 1434119677412
+    },
+    {
+      "type": "edit",
+      "id": "42a4ec674e7455d8",
+      "item": {
+        "type": "paragraph",
+        "id": "42a4ec674e7455d8",
+        "text": "We consider how one might move a whole site and why that might be necessary."
+      },
+      "date": 1434119780872
+    },
+    {
+      "type": "add",
+      "id": "a582f1ac997414d4",
+      "item": {
+        "type": "paragraph",
+        "id": "a582f1ac997414d4",
+        "text": "See [[Backups]] for ways to retrieve whole sites."
+      },
+      "after": "42a4ec674e7455d8",
+      "date": 1434119888140
+    },
+    {
+      "type": "add",
+      "id": "6bf59df9078d180d",
+      "item": {
+        "type": "paragraph",
+        "id": "6bf59df9078d180d",
+        "text": "See [[Hosting]] for ways to create homes for sites."
+      },
+      "after": "a582f1ac997414d4",
+      "date": 1434119908698
+    },
+    {
+      "type": "edit",
+      "id": "a582f1ac997414d4",
+      "item": {
+        "type": "paragraph",
+        "id": "a582f1ac997414d4",
+        "text": "See [[Backup]] for ways to retrieve whole sites."
+      },
+      "date": 1434119947334
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "40cb498702d81f34"
+      },
+      "id": "40cb498702d81f34",
+      "type": "add",
+      "after": "6bf59df9078d180d",
+      "date": 1434120030267
+    },
+    {
+      "type": "edit",
+      "id": "40cb498702d81f34",
+      "item": {
+        "type": "paragraph",
+        "id": "40cb498702d81f34",
+        "text": "A site's pages can be stored as flat files in a directory, a single json file with all pages in 'export' format, or in some other store such as a database."
+      },
+      "date": 1434120451282
+    },
+    {
+      "type": "add",
+      "id": "340f233a10a88068",
+      "item": {
+        "type": "paragraph",
+        "id": "340f233a10a88068",
+        "text": "Files are easily moved between servers. Pages stored in databases can be moved by exporting to a file."
+      },
+      "after": "40cb498702d81f34",
+      "date": 1434120514621
+    },
+    {
+      "type": "add",
+      "id": "6a4bfe2788581158",
+      "item": {
+        "type": "paragraph",
+        "id": "6a4bfe2788581158",
+        "text": "[[Restore]] from backup files or export."
+      },
+      "after": "340f233a10a88068",
+      "date": 1434120722466
+    },
+    {
+      "type": "fork",
+      "site": "admin.asia.wiki.org",
+      "date": 1522061994030
+    }
+  ]
+}

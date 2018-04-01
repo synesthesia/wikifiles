@@ -1,0 +1,151 @@
+{
+  "title": "Journal",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "38c3927480a055f6",
+      "text": "[[Why Journal]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "696a42150633f53b",
+      "text": "[[Journal 2018]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3d3ac729b6055684",
+      "text": "[[Journal 2016]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Journal",
+        "story": []
+      },
+      "date": 1454580815674
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "48d569a6b3c6c7c5"
+      },
+      "id": "48d569a6b3c6c7c5",
+      "type": "add",
+      "date": 1454580818182
+    },
+    {
+      "type": "edit",
+      "id": "48d569a6b3c6c7c5",
+      "item": {
+        "type": "paragraph",
+        "id": "48d569a6b3c6c7c5",
+        "text": "I think [[Federated Wiki "
+      },
+      "date": 1454580830135
+    },
+    {
+      "type": "edit",
+      "id": "48d569a6b3c6c7c5",
+      "item": {
+        "type": "paragraph",
+        "id": "48d569a6b3c6c7c5",
+        "text": "I think [[Federated Wiki]] has huge potential for  using as a journal that escapes the constraints of [{StreamMode]]"
+      },
+      "date": 1454580943123
+    },
+    {
+      "type": "edit",
+      "id": "48d569a6b3c6c7c5",
+      "item": {
+        "type": "paragraph",
+        "id": "48d569a6b3c6c7c5",
+        "text": "I think [[Federated Wiki]] has huge potential for  using as a journal that escapes the constraints of [[StreamMode]]"
+      },
+      "date": 1454580950803
+    },
+    {
+      "type": "add",
+      "id": "8399557553627e47",
+      "item": {
+        "type": "paragraph",
+        "id": "8399557553627e47",
+        "text": "Others have written about the power of [[Using a Wiki For your Notebook]]"
+      },
+      "after": "48d569a6b3c6c7c5",
+      "date": 1454581006851
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "38c3927480a055f6"
+      },
+      "id": "38c3927480a055f6",
+      "type": "add",
+      "after": "8399557553627e47",
+      "date": 1454581625535
+    },
+    {
+      "type": "edit",
+      "id": "38c3927480a055f6",
+      "item": {
+        "type": "paragraph",
+        "id": "38c3927480a055f6",
+        "text": "[[Why Journal]]"
+      },
+      "date": 1454581633121
+    },
+    {
+      "type": "move",
+      "order": [
+        "38c3927480a055f6",
+        "48d569a6b3c6c7c5",
+        "8399557553627e47"
+      ],
+      "id": "38c3927480a055f6",
+      "date": 1454581635250
+    },
+    {
+      "type": "remove",
+      "id": "8399557553627e47",
+      "date": 1454581645384
+    },
+    {
+      "type": "remove",
+      "id": "48d569a6b3c6c7c5",
+      "date": 1454581647961
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3d3ac729b6055684"
+      },
+      "id": "3d3ac729b6055684",
+      "type": "add",
+      "after": "38c3927480a055f6",
+      "date": 1454581651687
+    },
+    {
+      "type": "edit",
+      "id": "3d3ac729b6055684",
+      "item": {
+        "type": "paragraph",
+        "id": "3d3ac729b6055684",
+        "text": "[[Journal 2016]]"
+      },
+      "date": 1454581660033
+    },
+    {
+      "type": "add",
+      "id": "696a42150633f53b",
+      "item": {
+        "type": "paragraph",
+        "id": "696a42150633f53b",
+        "text": "[[Journal 2018]]"
+      },
+      "after": "38c3927480a055f6",
+      "date": 1522057157977
+    }
+  ]
+}

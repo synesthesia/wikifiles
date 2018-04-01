@@ -1,0 +1,153 @@
+{
+  "title": "How Federated Wiki neighborhoods grow and change",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d27f9d81f8455f8c",
+      "text": "[http://blog.jonudell.net/ Jon Udell] writes:"
+    },
+    {
+      "type": "markdown",
+      "id": "5eb480a291d4119f",
+      "text": "*Federated Wiki sites form neighborhoods that change dynamically as you navigate FedWiki space. Sites that are within your current neighborhood are special in two ways: you can link to them by names alone (versus full URLs), and you can search them.*"
+    },
+    {
+      "type": "paragraph",
+      "id": "e03f361553693c33",
+      "text": "- [http://blog.jonudell.net/2015/01/02/how-federated-wiki-neighborhoods-grow-and-change/ blog post]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "How Federated Wiki neighborhoods grow and change",
+        "story": []
+      },
+      "date": 1454595502143
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "97a33d099c09e33d"
+      },
+      "id": "97a33d099c09e33d",
+      "type": "add",
+      "date": 1454595504653
+    },
+    {
+      "type": "edit",
+      "id": "97a33d099c09e33d",
+      "item": {
+        "type": "factory",
+        "id": "97a33d099c09e33d",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://blog.jonudell.net/2015/01/02/how-federated-wiki-neighborhoods-grow-and-change/",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36"
+        }
+      },
+      "date": 1454595508776
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d27f9d81f8455f8c"
+      },
+      "id": "d27f9d81f8455f8c",
+      "type": "add",
+      "after": "97a33d099c09e33d",
+      "date": 1454595537523
+    },
+    {
+      "type": "remove",
+      "id": "97a33d099c09e33d",
+      "date": 1454595545046
+    },
+    {
+      "type": "edit",
+      "id": "d27f9d81f8455f8c",
+      "item": {
+        "type": "paragraph",
+        "id": "d27f9d81f8455f8c",
+        "text": "[http://blog.jonudell.net/ Jon Udell] writes:"
+      },
+      "date": 1454595565599
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0650960e4f89e466"
+      },
+      "id": "0650960e4f89e466",
+      "type": "add",
+      "after": "d27f9d81f8455f8c",
+      "date": 1454595576192
+    },
+    {
+      "type": "edit",
+      "id": "0650960e4f89e466",
+      "item": {
+        "type": "paragraph",
+        "id": "0650960e4f89e466",
+        "text": "Federated Wiki sites form neighborhoods that change dynamically as you navigate FedWiki space. Sites that are within your current neighborhood are special in two ways: you can link to them by names alone (versus full URLs), and you can search them."
+      },
+      "date": 1454595581756
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e03f361553693c33"
+      },
+      "id": "e03f361553693c33",
+      "type": "add",
+      "after": "0650960e4f89e466",
+      "date": 1454595629645
+    },
+    {
+      "type": "edit",
+      "id": "e03f361553693c33",
+      "item": {
+        "type": "paragraph",
+        "id": "e03f361553693c33",
+        "text": "- [http://blog.jonudell.net/2015/01/02/how-federated-wiki-neighborhoods-grow-and-change/ blog post]"
+      },
+      "date": 1454595641612
+    },
+    {
+      "type": "remove",
+      "id": "0650960e4f89e466",
+      "date": 1454595653893
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5eb480a291d4119f"
+      },
+      "id": "5eb480a291d4119f",
+      "type": "add",
+      "after": "e03f361553693c33",
+      "date": 1454595655836
+    },
+    {
+      "type": "edit",
+      "id": "5eb480a291d4119f",
+      "item": {
+        "type": "markdown",
+        "id": "5eb480a291d4119f",
+        "text": "*Federated Wiki sites form neighborhoods that change dynamically as you navigate FedWiki space. Sites that are within your current neighborhood are special in two ways: you can link to them by names alone (versus full URLs), and you can search them.*"
+      },
+      "date": 1454595660334
+    },
+    {
+      "type": "move",
+      "order": [
+        "d27f9d81f8455f8c",
+        "5eb480a291d4119f",
+        "e03f361553693c33"
+      ],
+      "id": "5eb480a291d4119f",
+      "date": 1454595662758
+    }
+  ]
+}

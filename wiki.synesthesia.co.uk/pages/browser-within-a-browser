@@ -1,0 +1,80 @@
+{
+  "title": "Browser Within a Browser",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "67ee02c347b7fb27",
+      "text": "Fedwiki (as it stands now) is a \"newer kind of browser inside an older one\" (Ward). It achieves this by using features of HTML 5. "
+    },
+    {
+      "type": "paragraph",
+      "id": "f0bec610287a3fa3",
+      "text": "By hijacking the normal browser interface, Federated Wiki is able to process many things client-side that are normally processed server-side, and to provide conventions that make sense for a federated system."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Browser Within a Browser",
+        "story": []
+      },
+      "date": 1423000321899
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "67ee02c347b7fb27"
+      },
+      "id": "67ee02c347b7fb27",
+      "type": "add",
+      "date": 1423000323657
+    },
+    {
+      "type": "edit",
+      "id": "67ee02c347b7fb27",
+      "item": {
+        "type": "paragraph",
+        "id": "67ee02c347b7fb27",
+        "text": "Fedwiki (as it stands now) is a \"newer kind of browser inside an older one\". It achieves this by using features of HTML5. "
+      },
+      "date": 1423000446227
+    },
+    {
+      "type": "add",
+      "id": "f0bec610287a3fa3",
+      "item": {
+        "type": "paragraph",
+        "id": "f0bec610287a3fa3",
+        "text": "By hijacking the normal browser interface, Federated Wiki is able to process many things client-side that are normally processed server-side, and to provide conventions that make sense for a federated system."
+      },
+      "after": "67ee02c347b7fb27",
+      "date": 1423000552969
+    },
+    {
+      "type": "edit",
+      "id": "67ee02c347b7fb27",
+      "item": {
+        "type": "paragraph",
+        "id": "67ee02c347b7fb27",
+        "text": "Fedwiki (as it stands now) is a \"newer kind of browser inside an older one\". It achieves this by using features of HTML 5. "
+      },
+      "date": 1423000569975
+    },
+    {
+      "type": "edit",
+      "id": "67ee02c347b7fb27",
+      "item": {
+        "type": "paragraph",
+        "id": "67ee02c347b7fb27",
+        "text": "Fedwiki (as it stands now) is a \"newer kind of browser inside an older one\" (Ward). It achieves this by using features of HTML 5. "
+      },
+      "date": 1423001778774
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454487155546
+    }
+  ]
+}

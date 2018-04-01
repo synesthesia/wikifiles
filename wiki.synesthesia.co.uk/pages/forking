@@ -1,0 +1,158 @@
+{
+  "title": "Forking",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "985fc7fb7c443af3",
+      "text": "Forking is a technical term, derived from the sort of fork in the phrase \"a fork in the road\". It's \"to split off\"."
+    },
+    {
+      "type": "paragraph",
+      "id": "00c7d700db9069c0",
+      "text": "When you edit someone's document in Federated Wiki, you are creating your own copy which \"splits off\" from the version you copied from."
+    },
+    {
+      "type": "paragraph",
+      "id": "ed5fb50a58afa0d4",
+      "text": "This means there will a lot of different versions of some documents, and this can be distressing at first. Which one is the \"right\" one?"
+    },
+    {
+      "type": "paragraph",
+      "id": "9b4caf95f812d41e",
+      "text": "In practice, outside certain situations, this matters less than you think. Try to roll with it for a bit. "
+    },
+    {
+      "type": "paragraph",
+      "id": "84d7405e6862a8c4",
+      "text": "(Software people should note that there's nothing equivalent to a \"merge\" or a \"pull request\" yet in federated wiki. We've experimented with some features but want to see how people actually use the software before going further with design.)"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Forking",
+        "story": []
+      },
+      "date": 1422996483574
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "985fc7fb7c443af3"
+      },
+      "id": "985fc7fb7c443af3",
+      "type": "add",
+      "date": 1422996485018
+    },
+    {
+      "type": "edit",
+      "id": "985fc7fb7c443af3",
+      "item": {
+        "type": "paragraph",
+        "id": "985fc7fb7c443af3",
+        "text": "Forking is a technical term, derived from the sort of fork in the phrase \"a fork in the road\". It's \"to split off\"."
+      },
+      "date": 1422996590960
+    },
+    {
+      "type": "add",
+      "id": "00c7d700db9069c0",
+      "item": {
+        "type": "paragraph",
+        "id": "00c7d700db9069c0",
+        "text": "When you edit someone's document in Federated Wiki, you are creating your own copy which \"splits off\" from the version you copied from."
+      },
+      "after": "985fc7fb7c443af3",
+      "date": 1422996650675
+    },
+    {
+      "type": "add",
+      "id": "84d7405e6862a8c4",
+      "item": {
+        "type": "paragraph",
+        "id": "84d7405e6862a8c4",
+        "text": "Software people should note that there's nothing equivalent to a \"merge\" or a \"pull request\" yet in federated wiki. We've experimented with some features"
+      },
+      "after": "00c7d700db9069c0",
+      "date": 1422996732722
+    },
+    {
+      "type": "edit",
+      "id": "84d7405e6862a8c4",
+      "item": {
+        "type": "paragraph",
+        "id": "84d7405e6862a8c4",
+        "text": "(Software people should note that there's nothing equivalent to a \"merge\" or a \"pull request\" yet in federated wiki. We've experimented with some features but want to see how people actually use the software before going further with design)."
+      },
+      "date": 1422996760434
+    },
+    {
+      "type": "edit",
+      "id": "84d7405e6862a8c4",
+      "item": {
+        "type": "paragraph",
+        "id": "84d7405e6862a8c4",
+        "text": "(Software people should note that there's nothing equivalent to a \"merge\" or a \"pull request\" yet in federated wiki. We've experimented with some features but want to see how people actually use the software before going further with design.)"
+      },
+      "date": 1422996764051
+    },
+    {
+      "type": "add",
+      "id": "ed5fb50a58afa0d4",
+      "item": {
+        "type": "paragraph",
+        "id": "ed5fb50a58afa0d4",
+        "text": "You end up with a lot of different versions of a document, and this can be distressing at first. Which one is the \"right\" one. "
+      },
+      "after": "00c7d700db9069c0",
+      "date": 1422996837929
+    },
+    {
+      "type": "add",
+      "id": "9b4caf95f812d41e",
+      "item": {
+        "type": "paragraph",
+        "id": "9b4caf95f812d41e",
+        "text": "In practice, outside certain situations, this matters less than you think. "
+      },
+      "after": "ed5fb50a58afa0d4",
+      "date": 1422996964430
+    },
+    {
+      "type": "edit",
+      "id": "ed5fb50a58afa0d4",
+      "item": {
+        "type": "paragraph",
+        "id": "ed5fb50a58afa0d4",
+        "text": "This means there will a lot of different versions of some documents, and this can be distressing at first. Which one is the \"right\" one. "
+      },
+      "date": 1422997604684
+    },
+    {
+      "type": "edit",
+      "id": "ed5fb50a58afa0d4",
+      "item": {
+        "type": "paragraph",
+        "id": "ed5fb50a58afa0d4",
+        "text": "This means there will a lot of different versions of some documents, and this can be distressing at first. Which one is the \"right\" one?"
+      },
+      "date": 1422997610589
+    },
+    {
+      "type": "edit",
+      "id": "9b4caf95f812d41e",
+      "item": {
+        "type": "paragraph",
+        "id": "9b4caf95f812d41e",
+        "text": "In practice, outside certain situations, this matters less than you think. Try to roll with it for a bit. "
+      },
+      "date": 1422997632140
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454487147970
+    }
+  ]
+}

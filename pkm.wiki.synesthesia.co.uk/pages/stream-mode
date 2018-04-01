@@ -1,0 +1,193 @@
+{
+  "title": "Stream Mode",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "27d7f73586c5bb41",
+      "text": "The tendency of social media tools to present content as a chronological stream."
+    },
+    {
+      "type": "markdown",
+      "id": "e97f05b4ca29ed32",
+      "text": "[http://hapgood.us/ Mike Caulfield] coined the term and defines it as \n*that running serialization that sees all things as sequenced speech events* [http://hapgood.us/2014/09/07/peak-streammode/ blog]"
+    },
+    {
+      "type": "markdown",
+      "id": "2c6397e550e82c62",
+      "text": "cf [[StateMode]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Stream Mode",
+        "story": []
+      },
+      "date": 1455176567736
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "27d7f73586c5bb41"
+      },
+      "id": "27d7f73586c5bb41",
+      "type": "add",
+      "date": 1455176569839
+    },
+    {
+      "type": "edit",
+      "id": "27d7f73586c5bb41",
+      "item": {
+        "type": "paragraph",
+        "id": "27d7f73586c5bb41",
+        "text": "The tendency of social media tools to present content as a chronological stream."
+      },
+      "date": 1455176604832
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "29739560c9c0ea80"
+      },
+      "id": "29739560c9c0ea80",
+      "type": "add",
+      "after": "27d7f73586c5bb41",
+      "date": 1455176606516
+    },
+    {
+      "type": "edit",
+      "id": "29739560c9c0ea80",
+      "item": {
+        "type": "factory",
+        "id": "29739560c9c0ea80",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://hapgood.us/2014/09/07/peak-streammode/",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36"
+        }
+      },
+      "date": 1455176625800
+    },
+    {
+      "type": "edit",
+      "id": "29739560c9c0ea80",
+      "item": {
+        "type": "paragraph",
+        "id": "29739560c9c0ea80",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://hapgood.us/2014/09/07/peak-streammode/",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36"
+        },
+        "text": "[[http://hapgood.us mIKE cAULFIELD]]"
+      },
+      "date": 1455176652767
+    },
+    {
+      "type": "remove",
+      "id": "29739560c9c0ea80",
+      "date": 1455176669958
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e97f05b4ca29ed32"
+      },
+      "id": "e97f05b4ca29ed32",
+      "type": "add",
+      "after": "27d7f73586c5bb41",
+      "date": 1455176672303
+    },
+    {
+      "type": "edit",
+      "id": "e97f05b4ca29ed32",
+      "item": {
+        "type": "markdown",
+        "id": "e97f05b4ca29ed32",
+        "text": "[mIKE cAULFIELD](http://hapgood.us/)"
+      },
+      "date": 1455176685764
+    },
+    {
+      "type": "edit",
+      "id": "e97f05b4ca29ed32",
+      "item": {
+        "type": "markdown",
+        "id": "e97f05b4ca29ed32",
+        "text": "[Mike Caulfield](http://hapgood.us/)"
+      },
+      "date": 1455176698951
+    },
+    {
+      "type": "edit",
+      "id": "e97f05b4ca29ed32",
+      "item": {
+        "type": "markdown",
+        "id": "e97f05b4ca29ed32",
+        "text": "[http://hapgood.us/ Mike Caulfield]"
+      },
+      "date": 1455176767412
+    },
+    {
+      "type": "edit",
+      "id": "e97f05b4ca29ed32",
+      "item": {
+        "type": "markdown",
+        "id": "e97f05b4ca29ed32",
+        "text": "[http://hapgood.us/ Mike Caulfield] coined the term and defines it as \n*that running serialization that sees all things as sequenced speech events*"
+      },
+      "date": 1455176868224
+    },
+    {
+      "type": "edit",
+      "id": "e97f05b4ca29ed32",
+      "item": {
+        "type": "markdown",
+        "id": "e97f05b4ca29ed32",
+        "text": "[http://hapgood.us/ Mike Caulfield] coined the term and defines it as \n*that running serialization that sees all things as sequenced speech events* [blog]"
+      },
+      "date": 1455176880413
+    },
+    {
+      "type": "edit",
+      "id": "e97f05b4ca29ed32",
+      "item": {
+        "type": "markdown",
+        "id": "e97f05b4ca29ed32",
+        "text": "[http://hapgood.us/ Mike Caulfield] coined the term and defines it as \n*that running serialization that sees all things as sequenced speech events* [http://hapgood.us/2014/09/07/peak-streammode/ blog]"
+      },
+      "date": 1455176904320
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2c6397e550e82c62"
+      },
+      "id": "2c6397e550e82c62",
+      "type": "add",
+      "after": "e97f05b4ca29ed32",
+      "date": 1455176959981
+    },
+    {
+      "type": "edit",
+      "id": "2c6397e550e82c62",
+      "item": {
+        "type": "markdown",
+        "id": "2c6397e550e82c62",
+        "text": "cf [["
+      },
+      "date": 1455176967372
+    },
+    {
+      "type": "edit",
+      "id": "2c6397e550e82c62",
+      "item": {
+        "type": "markdown",
+        "id": "2c6397e550e82c62",
+        "text": "cf [[StateMode]]"
+      },
+      "date": 1455176995976
+    }
+  ]
+}

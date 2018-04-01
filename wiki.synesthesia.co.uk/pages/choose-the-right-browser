@@ -1,0 +1,92 @@
+{
+  "title": "Choose the Right Browser",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8199ccaa2c37a65c",
+      "text": "Federated Wiki uses fairly advanced HTML to accomplish what it does. In our experience, only Chrome and Firefox provide good experiences. "
+    },
+    {
+      "type": "paragraph",
+      "id": "9702c125ac5f8fa3",
+      "text": "Safari, Internet Explorer, Opera, and other browsers with limited HTML 5 support should be avoided."
+    },
+    {
+      "type": "paragraph",
+      "id": "56937fe55e0299db",
+      "text": "Mobile support is likewise limited and a bad choice for editing, although we have found a number of mobile browsers provide a passable reading experience."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Choose the Right Browser",
+        "story": []
+      },
+      "date": 1422918547234
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "8199ccaa2c37a65c",
+        "text": "Federated Wiki uses fairly advanced HTML to accomplish what it does. In our experience, only Chrome and Firefox provide good experiences. "
+      },
+      "id": "8199ccaa2c37a65c",
+      "date": 1422918565492
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "9702c125ac5f8fa3",
+        "text": "Safari, Internet Explorer, Opera, and other browsers with limited HTML 5 support should be avoided."
+      },
+      "after": "8199ccaa2c37a65c",
+      "id": "9702c125ac5f8fa3",
+      "date": 1422918567968
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "56937fe55e0299db",
+        "text": "Mobile support is likewise limited, although we have found a number of mobile browsers provide a passable reading experience especially on tablets."
+      },
+      "after": "9702c125ac5f8fa3",
+      "id": "56937fe55e0299db",
+      "date": 1422918570443
+    },
+    {
+      "type": "edit",
+      "id": "56937fe55e0299db",
+      "item": {
+        "type": "paragraph",
+        "id": "56937fe55e0299db",
+        "text": "Mobile support is likewise limited and a bad choice for editing, although we have found a number of mobile browsers provide a passable reading experience."
+      },
+      "date": 1422918819928
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3a6baa04cddb5a8b"
+      },
+      "id": "3a6baa04cddb5a8b",
+      "type": "add",
+      "after": "56937fe55e0299db",
+      "date": 1423508262768
+    },
+    {
+      "type": "remove",
+      "id": "3a6baa04cddb5a8b",
+      "date": 1423508325183
+    },
+    {
+      "type": "fork",
+      "site": "orientation.hapgood.net",
+      "date": 1454431977629
+    }
+  ]
+}

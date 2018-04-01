@@ -1,0 +1,1672 @@
+{
+  "title": "Composing and Editing in Federated Wiki",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "0dbf91f1461ed05d",
+      "text": "##What can you include in a Federated Wiki page?"
+    },
+    {
+      "type": "paragraph",
+      "id": "1dc22aed4c97f868",
+      "text": "The basic elements of a Federated Wiki page are text paragraphs, images, videos, headers, page dividers, and links either to other pages in Federated Wiki or to external webpages."
+    },
+    {
+      "type": "markdown",
+      "id": "9b6510d29142bd52",
+      "text": "##Getting started with writing and editing"
+    },
+    {
+      "type": "paragraph",
+      "id": "417817dd9e8c3357",
+      "text": "Read first: [[Understanding the Factory]] and [[Understanding the Journal]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "298e944f84fcadc1",
+      "text": "Open up the Factory, and double click on the Factory pane. This will open a Text Editor box. Write in the box. When you're done, click outside the box or hit return."
+    },
+    {
+      "type": "paragraph",
+      "id": "c9be1468ca3080f8",
+      "text": "Keep doing this until you're familiar with how to create paragraphs."
+    },
+    {
+      "type": "paragraph",
+      "id": "2b6cac737f4272a1",
+      "text": "To edit a paragraph, double click anywhere in the paragraph and the Text Editor will open up again."
+    },
+    {
+      "type": "paragraph",
+      "id": "6e49e71138a1db6d",
+      "text": "To delete a paragraph, double click anywhere in the paragraph, and remove all the content from the Text Editor. Click outside the box when you're done."
+    },
+    {
+      "type": "paragraph",
+      "id": "71ba34faeded4971",
+      "text": "To break up a long paragraph, double click anywhere in the paragraph and hit return where you want the paragraph to break."
+    },
+    {
+      "type": "markdown",
+      "id": "d4c61cb39f9b62f0",
+      "text": "##Using headings and page dividers"
+    },
+    {
+      "type": "paragraph",
+      "id": "919f4b3297a8528e",
+      "text": "Headers and page dividers are visual aids to help the reader. Access these through the list of plugins in the Factory. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7fdff4d7102ce132",
+      "text": "To write header text, click on the Markdown link, and in the text box, write ## followed by your header text. Click outside the box when you're done. If you want to see what this looks like, double click on any of the headers on this page."
+    },
+    {
+      "type": "paragraph",
+      "id": "f3ec1401ac0e514d",
+      "text": "To add a page divider, click on the PageFold link and in the text box, write the word or words you want to appear embedded in the pale grey line. Click outside the box when you're done. To see what this looks like, double click on the page divider below this paragraph."
+    },
+    {
+      "type": "pagefold",
+      "id": "378a1157b2c7106b",
+      "text": "sample page divider"
+    },
+    {
+      "type": "paragraph",
+      "id": "8c0fe157394b782d",
+      "text": "Use a page divider to separate text from discussion, or to begin and end a quote."
+    },
+    {
+      "type": "markdown",
+      "id": "f34c7d036f7f1801",
+      "text": "##Using html"
+    },
+    {
+      "type": "paragraph",
+      "id": "21abb5affc032c48",
+      "text": "Plain text is best in Federated Wiki but you can click on html in the Factory and this will open up a Text Editor that accepts html."
+    },
+    {
+      "type": "markdown",
+      "id": "11d3a9911eec3ff8",
+      "text": "##Creating links"
+    },
+    {
+      "type": "paragraph",
+      "id": "a86b0e3c62d02607",
+      "text": "To create a link to another page in Federated Wiki, or to build a link to a page that hasn't been created yet, put the exact page title inside double square brackets. To see what this looks like, double click on this paragraph. Related: [[Defense of Capitalized Titles]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8e64d1b4707381a8",
+      "text": "To create a link to an external page, put the URL for the page inside single square brackets and at the end of the link leave one space then write the descriptive term for the type of page you're linking to. If it's a blog, say \"blog\". If it's a PDF, say \"PDF\". This word will be hyperlinked, and it tells the reader that the link is outside Federated Wiki. To see what this looks like, double click on this paragraph. [http://hapgood.us/2014/12/21/helping-the-right-ideas-find-one-another-fedwiki-happening/ blog]"
+    },
+    {
+      "type": "markdown",
+      "id": "d51395095f2317f1",
+      "text": "##Moving things around"
+    },
+    {
+      "type": "paragraph",
+      "id": "47a1e98da37e63a5",
+      "text": "Any of the page elements—including headers and page dividers—can be dragged around. Images will stay on the right hand side and text will wrap around them. To see how this works, try moving the elements of this page around. Don't worry, you can always put them back."
+    },
+    {
+      "type": "html",
+      "id": "2a8d18acfd45f915",
+      "text": "<h3> Recovering from problems"
+    },
+    {
+      "type": "paragraph",
+      "id": "a7190268041100ef",
+      "text": "From time to time, and for reasons that are not always understandable, elements may appear that can be difficult to remove."
+    },
+    {
+      "type": "paragraph",
+      "id": "737671b5a33387e4",
+      "text": "At your starting point in Fedwiki, you probably have a page where you record the pages you create.  It's a good idea to create your own Scratch page (in the usual way with double square brackets). If you open up fedwiki in a new window, and find the scratch page, you can drag it over to the first window by grabbing the avatar of the page."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Composing and Editing in Federated Wiki",
+        "story": []
+      },
+      "date": 1420452375075
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0dbf91f1461ed05d"
+      },
+      "id": "0dbf91f1461ed05d",
+      "type": "add",
+      "date": 1420452399062
+    },
+    {
+      "type": "edit",
+      "id": "0dbf91f1461ed05d",
+      "item": {
+        "type": "markdown",
+        "id": "0dbf91f1461ed05d",
+        "text": "##How do you work on a Federated Wiki page?"
+      },
+      "date": 1420452445893
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1dc22aed4c97f868"
+      },
+      "id": "1dc22aed4c97f868",
+      "type": "add",
+      "after": "0dbf91f1461ed05d",
+      "date": 1420452452530
+    },
+    {
+      "type": "edit",
+      "id": "1dc22aed4c97f868",
+      "item": {
+        "type": "paragraph",
+        "id": "1dc22aed4c97f868",
+        "text": "A page in Federated Wiki can include plain text paragraphs, page dividers, images, embedded videos, and  "
+      },
+      "date": 1420452645484
+    },
+    {
+      "type": "edit",
+      "id": "0dbf91f1461ed05d",
+      "item": {
+        "type": "markdown",
+        "id": "0dbf91f1461ed05d",
+        "text": "##How do you compose and edit a Federated Wiki page?"
+      },
+      "date": 1420452653977
+    },
+    {
+      "type": "edit",
+      "id": "1dc22aed4c97f868",
+      "item": {
+        "type": "paragraph",
+        "id": "1dc22aed4c97f868",
+        "text": "The basic building blocks of a Federated Wiki page are plain text paragraphs, page dividers, images, embedded videos, and links to other pages in Federated Wiki or external webpages."
+      },
+      "date": 1420452750932
+    },
+    {
+      "type": "edit",
+      "id": "0dbf91f1461ed05d",
+      "item": {
+        "type": "markdown",
+        "id": "0dbf91f1461ed05d",
+        "text": "##What can you include in a Federated Wiki page?"
+      },
+      "date": 1420452786953
+    },
+    {
+      "type": "add",
+      "id": "238b30078ac977e0",
+      "item": {
+        "type": "paragraph",
+        "id": "238b30078ac977e0",
+        "text": "[You can also include ... a whole lot of things Kate doesn't fully understand. Can someone else explain this?]"
+      },
+      "after": "1dc22aed4c97f868",
+      "date": 1420452829187
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9b6510d29142bd52"
+      },
+      "id": "9b6510d29142bd52",
+      "type": "add",
+      "after": "671a1c01e5bebf41",
+      "date": 1420452887268
+    },
+    {
+      "type": "edit",
+      "id": "9b6510d29142bd52",
+      "item": {
+        "type": "markdown",
+        "id": "9b6510d29142bd52",
+        "text": "##Getting started"
+      },
+      "date": 1420452895691
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "298e944f84fcadc1"
+      },
+      "id": "298e944f84fcadc1",
+      "type": "add",
+      "after": "9b6510d29142bd52",
+      "date": 1420452905876
+    },
+    {
+      "type": "edit",
+      "id": "298e944f84fcadc1",
+      "item": {
+        "type": "paragraph",
+        "id": "298e944f84fcadc1",
+        "text": "Open up the Factory, and double click on the Factory pane. This will open a Text Editor box. Write in the box. When you're done, click outside the box."
+      },
+      "date": 1420452973796
+    },
+    {
+      "type": "edit",
+      "id": "298e944f84fcadc1",
+      "item": {
+        "type": "paragraph",
+        "id": "298e944f84fcadc1",
+        "text": "Open up the Factory, and double click on the Factory pane. This will open a Text Editor box. Write in the box. When you're done, click outside the box or hit return."
+      },
+      "date": 1420452982631
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d51395095f2317f1"
+      },
+      "id": "d51395095f2317f1",
+      "type": "add",
+      "after": "298e944f84fcadc1",
+      "date": 1420452984427
+    },
+    {
+      "type": "add",
+      "id": "c9be1468ca3080f8",
+      "item": {
+        "type": "paragraph",
+        "id": "c9be1468ca3080f8",
+        "text": "Keep doing this until you're familiar with how to create paragraphs."
+      },
+      "after": "298e944f84fcadc1",
+      "date": 1420453006396
+    },
+    {
+      "type": "add",
+      "id": "417817dd9e8c3357",
+      "item": {
+        "type": "paragraph",
+        "id": "417817dd9e8c3357",
+        "text": "Related: [[Understanding the Factory]]"
+      },
+      "after": "c9be1468ca3080f8",
+      "date": 1420453055087
+    },
+    {
+      "type": "edit",
+      "id": "417817dd9e8c3357",
+      "item": {
+        "type": "paragraph",
+        "id": "417817dd9e8c3357",
+        "text": "Related: [[Understanding the Factory]] and [[Understanding the Journal]]"
+      },
+      "date": 1420453072882
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "47a1e98da37e63a5"
+      },
+      "id": "47a1e98da37e63a5",
+      "type": "add",
+      "after": "d51395095f2317f1",
+      "date": 1420453093410
+    },
+    {
+      "type": "edit",
+      "id": "d51395095f2317f1",
+      "item": {
+        "type": "markdown",
+        "id": "d51395095f2317f1",
+        "text": "##Moving things around"
+      },
+      "date": 1420453109275
+    },
+    {
+      "type": "edit",
+      "id": "47a1e98da37e63a5",
+      "item": {
+        "type": "paragraph",
+        "id": "47a1e98da37e63a5",
+        "text": "Any of the elements on a Federated Page can be dragged around. Images will stay on the right hand side and text will wrap around them."
+      },
+      "date": 1420453168611
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d4c61cb39f9b62f0"
+      },
+      "id": "d4c61cb39f9b62f0",
+      "type": "add",
+      "after": "47a1e98da37e63a5",
+      "date": 1420453186526
+    },
+    {
+      "type": "edit",
+      "id": "d4c61cb39f9b62f0",
+      "item": {
+        "type": "markdown",
+        "id": "d4c61cb39f9b62f0",
+        "text": "##Using headings and page breaks"
+      },
+      "date": 1420453212014
+    },
+    {
+      "type": "move",
+      "order": [
+        "0dbf91f1461ed05d",
+        "1dc22aed4c97f868",
+        "238b30078ac977e0",
+        "9b6510d29142bd52",
+        "298e944f84fcadc1",
+        "c9be1468ca3080f8",
+        "417817dd9e8c3357",
+        "d4c61cb39f9b62f0",
+        "d51395095f2317f1",
+        "47a1e98da37e63a5"
+      ],
+      "id": "d4c61cb39f9b62f0",
+      "date": 1420453230034
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "919f4b3297a8528e"
+      },
+      "id": "919f4b3297a8528e",
+      "type": "add",
+      "after": "47a1e98da37e63a5",
+      "date": 1420453241151
+    },
+    {
+      "type": "edit",
+      "id": "919f4b3297a8528e",
+      "item": {
+        "type": "paragraph",
+        "id": "919f4b3297a8528e",
+        "text": "Headers and page breaks are helpful to the reader. Access these through the list of plugins in the Factory. "
+      },
+      "date": 1420453356472
+    },
+    {
+      "type": "add",
+      "id": "7fdff4d7102ce132",
+      "item": {
+        "type": "paragraph",
+        "id": "7fdff4d7102ce132",
+        "text": "To write simple headers, click on the Markdown link, and in the text box, write ## and your header text."
+      },
+      "after": "919f4b3297a8528e",
+      "date": 1420453381428
+    },
+    {
+      "type": "edit",
+      "id": "7fdff4d7102ce132",
+      "item": {
+        "type": "paragraph",
+        "id": "7fdff4d7102ce132",
+        "text": "To write simple headers, click on the Markdown link, and in the text box, write ## followed by your header text."
+      },
+      "date": 1420453393866
+    },
+    {
+      "type": "add",
+      "id": "f3ec1401ac0e514d",
+      "item": {
+        "type": "paragraph",
+        "id": "f3ec1401ac0e514d",
+        "text": "To add a page break, click on the PageFold link and in the text box, write the word or words you want to appear embedded in the page break. Click outside the box when you're done."
+      },
+      "after": "7fdff4d7102ce132",
+      "date": 1420453438672
+    },
+    {
+      "type": "edit",
+      "id": "7fdff4d7102ce132",
+      "item": {
+        "type": "paragraph",
+        "id": "7fdff4d7102ce132",
+        "text": "To write simple headers, click on the Markdown link, and in the text box, write ## followed by your header text. Click outside the box when you're done."
+      },
+      "date": 1420453451189
+    },
+    {
+      "type": "move",
+      "order": [
+        "0dbf91f1461ed05d",
+        "1dc22aed4c97f868",
+        "238b30078ac977e0",
+        "9b6510d29142bd52",
+        "298e944f84fcadc1",
+        "c9be1468ca3080f8",
+        "417817dd9e8c3357",
+        "d4c61cb39f9b62f0",
+        "919f4b3297a8528e",
+        "d51395095f2317f1",
+        "47a1e98da37e63a5",
+        "7fdff4d7102ce132",
+        "f3ec1401ac0e514d"
+      ],
+      "id": "919f4b3297a8528e",
+      "date": 1420453465435
+    },
+    {
+      "type": "move",
+      "order": [
+        "0dbf91f1461ed05d",
+        "1dc22aed4c97f868",
+        "238b30078ac977e0",
+        "9b6510d29142bd52",
+        "298e944f84fcadc1",
+        "c9be1468ca3080f8",
+        "417817dd9e8c3357",
+        "d4c61cb39f9b62f0",
+        "919f4b3297a8528e",
+        "7fdff4d7102ce132",
+        "d51395095f2317f1",
+        "47a1e98da37e63a5",
+        "f3ec1401ac0e514d"
+      ],
+      "id": "7fdff4d7102ce132",
+      "date": 1420453467444
+    },
+    {
+      "type": "move",
+      "order": [
+        "0dbf91f1461ed05d",
+        "1dc22aed4c97f868",
+        "238b30078ac977e0",
+        "9b6510d29142bd52",
+        "298e944f84fcadc1",
+        "c9be1468ca3080f8",
+        "417817dd9e8c3357",
+        "d4c61cb39f9b62f0",
+        "919f4b3297a8528e",
+        "7fdff4d7102ce132",
+        "f3ec1401ac0e514d",
+        "d51395095f2317f1",
+        "47a1e98da37e63a5"
+      ],
+      "id": "f3ec1401ac0e514d",
+      "date": 1420453469177
+    },
+    {
+      "type": "edit",
+      "id": "238b30078ac977e0",
+      "item": {
+        "type": "paragraph",
+        "id": "238b30078ac977e0",
+        "text": "[What else?]"
+      },
+      "date": 1420453498234
+    },
+    {
+      "type": "move",
+      "order": [
+        "0dbf91f1461ed05d",
+        "1dc22aed4c97f868",
+        "238b30078ac977e0",
+        "9b6510d29142bd52",
+        "417817dd9e8c3357",
+        "298e944f84fcadc1",
+        "c9be1468ca3080f8",
+        "d4c61cb39f9b62f0",
+        "919f4b3297a8528e",
+        "7fdff4d7102ce132",
+        "f3ec1401ac0e514d",
+        "d51395095f2317f1",
+        "47a1e98da37e63a5"
+      ],
+      "id": "417817dd9e8c3357",
+      "date": 1420453512562
+    },
+    {
+      "type": "edit",
+      "id": "417817dd9e8c3357",
+      "item": {
+        "type": "paragraph",
+        "id": "417817dd9e8c3357",
+        "text": "Read first: [[Understanding the Factory]] and [[Understanding the Journal]]"
+      },
+      "date": 1420453518699
+    },
+    {
+      "type": "edit",
+      "id": "9b6510d29142bd52",
+      "item": {
+        "type": "markdown",
+        "id": "9b6510d29142bd52",
+        "text": "##Getting started: writing text"
+      },
+      "date": 1420453568467
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8e227f234fde932f"
+      },
+      "id": "8e227f234fde932f",
+      "type": "add",
+      "after": "47a1e98da37e63a5",
+      "date": 1420453582932
+    },
+    {
+      "type": "add",
+      "id": "2b6cac737f4272a1",
+      "item": {
+        "type": "paragraph",
+        "id": "2b6cac737f4272a1",
+        "text": "To edit a paragraph, double click anywhere in the paragraph and the Text Editor will open up again."
+      },
+      "after": "c9be1468ca3080f8",
+      "date": 1420453662222
+    },
+    {
+      "type": "add",
+      "id": "6e49e71138a1db6d",
+      "item": {
+        "type": "paragraph",
+        "id": "6e49e71138a1db6d",
+        "text": "To delete a paragraph, double click anywhere in the paragraph, and remove all the content from the Text Editor. Click outside the box when you're done."
+      },
+      "after": "2b6cac737f4272a1",
+      "date": 1420453707397
+    },
+    {
+      "type": "add",
+      "id": "71ba34faeded4971",
+      "item": {
+        "type": "paragraph",
+        "id": "71ba34faeded4971",
+        "text": "To break up a long paragraph, double click anywhere in the paragraph and hit return where you want the paragraph to break."
+      },
+      "after": "6e49e71138a1db6d",
+      "date": 1420453747306
+    },
+    {
+      "type": "edit",
+      "id": "6e49e71138a1db6d",
+      "item": {
+        "type": "paragraph",
+        "id": "6e49e71138a1db6d",
+        "text": "To delete a paragraph, double click anywhere in the paragraph, and remove all the content from the Text Editor. "
+      },
+      "date": 1420453750814
+    },
+    {
+      "type": "edit",
+      "id": "6e49e71138a1db6d",
+      "item": {
+        "type": "paragraph",
+        "id": "6e49e71138a1db6d",
+        "text": "To delete a paragraph, double click anywhere in the paragraph, and remove all the content from the Text Editor. Click outside the box when you're done."
+      },
+      "date": 1420453756010
+    },
+    {
+      "type": "edit",
+      "id": "9b6510d29142bd52",
+      "item": {
+        "type": "markdown",
+        "id": "9b6510d29142bd52",
+        "text": "##Getting started with writing and editing"
+      },
+      "date": 1420453775673
+    },
+    {
+      "type": "edit",
+      "id": "d4c61cb39f9b62f0",
+      "item": {
+        "type": "markdown",
+        "id": "d4c61cb39f9b62f0",
+        "text": "##Using headings, page breaks and html"
+      },
+      "date": 1420453890371
+    },
+    {
+      "type": "edit",
+      "id": "d4c61cb39f9b62f0",
+      "item": {
+        "type": "markdown",
+        "id": "d4c61cb39f9b62f0",
+        "text": "##Using headings and page breaks"
+      },
+      "date": 1420453904447
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f34c7d036f7f1801"
+      },
+      "id": "f34c7d036f7f1801",
+      "type": "add",
+      "after": "8e227f234fde932f",
+      "date": 1420453920915
+    },
+    {
+      "type": "remove",
+      "id": "8e227f234fde932f",
+      "date": 1420453924255
+    },
+    {
+      "type": "edit",
+      "id": "f34c7d036f7f1801",
+      "item": {
+        "type": "markdown",
+        "id": "f34c7d036f7f1801",
+        "text": "##Using html"
+      },
+      "date": 1420453932598
+    },
+    {
+      "type": "move",
+      "order": [
+        "0dbf91f1461ed05d",
+        "1dc22aed4c97f868",
+        "238b30078ac977e0",
+        "9b6510d29142bd52",
+        "417817dd9e8c3357",
+        "298e944f84fcadc1",
+        "c9be1468ca3080f8",
+        "2b6cac737f4272a1",
+        "6e49e71138a1db6d",
+        "71ba34faeded4971",
+        "d4c61cb39f9b62f0",
+        "919f4b3297a8528e",
+        "7fdff4d7102ce132",
+        "f3ec1401ac0e514d",
+        "f34c7d036f7f1801",
+        "d51395095f2317f1",
+        "47a1e98da37e63a5"
+      ],
+      "id": "f34c7d036f7f1801",
+      "date": 1420453935715
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "21abb5affc032c48"
+      },
+      "id": "21abb5affc032c48",
+      "type": "add",
+      "after": "47a1e98da37e63a5",
+      "date": 1420453949508
+    },
+    {
+      "type": "edit",
+      "id": "21abb5affc032c48",
+      "item": {
+        "type": "paragraph",
+        "id": "21abb5affc032c48",
+        "text": "Plain text is best in Federated Wiki but if you have a good reason to use basic html, click on html in the Factory and this will open up a Text Editor that accepts html."
+      },
+      "date": 1420454011221
+    },
+    {
+      "type": "move",
+      "order": [
+        "0dbf91f1461ed05d",
+        "1dc22aed4c97f868",
+        "238b30078ac977e0",
+        "9b6510d29142bd52",
+        "417817dd9e8c3357",
+        "298e944f84fcadc1",
+        "c9be1468ca3080f8",
+        "2b6cac737f4272a1",
+        "6e49e71138a1db6d",
+        "71ba34faeded4971",
+        "d4c61cb39f9b62f0",
+        "919f4b3297a8528e",
+        "7fdff4d7102ce132",
+        "f3ec1401ac0e514d",
+        "f34c7d036f7f1801",
+        "21abb5affc032c48",
+        "d51395095f2317f1",
+        "47a1e98da37e63a5"
+      ],
+      "id": "21abb5affc032c48",
+      "date": 1420454015779
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "11d3a9911eec3ff8"
+      },
+      "id": "11d3a9911eec3ff8",
+      "type": "add",
+      "after": "47a1e98da37e63a5",
+      "date": 1420454027290
+    },
+    {
+      "type": "edit",
+      "id": "11d3a9911eec3ff8",
+      "item": {
+        "type": "markdown",
+        "id": "11d3a9911eec3ff8",
+        "text": "##Creating links"
+      },
+      "date": 1420454045307
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a86b0e3c62d02607"
+      },
+      "id": "a86b0e3c62d02607",
+      "type": "add",
+      "after": "11d3a9911eec3ff8",
+      "date": 1420454048257
+    },
+    {
+      "type": "edit",
+      "id": "a86b0e3c62d02607",
+      "item": {
+        "type": "paragraph",
+        "id": "a86b0e3c62d02607",
+        "text": "If you want to create a link to another page in Federated Wiki, put the exact page title inside double square brackets."
+      },
+      "date": 1420454114553
+    },
+    {
+      "type": "add",
+      "id": "e805f67140ccc050",
+      "item": {
+        "type": "paragraph",
+        "id": "e805f67140ccc050",
+        "text": "If you wnt t"
+      },
+      "after": "a86b0e3c62d02607",
+      "date": 1420454120688
+    },
+    {
+      "type": "edit",
+      "id": "a86b0e3c62d02607",
+      "item": {
+        "type": "paragraph",
+        "id": "a86b0e3c62d02607",
+        "text": "To create a link to another page in Federated Wiki, or to build a link to a page that hasn't been created yet, put the exact page title inside double square brackets."
+      },
+      "date": 1420454162903
+    },
+    {
+      "type": "add",
+      "id": "8e64d1b4707381a8",
+      "item": {
+        "type": "paragraph",
+        "id": "8e64d1b4707381a8",
+        "text": "To create a link to an external page, put the URL for the page inside single square brackets and at the end of the link leave one space then write the descriptive term for the type of page you're linking to. If it's a blog, say \"blog\". If it's a PDF, say \"PDF\". This word will be hyperlinked, and it tells the reader that the link is outside Federated Wiki."
+      },
+      "after": "a86b0e3c62d02607",
+      "date": 1420454319367
+    },
+    {
+      "type": "remove",
+      "id": "e805f67140ccc050",
+      "date": 1420454328954
+    },
+    {
+      "type": "edit",
+      "id": "a86b0e3c62d02607",
+      "item": {
+        "type": "paragraph",
+        "id": "a86b0e3c62d02607",
+        "text": "To create a link to another page in Federated Wiki, or to build a link to a page that hasn't been created yet, put the exact page title inside double square brackets. There's an example below. Double click on it and you'll see what to do."
+      },
+      "date": 1420454346899
+    },
+    {
+      "type": "add",
+      "id": "dbee6a203fbc832e",
+      "item": {
+        "type": "paragraph",
+        "id": "dbee6a203fbc832e",
+        "text": "Related: "
+      },
+      "after": "a86b0e3c62d02607",
+      "date": 1420454351697
+    },
+    {
+      "type": "edit",
+      "id": "a86b0e3c62d02607",
+      "item": {
+        "type": "paragraph",
+        "id": "a86b0e3c62d02607",
+        "text": "To create a link to another page in Federated Wiki, or to build a link to a page that hasn't been created yet, put the exact page title inside double square brackets. There's an example in the paragraph below. Double click on it and you'll see what to do."
+      },
+      "date": 1420454359304
+    },
+    {
+      "type": "edit",
+      "id": "f3ec1401ac0e514d",
+      "item": {
+        "type": "paragraph",
+        "id": "f3ec1401ac0e514d",
+        "text": "To add a page break, click on the PageFold link and in the text box, write the word or words you want to appear embedded in the pale grey page break. Click outside the box when you're done."
+      },
+      "date": 1420454647879
+    },
+    {
+      "type": "edit",
+      "id": "919f4b3297a8528e",
+      "item": {
+        "type": "paragraph",
+        "id": "919f4b3297a8528e",
+        "text": "Headers and page dividers are helpful to the reader. Access these through the list of plugins in the Factory. "
+      },
+      "date": 1420454653181
+    },
+    {
+      "type": "edit",
+      "id": "d4c61cb39f9b62f0",
+      "item": {
+        "type": "markdown",
+        "id": "d4c61cb39f9b62f0",
+        "text": "##Using headings and page dividers"
+      },
+      "date": 1420454659023
+    },
+    {
+      "type": "edit",
+      "id": "919f4b3297a8528e",
+      "item": {
+        "type": "paragraph",
+        "id": "919f4b3297a8528e",
+        "text": "Headers and page dividers are visual aids to help the reader. Access these through the list of plugins in the Factory. "
+      },
+      "date": 1420454674043
+    },
+    {
+      "type": "edit",
+      "id": "7fdff4d7102ce132",
+      "item": {
+        "type": "paragraph",
+        "id": "7fdff4d7102ce132",
+        "text": "To write header text, click on the Markdown link, and in the text box, write ## followed by your header text. Click outside the box when you're done."
+      },
+      "date": 1420454688111
+    },
+    {
+      "type": "edit",
+      "id": "f3ec1401ac0e514d",
+      "item": {
+        "type": "paragraph",
+        "id": "f3ec1401ac0e514d",
+        "text": "To add a page divider, click on the PageFold link and in the text box, write the word or words you want to appear embedded in the pale grey line. Click outside the box when you're done."
+      },
+      "date": 1420454783028
+    },
+    {
+      "type": "edit",
+      "id": "1dc22aed4c97f868",
+      "item": {
+        "type": "paragraph",
+        "id": "1dc22aed4c97f868",
+        "text": "The basic elements of a Federated Wiki page are plain text paragraphs, page dividers, images, embedded videos, and links to other pages in Federated Wiki or external webpages."
+      },
+      "date": 1420454811539
+    },
+    {
+      "type": "edit",
+      "id": "1dc22aed4c97f868",
+      "item": {
+        "type": "paragraph",
+        "id": "1dc22aed4c97f868",
+        "text": "The basic elements of a Federated Wiki page are plain text paragraphs, images, embedded videos, headers, page dividers, and links either to other pages in Federated Wiki or to external webpages."
+      },
+      "date": 1420454858781
+    },
+    {
+      "type": "edit",
+      "id": "21abb5affc032c48",
+      "item": {
+        "type": "paragraph",
+        "id": "21abb5affc032c48",
+        "text": "Plain text is best in Federated Wiki but if you need html, click on html in the Factory and this will open up a Text Editor that accepts html."
+      },
+      "date": 1420454937155
+    },
+    {
+      "type": "edit",
+      "id": "21abb5affc032c48",
+      "item": {
+        "type": "paragraph",
+        "id": "21abb5affc032c48",
+        "text": "Plain text is best in Federated Wiki but you can click on html in the Factory and this will open up a Text Editor that accepts html."
+      },
+      "date": 1420454963460
+    },
+    {
+      "type": "edit",
+      "id": "47a1e98da37e63a5",
+      "item": {
+        "type": "paragraph",
+        "id": "47a1e98da37e63a5",
+        "text": "Any of the page elements—including headers and page dividers—can be dragged around. Images will stay on the right hand side and text will wrap around them."
+      },
+      "date": 1420455003994
+    },
+    {
+      "type": "edit",
+      "id": "8e64d1b4707381a8",
+      "item": {
+        "type": "paragraph",
+        "id": "8e64d1b4707381a8",
+        "text": "To create a link to an external page, put the URL for the page inside single square brackets and at the end of the link leave one space then write the descriptive term for the type of page you're linking to. If it's a blog, say \"blog\". If it's a PDF, say \"PDF\". This word will be hyperlinked, and it tells the reader that the link is outside Federated Wiki. There's an example below. Double click on it and you'll see what to do."
+      },
+      "date": 1420455106303
+    },
+    {
+      "type": "add",
+      "id": "fc6f13c04d4fec27",
+      "item": {
+        "type": "paragraph",
+        "id": "fc6f13c04d4fec27",
+        "text": "Related: "
+      },
+      "after": "8e64d1b4707381a8",
+      "date": 1420455116459
+    },
+    {
+      "type": "edit",
+      "id": "dbee6a203fbc832e",
+      "item": {
+        "type": "paragraph",
+        "id": "dbee6a203fbc832e",
+        "text": "Related: [[Defense of Capitalized Titles]]"
+      },
+      "date": 1420455418978
+    },
+    {
+      "type": "edit",
+      "id": "fc6f13c04d4fec27",
+      "item": {
+        "type": "paragraph",
+        "id": "fc6f13c04d4fec27",
+        "text": "Mike Caulfield has written about Federated Wiki on his blog. [http://hapgood.us/2014/12/21/helping-the-right-ideas-find-one-another-fedwiki-happening/ blog]"
+      },
+      "date": 1420455633444
+    },
+    {
+      "type": "edit",
+      "id": "fc6f13c04d4fec27",
+      "item": {
+        "type": "paragraph",
+        "id": "fc6f13c04d4fec27",
+        "text": "Mike Caulfield has written a useful post about. [http://hapgood.us/2014/12/21/helping-the-right-ideas-find-one-another-fedwiki-happening/ blog]"
+      },
+      "date": 1420455651248
+    },
+    {
+      "type": "edit",
+      "id": "fc6f13c04d4fec27",
+      "item": {
+        "type": "paragraph",
+        "id": "fc6f13c04d4fec27",
+        "text": "Mike Caulfield has written a useful post about how ideas find each other on Federated Wiki. [http://hapgood.us/2014/12/21/helping-the-right-ideas-find-one-another-fedwiki-happening/ blog]"
+      },
+      "date": 1420455671603
+    },
+    {
+      "type": "edit",
+      "id": "8e64d1b4707381a8",
+      "item": {
+        "type": "paragraph",
+        "id": "8e64d1b4707381a8",
+        "text": "To create a link to an external page, put the URL for the page inside single square brackets and at the end of the link leave one space then write the descriptive term for the type of page you're linking to. If it's a blog, say \"blog\". If it's a PDF, say \"PDF\". This word will be hyperlinked, and it tells the reader that the link is outside Federated Wiki. There's an example in the paragraph below. Double click on it and you'll see what to do."
+      },
+      "date": 1420455687640
+    },
+    {
+      "type": "move",
+      "order": [
+        "0dbf91f1461ed05d",
+        "1dc22aed4c97f868",
+        "238b30078ac977e0",
+        "9b6510d29142bd52",
+        "417817dd9e8c3357",
+        "298e944f84fcadc1",
+        "c9be1468ca3080f8",
+        "2b6cac737f4272a1",
+        "6e49e71138a1db6d",
+        "71ba34faeded4971",
+        "d4c61cb39f9b62f0",
+        "919f4b3297a8528e",
+        "7fdff4d7102ce132",
+        "f3ec1401ac0e514d",
+        "f34c7d036f7f1801",
+        "21abb5affc032c48",
+        "47a1e98da37e63a5",
+        "11d3a9911eec3ff8",
+        "a86b0e3c62d02607",
+        "dbee6a203fbc832e",
+        "8e64d1b4707381a8",
+        "fc6f13c04d4fec27",
+        "d51395095f2317f1"
+      ],
+      "id": "d51395095f2317f1",
+      "date": 1420455724114
+    },
+    {
+      "type": "move",
+      "order": [
+        "0dbf91f1461ed05d",
+        "1dc22aed4c97f868",
+        "238b30078ac977e0",
+        "9b6510d29142bd52",
+        "417817dd9e8c3357",
+        "298e944f84fcadc1",
+        "c9be1468ca3080f8",
+        "2b6cac737f4272a1",
+        "6e49e71138a1db6d",
+        "71ba34faeded4971",
+        "d4c61cb39f9b62f0",
+        "919f4b3297a8528e",
+        "7fdff4d7102ce132",
+        "f3ec1401ac0e514d",
+        "f34c7d036f7f1801",
+        "21abb5affc032c48",
+        "11d3a9911eec3ff8",
+        "a86b0e3c62d02607",
+        "dbee6a203fbc832e",
+        "8e64d1b4707381a8",
+        "fc6f13c04d4fec27",
+        "47a1e98da37e63a5",
+        "d51395095f2317f1"
+      ],
+      "id": "47a1e98da37e63a5",
+      "date": 1420455729034
+    },
+    {
+      "type": "move",
+      "order": [
+        "0dbf91f1461ed05d",
+        "1dc22aed4c97f868",
+        "238b30078ac977e0",
+        "9b6510d29142bd52",
+        "417817dd9e8c3357",
+        "298e944f84fcadc1",
+        "c9be1468ca3080f8",
+        "2b6cac737f4272a1",
+        "6e49e71138a1db6d",
+        "71ba34faeded4971",
+        "d4c61cb39f9b62f0",
+        "919f4b3297a8528e",
+        "7fdff4d7102ce132",
+        "f3ec1401ac0e514d",
+        "f34c7d036f7f1801",
+        "21abb5affc032c48",
+        "11d3a9911eec3ff8",
+        "a86b0e3c62d02607",
+        "dbee6a203fbc832e",
+        "8e64d1b4707381a8",
+        "fc6f13c04d4fec27",
+        "d51395095f2317f1",
+        "47a1e98da37e63a5"
+      ],
+      "id": "d51395095f2317f1",
+      "date": 1420455730979
+    },
+    {
+      "type": "add",
+      "id": "8c0fe157394b782d",
+      "item": {
+        "type": "paragraph",
+        "id": "8c0fe157394b782d",
+        "text": "Use a page divider to separate text from discussion, or to begin and end a quote."
+      },
+      "after": "f3ec1401ac0e514d",
+      "date": 1420455794923
+    },
+    {
+      "type": "edit",
+      "id": "7fdff4d7102ce132",
+      "item": {
+        "type": "paragraph",
+        "id": "7fdff4d7102ce132",
+        "text": "To write header text, click on the Markdown link, and in the text box, write ## followed by your header text. Click outside the box when you're done. If you want to see what this looks like, double click on any of the headers on this page."
+      },
+      "date": 1420455832881
+    },
+    {
+      "type": "edit",
+      "id": "f3ec1401ac0e514d",
+      "item": {
+        "type": "paragraph",
+        "id": "f3ec1401ac0e514d",
+        "text": "To add a page divider, click on the PageFold link and in the text box, write the word or words you want to appear embedded in the pale grey line. Click outside the box when you're done. To see what this looks like, double click on the page divider below this paragraph."
+      },
+      "date": 1420455861385
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "378a1157b2c7106b"
+      },
+      "id": "378a1157b2c7106b",
+      "type": "add",
+      "after": "47a1e98da37e63a5",
+      "date": 1420455866608
+    },
+    {
+      "type": "edit",
+      "id": "378a1157b2c7106b",
+      "item": {
+        "type": "pagefold",
+        "id": "378a1157b2c7106b",
+        "text": "sample page divider"
+      },
+      "date": 1420455880447
+    },
+    {
+      "type": "move",
+      "order": [
+        "0dbf91f1461ed05d",
+        "1dc22aed4c97f868",
+        "238b30078ac977e0",
+        "9b6510d29142bd52",
+        "417817dd9e8c3357",
+        "298e944f84fcadc1",
+        "c9be1468ca3080f8",
+        "2b6cac737f4272a1",
+        "6e49e71138a1db6d",
+        "71ba34faeded4971",
+        "d4c61cb39f9b62f0",
+        "919f4b3297a8528e",
+        "7fdff4d7102ce132",
+        "f3ec1401ac0e514d",
+        "378a1157b2c7106b",
+        "8c0fe157394b782d",
+        "f34c7d036f7f1801",
+        "21abb5affc032c48",
+        "11d3a9911eec3ff8",
+        "a86b0e3c62d02607",
+        "dbee6a203fbc832e",
+        "8e64d1b4707381a8",
+        "fc6f13c04d4fec27",
+        "d51395095f2317f1",
+        "47a1e98da37e63a5"
+      ],
+      "id": "378a1157b2c7106b",
+      "date": 1420455887998
+    },
+    {
+      "type": "edit",
+      "id": "a86b0e3c62d02607",
+      "item": {
+        "type": "paragraph",
+        "id": "a86b0e3c62d02607",
+        "text": "To create a link to another page in Federated Wiki, or to build a link to a page that hasn't been created yet, put the exact page title inside double square brackets. To see what this looks like, double click on the paragraph below."
+      },
+      "date": 1420455918739
+    },
+    {
+      "type": "edit",
+      "id": "a86b0e3c62d02607",
+      "item": {
+        "type": "paragraph",
+        "id": "a86b0e3c62d02607",
+        "text": "To create a link to another page in Federated Wiki, or to build a link to a page that hasn't been created yet, put the exact page title inside double square brackets. To see what this looks like, double click on the text below this."
+      },
+      "date": 1420455935014
+    },
+    {
+      "type": "edit",
+      "id": "a86b0e3c62d02607",
+      "item": {
+        "type": "paragraph",
+        "id": "a86b0e3c62d02607",
+        "text": "To create a link to another page in Federated Wiki, or to build a link to a page that hasn't been created yet, put the exact page title inside double square brackets. To see what this looks like, double click on the text below."
+      },
+      "date": 1420455944581
+    },
+    {
+      "type": "edit",
+      "id": "8e64d1b4707381a8",
+      "item": {
+        "type": "paragraph",
+        "id": "8e64d1b4707381a8",
+        "text": "To create a link to an external page, put the URL for the page inside single square brackets and at the end of the link leave one space then write the descriptive term for the type of page you're linking to. If it's a blog, say \"blog\". If it's a PDF, say \"PDF\". This word will be hyperlinked, and it tells the reader that the link is outside Federated Wiki. To see what this looks like, double click on the text below."
+      },
+      "date": 1420455982718
+    },
+    {
+      "type": "edit",
+      "id": "47a1e98da37e63a5",
+      "item": {
+        "type": "paragraph",
+        "id": "47a1e98da37e63a5",
+        "text": "Any of the page elements—including headers and page dividers—can be dragged around. Images will stay on the right hand side and text will wrap around them. To see how this works, drag any of these page elements around."
+      },
+      "date": 1420456031586
+    },
+    {
+      "type": "remove",
+      "id": "238b30078ac977e0",
+      "date": 1420456105584
+    },
+    {
+      "type": "edit",
+      "id": "47a1e98da37e63a5",
+      "item": {
+        "type": "paragraph",
+        "id": "47a1e98da37e63a5",
+        "text": "Any of the page elements—including headers and page dividers—can be dragged around. Images will stay on the right hand side and text will wrap around them. To see how this works, try moving the elements of this page around."
+      },
+      "date": 1420456147514
+    },
+    {
+      "type": "move",
+      "order": [
+        "0dbf91f1461ed05d",
+        "1dc22aed4c97f868",
+        "9b6510d29142bd52",
+        "417817dd9e8c3357",
+        "298e944f84fcadc1",
+        "c9be1468ca3080f8",
+        "2b6cac737f4272a1",
+        "6e49e71138a1db6d",
+        "71ba34faeded4971",
+        "d4c61cb39f9b62f0",
+        "919f4b3297a8528e",
+        "7fdff4d7102ce132",
+        "f3ec1401ac0e514d",
+        "378a1157b2c7106b",
+        "8c0fe157394b782d",
+        "f34c7d036f7f1801",
+        "21abb5affc032c48",
+        "11d3a9911eec3ff8",
+        "a86b0e3c62d02607",
+        "dbee6a203fbc832e",
+        "8e64d1b4707381a8",
+        "47a1e98da37e63a5",
+        "fc6f13c04d4fec27",
+        "d51395095f2317f1"
+      ],
+      "id": "47a1e98da37e63a5",
+      "date": 1420456150941
+    },
+    {
+      "type": "move",
+      "order": [
+        "0dbf91f1461ed05d",
+        "1dc22aed4c97f868",
+        "9b6510d29142bd52",
+        "417817dd9e8c3357",
+        "298e944f84fcadc1",
+        "c9be1468ca3080f8",
+        "2b6cac737f4272a1",
+        "6e49e71138a1db6d",
+        "71ba34faeded4971",
+        "d4c61cb39f9b62f0",
+        "919f4b3297a8528e",
+        "7fdff4d7102ce132",
+        "f3ec1401ac0e514d",
+        "378a1157b2c7106b",
+        "8c0fe157394b782d",
+        "f34c7d036f7f1801",
+        "21abb5affc032c48",
+        "11d3a9911eec3ff8",
+        "a86b0e3c62d02607",
+        "dbee6a203fbc832e",
+        "8e64d1b4707381a8",
+        "d51395095f2317f1",
+        "47a1e98da37e63a5",
+        "fc6f13c04d4fec27"
+      ],
+      "id": "d51395095f2317f1",
+      "date": 1420456153488
+    },
+    {
+      "type": "move",
+      "order": [
+        "0dbf91f1461ed05d",
+        "1dc22aed4c97f868",
+        "9b6510d29142bd52",
+        "417817dd9e8c3357",
+        "298e944f84fcadc1",
+        "c9be1468ca3080f8",
+        "2b6cac737f4272a1",
+        "6e49e71138a1db6d",
+        "71ba34faeded4971",
+        "d4c61cb39f9b62f0",
+        "919f4b3297a8528e",
+        "7fdff4d7102ce132",
+        "f3ec1401ac0e514d",
+        "378a1157b2c7106b",
+        "8c0fe157394b782d",
+        "f34c7d036f7f1801",
+        "21abb5affc032c48",
+        "11d3a9911eec3ff8",
+        "a86b0e3c62d02607",
+        "dbee6a203fbc832e",
+        "8e64d1b4707381a8",
+        "fc6f13c04d4fec27",
+        "d51395095f2317f1",
+        "47a1e98da37e63a5"
+      ],
+      "id": "fc6f13c04d4fec27",
+      "date": 1420456157470
+    },
+    {
+      "type": "edit",
+      "id": "8e64d1b4707381a8",
+      "item": {
+        "type": "paragraph",
+        "id": "8e64d1b4707381a8",
+        "text": "To create a link to an external page, put the URL for the page inside single square brackets and at the end of the link leave one space then write the descriptive term for the type of page you're linking to. If it's a blog, say \"blog\". If it's a PDF, say \"PDF\". This word will be hyperlinked, and it tells the reader that the link is outside Federated Wiki. To see what this looks like, double click on this paragraph. "
+      },
+      "date": 1420456182007
+    },
+    {
+      "type": "edit",
+      "id": "8e64d1b4707381a8",
+      "item": {
+        "type": "paragraph",
+        "id": "8e64d1b4707381a8",
+        "text": "To create a link to an external page, put the URL for the page inside single square brackets and at the end of the link leave one space then write the descriptive term for the type of page you're linking to. If it's a blog, say \"blog\". If it's a PDF, say \"PDF\". This word will be hyperlinked, and it tells the reader that the link is outside Federated Wiki. To see what this looks like, double click on this paragraph. [http://hapgood.us/2014/12/21/helping-the-right-ideas-find-one-another-fedwiki-happening/ blog]"
+      },
+      "date": 1420456191995
+    },
+    {
+      "type": "remove",
+      "id": "fc6f13c04d4fec27",
+      "date": 1420456200193
+    },
+    {
+      "type": "edit",
+      "id": "a86b0e3c62d02607",
+      "item": {
+        "type": "paragraph",
+        "id": "a86b0e3c62d02607",
+        "text": "To create a link to another page in Federated Wiki, or to build a link to a page that hasn't been created yet, put the exact page title inside double square brackets. To see what this looks like, double click on this paragraph."
+      },
+      "date": 1420456217797
+    },
+    {
+      "type": "remove",
+      "id": "dbee6a203fbc832e",
+      "date": 1420456226608
+    },
+    {
+      "type": "edit",
+      "id": "a86b0e3c62d02607",
+      "item": {
+        "type": "paragraph",
+        "id": "a86b0e3c62d02607",
+        "text": "To create a link to another page in Federated Wiki, or to build a link to a page that hasn't been created yet, put the exact page title inside double square brackets. To see what this looks like, double click on this paragraph. Related: [[Defense of Capitalized Titles]]"
+      },
+      "date": 1420456236013
+    },
+    {
+      "type": "edit",
+      "id": "47a1e98da37e63a5",
+      "item": {
+        "type": "paragraph",
+        "id": "47a1e98da37e63a5",
+        "text": "Any of the page elements—including headers and page dividers—can be dragged around. Images will stay on the right hand side and text will wrap around them. To see how this works, try moving the elements of this page around. Don't worry, you can always put them back."
+      },
+      "date": 1420456349253
+    },
+    {
+      "type": "edit",
+      "id": "1dc22aed4c97f868",
+      "item": {
+        "type": "paragraph",
+        "id": "1dc22aed4c97f868",
+        "text": "The basic elements of a Federated Wiki page are text paragraphs, images, videos, headers, page dividers, and links either to other pages in Federated Wiki or to external webpages."
+      },
+      "date": 1420456438648
+    },
+    {
+      "type": "fork",
+      "site": "kate.au.fedwikihappening.net",
+      "date": 1420462557909
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a8d18acfd45f915"
+      },
+      "id": "2a8d18acfd45f915",
+      "type": "add",
+      "after": "47a1e98da37e63a5",
+      "date": 1420462576373
+    },
+    {
+      "type": "edit",
+      "id": "2a8d18acfd45f915",
+      "item": {
+        "type": "paragraph",
+        "id": "2a8d18acfd45f915",
+        "text": "<h3> Recovering from problems"
+      },
+      "date": 1420462619636
+    },
+    {
+      "type": "edit",
+      "id": "2a8d18acfd45f915",
+      "item": {
+        "type": "html",
+        "id": "2a8d18acfd45f915",
+        "text": "<h3> Recovering from problems"
+      },
+      "date": 1420462623539
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a7190268041100ef"
+      },
+      "id": "a7190268041100ef",
+      "type": "add",
+      "after": "2a8d18acfd45f915",
+      "date": 1420462630947
+    },
+    {
+      "type": "edit",
+      "id": "a7190268041100ef",
+      "item": {
+        "type": "paragraph",
+        "id": "a7190268041100ef",
+        "text": "From time to time, and for reasons that are not always understandable, elements may appear that can be difficult to remove."
+      },
+      "date": 1420462704600
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "737671b5a33387e4"
+      },
+      "id": "737671b5a33387e4",
+      "type": "add",
+      "after": "a7190268041100ef",
+      "date": 1420462804779
+    },
+    {
+      "type": "edit",
+      "id": "737671b5a33387e4",
+      "item": {
+        "type": "paragraph",
+        "id": "737671b5a33387e4",
+        "text": "At your starting point in Fedwiki, you probably have a page where you record the pages you create.  It's a good idea to create your own Scratch page (in the usual way with double square brackets). If you open up fedwiki in a new window, and find the scratch page"
+      },
+      "date": 1420462921047
+    },
+    {
+      "type": "edit",
+      "id": "737671b5a33387e4",
+      "item": {
+        "type": "paragraph",
+        "id": "737671b5a33387e4",
+        "text": "At your starting point in Fedwiki, you probably have a page where you record the pages you create.  It's a good idea to create your own Scratch page (in the usual way with double square brackets). If you open up fedwiki in a new window, and find the scratch page, you can drag it over to the first window by grabbing the avatar of the page."
+      },
+      "date": 1420463098094
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eb44a45ebabf15a1"
+      },
+      "id": "eb44a45ebabf15a1",
+      "type": "add",
+      "after": "90a4b91b2958ba08",
+      "date": 1420463153023
+    },
+    {
+      "type": "add",
+      "id": "90a4b91b2958ba08",
+      "item": {
+        "type": "paragraph",
+        "id": "90a4b91b2958ba08",
+        "text": "You can then drag the offending element to your scratch pages, as Mike demonstrates (in a slightly different context) in this video."
+      },
+      "after": "737671b5a33387e4",
+      "date": 1420463155093
+    },
+    {
+      "type": "edit",
+      "id": "eb44a45ebabf15a1",
+      "item": {
+        "type": "video",
+        "id": "eb44a45ebabf15a1",
+        "text": "<iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/_lviuozVf98?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      "date": 1420463159209
+    },
+    {
+      "type": "remove",
+      "id": "eb44a45ebabf15a1",
+      "date": 1420463554431
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a9dca578f8a913a8"
+      },
+      "id": "a9dca578f8a913a8",
+      "type": "add",
+      "after": "90a4b91b2958ba08",
+      "date": 1420463686858
+    },
+    {
+      "type": "remove",
+      "id": "a9dca578f8a913a8",
+      "date": 1420463693755
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3f8dcc823d32cc36"
+      },
+      "id": "3f8dcc823d32cc36",
+      "type": "add",
+      "after": "90a4b91b2958ba08",
+      "date": 1420463757821
+    },
+    {
+      "type": "edit",
+      "id": "3f8dcc823d32cc36",
+      "item": {
+        "type": "video",
+        "id": "3f8dcc823d32cc36",
+        "text": "<iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/_lviuozVf98?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      "date": 1420463774307
+    },
+    {
+      "type": "move",
+      "order": [
+        "0dbf91f1461ed05d",
+        "1dc22aed4c97f868",
+        "9b6510d29142bd52",
+        "417817dd9e8c3357",
+        "298e944f84fcadc1",
+        "c9be1468ca3080f8",
+        "2b6cac737f4272a1",
+        "6e49e71138a1db6d",
+        "71ba34faeded4971",
+        "d4c61cb39f9b62f0",
+        "919f4b3297a8528e",
+        "7fdff4d7102ce132",
+        "f3ec1401ac0e514d",
+        "378a1157b2c7106b",
+        "8c0fe157394b782d",
+        "f34c7d036f7f1801",
+        "21abb5affc032c48",
+        "11d3a9911eec3ff8",
+        "a86b0e3c62d02607",
+        "8e64d1b4707381a8",
+        "d51395095f2317f1",
+        "47a1e98da37e63a5",
+        "2a8d18acfd45f915",
+        "3f8dcc823d32cc36",
+        "a7190268041100ef",
+        "737671b5a33387e4",
+        "90a4b91b2958ba08"
+      ],
+      "id": "3f8dcc823d32cc36",
+      "date": 1420464367959
+    },
+    {
+      "type": "remove",
+      "id": "3f8dcc823d32cc36",
+      "date": 1420464377592
+    },
+    {
+      "type": "remove",
+      "id": "90a4b91b2958ba08",
+      "date": 1420464382756
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bf2bf2aec38fae40"
+      },
+      "id": "bf2bf2aec38fae40",
+      "type": "add",
+      "after": "737671b5a33387e4",
+      "date": 1420464386740
+    },
+    {
+      "type": "fork",
+      "site": "frances.uk.fedwikihappening.net"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b140c6addaf382ae"
+      },
+      "id": "b140c6addaf382ae",
+      "type": "add",
+      "after": "bf2bf2aec38fae40",
+      "date": 1420474637471
+    },
+    {
+      "type": "remove",
+      "id": "b140c6addaf382ae",
+      "date": 1420474643417
+    },
+    {
+      "type": "remove",
+      "id": "bf2bf2aec38fae40",
+      "date": 1420474644382
+    },
+    {
+      "type": "fork",
+      "site": "journal.hapgood.net",
+      "date": 1420476184868
+    },
+    {
+      "type": "fork",
+      "site": "jon.sf.fedwikihappening.net",
+      "date": 1454595892366
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Technology Sites",
+  "story": [
+    {
+      "type": "factory",
+      "id": "0d5c3404ce5547c8"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Technology Sites",
+        "story": []
+      },
+      "date": 1454426250592
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0d5c3404ce5547c8"
+      },
+      "id": "0d5c3404ce5547c8",
+      "type": "add",
+      "date": 1454426297237
+    }
+  ]
+}

@@ -1,0 +1,624 @@
+{
+  "title": "Extreme Programming",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "46ad452afc85d7f6",
+      "text": "Extreme programming, or simply xp, collects complementary practices for developing useful software with a minimum of ceremony."
+    },
+    {
+      "type": "paragraph",
+      "id": "87386dd9770e768d",
+      "text": "See [[Ward Cunningham]]'s original notes on how he has approached these pages"
+    },
+    {
+      "type": "paragraph",
+      "id": "63ccacabbae4475b",
+      "text": "See [[Practice Now]] for Ward's reflections arising from his current work in both open source and commercial development."
+    },
+    {
+      "type": "paragraph",
+      "id": "4e1a1e7a61a42581",
+      "text": "See [[Ring of Truth]] for reviews of posts or papers that speak from experience that makes sense to me (Ward)."
+    },
+    {
+      "type": "paragraph",
+      "id": "8f62c1be8ed24134",
+      "text": "See [[Strength in Numbers]] for free and open or otherwise cleverly organized programming communities."
+    },
+    {
+      "type": "paragraph",
+      "id": "a0baaa6b48f33ca1",
+      "text": "See [[Recent Changes]] for updates here and other sites you will encounter browsing."
+    },
+    {
+      "type": "html",
+      "id": "aeba9ecc681641f8",
+      "text": "<h3> History"
+    },
+    {
+      "type": "paragraph",
+      "id": "e27a5a507eb499ed",
+      "text": "At its inauguration xp offered a dozen or so practices that startled the programming community. Could it be so simple? Aren't those practices already discredited? Yes and yes. When they are applied consistently and with confidence they have been shown to work, work over time, and work to the strengths of everyone on a team."
+    },
+    {
+      "type": "paragraph",
+      "id": "98fe0dc935642308",
+      "text": "The original practices included the advice to try new things, when they worked, do more, when they don't, do less. The humans and their computers thus become a complex adaptive system."
+    },
+    {
+      "type": "paragraph",
+      "id": "13e8fb7b74e09d70",
+      "text": "I am, with a few colleagues, the one that set this course in motion. I'm pleased with what has been discovered since but troubled that my now many colleagues have delegated the explaining to others that drag along a lot of complexity that distracts us from the essential act, programming."
+    },
+    {
+      "type": "html",
+      "id": "3a8fb56d1a55226a",
+      "text": "<h3> Programming"
+    },
+    {
+      "type": "paragraph",
+      "id": "476bfe6f64a90b52",
+      "text": "A program instructs a future computer in a way that makes it more useful. If you encode such instructions you are programming. If you only guide others who are encoding such instructions, you aren't."
+    },
+    {
+      "type": "paragraph",
+      "id": "c0aafc0b1d72e5b5",
+      "text": "This site collects the discoveries of programmers. It is like a blog in that I write freely about things as they come to me. It is also like a wiki in that my words join others and are thus improved."
+    },
+    {
+      "type": "paragraph",
+      "id": "c90ebef2eebdf6b5",
+      "text": "Computers are wonderful things. There are many ways to program them. I hope my observations are taken for what they are, the best of my experience creating value instructing them."
+    },
+    {
+      "type": "paragraph",
+      "id": "b94952060b160f2b",
+      "text": " "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Extreme Programming",
+        "story": []
+      },
+      "date": 1398611138451
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "46ad452afc85d7f6"
+      },
+      "id": "46ad452afc85d7f6",
+      "type": "add",
+      "date": 1398611140613
+    },
+    {
+      "type": "edit",
+      "id": "46ad452afc85d7f6",
+      "item": {
+        "type": "paragraph",
+        "id": "46ad452afc85d7f6",
+        "text": "Extreme programming, or simply xp, collects complementary practices for developing useful software with a minimum of ceremony."
+      },
+      "date": 1398611282551
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e27a5a507eb499ed",
+        "text": ""
+      },
+      "id": "e27a5a507eb499ed",
+      "type": "add",
+      "after": "46ad452afc85d7f6",
+      "date": 1398611283064
+    },
+    {
+      "type": "edit",
+      "id": "e27a5a507eb499ed",
+      "item": {
+        "type": "paragraph",
+        "id": "e27a5a507eb499ed",
+        "text": "At its inauguration xp offered a dozen or so practices that startled the programming community. Could it be so simple? Aren't those practices already discredited? Yes and yes. Except that when they are applied consistently and with confidence they have been shown to work, work over time, and work to the strengths of everyone on a team."
+      },
+      "date": 1398611496735
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b94952060b160f2b",
+        "text": " "
+      },
+      "id": "b94952060b160f2b",
+      "type": "add",
+      "after": "e27a5a507eb499ed",
+      "date": 1398611497243
+    },
+    {
+      "type": "edit",
+      "id": "e27a5a507eb499ed",
+      "item": {
+        "type": "paragraph",
+        "id": "e27a5a507eb499ed",
+        "text": "At its inauguration xp offered a dozen or so practices that startled the programming community. Could it be so simple? Aren't those practices already discredited? Yes and yes. When they are applied consistently and with confidence they have been shown to work, work over time, and work to the strengths of everyone on a team."
+      },
+      "date": 1398611539012
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "98fe0dc935642308",
+        "text": ""
+      },
+      "id": "98fe0dc935642308",
+      "type": "add",
+      "after": "e27a5a507eb499ed",
+      "date": 1398611539518
+    },
+    {
+      "type": "edit",
+      "id": "98fe0dc935642308",
+      "item": {
+        "type": "paragraph",
+        "id": "98fe0dc935642308",
+        "text": "The original practices included the advice to try new things, when they worked, do more, when they don't, do less. The humans and their computers becomes a complex adaptive system."
+      },
+      "date": 1398611870053
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "13e8fb7b74e09d70",
+        "text": ""
+      },
+      "id": "13e8fb7b74e09d70",
+      "type": "add",
+      "after": "98fe0dc935642308",
+      "date": 1398611870561
+    },
+    {
+      "type": "edit",
+      "id": "13e8fb7b74e09d70",
+      "item": {
+        "type": "paragraph",
+        "id": "13e8fb7b74e09d70",
+        "text": "I am, with a few colleagues, the one that set this course in motion. I'm pleased with what has been discovered since but troubled that my now many colleagues have delegated the explaining to others that drag along a lot of complexity that distracts us from the essential act, programming."
+      },
+      "date": 1398612095316
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "476bfe6f64a90b52",
+        "text": ""
+      },
+      "id": "476bfe6f64a90b52",
+      "type": "add",
+      "after": "13e8fb7b74e09d70",
+      "date": 1398612095822
+    },
+    {
+      "type": "edit",
+      "id": "476bfe6f64a90b52",
+      "item": {
+        "type": "paragraph",
+        "id": "476bfe6f64a90b52",
+        "text": "A program instructs a future computer in a way that makes it more useful. If you encode such instructions you are programming. If you only guide others who are encoding such instructions, you aren't."
+      },
+      "date": 1398612308806
+    },
+    {
+      "type": "edit",
+      "id": "98fe0dc935642308",
+      "item": {
+        "type": "paragraph",
+        "id": "98fe0dc935642308",
+        "text": "The original practices included the advice to try new things, when they worked, do more, when they don't, do less. The humans and their computers thus become a complex adaptive system."
+      },
+      "date": 1398612341109
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c0aafc0b1d72e5b5",
+        "text": ""
+      },
+      "id": "c0aafc0b1d72e5b5",
+      "type": "add",
+      "after": "476bfe6f64a90b52",
+      "date": 1398612365828
+    },
+    {
+      "type": "edit",
+      "id": "c0aafc0b1d72e5b5",
+      "item": {
+        "type": "paragraph",
+        "id": "c0aafc0b1d72e5b5",
+        "text": "This site collects the discoveries of programmers. It is like a blog in that I write freely about things as they come to me. It is also like a wiki in that my words join others and are thus improved."
+      },
+      "date": 1398612538312
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "87386dd9770e768d",
+        "text": ""
+      },
+      "id": "87386dd9770e768d",
+      "type": "add",
+      "after": "c0aafc0b1d72e5b5",
+      "date": 1398612538817
+    },
+    {
+      "type": "edit",
+      "id": "87386dd9770e768d",
+      "item": {
+        "type": "paragraph",
+        "id": "87386dd9770e768d",
+        "text": "See [[Ward Cunningham]] for more about me and how this site works."
+      },
+      "date": 1398612564591
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "63ccacabbae4475b",
+        "text": ""
+      },
+      "id": "63ccacabbae4475b",
+      "type": "add",
+      "after": "87386dd9770e768d",
+      "date": 1398612565097
+    },
+    {
+      "type": "edit",
+      "id": "63ccacabbae4475b",
+      "item": {
+        "type": "paragraph",
+        "id": "63ccacabbae4475b",
+        "text": "See [[Practice Now]] for reflections arising from my current work. "
+      },
+      "date": 1398612658476
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "10e4f176bd5baa0c",
+        "text": ""
+      },
+      "id": "10e4f176bd5baa0c",
+      "type": "add",
+      "after": "63ccacabbae4475b",
+      "date": 1398612658982
+    },
+    {
+      "type": "remove",
+      "id": "10e4f176bd5baa0c",
+      "date": 1398612674037
+    },
+    {
+      "type": "edit",
+      "id": "63ccacabbae4475b",
+      "item": {
+        "type": "paragraph",
+        "id": "63ccacabbae4475b",
+        "text": "See [[Practice Now]] for reflections arising from my current work in both open source and commercial development."
+      },
+      "date": 1398612694675
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "729199bb9d7c18d0",
+        "text": ""
+      },
+      "id": "729199bb9d7c18d0",
+      "type": "add",
+      "after": "63ccacabbae4475b",
+      "date": 1398612695180
+    },
+    {
+      "type": "remove",
+      "id": "729199bb9d7c18d0",
+      "date": 1398612700217
+    },
+    {
+      "type": "edit",
+      "id": "87386dd9770e768d",
+      "item": {
+        "type": "paragraph",
+        "id": "87386dd9770e768d",
+        "text": "See [[Ward Cunningham]] for more about me and how I've approached building this site."
+      },
+      "date": 1398612728226
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c90ebef2eebdf6b5",
+        "text": ""
+      },
+      "id": "c90ebef2eebdf6b5",
+      "type": "add",
+      "after": "63ccacabbae4475b",
+      "date": 1398612745939
+    },
+    {
+      "type": "edit",
+      "id": "c90ebef2eebdf6b5",
+      "item": {
+        "type": "paragraph",
+        "id": "c90ebef2eebdf6b5",
+        "text": "The computer is a wonderful thing. There are many ways to program it. I hope my observations are taken for what they are, the best of my experience creating value programming them."
+      },
+      "date": 1398612828003
+    },
+    {
+      "type": "edit",
+      "id": "c90ebef2eebdf6b5",
+      "item": {
+        "type": "paragraph",
+        "id": "c90ebef2eebdf6b5",
+        "text": "Computers are wonderful thing. There are many ways to program them. I hope my observations are taken for what they are, the best of my experience creating value instructing them."
+      },
+      "date": 1398612878012
+    },
+    {
+      "type": "edit",
+      "id": "c90ebef2eebdf6b5",
+      "item": {
+        "type": "paragraph",
+        "id": "c90ebef2eebdf6b5",
+        "text": "Computers are wonderful things. There are many ways to program them. I hope my observations are taken for what they are, the best of my experience creating value instructing them."
+      },
+      "date": 1398639530969
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4e1a1e7a61a42581",
+        "text": ""
+      },
+      "id": "4e1a1e7a61a42581",
+      "type": "add",
+      "after": "63ccacabbae4475b",
+      "date": 1398639550376
+    },
+    {
+      "type": "edit",
+      "id": "4e1a1e7a61a42581",
+      "item": {
+        "type": "paragraph",
+        "id": "4e1a1e7a61a42581",
+        "text": "See [[Ring of Truth]] for reviews of posts or papers that speak from experience that makes sense to me."
+      },
+      "date": 1398639618501
+    },
+    {
+      "type": "move",
+      "order": [
+        "46ad452afc85d7f6",
+        "87386dd9770e768d",
+        "e27a5a507eb499ed",
+        "98fe0dc935642308",
+        "13e8fb7b74e09d70",
+        "476bfe6f64a90b52",
+        "c0aafc0b1d72e5b5",
+        "63ccacabbae4475b",
+        "4e1a1e7a61a42581",
+        "c90ebef2eebdf6b5",
+        "b94952060b160f2b"
+      ],
+      "id": "87386dd9770e768d",
+      "date": 1399175890719
+    },
+    {
+      "type": "move",
+      "order": [
+        "46ad452afc85d7f6",
+        "87386dd9770e768d",
+        "63ccacabbae4475b",
+        "e27a5a507eb499ed",
+        "98fe0dc935642308",
+        "13e8fb7b74e09d70",
+        "476bfe6f64a90b52",
+        "c0aafc0b1d72e5b5",
+        "4e1a1e7a61a42581",
+        "c90ebef2eebdf6b5",
+        "b94952060b160f2b"
+      ],
+      "id": "63ccacabbae4475b",
+      "date": 1399175896593
+    },
+    {
+      "type": "move",
+      "order": [
+        "46ad452afc85d7f6",
+        "87386dd9770e768d",
+        "63ccacabbae4475b",
+        "4e1a1e7a61a42581",
+        "e27a5a507eb499ed",
+        "98fe0dc935642308",
+        "13e8fb7b74e09d70",
+        "476bfe6f64a90b52",
+        "c0aafc0b1d72e5b5",
+        "c90ebef2eebdf6b5",
+        "b94952060b160f2b"
+      ],
+      "id": "4e1a1e7a61a42581",
+      "date": 1399175902241
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "aeba9ecc681641f8",
+        "text": ""
+      },
+      "id": "aeba9ecc681641f8",
+      "type": "add",
+      "after": "4e1a1e7a61a42581",
+      "date": 1399175907058
+    },
+    {
+      "type": "edit",
+      "id": "aeba9ecc681641f8",
+      "item": {
+        "type": "paragraph",
+        "id": "aeba9ecc681641f8",
+        "text": "<h3> History"
+      },
+      "date": 1399175913799
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3a8fb56d1a55226a",
+        "text": ""
+      },
+      "id": "3a8fb56d1a55226a",
+      "type": "add",
+      "after": "13e8fb7b74e09d70",
+      "date": 1399175944543
+    },
+    {
+      "type": "edit",
+      "id": "3a8fb56d1a55226a",
+      "item": {
+        "type": "paragraph",
+        "id": "3a8fb56d1a55226a",
+        "text": "<h3> Programming"
+      },
+      "date": 1399175951278
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a0baaa6b48f33ca1",
+        "text": ""
+      },
+      "id": "a0baaa6b48f33ca1",
+      "type": "add",
+      "after": "4e1a1e7a61a42581",
+      "date": 1401036148351
+    },
+    {
+      "type": "edit",
+      "id": "a0baaa6b48f33ca1",
+      "item": {
+        "type": "paragraph",
+        "id": "a0baaa6b48f33ca1",
+        "text": "See [[Recent Changes]] for updates here and nearby."
+      },
+      "date": 1401036168155
+    },
+    {
+      "type": "edit",
+      "id": "a0baaa6b48f33ca1",
+      "item": {
+        "type": "paragraph",
+        "id": "a0baaa6b48f33ca1",
+        "text": "See [[Recent Changes]] for updates here and other sites you might visit from here."
+      },
+      "date": 1401036301082
+    },
+    {
+      "type": "edit",
+      "id": "a0baaa6b48f33ca1",
+      "item": {
+        "type": "paragraph",
+        "id": "a0baaa6b48f33ca1",
+        "text": "See [[Recent Changes]] for updates here and other sites you will find mentioned."
+      },
+      "date": 1401036362789
+    },
+    {
+      "type": "edit",
+      "id": "a0baaa6b48f33ca1",
+      "item": {
+        "type": "paragraph",
+        "id": "a0baaa6b48f33ca1",
+        "text": "See [[Recent Changes]] for updates here and other sites you will encounter browsing."
+      },
+      "date": 1401036381030
+    },
+    {
+      "type": "edit",
+      "id": "aeba9ecc681641f8",
+      "item": {
+        "type": "html",
+        "id": "aeba9ecc681641f8",
+        "text": "<h3> History"
+      },
+      "date": 1419217026410
+    },
+    {
+      "type": "edit",
+      "id": "3a8fb56d1a55226a",
+      "item": {
+        "type": "html",
+        "id": "3a8fb56d1a55226a",
+        "text": "<h3> Programming"
+      },
+      "date": 1419217029150
+    },
+    {
+      "type": "add",
+      "id": "8f62c1be8ed24134",
+      "item": {
+        "type": "paragraph",
+        "id": "8f62c1be8ed24134",
+        "text": "See [[Strength in Numbers]] for free and open or otherwise cleverly organized programming communities."
+      },
+      "after": "4e1a1e7a61a42581",
+      "date": 1474510916214
+    },
+    {
+      "type": "fork",
+      "site": "xpdx.org",
+      "date": 1486641514416
+    },
+    {
+      "type": "edit",
+      "id": "87386dd9770e768d",
+      "item": {
+        "type": "paragraph",
+        "id": "87386dd9770e768d",
+        "text": "See [[Ward Cunningham]]'s original notes on how he has approached these pages"
+      },
+      "date": 1486641575324
+    },
+    {
+      "type": "edit",
+      "id": "63ccacabbae4475b",
+      "item": {
+        "type": "paragraph",
+        "id": "63ccacabbae4475b",
+        "text": "See [[Practice Now]] for Ward's reflections arising from my current work in both open source and commercial development."
+      },
+      "date": 1486641589151
+    },
+    {
+      "type": "edit",
+      "id": "4e1a1e7a61a42581",
+      "item": {
+        "type": "paragraph",
+        "id": "4e1a1e7a61a42581",
+        "text": "See [[Ring of Truth]] for reviews of posts or papers that speak from experience that makes sense to me (Ward)."
+      },
+      "date": 1486641604077
+    },
+    {
+      "type": "edit",
+      "id": "63ccacabbae4475b",
+      "item": {
+        "type": "paragraph",
+        "id": "63ccacabbae4475b",
+        "text": "See [[Practice Now]] for Ward's reflections arising from his current work in both open source and commercial development."
+      },
+      "date": 1486641816806
+    }
+  ]
+}
