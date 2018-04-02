@@ -2,14 +2,14 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
-      "id": "7b56f22a4b9ee974",
-      "type": "paragraph"
-    },
-    {
       "type": "paragraph",
       "id": "821827c99b90cfd1",
       "text": "Pages about us."
+    },
+    {
+      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+      "id": "7b56f22a4b9ee974",
+      "type": "paragraph"
     },
     {
       "type": "factory",
@@ -198,6 +198,19 @@
       ],
       "id": "821827c99b90cfd1",
       "date": 1522615845271
+    },
+    {
+      "type": "move",
+      "order": [
+        "821827c99b90cfd1",
+        "7b56f22a4b9ee974",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "821827c99b90cfd1",
+      "date": 1522668396316
     }
   ]
 }
