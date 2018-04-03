@@ -12,9 +12,14 @@
       "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
     },
     {
+      "type": "paragraph",
+      "id": "ba00ebb5d05e1910",
+      "text": "My federated wikis (click the >> to add these sites to your search neighbourhood)"
+    },
+    {
       "type": "roster",
       "id": "fd716d0433c6eca4",
-      "text": "My federated wikis (click the >> to add these sites to your search neighbourhood)\n\nwiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
+      "text": "Julian\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
     },
     {
       "type": "paragraph",
@@ -45,7 +50,7 @@
     {
       "type": "paragraph",
       "id": "27504524edc46225",
-      "text": "[[Journal]]"
+      "text": "[[My Journal]]"
     },
     {
       "type": "paragraph",
@@ -711,6 +716,98 @@
         "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!, especially in the [[Page Journal]]*\n"
       },
       "date": 1522160991068
+    },
+    {
+      "type": "edit",
+      "id": "fd716d0433c6eca4",
+      "item": {
+        "type": "roster",
+        "id": "fd716d0433c6eca4",
+        "text": "Julian\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
+      },
+      "date": 1522741622813
+    },
+    {
+      "type": "edit",
+      "id": "fd716d0433c6eca4",
+      "item": {
+        "type": "roster",
+        "id": "fd716d0433c6eca4",
+        "text": "Julian\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
+      },
+      "date": 1522741729555,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1522741737822,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1522741810527
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ba00ebb5d05e1910"
+      },
+      "id": "ba00ebb5d05e1910",
+      "type": "add",
+      "after": "738131a31f732a71",
+      "date": 1522741818155
+    },
+    {
+      "type": "edit",
+      "id": "ba00ebb5d05e1910",
+      "item": {
+        "type": "paragraph",
+        "id": "ba00ebb5d05e1910",
+        "text": "My federated wikis (click the >> to add these sites to your search neighbourhood)"
+      },
+      "date": 1522741821627
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "324f34c5efdbaa91",
+        "ba00ebb5d05e1910",
+        "fd716d0433c6eca4",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "f17d8bca5871ad35",
+        "4aa2a2fea8e349dc",
+        "2bbd646ff3f44b51",
+        "27504524edc46225",
+        "05e2fa92643677ca",
+        "8e2624e3c14dec37",
+        "ee416d431ebf4fb4",
+        "93af87a42c8d67e5",
+        "ac5d0747136581f8",
+        "4a13530bd4dab7e9",
+        "738131a31f732a71"
+      ],
+      "id": "ba00ebb5d05e1910",
+      "date": 1522741836166
+    },
+    {
+      "type": "edit",
+      "id": "27504524edc46225",
+      "item": {
+        "type": "paragraph",
+        "id": "27504524edc46225",
+        "text": "[[My Journal]]"
+      },
+      "date": 1522742529126
     }
   ]
 }

@@ -2,24 +2,14 @@
   "title": "My Wikis",
   "story": [
     {
+      "type": "paragraph",
+      "id": "ba00ebb5d05e1910",
+      "text": "My federated wikis (click the >> to add these sites to your search neighbourhood)"
+    },
+    {
       "type": "roster",
       "id": "b0e2b351fe651494",
-      "text": "My federated wikis \n\nwiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk"
-    },
-    {
-      "type": "paragraph",
-      "id": "24fd042f9a5ed35d",
-      "text": "[https://wiki.synesthesia.co.uk General wiki]"
-    },
-    {
-      "type": "paragraph",
-      "id": "f831e5a180044302",
-      "text": "[http://pkm.wiki.synesthesia.co.uk PKM wiki]"
-    },
-    {
-      "type": "paragraph",
-      "id": "4b2b2399fb8ea4f0",
-      "text": "[http://code.wiki.synesthesia.co.uk Code and technology wiki]"
+      "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors"
     }
   ],
   "journal": [
@@ -172,6 +162,51 @@
         "text": "My federated wikis \n\nwiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk"
       },
       "date": 1454428250930
+    },
+    {
+      "type": "edit",
+      "id": "b0e2b351fe651494",
+      "item": {
+        "type": "roster",
+        "id": "b0e2b351fe651494",
+        "text": "ROSTER wiki.synesthesia.co.uk/welcone-visitors"
+      },
+      "date": 1522741887177
+    },
+    {
+      "type": "edit",
+      "id": "b0e2b351fe651494",
+      "item": {
+        "type": "roster",
+        "id": "b0e2b351fe651494",
+        "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors"
+      },
+      "date": 1522741898528
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ba00ebb5d05e1910",
+        "text": "My federated wikis (click the >> to add these sites to your search neighbourhood)"
+      },
+      "id": "ba00ebb5d05e1910",
+      "date": 1522741913964
+    },
+    {
+      "type": "remove",
+      "id": "f831e5a180044302",
+      "date": 1522741928206
+    },
+    {
+      "type": "remove",
+      "id": "24fd042f9a5ed35d",
+      "date": 1522741948081
+    },
+    {
+      "type": "remove",
+      "id": "4b2b2399fb8ea4f0",
+      "date": 1522741952132
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to this [[Federated Wiki]] site - personal site for [[Julian Elve]]. I am using this for general note-taking and experiments with [[Federated Wiki]]. I also have a couple of subject-specific areas, see [[My Wikis]]",
+      "text": "Welcome to this [[Federated Wiki]] site - personal site for [[Julian Elve]]. I am using this for general note-taking and experiments with [[Federated Wiki]]. I also have a couple of subject-specific areas:",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
@@ -12,9 +12,14 @@
       "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
     },
     {
+      "type": "roster",
+      "id": "fd716d0433c6eca4",
+      "text": "My federated wikis (click the >> to add these sites to your search neighbourhood)\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
+    },
+    {
       "type": "paragraph",
       "id": "821827c99b90cfd1",
-      "text": "Pages about us."
+      "text": "Pages about me"
     },
     {
       "type": "paragraph",
@@ -24,13 +29,13 @@
     },
     {
       "type": "paragraph",
-      "id": "4aa2a2fea8e349dc",
-      "text": "[[People I read]]"
+      "id": "f17d8bca5871ad35",
+      "text": "[[About this site]]"
     },
     {
       "type": "paragraph",
-      "id": "f17d8bca5871ad35",
-      "text": "[[About this site]]"
+      "id": "4aa2a2fea8e349dc",
+      "text": "[[People I read]]"
     },
     {
       "type": "paragraph",
@@ -47,11 +52,6 @@
       "id": "05e2fa92643677ca",
       "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
       "text": "[[Personal Knowledge Management]]"
-    },
-    {
-      "type": "roster",
-      "id": "fd716d0433c6eca4",
-      "text": "My federated wikis (click the >> to add these sites to your search neighbourhood)\n\nwiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
     },
     {
       "type": "paragraph",
@@ -81,7 +81,7 @@
     {
       "type": "markdown",
       "id": "738131a31f732a71",
-      "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!*\n"
+      "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!, especially in the [[Page Journal]]*\n"
     }
   ],
   "journal": [
@@ -547,6 +547,180 @@
         "text": "My federated wikis (click the >> to add these sites to your search neighbourhood)\n\nwiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
       },
       "date": 1522066141192
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "fd716d0433c6eca4",
+        "324f34c5efdbaa91",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "4aa2a2fea8e349dc",
+        "f17d8bca5871ad35",
+        "2bbd646ff3f44b51",
+        "27504524edc46225",
+        "05e2fa92643677ca",
+        "8e2624e3c14dec37",
+        "ee416d431ebf4fb4",
+        "93af87a42c8d67e5",
+        "ac5d0747136581f8",
+        "4a13530bd4dab7e9",
+        "738131a31f732a71"
+      ],
+      "id": "fd716d0433c6eca4",
+      "date": 1522069975682,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1522069994187
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site - personal site for [[Julian Elve]]. I am using this for general note-taking and experiments with [[Federated Wiki]]. I also have a couple of subject-specific areas:",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1522070007496
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "324f34c5efdbaa91",
+        "fd716d0433c6eca4",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "4aa2a2fea8e349dc",
+        "f17d8bca5871ad35",
+        "2bbd646ff3f44b51",
+        "27504524edc46225",
+        "05e2fa92643677ca",
+        "8e2624e3c14dec37",
+        "ee416d431ebf4fb4",
+        "93af87a42c8d67e5",
+        "ac5d0747136581f8",
+        "4a13530bd4dab7e9",
+        "738131a31f732a71"
+      ],
+      "id": "324f34c5efdbaa91",
+      "date": 1522087805455
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "324f34c5efdbaa91",
+        "fd716d0433c6eca4",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "4aa2a2fea8e349dc",
+        "f17d8bca5871ad35",
+        "2bbd646ff3f44b51",
+        "27504524edc46225",
+        "05e2fa92643677ca",
+        "8e2624e3c14dec37",
+        "ee416d431ebf4fb4",
+        "93af87a42c8d67e5",
+        "ac5d0747136581f8",
+        "738131a31f732a71",
+        "4a13530bd4dab7e9"
+      ],
+      "id": "738131a31f732a71",
+      "date": 1522087824119
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "324f34c5efdbaa91",
+        "fd716d0433c6eca4",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "f17d8bca5871ad35",
+        "4aa2a2fea8e349dc",
+        "2bbd646ff3f44b51",
+        "27504524edc46225",
+        "05e2fa92643677ca",
+        "8e2624e3c14dec37",
+        "ee416d431ebf4fb4",
+        "93af87a42c8d67e5",
+        "ac5d0747136581f8",
+        "738131a31f732a71",
+        "4a13530bd4dab7e9"
+      ],
+      "id": "f17d8bca5871ad35",
+      "date": 1522159958542
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about me"
+      },
+      "date": 1522159965314
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "324f34c5efdbaa91",
+        "fd716d0433c6eca4",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "f17d8bca5871ad35",
+        "4aa2a2fea8e349dc",
+        "2bbd646ff3f44b51",
+        "27504524edc46225",
+        "05e2fa92643677ca",
+        "8e2624e3c14dec37",
+        "ee416d431ebf4fb4",
+        "93af87a42c8d67e5",
+        "ac5d0747136581f8",
+        "4a13530bd4dab7e9",
+        "738131a31f732a71"
+      ],
+      "id": "4a13530bd4dab7e9",
+      "date": 1522159996599
+    },
+    {
+      "type": "edit",
+      "id": "738131a31f732a71",
+      "item": {
+        "type": "markdown",
+        "id": "738131a31f732a71",
+        "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!, especially in the [Journal]*\n"
+      },
+      "date": 1522160972997
+    },
+    {
+      "type": "edit",
+      "id": "738131a31f732a71",
+      "item": {
+        "type": "markdown",
+        "id": "738131a31f732a71",
+        "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!, especially in the [[Page Journal]]*\n"
+      },
+      "date": 1522160991068
+    },
+    {
+      "type": "edit",
+      "id": "fd716d0433c6eca4",
+      "item": {
+        "type": "roster",
+        "id": "fd716d0433c6eca4",
+        "text": "My federated wikis (click the >> to add these sites to your search neighbourhood)\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
+      },
+      "date": 1522741622813
     }
   ]
 }
