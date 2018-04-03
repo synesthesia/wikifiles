@@ -1,0 +1,49 @@
+{
+  "title": "Roles in PKM",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d332babbb40f9670",
+      "text": "[[Knowledge Catalyst]] / [[Curator]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Roles in PKM",
+        "story": []
+      },
+      "date": 1522767727017
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d332babbb40f9670"
+      },
+      "id": "d332babbb40f9670",
+      "type": "add",
+      "date": 1522767728804
+    },
+    {
+      "type": "edit",
+      "id": "d332babbb40f9670",
+      "item": {
+        "type": "paragraph",
+        "id": "d332babbb40f9670",
+        "text": "[[Knowledge Catalyst]]"
+      },
+      "date": 1522767740502
+    },
+    {
+      "type": "edit",
+      "id": "d332babbb40f9670",
+      "item": {
+        "type": "paragraph",
+        "id": "d332babbb40f9670",
+        "text": "[[Knowledge Catalyst]] / [[Curator]]"
+      },
+      "date": 1522767999349
+    }
+  ]
+}

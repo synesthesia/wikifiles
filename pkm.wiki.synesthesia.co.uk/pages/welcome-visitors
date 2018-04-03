@@ -13,14 +13,14 @@
     },
     {
       "type": "paragraph",
-      "id": "821827c99b90cfd1",
-      "text": "Pages about me, and the people I collaborate with (or at least read!)"
-    },
-    {
-      "type": "paragraph",
       "id": "63ad2e58eecdd9e5",
       "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
       "text": "[[Julian Elve]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "821827c99b90cfd1",
+      "text": "My other federated wiki sites - click the >> to add to the search neighbourhood"
     },
     {
       "type": "roster",
@@ -29,13 +29,13 @@
     },
     {
       "type": "paragraph",
-      "id": "a67f176000831d2d",
-      "text": "[[About This Site]]"
+      "id": "aa5ebd0203376ad2",
+      "text": "[[Inspirations]]"
     },
     {
       "type": "paragraph",
-      "id": "aa5ebd0203376ad2",
-      "text": "[[Inspirations]]"
+      "id": "a67f176000831d2d",
+      "text": "[[About This Site]]"
     },
     {
       "type": "markdown",
@@ -477,6 +477,50 @@
       ],
       "id": "e5d2b0d3d1e24051",
       "date": 1522599089083
+    },
+    {
+      "type": "move",
+      "order": [
+        "e5d2b0d3d1e24051",
+        "7b56f22a4b9ee974",
+        "63ad2e58eecdd9e5",
+        "821827c99b90cfd1",
+        "1d37e20209277a2d",
+        "a67f176000831d2d",
+        "aa5ebd0203376ad2",
+        "7a20c6ccff52ba9e",
+        "ee416d431ebf4fb4",
+        "b8d81c060d223a68"
+      ],
+      "id": "821827c99b90cfd1",
+      "date": 1522768063018
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "My other federated wiki sites - click the >> to add to the search neighbourhood"
+      },
+      "date": 1522768097414
+    },
+    {
+      "type": "move",
+      "order": [
+        "e5d2b0d3d1e24051",
+        "7b56f22a4b9ee974",
+        "63ad2e58eecdd9e5",
+        "821827c99b90cfd1",
+        "1d37e20209277a2d",
+        "aa5ebd0203376ad2",
+        "a67f176000831d2d",
+        "7a20c6ccff52ba9e",
+        "ee416d431ebf4fb4",
+        "b8d81c060d223a68"
+      ],
+      "id": "a67f176000831d2d",
+      "date": 1522768106798
     }
   ]
 }

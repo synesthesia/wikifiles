@@ -1,0 +1,192 @@
+{
+  "title": "Knowledge Catalyst",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "fa74fa5750c52d04",
+      "text": "quote from jarche.com\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "7c78ec3585ebb9ae",
+      "text": "> The knowledge gained from PKM is an emergent property of all its activities. For example, merely tagging an article in a system like Diigo, does not create knowledge. The process of seeking out information sources, making sense of them through some actions, and then sharing with others to confirm or accelerate our knowledge are interlinked activities from which knowledge slowly emerges."
+    },
+    {
+      "type": "paragraph",
+      "id": "f4e23e53ca68b78c",
+      "text": "[...] each community member has to have effective sense-making processes, or social networks are nothing more than noise amplification."
+    },
+    {
+      "type": "paragraph",
+      "id": "b0e619d40d969622",
+      "text": "-- Harold Jarche \"Knowledge Catalysts add Value\" [https://jarche.com/2016/06/knowledge-catalysts-add-value/ post]"
+    },
+    {
+      "type": "pagefold",
+      "id": "f34b5fd646be6b3f",
+      "text": ".."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Knowledge Catalyst",
+        "story": []
+      },
+      "date": 1522767747420
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fa74fa5750c52d04"
+      },
+      "id": "fa74fa5750c52d04",
+      "type": "add",
+      "date": 1522767805546
+    },
+    {
+      "type": "edit",
+      "id": "fa74fa5750c52d04",
+      "item": {
+        "type": "pagefold",
+        "id": "fa74fa5750c52d04",
+        "text": "quote from ?\n"
+      },
+      "date": 1522767818530
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f34b5fd646be6b3f"
+      },
+      "id": "f34b5fd646be6b3f",
+      "type": "add",
+      "after": "fa74fa5750c52d04",
+      "date": 1522767825047
+    },
+    {
+      "type": "edit",
+      "id": "f34b5fd646be6b3f",
+      "item": {
+        "type": "pagefold",
+        "id": "f34b5fd646be6b3f",
+        "text": ".."
+      },
+      "date": 1522767829816
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b0e619d40d969622"
+      },
+      "id": "b0e619d40d969622",
+      "type": "add",
+      "after": "f34b5fd646be6b3f",
+      "date": 1522767840371
+    },
+    {
+      "type": "edit",
+      "id": "b0e619d40d969622",
+      "item": {
+        "type": "paragraph",
+        "id": "b0e619d40d969622",
+        "text": "-- Harold Jarche \"Knowledge Catalysts add Value\" ["
+      },
+      "date": 1522767879136
+    },
+    {
+      "type": "edit",
+      "id": "b0e619d40d969622",
+      "item": {
+        "type": "paragraph",
+        "id": "b0e619d40d969622",
+        "text": "-- Harold Jarche \"Knowledge Catalysts add Value\" [https://jarche.com/2016/06/knowledge-catalysts-add-value/ post]"
+      },
+      "date": 1522767886358
+    },
+    {
+      "type": "move",
+      "order": [
+        "fa74fa5750c52d04",
+        "b0e619d40d969622",
+        "f34b5fd646be6b3f"
+      ],
+      "id": "b0e619d40d969622",
+      "date": 1522767888966
+    },
+    {
+      "type": "edit",
+      "id": "fa74fa5750c52d04",
+      "item": {
+        "type": "pagefold",
+        "id": "fa74fa5750c52d04",
+        "text": "quote from jarche.com\n"
+      },
+      "date": 1522767902558
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7c78ec3585ebb9ae"
+      },
+      "id": "7c78ec3585ebb9ae",
+      "type": "add",
+      "after": "f34b5fd646be6b3f",
+      "date": 1522767907798
+    },
+    {
+      "type": "move",
+      "order": [
+        "fa74fa5750c52d04",
+        "7c78ec3585ebb9ae",
+        "b0e619d40d969622",
+        "f34b5fd646be6b3f"
+      ],
+      "id": "7c78ec3585ebb9ae",
+      "date": 1522767909327
+    },
+    {
+      "type": "edit",
+      "id": "7c78ec3585ebb9ae",
+      "item": {
+        "type": "paragraph",
+        "id": "7c78ec3585ebb9ae",
+        "text": "> The knowledge gained from PKM is an emergent property of all its activities. For example, merely tagging an article in a system like Diigo, does not create knowledge. The process of seeking out information sources, making sense of them through some actions, and then sharing with others to confirm or accelerate our knowledge are interlinked activities from which knowledge slowly emerges."
+      },
+      "date": 1522767918863
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f4e23e53ca68b78c"
+      },
+      "id": "f4e23e53ca68b78c",
+      "type": "add",
+      "after": "f34b5fd646be6b3f",
+      "date": 1522767929527
+    },
+    {
+      "type": "move",
+      "order": [
+        "fa74fa5750c52d04",
+        "7c78ec3585ebb9ae",
+        "f4e23e53ca68b78c",
+        "b0e619d40d969622",
+        "f34b5fd646be6b3f"
+      ],
+      "id": "f4e23e53ca68b78c",
+      "date": 1522767930839
+    },
+    {
+      "type": "edit",
+      "id": "f4e23e53ca68b78c",
+      "item": {
+        "type": "paragraph",
+        "id": "f4e23e53ca68b78c",
+        "text": "[...] each community member has to have effective sense-making processes, or social networks are nothing more than noise amplification."
+      },
+      "date": 1522767959350
+    }
+  ]
+}

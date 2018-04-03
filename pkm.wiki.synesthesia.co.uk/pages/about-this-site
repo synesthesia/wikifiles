@@ -17,6 +17,11 @@
       "text": "[[Seek Sense Share]]"
     },
     {
+      "type": "paragraph",
+      "id": "8c8c02d9c97b7aac",
+      "text": "Understanding [[Roles in PKM]]"
+    },
+    {
       "type": "html",
       "id": "f910a7b287be78e3",
       "text": "<h4>Some Key Projects From Other People</h4>"
@@ -703,6 +708,80 @@
     {
       "type": "fork",
       "date": 1522319668444
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8c8c02d9c97b7aac"
+      },
+      "id": "8c8c02d9c97b7aac",
+      "type": "add",
+      "after": "86f65943f11bda8a",
+      "date": 1522767703282
+    },
+    {
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "5bfa322e150bcc02",
+        "8c8c02d9c97b7aac",
+        "3b8007e0b419e558",
+        "f910a7b287be78e3",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "bb529c10c542e1d8",
+        "effcf15a08723ec0",
+        "a3bc6c94042c3a43",
+        "86f65943f11bda8a"
+      ],
+      "id": "8c8c02d9c97b7aac",
+      "date": 1522767705149
+    },
+    {
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "5bfa322e150bcc02",
+        "3b8007e0b419e558",
+        "f910a7b287be78e3",
+        "8c8c02d9c97b7aac",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "bb529c10c542e1d8",
+        "effcf15a08723ec0",
+        "a3bc6c94042c3a43",
+        "86f65943f11bda8a"
+      ],
+      "id": "8c8c02d9c97b7aac",
+      "date": 1522767710111
+    },
+    {
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "5bfa322e150bcc02",
+        "3b8007e0b419e558",
+        "8c8c02d9c97b7aac",
+        "f910a7b287be78e3",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "bb529c10c542e1d8",
+        "effcf15a08723ec0",
+        "a3bc6c94042c3a43",
+        "86f65943f11bda8a"
+      ],
+      "id": "8c8c02d9c97b7aac",
+      "date": 1522767713095
+    },
+    {
+      "type": "edit",
+      "id": "8c8c02d9c97b7aac",
+      "item": {
+        "type": "paragraph",
+        "id": "8c8c02d9c97b7aac",
+        "text": "Understanding [[Roles in PKM]]"
+      },
+      "date": 1522767724342
     }
   ]
 }
