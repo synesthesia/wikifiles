@@ -9,7 +9,7 @@
     {
       "type": "paragraph",
       "id": "324f34c5efdbaa91",
-      "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+      "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You can make your own copy of these pages, but you will need your own [[Federated Wiki]] site to participate."
     },
     {
       "type": "roster",
@@ -23,60 +23,19 @@
     },
     {
       "type": "paragraph",
+      "id": "4aa2a2fea8e349dc",
+      "text": "[[People I read]]"
+    },
+    {
+      "type": "paragraph",
       "id": "63ad2e58eecdd9e5",
       "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
       "text": "[[Julian Elve]]"
     },
     {
       "type": "paragraph",
-      "id": "f17d8bca5871ad35",
-      "text": "[[About this site]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "4aa2a2fea8e349dc",
-      "text": "[[People I read]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
-    },
-    {
-      "type": "paragraph",
       "id": "27504524edc46225",
-      "text": "[[Journal]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "05e2fa92643677ca",
-      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
-      "text": "[[Personal Knowledge Management]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "8e2624e3c14dec37",
-      "text": "[[Technical Notes]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "93af87a42c8d67e5",
-      "text": "Other useful sources of information:"
-    },
-    {
-      "type": "paragraph",
-      "id": "ac5d0747136581f8",
-      "text": "[[Field Guide to the Federation]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "4a13530bd4dab7e9",
-      "text": "[[Incremental Paragraphs]] describes the most common writing style for wiki"
-    },
-    {
-      "type": "markdown",
-      "id": "738131a31f732a71",
-      "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!, especially in the [[Page Journal]]*\n"
+      "text": "[[My Journal]]"
     }
   ],
   "journal": [
@@ -782,6 +741,100 @@
         "type": "paragraph"
       },
       "date": 1522744496457
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1522744516127
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1522744521492
+    },
+    {
+      "type": "edit",
+      "id": "27504524edc46225",
+      "item": {
+        "type": "paragraph",
+        "id": "27504524edc46225",
+        "text": "[[My Journal]]"
+      },
+      "date": 1522744532444
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "324f34c5efdbaa91",
+        "fd716d0433c6eca4",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "f17d8bca5871ad35",
+        "4aa2a2fea8e349dc",
+        "8e2624e3c14dec37",
+        "27504524edc46225",
+        "93af87a42c8d67e5",
+        "ac5d0747136581f8",
+        "4a13530bd4dab7e9",
+        "738131a31f732a71"
+      ],
+      "id": "8e2624e3c14dec37",
+      "date": 1522744535406
+    },
+    {
+      "type": "remove",
+      "id": "8e2624e3c14dec37",
+      "date": 1522744547300
+    },
+    {
+      "type": "remove",
+      "id": "f17d8bca5871ad35",
+      "date": 1522744550447
+    },
+    {
+      "type": "remove",
+      "id": "4a13530bd4dab7e9",
+      "date": 1522744559309
+    },
+    {
+      "type": "remove",
+      "id": "738131a31f732a71",
+      "date": 1522744570117
+    },
+    {
+      "type": "remove",
+      "id": "93af87a42c8d67e5",
+      "date": 1522744575083
+    },
+    {
+      "type": "remove",
+      "id": "ac5d0747136581f8",
+      "date": 1522744732571
+    },
+    {
+      "type": "edit",
+      "id": "324f34c5efdbaa91",
+      "item": {
+        "type": "paragraph",
+        "id": "324f34c5efdbaa91",
+        "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You can make your own copy of these pages, but you will need your own [[Federated Wiki]] site to participate."
+      },
+      "date": 1522744776286
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "324f34c5efdbaa91",
+        "fd716d0433c6eca4",
+        "821827c99b90cfd1",
+        "4aa2a2fea8e349dc",
+        "63ad2e58eecdd9e5",
+        "27504524edc46225"
+      ],
+      "id": "4aa2a2fea8e349dc",
+      "date": 1522744802704
     }
   ]
 }

@@ -10,11 +10,6 @@
       "type": "paragraph",
       "id": "696a42150633f53b",
       "text": "[[Journal 2018]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "3d3ac729b6055684",
-      "text": "[[Journal 2016]]"
     }
   ],
   "journal": [
@@ -146,6 +141,11 @@
       },
       "after": "38c3927480a055f6",
       "date": 1522057157977
+    },
+    {
+      "type": "remove",
+      "id": "3d3ac729b6055684",
+      "date": 1522745670533
     }
   ]
 }

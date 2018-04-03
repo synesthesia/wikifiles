@@ -44,11 +44,6 @@
     },
     {
       "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
-    },
-    {
-      "type": "paragraph",
       "id": "27504524edc46225",
       "text": "[[My Journal]]"
     },
@@ -808,6 +803,11 @@
         "text": "[[My Journal]]"
       },
       "date": 1522742529126
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1522745779332
     }
   ]
 }

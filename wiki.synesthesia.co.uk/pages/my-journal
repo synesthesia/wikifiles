@@ -1,0 +1,49 @@
+{
+  "title": "My Journal",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "265bf979ebce9f92",
+      "text": "[https://forage.wiki.synesthesia.co.uk/view/welcome-visitors/view/my-journal preferred page]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "My Journal",
+        "story": []
+      },
+      "date": 1522745341733
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "265bf979ebce9f92"
+      },
+      "id": "265bf979ebce9f92",
+      "type": "add",
+      "date": 1522745345018
+    },
+    {
+      "type": "edit",
+      "id": "265bf979ebce9f92",
+      "item": {
+        "type": "paragraph",
+        "id": "265bf979ebce9f92",
+        "text": "[[https://forage.wiki.synesthesia.co.uk/view/welcome-visitors/view/my-journal preferred page]]"
+      },
+      "date": 1522745356886
+    },
+    {
+      "type": "edit",
+      "id": "265bf979ebce9f92",
+      "item": {
+        "type": "paragraph",
+        "id": "265bf979ebce9f92",
+        "text": "[https://forage.wiki.synesthesia.co.uk/view/welcome-visitors/view/my-journal preferred page]"
+      },
+      "date": 1522745370243
+    }
+  ]
+}

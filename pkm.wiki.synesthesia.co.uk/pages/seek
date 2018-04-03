@@ -8,18 +8,22 @@
     },
     {
       "type": "html",
+      "id": "6792181717bb4dc4",
+      "text": "<i>To [[Find Trusted Sources]]</i>"
+    },
+    {
+      "type": "html",
       "id": "5901aacbf5a3b3aa",
-      "text": "<i>To keep up to date</i>"
+      "text": "<i>To keep up to date</i> - [[Follow Trusted Sources]]"
     },
     {
       "type": "html",
       "id": "003561a090345c38",
-      "text": "<i>To find new knowledge</i>"
+      "text": "<i>To find new knowledge</i> - [[Query Trusted Sources]]"
     },
     {
-      "type": "html",
-      "id": "6792181717bb4dc4",
-      "text": "<i>To find new trusted sources</i>"
+      "type": "factory",
+      "id": "90c55d3e4104f3d1"
     }
   ],
   "journal": [
@@ -173,6 +177,68 @@
         "text": "<i>To find new knowledge</i>"
       },
       "date": 1522221724970
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "90c55d3e4104f3d1"
+      },
+      "id": "90c55d3e4104f3d1",
+      "type": "add",
+      "after": "6792181717bb4dc4",
+      "date": 1522746908163
+    },
+    {
+      "type": "edit",
+      "id": "6792181717bb4dc4",
+      "item": {
+        "type": "html",
+        "id": "6792181717bb4dc4",
+        "text": "<i>To [[find trusted sources]]</i>"
+      },
+      "date": 1522746928708
+    },
+    {
+      "type": "edit",
+      "id": "6792181717bb4dc4",
+      "item": {
+        "type": "html",
+        "id": "6792181717bb4dc4",
+        "text": "<i>To [[Find Trusted Sources]]</i>"
+      },
+      "date": 1522746941549
+    },
+    {
+      "type": "move",
+      "order": [
+        "a69252265f345e26",
+        "6792181717bb4dc4",
+        "5901aacbf5a3b3aa",
+        "003561a090345c38",
+        "90c55d3e4104f3d1"
+      ],
+      "id": "6792181717bb4dc4",
+      "date": 1522746968907
+    },
+    {
+      "type": "edit",
+      "id": "5901aacbf5a3b3aa",
+      "item": {
+        "type": "html",
+        "id": "5901aacbf5a3b3aa",
+        "text": "<i>To keep up to date</i> - [[Follow Trusted Sources]]"
+      },
+      "date": 1522746981773
+    },
+    {
+      "type": "edit",
+      "id": "003561a090345c38",
+      "item": {
+        "type": "html",
+        "id": "003561a090345c38",
+        "text": "<i>To find new knowledge</i> - [[Query Trusted Sources]]"
+      },
+      "date": 1522747004263
     }
   ]
 }
