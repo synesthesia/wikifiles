@@ -1,0 +1,129 @@
+{
+  "title": "Binding Redirects Broken On Azure functions",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7d08f0d79b946560",
+      "text": "As discussed extensively [https://github.com/Azure/azure-functions-host/issues/992 github issue] and [https://github.com/Azure/azure-functions-host/issues/1716 github issue]"
+    },
+    {
+      "type": "paragraph",
+      "id": "18e3ef2e61cdb337",
+      "text": "Function code is running in context of ScriptHost, so we are stuck with package versions defined in the host runtime [https://github.com/Azure/azure-functions-host/blob/v1.x/src/WebJobs.Script.Host/packages.config Github commit]"
+    },
+    {
+      "type": "paragraph",
+      "id": "23023148bfb6c9c0",
+      "text": "Workaround is to force exact package versions in our functions code. [https://docs.microsoft.com/en-us/nuget/reference/package-versioning Microsoft documentation]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Binding Redirects Broken On Azure functions",
+        "story": []
+      },
+      "date": 1522844117778
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7d08f0d79b946560"
+      },
+      "id": "7d08f0d79b946560",
+      "type": "add",
+      "date": 1522844134343
+    },
+    {
+      "type": "edit",
+      "id": "7d08f0d79b946560",
+      "item": {
+        "type": "paragraph",
+        "id": "7d08f0d79b946560",
+        "text": "As discussed extensively ["
+      },
+      "date": 1522844145536
+    },
+    {
+      "type": "edit",
+      "id": "7d08f0d79b946560",
+      "item": {
+        "type": "paragraph",
+        "id": "7d08f0d79b946560",
+        "text": "As discussed extensively [https://github.com/Azure/azure-functions-host/issues/992 github] and "
+      },
+      "date": 1522844154691
+    },
+    {
+      "type": "edit",
+      "id": "7d08f0d79b946560",
+      "item": {
+        "type": "paragraph",
+        "id": "7d08f0d79b946560",
+        "text": "As discussed extensively [https://github.com/Azure/azure-functions-host/issues/992 github] and [https://github.com/Azure/azure-functions-host/issues/1716 github]"
+      },
+      "date": 1522844170463
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "18e3ef2e61cdb337"
+      },
+      "id": "18e3ef2e61cdb337",
+      "type": "add",
+      "after": "7d08f0d79b946560",
+      "date": 1522844171603
+    },
+    {
+      "type": "edit",
+      "id": "18e3ef2e61cdb337",
+      "item": {
+        "type": "paragraph",
+        "id": "18e3ef2e61cdb337",
+        "text": "Function code is running in context of ScriptHost, so "
+      },
+      "date": 1522844198135
+    },
+    {
+      "type": "edit",
+      "id": "18e3ef2e61cdb337",
+      "item": {
+        "type": "paragraph",
+        "id": "18e3ef2e61cdb337",
+        "text": "Function code is running in context of ScriptHost, so we are stuck with package versions defined in the host runtime [https://github.com/Azure/azure-functions-host/blob/v1.x/src/WebJobs.Script.Host/packages.config Github commit]"
+      },
+      "date": 1522844323413
+    },
+    {
+      "type": "edit",
+      "id": "7d08f0d79b946560",
+      "item": {
+        "type": "paragraph",
+        "id": "7d08f0d79b946560",
+        "text": "As discussed extensively [https://github.com/Azure/azure-functions-host/issues/992 github issue] and [https://github.com/Azure/azure-functions-host/issues/1716 github issue]"
+      },
+      "date": 1522844331764
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "23023148bfb6c9c0"
+      },
+      "id": "23023148bfb6c9c0",
+      "type": "add",
+      "after": "18e3ef2e61cdb337",
+      "date": 1522844358246
+    },
+    {
+      "type": "edit",
+      "id": "23023148bfb6c9c0",
+      "item": {
+        "type": "paragraph",
+        "id": "23023148bfb6c9c0",
+        "text": "Workaround is to force exact package versions in our functions code. [https://docs.microsoft.com/en-us/nuget/reference/package-versioning Microsoft documentation]"
+      },
+      "date": 1522844401509
+    }
+  ]
+}

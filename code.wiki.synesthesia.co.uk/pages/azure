@@ -1,0 +1,39 @@
+{
+  "title": "Azure",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "77689922884c04f9",
+      "text": "[[Azure Functions]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Azure",
+        "story": []
+      },
+      "date": 1522844063360
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "77689922884c04f9"
+      },
+      "id": "77689922884c04f9",
+      "type": "add",
+      "date": 1522844064478
+    },
+    {
+      "type": "edit",
+      "id": "77689922884c04f9",
+      "item": {
+        "type": "paragraph",
+        "id": "77689922884c04f9",
+        "text": "[[Azure Functions]]"
+      },
+      "date": 1522844079488
+    }
+  ]
+}

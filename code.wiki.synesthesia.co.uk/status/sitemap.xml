@@ -26,6 +26,18 @@
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/welcome-visitors.html</loc>
-    <lastmod>2018-03-26</lastmod>
+    <lastmod>2018-04-04</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/azure.html</loc>
+    <lastmod>2018-04-04</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/azure-functions.html</loc>
+    <lastmod>2018-04-04</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/binding-redirects-broken-on-azure-functions.html</loc>
+    <lastmod>2018-04-04</lastmod>
   </url>
 </urlset>

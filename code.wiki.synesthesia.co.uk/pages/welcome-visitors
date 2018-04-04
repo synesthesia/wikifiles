@@ -23,6 +23,11 @@
     },
     {
       "type": "paragraph",
+      "id": "c40a1f63eb57e676",
+      "text": "[[Azure]]"
+    },
+    {
+      "type": "paragraph",
       "id": "5cfeeecb2ddc82be",
       "text": "[[Domain Driven Design]]"
     },
@@ -357,6 +362,52 @@
       "type": "remove",
       "id": "3c76fcc1548f5758",
       "date": 1522066366943
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c40a1f63eb57e676"
+      },
+      "id": "c40a1f63eb57e676",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1522844046075
+    },
+    {
+      "type": "edit",
+      "id": "c40a1f63eb57e676",
+      "item": {
+        "type": "paragraph",
+        "id": "c40a1f63eb57e676",
+        "text": "Azure"
+      },
+      "date": 1522844053132
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2ac11f8df56b47d7",
+        "b1bea368697866f0",
+        "798a3a9b67a723c7",
+        "c40a1f63eb57e676",
+        "5cfeeecb2ddc82be",
+        "af1945546f160590",
+        "d71c87c252ae2bb8",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "c40a1f63eb57e676",
+      "date": 1522844055604
+    },
+    {
+      "type": "edit",
+      "id": "c40a1f63eb57e676",
+      "item": {
+        "type": "paragraph",
+        "id": "c40a1f63eb57e676",
+        "text": "[[Azure]]"
+      },
+      "date": 1522844059404
     }
   ]
 }

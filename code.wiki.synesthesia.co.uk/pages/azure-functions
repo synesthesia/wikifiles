@@ -1,0 +1,39 @@
+{
+  "title": "Azure Functions",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6ea3717201f11146",
+      "text": "[[Binding Redirects Broken On Azure functions]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Azure Functions",
+        "story": []
+      },
+      "date": 1522844082132
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6ea3717201f11146"
+      },
+      "id": "6ea3717201f11146",
+      "type": "add",
+      "date": 1522844083466
+    },
+    {
+      "type": "edit",
+      "id": "6ea3717201f11146",
+      "item": {
+        "type": "paragraph",
+        "id": "6ea3717201f11146",
+        "text": "[[Binding Redirects Broken On Azure functions]]"
+      },
+      "date": 1522844106965
+    }
+  ]
+}
