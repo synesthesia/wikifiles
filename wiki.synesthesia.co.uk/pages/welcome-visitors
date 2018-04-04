@@ -19,7 +19,7 @@
     {
       "type": "roster",
       "id": "fd716d0433c6eca4",
-      "text": "Julian\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
+      "text": "Julian's Public Sites\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
     },
     {
       "type": "paragraph",
@@ -808,6 +808,16 @@
       "type": "remove",
       "id": "2bbd646ff3f44b51",
       "date": 1522745779332
+    },
+    {
+      "type": "edit",
+      "id": "fd716d0433c6eca4",
+      "item": {
+        "type": "roster",
+        "id": "fd716d0433c6eca4",
+        "text": "Julian's Public Sites\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
+      },
+      "date": 1522833292216
     }
   ]
 }
