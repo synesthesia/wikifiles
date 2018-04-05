@@ -17,9 +17,9 @@
       "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "821827c99b90cfd1",
-      "text": "Pages about me"
+      "text": "<h3>Pages about me</h3>"
     },
     {
       "type": "paragraph",
@@ -54,9 +54,9 @@
       "text": "[[Technical Notes]]"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "896bdbde7e60964f",
-      "text": "Elsewhere"
+      "text": "<h3>Elsewhere</h3>"
     },
     {
       "type": "reference",
@@ -65,6 +65,11 @@
       "slug": "sitesfedwikiorg",
       "title": "sites.fed.wiki.org",
       "text": "Catalog of federated wiki sites with domain names for page titles and brief descriptions tuned for search."
+    },
+    {
+      "type": "html",
+      "id": "cd9712c07cab8d38",
+      "text": "<h3>yes but how?</h3>"
     },
     {
       "type": "paragraph",
@@ -958,6 +963,91 @@
       "type": "remove",
       "id": "ba00ebb5d05e1910",
       "date": 1522932324259
+    },
+    {
+      "type": "edit",
+      "id": "896bdbde7e60964f",
+      "item": {
+        "type": "paragraph",
+        "id": "896bdbde7e60964f",
+        "text": "<h3>Elsewhere</h3>"
+      },
+      "date": 1522936761141
+    },
+    {
+      "type": "edit",
+      "id": "896bdbde7e60964f",
+      "item": {
+        "type": "html",
+        "id": "896bdbde7e60964f",
+        "text": "<h3>Elsewhere</h3>"
+      },
+      "date": 1522936763624
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cd9712c07cab8d38"
+      },
+      "id": "cd9712c07cab8d38",
+      "type": "add",
+      "after": "738131a31f732a71",
+      "date": 1522936780002
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "fd716d0433c6eca4",
+        "324f34c5efdbaa91",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "f17d8bca5871ad35",
+        "4aa2a2fea8e349dc",
+        "27504524edc46225",
+        "05e2fa92643677ca",
+        "8e2624e3c14dec37",
+        "896bdbde7e60964f",
+        "b5600a2fca4460da",
+        "cd9712c07cab8d38",
+        "ee416d431ebf4fb4",
+        "93af87a42c8d67e5",
+        "ac5d0747136581f8",
+        "4a13530bd4dab7e9",
+        "738131a31f732a71"
+      ],
+      "id": "cd9712c07cab8d38",
+      "date": 1522936783978
+    },
+    {
+      "type": "edit",
+      "id": "cd9712c07cab8d38",
+      "item": {
+        "type": "html",
+        "id": "cd9712c07cab8d38",
+        "text": "<h3>yes but how?</h3>"
+      },
+      "date": 1522936798012
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "<h3>Pages about me</h3>"
+      },
+      "date": 1522936817170
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "html",
+        "id": "821827c99b90cfd1",
+        "text": "<h3>Pages about me</h3>"
+      },
+      "date": 1522936819560
     }
   ]
 }
