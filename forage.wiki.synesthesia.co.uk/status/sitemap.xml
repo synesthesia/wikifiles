@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://forage.wiki.synesthesia.co.uk/welcome-visitors.html</loc>
+    <loc>http://forage.wiki.synesthesia.co.uk/journal-2018.html</loc>
+    <lastmod>2018-03-26</lastmod>
+  </url>
+  <url>
+    <loc>http://forage.wiki.synesthesia.co.uk/journal-2018-03.html</loc>
+    <lastmod>2018-03-26</lastmod>
+  </url>
+  <url>
+    <loc>http://forage.wiki.synesthesia.co.uk/my-journal.html</loc>
     <lastmod>2018-04-03</lastmod>
   </url>
   <url>
@@ -9,7 +17,15 @@
     <lastmod>2016-02-04</lastmod>
   </url>
   <url>
-    <loc>http://forage.wiki.synesthesia.co.uk/my-journal.html</loc>
+    <loc>http://forage.wiki.synesthesia.co.uk/welcome-visitors.html</loc>
     <lastmod>2018-04-03</lastmod>
+  </url>
+  <url>
+    <loc>http://forage.wiki.synesthesia.co.uk/why-journal.html</loc>
+    <lastmod>2016-02-04</lastmod>
+  </url>
+  <url>
+    <loc>http://forage.wiki.synesthesia.co.uk/why-use-federated-wiki-for-journalling.html</loc>
+    <lastmod>2016-02-04</lastmod>
   </url>
 </urlset>

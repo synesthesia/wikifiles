@@ -60,6 +60,19 @@
     },
     {
       "type": "paragraph",
+      "id": "896bdbde7e60964f",
+      "text": "Elsewhere"
+    },
+    {
+      "type": "reference",
+      "id": "b5600a2fca4460da",
+      "site": "sites.fed.wiki.org",
+      "slug": "sitesfedwikiorg",
+      "title": "sites.fed.wiki.org",
+      "text": "Catalog of federated wiki sites with domain names for page titles and brief descriptions tuned for search."
+    },
+    {
+      "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby. Also [[Site Index]] for all local pages"
     },
@@ -81,7 +94,7 @@
     {
       "type": "markdown",
       "id": "738131a31f732a71",
-      "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!, especially in the [[Page Journal]]*\n"
+      "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!, especially in the [[Journal]]*\n"
     }
   ],
   "journal": [
@@ -818,6 +831,108 @@
         "text": "Julian's Public Sites\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
       },
       "date": 1522833292216
+    },
+    {
+      "type": "edit",
+      "id": "738131a31f732a71",
+      "item": {
+        "type": "markdown",
+        "id": "738131a31f732a71",
+        "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!, especially in the [[Journal]]*\n"
+      },
+      "date": 1522931577886
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "896bdbde7e60964f"
+      },
+      "id": "896bdbde7e60964f",
+      "type": "add",
+      "after": "738131a31f732a71",
+      "date": 1522931627884
+    },
+    {
+      "type": "edit",
+      "id": "896bdbde7e60964f",
+      "item": {
+        "type": "paragraph",
+        "id": "896bdbde7e60964f",
+        "text": "Elsewhere"
+      },
+      "date": 1522931637519
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "324f34c5efdbaa91",
+        "ba00ebb5d05e1910",
+        "fd716d0433c6eca4",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "f17d8bca5871ad35",
+        "4aa2a2fea8e349dc",
+        "27504524edc46225",
+        "05e2fa92643677ca",
+        "8e2624e3c14dec37",
+        "896bdbde7e60964f",
+        "ee416d431ebf4fb4",
+        "93af87a42c8d67e5",
+        "ac5d0747136581f8",
+        "4a13530bd4dab7e9",
+        "738131a31f732a71"
+      ],
+      "id": "896bdbde7e60964f",
+      "date": 1522931644465
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b5600a2fca4460da"
+      },
+      "id": "b5600a2fca4460da",
+      "type": "add",
+      "after": "738131a31f732a71",
+      "date": 1522931651838
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "324f34c5efdbaa91",
+        "ba00ebb5d05e1910",
+        "fd716d0433c6eca4",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "f17d8bca5871ad35",
+        "4aa2a2fea8e349dc",
+        "27504524edc46225",
+        "05e2fa92643677ca",
+        "8e2624e3c14dec37",
+        "896bdbde7e60964f",
+        "b5600a2fca4460da",
+        "ee416d431ebf4fb4",
+        "93af87a42c8d67e5",
+        "ac5d0747136581f8",
+        "4a13530bd4dab7e9",
+        "738131a31f732a71"
+      ],
+      "id": "b5600a2fca4460da",
+      "date": 1522931654255
+    },
+    {
+      "type": "edit",
+      "id": "b5600a2fca4460da",
+      "item": {
+        "type": "reference",
+        "id": "b5600a2fca4460da",
+        "site": "sites.fed.wiki.org",
+        "slug": "sitesfedwikiorg",
+        "title": "sites.fed.wiki.org",
+        "text": "Catalog of federated wiki sites with domain names for page titles and brief descriptions tuned for search."
+      },
+      "date": 1522931668013
     }
   ]
 }
