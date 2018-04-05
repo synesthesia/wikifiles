@@ -1,0 +1,179 @@
+{
+  "title": "Context",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6f62d40ec1b4d824",
+      "text": "An internal link's Context provides a path to be searched when the link is clicked. The origin, the remote site, the reference cite and forks in the journal all contribute to the context."
+    },
+    {
+      "type": "paragraph",
+      "id": "f3e001fd0f0be309",
+      "text": "If we say page context then we are referring to the sites that travel with a wiki page as it is copied through the federation."
+    },
+    {
+      "type": "paragraph",
+      "id": "7aa5675c5155f6b8",
+      "text": "If we say resolution context then we are referring to the page context plus our origin and the remote site from which the page has been fetched."
+    },
+    {
+      "type": "paragraph",
+      "id": "60449ab9540b0a94",
+      "text": "If we say writing context then we are referring to the context within which we expect to be read. This includes likely neighbors and any other constructed community such as students in a class."
+    },
+    {
+      "type": "paragraph",
+      "id": "311f93fc1897010f",
+      "text": "See [[Origin]] for where we intend writing to be found."
+    },
+    {
+      "type": "paragraph",
+      "id": "819046f5de1471bb",
+      "text": "See [[Neighborhood]] for how browsing influences context."
+    },
+    {
+      "type": "paragraph",
+      "id": "9c2b576ebcade58c",
+      "text": "See [[Future]] for how unresolved links interact with neighbors."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Context",
+        "story": []
+      },
+      "date": 1423802714288
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6f62d40ec1b4d824"
+      },
+      "id": "6f62d40ec1b4d824",
+      "type": "add",
+      "date": 1423802742556
+    },
+    {
+      "type": "edit",
+      "id": "6f62d40ec1b4d824",
+      "item": {
+        "type": "paragraph",
+        "id": "6f62d40ec1b4d824",
+        "text": "An internal link's Context provides a path to be searched when the link is clicked. The origin, the remote site, the reference cite and forks in the journal all contribute to the context."
+      },
+      "date": 1423803052217
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f3e001fd0f0be309"
+      },
+      "id": "f3e001fd0f0be309",
+      "type": "add",
+      "after": "6f62d40ec1b4d824",
+      "date": 1423840177936
+    },
+    {
+      "type": "edit",
+      "id": "f3e001fd0f0be309",
+      "item": {
+        "type": "paragraph",
+        "id": "f3e001fd0f0be309",
+        "text": "If we say page context then we are referring to the sites that travel with a wiki page as it is copied through the federation."
+      },
+      "date": 1423840364062
+    },
+    {
+      "type": "add",
+      "id": "7aa5675c5155f6b8",
+      "item": {
+        "type": "paragraph",
+        "id": "7aa5675c5155f6b8",
+        "text": "If we say resolution context then we are referring to the page context plus our origin and the remote site from which the page has been fetched."
+      },
+      "after": "f3e001fd0f0be309",
+      "date": 1423840600289
+    },
+    {
+      "type": "add",
+      "id": "60449ab9540b0a94",
+      "item": {
+        "type": "paragraph",
+        "id": "60449ab9540b0a94",
+        "text": "If we say writing context then we are referring to the context within which we expect to be read. This includes likely neighbors and any other constructed community such as students in a class."
+      },
+      "after": "7aa5675c5155f6b8",
+      "date": 1423840962964
+    },
+    {
+      "type": "add",
+      "id": "819046f5de1471bb",
+      "item": {
+        "type": "paragraph",
+        "id": "819046f5de1471bb",
+        "text": "See Neighborhood to understand how browsing influences context."
+      },
+      "after": "60449ab9540b0a94",
+      "date": 1423841136711
+    },
+    {
+      "type": "edit",
+      "id": "819046f5de1471bb",
+      "item": {
+        "type": "paragraph",
+        "id": "819046f5de1471bb",
+        "text": "See [[Neighborhood]] for how browsing influences context."
+      },
+      "date": 1423841158406
+    },
+    {
+      "type": "add",
+      "id": "9c2b576ebcade58c",
+      "item": {
+        "type": "paragraph",
+        "id": "9c2b576ebcade58c",
+        "text": "See [[Future]] for how links interact with neighbors."
+      },
+      "after": "819046f5de1471bb",
+      "date": 1423841214841
+    },
+    {
+      "type": "edit",
+      "id": "9c2b576ebcade58c",
+      "item": {
+        "type": "paragraph",
+        "id": "9c2b576ebcade58c",
+        "text": "See [[Future]] for how unresolved links interact with neighbors."
+      },
+      "date": 1423841229058
+    },
+    {
+      "type": "add",
+      "id": "311f93fc1897010f",
+      "item": {
+        "type": "paragraph",
+        "id": "311f93fc1897010f",
+        "text": "See [[Origin]] for where your writing will be found."
+      },
+      "after": "60449ab9540b0a94",
+      "date": 1423846359140
+    },
+    {
+      "type": "edit",
+      "id": "311f93fc1897010f",
+      "item": {
+        "type": "paragraph",
+        "id": "311f93fc1897010f",
+        "text": "See [[Origin]] for where we intend writing to be found."
+      },
+      "date": 1423846411507
+    },
+    {
+      "type": "fork",
+      "site": "glossary.asia.wiki.org",
+      "date": 1522931756895
+    }
+  ]
+}

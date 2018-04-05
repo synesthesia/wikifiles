@@ -1,0 +1,150 @@
+{
+  "title": "Drop",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "14c401db81bfc718",
+      "text": "A Drop completes an operation started by selecting something to drag. What happens will depend on what is dragged and where it is dropped. See [[Drag]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "607f8d32fe97cf55",
+      "text": "Drop page flags, video urls or files on a factory."
+    },
+    {
+      "type": "paragraph",
+      "id": "267ad2a6ea26f20c",
+      "text": "Drop page flags on a lineup."
+    },
+    {
+      "type": "paragraph",
+      "id": "7bd091faed3b2166",
+      "text": "Drop items on a wiki page."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Drop",
+        "story": []
+      },
+      "date": 1423783289076
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "14c401db81bfc718"
+      },
+      "id": "14c401db81bfc718",
+      "type": "add",
+      "date": 1423783291456
+    },
+    {
+      "type": "edit",
+      "id": "14c401db81bfc718",
+      "item": {
+        "type": "paragraph",
+        "id": "14c401db81bfc718",
+        "text": "A Drop "
+      },
+      "date": 1423783384297
+    },
+    {
+      "type": "edit",
+      "id": "14c401db81bfc718",
+      "item": {
+        "type": "paragraph",
+        "id": "14c401db81bfc718",
+        "text": "A Drop completes an operation started by selecting something to drag. What happens will depend on what is dragged and where it is dropped. See [[Drag]]"
+      },
+      "date": 1423783543491
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "607f8d32fe97cf55"
+      },
+      "id": "607f8d32fe97cf55",
+      "type": "add",
+      "after": "14c401db81bfc718",
+      "date": 1423783728460
+    },
+    {
+      "type": "edit",
+      "id": "607f8d32fe97cf55",
+      "item": {
+        "type": "paragraph",
+        "id": "607f8d32fe97cf55",
+        "text": "Drop flags or files on a factory."
+      },
+      "date": 1423783756961
+    },
+    {
+      "type": "add",
+      "id": "267ad2a6ea26f20c",
+      "item": {
+        "type": "paragraph",
+        "id": "267ad2a6ea26f20c",
+        "text": "Drop page flags on a lineup."
+      },
+      "after": "607f8d32fe97cf55",
+      "date": 1423783782357
+    },
+    {
+      "type": "edit",
+      "id": "607f8d32fe97cf55",
+      "item": {
+        "type": "paragraph",
+        "id": "607f8d32fe97cf55",
+        "text": "Drop page flags or files on a factory."
+      },
+      "date": 1423783789269
+    },
+    {
+      "type": "edit",
+      "id": "607f8d32fe97cf55",
+      "item": {
+        "type": "paragraph",
+        "id": "607f8d32fe97cf55",
+        "text": "Drop page flags, urls or files on a factory."
+      },
+      "date": 1423783813503
+    },
+    {
+      "type": "edit",
+      "id": "607f8d32fe97cf55",
+      "item": {
+        "type": "paragraph",
+        "id": "607f8d32fe97cf55",
+        "text": "Drop page flags, video urls or files on a factory."
+      },
+      "date": 1423783843123
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7bd091faed3b2166"
+      },
+      "id": "7bd091faed3b2166",
+      "type": "add",
+      "after": "267ad2a6ea26f20c",
+      "date": 1423783861482
+    },
+    {
+      "type": "edit",
+      "id": "7bd091faed3b2166",
+      "item": {
+        "type": "paragraph",
+        "id": "7bd091faed3b2166",
+        "text": "Drop items on a wiki page."
+      },
+      "date": 1423783889949
+    },
+    {
+      "type": "fork",
+      "site": "glossary.asia.wiki.org",
+      "date": 1522931783243
+    }
+  ]
+}

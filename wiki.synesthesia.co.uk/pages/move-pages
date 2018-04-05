@@ -1,0 +1,220 @@
+{
+  "title": "Move Pages",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "770548b17a401742",
+      "text": "We can move misplaced pages between sites without leaving a confusing trail of forks by moving the files within the [[Dot Wiki]] directories."
+    },
+    {
+      "type": "paragraph",
+      "id": "dc35c7afa4eace1b",
+      "text": "Login and change directory to the desired site's pages subdirectory."
+    },
+    {
+      "type": "code",
+      "id": "19fd8aabf77af533",
+      "text": "cd .wiki/bar.wiki.org/pages"
+    },
+    {
+      "type": "paragraph",
+      "id": "811efa2cdac6f5cf",
+      "text": "Check that the page in question is in fact not there."
+    },
+    {
+      "type": "code",
+      "id": "aec8e0d6097258a0",
+      "text": "less wanted-page"
+    },
+    {
+      "type": "paragraph",
+      "id": "dbed99c5d3c702b1",
+      "text": "Move the page and coax wiki to rebuild the sitemaps of both sites."
+    },
+    {
+      "type": "code",
+      "id": "48a80ce97b74d493",
+      "text": "mv ../../wrong-site/pages/wanted-page .\nrm ../../wrong-site/state/sitemap.json\nrm ../state/sitemap.json"
+    },
+    {
+      "type": "paragraph",
+      "id": "fc1b5f953778253b",
+      "text": "See [[Delete Pages]] for related technique."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Move Pages",
+        "story": []
+      },
+      "date": 1438527383466
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "770548b17a401742"
+      },
+      "id": "770548b17a401742",
+      "type": "add",
+      "date": 1438527385610
+    },
+    {
+      "type": "edit",
+      "id": "770548b17a401742",
+      "item": {
+        "type": "paragraph",
+        "id": "770548b17a401742",
+        "text": "We can move misplaced pages between sites without leaving a confusing trail of forks by moving the files within the [[Dot Wiki]] directories."
+      },
+      "date": 1438527554705
+    },
+    {
+      "type": "add",
+      "id": "dc35c7afa4eace1b",
+      "item": {
+        "type": "paragraph",
+        "id": "dc35c7afa4eace1b",
+        "text": "Login and change directory to the desired site's pages subdirectory."
+      },
+      "after": "770548b17a401742",
+      "date": 1438527585300
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "19fd8aabf77af533"
+      },
+      "id": "19fd8aabf77af533",
+      "type": "add",
+      "after": "dc35c7afa4eace1b",
+      "date": 1438527590259
+    },
+    {
+      "type": "edit",
+      "id": "19fd8aabf77af533",
+      "item": {
+        "type": "code",
+        "id": "19fd8aabf77af533",
+        "text": "cd .wiki/bar.wiki.org/pages"
+      },
+      "date": 1438527616426
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "811efa2cdac6f5cf",
+        "text": "Check that the page in question is in fact not wanted."
+      },
+      "after": "19fd8aabf77af533",
+      "id": "811efa2cdac6f5cf",
+      "date": 1438527658168
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "code",
+        "id": "aec8e0d6097258a0",
+        "text": "less bad-page"
+      },
+      "after": "811efa2cdac6f5cf",
+      "id": "aec8e0d6097258a0",
+      "date": 1438527664998
+    },
+    {
+      "type": "edit",
+      "id": "811efa2cdac6f5cf",
+      "item": {
+        "type": "paragraph",
+        "id": "811efa2cdac6f5cf",
+        "text": "Check that the page in question is in fact not there."
+      },
+      "date": 1438527679328
+    },
+    {
+      "type": "edit",
+      "id": "aec8e0d6097258a0",
+      "item": {
+        "type": "code",
+        "id": "aec8e0d6097258a0",
+        "text": "less wanted-page"
+      },
+      "date": 1438527688872
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "dbed99c5d3c702b1",
+        "text": "Remove the page and coax wiki to rebuild the sitemap without it."
+      },
+      "after": "aec8e0d6097258a0",
+      "id": "dbed99c5d3c702b1",
+      "date": 1438527712350
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "code",
+        "id": "48a80ce97b74d493",
+        "text": "rm bad-page\nrm ../state/sitemap.json"
+      },
+      "after": "dbed99c5d3c702b1",
+      "id": "48a80ce97b74d493",
+      "date": 1438527716059
+    },
+    {
+      "type": "edit",
+      "id": "dbed99c5d3c702b1",
+      "item": {
+        "type": "paragraph",
+        "id": "dbed99c5d3c702b1",
+        "text": "Move the page and coax wiki to rebuild the sitemaps of both sites."
+      },
+      "date": 1438527753706
+    },
+    {
+      "type": "edit",
+      "id": "48a80ce97b74d493",
+      "item": {
+        "type": "code",
+        "id": "48a80ce97b74d493",
+        "text": "mv ../../wrong-site/pages/wanted-page .\nrm ../../wrong-site/state/sitemap.json\nrm ../state/sitemap.json"
+      },
+      "date": 1438527815924
+    },
+    {
+      "type": "add",
+      "id": "fc1b5f953778253b",
+      "item": {
+        "type": "paragraph",
+        "id": "fc1b5f953778253b",
+        "text": "See [[Delete Pages]] for related technique."
+      },
+      "after": "770548b17a401742",
+      "date": 1438527914980
+    },
+    {
+      "type": "move",
+      "order": [
+        "770548b17a401742",
+        "dc35c7afa4eace1b",
+        "19fd8aabf77af533",
+        "811efa2cdac6f5cf",
+        "aec8e0d6097258a0",
+        "dbed99c5d3c702b1",
+        "48a80ce97b74d493",
+        "fc1b5f953778253b"
+      ],
+      "id": "fc1b5f953778253b",
+      "date": 1438527923231
+    },
+    {
+      "type": "fork",
+      "site": "admin.asia.wiki.org",
+      "date": 1522932046687
+    }
+  ]
+}

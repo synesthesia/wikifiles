@@ -1,0 +1,150 @@
+{
+  "title": "Paragraph",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4151a1882ff3d1b5",
+      "text": "A paragraph is one type of item in a story written in the simplest and most preferred markup consisting of just words and links."
+    },
+    {
+      "type": "paragraph",
+      "id": "6325a915877fb790",
+      "text": "Items marked up in HTML or Markdown are not paragraphs in the technical sense. We sometimes refer to them as \"paragraph like items\" glossing over this distinction."
+    },
+    {
+      "type": "paragraph",
+      "id": "d9f8f67d25e13856",
+      "text": "Paragraphs markup [[Internal Links]] as a title inside double square brackets."
+    },
+    {
+      "type": "paragraph",
+      "id": "c34110bea28cf863",
+      "text": "Paragraphs markup [[External Links]] as a URL and link word inside single square brackets."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Paragraph",
+        "story": []
+      },
+      "date": 1423061261749
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4151a1882ff3d1b5"
+      },
+      "id": "4151a1882ff3d1b5",
+      "type": "add",
+      "date": 1423061287739
+    },
+    {
+      "type": "edit",
+      "id": "4151a1882ff3d1b5",
+      "item": {
+        "type": "paragraph",
+        "id": "4151a1882ff3d1b5",
+        "text": "A Paragraph is one type of item in a story written in the simplest and most preferred markup consisting of words and links."
+      },
+      "date": 1423061461260
+    },
+    {
+      "type": "edit",
+      "id": "4151a1882ff3d1b5",
+      "item": {
+        "type": "paragraph",
+        "id": "4151a1882ff3d1b5",
+        "text": "A Paragraph is one type of item in a story written in the simplest and most preferred markup consisting of just words and links."
+      },
+      "date": 1423061470442
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6325a915877fb790"
+      },
+      "id": "6325a915877fb790",
+      "type": "add",
+      "after": "4151a1882ff3d1b5",
+      "date": 1423061490667
+    },
+    {
+      "type": "edit",
+      "id": "6325a915877fb790",
+      "item": {
+        "type": "paragraph",
+        "id": "6325a915877fb790",
+        "text": "A Paragraph is an item of type 'paragraph'."
+      },
+      "date": 1423061536304
+    },
+    {
+      "type": "edit",
+      "id": "6325a915877fb790",
+      "item": {
+        "type": "paragraph",
+        "id": "6325a915877fb790",
+        "text": "Items marked up in HTML or Markdown are not Paragraphs in the technical sense. We sometimes refer to them as \"paragraph like items\" glossing over this distinction."
+      },
+      "date": 1423061682761
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d9f8f67d25e13856"
+      },
+      "id": "d9f8f67d25e13856",
+      "type": "add",
+      "after": "6325a915877fb790",
+      "date": 1423061747291
+    },
+    {
+      "type": "edit",
+      "id": "d9f8f67d25e13856",
+      "item": {
+        "type": "paragraph",
+        "id": "d9f8f67d25e13856",
+        "text": "Paragraphs markup [[Internal Links]] as a title inside double square brackets."
+      },
+      "date": 1423061806652
+    },
+    {
+      "type": "add",
+      "id": "c34110bea28cf863",
+      "item": {
+        "type": "paragraph",
+        "id": "c34110bea28cf863",
+        "text": "Paragraphs markup [[External Links]] as a URL and link word inside single square brackets."
+      },
+      "after": "d9f8f67d25e13856",
+      "date": 1423061881835
+    },
+    {
+      "type": "edit",
+      "id": "4151a1882ff3d1b5",
+      "item": {
+        "type": "paragraph",
+        "id": "4151a1882ff3d1b5",
+        "text": "A paragraph is one type of item in a story written in the simplest and most preferred markup consisting of just words and links."
+      },
+      "date": 1423065701546
+    },
+    {
+      "type": "edit",
+      "id": "6325a915877fb790",
+      "item": {
+        "type": "paragraph",
+        "id": "6325a915877fb790",
+        "text": "Items marked up in HTML or Markdown are not paragraphs in the technical sense. We sometimes refer to them as \"paragraph like items\" glossing over this distinction."
+      },
+      "date": 1423065709640
+    },
+    {
+      "type": "fork",
+      "site": "glossary.asia.wiki.org",
+      "date": 1522931905302
+    }
+  ]
+}

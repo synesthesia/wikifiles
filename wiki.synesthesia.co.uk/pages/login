@@ -1,0 +1,76 @@
+{
+  "title": "Login",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d1df8c9bae9b5e5b",
+      "text": "The login region of the footer shows who can login, if they are logged in and how to login."
+    },
+    {
+      "type": "paragraph",
+      "id": "b2edbaca862982de",
+      "text": "Only one person can own and edit a site. An owner must login to show that they are that person."
+    },
+    {
+      "type": "paragraph",
+      "id": "1a357a6c9246fa1e",
+      "text": "A brand new site might not be owned. The first person to login is said to claim the site."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Login",
+        "story": []
+      },
+      "date": 1423055821372
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d1df8c9bae9b5e5b"
+      },
+      "id": "d1df8c9bae9b5e5b",
+      "type": "add",
+      "date": 1423055874849
+    },
+    {
+      "type": "edit",
+      "id": "d1df8c9bae9b5e5b",
+      "item": {
+        "type": "paragraph",
+        "id": "d1df8c9bae9b5e5b",
+        "text": "The login region of the footer shows who can login, if they are logged in and how to login."
+      },
+      "date": 1423055979245
+    },
+    {
+      "type": "add",
+      "id": "b2edbaca862982de",
+      "item": {
+        "type": "paragraph",
+        "id": "b2edbaca862982de",
+        "text": "Only one person can own and edit a site. An owner must login to show that they are that person."
+      },
+      "after": "d1df8c9bae9b5e5b",
+      "date": 1423056222673
+    },
+    {
+      "type": "add",
+      "id": "1a357a6c9246fa1e",
+      "item": {
+        "type": "paragraph",
+        "id": "1a357a6c9246fa1e",
+        "text": "A brand new site might not be owned. The first person to login is said to claim the site."
+      },
+      "after": "b2edbaca862982de",
+      "date": 1423056281647
+    },
+    {
+      "type": "fork",
+      "site": "glossary.asia.wiki.org",
+      "date": 1522931920298
+    }
+  ]
+}

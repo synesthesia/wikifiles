@@ -7,19 +7,14 @@
       "type": "paragraph"
     },
     {
-      "type": "paragraph",
-      "id": "324f34c5efdbaa91",
-      "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
-    },
-    {
-      "type": "paragraph",
-      "id": "ba00ebb5d05e1910",
-      "text": "My federated wikis (click the >> to add these sites to your search neighbourhood)"
-    },
-    {
       "type": "roster",
       "id": "fd716d0433c6eca4",
       "text": "Julian's Public Sites\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "324f34c5efdbaa91",
+      "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
     },
     {
       "type": "paragraph",
@@ -933,6 +928,36 @@
         "text": "Catalog of federated wiki sites with domain names for page titles and brief descriptions tuned for search."
       },
       "date": 1522931668013
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "fd716d0433c6eca4",
+        "324f34c5efdbaa91",
+        "ba00ebb5d05e1910",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "f17d8bca5871ad35",
+        "4aa2a2fea8e349dc",
+        "27504524edc46225",
+        "05e2fa92643677ca",
+        "8e2624e3c14dec37",
+        "896bdbde7e60964f",
+        "b5600a2fca4460da",
+        "ee416d431ebf4fb4",
+        "93af87a42c8d67e5",
+        "ac5d0747136581f8",
+        "4a13530bd4dab7e9",
+        "738131a31f732a71"
+      ],
+      "id": "fd716d0433c6eca4",
+      "date": 1522932308032
+    },
+    {
+      "type": "remove",
+      "id": "ba00ebb5d05e1910",
+      "date": 1522932324259
     }
   ]
 }

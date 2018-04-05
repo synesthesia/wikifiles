@@ -1,0 +1,86 @@
+{
+  "title": "Split",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d9184f782a27d2ef",
+      "text": "A Split divides a paragraph item into two at the point of the cursor upon typing the return/enter key."
+    },
+    {
+      "type": "paragraph",
+      "id": "e558084e65f60e1a",
+      "text": "A backspace can [[Join]] the divided paragraph back to together again."
+    },
+    {
+      "type": "paragraph",
+      "id": "52297542e96498e8",
+      "text": "Split only works for items marked up as paragraph. Every other item including markups like html or markdown accept newlines as just another markup character."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Split",
+        "story": []
+      },
+      "date": 1423800727816
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d9184f782a27d2ef"
+      },
+      "id": "d9184f782a27d2ef",
+      "type": "add",
+      "date": 1423800764305
+    },
+    {
+      "type": "edit",
+      "id": "d9184f782a27d2ef",
+      "item": {
+        "type": "paragraph",
+        "id": "d9184f782a27d2ef",
+        "text": "A Split divides a paragraph item into two at the point of the cursor upon typing the return/enter key."
+      },
+      "date": 1423800874696
+    },
+    {
+      "type": "add",
+      "id": "e558084e65f60e1a",
+      "item": {
+        "type": "paragraph",
+        "id": "e558084e65f60e1a",
+        "text": "A backspace can [[Join]] the divided paragraph back to together again."
+      },
+      "after": "d9184f782a27d2ef",
+      "date": 1423800938599
+    },
+    {
+      "type": "add",
+      "id": "52297542e96498e8",
+      "item": {
+        "type": "paragraph",
+        "id": "52297542e96498e8",
+        "text": "Split only works for items marked up as paragraph. Other markups like html or markdown accept newlines as just another markup character. "
+      },
+      "after": "e558084e65f60e1a",
+      "date": 1423801038157
+    },
+    {
+      "type": "edit",
+      "id": "52297542e96498e8",
+      "item": {
+        "type": "paragraph",
+        "id": "52297542e96498e8",
+        "text": "Split only works for items marked up as paragraph. Every other item including markups like html or markdown accept newlines as just another markup character."
+      },
+      "date": 1423801068229
+    },
+    {
+      "type": "fork",
+      "site": "glossary.asia.wiki.org",
+      "date": 1522931779213
+    }
+  ]
+}

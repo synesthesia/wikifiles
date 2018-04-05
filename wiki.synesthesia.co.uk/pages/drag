@@ -1,0 +1,178 @@
+{
+  "title": "Drag",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cf666b0b4b903c80",
+      "text": "The Drag is the first part of a drag and drop operation.  We drag a thing to a place. When we call out drag specifically we are calling attention to the thing that is the subject of the operation. See [[Drop]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d7037fd9c41fcf99",
+      "text": "Drag items within a page to reorder them."
+    },
+    {
+      "type": "paragraph",
+      "id": "88b3d16ce8d7c273",
+      "text": "Drag items between pages to move them."
+    },
+    {
+      "type": "paragraph",
+      "id": "b02371a85515502d",
+      "text": "Drag page flags to other tabs to add to their lineups."
+    },
+    {
+      "type": "paragraph",
+      "id": "1b411d41e3e78243",
+      "text": "Drag page flags to factories to create references."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Drag",
+        "story": []
+      },
+      "date": 1423782468763
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cf666b0b4b903c80"
+      },
+      "id": "cf666b0b4b903c80",
+      "type": "add",
+      "date": 1423782502025
+    },
+    {
+      "type": "edit",
+      "id": "cf666b0b4b903c80",
+      "item": {
+        "type": "paragraph",
+        "id": "cf666b0b4b903c80",
+        "text": "The Drag is the first part of a drag and drop operation.  We drag a thing to a place. When we call out drag specifically we are calling attention to the thing that is the subject of the operation."
+      },
+      "date": 1423782774331
+    },
+    {
+      "type": "add",
+      "id": "d7037fd9c41fcf99",
+      "item": {
+        "type": "paragraph",
+        "id": "d7037fd9c41fcf99",
+        "text": "Drag items within a page to reorder them."
+      },
+      "after": "cf666b0b4b903c80",
+      "date": 1423782789806
+    },
+    {
+      "type": "add",
+      "id": "88b3d16ce8d7c273",
+      "item": {
+        "type": "paragraph",
+        "id": "88b3d16ce8d7c273",
+        "text": "Drag items between pages to move them. Both pages will be edited, one with an add, the other with remove."
+      },
+      "after": "d7037fd9c41fcf99",
+      "date": 1423782844421
+    },
+    {
+      "type": "add",
+      "id": "b02371a85515502d",
+      "item": {
+        "type": "paragraph",
+        "id": "b02371a85515502d",
+        "text": "Drag a page flag to another tab to make it visible from that origin."
+      },
+      "after": "88b3d16ce8d7c273",
+      "date": 1423782916671
+    },
+    {
+      "type": "edit",
+      "id": "b02371a85515502d",
+      "item": {
+        "type": "paragraph",
+        "id": "b02371a85515502d",
+        "text": "Drag a page flag to another tab's lineup."
+      },
+      "date": 1423782984823
+    },
+    {
+      "type": "add",
+      "id": "1b411d41e3e78243",
+      "item": {
+        "type": "paragraph",
+        "id": "1b411d41e3e78243",
+        "text": "Drag a page flag to a factory to create a reference."
+      },
+      "after": "b02371a85515502d",
+      "date": 1423783031340
+    },
+    {
+      "type": "edit",
+      "id": "b02371a85515502d",
+      "item": {
+        "type": "paragraph",
+        "id": "b02371a85515502d",
+        "text": "Drag a page flag to another tab to add to that lineup."
+      },
+      "date": 1423783057015
+    },
+    {
+      "type": "edit",
+      "id": "88b3d16ce8d7c273",
+      "item": {
+        "type": "paragraph",
+        "id": "88b3d16ce8d7c273",
+        "text": "Drag items between pages to move them."
+      },
+      "date": 1423783070069
+    },
+    {
+      "type": "edit",
+      "id": "b02371a85515502d",
+      "item": {
+        "type": "paragraph",
+        "id": "b02371a85515502d",
+        "text": "Drag page flags to other tabs to add to their lineups."
+      },
+      "date": 1423783141640
+    },
+    {
+      "type": "edit",
+      "id": "1b411d41e3e78243",
+      "item": {
+        "type": "paragraph",
+        "id": "1b411d41e3e78243",
+        "text": "Drag page flag to factories to create references."
+      },
+      "date": 1423783159293
+    },
+    {
+      "type": "edit",
+      "id": "1b411d41e3e78243",
+      "item": {
+        "type": "paragraph",
+        "id": "1b411d41e3e78243",
+        "text": "Drag page flags to factories to create references."
+      },
+      "date": 1423783167840
+    },
+    {
+      "type": "edit",
+      "id": "cf666b0b4b903c80",
+      "item": {
+        "type": "paragraph",
+        "id": "cf666b0b4b903c80",
+        "text": "The Drag is the first part of a drag and drop operation.  We drag a thing to a place. When we call out drag specifically we are calling attention to the thing that is the subject of the operation. See [[Drop]]"
+      },
+      "date": 1423783225465
+    },
+    {
+      "type": "fork",
+      "site": "glossary.asia.wiki.org",
+      "date": 1522931793338
+    }
+  ]
+}

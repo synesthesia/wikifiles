@@ -1,0 +1,131 @@
+{
+  "title": "Wiki Page",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4d39b2dc6f9304a3",
+      "text": "A wiki page is content specifically designed to be easily authored and combined with other similarly formatted pages to be viewed as a hypertext."
+    },
+    {
+      "type": "paragraph",
+      "id": "2e345af892f4c416",
+      "text": "Federated wiki pages are composed of various kinds of paragraph-like items assembled into a story. One refers to a page by title accepting that there is some ambiguity to be resolved. A history of actions travels with the page to help make sense of duplicates."
+    },
+    {
+      "type": "paragraph",
+      "id": "b12f6229d5c0a48a",
+      "text": "Wiki pages come from many places. Most come one site, the origin, but lots come from some other site, a remote site Still more just show up from the strangest places."
+    },
+    {
+      "type": "paragraph",
+      "id": "1ce0880eb6065865",
+      "text": "See [[Page Place Clues]] for visual hints as to where pages have been found."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Wiki Page",
+        "story": []
+      },
+      "date": 1421113527896
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4d39b2dc6f9304a3"
+      },
+      "id": "4d39b2dc6f9304a3",
+      "type": "add",
+      "date": 1421113566307
+    },
+    {
+      "type": "edit",
+      "id": "4d39b2dc6f9304a3",
+      "item": {
+        "type": "paragraph",
+        "id": "4d39b2dc6f9304a3",
+        "text": "A wiki page is content specifically formatted to be authored and viewed amid other similarly formatted pages in a hypertext."
+      },
+      "date": 1421113787788
+    },
+    {
+      "type": "edit",
+      "id": "4d39b2dc6f9304a3",
+      "item": {
+        "type": "paragraph",
+        "id": "4d39b2dc6f9304a3",
+        "text": "A wiki page is content specifically designed to be easily authored and combined with other similarly formatted pages to be viewed as a hypertext."
+      },
+      "date": 1421113842735
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2e345af892f4c416"
+      },
+      "id": "2e345af892f4c416",
+      "type": "add",
+      "after": "4d39b2dc6f9304a3",
+      "date": 1421113864276
+    },
+    {
+      "type": "edit",
+      "id": "2e345af892f4c416",
+      "item": {
+        "type": "paragraph",
+        "id": "2e345af892f4c416",
+        "text": "Federated wiki pages are composed of various kinds of paragraph-like items assembled into a story. One refers to a page by title accepting that there is some ambiguity to be resolved. A history of actions travels with the page to help make sense of duplicates."
+      },
+      "date": 1421114333941
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "b12f6229d5c0a48a",
+        "text": "Wiki pages come from many places. Most come one site, the origin, but lots come from some other site, a remote site Still more just show up from the strangest places. See [[Page Place Clues]]."
+      },
+      "after": "2e345af892f4c416",
+      "id": "b12f6229d5c0a48a",
+      "date": 1440979660280
+    },
+    {
+      "type": "edit",
+      "id": "b12f6229d5c0a48a",
+      "item": {
+        "type": "paragraph",
+        "id": "b12f6229d5c0a48a",
+        "text": "Wiki pages come from many places. Most come one site, the origin, but lots come from some other site, a remote site Still more just show up from the strangest places."
+      },
+      "date": 1440986545551
+    },
+    {
+      "type": "add",
+      "id": "1ce0880eb6065865",
+      "item": {
+        "type": "paragraph",
+        "id": "1ce0880eb6065865",
+        "text": "See [[Page Place Clues]] for visual indications of where pages have been found."
+      },
+      "after": "b12f6229d5c0a48a",
+      "date": 1440986574245
+    },
+    {
+      "type": "edit",
+      "id": "1ce0880eb6065865",
+      "item": {
+        "type": "paragraph",
+        "id": "1ce0880eb6065865",
+        "text": "See [[Page Place Clues]] for visual hints as to where pages have been found."
+      },
+      "date": 1440986648088
+    },
+    {
+      "type": "fork",
+      "site": "glossary.asia.wiki.org",
+      "date": 1522931936718
+    }
+  ]
+}

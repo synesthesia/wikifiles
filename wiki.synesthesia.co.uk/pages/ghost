@@ -1,0 +1,128 @@
+{
+  "title": "Ghost",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "25b172dde90d542a",
+      "text": "A wiki page is rendered with a translucent background when that page exists only in the browser as a ghost of a page that has been or will soon be."
+    },
+    {
+      "type": "paragraph",
+      "id": "eace1dd130e5ac62",
+      "text": "A link to a non-existent page opens a ghost that offers to create the missing page."
+    },
+    {
+      "type": "paragraph",
+      "id": "2b369ae4e9548f5d",
+      "text": "A search creates a ghost with References to pages found in the neighborhood. These can be dragged elsewhere."
+    },
+    {
+      "type": "paragraph",
+      "id": "a76af2a4ab299d8a",
+      "text": "A click on a Journal Action will show a previous revision as a ghost page which can be forked over more recent changes or items dragged as wanted."
+    },
+    {
+      "type": "paragraph",
+      "id": "f2dc622778cb5274",
+      "text": "A drop on a Transporter will create a ghost page from which items can be taken. If the ghost has a desireable name then it can be forked in full as that name."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Ghost",
+        "story": []
+      },
+      "date": 1494946478318
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "25b172dde90d542a"
+      },
+      "id": "25b172dde90d542a",
+      "type": "add",
+      "date": 1494946489357
+    },
+    {
+      "type": "edit",
+      "id": "25b172dde90d542a",
+      "item": {
+        "type": "paragraph",
+        "id": "25b172dde90d542a",
+        "text": "A wiki page is rendered with a translucent background when that page exists only in the browser as a ghost of a page that has been or will soon be."
+      },
+      "date": 1494946737531
+    },
+    {
+      "type": "add",
+      "id": "eace1dd130e5ac62",
+      "item": {
+        "type": "paragraph",
+        "id": "eace1dd130e5ac62",
+        "text": "A link to a non-existent page opens a ghost that offers to create the missing page."
+      },
+      "after": "25b172dde90d542a",
+      "date": 1494946788106
+    },
+    {
+      "type": "add",
+      "id": "2b369ae4e9548f5d",
+      "item": {
+        "type": "paragraph",
+        "id": "2b369ae4e9548f5d",
+        "text": "A search creates a ghost with References to pages found in the neighborhood. These items can be dragged to other pages."
+      },
+      "after": "eace1dd130e5ac62",
+      "date": 1494946871199
+    },
+    {
+      "type": "edit",
+      "id": "2b369ae4e9548f5d",
+      "item": {
+        "type": "paragraph",
+        "id": "2b369ae4e9548f5d",
+        "text": "A search creates a ghost with References to pages found in the neighborhood. These items can be dragged elsewhere."
+      },
+      "date": 1494946877974
+    },
+    {
+      "type": "edit",
+      "id": "2b369ae4e9548f5d",
+      "item": {
+        "type": "paragraph",
+        "id": "2b369ae4e9548f5d",
+        "text": "A search creates a ghost with References to pages found in the neighborhood. These can be dragged elsewhere."
+      },
+      "date": 1494946894008
+    },
+    {
+      "type": "add",
+      "id": "a76af2a4ab299d8a",
+      "item": {
+        "type": "paragraph",
+        "id": "a76af2a4ab299d8a",
+        "text": "A click on a Journal Action will show a previous revision as a ghost page which can be forked over more recent changes or items dragged as wanted."
+      },
+      "after": "2b369ae4e9548f5d",
+      "date": 1494947034711
+    },
+    {
+      "type": "add",
+      "id": "f2dc622778cb5274",
+      "item": {
+        "type": "paragraph",
+        "id": "f2dc622778cb5274",
+        "text": "A drop on a Transporter will create a ghost page from which items can be taken. If the ghost has a desireable name then it can be forked in full as that name."
+      },
+      "after": "a76af2a4ab299d8a",
+      "date": 1494947127771
+    },
+    {
+      "type": "fork",
+      "site": "glossary.asia.wiki.org",
+      "date": 1522931724178
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Join",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2c6967923287ed58",
+      "text": "A Join merges two items of type paragraph into one when a backspace/delete is typed and the cursor is placed such that the space between paragraphs is what should be erased."
+    },
+    {
+      "type": "paragraph",
+      "id": "d38f3ea57879c32a",
+      "text": "The items to be joined must both be of type paragraph. Items marked up in html or markdown won't join this way."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Join",
+        "story": []
+      },
+      "date": 1423801078738
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2c6967923287ed58"
+      },
+      "id": "2c6967923287ed58",
+      "type": "add",
+      "date": 1423801081066
+    },
+    {
+      "type": "edit",
+      "id": "2c6967923287ed58",
+      "item": {
+        "type": "paragraph",
+        "id": "2c6967923287ed58",
+        "text": "A Join merges two items of type paragraph into one when a backspace/delete is typed and the cursor is placed such that the space between paragraphs is what should be erased."
+      },
+      "date": 1423801204063
+    },
+    {
+      "type": "add",
+      "id": "d38f3ea57879c32a",
+      "item": {
+        "type": "paragraph",
+        "id": "d38f3ea57879c32a",
+        "text": "The items to be joined must both be of type paragraph. Items marked up in html or markdown won't join this way."
+      },
+      "after": "2c6967923287ed58",
+      "date": 1423801253779
+    },
+    {
+      "type": "fork",
+      "site": "glossary.asia.wiki.org",
+      "date": 1522931771485
+    }
+  ]
+}

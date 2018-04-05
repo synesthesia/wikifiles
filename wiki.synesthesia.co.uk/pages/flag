@@ -1,0 +1,142 @@
+{
+  "title": "Flag",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "608504d88035f132",
+      "text": "The Flag is the small square of color used to identify a site within the federation."
+    },
+    {
+      "type": "paragraph",
+      "id": "8fd8c21e19738aeb",
+      "text": "A site has a single owner but an owner can have many sites. As a convenience to owners and users we generate a new flag for each new site."
+    },
+    {
+      "type": "paragraph",
+      "id": "742d3337bfdbe364",
+      "text": "Hover over a site to see the name of the site it represents."
+    },
+    {
+      "type": "paragraph",
+      "id": "dea288dc26bc51fd",
+      "text": "Click a flag to get closer to the site."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Flag",
+        "story": []
+      },
+      "date": 1423370066897
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "608504d88035f132"
+      },
+      "id": "608504d88035f132",
+      "type": "add",
+      "date": 1423370069211
+    },
+    {
+      "type": "edit",
+      "id": "608504d88035f132",
+      "item": {
+        "type": "paragraph",
+        "id": "608504d88035f132",
+        "text": "The Flag is the small square of color used to identify a site within the federation."
+      },
+      "date": 1423370198452
+    },
+    {
+      "type": "add",
+      "id": "8fd8c21e19738aeb",
+      "item": {
+        "type": "paragraph",
+        "id": "8fd8c21e19738aeb",
+        "text": "A site has a single owner but an owner can have many sites. As a convenience to owners and users a new flag is generated for every site"
+      },
+      "after": "608504d88035f132",
+      "date": 1423370300950
+    },
+    {
+      "type": "edit",
+      "id": "8fd8c21e19738aeb",
+      "item": {
+        "type": "paragraph",
+        "id": "8fd8c21e19738aeb",
+        "text": "A site has a single owner but an owner can have many sites. As a convenience to owners and users a new flag with recognizable family resemblance is generated for every new site"
+      },
+      "date": 1423370373972
+    },
+    {
+      "type": "edit",
+      "id": "8fd8c21e19738aeb",
+      "item": {
+        "type": "paragraph",
+        "id": "8fd8c21e19738aeb",
+        "text": "A site has a single owner but an owner can have many sites. As a convenience to owners and users a new flag with recognizable family resemblance is generated for each new site"
+      },
+      "date": 1423370382588
+    },
+    {
+      "type": "edit",
+      "id": "8fd8c21e19738aeb",
+      "item": {
+        "type": "paragraph",
+        "id": "8fd8c21e19738aeb",
+        "text": "A site has a single owner but an owner can have many sites. As a convenience to owners and users we generate a new flag with recognizable family resemblance for each new site"
+      },
+      "date": 1423370417810
+    },
+    {
+      "type": "edit",
+      "id": "8fd8c21e19738aeb",
+      "item": {
+        "type": "paragraph",
+        "id": "8fd8c21e19738aeb",
+        "text": "A site has a single owner but an owner can have many sites. As a convenience to owners and users we generate a new flag for each new site"
+      },
+      "date": 1423370436430
+    },
+    {
+      "type": "edit",
+      "id": "8fd8c21e19738aeb",
+      "item": {
+        "type": "paragraph",
+        "id": "8fd8c21e19738aeb",
+        "text": "A site has a single owner but an owner can have many sites. As a convenience to owners and users we generate a new flag for each new site."
+      },
+      "date": 1423370485882
+    },
+    {
+      "type": "add",
+      "id": "742d3337bfdbe364",
+      "item": {
+        "type": "paragraph",
+        "id": "742d3337bfdbe364",
+        "text": "Hover over a site to see the name of the site it represents."
+      },
+      "after": "8fd8c21e19738aeb",
+      "date": 1423370510095
+    },
+    {
+      "type": "add",
+      "id": "dea288dc26bc51fd",
+      "item": {
+        "type": "paragraph",
+        "id": "dea288dc26bc51fd",
+        "text": "Click a flag to get closer to the site."
+      },
+      "after": "742d3337bfdbe364",
+      "date": 1423370527801
+    },
+    {
+      "type": "fork",
+      "site": "glossary.asia.wiki.org",
+      "date": 1522931823065
+    }
+  ]
+}

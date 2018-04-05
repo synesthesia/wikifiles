@@ -1,0 +1,116 @@
+{
+  "title": "About Page",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8f0d7c21675a41e0",
+      "text": "About pages contain documentation for plugins that becomes accessible at a sites when each plugin is installed. An about page title is constructed from the plugin name surrounded by \"About\" and \"Plugin\"."
+    },
+    {
+      "type": "paragraph",
+      "id": "672e40cf3bc431f0",
+      "text": "Typically an about page contains a synopsis, an example, a description of markup and a link to source code for the plugin. Complex plugins may spread this information across multiple pages linked from the about page."
+    },
+    {
+      "type": "paragraph",
+      "id": "8cd5c9cd43f54594",
+      "text": "In rare cases a plugin will introduce an about page that does not follow title conventions. This happens when a plugin is generally useful without any customization. For example, [[Recent Changes]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "About Page",
+        "story": []
+      },
+      "date": 1495374794701
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8f0d7c21675a41e0"
+      },
+      "id": "8f0d7c21675a41e0",
+      "type": "add",
+      "date": 1495374807512
+    },
+    {
+      "type": "edit",
+      "id": "8f0d7c21675a41e0",
+      "item": {
+        "type": "paragraph",
+        "id": "8f0d7c21675a41e0",
+        "text": "About pages contain documentation for plugins and are distributed among sites as a side effect of installing plugins."
+      },
+      "date": 1495375021563
+    },
+    {
+      "type": "add",
+      "id": "672e40cf3bc431f0",
+      "item": {
+        "type": "paragraph",
+        "id": "672e40cf3bc431f0",
+        "text": "Wiki most pages flow freely throughout the federation. The plugins that render pages less so. "
+      },
+      "after": "8f0d7c21675a41e0",
+      "date": 1495375024910
+    },
+    {
+      "type": "edit",
+      "id": "8f0d7c21675a41e0",
+      "item": {
+        "type": "paragraph",
+        "id": "8f0d7c21675a41e0",
+        "text": "About pages contain documentation for plugins and are distributed among sites as a side effect of installing plugins. An about page title is constructed from the plugin name surrounded by \"About\" and \"Plugin\"."
+      },
+      "date": 1495375211483
+    },
+    {
+      "type": "edit",
+      "id": "8f0d7c21675a41e0",
+      "item": {
+        "type": "paragraph",
+        "id": "8f0d7c21675a41e0",
+        "text": "About pages contain documentation for plugins that becomes accessible at a sites when each plugin is installed. An about page title is constructed from the plugin name surrounded by \"About\" and \"Plugin\"."
+      },
+      "date": 1495377985887
+    },
+    {
+      "type": "edit",
+      "id": "672e40cf3bc431f0",
+      "item": {
+        "type": "paragraph",
+        "id": "672e40cf3bc431f0",
+        "text": "Typically an about page contains a synopsis, an example, a description of markup and a link to source code for the plugin."
+      },
+      "date": 1495378197106
+    },
+    {
+      "type": "edit",
+      "id": "672e40cf3bc431f0",
+      "item": {
+        "type": "paragraph",
+        "id": "672e40cf3bc431f0",
+        "text": "Typically an about page contains a synopsis, an example, a description of markup and a link to source code for the plugin. Complex plugins may spread this information across multiple pages linked from the about page."
+      },
+      "date": 1495378241977
+    },
+    {
+      "type": "add",
+      "id": "8cd5c9cd43f54594",
+      "item": {
+        "type": "paragraph",
+        "id": "8cd5c9cd43f54594",
+        "text": "In rare cases a plugin will introduce an about page that does not follow title conventions. This happens when a plugin is generally useful without any customization. For example, [[Recent Changes]]."
+      },
+      "after": "672e40cf3bc431f0",
+      "date": 1495379003452
+    },
+    {
+      "type": "fork",
+      "site": "glossary.asia.wiki.org",
+      "date": 1522931735459
+    }
+  ]
+}

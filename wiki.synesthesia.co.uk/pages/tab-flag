@@ -1,0 +1,44 @@
+{
+  "title": "Tab Flag",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8403d2f0f424ff81",
+      "text": "The Tab Flag appears in places the browser expects a site icon sometimes called a 'favicon'. The flag that shows on a browser tab identifies the 'origin', the site where edits will be saved."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Tab Flag",
+        "story": []
+      },
+      "date": 1423370733196
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8403d2f0f424ff81"
+      },
+      "id": "8403d2f0f424ff81",
+      "type": "add",
+      "date": 1423370784666
+    },
+    {
+      "type": "edit",
+      "id": "8403d2f0f424ff81",
+      "item": {
+        "type": "paragraph",
+        "id": "8403d2f0f424ff81",
+        "text": "The Tab Flag appears in places the browser expects a site icon sometimes called a 'favicon'. The flag that shows on a browser tab identifies the 'origin', the site where edits will be saved."
+      },
+      "date": 1423371076407
+    },
+    {
+      "type": "fork",
+      "site": "glossary.asia.wiki.org",
+      "date": 1522931810731
+    }
+  ]
+}

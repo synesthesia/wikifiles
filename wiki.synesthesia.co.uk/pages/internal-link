@@ -1,0 +1,115 @@
+{
+  "title": "Internal Link",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "47d653eca0e690f7",
+      "text": "An Internal Link retrieves and displays another wiki page based on the title in the link and the context in which it has been found. See [[Context]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b67360e73d63135f",
+      "text": "The typical markup for internal links is to enclose a title in double square brackets. Visualizations make interpret graphical elements as internal links."
+    },
+    {
+      "type": "paragraph",
+      "id": "0182319c11bb528c",
+      "text": "See [[External Link]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Internal Link",
+        "story": []
+      },
+      "date": 1423801270315
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "47d653eca0e690f7"
+      },
+      "id": "47d653eca0e690f7",
+      "type": "add",
+      "date": 1423801272476
+    },
+    {
+      "type": "edit",
+      "id": "47d653eca0e690f7",
+      "item": {
+        "type": "paragraph",
+        "id": "47d653eca0e690f7",
+        "text": "An Internal Link retrieves and displays another wiki page based on the title in the link and the context in which it is found."
+      },
+      "date": 1423801409467
+    },
+    {
+      "type": "edit",
+      "id": "47d653eca0e690f7",
+      "item": {
+        "type": "paragraph",
+        "id": "47d653eca0e690f7",
+        "text": "An Internal Link retrieves and displays another wiki page based on the title in the link and the context in which it has been found."
+      },
+      "date": 1423801468443
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b67360e73d63135f"
+      },
+      "id": "b67360e73d63135f",
+      "type": "add",
+      "after": "47d653eca0e690f7",
+      "date": 1423801848011
+    },
+    {
+      "type": "edit",
+      "id": "b67360e73d63135f",
+      "item": {
+        "type": "paragraph",
+        "id": "b67360e73d63135f",
+        "text": "The typical markup for internal links is to enclose a title in [ [ double square brackets ] ]."
+      },
+      "date": 1423801890206
+    },
+    {
+      "type": "edit",
+      "id": "b67360e73d63135f",
+      "item": {
+        "type": "paragraph",
+        "id": "b67360e73d63135f",
+        "text": "The typical markup for internal links is to enclose a title in double square brackets. Visualizations make interpret graphical elements as internal links."
+      },
+      "date": 1423801943380
+    },
+    {
+      "type": "add",
+      "id": "0182319c11bb528c",
+      "item": {
+        "type": "paragraph",
+        "id": "0182319c11bb528c",
+        "text": "See [[External Link]]"
+      },
+      "after": "b67360e73d63135f",
+      "date": 1423802222036
+    },
+    {
+      "type": "edit",
+      "id": "47d653eca0e690f7",
+      "item": {
+        "type": "paragraph",
+        "id": "47d653eca0e690f7",
+        "text": "An Internal Link retrieves and displays another wiki page based on the title in the link and the context in which it has been found. See [[Context]]"
+      },
+      "date": 1423802255323
+    },
+    {
+      "type": "fork",
+      "site": "glossary.asia.wiki.org",
+      "date": 1522931766745
+    }
+  ]
+}

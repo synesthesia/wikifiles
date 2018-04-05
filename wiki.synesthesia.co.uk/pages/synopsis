@@ -1,0 +1,95 @@
+{
+  "title": "Synopsis",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cfc1cdef6fc7327c",
+      "text": "A wiki pages has a synopsis that is shown with the page title in a search result."
+    },
+    {
+      "type": "paragraph",
+      "id": "e5683ce22dfbcfca",
+      "text": "Typically the synopsis is the first [[Paragraph]] of a page. Search will look past an image or other item to find a paragraph."
+    },
+    {
+      "type": "paragraph",
+      "id": "a4569d6ae5fe448b",
+      "text": "A page imported from another source may have a specially constructed synopsis that is not an item of the page."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Synopsis",
+        "story": []
+      },
+      "date": 1423057246778
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cfc1cdef6fc7327c"
+      },
+      "id": "cfc1cdef6fc7327c",
+      "type": "add",
+      "date": 1423057286797
+    },
+    {
+      "type": "edit",
+      "id": "cfc1cdef6fc7327c",
+      "item": {
+        "type": "paragraph",
+        "id": "cfc1cdef6fc7327c",
+        "text": "A wiki pages has a synopsis that is shown with the page title in a search result."
+      },
+      "date": 1423057466372
+    },
+    {
+      "type": "add",
+      "id": "e5683ce22dfbcfca",
+      "item": {
+        "type": "paragraph",
+        "id": "e5683ce22dfbcfca",
+        "text": "Typically the synopsis is the first [[Paragraph]] of a page. Search can look past an image or other item to find a paragraph."
+      },
+      "after": "cfc1cdef6fc7327c",
+      "date": 1423057716275
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a4569d6ae5fe448b"
+      },
+      "id": "a4569d6ae5fe448b",
+      "type": "add",
+      "after": "e5683ce22dfbcfca",
+      "date": 1423057726425
+    },
+    {
+      "type": "edit",
+      "id": "a4569d6ae5fe448b",
+      "item": {
+        "type": "paragraph",
+        "id": "a4569d6ae5fe448b",
+        "text": "A page imported from another source may have a specially constructed synopsis that is not an item of the page."
+      },
+      "date": 1423057821815
+    },
+    {
+      "type": "edit",
+      "id": "e5683ce22dfbcfca",
+      "item": {
+        "type": "paragraph",
+        "id": "e5683ce22dfbcfca",
+        "text": "Typically the synopsis is the first [[Paragraph]] of a page. Search will look past an image or other item to find a paragraph."
+      },
+      "date": 1423057869876
+    },
+    {
+      "type": "fork",
+      "site": "glossary.asia.wiki.org",
+      "date": 1522931900032
+    }
+  ]
+}
