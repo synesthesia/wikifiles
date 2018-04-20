@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://wiki.synesthesia.co.uk/about-page.html</loc>
+    <lastmod>2017-05-21</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/about-plugins.html</loc>
     <lastmod>2015-09-20</lastmod>
   </url>
@@ -9,12 +13,24 @@
     <lastmod>2018-04-03</lastmod>
   </url>
   <url>
+    <loc>http://wiki.synesthesia.co.uk/abstraction-of-method.html</loc>
+    <lastmod>2014-12-14</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/action.html</loc>
+    <lastmod>2015-02-04</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/add-an-external-link.html</loc>
     <lastmod>2015-02-09</lastmod>
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/add-an-image.html</loc>
     <lastmod>2015-02-05</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/add-button.html</loc>
+    <lastmod>2015-02-08</lastmod>
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/all-pages-in-neighborhood.html</loc>
@@ -29,6 +45,10 @@
     <lastmod>2017-06-18</lastmod>
   </url>
   <url>
+    <loc>http://wiki.synesthesia.co.uk/bibliography.html</loc>
+    <lastmod>2015-02-04</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/bookmark-key-pages.html</loc>
     <lastmod>2015-02-09</lastmod>
   </url>
@@ -39,6 +59,22 @@
   <url>
     <loc>http://wiki.synesthesia.co.uk/choose-the-right-browser.html</loc>
     <lastmod>2015-02-09</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/coding-tips.html</loc>
+    <lastmod>2015-01-04</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/common-names.html</loc>
+    <lastmod>2015-01-04</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/computational-plugins.html</loc>
+    <lastmod>2015-01-04</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/context.html</loc>
+    <lastmod>2015-02-13</lastmod>
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/conversations.html</loc>
@@ -61,7 +97,27 @@
     <lastmod>2015-02-07</lastmod>
   </url>
   <url>
+    <loc>http://wiki.synesthesia.co.uk/delete-pages.html</loc>
+    <lastmod>2015-08-02</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/discoverable-but-not-obvious.html</loc>
+    <lastmod>2015-02-12</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/dns-wildcard.html</loc>
+    <lastmod>2013-08-08</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/dot-wiki.html</loc>
+    <lastmod>2015-07-24</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/drag.html</loc>
+    <lastmod>2015-02-12</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/drop.html</loc>
     <lastmod>2015-02-12</lastmod>
   </url>
   <url>
@@ -71,6 +127,14 @@
   <url>
     <loc>http://wiki.synesthesia.co.uk/execute-a-cross-page-move.html</loc>
     <lastmod>2015-02-10</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/external-link.html</loc>
+    <lastmod>2015-02-13</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/factory.html</loc>
+    <lastmod>2015-02-04</lastmod>
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/federated-wiki-knowledge-cycle.html</loc>
@@ -113,8 +177,28 @@
     <lastmod>2017-07-04</lastmod>
   </url>
   <url>
+    <loc>http://wiki.synesthesia.co.uk/flag.html</loc>
+    <lastmod>2015-02-08</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/footer.html</loc>
+    <lastmod>2015-02-04</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/fork-button.html</loc>
+    <lastmod>2015-02-08</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/forking.html</loc>
     <lastmod>2015-02-03</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/future.html</loc>
+    <lastmod>2015-02-13</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/ghost.html</loc>
+    <lastmod>2017-05-16</lastmod>
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/history-travels-with-page.html</loc>
@@ -145,6 +229,10 @@
     <lastmod>2018-03-27</lastmod>
   </url>
   <url>
+    <loc>http://wiki.synesthesia.co.uk/import-documents.html</loc>
+    <lastmod>2015-01-06</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/in-a-nutshell.html</loc>
     <lastmod>2015-02-09</lastmod>
   </url>
@@ -155,6 +243,26 @@
   <url>
     <loc>http://wiki.synesthesia.co.uk/incremental-paragraphs.html</loc>
     <lastmod>2018-03-26</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/interface-names.html</loc>
+    <lastmod>2017-05-16</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/internal-link.html</loc>
+    <lastmod>2015-02-13</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/join.html</loc>
+    <lastmod>2015-02-13</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/journal.html</loc>
+    <lastmod>2018-04-05</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/json-schema.html</loc>
+    <lastmod>2014-12-14</lastmod>
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/julian-elve.html</loc>
@@ -177,6 +285,14 @@
     <lastmod>2018-03-27</lastmod>
   </url>
   <url>
+    <loc>http://wiki.synesthesia.co.uk/location.html</loc>
+    <lastmod>2015-02-04</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/login.html</loc>
+    <lastmod>2015-02-04</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/maintaining-a-custom-wiki.html</loc>
     <lastmod>2015-11-06</lastmod>
   </url>
@@ -195,6 +311,10 @@
   <url>
     <loc>http://wiki.synesthesia.co.uk/molecular-paragraphs.html</loc>
     <lastmod>2015-02-05</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/move-pages.html</loc>
+    <lastmod>2015-08-02</lastmod>
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/my-journal.html</loc>
@@ -217,6 +337,30 @@
     <lastmod>2017-07-22</lastmod>
   </url>
   <url>
+    <loc>http://wiki.synesthesia.co.uk/networking-names.html</loc>
+    <lastmod>2015-01-11</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/origin.html</loc>
+    <lastmod>2015-06-06</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/package-names.html</loc>
+    <lastmod>2015-01-11</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/page-flag.html</loc>
+    <lastmod>2015-02-08</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/page-place-clues.html</loc>
+    <lastmod>2015-08-31</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/paragraph.html</loc>
+    <lastmod>2015-02-04</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/parallel-pages.html</loc>
     <lastmod>2015-02-04</lastmod>
   </url>
@@ -229,6 +373,10 @@
     <lastmod>2016-02-04</lastmod>
   </url>
   <url>
+    <loc>http://wiki.synesthesia.co.uk/plugin-names.html</loc>
+    <lastmod>2017-05-21</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/read-a-journal-history.html</loc>
     <lastmod>2015-02-10</lastmod>
   </url>
@@ -237,12 +385,20 @@
     <lastmod>2017-02-25</lastmod>
   </url>
   <url>
+    <loc>http://wiki.synesthesia.co.uk/reference.html</loc>
+    <lastmod>2015-02-13</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/relocating.html</loc>
     <lastmod>2015-06-12</lastmod>
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/rosters.html</loc>
     <lastmod>2015-06-26</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/search.html</loc>
+    <lastmod>2015-02-04</lastmod>
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/search-sites.html</loc>
@@ -265,12 +421,32 @@
     <lastmod>2015-06-12</lastmod>
   </url>
   <url>
+    <loc>http://wiki.synesthesia.co.uk/special-page-names.html</loc>
+    <lastmod>2015-03-02</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/split.html</loc>
+    <lastmod>2015-02-13</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/statemode.html</loc>
     <lastmod>2018-03-26</lastmod>
   </url>
   <url>
+    <loc>http://wiki.synesthesia.co.uk/storage-name.html</loc>
+    <lastmod>2015-06-06</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/streammode.html</loc>
     <lastmod>2018-03-26</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/synopsis.html</loc>
+    <lastmod>2015-02-04</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/tab-flag.html</loc>
+    <lastmod>2015-02-08</lastmod>
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/technical-notes.html</loc>
@@ -279,6 +455,10 @@
   <url>
     <loc>http://wiki.synesthesia.co.uk/technology-sites.html</loc>
     <lastmod>2016-02-02</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/template.html</loc>
+    <lastmod>2015-02-04</lastmod>
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/things-you-must-do.html</loc>
@@ -293,6 +473,10 @@
     <lastmod>2015-07-24</lastmod>
   </url>
   <url>
+    <loc>http://wiki.synesthesia.co.uk/title.html</loc>
+    <lastmod>2015-02-04</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/track-changes.html</loc>
     <lastmod>2014-12-11</lastmod>
   </url>
@@ -301,8 +485,16 @@
     <lastmod>2015-12-31</lastmod>
   </url>
   <url>
+    <loc>http://wiki.synesthesia.co.uk/twins.html</loc>
+    <lastmod>2015-02-08</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/understand-welcome-visitors.html</loc>
     <lastmod>2015-02-09</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/upper-name-hierarchy.html</loc>
+    <lastmod>2014-12-14</lastmod>
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/use-arrow-keys.html</loc>
@@ -329,215 +521,23 @@
     <lastmod>2015-02-03</lastmod>
   </url>
   <url>
-    <loc>http://wiki.synesthesia.co.uk/welcome-visitors.html</loc>
-    <lastmod>2018-04-05</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/journal.html</loc>
-    <lastmod>2018-04-05</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/action.html</loc>
-    <lastmod>2015-02-04</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/interface-names.html</loc>
-    <lastmod>2017-05-16</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/ghost.html</loc>
-    <lastmod>2017-05-16</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/about-page.html</loc>
-    <lastmod>2017-05-21</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/reference.html</loc>
-    <lastmod>2015-02-13</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/context.html</loc>
-    <lastmod>2015-02-13</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/external-link.html</loc>
-    <lastmod>2015-02-13</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/internal-link.html</loc>
-    <lastmod>2015-02-13</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/join.html</loc>
-    <lastmod>2015-02-13</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/split.html</loc>
-    <lastmod>2015-02-13</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/drop.html</loc>
-    <lastmod>2015-02-12</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/drag.html</loc>
-    <lastmod>2015-02-12</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/fork-button.html</loc>
-    <lastmod>2015-02-08</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/add-button.html</loc>
-    <lastmod>2015-02-08</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/twins.html</loc>
-    <lastmod>2015-02-08</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/tab-flag.html</loc>
-    <lastmod>2015-02-08</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/page-flag.html</loc>
-    <lastmod>2015-02-08</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/flag.html</loc>
-    <lastmod>2015-02-08</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/factory.html</loc>
-    <lastmod>2015-02-04</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/template.html</loc>
-    <lastmod>2015-02-04</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/search.html</loc>
-    <lastmod>2015-02-04</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/title.html</loc>
-    <lastmod>2015-02-04</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/synopsis.html</loc>
-    <lastmod>2015-02-04</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/paragraph.html</loc>
-    <lastmod>2015-02-04</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/login.html</loc>
-    <lastmod>2015-02-04</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/footer.html</loc>
-    <lastmod>2015-02-04</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/location.html</loc>
-    <lastmod>2015-02-04</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/wiki-page.html</loc>
-    <lastmod>2015-08-31</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/page-place-clues.html</loc>
-    <lastmod>2015-08-31</lastmod>
-  </url>
-  <url>
     <loc>http://wiki.synesthesia.co.uk/web-page.html</loc>
     <lastmod>2015-01-13</lastmod>
   </url>
   <url>
-    <loc>http://wiki.synesthesia.co.uk/networking-names.html</loc>
-    <lastmod>2015-01-11</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/origin.html</loc>
-    <lastmod>2015-06-06</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/storage-name.html</loc>
-    <lastmod>2015-06-06</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/plugin-names.html</loc>
-    <lastmod>2017-05-21</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/dot-wiki.html</loc>
-    <lastmod>2015-07-24</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/delete-pages.html</loc>
-    <lastmod>2015-08-02</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/move-pages.html</loc>
-    <lastmod>2015-08-02</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/future.html</loc>
-    <lastmod>2015-02-13</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/package-names.html</loc>
-    <lastmod>2015-01-11</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/bibliography.html</loc>
-    <lastmod>2015-02-04</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/common-names.html</loc>
-    <lastmod>2015-01-04</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/upper-name-hierarchy.html</loc>
-    <lastmod>2014-12-14</lastmod>
+    <loc>http://wiki.synesthesia.co.uk/welcome-visitors.html</loc>
+    <lastmod>2018-04-05</lastmod>
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/where-numbers-live.html</loc>
     <lastmod>2015-01-06</lastmod>
   </url>
   <url>
-    <loc>http://wiki.synesthesia.co.uk/abstraction-of-method.html</loc>
-    <lastmod>2014-12-14</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/dns-wildcard.html</loc>
-    <lastmod>2013-08-08</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/special-page-names.html</loc>
-    <lastmod>2015-03-02</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/json-schema.html</loc>
-    <lastmod>2014-12-14</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/import-documents.html</loc>
-    <lastmod>2015-01-06</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/coding-tips.html</loc>
-    <lastmod>2015-01-04</lastmod>
-  </url>
-  <url>
     <loc>http://wiki.synesthesia.co.uk/where-pages-live.html</loc>
     <lastmod>2015-01-04</lastmod>
   </url>
   <url>
-    <loc>http://wiki.synesthesia.co.uk/computational-plugins.html</loc>
-    <lastmod>2015-01-04</lastmod>
+    <loc>http://wiki.synesthesia.co.uk/wiki-page.html</loc>
+    <lastmod>2015-08-31</lastmod>
   </url>
 </urlset>
