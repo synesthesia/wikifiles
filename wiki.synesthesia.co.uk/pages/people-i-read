@@ -9,7 +9,7 @@
     {
       "type": "roster",
       "id": "3b6126ff71f45ccb",
-      "text": "M C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors"
+      "text": "Thompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors"
     },
     {
       "type": "roster",
@@ -298,6 +298,26 @@
         "text": "To add a site (or collection of sites) to the search neighbourhood for the current session, click the >> at the end of each row"
       },
       "date": 1522160609864
+    },
+    {
+      "type": "edit",
+      "id": "3b6126ff71f45ccb",
+      "item": {
+        "type": "roster",
+        "id": "3b6126ff71f45ccb",
+        "text": "\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors"
+      },
+      "date": 1538656019728
+    },
+    {
+      "type": "edit",
+      "id": "3b6126ff71f45ccb",
+      "item": {
+        "type": "roster",
+        "id": "3b6126ff71f45ccb",
+        "text": "Thompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors"
+      },
+      "date": 1538656039818
     }
   ]
 }
