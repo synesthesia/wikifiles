@@ -1,0 +1,70 @@
+{
+  "title": "Organisational Change",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "be037fb08d01f4c2",
+      "text": "Collecting notes on organisational change\n"
+    },
+    {
+      "type": "reference",
+      "id": "6e1882ea6fef7eee",
+      "site": "path.ward.asia.wiki.org",
+      "slug": "path-to-change",
+      "title": "Path to Change",
+      "text": "Here we explore one path to organizational change. We document what has worked and suggest how it might work again. Here we list the participants in the conversation and some rules we expect them to follow."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Organisational Change",
+        "story": []
+      },
+      "date": 1538732485240
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "be037fb08d01f4c2"
+      },
+      "id": "be037fb08d01f4c2",
+      "type": "add",
+      "date": 1538732488824
+    },
+    {
+      "type": "edit",
+      "id": "be037fb08d01f4c2",
+      "item": {
+        "type": "markdown",
+        "id": "be037fb08d01f4c2",
+        "text": "Collecting notes on organisational change\n"
+      },
+      "date": 1538732499764
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6e1882ea6fef7eee"
+      },
+      "id": "6e1882ea6fef7eee",
+      "type": "add",
+      "after": "be037fb08d01f4c2",
+      "date": 1538732556450
+    },
+    {
+      "type": "edit",
+      "id": "6e1882ea6fef7eee",
+      "item": {
+        "type": "reference",
+        "id": "6e1882ea6fef7eee",
+        "site": "path.ward.asia.wiki.org",
+        "slug": "path-to-change",
+        "title": "Path to Change",
+        "text": "Here we explore one path to organizational change. We document what has worked and suggest how it might work again. Here we list the participants in the conversation and some rules we expect them to follow."
+      },
+      "date": 1538732586753
+    }
+  ]
+}
