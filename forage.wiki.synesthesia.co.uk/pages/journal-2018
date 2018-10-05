@@ -2,9 +2,24 @@
   "title": "journal-2018",
   "story": [
     {
-      "type": "paragraph",
-      "id": "db5ae5864e9b329e",
-      "text": "[[Journal 2018-03]]"
+      "type": "pagefold",
+      "id": "713d90d78b755044",
+      "text": "Sept 2018"
+    },
+    {
+      "type": "markdown",
+      "id": "0a8b394d798c98af",
+      "text": "[[Martin Weller]] 25 years of EdTEch - 1998 Wikis [http://blog.edtechie.net/25yearsedtech/25-years-of-edtech-1998-wikis/ blog]"
+    },
+    {
+      "type": "pagefold",
+      "id": "1ccb9b2efbcfab35",
+      "text": "March 2018"
+    },
+    {
+      "type": "markdown",
+      "id": "6034b8ade07c7264",
+      "text": "2018-03-25 trying again with Fedwiki!"
     }
   ],
   "journal": [
@@ -34,6 +49,91 @@
         "text": "[[Journal 2018-03]]"
       },
       "date": 1522057372065
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "713d90d78b755044"
+      },
+      "id": "713d90d78b755044",
+      "type": "add",
+      "after": "db5ae5864e9b329e",
+      "date": 1538725216815
+    },
+    {
+      "type": "edit",
+      "id": "713d90d78b755044",
+      "item": {
+        "type": "pagefold",
+        "id": "713d90d78b755044",
+        "text": "Sept 2018"
+      },
+      "date": 1538725233731
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0a8b394d798c98af"
+      },
+      "id": "0a8b394d798c98af",
+      "type": "add",
+      "after": "713d90d78b755044",
+      "date": 1538725237652
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1ccb9b2efbcfab35"
+      },
+      "id": "1ccb9b2efbcfab35",
+      "type": "add",
+      "after": "0a8b394d798c98af",
+      "date": 1538725257962
+    },
+    {
+      "type": "edit",
+      "id": "1ccb9b2efbcfab35",
+      "item": {
+        "type": "pagefold",
+        "id": "1ccb9b2efbcfab35",
+        "text": "March 2018"
+      },
+      "date": 1538725285419
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6034b8ade07c7264"
+      },
+      "id": "6034b8ade07c7264",
+      "type": "add",
+      "after": "1ccb9b2efbcfab35",
+      "date": 1538725292114
+    },
+    {
+      "type": "edit",
+      "id": "6034b8ade07c7264",
+      "item": {
+        "type": "markdown",
+        "id": "6034b8ade07c7264",
+        "text": "2018-03-25 trying again with Fedwiki!"
+      },
+      "date": 1538725331886
+    },
+    {
+      "type": "edit",
+      "id": "0a8b394d798c98af",
+      "item": {
+        "type": "markdown",
+        "id": "0a8b394d798c98af",
+        "text": "[[Martin Weller]] 25 years of EdTEch - 1998 Wikis [http://blog.edtechie.net/25yearsedtech/25-years-of-edtech-1998-wikis/ blog]"
+      },
+      "date": 1538725423266
+    },
+    {
+      "type": "remove",
+      "id": "db5ae5864e9b329e",
+      "date": 1538725448482
     }
   ]
 }
