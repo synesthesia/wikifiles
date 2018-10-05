@@ -1,0 +1,561 @@
+{
+  "title": "Preservation",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3bbf470a1aed24c7",
+      "text": "Creating duplicate copies of data on one or more systems is called replication, one of several strategies for preserving digital content. [http://en.wikipedia.org/wiki/Digital_preservation#Strategies wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5c6604624a42b81d",
+      "text": "Data that exists as a single copy in only one location is highly vulnerable to software or hardware failure, intentional or accidental alteration, and environmental catastrophes like fire, flooding, etc. "
+    },
+    {
+      "type": "paragraph",
+      "id": "9552672fb27dfc1e",
+      "text": "Digital data is more likely to survive if it is replicated in several locations. Replicated data may introduce difficulties in refreshing, migration, versioning, and access control since the data is located in multiple places."
+    },
+    {
+      "type": "html",
+      "id": "791e325ed9eb67a3",
+      "text": "<h3> In Biology"
+    },
+    {
+      "type": "paragraph",
+      "id": "ff30bdf1af2539b4",
+      "text": "Features of living systems can be stable over geologic time, more stable than the continents themselves. This is especially true of genetic motifs and devices such as histones. "
+    },
+    {
+      "type": "paragraph",
+      "id": "e608463d4b25550d",
+      "text": "Even biological processes, like metabolic or developmental pathways, can be conserved over many species and evolutionarily long periods of time."
+    },
+    {
+      "type": "paragraph",
+      "id": "a84d292838131ced",
+      "text": "Thomas Brody catalogs over 50 evolutionarily conserved developmental pathways in the fruit fly alone. [http://www.sdbonline.org/sites/fly/aimain/aadevinx.htm webpage]"
+    },
+    {
+      "type": "html",
+      "id": "7c1510a1a9f35c38",
+      "text": "<h3> In Wiki"
+    },
+    {
+      "type": "paragraph",
+      "id": "b6079c8037a39105",
+      "text": "The first wiki remains active today. As computer information it could be difficult to preserve as compared to printed documents. But as a medium that is expected to be continually updated it is subject to even more extraordinary preservation requirements."
+    },
+    {
+      "type": "paragraph",
+      "id": "6d18497b432a72ba",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "cdd8469fd9ae0908",
+      "text": "A wiki's need for cpu cycles and network bandwidth parallels an animal's need for food and air. Were we to archive a wiki by usual means that would be like killing and mounting an animal to preserve it."
+    },
+    {
+      "type": "paragraph",
+      "id": "25871cef6997325b",
+      "text": "We see federation as a mechanism for preserving wiki beyond the lifetime of its founder. We've shown several mechanisms for both bulk and on demand translation of markup to federated wiki conventions. [https://github.com/WardCunningham/c2-sfw-script github]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0b7c15fc01b5f73c",
+      "text": "Although wiki was originally dedicated to a specific topic, patterns of programming, its uniqueness at the time and the diverse interests of programmers has lead to a sprawling 30,000 articles in this one site."
+    },
+    {
+      "type": "paragraph",
+      "id": "0cbf17d284591d2b",
+      "text": "We've found it useful to create distinct portals into the original wiki's content based on keywords present  in the text. More elaborate classification is possible. But this lets us effectively experience the old within the new."
+    },
+    {
+      "type": "paragraph",
+      "id": "9fba0f82f94bc8d2",
+      "text": "See [[Topic Based Subsets]] of the original wiki."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Preservation",
+        "story": []
+      },
+      "date": 1414015142329
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3bbf470a1aed24c7"
+      },
+      "id": "3bbf470a1aed24c7",
+      "type": "add",
+      "date": 1414015171370
+    },
+    {
+      "type": "edit",
+      "id": "3bbf470a1aed24c7",
+      "item": {
+        "type": "paragraph",
+        "id": "3bbf470a1aed24c7",
+        "text": "Creating duplicate copies of data on one or more systems is called replication."
+      },
+      "date": 1414015188977
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5c6604624a42b81d"
+      },
+      "id": "5c6604624a42b81d",
+      "type": "add",
+      "after": "3bbf470a1aed24c7",
+      "date": 1414015224500
+    },
+    {
+      "type": "edit",
+      "id": "5c6604624a42b81d",
+      "item": {
+        "type": "paragraph",
+        "id": "5c6604624a42b81d",
+        "text": "Data that exists as a single copy in only one location is highly vulnerable to software or hardware failure, intentional or accidental alteration, and environmental catastrophes like fire, flooding, etc. "
+      },
+      "date": 1414015241767
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9552672fb27dfc1e",
+        "text": "Digital data is more likely to survive if it is replicated in several locations. Replicated data may introduce difficulties in refreshing, migration, versioning, and access control since the data is located in multiple places."
+      },
+      "id": "9552672fb27dfc1e",
+      "type": "add",
+      "after": "5c6604624a42b81d",
+      "date": 1414015241776
+    },
+    {
+      "type": "edit",
+      "id": "3bbf470a1aed24c7",
+      "item": {
+        "type": "paragraph",
+        "id": "3bbf470a1aed24c7",
+        "text": "Creating duplicate copies of data on one or more systems is called replication, one of several strategies for preserving digital content."
+      },
+      "date": 1414015286465
+    },
+    {
+      "type": "edit",
+      "id": "3bbf470a1aed24c7",
+      "item": {
+        "type": "paragraph",
+        "id": "3bbf470a1aed24c7",
+        "text": "Creating duplicate copies of data on one or more systems is called replication, one of several strategies for preserving digital content. [http://en.wikipedia.org/wiki/Digital_preservation#Strategies wikipedia]"
+      },
+      "date": 1414015315329
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "791e325ed9eb67a3"
+      },
+      "id": "791e325ed9eb67a3",
+      "type": "add",
+      "after": "9552672fb27dfc1e",
+      "date": 1414016001512
+    },
+    {
+      "type": "edit",
+      "id": "791e325ed9eb67a3",
+      "item": {
+        "type": "paragraph",
+        "id": "791e325ed9eb67a3",
+        "text": "<h3> In Biology"
+      },
+      "date": 1414016016832
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ff30bdf1af2539b4"
+      },
+      "id": "ff30bdf1af2539b4",
+      "type": "add",
+      "after": "791e325ed9eb67a3",
+      "date": 1414016020918
+    },
+    {
+      "type": "edit",
+      "id": "ff30bdf1af2539b4",
+      "item": {
+        "type": "paragraph",
+        "id": "ff30bdf1af2539b4",
+        "text": "Features of living systems can be stable over geologic time, more stable than the continents themselves. This is especially true of genetic motifs such as histones. However, even processes, like metabolic or developmental pathways, can be conserved over many species and evolutionarily long periods of time."
+      },
+      "date": 1414016277596
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0644f98b454505de",
+        "text": ""
+      },
+      "id": "0644f98b454505de",
+      "type": "add",
+      "after": "ff30bdf1af2539b4",
+      "date": 1414016277620
+    },
+    {
+      "type": "remove",
+      "id": "0644f98b454505de",
+      "date": 1414016298973
+    },
+    {
+      "type": "edit",
+      "id": "ff30bdf1af2539b4",
+      "item": {
+        "type": "paragraph",
+        "id": "ff30bdf1af2539b4",
+        "text": "Features of living systems can be stable over geologic time, more stable than the continents themselves. This is especially true of genetic motifs such as histones. Even biological processes, like metabolic or developmental pathways, can be conserved over many species and evolutionarily long periods of time."
+      },
+      "date": 1414016320459
+    },
+    {
+      "type": "edit",
+      "id": "ff30bdf1af2539b4",
+      "item": {
+        "type": "paragraph",
+        "id": "ff30bdf1af2539b4",
+        "text": "Features of living systems can be stable over geologic time, more stable than the continents themselves. This is especially true of genetic motifs such as histones. "
+      },
+      "date": 1414016326124
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e608463d4b25550d",
+        "text": "Even biological processes, like metabolic or developmental pathways, can be conserved over many species and evolutionarily long periods of time."
+      },
+      "id": "e608463d4b25550d",
+      "type": "add",
+      "after": "ff30bdf1af2539b4",
+      "date": 1414016326136
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a84d292838131ced",
+        "text": ""
+      },
+      "id": "a84d292838131ced",
+      "type": "add",
+      "after": "e608463d4b25550d",
+      "date": 1414016365155
+    },
+    {
+      "type": "edit",
+      "id": "a84d292838131ced",
+      "item": {
+        "type": "paragraph",
+        "id": "a84d292838131ced",
+        "text": "Thomas Brody catalogs over 50 "
+      },
+      "date": 1414016390436
+    },
+    {
+      "type": "edit",
+      "id": "a84d292838131ced",
+      "item": {
+        "type": "paragraph",
+        "id": "a84d292838131ced",
+        "text": "Thomas Brody catalogs over 50 evolutionarily conserved developmental pathways in the fruit fly alone. "
+      },
+      "date": 1414016436021
+    },
+    {
+      "type": "edit",
+      "id": "a84d292838131ced",
+      "item": {
+        "type": "paragraph",
+        "id": "a84d292838131ced",
+        "text": "Thomas Brody catalogs over 50 evolutionarily conserved developmental pathways in the fruit fly alone. [http://www.sdbonline.org/sites/fly/aimain/aadevinx.htm website]"
+      },
+      "date": 1414016451548
+    },
+    {
+      "type": "edit",
+      "id": "a84d292838131ced",
+      "item": {
+        "type": "paragraph",
+        "id": "a84d292838131ced",
+        "text": "Thomas Brody catalogs over 50 evolutionarily conserved developmental pathways in the fruit fly alone. [http://www.sdbonline.org/sites/fly/aimain/aadevinx.htm webpage]"
+      },
+      "date": 1414016470653
+    },
+    {
+      "type": "edit",
+      "id": "ff30bdf1af2539b4",
+      "item": {
+        "type": "paragraph",
+        "id": "ff30bdf1af2539b4",
+        "text": "Features of living systems can be stable over geologic time, more stable than the continents themselves. This is especially true of genetic motifs and devices such as histones. "
+      },
+      "date": 1414016756366
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7c1510a1a9f35c38"
+      },
+      "id": "7c1510a1a9f35c38",
+      "type": "add",
+      "after": "a84d292838131ced",
+      "date": 1414016824138
+    },
+    {
+      "type": "edit",
+      "id": "7c1510a1a9f35c38",
+      "item": {
+        "type": "paragraph",
+        "id": "7c1510a1a9f35c38",
+        "text": "<h3> In Wiki"
+      },
+      "date": 1414016841521
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b6079c8037a39105",
+        "text": ""
+      },
+      "id": "b6079c8037a39105",
+      "type": "add",
+      "after": "7c1510a1a9f35c38",
+      "date": 1414016841540
+    },
+    {
+      "type": "edit",
+      "id": "b6079c8037a39105",
+      "item": {
+        "type": "paragraph",
+        "id": "b6079c8037a39105",
+        "text": "The first wiki remains active today. As computer information it could be difficult to preserve as compared to printed documents. But as a medium that is expected to be continually updated it is subject to some extraordinary preservation requirements."
+      },
+      "date": 1414017163232
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6d18497b432a72ba",
+        "text": " "
+      },
+      "id": "6d18497b432a72ba",
+      "type": "add",
+      "after": "b6079c8037a39105",
+      "date": 1414017163258
+    },
+    {
+      "type": "edit",
+      "id": "b6079c8037a39105",
+      "item": {
+        "type": "paragraph",
+        "id": "b6079c8037a39105",
+        "text": "The first wiki remains active today. As computer information it could be difficult to preserve as compared to printed documents. But as a medium that is expected to be continually updated it is subject to even more extraordinary preservation requirements."
+      },
+      "date": 1414017203722
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cdd8469fd9ae0908"
+      },
+      "id": "cdd8469fd9ae0908",
+      "type": "add",
+      "after": "6d18497b432a72ba",
+      "date": 1414017208136
+    },
+    {
+      "type": "edit",
+      "id": "cdd8469fd9ae0908",
+      "item": {
+        "type": "paragraph",
+        "id": "cdd8469fd9ae0908",
+        "text": "A wiki's need for cpu cycles and network bandwidth parallels an animal's need for food and air. Were we to archive a wiki by usual means that would be like killing and mounting an animal to preserve it."
+      },
+      "date": 1414017393035
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e7257742ff614781",
+        "text": ""
+      },
+      "id": "e7257742ff614781",
+      "type": "add",
+      "after": "cdd8469fd9ae0908",
+      "date": 1414017393047
+    },
+    {
+      "type": "remove",
+      "id": "e7257742ff614781",
+      "date": 1414017441120
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "25871cef6997325b",
+        "text": ""
+      },
+      "id": "25871cef6997325b",
+      "type": "add",
+      "after": "cdd8469fd9ae0908",
+      "date": 1414017879346
+    },
+    {
+      "type": "edit",
+      "id": "25871cef6997325b",
+      "item": {
+        "type": "paragraph",
+        "id": "25871cef6997325b",
+        "text": "We see federation as a mechanism for preserving wiki beyond the lifetime of its founder. We've shown several mechanisms for both bulk and on demand translation of markup to federated wiki conventions. "
+      },
+      "date": 1414018121207
+    },
+    {
+      "type": "edit",
+      "id": "25871cef6997325b",
+      "item": {
+        "type": "paragraph",
+        "id": "25871cef6997325b",
+        "text": "We see federation as a mechanism for preserving wiki beyond the lifetime of its founder. We've shown several mechanisms for both bulk and on demand translation of markup to federated wiki conventions. [https://github.com/WardCunningham/c2-sfw-script github]"
+      },
+      "date": 1414018278301
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0b7c15fc01b5f73c",
+        "text": ""
+      },
+      "id": "0b7c15fc01b5f73c",
+      "type": "add",
+      "after": "25871cef6997325b",
+      "date": 1414018389393
+    },
+    {
+      "type": "edit",
+      "id": "0b7c15fc01b5f73c",
+      "item": {
+        "type": "paragraph",
+        "id": "0b7c15fc01b5f73c",
+        "text": "Although wiki was originally dedicated to a specific topic, patterns of programming, its uniqueness at the time and the diverse interests of programmers has lead to a sprawling 30,000 articles in this one site."
+      },
+      "date": 1414018582949
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cc1df22ae2fca438",
+        "text": ""
+      },
+      "id": "cc1df22ae2fca438",
+      "type": "add",
+      "after": "0b7c15fc01b5f73c",
+      "date": 1414018582956
+    },
+    {
+      "type": "remove",
+      "id": "cc1df22ae2fca438",
+      "date": 1414018690841
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0cbf17d284591d2b",
+        "text": ""
+      },
+      "id": "0cbf17d284591d2b",
+      "type": "add",
+      "after": "0b7c15fc01b5f73c",
+      "date": 1414028971325
+    },
+    {
+      "type": "edit",
+      "id": "0cbf17d284591d2b",
+      "item": {
+        "type": "paragraph",
+        "id": "0cbf17d284591d2b",
+        "text": "We've found it useful to create distinct portals into the original wiki's content based on keywords present  in the text. More elaborate classification is possible. But this lets us effectively experience the old within the new. "
+      },
+      "date": 1414029070946
+    },
+    {
+      "type": "edit",
+      "id": "0cbf17d284591d2b",
+      "item": {
+        "type": "paragraph",
+        "id": "0cbf17d284591d2b",
+        "text": "We've found it useful to create distinct portals into the original wiki's content based on keywords present  in the text. More elaborate classification is possible. But this lets us effectively experience the old within the new. See [[Topic Based Subsets]]"
+      },
+      "date": 1414029109420
+    },
+    {
+      "type": "edit",
+      "id": "0cbf17d284591d2b",
+      "item": {
+        "type": "paragraph",
+        "id": "0cbf17d284591d2b",
+        "text": "We've found it useful to create distinct portals into the original wiki's content based on keywords present  in the text. More elaborate classification is possible. But this lets us effectively experience the old within the new."
+      },
+      "date": 1414029116734
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9fba0f82f94bc8d2",
+        "text": "See [[Topic Based Subsets]]"
+      },
+      "id": "9fba0f82f94bc8d2",
+      "type": "add",
+      "after": "0cbf17d284591d2b",
+      "date": 1414029116745
+    },
+    {
+      "type": "edit",
+      "id": "9fba0f82f94bc8d2",
+      "item": {
+        "type": "paragraph",
+        "id": "9fba0f82f94bc8d2",
+        "text": "See [[Topic Based Subsets]] of the original wiki."
+      },
+      "date": 1414029131576
+    },
+    {
+      "type": "edit",
+      "id": "791e325ed9eb67a3",
+      "item": {
+        "type": "html",
+        "id": "791e325ed9eb67a3",
+        "text": "<h3> In Biology"
+      },
+      "date": 1421896658791
+    },
+    {
+      "type": "edit",
+      "id": "7c1510a1a9f35c38",
+      "item": {
+        "type": "html",
+        "id": "7c1510a1a9f35c38",
+        "text": "<h3> In Wiki"
+      },
+      "date": 1421896660450
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538750532939
+    }
+  ]
+}

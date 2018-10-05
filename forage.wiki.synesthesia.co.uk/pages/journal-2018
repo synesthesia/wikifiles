@@ -25,6 +25,27 @@
       "type": "markdown",
       "id": "aed56ab00c1b29cf",
       "text": "Couple of interesting things on [[Organisational Change]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "eab612b66d70dab1",
+      "text": "Explore some of the sites linked from:"
+    },
+    {
+      "type": "reference",
+      "id": "454c6efe3a5f3cc3",
+      "site": "ward.fed.wiki.org",
+      "slug": "home-in-the-federation",
+      "title": "Home in the Federation",
+      "text": "These pages are some of the first I wrote in the early years of the federation. I've now migrated them to current server technology and will house clean accordingly."
+    },
+    {
+      "type": "reference",
+      "id": "98b56c23ac266259",
+      "site": "david.feast.fm",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "[[FEAST]] is a global decentralised conference and music festival, connected by radio. It is a celebration of local culture, with communities around the world sharing conversation, sound and music."
     }
   ],
   "journal": [
@@ -183,6 +204,82 @@
       ],
       "id": "713d90d78b755044",
       "date": 1538732479090
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eab612b66d70dab1"
+      },
+      "id": "eab612b66d70dab1",
+      "type": "add",
+      "after": "aed56ab00c1b29cf",
+      "date": 1538752026323
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "454c6efe3a5f3cc3"
+      },
+      "id": "454c6efe3a5f3cc3",
+      "type": "add",
+      "after": "eab612b66d70dab1",
+      "date": 1538752045853
+    },
+    {
+      "type": "edit",
+      "id": "eab612b66d70dab1",
+      "item": {
+        "type": "paragraph",
+        "id": "eab612b66d70dab1",
+        "text": "Explore some of the site slinked from:"
+      },
+      "date": 1538752047386
+    },
+    {
+      "type": "edit",
+      "id": "454c6efe3a5f3cc3",
+      "item": {
+        "type": "reference",
+        "id": "454c6efe3a5f3cc3",
+        "site": "ward.fed.wiki.org",
+        "slug": "home-in-the-federation",
+        "title": "Home in the Federation",
+        "text": "These pages are some of the first I wrote in the early years of the federation. I've now migrated them to current server technology and will house clean accordingly."
+      },
+      "date": 1538752051743
+    },
+    {
+      "type": "edit",
+      "id": "eab612b66d70dab1",
+      "item": {
+        "type": "paragraph",
+        "id": "eab612b66d70dab1",
+        "text": "Explore some of the sites linked from:"
+      },
+      "date": 1538752060665
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "98b56c23ac266259"
+      },
+      "id": "98b56c23ac266259",
+      "type": "add",
+      "after": "454c6efe3a5f3cc3",
+      "date": 1538752231809
+    },
+    {
+      "type": "edit",
+      "id": "98b56c23ac266259",
+      "item": {
+        "type": "reference",
+        "id": "98b56c23ac266259",
+        "site": "david.feast.fm",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "[[FEAST]] is a global decentralised conference and music festival, connected by radio. It is a celebration of local culture, with communities around the world sharing conversation, sound and music."
+      },
+      "date": 1538752264898
     }
   ]
 }

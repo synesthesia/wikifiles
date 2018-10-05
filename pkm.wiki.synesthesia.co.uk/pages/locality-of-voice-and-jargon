@@ -1,0 +1,499 @@
+{
+  "title": "Locality of Voice and Jargon",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "21970065e2eada40",
+      "text": "Each site becomes a space an individual fills with thoughts, original and adapted, but ultimately in their own voice and familiar jargon."
+    },
+    {
+      "type": "paragraph",
+      "id": "0e608c1c31b06439",
+      "text": "Without a site one has no place within a conversation."
+    },
+    {
+      "type": "paragraph",
+      "id": "a86adf68ed2bc23d",
+      "text": "With many sites one speaks many directions."
+    },
+    {
+      "type": "paragraph",
+      "id": "6cdb8e2ab585057f",
+      "text": "Our words remain our own even as they mix with others. We choose a voice when we make a site. We use that voice until we need another. We build and borrow vocabulary, mostly from and for ourselves."
+    },
+    {
+      "type": "paragraph",
+      "id": "e1d5bba5389ffe3a",
+      "text": "[[Thinking vs. Writing]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e512d1b88eb18b91",
+      "text": "[[Happy Accidents]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "fc1204b2975df9f7",
+      "text": "forking between one's own sites"
+    },
+    {
+      "type": "paragraph",
+      "id": "23230e65c5c5ccc9",
+      "text": "miscibility of sites and conversations"
+    },
+    {
+      "type": "paragraph",
+      "id": "73624bc09c7df609",
+      "text": "With inventory we will assemble more than we write. We reassemble familiar pages for new purpose, tweaking them if need be. "
+    },
+    {
+      "type": "paragraph",
+      "id": "af57188388a8d980",
+      "text": "[[Reinventing Status Reports]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d56ef5d55f9e0cb8",
+      "text": "[[Chorus of Voices]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Locality of Voice and Jargon",
+        "story": []
+      },
+      "date": 1413956068311
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "21970065e2eada40"
+      },
+      "id": "21970065e2eada40",
+      "type": "add",
+      "date": 1413956194158
+    },
+    {
+      "type": "edit",
+      "id": "21970065e2eada40",
+      "item": {
+        "type": "paragraph",
+        "id": "21970065e2eada40",
+        "text": "Each site becomes a space an individual fills with thoughts, original and adapted, but ultimately in that individuals voice and with jargon that said individual understands. Without a site an individual has no place within a conversation. With each additional site the individual grows."
+      },
+      "date": 1413956734239
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "26d78d72ead01cb0",
+        "text": ""
+      },
+      "id": "26d78d72ead01cb0",
+      "type": "add",
+      "after": "21970065e2eada40",
+      "date": 1413956734248
+    },
+    {
+      "type": "edit",
+      "id": "26d78d72ead01cb0",
+      "item": {
+        "type": "paragraph",
+        "id": "26d78d72ead01cb0",
+        "text": "reference context"
+      },
+      "date": 1413956752617
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fc1204b2975df9f7",
+        "text": ""
+      },
+      "id": "fc1204b2975df9f7",
+      "type": "add",
+      "after": "26d78d72ead01cb0",
+      "date": 1413956752623
+    },
+    {
+      "type": "edit",
+      "id": "fc1204b2975df9f7",
+      "item": {
+        "type": "paragraph",
+        "id": "fc1204b2975df9f7",
+        "text": "forking between one's own sites"
+      },
+      "date": 1413956800359
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6301761aa414ae4c",
+        "text": ""
+      },
+      "id": "6301761aa414ae4c",
+      "type": "add",
+      "after": "fc1204b2975df9f7",
+      "date": 1413956800370
+    },
+    {
+      "type": "remove",
+      "id": "6301761aa414ae4c",
+      "date": 1413956860685
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "23230e65c5c5ccc9",
+        "text": ""
+      },
+      "id": "23230e65c5c5ccc9",
+      "type": "add",
+      "after": "fc1204b2975df9f7",
+      "date": 1413956904674
+    },
+    {
+      "type": "edit",
+      "id": "23230e65c5c5ccc9",
+      "item": {
+        "type": "paragraph",
+        "id": "23230e65c5c5ccc9",
+        "text": "miscibility of sites and conversations"
+      },
+      "date": 1413956923864
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "73624bc09c7df609"
+      },
+      "id": "73624bc09c7df609",
+      "type": "add",
+      "after": "23230e65c5c5ccc9",
+      "date": 1413957291742
+    },
+    {
+      "type": "edit",
+      "id": "73624bc09c7df609",
+      "item": {
+        "type": "paragraph",
+        "id": "73624bc09c7df609",
+        "text": "new site as fresh air, not blank page"
+      },
+      "date": 1413957317872
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "bef8bb27ecbbc566",
+        "text": "[[Serendipitous Namespace Collisions]]"
+      },
+      "after": "73624bc09c7df609",
+      "id": "bef8bb27ecbbc566",
+      "date": 1414089550430
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "af57188388a8d980",
+        "text": ""
+      },
+      "id": "af57188388a8d980",
+      "type": "add",
+      "after": "73624bc09c7df609",
+      "date": 1414132988167
+    },
+    {
+      "type": "edit",
+      "id": "af57188388a8d980",
+      "item": {
+        "type": "paragraph",
+        "id": "af57188388a8d980",
+        "text": "[[Reinventing Status Reports]]"
+      },
+      "date": 1414132993252
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e1d5bba5389ffe3a",
+        "text": ""
+      },
+      "id": "e1d5bba5389ffe3a",
+      "type": "add",
+      "after": "73624bc09c7df609",
+      "date": 1414133431406
+    },
+    {
+      "type": "edit",
+      "id": "e1d5bba5389ffe3a",
+      "item": {
+        "type": "paragraph",
+        "id": "e1d5bba5389ffe3a",
+        "text": "[[Thinking vs. Writing]]"
+      },
+      "date": 1414133435925
+    },
+    {
+      "type": "remove",
+      "id": "26d78d72ead01cb0",
+      "date": 1414136294790
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7949b29050dcca8b",
+        "text": ""
+      },
+      "id": "7949b29050dcca8b",
+      "type": "add",
+      "after": "73624bc09c7df609",
+      "date": 1414136348373
+    },
+    {
+      "type": "remove",
+      "id": "7949b29050dcca8b",
+      "date": 1414136405034
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d56ef5d55f9e0cb8",
+        "text": ""
+      },
+      "id": "d56ef5d55f9e0cb8",
+      "type": "add",
+      "after": "e1d5bba5389ffe3a",
+      "date": 1414136437960
+    },
+    {
+      "type": "edit",
+      "id": "d56ef5d55f9e0cb8",
+      "item": {
+        "type": "paragraph",
+        "id": "d56ef5d55f9e0cb8",
+        "text": "[[Chorus of Voices]]"
+      },
+      "date": 1414136442245
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e512d1b88eb18b91",
+        "text": ""
+      },
+      "id": "e512d1b88eb18b91",
+      "type": "add",
+      "after": "af57188388a8d980",
+      "date": 1414136575397
+    },
+    {
+      "type": "edit",
+      "id": "e512d1b88eb18b91",
+      "item": {
+        "type": "paragraph",
+        "id": "e512d1b88eb18b91",
+        "text": "[[Happy Accidents]]"
+      },
+      "date": 1414136584510
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2cd486dfb4f1e056",
+        "text": ""
+      },
+      "id": "2cd486dfb4f1e056",
+      "type": "add",
+      "after": "73624bc09c7df609",
+      "date": 1414137021444
+    },
+    {
+      "type": "remove",
+      "id": "2cd486dfb4f1e056",
+      "date": 1414137060574
+    },
+    {
+      "type": "edit",
+      "id": "21970065e2eada40",
+      "item": {
+        "type": "paragraph",
+        "id": "21970065e2eada40",
+        "text": "Each site becomes a space an individual fills with thoughts, original and adapted, but ultimately in their own voice and familiar jargon."
+      },
+      "date": 1414137125155
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0e608c1c31b06439",
+        "text": "Without a site an individual has no place within a conversation. With each additional site the individual grows."
+      },
+      "id": "0e608c1c31b06439",
+      "type": "add",
+      "after": "21970065e2eada40",
+      "date": 1414137125171
+    },
+    {
+      "type": "edit",
+      "id": "0e608c1c31b06439",
+      "item": {
+        "type": "paragraph",
+        "id": "0e608c1c31b06439",
+        "text": "Without a site an individual has no place within a conversation."
+      },
+      "date": 1414137140818
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a86adf68ed2bc23d",
+        "text": "With each additional site the individual grows."
+      },
+      "id": "a86adf68ed2bc23d",
+      "type": "add",
+      "after": "0e608c1c31b06439",
+      "date": 1414137140826
+    },
+    {
+      "type": "edit",
+      "id": "0e608c1c31b06439",
+      "item": {
+        "type": "paragraph",
+        "id": "0e608c1c31b06439",
+        "text": "Without a site one has no place within a conversation."
+      },
+      "date": 1414137185635
+    },
+    {
+      "type": "edit",
+      "id": "a86adf68ed2bc23d",
+      "item": {
+        "type": "paragraph",
+        "id": "a86adf68ed2bc23d",
+        "text": "With many sites one speaks many ways."
+      },
+      "date": 1414137229968
+    },
+    {
+      "type": "edit",
+      "id": "a86adf68ed2bc23d",
+      "item": {
+        "type": "paragraph",
+        "id": "a86adf68ed2bc23d",
+        "text": "With many sites one speaks many directions."
+      },
+      "date": 1414137249203
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6cdb8e2ab585057f",
+        "text": ""
+      },
+      "id": "6cdb8e2ab585057f",
+      "type": "add",
+      "after": "a86adf68ed2bc23d",
+      "date": 1414137277752
+    },
+    {
+      "type": "edit",
+      "id": "6cdb8e2ab585057f",
+      "item": {
+        "type": "paragraph",
+        "id": "6cdb8e2ab585057f",
+        "text": "Our words remain our own even as they mix with others. We choose a voice when we make a site. We use that voice until we need another. We build and borrow vocabulary. "
+      },
+      "date": 1414138125310
+    },
+    {
+      "type": "move",
+      "order": [
+        "21970065e2eada40",
+        "0e608c1c31b06439",
+        "a86adf68ed2bc23d",
+        "6cdb8e2ab585057f",
+        "e1d5bba5389ffe3a",
+        "fc1204b2975df9f7",
+        "23230e65c5c5ccc9",
+        "73624bc09c7df609",
+        "d56ef5d55f9e0cb8",
+        "af57188388a8d980",
+        "e512d1b88eb18b91",
+        "bef8bb27ecbbc566"
+      ],
+      "id": "e1d5bba5389ffe3a",
+      "date": 1414138130423
+    },
+    {
+      "type": "move",
+      "order": [
+        "21970065e2eada40",
+        "0e608c1c31b06439",
+        "a86adf68ed2bc23d",
+        "6cdb8e2ab585057f",
+        "e1d5bba5389ffe3a",
+        "e512d1b88eb18b91",
+        "fc1204b2975df9f7",
+        "23230e65c5c5ccc9",
+        "73624bc09c7df609",
+        "d56ef5d55f9e0cb8",
+        "af57188388a8d980",
+        "bef8bb27ecbbc566"
+      ],
+      "id": "e512d1b88eb18b91",
+      "date": 1414138134397
+    },
+    {
+      "type": "edit",
+      "id": "6cdb8e2ab585057f",
+      "item": {
+        "type": "paragraph",
+        "id": "6cdb8e2ab585057f",
+        "text": "Our words remain our own even as they mix with others. We choose a voice when we make a site. We use that voice until we need another. We build and borrow vocabulary, mostly from and for ourselves."
+      },
+      "date": 1414138203357
+    },
+    {
+      "type": "remove",
+      "id": "bef8bb27ecbbc566",
+      "date": 1414138219749
+    },
+    {
+      "type": "edit",
+      "id": "73624bc09c7df609",
+      "item": {
+        "type": "paragraph",
+        "id": "73624bc09c7df609",
+        "text": "With inventory we will assemble more than we write. We reassemble familiar pages for new purpose, tweaking them if need be. "
+      },
+      "date": 1414138419613
+    },
+    {
+      "type": "move",
+      "order": [
+        "21970065e2eada40",
+        "0e608c1c31b06439",
+        "a86adf68ed2bc23d",
+        "6cdb8e2ab585057f",
+        "e1d5bba5389ffe3a",
+        "e512d1b88eb18b91",
+        "fc1204b2975df9f7",
+        "23230e65c5c5ccc9",
+        "73624bc09c7df609",
+        "af57188388a8d980",
+        "d56ef5d55f9e0cb8"
+      ],
+      "id": "af57188388a8d980",
+      "date": 1414138425242
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538750503169
+    }
+  ]
+}

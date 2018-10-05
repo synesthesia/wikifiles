@@ -1,0 +1,142 @@
+{
+  "title": "Lineup",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "48ecbfbd71d47cc2",
+      "text": "We line up wiki pages as we browse through links. The result, the lineup, has both visual and computational implications."
+    },
+    {
+      "type": "paragraph",
+      "id": "f240cd70f035aa3f",
+      "text": "[[Lineup Browsing]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9f3f590f023eca2c",
+      "text": "[[Lineup Editing]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a1aa8eca4910a886",
+      "text": "[[Lineup Computing]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Lineup",
+        "story": []
+      },
+      "date": 1414086192034
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "48ecbfbd71d47cc2"
+      },
+      "id": "48ecbfbd71d47cc2",
+      "type": "add",
+      "date": 1414086217979
+    },
+    {
+      "type": "edit",
+      "id": "48ecbfbd71d47cc2",
+      "item": {
+        "type": "paragraph",
+        "id": "48ecbfbd71d47cc2",
+        "text": "We line up wiki pages as we browse through links. The result, the \"lineup\", has both visual and computational implications."
+      },
+      "date": 1414086445887
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f240cd70f035aa3f",
+        "text": ""
+      },
+      "id": "f240cd70f035aa3f",
+      "type": "add",
+      "after": "48ecbfbd71d47cc2",
+      "date": 1414086445898
+    },
+    {
+      "type": "edit",
+      "id": "f240cd70f035aa3f",
+      "item": {
+        "type": "paragraph",
+        "id": "f240cd70f035aa3f",
+        "text": "[[Lineup Browsing]]"
+      },
+      "date": 1414086456753
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a1aa8eca4910a886",
+        "text": ""
+      },
+      "id": "a1aa8eca4910a886",
+      "type": "add",
+      "after": "f240cd70f035aa3f",
+      "date": 1414086456760
+    },
+    {
+      "type": "edit",
+      "id": "a1aa8eca4910a886",
+      "item": {
+        "type": "paragraph",
+        "id": "a1aa8eca4910a886",
+        "text": "[[Lineup Computing]]"
+      },
+      "date": 1414086475553
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9f3f590f023eca2c",
+        "text": ""
+      },
+      "id": "9f3f590f023eca2c",
+      "type": "add",
+      "after": "f240cd70f035aa3f",
+      "date": 1414087523250
+    },
+    {
+      "type": "edit",
+      "id": "9f3f590f023eca2c",
+      "item": {
+        "type": "paragraph",
+        "id": "9f3f590f023eca2c",
+        "text": "[[Lineup Editing]]"
+      },
+      "date": 1414087529701
+    },
+    {
+      "type": "edit",
+      "id": "48ecbfbd71d47cc2",
+      "item": {
+        "type": "paragraph",
+        "id": "48ecbfbd71d47cc2",
+        "text": "We line up wiki pages as we browse through links. The result, the 'lineup', has both visual and computational implications."
+      },
+      "date": 1414087557521
+    },
+    {
+      "type": "edit",
+      "id": "48ecbfbd71d47cc2",
+      "item": {
+        "type": "paragraph",
+        "id": "48ecbfbd71d47cc2",
+        "text": "We line up wiki pages as we browse through links. The result, the lineup, has both visual and computational implications."
+      },
+      "date": 1414087573468
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538750700268
+    }
+  ]
+}

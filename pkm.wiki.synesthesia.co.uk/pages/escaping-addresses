@@ -1,0 +1,266 @@
+{
+  "title": "Escaping Addresses",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e2f3b5c61c9e40e2",
+      "text": "The ability to reliably address all elements of a collection gives computers an air of logical certainty. However, over dependence on these properties have blinded system designers to larger scale patterns."
+    },
+    {
+      "type": "paragraph",
+      "id": "ba53c4041833a914",
+      "text": "From the Biological Framings of Problems in Computing workshop held April 17-19, 2002, at the Santa Fe Institute in Santa Fe, New Mexico. [http://c2.com/cybords/wiki.cgi?EscapingAddresses webpage]"
+    },
+    {
+      "type": "html",
+      "id": "de8decde356dcfbe",
+      "text": "<h3> Excerpts"
+    },
+    {
+      "type": "paragraph",
+      "id": "109de3ecb70ea721",
+      "text": "Address busses make computers a logical machine for when they are properly clocked we can reason knowing all elements have been considered."
+    },
+    {
+      "type": "paragraph",
+      "id": "d325e1aa3324576f",
+      "text": "Address busses aren't (or aren't often) used in biological systems. That is because the signal carriers (atoms, not electrons) are too sluggish to make an address buss useful."
+    },
+    {
+      "type": "paragraph",
+      "id": "5f596b7d175136da",
+      "text": "The co-evolution of our hardware and software designs have enshrined the address buss so firmly in our computational world that only a restart can displace it."
+    },
+    {
+      "type": "paragraph",
+      "id": "6622a498dae846a3",
+      "text": "In programming methods and language design and even processor architecture, we hang on to logic as if it were all that were possible."
+    },
+    {
+      "type": "paragraph",
+      "id": "4e9503916a81ef81",
+      "text": "This is not because no one has pointed to another way. Rather, it is because no community of circuit, system, network, language and methodology designers have looked the same way at the same time."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Escaping Addresses",
+        "story": []
+      },
+      "date": 1413989532413
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e2f3b5c61c9e40e2"
+      },
+      "id": "e2f3b5c61c9e40e2",
+      "type": "add",
+      "date": 1413989534706
+    },
+    {
+      "type": "edit",
+      "id": "e2f3b5c61c9e40e2",
+      "item": {
+        "type": "paragraph",
+        "id": "e2f3b5c61c9e40e2",
+        "text": "The ability to reliably address all elements of a collection gives computers an air of logical certainty."
+      },
+      "date": 1413989673423
+    },
+    {
+      "type": "edit",
+      "id": "e2f3b5c61c9e40e2",
+      "item": {
+        "type": "paragraph",
+        "id": "e2f3b5c61c9e40e2",
+        "text": "The ability to reliably address all elements of a collection gives computers an air of logical certainty. However, over dependence on these properties have blinded system designers to larger scale patterns."
+      },
+      "date": 1413989764440
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ba53c4041833a914"
+      },
+      "id": "ba53c4041833a914",
+      "type": "add",
+      "after": "e2f3b5c61c9e40e2",
+      "date": 1413989794768
+    },
+    {
+      "type": "edit",
+      "id": "ba53c4041833a914",
+      "item": {
+        "type": "paragraph",
+        "id": "ba53c4041833a914",
+        "text": "From the Biological Framings of Problems in Computing workshop held April 17-19, 2002, at the Santa Fe Institute in Santa Fe, New Mexico."
+      },
+      "date": 1413989799165
+    },
+    {
+      "type": "edit",
+      "id": "ba53c4041833a914",
+      "item": {
+        "type": "paragraph",
+        "id": "ba53c4041833a914",
+        "text": "From the Biological Framings of Problems in Computing workshop held April 17-19, 2002, at the Santa Fe Institute in Santa Fe, New Mexico. [http://c2.com/cybords/wiki.cgi?EscapingAddresses webpage]]"
+      },
+      "date": 1413989826996
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "de8decde356dcfbe"
+      },
+      "id": "de8decde356dcfbe",
+      "type": "add",
+      "after": "ba53c4041833a914",
+      "date": 1413989850276
+    },
+    {
+      "type": "edit",
+      "id": "de8decde356dcfbe",
+      "item": {
+        "type": "paragraph",
+        "id": "de8decde356dcfbe",
+        "text": "<h3> Excerpts"
+      },
+      "date": 1413989857501
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "109de3ecb70ea721"
+      },
+      "id": "109de3ecb70ea721",
+      "type": "add",
+      "after": "de8decde356dcfbe",
+      "date": 1413989859808
+    },
+    {
+      "type": "edit",
+      "id": "109de3ecb70ea721",
+      "item": {
+        "type": "paragraph",
+        "id": "109de3ecb70ea721",
+        "text": "Address busses make computers a logical machine for when they are properly clocked we can reason knowing all elements have been considered."
+      },
+      "date": 1413989862921
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b6af8daf49a98a70",
+        "text": ""
+      },
+      "id": "b6af8daf49a98a70",
+      "type": "add",
+      "after": "109de3ecb70ea721",
+      "date": 1413989918613
+    },
+    {
+      "type": "remove",
+      "id": "b6af8daf49a98a70",
+      "date": 1413989941939
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d325e1aa3324576f"
+      },
+      "id": "d325e1aa3324576f",
+      "type": "add",
+      "after": "109de3ecb70ea721",
+      "date": 1413989957326
+    },
+    {
+      "type": "edit",
+      "id": "d325e1aa3324576f",
+      "item": {
+        "type": "paragraph",
+        "id": "d325e1aa3324576f",
+        "text": "Address busses aren't (or aren't often) used in biological systems. That is because the signal carriers (atoms, not electrons) are too sluggish to make an address buss useful."
+      },
+      "date": 1413990033727
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5f596b7d175136da"
+      },
+      "id": "5f596b7d175136da",
+      "type": "add",
+      "after": "d325e1aa3324576f",
+      "date": 1413990064144
+    },
+    {
+      "type": "edit",
+      "id": "5f596b7d175136da",
+      "item": {
+        "type": "paragraph",
+        "id": "5f596b7d175136da",
+        "text": "The co-evolution of our hardware and software designs have enshrined the address buss so firmly in our computational world that only a restart can displace it."
+      },
+      "date": 1413990068067
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6622a498dae846a3"
+      },
+      "id": "6622a498dae846a3",
+      "type": "add",
+      "after": "5f596b7d175136da",
+      "date": 1413990115452
+    },
+    {
+      "type": "edit",
+      "id": "6622a498dae846a3",
+      "item": {
+        "type": "paragraph",
+        "id": "6622a498dae846a3",
+        "text": "In programming methods and language design and even processor architecture, we hang on to logic as if it were all that were possible."
+      },
+      "date": 1413990155873
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4e9503916a81ef81",
+        "text": "This is not because no one has pointed to another way. Rather, it is because no community of circuit, system, network, language and methodology designers have looked the same way at the same time."
+      },
+      "id": "4e9503916a81ef81",
+      "type": "add",
+      "after": "6622a498dae846a3",
+      "date": 1413990155883
+    },
+    {
+      "type": "edit",
+      "id": "de8decde356dcfbe",
+      "item": {
+        "type": "html",
+        "id": "de8decde356dcfbe",
+        "text": "<h3> Excerpts"
+      },
+      "date": 1421896342662
+    },
+    {
+      "type": "edit",
+      "id": "ba53c4041833a914",
+      "item": {
+        "type": "paragraph",
+        "id": "ba53c4041833a914",
+        "text": "From the Biological Framings of Problems in Computing workshop held April 17-19, 2002, at the Santa Fe Institute in Santa Fe, New Mexico. [http://c2.com/cybords/wiki.cgi?EscapingAddresses webpage]"
+      },
+      "date": 1460902644990
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538750539275
+    }
+  ]
+}

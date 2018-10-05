@@ -1,0 +1,65 @@
+{
+  "title": "Are Domain Names Trustworthy",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cc122799e37c27e1",
+      "text": "domain names can be forged by atackers"
+    },
+    {
+      "type": "paragraph",
+      "id": "288b84a74590917f",
+      "text": "doman names change hands"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Are Domain Names Trustworthy",
+        "story": []
+      },
+      "date": 1414118068579
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "899da3417eb79cb0"
+      },
+      "id": "899da3417eb79cb0",
+      "type": "add",
+      "date": 1414118071166
+    },
+    {
+      "type": "remove",
+      "id": "899da3417eb79cb0",
+      "date": 1414118076102
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "cc122799e37c27e1",
+        "text": "domain names can be forged by atackers"
+      },
+      "id": "cc122799e37c27e1",
+      "date": 1414118083690
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "288b84a74590917f",
+        "text": "doman names change hands"
+      },
+      "after": "cc122799e37c27e1",
+      "id": "288b84a74590917f",
+      "date": 1414118087793
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538751465789
+    }
+  ]
+}

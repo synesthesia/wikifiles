@@ -1,0 +1,141 @@
+{
+  "title": "Creative Commons",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "588cd95c49bf6690",
+      "text": "If you want to give people the right to share, use, and even build upon a work you’ve created, you should consider publishing it under a Creative Commons license. [http://creativecommons.org/about website]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4ec70383c57a571e",
+      "text": "We have chosen the CC-BY-SA license."
+    },
+    {
+      "type": "paragraph",
+      "id": "0981198bb987f7e5",
+      "text": "This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use."
+    },
+    {
+      "type": "paragraph",
+      "id": "ce7c4613d4426f60",
+      "text": "This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Creative Commons",
+        "story": []
+      },
+      "date": 1414109997109
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "588cd95c49bf6690"
+      },
+      "id": "588cd95c49bf6690",
+      "type": "add",
+      "date": 1414109999607
+    },
+    {
+      "type": "edit",
+      "id": "588cd95c49bf6690",
+      "item": {
+        "type": "paragraph",
+        "id": "588cd95c49bf6690",
+        "text": "If you want to give people the right to share, use, and even build upon a work you’ve created, you should consider publishing it under a Creative Commons license. "
+      },
+      "date": 1414110007707
+    },
+    {
+      "type": "edit",
+      "id": "588cd95c49bf6690",
+      "item": {
+        "type": "paragraph",
+        "id": "588cd95c49bf6690",
+        "text": "If you want to give people the right to share, use, and even build upon a work you’ve created, you should consider publishing it under a Creative Commons license. [http://creativecommons.org/about website]"
+      },
+      "date": 1414110034886
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4ec70383c57a571e"
+      },
+      "id": "4ec70383c57a571e",
+      "type": "add",
+      "after": "588cd95c49bf6690",
+      "date": 1414110048409
+    },
+    {
+      "type": "edit",
+      "id": "4ec70383c57a571e",
+      "item": {
+        "type": "paragraph",
+        "id": "4ec70383c57a571e",
+        "text": "We selected the attribution "
+      },
+      "date": 1414110125117
+    },
+    {
+      "type": "edit",
+      "id": "4ec70383c57a571e",
+      "item": {
+        "type": "paragraph",
+        "id": "4ec70383c57a571e",
+        "text": "Our license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms."
+      },
+      "date": 1414110229842
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0981198bb987f7e5",
+        "text": "This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects."
+      },
+      "id": "0981198bb987f7e5",
+      "type": "add",
+      "after": "4ec70383c57a571e",
+      "date": 1414110229851
+    },
+    {
+      "type": "edit",
+      "id": "0981198bb987f7e5",
+      "item": {
+        "type": "paragraph",
+        "id": "0981198bb987f7e5",
+        "text": "This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use."
+      },
+      "date": 1414110245808
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ce7c4613d4426f60",
+        "text": "This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects."
+      },
+      "id": "ce7c4613d4426f60",
+      "type": "add",
+      "after": "0981198bb987f7e5",
+      "date": 1414110245817
+    },
+    {
+      "type": "edit",
+      "id": "4ec70383c57a571e",
+      "item": {
+        "type": "paragraph",
+        "id": "4ec70383c57a571e",
+        "text": "We have chosen the CC-BY-SA license."
+      },
+      "date": 1414110280837
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538751355936
+    }
+  ]
+}

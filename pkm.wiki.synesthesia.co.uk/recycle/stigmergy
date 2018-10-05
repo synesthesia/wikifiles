@@ -1,0 +1,184 @@
+{
+  "title": "Stigmergy",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "af3194dfb4f400f2",
+      "text": "Multicellular organisms, whether biological or computing, co-exist and co-evolve with external structures that are created by and, in turn, influence the behavior of the \"cells.\""
+    },
+    {
+      "type": "paragraph",
+      "id": "789a9794d12b2a53",
+      "text": "Examples in the world of social insects include termite mounds which are built by and influence individual insects. "
+    },
+    {
+      "type": "paragraph",
+      "id": "60a2a8f921471db4",
+      "text": "Examples in multicellular organisms include bones and connective tissues which are built by and, in turn, support the cells. "
+    },
+    {
+      "type": "paragraph",
+      "id": "e58dbeacf8df86ce",
+      "text": "Examples in traditional computing include data bases and networking infrastructure. Examples in the internet include wikis, open-source project code repositories, and the Web itself (especially when organized by search engines). "
+    },
+    {
+      "type": "paragraph",
+      "id": "907cff0fa69b8d7f",
+      "text": "Note that these external stigmergy structures facilitate communication between individuals by providing a framework for \"cues\" (persistent polymorphic messages or data) in these structures that other individuals interpret according to their role in the multicellular entity."
+    },
+    {
+      "type": "paragraph",
+      "id": "922fad617ac7f1d6",
+      "text": "From [[Cyberyota]]'s four principles."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Stigmergy",
+        "story": []
+      },
+      "date": 1413987114423
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "af3194dfb4f400f2"
+      },
+      "id": "af3194dfb4f400f2",
+      "type": "add",
+      "date": 1413987145191
+    },
+    {
+      "type": "edit",
+      "id": "af3194dfb4f400f2",
+      "item": {
+        "type": "paragraph",
+        "id": "af3194dfb4f400f2",
+        "text": "Multicellular organisms, whether biological or computing, co-exist and co-evolve with external structures that are created by and, in turn, influence the behavior of the \"cells.\""
+      },
+      "date": 1413987156990
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "789a9794d12b2a53",
+        "text": "Examples in the world of social insects include termite mounds which are built by and influence individual insects. Examples in multicellular organisms include bones and connective tissues which are built by and, in turn, support the cells. Examples in traditional computing include data bases and networking infrastructure. Examples in the internet include wikis, open-source project code repositories, and the Web itself (especially when organized by search engines). Note that these external stigmergy structures facilitate communication between individuals by providing a framework for \"cues\" (persistent polymorphic messages or data) in these structures that other individuals interpret according to their role in the multicellular entity."
+      },
+      "id": "789a9794d12b2a53",
+      "type": "add",
+      "after": "af3194dfb4f400f2",
+      "date": 1413987157000
+    },
+    {
+      "type": "edit",
+      "id": "789a9794d12b2a53",
+      "item": {
+        "type": "paragraph",
+        "id": "789a9794d12b2a53",
+        "text": "Examples in the world of social insects include termite mounds which are built by and influence individual insects. "
+      },
+      "date": 1413987162648
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "60a2a8f921471db4",
+        "text": "Examples in multicellular organisms include bones and connective tissues which are built by and, in turn, support the cells. Examples in traditional computing include data bases and networking infrastructure. Examples in the internet include wikis, open-source project code repositories, and the Web itself (especially when organized by search engines). Note that these external stigmergy structures facilitate communication between individuals by providing a framework for \"cues\" (persistent polymorphic messages or data) in these structures that other individuals interpret according to their role in the multicellular entity."
+      },
+      "id": "60a2a8f921471db4",
+      "type": "add",
+      "after": "789a9794d12b2a53",
+      "date": 1413987162658
+    },
+    {
+      "type": "edit",
+      "id": "60a2a8f921471db4",
+      "item": {
+        "type": "paragraph",
+        "id": "60a2a8f921471db4",
+        "text": "Examples in multicellular organisms include bones and connective tissues which are built by and, in turn, support the cells. "
+      },
+      "date": 1413987166047
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e58dbeacf8df86ce",
+        "text": "Examples in traditional computing include data bases and networking infrastructure. Examples in the internet include wikis, open-source project code repositories, and the Web itself (especially when organized by search engines). Note that these external stigmergy structures facilitate communication between individuals by providing a framework for \"cues\" (persistent polymorphic messages or data) in these structures that other individuals interpret according to their role in the multicellular entity."
+      },
+      "id": "e58dbeacf8df86ce",
+      "type": "add",
+      "after": "60a2a8f921471db4",
+      "date": 1413987166057
+    },
+    {
+      "type": "edit",
+      "id": "e58dbeacf8df86ce",
+      "item": {
+        "type": "paragraph",
+        "id": "e58dbeacf8df86ce",
+        "text": "Examples in traditional computing include data bases and networking infrastructure. Examples in the internet include wikis, open-source project code repositories, and the Web itself (especially when organized by search engines). "
+      },
+      "date": 1413987179705
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "907cff0fa69b8d7f",
+        "text": "Note that these external stigmergy structures facilitate communication between individuals by providing a framework for \"cues\" (persistent polymorphic messages or data) in these structures that other individuals interpret according to their role in the multicellular entity."
+      },
+      "id": "907cff0fa69b8d7f",
+      "type": "add",
+      "after": "e58dbeacf8df86ce",
+      "date": 1413987179714
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "922fad617ac7f1d6",
+        "text": ""
+      },
+      "id": "922fad617ac7f1d6",
+      "type": "add",
+      "after": "907cff0fa69b8d7f",
+      "date": 1413987261454
+    },
+    {
+      "type": "edit",
+      "id": "922fad617ac7f1d6",
+      "item": {
+        "type": "paragraph",
+        "id": "922fad617ac7f1d6",
+        "text": "From [[Cyboryota]]"
+      },
+      "date": 1413987275883
+    },
+    {
+      "type": "edit",
+      "id": "922fad617ac7f1d6",
+      "item": {
+        "type": "paragraph",
+        "id": "922fad617ac7f1d6",
+        "text": "From [[Cyberyota]]"
+      },
+      "date": 1413987312066
+    },
+    {
+      "type": "edit",
+      "id": "922fad617ac7f1d6",
+      "item": {
+        "type": "paragraph",
+        "id": "922fad617ac7f1d6",
+        "text": "From [[Cyberyota]]'s four principles."
+      },
+      "date": 1413987328450
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538750546998
+    }
+  ]
+}

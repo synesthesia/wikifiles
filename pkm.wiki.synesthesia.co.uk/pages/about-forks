@@ -1,0 +1,306 @@
+{
+  "title": "About Forks",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e1f640a30586c72b",
+      "text": "We share responsibility for pages by passing them between sites with the hope that they will be improved with every hop. Here we consider what to expect from such sharing and how that might break down."
+    },
+    {
+      "type": "paragraph",
+      "id": "4ecc97b6c684614e",
+      "text": "We expect people to contribute in good faith and in alignment with the Creative Commons license uniformly used within the federation."
+    },
+    {
+      "type": "paragraph",
+      "id": "83d72145362880dd",
+      "text": "[[Creative Commons]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9c60c5a6dca79d8a",
+      "text": "We expect people to revise content they acquire through forks so as to make it more useful for themselves."
+    },
+    {
+      "type": "paragraph",
+      "id": "ff397a42f6040fa3",
+      "text": "[[How Word Gets Around]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e34ebb3574b85d1c",
+      "text": "We expect people to read, understand, correct and stand by the page versions they publish even when history shows they have been touched by many others."
+    },
+    {
+      "type": "paragraph",
+      "id": "fbf18dcddfbc6a7d",
+      "text": "[[Journal as History Visualized]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "bcb04a4b8139a3db",
+      "text": "[[Journal Spacers]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "About Forks",
+        "story": []
+      },
+      "date": 1414109206927
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e1f640a30586c72b"
+      },
+      "id": "e1f640a30586c72b",
+      "type": "add",
+      "date": 1414109216418
+    },
+    {
+      "type": "edit",
+      "id": "e1f640a30586c72b",
+      "item": {
+        "type": "paragraph",
+        "id": "e1f640a30586c72b",
+        "text": "We share responsibility for pages by passing them between sites with the hope that they will be improved with every hop. Here we consider what to expect from such sharing and how that might break down."
+      },
+      "date": 1414109588158
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4ecc97b6c684614e"
+      },
+      "id": "4ecc97b6c684614e",
+      "type": "add",
+      "after": "e1f640a30586c72b",
+      "date": 1414109590301
+    },
+    {
+      "type": "edit",
+      "id": "4ecc97b6c684614e",
+      "item": {
+        "type": "paragraph",
+        "id": "4ecc97b6c684614e",
+        "text": "We expect people to contribute in good faith and in alignment with the Creative Commons license uniformly used within the federation."
+      },
+      "date": 1414109717522
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "83d72145362880dd",
+        "text": ""
+      },
+      "id": "83d72145362880dd",
+      "type": "add",
+      "after": "4ecc97b6c684614e",
+      "date": 1414109983153
+    },
+    {
+      "type": "edit",
+      "id": "83d72145362880dd",
+      "item": {
+        "type": "paragraph",
+        "id": "83d72145362880dd",
+        "text": "[[Creative Commons]]"
+      },
+      "date": 1414109993408
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9c60c5a6dca79d8a",
+        "text": ""
+      },
+      "id": "9c60c5a6dca79d8a",
+      "type": "add",
+      "after": "83d72145362880dd",
+      "date": 1414110347981
+    },
+    {
+      "type": "edit",
+      "id": "9c60c5a6dca79d8a",
+      "item": {
+        "type": "paragraph",
+        "id": "9c60c5a6dca79d8a",
+        "text": "We expect people to revise content they acquire through forks so as to make it more useful for themselves. "
+      },
+      "date": 1414110421766
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "213c6638a5369c20",
+        "text": ""
+      },
+      "id": "213c6638a5369c20",
+      "type": "add",
+      "after": "9c60c5a6dca79d8a",
+      "date": 1414110421777
+    },
+    {
+      "type": "remove",
+      "id": "213c6638a5369c20",
+      "date": 1414110444547
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fbf18dcddfbc6a7d"
+      },
+      "id": "fbf18dcddfbc6a7d",
+      "type": "add",
+      "after": "9c60c5a6dca79d8a",
+      "date": 1414110550423
+    },
+    {
+      "type": "edit",
+      "id": "fbf18dcddfbc6a7d",
+      "item": {
+        "type": "paragraph",
+        "id": "fbf18dcddfbc6a7d",
+        "text": "[[Journal as History Visualized]]"
+      },
+      "date": 1414110554786
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bcb04a4b8139a3db",
+        "text": ""
+      },
+      "id": "bcb04a4b8139a3db",
+      "type": "add",
+      "after": "fbf18dcddfbc6a7d",
+      "date": 1414110607907
+    },
+    {
+      "type": "edit",
+      "id": "bcb04a4b8139a3db",
+      "item": {
+        "type": "paragraph",
+        "id": "bcb04a4b8139a3db",
+        "text": "[[Journal Spacers]]"
+      },
+      "date": 1414110611103
+    },
+    {
+      "type": "edit",
+      "id": "9c60c5a6dca79d8a",
+      "item": {
+        "type": "paragraph",
+        "id": "9c60c5a6dca79d8a",
+        "text": "We expect people to revise content they acquire through forks so as to make it more useful for themselves."
+      },
+      "date": 1414110854020
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ff397a42f6040fa3",
+        "text": ""
+      },
+      "id": "ff397a42f6040fa3",
+      "type": "add",
+      "after": "9c60c5a6dca79d8a",
+      "date": 1414110854034
+    },
+    {
+      "type": "edit",
+      "id": "ff397a42f6040fa3",
+      "item": {
+        "type": "paragraph",
+        "id": "ff397a42f6040fa3",
+        "text": "[[How Word Gets Around]]"
+      },
+      "date": 1414110858544
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e34ebb3574b85d1c",
+        "text": ""
+      },
+      "id": "e34ebb3574b85d1c",
+      "type": "add",
+      "after": "ff397a42f6040fa3",
+      "date": 1414110964115
+    },
+    {
+      "type": "edit",
+      "id": "e34ebb3574b85d1c",
+      "item": {
+        "type": "paragraph",
+        "id": "e34ebb3574b85d1c",
+        "text": "We expect people to read, understand and stand by the pages they publish even when they were started by others. "
+      },
+      "date": 1414111094264
+    },
+    {
+      "type": "edit",
+      "id": "e34ebb3574b85d1c",
+      "item": {
+        "type": "paragraph",
+        "id": "e34ebb3574b85d1c",
+        "text": "We expect people to read, understand and stand by the pages they publish even when they were started by others."
+      },
+      "date": 1414111130223
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "46e3329a08906fea",
+        "text": ""
+      },
+      "id": "46e3329a08906fea",
+      "type": "add",
+      "after": "e34ebb3574b85d1c",
+      "date": 1414111130232
+    },
+    {
+      "type": "remove",
+      "id": "46e3329a08906fea",
+      "date": 1414111141025
+    },
+    {
+      "type": "edit",
+      "id": "e34ebb3574b85d1c",
+      "item": {
+        "type": "paragraph",
+        "id": "e34ebb3574b85d1c",
+        "text": "We expect people to read, understand, correct and stand by the pages they publish even when they have been touched by many others."
+      },
+      "date": 1414111181982
+    },
+    {
+      "type": "edit",
+      "id": "e34ebb3574b85d1c",
+      "item": {
+        "type": "paragraph",
+        "id": "e34ebb3574b85d1c",
+        "text": "We expect people to read, understand, correct and stand by the page versions they publish even when they have been touched by many others."
+      },
+      "date": 1414111208360
+    },
+    {
+      "type": "edit",
+      "id": "e34ebb3574b85d1c",
+      "item": {
+        "type": "paragraph",
+        "id": "e34ebb3574b85d1c",
+        "text": "We expect people to read, understand, correct and stand by the page versions they publish even when history shows they have been touched by many others."
+      },
+      "date": 1414111236863
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538751352070
+    }
+  ]
+}

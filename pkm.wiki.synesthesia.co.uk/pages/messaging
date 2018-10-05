@@ -1,0 +1,104 @@
+{
+  "title": "Messaging",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9d7d4c3c23b0ed13",
+      "text": "Communication and collaboration is based upon exchange of polymorphic messages rather than exchange of \"executable\" code (DNA/RNA in the case of biological cells, machine code in the case of computing."
+    },
+    {
+      "type": "paragraph",
+      "id": "e66f22ffa75c4cda",
+      "text": "Only the specialized cell can know what behavior to invoke given a certain message."
+    },
+    {
+      "type": "paragraph",
+      "id": "b39509ef70e68ca4",
+      "text": "From [[Cyberyota]]'s four principles."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Messaging",
+        "story": []
+      },
+      "date": 1413989310836
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b39509ef70e68ca4"
+      },
+      "id": "b39509ef70e68ca4",
+      "type": "add",
+      "date": 1413989312547
+    },
+    {
+      "type": "edit",
+      "id": "b39509ef70e68ca4",
+      "item": {
+        "type": "paragraph",
+        "id": "b39509ef70e68ca4",
+        "text": "From [[Cyberyota]]'s four principles."
+      },
+      "date": 1413989316255
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9d7d4c3c23b0ed13"
+      },
+      "id": "9d7d4c3c23b0ed13",
+      "type": "add",
+      "after": "b39509ef70e68ca4",
+      "date": 1413989334710
+    },
+    {
+      "type": "edit",
+      "id": "9d7d4c3c23b0ed13",
+      "item": {
+        "type": "paragraph",
+        "id": "9d7d4c3c23b0ed13",
+        "text": "Communication and collaboration is based upon exchange of polymorphic messages rather than exchange of \"executable\" code (DNA/RNA in the case of biological cells, machine code in the case of computing. Only the specialized cell can know what behavior to invoke given a certain message."
+      },
+      "date": 1413989338677
+    },
+    {
+      "type": "move",
+      "order": [
+        "9d7d4c3c23b0ed13",
+        "b39509ef70e68ca4"
+      ],
+      "id": "b39509ef70e68ca4",
+      "date": 1413989343238
+    },
+    {
+      "type": "edit",
+      "id": "9d7d4c3c23b0ed13",
+      "item": {
+        "type": "paragraph",
+        "id": "9d7d4c3c23b0ed13",
+        "text": "Communication and collaboration is based upon exchange of polymorphic messages rather than exchange of \"executable\" code (DNA/RNA in the case of biological cells, machine code in the case of computing."
+      },
+      "date": 1413989356589
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e66f22ffa75c4cda",
+        "text": "Only the specialized cell can know what behavior to invoke given a certain message."
+      },
+      "id": "e66f22ffa75c4cda",
+      "type": "add",
+      "after": "9d7d4c3c23b0ed13",
+      "date": 1413989356598
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538750561349
+    }
+  ]
+}

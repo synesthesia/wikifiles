@@ -1,0 +1,321 @@
+{
+  "title": "About Plugins",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "858a4aa10a309ee1",
+      "text": "We explain federated wiki plugins. We define their role interpreting content, recount our experience writing many, describe principles and strategies for future plugins, and offer a step-by-step guide for new plugin authors. We'll also collect pointers here to good plugins when they emerge."
+    },
+    {
+      "type": "paragraph",
+      "id": "ab975aa3f1a2254a",
+      "text": "Federated Wiki tags every paragraph (story item) with a type that indicates what kind of markup it might use and what other data might be stored within or retrieved by the paragraph. See [[Abstraction of Method]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c6d13159d06190ac",
+      "text": "There are some basic item types that are built into the core wiki-client software for the simple reason that the core creates items of these types and expects the corresponding built-in plugins to be there. See [[Core Plugins]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8ec13bbd98e5280f",
+      "text": "We've developed conventions for using plugins that go beyond those built-in to the core software. Each server can be configured with a complement of plugins. The fed.wiki.org family of servers document their plugins in the how-to pages. See [[How to Add Plugins]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "583c0f5b310ac73c",
+      "text": "There are many opportunities to supplement the core plugins with advanced or even exotic behaviors. These behaviors are created and travel through the federation by mechanisms distinct from the content they interpret. See [[Plugin Lifecycle]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "fce9a922e22adfa6",
+      "text": "Plugins adhere to some conventions and exist to go beyond others. This makes it hard to know what you are suppose to do when you creating or extending a plugin. The best we can do is offer what we have as case studies. See [[Hacking Wiki's Methods]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3c6a56b4b491b50e",
+      "text": "A wiki page is inert until plugins bring it to life. Wiki pages circulate freely because they are safe. Plugins can be dangerous so we take more care creating and distributing them. See [[Who Makes New Plugins]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0a9b2e4414f646b6",
+      "text": "We've shown that plugins provide a powerful way to create capability inside wiki. Our ambition is that plugins enable us to do work with our wiki, not just talk about doing work. We expect the way plugins work to evolve. See [[Help Guide Our Work]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "About Plugins",
+        "story": []
+      },
+      "date": 1387039541529
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "858a4aa10a309ee1"
+      },
+      "id": "858a4aa10a309ee1",
+      "type": "add",
+      "date": 1387039553683
+    },
+    {
+      "type": "edit",
+      "id": "858a4aa10a309ee1",
+      "item": {
+        "type": "paragraph",
+        "id": "858a4aa10a309ee1",
+        "text": "We explain federated wiki plugins. We'll define their role interpreting content, recount our experience writing many, describe principles and strategies for future plugins, and offer a step-by-step guide for new plugin authors. We'll also collect pointers here to good plugins when they emerge."
+      },
+      "date": 1387039804663
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ab975aa3f1a2254a"
+      },
+      "id": "ab975aa3f1a2254a",
+      "type": "add",
+      "after": "858a4aa10a309ee1",
+      "date": 1387040906371
+    },
+    {
+      "type": "edit",
+      "id": "ab975aa3f1a2254a",
+      "item": {
+        "type": "paragraph",
+        "id": "ab975aa3f1a2254a",
+        "text": "Federated Wiki tags every paragraph (story item) with a type that indicates what kind of markup it might use and what other data might be stored within or retrieved by the paragraph. "
+      },
+      "date": 1387041085217
+    },
+    {
+      "type": "edit",
+      "id": "ab975aa3f1a2254a",
+      "item": {
+        "type": "paragraph",
+        "id": "ab975aa3f1a2254a",
+        "text": "Federated Wiki tags every paragraph (story item) with a type that indicates what kind of markup it might use and what other data might be stored within or retrieved by the paragraph. See [[Abstraction of Method]]"
+      },
+      "date": 1387041193020
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8ec13bbd98e5280f",
+        "text": ""
+      },
+      "id": "8ec13bbd98e5280f",
+      "type": "add",
+      "after": "ab975aa3f1a2254a",
+      "date": 1387041354036
+    },
+    {
+      "type": "edit",
+      "id": "8ec13bbd98e5280f",
+      "item": {
+        "type": "paragraph",
+        "id": "8ec13bbd98e5280f",
+        "text": "We've developed conventions for using plugins that go beyond those built-in to the core software. Each server can be configured with a complement of plugins. The fed.wiki.org family of servers document their plugins in the how-to pages. See How to [[Add Plugins]] and [[Choose Plugins]]"
+      },
+      "date": 1387041627775
+    },
+    {
+      "type": "edit",
+      "id": "8ec13bbd98e5280f",
+      "item": {
+        "type": "paragraph",
+        "id": "8ec13bbd98e5280f",
+        "text": "We've developed conventions for using plugins that go beyond those built-in to the core software. Each server can be configured with a complement of plugins. The fed.wiki.org family of servers document their plugins in the how-to pages. See [[How to Add Plugins]]"
+      },
+      "date": 1387041712238
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "efc1e52e4209167b"
+      },
+      "id": "efc1e52e4209167b",
+      "type": "add",
+      "after": "8ec13bbd98e5280f",
+      "date": 1387042404133
+    },
+    {
+      "type": "remove",
+      "id": "efc1e52e4209167b",
+      "date": 1387042434367
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c6d13159d06190ac",
+        "text": ""
+      },
+      "id": "c6d13159d06190ac",
+      "type": "add",
+      "after": "ab975aa3f1a2254a",
+      "date": 1387043628984
+    },
+    {
+      "type": "edit",
+      "id": "c6d13159d06190ac",
+      "item": {
+        "type": "paragraph",
+        "id": "c6d13159d06190ac",
+        "text": "There are some basic item types that are built into the core wiki-client software for the simple reason that the core creates items of these types and expects the corresponding built-in plugins to be there. See [[Core Plugins]]"
+      },
+      "date": 1387044065684
+    },
+    {
+      "type": "edit",
+      "id": "858a4aa10a309ee1",
+      "item": {
+        "type": "paragraph",
+        "id": "858a4aa10a309ee1",
+        "text": "We explain federated wiki plugins. We define their role interpreting content, recount our experience writing many, describe principles and strategies for future plugins, and offer a step-by-step guide for new plugin authors. We'll also collect pointers here to good plugins when they emerge."
+      },
+      "date": 1387046294219
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "583c0f5b310ac73c",
+        "text": ""
+      },
+      "id": "583c0f5b310ac73c",
+      "type": "add",
+      "after": "c6d13159d06190ac",
+      "date": 1387046396449
+    },
+    {
+      "type": "edit",
+      "id": "583c0f5b310ac73c",
+      "item": {
+        "type": "paragraph",
+        "id": "583c0f5b310ac73c",
+        "text": "There are many opportunities to supplement the core plugins with advanced or even exotic behaviors. These behaviors are created and travel through the federation by mechanisms distinct from the content they interpret. See [[Plugin Lifecycle]]"
+      },
+      "date": 1387046734165
+    },
+    {
+      "type": "move",
+      "order": [
+        "858a4aa10a309ee1",
+        "ab975aa3f1a2254a",
+        "8ec13bbd98e5280f",
+        "c6d13159d06190ac",
+        "583c0f5b310ac73c"
+      ],
+      "id": "8ec13bbd98e5280f",
+      "date": 1387053032975
+    },
+    {
+      "type": "move",
+      "order": [
+        "858a4aa10a309ee1",
+        "ab975aa3f1a2254a",
+        "c6d13159d06190ac",
+        "583c0f5b310ac73c",
+        "8ec13bbd98e5280f"
+      ],
+      "id": "8ec13bbd98e5280f",
+      "date": 1387053095552
+    },
+    {
+      "type": "move",
+      "order": [
+        "858a4aa10a309ee1",
+        "ab975aa3f1a2254a",
+        "c6d13159d06190ac",
+        "8ec13bbd98e5280f",
+        "583c0f5b310ac73c"
+      ],
+      "id": "583c0f5b310ac73c",
+      "date": 1387053112844
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3c6a56b4b491b50e",
+        "text": ""
+      },
+      "id": "3c6a56b4b491b50e",
+      "type": "add",
+      "after": "583c0f5b310ac73c",
+      "date": 1387053156514
+    },
+    {
+      "type": "edit",
+      "id": "3c6a56b4b491b50e",
+      "item": {
+        "type": "paragraph",
+        "id": "3c6a56b4b491b50e",
+        "text": "A wiki page is inert until plugins bring it to life. Wiki pages circulate freely because they are safe. Plugins can be dangerous so we take more care creating and distributing them. "
+      },
+      "date": 1387053431065
+    },
+    {
+      "type": "edit",
+      "id": "3c6a56b4b491b50e",
+      "item": {
+        "type": "paragraph",
+        "id": "3c6a56b4b491b50e",
+        "text": "A wiki page is inert until plugins bring it to life. Wiki pages circulate freely because they are safe. Plugins can be dangerous so we take more care creating and distributing them. See [[Who Makes New Plugins]]"
+      },
+      "date": 1387053447458
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0a9b2e4414f646b6",
+        "text": ""
+      },
+      "id": "0a9b2e4414f646b6",
+      "type": "add",
+      "after": "3c6a56b4b491b50e",
+      "date": 1387055246231
+    },
+    {
+      "type": "edit",
+      "id": "0a9b2e4414f646b6",
+      "item": {
+        "type": "paragraph",
+        "id": "0a9b2e4414f646b6",
+        "text": "We've shown that plugins provide a powerful way to create capability inside wiki. Our ambition is that plugins enable us to do work with our wiki, not just talk about doing work. We expect the way plugins work to evolve. See [[Help Guide Our Work]]"
+      },
+      "date": 1387055424728
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fce9a922e22adfa6",
+        "text": ""
+      },
+      "id": "fce9a922e22adfa6",
+      "type": "add",
+      "after": "583c0f5b310ac73c",
+      "date": 1392495171896
+    },
+    {
+      "type": "edit",
+      "id": "fce9a922e22adfa6",
+      "item": {
+        "type": "paragraph",
+        "id": "fce9a922e22adfa6",
+        "text": "Plugins adhere to some conventions and exist to go beyond others. This makes it hard to know what you are suppose to do when you creating or extending a plugin. The best we can do is offer what we have as case studies. See [[Hacking Wiki's Methods]]"
+      },
+      "date": 1392495427696
+    },
+    {
+      "type": "fork",
+      "site": "plugins.fed.wiki.org",
+      "date": 1399236080232
+    },
+    {
+      "type": "fork",
+      "site": "ward.fed.wiki.org",
+      "date": 1538750653069
+    }
+  ]
+}

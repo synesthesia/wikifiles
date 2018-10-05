@@ -43,6 +43,11 @@
     },
     {
       "type": "paragraph",
+      "id": "ae893789a3a1f3fc",
+      "text": "[[IdentityServer]]"
+    },
+    {
+      "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
     }
@@ -408,6 +413,53 @@
         "text": "[[Azure]]"
       },
       "date": 1522844059404
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ae893789a3a1f3fc"
+      },
+      "id": "ae893789a3a1f3fc",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1538752416862
+    },
+    {
+      "type": "edit",
+      "id": "ae893789a3a1f3fc",
+      "item": {
+        "type": "paragraph",
+        "id": "ae893789a3a1f3fc",
+        "text": "IdentityServer"
+      },
+      "date": 1538752425193
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2ac11f8df56b47d7",
+        "b1bea368697866f0",
+        "798a3a9b67a723c7",
+        "c40a1f63eb57e676",
+        "5cfeeecb2ddc82be",
+        "af1945546f160590",
+        "d71c87c252ae2bb8",
+        "ae893789a3a1f3fc",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "ae893789a3a1f3fc",
+      "date": 1538752428299
+    },
+    {
+      "type": "edit",
+      "id": "ae893789a3a1f3fc",
+      "item": {
+        "type": "paragraph",
+        "id": "ae893789a3a1f3fc",
+        "text": "[[IdentityServer]]"
+      },
+      "date": 1538752432894
     }
   ]
 }

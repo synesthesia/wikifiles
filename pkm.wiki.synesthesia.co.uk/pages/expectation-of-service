@@ -1,0 +1,590 @@
+{
+  "title": "Expectation of Service",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cba75eae25afaf55",
+      "text": "Wiki works when viewed as a new way to serve rather than a new thing to consume. Our works are a gift to those who bother to care. That that might happen, now or in the future, is reward enough."
+    },
+    {
+      "type": "paragraph",
+      "id": "d2203c3abb9283b7",
+      "text": "A Wiki server fits well in Amazon AWS and on Raspberry Pi. Run one as localhost where it will always be with you. "
+    },
+    {
+      "type": "paragraph",
+      "id": "e65fc5773b472714",
+      "text": "[[Diversity in Service]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d6fcbe9ea1e0d1cf",
+      "text": "Share when convenient. No one will miss you if they already forked what they want."
+    },
+    {
+      "type": "paragraph",
+      "id": "a66a8ad7cb18cb6c",
+      "text": "[[Complementary Notice on Fork]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "18f534fcdb28b25e",
+      "text": "As the owner of your medium you are free to dress it up with styling or analytics. Or you can let it be. "
+    },
+    {
+      "type": "paragraph",
+      "id": "c022d466b85ab359",
+      "text": "[[Wiki Vandalism Solutions]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6c671040f2d82223",
+      "text": "Write when you feel like writing. Read where you feel like reading. Enjoy being free from relentless streams pushed in front of you. Enjoy a reflective pose. Share the best of what comes to you."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Expectation of Service",
+        "story": []
+      },
+      "date": 1413957201706
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cba75eae25afaf55"
+      },
+      "id": "cba75eae25afaf55",
+      "type": "add",
+      "date": 1413957357633
+    },
+    {
+      "type": "edit",
+      "id": "cba75eae25afaf55",
+      "item": {
+        "type": "paragraph",
+        "id": "cba75eae25afaf55",
+        "text": "Wiki works when viewed as a new way to serve rather than a new thing to consume. Our works are a gift to those who bother to care. That that might happen, now or in the future, is enough reward."
+      },
+      "date": 1413957543524
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8f1a040dca7e82df",
+        "text": ""
+      },
+      "id": "8f1a040dca7e82df",
+      "type": "add",
+      "after": "cba75eae25afaf55",
+      "date": 1413957543535
+    },
+    {
+      "type": "remove",
+      "id": "8f1a040dca7e82df",
+      "date": 1413957624109
+    },
+    {
+      "type": "edit",
+      "id": "cba75eae25afaf55",
+      "item": {
+        "type": "paragraph",
+        "id": "cba75eae25afaf55",
+        "text": "Wiki works when viewed as a new way to serve rather than a new thing to consume. Our works are a gift to those who bother to care. That that might happen, now or in the future, is reward enough."
+      },
+      "date": 1413957633941
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "18f534fcdb28b25e"
+      },
+      "id": "18f534fcdb28b25e",
+      "type": "add",
+      "after": "cba75eae25afaf55",
+      "date": 1413957641835
+    },
+    {
+      "type": "edit",
+      "id": "18f534fcdb28b25e",
+      "item": {
+        "type": "paragraph",
+        "id": "18f534fcdb28b25e",
+        "text": "room for analytics"
+      },
+      "date": 1413957681585
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "18bbebb9881aa997",
+        "text": ""
+      },
+      "id": "18bbebb9881aa997",
+      "type": "add",
+      "after": "18f534fcdb28b25e",
+      "date": 1413957681594
+    },
+    {
+      "type": "edit",
+      "id": "18bbebb9881aa997",
+      "item": {
+        "type": "paragraph",
+        "id": "18bbebb9881aa997",
+        "text": "no tracking (spying) beyond the firewall"
+      },
+      "date": 1413957723126
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "67dfe8663fa90d5c",
+        "text": ""
+      },
+      "id": "67dfe8663fa90d5c",
+      "type": "add",
+      "after": "18bbebb9881aa997",
+      "date": 1413957727151
+    },
+    {
+      "type": "remove",
+      "id": "67dfe8663fa90d5c",
+      "date": 1413957730231
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a66a8ad7cb18cb6c",
+        "text": ""
+      },
+      "id": "a66a8ad7cb18cb6c",
+      "type": "add",
+      "after": "18bbebb9881aa997",
+      "date": 1413957824632
+    },
+    {
+      "type": "edit",
+      "id": "a66a8ad7cb18cb6c",
+      "item": {
+        "type": "paragraph",
+        "id": "a66a8ad7cb18cb6c",
+        "text": "complementary notice on fork"
+      },
+      "date": 1413957853976
+    },
+    {
+      "type": "move",
+      "order": [
+        "cba75eae25afaf55",
+        "18f534fcdb28b25e",
+        "a66a8ad7cb18cb6c",
+        "18bbebb9881aa997"
+      ],
+      "id": "a66a8ad7cb18cb6c",
+      "date": 1413957862414
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "150bff61ef9ae348",
+        "text": ""
+      },
+      "id": "150bff61ef9ae348",
+      "type": "add",
+      "after": "18bbebb9881aa997",
+      "date": 1413957880249
+    },
+    {
+      "type": "edit",
+      "id": "150bff61ef9ae348",
+      "item": {
+        "type": "paragraph",
+        "id": "150bff61ef9ae348",
+        "text": "needn't be always on"
+      },
+      "date": 1413957918493
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7d55996b23e43bd0",
+        "text": " "
+      },
+      "id": "7d55996b23e43bd0",
+      "type": "add",
+      "after": "150bff61ef9ae348",
+      "date": 1413957918501
+    },
+    {
+      "type": "edit",
+      "id": "7d55996b23e43bd0",
+      "item": {
+        "type": "paragraph",
+        "id": "7d55996b23e43bd0",
+        "text": "natural host is your gateway router "
+      },
+      "date": 1413957971017
+    },
+    {
+      "type": "edit",
+      "id": "7d55996b23e43bd0",
+      "item": {
+        "type": "paragraph",
+        "id": "7d55996b23e43bd0",
+        "text": "natural host is your gateway router"
+      },
+      "date": 1413957997831
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a9840d6c7ed8fa36",
+        "text": ""
+      },
+      "id": "a9840d6c7ed8fa36",
+      "type": "add",
+      "after": "7d55996b23e43bd0",
+      "date": 1413957997839
+    },
+    {
+      "type": "edit",
+      "id": "a9840d6c7ed8fa36",
+      "item": {
+        "type": "paragraph",
+        "id": "a9840d6c7ed8fa36",
+        "text": "immortality"
+      },
+      "date": 1413958024756
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "44b87686b7e6b38a",
+        "text": ""
+      },
+      "id": "44b87686b7e6b38a",
+      "type": "add",
+      "after": "cba75eae25afaf55",
+      "date": 1413958184602
+    },
+    {
+      "type": "edit",
+      "id": "44b87686b7e6b38a",
+      "item": {
+        "type": "paragraph",
+        "id": "44b87686b7e6b38a",
+        "text": "commons"
+      },
+      "date": 1413958202853
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2ae4af46f265998b",
+        "text": "browser -> localhost -> lan -> internet"
+      },
+      "after": "a9840d6c7ed8fa36",
+      "id": "2ae4af46f265998b",
+      "date": 1414089891791
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e65fc5773b472714",
+        "text": ""
+      },
+      "id": "e65fc5773b472714",
+      "type": "add",
+      "after": "cba75eae25afaf55",
+      "date": 1414110916362
+    },
+    {
+      "type": "edit",
+      "id": "e65fc5773b472714",
+      "item": {
+        "type": "paragraph",
+        "id": "e65fc5773b472714",
+        "text": "[[Diversity in Service]]"
+      },
+      "date": 1414110920735
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c022d466b85ab359",
+        "text": ""
+      },
+      "id": "c022d466b85ab359",
+      "type": "add",
+      "after": "2ae4af46f265998b",
+      "date": 1414126110697
+    },
+    {
+      "type": "edit",
+      "id": "c022d466b85ab359",
+      "item": {
+        "type": "paragraph",
+        "id": "c022d466b85ab359",
+        "text": "[[Wiki Vandalism Solutions]]"
+      },
+      "date": 1414126118569
+    },
+    {
+      "type": "edit",
+      "id": "a66a8ad7cb18cb6c",
+      "item": {
+        "type": "paragraph",
+        "id": "a66a8ad7cb18cb6c",
+        "text": "[[Complementary Notice on Fork]]"
+      },
+      "date": 1414135377412
+    },
+    {
+      "type": "remove",
+      "id": "a9840d6c7ed8fa36",
+      "date": 1414135396807
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "871b2764d0b48883",
+        "text": ""
+      },
+      "id": "871b2764d0b48883",
+      "type": "add",
+      "after": "cba75eae25afaf55",
+      "date": 1414138640418
+    },
+    {
+      "type": "remove",
+      "id": "871b2764d0b48883",
+      "date": 1414138676180
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d2203c3abb9283b7",
+        "text": ""
+      },
+      "id": "d2203c3abb9283b7",
+      "type": "add",
+      "after": "cba75eae25afaf55",
+      "date": 1414138743115
+    },
+    {
+      "type": "edit",
+      "id": "d2203c3abb9283b7",
+      "item": {
+        "type": "paragraph",
+        "id": "d2203c3abb9283b7",
+        "text": "A Wiki server fit well in Amazon AWS and on Raspberry Pi. Run one as localhost where it will always be with you. "
+      },
+      "date": 1414139042359
+    },
+    {
+      "type": "remove",
+      "id": "44b87686b7e6b38a",
+      "date": 1414139058478
+    },
+    {
+      "type": "edit",
+      "id": "18f534fcdb28b25e",
+      "item": {
+        "type": "paragraph",
+        "id": "18f534fcdb28b25e",
+        "text": "As the owner of your medium you are free to dress it up with styling or analytics. Or you can let it be."
+      },
+      "date": 1414139178212
+    },
+    {
+      "type": "edit",
+      "id": "d2203c3abb9283b7",
+      "item": {
+        "type": "paragraph",
+        "id": "d2203c3abb9283b7",
+        "text": "A Wiki server fit well in Amazon AWS and on Raspberry Pi. Run one as localhost where it will always be with you even if not always on."
+      },
+      "date": 1414139214847
+    },
+    {
+      "type": "edit",
+      "id": "d2203c3abb9283b7",
+      "item": {
+        "type": "paragraph",
+        "id": "d2203c3abb9283b7",
+        "text": "A Wiki server fits well in Amazon AWS and on Raspberry Pi. Run one as localhost where it will always be with you. Share when convenient. No one will miss you if they forked what they want."
+      },
+      "date": 1414139304815
+    },
+    {
+      "type": "edit",
+      "id": "18f534fcdb28b25e",
+      "item": {
+        "type": "paragraph",
+        "id": "18f534fcdb28b25e",
+        "text": "As the owner of your medium you are free to dress it up with styling or analytics. Or you can let it be. "
+      },
+      "date": 1414139334414
+    },
+    {
+      "type": "remove",
+      "id": "18bbebb9881aa997",
+      "date": 1414139529841
+    },
+    {
+      "type": "edit",
+      "id": "d2203c3abb9283b7",
+      "item": {
+        "type": "paragraph",
+        "id": "d2203c3abb9283b7",
+        "text": "A Wiki server fits well in Amazon AWS and on Raspberry Pi. Run one as localhost where it will always be with you. "
+      },
+      "date": 1414139533187
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d6fcbe9ea1e0d1cf",
+        "text": "Share when convenient. No one will miss you if they forked what they want."
+      },
+      "id": "d6fcbe9ea1e0d1cf",
+      "type": "add",
+      "after": "d2203c3abb9283b7",
+      "date": 1414139533196
+    },
+    {
+      "type": "move",
+      "order": [
+        "cba75eae25afaf55",
+        "d2203c3abb9283b7",
+        "e65fc5773b472714",
+        "d6fcbe9ea1e0d1cf",
+        "18f534fcdb28b25e",
+        "a66a8ad7cb18cb6c",
+        "150bff61ef9ae348",
+        "7d55996b23e43bd0",
+        "2ae4af46f265998b",
+        "c022d466b85ab359"
+      ],
+      "id": "e65fc5773b472714",
+      "date": 1414139550624
+    },
+    {
+      "type": "remove",
+      "id": "2ae4af46f265998b",
+      "date": 1414139586051
+    },
+    {
+      "type": "remove",
+      "id": "7d55996b23e43bd0",
+      "date": 1414139596000
+    },
+    {
+      "type": "remove",
+      "id": "150bff61ef9ae348",
+      "date": 1414139603170
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2902cfd9832d63eb",
+        "text": ""
+      },
+      "id": "2902cfd9832d63eb",
+      "type": "add",
+      "after": "c022d466b85ab359",
+      "date": 1414139616357
+    },
+    {
+      "type": "move",
+      "order": [
+        "cba75eae25afaf55",
+        "d2203c3abb9283b7",
+        "e65fc5773b472714",
+        "d6fcbe9ea1e0d1cf",
+        "a66a8ad7cb18cb6c",
+        "18f534fcdb28b25e",
+        "c022d466b85ab359",
+        "2902cfd9832d63eb"
+      ],
+      "id": "a66a8ad7cb18cb6c",
+      "date": 1414139674091
+    },
+    {
+      "type": "remove",
+      "id": "2902cfd9832d63eb",
+      "date": 1414139776738
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e7926f143719083b",
+        "text": ""
+      },
+      "id": "e7926f143719083b",
+      "type": "add",
+      "after": "c022d466b85ab359",
+      "date": 1414139782399
+    },
+    {
+      "type": "remove",
+      "id": "e7926f143719083b",
+      "date": 1414139860568
+    },
+    {
+      "type": "edit",
+      "id": "d6fcbe9ea1e0d1cf",
+      "item": {
+        "type": "paragraph",
+        "id": "d6fcbe9ea1e0d1cf",
+        "text": "Share when convenient. No one will miss you if they already forked what they want."
+      },
+      "date": 1414139869249
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a4290c0653af609a",
+        "text": ""
+      },
+      "id": "a4290c0653af609a",
+      "type": "add",
+      "after": "c022d466b85ab359",
+      "date": 1414139875297
+    },
+    {
+      "type": "remove",
+      "id": "a4290c0653af609a",
+      "date": 1414139910762
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6c671040f2d82223",
+        "text": ""
+      },
+      "id": "6c671040f2d82223",
+      "type": "add",
+      "after": "c022d466b85ab359",
+      "date": 1414140044208
+    },
+    {
+      "type": "edit",
+      "id": "6c671040f2d82223",
+      "item": {
+        "type": "paragraph",
+        "id": "6c671040f2d82223",
+        "text": "Write when you feel like writing. Read where you feel like reading. Enjoy being free from relentless streams pushed in front of you. Enjoy a reflective pose. Share the best of what comes to you."
+      },
+      "date": 1414140406308
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538750507305
+    }
+  ]
+}

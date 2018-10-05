@@ -1,0 +1,1965 @@
+{
+  "title": "Wiki Vandalism Solutions",
+  "story": [
+    {
+      "type": "paragraph",
+      "text": "Federated Wiki promises to address many of these opportunities. We'll dig into each of these suggestions and make sure the new wiki avails itself to these thoughts from the original.",
+      "id": "892272bf54c57c31f8004a518cbaae28"
+    },
+    {
+      "type": "html",
+      "id": "4aecf509fc7e86d6",
+      "text": "<h3> Should be Better"
+    },
+    {
+      "type": "paragraph",
+      "text": " Should address [[Wiki Trolling]].  (see [[Troll Definition]])",
+      "id": "eeecdb7d4a1d2a65391848cfd569d8e2"
+    },
+    {
+      "type": "paragraph",
+      "text": " Should address [[Edit War]]s.",
+      "id": "267d8cfbc6fec8ab3509f52c97fa9b78"
+    },
+    {
+      "type": "paragraph",
+      "text": " Should address [[Off Topic]] material.",
+      "id": "ce7cb98c6698c6fa2b02c33a2d07fd6a"
+    },
+    {
+      "type": "paragraph",
+      "text": "Should address [[Wiki Spam]] which is different than trolling.",
+      "id": "07fa84a4e33ca8ff32878f662d85dff2"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Lets Slow Down Deletions]] will allow more cooling-off time.",
+      "id": "e2ea697efa9f81a7c65b98399806358c"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Delay Action]]. Create an impervious fence with time. Make it impossible for an attacker to get results right away.",
+      "id": "725a308574bcb31b97a3d1b831aadd23"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Human Verification]].  Prevents automated vandalism.",
+      "id": "e1bb8497c07849397269e93a2d54baac"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Random Peer Privilege]]. Allow ordinary users some administrative capabilities, when several of them act together.",
+      "id": "8e3b9346d2ad3a56bbc04fd11af1c636"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Personal Identification]]. Create a login system by which you can track each member's identity.",
+      "id": "e4cbc6253edf232e6289e3efbd1acf74"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Wiki Change Proposal]].  Editors or teams of editors create clean \"views\" of wiki, and vandalism is tolerated in the unclean wiki.",
+      "id": "866fddd9d50b8e9209dfd80d6d84e86f"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Personal Watch List]].  [[Personal Watch List]] proposes to defuse vandalism by taking away [[Recent Changes]] as an attention-getter.",
+      "id": "4fdd56a7a689bdc4e69aadadc25195fc"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Lets Withdraw Into Solipsism]]/[[Filtered Recent Changes]].  Users keep a personal list of pages they do not want to see.",
+      "id": "4158bdcb425b6462c90b7d0d7b545883"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Wiki Sig]].  Allow off-topic material.",
+      "id": "eafa1c389ea48c4efd096b48f9265941"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Split Wiki]] into a formal and less formal section",
+      "id": "7be7967b359862105e418974abbfa68d"
+    },
+    {
+      "type": "html",
+      "id": "2209cd0a2ce841aa",
+      "text": "<h3> People are People"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Anonymize Recent Changes]].  Take away trolls' ability to target specific individuals.",
+      "id": "80b44753a7cddff0a524d3944a3f3eb4"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Tolerate Off Topic]].  Learn to live with it.  Maybe the trolls will go away on their own.",
+      "id": "766f854b66907763701dec0a87fe64b2"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Weighted Franchise]]. Give more valued members of the community more weight when making decisions.",
+      "id": "566fc88eec5acd6d23b24a7983eb05b4"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Gated Community]]. Only let a select and invited group of people into the \"club\". (aka \"by invitation only.\")",
+      "id": "204701a8d25d1b576e9239a3392b7dcf"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Wiki Needs Trust Metrics]]/[[Trust Metric]]/[[Web Of Trust]]/[[Community Warning]].  Trust is earned when other users don't revert your edits.",
+      "id": "af28023ab5fb7d1dadad961eafc1345f"
+    },
+    {
+      "type": "html",
+      "id": "306d63ca5116be8e",
+      "text": "<h3> Not on Our Radar"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Subscription Fee]].  Make it a financial burden for the trolls to continue.",
+      "id": "ec59a8339ff590b7613055fe8c133e7e"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Police Force]]. Special users get some administrative authority.",
+      "id": "dca791cee261eead1edf1b9c2ed5f172"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Access Levels]]/[[Functional Access]]. Provide a hierarchy of privileges to different members of the community.",
+      "id": "6f5314df5caae2703ff969fad94ad4e6"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Defensive Script Idea]]/[[Open Proxy Self Ban]].  A mechanism for blocking open proxies.",
+      "id": "7bd40950edb54d68ab5bb93f8cd4dc63"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Lets Speed Up Deletions]].  Speeding up deletions will allow gnomes to revert changes faster.",
+      "id": "01b537b095e5f40a342a5ebaac128581"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Citizen Arrest]]. (implies [[Lets Speed Up Deletions]], [[Kill File]]).  A ban feature that automatically reverts all edits by an individual.",
+      "id": "e8eba17818a092d9f73dddfb9470656f"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Kill File]]/[[Ban List]].  Bad users lose the ability to edit.",
+      "id": "2689d3af595d596482d62ee549874223"
+    },
+    {
+      "type": "paragraph",
+      "text": " [[Automatic Sandbox]] (implies [[Kill File]]).  A way of maintaing an open communication channel with those who have been banned (allows for appeals).",
+      "id": "8c64bd1f6930e1aa82450fe1ed66fddf"
+    },
+    {
+      "type": "html",
+      "id": "45440e242164e63e",
+      "text": "<h3> References"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "095013811c0341a195cb588a91fb4c7d"
+    },
+    {
+      "type": "paragraph",
+      "text": "\nRelated pages: [[Soft Security]], [[Troll Definition]], [[Troll Colored Glasses]], [[Troll Flag]], [[Troll Pattern Fixes]], [[Alternatives To Wiki]], [[Wiki Vandalism Analysis]], [[Wiki Spam Solutions]], [[Wiki Design Principles]]",
+      "id": "45577de05a9fe430d9c5d347ff6db8fa"
+    },
+    {
+      "type": "paragraph",
+      "text": "\nThere are many other proposals discussed on [[Meatball Wiki]] under [[Hard Security]].",
+      "id": "f0190ba401db6b4f1235b637e981cd13"
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>",
+      "id": "095013811c0341a195cb588a91fb4c7d"
+    },
+    {
+      "type": "paragraph",
+      "text": "[[Category Wiki Maintenance]]",
+      "id": "22e0108fcae4a20f4e87da165b6c1408"
+    },
+    {
+      "type": "paragraph",
+      "text": "See original on  [http://c2.com/cgi/wiki?WikiVandalismSolutions c2.com]",
+      "id": "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1176658208000,
+      "id": "8f061cd915afc86afaa5ba7fa03752b8",
+      "type": "create",
+      "item": {
+        "title": "Wiki Vandalism Solutions",
+        "story": [
+          {
+            "type": "paragraph",
+            "text": "There have been some proposals for dealing with [[Wiki Vandal]]s. Let's collect them here for comparison.",
+            "id": "892272bf54c57c31f8004a518cbaae28"
+          },
+          {
+            "type": "paragraph",
+            "text": "\nWe haven't yet come up with a list of requirements for a successful vandalism solution.  Here is a first pass: (see [[Wiki Vandalism Analysis]] for more)",
+            "id": "1b8878aad6cf76c7524248f7ea0e69f6"
+          },
+          {
+            "type": "paragraph",
+            "text": " Should address [[Wiki Trolling]].  (see [[Troll Definition]])",
+            "id": "eeecdb7d4a1d2a65391848cfd569d8e2"
+          },
+          {
+            "type": "paragraph",
+            "text": " Should address [[Edit War]]s.",
+            "id": "267d8cfbc6fec8ab3509f52c97fa9b78"
+          },
+          {
+            "type": "paragraph",
+            "text": " Should address [[Off Topic]] material (either embrace it or eliminate it--at a minimum, set clear guidelines as to what is OK and what is not).",
+            "id": "ce7cb98c6698c6fa2b02c33a2d07fd6a"
+          },
+          {
+            "type": "paragraph",
+            "text": "\nNote that spam and vandalism have very different motivations, although they are similar in outcome.  A well-crafted solution is needed for each problem, but discussion is likely to be more productive if we don't confuse the issues.  [[Wiki Spam Solutions]] should be addressed on that page, not here.",
+            "id": "07fa84a4e33ca8ff32878f662d85dff2"
+          },
+          {
+            "type": "paragraph",
+            "text": "\nMost proposals either attempt to make trolls want to leave on their own, or to forcefully remove them.",
+            "id": "95e94caa74547218ed775a3c17db9c1e"
+          },
+          {
+            "type": "paragraph",
+            "text": "<b>Ideas to make trolls want to leave on their own:</b>",
+            "id": "e4b7a3556e6b4f3270de8d46fa096123"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Anonymize Recent Changes]].  Take away trolls' ability to target specific individuals.",
+            "id": "80b44753a7cddff0a524d3944a3f3eb4"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Tolerate Off Topic]].  Learn to live with it.  Maybe the trolls will go away on their own.",
+            "id": "766f854b66907763701dec0a87fe64b2"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Lets Slow Down Deletions]].  Slowing down deletions will allow more cooling-off time, so there will be less spontaneous trolling.",
+            "id": "e2ea697efa9f81a7c65b98399806358c"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Subscription Fee]].  Make it a financial burden for the trolls to continue.",
+            "id": "ec59a8339ff590b7613055fe8c133e7e"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Delay Action]]. Create an impervious fence with time. Make it impossible for an attacker to get results right away.",
+            "id": "725a308574bcb31b97a3d1b831aadd23"
+          },
+          {
+            "type": "paragraph",
+            "text": "<b>Ideas to forcefully remove trolls:</b>",
+            "id": "d143167dfb9a400bbf1d1db9c5725b34"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Human Verification]].  Prevents automated vandalism.",
+            "id": "e1bb8497c07849397269e93a2d54baac"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Police Force]]. Special users get some administrative authority.",
+            "id": "dca791cee261eead1edf1b9c2ed5f172"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Access Levels]]/[[Functional Access]]. Provide a hierarchy of privileges to different members of the community.",
+            "id": "6f5314df5caae2703ff969fad94ad4e6"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Weighted Franchise]]. Give more valued members of the community more weight when making decisions.",
+            "id": "566fc88eec5acd6d23b24a7983eb05b4"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Random Peer Privilege]]. Allow ordinary users some administrative capabilities, when several of them act together.",
+            "id": "8e3b9346d2ad3a56bbc04fd11af1c636"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Gated Community]]. Only let a select and invited group of people into the \"club\". (aka \"by invitation only.\")",
+            "id": "204701a8d25d1b576e9239a3392b7dcf"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Wiki Needs Trust Metrics]]/[[Trust Metric]]/[[Web Of Trust]]/[[Community Warning]].  Trust is earned when other users don't revert your edits.",
+            "id": "af28023ab5fb7d1dadad961eafc1345f"
+          },
+          {
+            "type": "paragraph",
+            "text": "<b>Partial solutions and specific technologies:</b>",
+            "id": "40e6e24d9b9ba27063440054d1552100"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Defensive Script Idea]]/[[Open Proxy Self Ban]].  A mechanism for blocking open proxies.",
+            "id": "7bd40950edb54d68ab5bb93f8cd4dc63"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Lets Speed Up Deletions]].  Speeding up deletions will allow gnomes to revert changes faster.",
+            "id": "01b537b095e5f40a342a5ebaac128581"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Kill File]]/[[Ban List]].  Bad users lose the ability to edit.",
+            "id": "2689d3af595d596482d62ee549874223"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Automatic Sandbox]] (implies [[Kill File]]).  A way of maintaing an open communication channel with those who have been banned (allows for appeals).",
+            "id": "8c64bd1f6930e1aa82450fe1ed66fddf"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Citizen Arrest]]. (implies [[Lets Speed Up Deletions]], [[Kill File]]).  A ban feature that automatically reverts all edits by an individual.",
+            "id": "e8eba17818a092d9f73dddfb9470656f"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Personal Identification]]. Create a login system by which you can track each member's identity.",
+            "id": "e4cbc6253edf232e6289e3efbd1acf74"
+          },
+          {
+            "type": "paragraph",
+            "text": "<b>Proposed solutions:</b> (these are intended to meet all of the requirements.)",
+            "id": "a7ae6f1d40b2f01d55fe4a3693b279f1"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Lets Withdraw Into Solipsism]]/[[Filtered Recent Changes]].  Users keep a personal list of pages they do not want to see.",
+            "id": "4158bdcb425b6462c90b7d0d7b545883"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Personal Watch List]].  [[Personal Watch List]] proposes to defuse vandalism by taking away [[Recent Changes]] as an attention-getter.",
+            "id": "4fdd56a7a689bdc4e69aadadc25195fc"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Wiki Change Proposal]].  Editors or teams of editors create clean \"views\" of wiki, and vandalism is tolerated in the unclean wiki.",
+            "id": "866fddd9d50b8e9209dfd80d6d84e86f"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Wiki Sig]].  Allow off-topic material.",
+            "id": "eafa1c389ea48c4efd096b48f9265941"
+          },
+          {
+            "type": "paragraph",
+            "text": " [[Split Wiki]] into a formal and less formal section",
+            "id": "7be7967b359862105e418974abbfa68d"
+          },
+          {
+            "type": "paragraph",
+            "text": "\nNote that the grouping above is pretty arbitrary and may not make any sense at all.  We should come up with a better way to organize this page.  Also, these proposals and ideas have lots of dependencies on each other.  I've pointed out a couple using \"(implies x)\" syntax, but there are many more to add.",
+            "id": "796a759096241cb65ce9aedf22bc13c9"
+          },
+          {
+            "type": "paragraph",
+            "text": "<hr>",
+            "id": "095013811c0341a195cb588a91fb4c7d"
+          },
+          {
+            "type": "paragraph",
+            "text": "\nDirect any [[Thread Mode]] content to [[Wiki Vandalism Discussion]].",
+            "id": "0dd9a278eec907151ba8ae4b86b5bebd"
+          },
+          {
+            "type": "paragraph",
+            "text": "\nRelated pages: [[Soft Security]], [[Troll Definition]], [[Troll Colored Glasses]], [[Troll Flag]], [[Troll Pattern Fixes]], [[Alternatives To Wiki]], [[Wiki Vandalism Analysis]], [[Wiki Spam Solutions]], [[Wiki Design Principles]]",
+            "id": "45577de05a9fe430d9c5d347ff6db8fa"
+          },
+          {
+            "type": "paragraph",
+            "text": "\nThere are many other proposals discussed on [[Meatball Wiki]] under [[Hard Security]].",
+            "id": "f0190ba401db6b4f1235b637e981cd13"
+          },
+          {
+            "type": "paragraph",
+            "text": "<hr>",
+            "id": "095013811c0341a195cb588a91fb4c7d"
+          },
+          {
+            "type": "paragraph",
+            "text": "[[Category Wiki Maintenance]]",
+            "id": "22e0108fcae4a20f4e87da165b6c1408"
+          },
+          {
+            "type": "paragraph",
+            "text": "See original on  [http://c2.com/cgi/wiki?WikiVandalismSolutions c2.com]",
+            "id": "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fork",
+      "site": "wiki.sfw.c2.com",
+      "date": 1387680729592
+    },
+    {
+      "type": "edit",
+      "id": "892272bf54c57c31f8004a518cbaae28",
+      "item": {
+        "type": "paragraph",
+        "text": "There have been some proposals for dealing with [[Wiki Vandal]]s. Let's collect them here and see how federated wiki stacks up.",
+        "id": "892272bf54c57c31f8004a518cbaae28"
+      },
+      "date": 1387681066950
+    },
+    {
+      "type": "edit",
+      "id": "1b8878aad6cf76c7524248f7ea0e69f6",
+      "item": {
+        "type": "paragraph",
+        "text": "See [[Wiki Vandalism Analysis]]",
+        "id": "1b8878aad6cf76c7524248f7ea0e69f6"
+      },
+      "date": 1387681094259
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4aecf509fc7e86d6",
+        "text": ""
+      },
+      "id": "4aecf509fc7e86d6",
+      "type": "add",
+      "after": "1b8878aad6cf76c7524248f7ea0e69f6",
+      "date": 1387681104256
+    },
+    {
+      "type": "edit",
+      "id": "4aecf509fc7e86d6",
+      "item": {
+        "type": "paragraph",
+        "id": "4aecf509fc7e86d6",
+        "text": "<h3> Should be Better"
+      },
+      "date": 1387681130761
+    },
+    {
+      "type": "edit",
+      "id": "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+      "item": {
+        "type": "paragraph",
+        "text": " Should address [[Off Topic]] material.",
+        "id": "ce7cb98c6698c6fa2b02c33a2d07fd6a"
+      },
+      "date": 1387681157209
+    },
+    {
+      "type": "edit",
+      "id": "07fa84a4e33ca8ff32878f662d85dff2",
+      "item": {
+        "type": "paragraph",
+        "text": "Should address [[Wiki Spam]] which is different than trolling.",
+        "id": "07fa84a4e33ca8ff32878f662d85dff2"
+      },
+      "date": 1387681256193
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2209cd0a2ce841aa",
+        "text": ""
+      },
+      "id": "2209cd0a2ce841aa",
+      "type": "add",
+      "after": "07fa84a4e33ca8ff32878f662d85dff2",
+      "date": 1387681296772
+    },
+    {
+      "type": "edit",
+      "id": "2209cd0a2ce841aa",
+      "item": {
+        "type": "paragraph",
+        "id": "2209cd0a2ce841aa",
+        "text": "<h3> People are People"
+      },
+      "date": 1387681382029
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "95e94caa74547218ed775a3c17db9c1e",
+        "e4b7a3556e6b4f3270de8d46fa096123",
+        "766f854b66907763701dec0a87fe64b2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "d143167dfb9a400bbf1d1db9c5725b34",
+        "e1bb8497c07849397269e93a2d54baac",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "40e6e24d9b9ba27063440054d1552100",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "80b44753a7cddff0a524d3944a3f3eb4",
+      "date": 1387681391059
+    },
+    {
+      "type": "remove",
+      "id": "95e94caa74547218ed775a3c17db9c1e",
+      "date": 1387681395283
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "e4b7a3556e6b4f3270de8d46fa096123",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "d143167dfb9a400bbf1d1db9c5725b34",
+        "e1bb8497c07849397269e93a2d54baac",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "40e6e24d9b9ba27063440054d1552100",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "766f854b66907763701dec0a87fe64b2",
+      "date": 1387681401170
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "e4b7a3556e6b4f3270de8d46fa096123",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "d143167dfb9a400bbf1d1db9c5725b34",
+        "e1bb8497c07849397269e93a2d54baac",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "40e6e24d9b9ba27063440054d1552100",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "e2ea697efa9f81a7c65b98399806358c",
+      "date": 1387681408142
+    },
+    {
+      "type": "edit",
+      "id": "e2ea697efa9f81a7c65b98399806358c",
+      "item": {
+        "type": "paragraph",
+        "text": " [[Lets Slow Down Deletions]] will allow more cooling-off time.",
+        "id": "e2ea697efa9f81a7c65b98399806358c"
+      },
+      "date": 1387681443003
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "306d63ca5116be8e",
+        "text": ""
+      },
+      "id": "306d63ca5116be8e",
+      "type": "add",
+      "after": "766f854b66907763701dec0a87fe64b2",
+      "date": 1387681456551
+    },
+    {
+      "type": "edit",
+      "id": "306d63ca5116be8e",
+      "item": {
+        "type": "paragraph",
+        "id": "306d63ca5116be8e",
+        "text": "<h3> Not on Our Radar"
+      },
+      "date": 1387681477954
+    },
+    {
+      "type": "remove",
+      "id": "e4b7a3556e6b4f3270de8d46fa096123",
+      "date": 1387681486464
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "d143167dfb9a400bbf1d1db9c5725b34",
+        "e1bb8497c07849397269e93a2d54baac",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "40e6e24d9b9ba27063440054d1552100",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "725a308574bcb31b97a3d1b831aadd23",
+      "date": 1387681503454
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "d143167dfb9a400bbf1d1db9c5725b34",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "40e6e24d9b9ba27063440054d1552100",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "e1bb8497c07849397269e93a2d54baac",
+      "date": 1387681513274
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "d143167dfb9a400bbf1d1db9c5725b34",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "40e6e24d9b9ba27063440054d1552100",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "dca791cee261eead1edf1b9c2ed5f172",
+      "date": 1387681517408
+    },
+    {
+      "type": "remove",
+      "id": "d143167dfb9a400bbf1d1db9c5725b34",
+      "date": 1387681522600
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "40e6e24d9b9ba27063440054d1552100",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "566fc88eec5acd6d23b24a7983eb05b4",
+      "date": 1387681531644
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "40e6e24d9b9ba27063440054d1552100",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "8e3b9346d2ad3a56bbc04fd11af1c636",
+      "date": 1387681543786
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "40e6e24d9b9ba27063440054d1552100",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "204701a8d25d1b576e9239a3392b7dcf",
+      "date": 1387681572940
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "40e6e24d9b9ba27063440054d1552100",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "204701a8d25d1b576e9239a3392b7dcf",
+      "date": 1387681576193
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f9604b9cde46f39c"
+      },
+      "id": "f9604b9cde46f39c",
+      "type": "add",
+      "after": "b1c68787f0ea6e0d29a81f04a6d3d2aa",
+      "date": 1387681602375
+    },
+    {
+      "type": "edit",
+      "id": "f9604b9cde46f39c",
+      "item": {
+        "type": "pagefold",
+        "id": "f9604b9cde46f39c",
+        "text": "edits in progress up to here"
+      },
+      "date": 1387681631728
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "f9604b9cde46f39c",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "40e6e24d9b9ba27063440054d1552100",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "f9604b9cde46f39c",
+      "date": 1387681643863
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "f9604b9cde46f39c",
+        "40e6e24d9b9ba27063440054d1552100",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "af28023ab5fb7d1dadad961eafc1345f",
+      "date": 1387684425526
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "f9604b9cde46f39c",
+        "40e6e24d9b9ba27063440054d1552100",
+        "01b537b095e5f40a342a5ebaac128581",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "7bd40950edb54d68ab5bb93f8cd4dc63",
+      "date": 1387684439798
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "f9604b9cde46f39c",
+        "40e6e24d9b9ba27063440054d1552100",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "01b537b095e5f40a342a5ebaac128581",
+      "date": 1387684445605
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "2689d3af595d596482d62ee549874223",
+        "f9604b9cde46f39c",
+        "40e6e24d9b9ba27063440054d1552100",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "2689d3af595d596482d62ee549874223",
+      "date": 1387684453734
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "2689d3af595d596482d62ee549874223",
+        "f9604b9cde46f39c",
+        "40e6e24d9b9ba27063440054d1552100",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "e4cbc6253edf232e6289e3efbd1acf74",
+      "date": 1387684486848
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "2689d3af595d596482d62ee549874223",
+        "f9604b9cde46f39c",
+        "40e6e24d9b9ba27063440054d1552100",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "866fddd9d50b8e9209dfd80d6d84e86f",
+      "date": 1387684502154
+    },
+    {
+      "type": "remove",
+      "id": "40e6e24d9b9ba27063440054d1552100",
+      "date": 1387684521820
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "2689d3af595d596482d62ee549874223",
+        "f9604b9cde46f39c",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "e8eba17818a092d9f73dddfb9470656f",
+      "date": 1387684540802
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "2689d3af595d596482d62ee549874223",
+        "f9604b9cde46f39c",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "4fdd56a7a689bdc4e69aadadc25195fc",
+      "date": 1387684553452
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "2689d3af595d596482d62ee549874223",
+        "f9604b9cde46f39c",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "4158bdcb425b6462c90b7d0d7b545883",
+      "date": 1387684627326
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "f9604b9cde46f39c",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "8c64bd1f6930e1aa82450fe1ed66fddf",
+      "date": 1387684645893
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "f9604b9cde46f39c",
+        "a7ae6f1d40b2f01d55fe4a3693b279f1",
+        "7be7967b359862105e418974abbfa68d",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "eafa1c389ea48c4efd096b48f9265941",
+      "date": 1387684724617
+    },
+    {
+      "type": "remove",
+      "id": "a7ae6f1d40b2f01d55fe4a3693b279f1",
+      "date": 1387684736486
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "f9604b9cde46f39c",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "7be7967b359862105e418974abbfa68d",
+      "date": 1387684756508
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "45440e242164e63e"
+      },
+      "id": "45440e242164e63e",
+      "type": "add",
+      "after": "b1c68787f0ea6e0d29a81f04a6d3d2aa",
+      "date": 1387684776420
+    },
+    {
+      "type": "edit",
+      "id": "45440e242164e63e",
+      "item": {
+        "type": "paragraph",
+        "id": "45440e242164e63e",
+        "text": "<h3> References"
+      },
+      "date": 1387684797316
+    },
+    {
+      "type": "move",
+      "order": [
+        "892272bf54c57c31f8004a518cbaae28",
+        "1b8878aad6cf76c7524248f7ea0e69f6",
+        "4aecf509fc7e86d6",
+        "eeecdb7d4a1d2a65391848cfd569d8e2",
+        "267d8cfbc6fec8ab3509f52c97fa9b78",
+        "ce7cb98c6698c6fa2b02c33a2d07fd6a",
+        "07fa84a4e33ca8ff32878f662d85dff2",
+        "e2ea697efa9f81a7c65b98399806358c",
+        "725a308574bcb31b97a3d1b831aadd23",
+        "e1bb8497c07849397269e93a2d54baac",
+        "8e3b9346d2ad3a56bbc04fd11af1c636",
+        "e4cbc6253edf232e6289e3efbd1acf74",
+        "866fddd9d50b8e9209dfd80d6d84e86f",
+        "4fdd56a7a689bdc4e69aadadc25195fc",
+        "4158bdcb425b6462c90b7d0d7b545883",
+        "eafa1c389ea48c4efd096b48f9265941",
+        "7be7967b359862105e418974abbfa68d",
+        "2209cd0a2ce841aa",
+        "80b44753a7cddff0a524d3944a3f3eb4",
+        "766f854b66907763701dec0a87fe64b2",
+        "566fc88eec5acd6d23b24a7983eb05b4",
+        "204701a8d25d1b576e9239a3392b7dcf",
+        "af28023ab5fb7d1dadad961eafc1345f",
+        "306d63ca5116be8e",
+        "ec59a8339ff590b7613055fe8c133e7e",
+        "dca791cee261eead1edf1b9c2ed5f172",
+        "6f5314df5caae2703ff969fad94ad4e6",
+        "7bd40950edb54d68ab5bb93f8cd4dc63",
+        "01b537b095e5f40a342a5ebaac128581",
+        "e8eba17818a092d9f73dddfb9470656f",
+        "2689d3af595d596482d62ee549874223",
+        "8c64bd1f6930e1aa82450fe1ed66fddf",
+        "f9604b9cde46f39c",
+        "45440e242164e63e",
+        "796a759096241cb65ce9aedf22bc13c9",
+        "095013811c0341a195cb588a91fb4c7d",
+        "0dd9a278eec907151ba8ae4b86b5bebd",
+        "45577de05a9fe430d9c5d347ff6db8fa",
+        "f0190ba401db6b4f1235b637e981cd13",
+        "095013811c0341a195cb588a91fb4c7d",
+        "22e0108fcae4a20f4e87da165b6c1408",
+        "b1c68787f0ea6e0d29a81f04a6d3d2aa"
+      ],
+      "id": "45440e242164e63e",
+      "date": 1387684806545
+    },
+    {
+      "type": "remove",
+      "id": "796a759096241cb65ce9aedf22bc13c9",
+      "date": 1387684813492
+    },
+    {
+      "type": "remove",
+      "id": "f9604b9cde46f39c",
+      "date": 1387684818572
+    },
+    {
+      "type": "remove",
+      "id": "0dd9a278eec907151ba8ae4b86b5bebd",
+      "date": 1387684835167
+    },
+    {
+      "type": "edit",
+      "id": "095013811c0341a195cb588a91fb4c7d",
+      "item": {
+        "type": "paragraph",
+        "text": "Direct any [[Thread Mode]] content to [[Wiki Vandalism Discussion]].",
+        "id": "095013811c0341a195cb588a91fb4c7d"
+      },
+      "date": 1387684838165
+    },
+    {
+      "type": "edit",
+      "id": "892272bf54c57c31f8004a518cbaae28",
+      "item": {
+        "type": "paragraph",
+        "text": "There have been some proposals for dealing with [[Wiki Vandal]]s. Federated Wiki promises to address many of these opportunities.",
+        "id": "892272bf54c57c31f8004a518cbaae28"
+      },
+      "date": 1387684895198
+    },
+    {
+      "type": "edit",
+      "id": "892272bf54c57c31f8004a518cbaae28",
+      "item": {
+        "type": "paragraph",
+        "text": "There have been some proposals for dealing with [[Wiki Vandal]]s. Federated Wiki promises to address many of these opportunities. We'll dig into each of these suggestions and make sure the new wiki avails itself to thought from the original.",
+        "id": "892272bf54c57c31f8004a518cbaae28"
+      },
+      "date": 1387684939650
+    },
+    {
+      "type": "edit",
+      "id": "892272bf54c57c31f8004a518cbaae28",
+      "item": {
+        "type": "paragraph",
+        "text": "Federated Wiki promises to address many of these opportunities. We'll dig into each of these suggestions and make sure the new wiki avails itself to thought from the original.",
+        "id": "892272bf54c57c31f8004a518cbaae28"
+      },
+      "date": 1387684954457
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d3ed4b608cc4bfe9",
+        "text": ""
+      },
+      "id": "d3ed4b608cc4bfe9",
+      "type": "add",
+      "after": "892272bf54c57c31f8004a518cbaae28",
+      "date": 1387684954966
+    },
+    {
+      "type": "edit",
+      "id": "d3ed4b608cc4bfe9",
+      "item": {
+        "type": "paragraph",
+        "id": "d3ed4b608cc4bfe9",
+        "text": "There have been some proposals for dealing with [[Wiki Vandal]]s. "
+      },
+      "date": 1387684964919
+    },
+    {
+      "type": "edit",
+      "id": "d3ed4b608cc4bfe9",
+      "item": {
+        "type": "paragraph",
+        "id": "d3ed4b608cc4bfe9",
+        "text": "Proposals for dealing with [[Wiki Vandal]]s. "
+      },
+      "date": 1387684993449
+    },
+    {
+      "type": "remove",
+      "id": "1b8878aad6cf76c7524248f7ea0e69f6",
+      "date": 1387685005928
+    },
+    {
+      "type": "remove",
+      "id": "d3ed4b608cc4bfe9",
+      "date": 1387685015062
+    },
+    {
+      "type": "fork",
+      "site": "ward.c2.fed.wiki.org",
+      "date": 1414126131801
+    },
+    {
+      "type": "edit",
+      "id": "892272bf54c57c31f8004a518cbaae28",
+      "item": {
+        "type": "paragraph",
+        "text": "Federated Wiki promises to address many of these opportunities. We'll dig into each of these suggestions and make sure the new wiki avails itself to these thoughts from the original.",
+        "id": "892272bf54c57c31f8004a518cbaae28"
+      },
+      "date": 1414139945915
+    },
+    {
+      "type": "edit",
+      "id": "4aecf509fc7e86d6",
+      "item": {
+        "type": "html",
+        "id": "4aecf509fc7e86d6",
+        "text": "<h3> Should be Better"
+      },
+      "date": 1421897599976
+    },
+    {
+      "type": "edit",
+      "id": "2209cd0a2ce841aa",
+      "item": {
+        "type": "html",
+        "id": "2209cd0a2ce841aa",
+        "text": "<h3> People are People"
+      },
+      "date": 1421897607662
+    },
+    {
+      "type": "edit",
+      "id": "306d63ca5116be8e",
+      "item": {
+        "type": "html",
+        "id": "306d63ca5116be8e",
+        "text": "<h3> Not on Our Radar"
+      },
+      "date": 1421897612394
+    },
+    {
+      "type": "edit",
+      "id": "45440e242164e63e",
+      "item": {
+        "type": "html",
+        "id": "45440e242164e63e",
+        "text": "<h3> References"
+      },
+      "date": 1421897614872
+    },
+    {
+      "type": "edit",
+      "id": "095013811c0341a195cb588a91fb4c7d",
+      "item": {
+        "type": "html",
+        "text": "<hr>",
+        "id": "095013811c0341a195cb588a91fb4c7d"
+      },
+      "date": 1421897616992
+    },
+    {
+      "type": "edit",
+      "id": "095013811c0341a195cb588a91fb4c7d",
+      "item": {
+        "type": "html",
+        "text": "<hr>",
+        "id": "095013811c0341a195cb588a91fb4c7d"
+      },
+      "date": 1421897681142
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538750940849
+    }
+  ]
+}

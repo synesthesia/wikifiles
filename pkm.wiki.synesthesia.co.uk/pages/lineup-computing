@@ -1,0 +1,195 @@
+{
+  "title": "Lineup Computing",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2abb794d5021ea1d",
+      "text": "All pages in the [[Lineup]] are available to javascript in the browser. A page that wants data looks left in the lineup for pages with data to offer. Data then flows left to right."
+    },
+    {
+      "type": "paragraph",
+      "id": "41c1813816f6a26d",
+      "text": "A page may appear multiply within the lineup. Although it is the same page in both places, the computations it performs can vary with the data if finds around it."
+    },
+    {
+      "type": "method",
+      "id": "28221fbde4ba139c",
+      "text": "99 Bottles of Beer"
+    },
+    {
+      "type": "paragraph",
+      "id": "b52a8fbb1cac0d99",
+      "text": "[[Take One Down]] pass it around ..."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Lineup Computing",
+        "story": []
+      },
+      "date": 1414088204184
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2abb794d5021ea1d"
+      },
+      "id": "2abb794d5021ea1d",
+      "type": "add",
+      "date": 1414088211719
+    },
+    {
+      "type": "edit",
+      "id": "2abb794d5021ea1d",
+      "item": {
+        "type": "paragraph",
+        "id": "2abb794d5021ea1d",
+        "text": "All pages in the [[Lineup]] are available to javascript in the browser. A page that wants data looks left in the lineup for pages with data to offer. "
+      },
+      "date": 1414088417408
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b900540905563cee"
+      },
+      "id": "b900540905563cee",
+      "type": "add",
+      "after": "2abb794d5021ea1d",
+      "date": 1414088427504
+    },
+    {
+      "type": "remove",
+      "id": "b900540905563cee",
+      "date": 1414088485615
+    },
+    {
+      "type": "edit",
+      "id": "2abb794d5021ea1d",
+      "item": {
+        "type": "paragraph",
+        "id": "2abb794d5021ea1d",
+        "text": "All pages in the [[Lineup]] are available to javascript in the browser. A page that wants data looks left in the lineup for pages with data to offer. Data then flows left to right."
+      },
+      "date": 1414088501798
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cc5f3e8f9780113b",
+        "text": ""
+      },
+      "id": "cc5f3e8f9780113b",
+      "type": "add",
+      "after": "2abb794d5021ea1d",
+      "date": 1414088501808
+    },
+    {
+      "type": "remove",
+      "id": "cc5f3e8f9780113b",
+      "date": 1414088548737
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9eedfac71abc6736"
+      },
+      "id": "9eedfac71abc6736",
+      "type": "add",
+      "after": "2abb794d5021ea1d",
+      "date": 1414088575886
+    },
+    {
+      "type": "remove",
+      "id": "9eedfac71abc6736",
+      "date": 1414088645689
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "41c1813816f6a26d"
+      },
+      "id": "41c1813816f6a26d",
+      "type": "add",
+      "after": "2abb794d5021ea1d",
+      "date": 1414097611412
+    },
+    {
+      "type": "edit",
+      "id": "41c1813816f6a26d",
+      "item": {
+        "type": "paragraph",
+        "id": "41c1813816f6a26d",
+        "text": "A page may appear multiply within the lineup. Although it is the same page in both places, the computations it performs vary with the data if finds around it."
+      },
+      "date": 1414097715846
+    },
+    {
+      "type": "edit",
+      "id": "41c1813816f6a26d",
+      "item": {
+        "type": "paragraph",
+        "id": "41c1813816f6a26d",
+        "text": "A page may appear multiply within the lineup. Although it is the same page in both places, the computations it performs can vary with the data if finds around it."
+      },
+      "date": 1414097768295
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "28221fbde4ba139c"
+      },
+      "id": "28221fbde4ba139c",
+      "type": "add",
+      "after": "41c1813816f6a26d",
+      "date": 1414097791126
+    },
+    {
+      "type": "edit",
+      "id": "28221fbde4ba139c",
+      "item": {
+        "type": "method",
+        "id": "28221fbde4ba139c",
+        "text": "99 Bottles of Beer"
+      },
+      "date": 1414097803574
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b52a8fbb1cac0d99"
+      },
+      "id": "b52a8fbb1cac0d99",
+      "type": "add",
+      "after": "28221fbde4ba139c",
+      "date": 1414097807936
+    },
+    {
+      "type": "edit",
+      "id": "b52a8fbb1cac0d99",
+      "item": {
+        "type": "paragraph",
+        "id": "b52a8fbb1cac0d99",
+        "text": "[[Take one Down]] pass it around ..."
+      },
+      "date": 1414097837414
+    },
+    {
+      "type": "edit",
+      "id": "b52a8fbb1cac0d99",
+      "item": {
+        "type": "paragraph",
+        "id": "b52a8fbb1cac0d99",
+        "text": "[[Take One Down]] pass it around ..."
+      },
+      "date": 1414097874849
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538750706350
+    }
+  ]
+}

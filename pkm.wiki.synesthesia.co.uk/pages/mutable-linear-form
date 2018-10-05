@@ -1,0 +1,672 @@
+{
+  "title": "Mutable Linear Form",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9a297d180b4eeeaa",
+      "text": "We demand the simplicity of unidimensional sequence for that makes most decisions reduce to one of priority. Markup struggles under page layout notations when the page is wide and must be filled for efficiency. Rather than limitation, linear form is a gift to the next editor."
+    },
+    {
+      "type": "paragraph",
+      "id": "a3aa68af15e3c020",
+      "text": "Sites within the wiki federation share content that is on its surface simply lists encoded in JSON."
+    },
+    {
+      "type": "paragraph",
+      "id": "c9ee8887c0e5c988",
+      "text": "[[In Praise of Lists]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0e6d0e04dddf9922",
+      "text": "[[JSON Schema]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1f14f6ce79e41b49",
+      "text": "A site renders lists as wiki pages using builtin and plugin javascript modules. Most have their own markup."
+    },
+    {
+      "type": "paragraph",
+      "id": "8cb207d2419c2d71",
+      "text": "[[Lineup Computing]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d9a4e5cbcafc5304",
+      "text": "[[About Method Plugin]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "852e8f0ea252a844",
+      "text": "[[Computational Plugins]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c552475ca4a95eef",
+      "text": "[[Radar Data in Data Plugins]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "039196d20335850b",
+      "text": "We distribute plugins as npm packages backed by public github repositories."
+    },
+    {
+      "type": "paragraph",
+      "id": "f4748b8b193c773f",
+      "text": "[[About Plugins]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7633011323c43454",
+      "text": "We distribute scripts we've used to import various document formats into wiki's linear form."
+    },
+    {
+      "type": "paragraph",
+      "id": "5349ad0aab592561",
+      "text": "[[About Importers]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Mutable Linear Form",
+        "story": []
+      },
+      "date": 1413952784144
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9a297d180b4eeeaa"
+      },
+      "id": "9a297d180b4eeeaa",
+      "type": "add",
+      "date": 1413952804544
+    },
+    {
+      "type": "edit",
+      "id": "9a297d180b4eeeaa",
+      "item": {
+        "type": "paragraph",
+        "id": "9a297d180b4eeeaa",
+        "text": "We demand the simplicity of unidimentinal "
+      },
+      "date": 1413953001270
+    },
+    {
+      "type": "edit",
+      "id": "9a297d180b4eeeaa",
+      "item": {
+        "type": "paragraph",
+        "id": "9a297d180b4eeeaa",
+        "text": "We demand the simplicity of unidimensional sequence for that makes most decisions reduce to one of priority. Markup struggles under page layout notations when the page is wide and must be filled for efficiency. Rather than limitation, linear form is a gift to the next editor."
+      },
+      "date": 1413953417165
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0e6d0e04dddf9922"
+      },
+      "id": "0e6d0e04dddf9922",
+      "type": "add",
+      "after": "9a297d180b4eeeaa",
+      "date": 1413953663888
+    },
+    {
+      "type": "edit",
+      "id": "0e6d0e04dddf9922",
+      "item": {
+        "type": "paragraph",
+        "id": "0e6d0e04dddf9922",
+        "text": "story items moved"
+      },
+      "date": 1413953723817
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8cb207d2419c2d71",
+        "text": ""
+      },
+      "id": "8cb207d2419c2d71",
+      "type": "add",
+      "after": "0e6d0e04dddf9922",
+      "date": 1413953723827
+    },
+    {
+      "type": "edit",
+      "id": "8cb207d2419c2d71",
+      "item": {
+        "type": "paragraph",
+        "id": "8cb207d2419c2d71",
+        "text": "data flows left to right"
+      },
+      "date": 1413953802858
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "362da27827942eee",
+        "text": ""
+      },
+      "id": "362da27827942eee",
+      "type": "add",
+      "after": "8cb207d2419c2d71",
+      "date": 1413953802866
+    },
+    {
+      "type": "remove",
+      "id": "362da27827942eee",
+      "date": 1413953833982
+    },
+    {
+      "type": "edit",
+      "id": "8cb207d2419c2d71",
+      "item": {
+        "type": "paragraph",
+        "id": "8cb207d2419c2d71",
+        "text": "data flowing left to right"
+      },
+      "date": 1413953883473
+    },
+    {
+      "type": "edit",
+      "id": "0e6d0e04dddf9922",
+      "item": {
+        "type": "paragraph",
+        "id": "0e6d0e04dddf9922",
+        "text": "story items ordered"
+      },
+      "date": 1413953889784
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d9a4e5cbcafc5304",
+        "text": ""
+      },
+      "id": "d9a4e5cbcafc5304",
+      "type": "add",
+      "after": "8cb207d2419c2d71",
+      "date": 1413953901837
+    },
+    {
+      "type": "edit",
+      "id": "d9a4e5cbcafc5304",
+      "item": {
+        "type": "paragraph",
+        "id": "d9a4e5cbcafc5304",
+        "text": "middle-school math"
+      },
+      "date": 1413953929010
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5349ad0aab592561",
+        "text": ""
+      },
+      "id": "5349ad0aab592561",
+      "type": "add",
+      "after": "d9a4e5cbcafc5304",
+      "date": 1413953972998
+    },
+    {
+      "type": "edit",
+      "id": "5349ad0aab592561",
+      "item": {
+        "type": "paragraph",
+        "id": "5349ad0aab592561",
+        "text": "journal merge"
+      },
+      "date": 1413953978435
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bc0b802e49770152",
+        "text": ""
+      },
+      "id": "bc0b802e49770152",
+      "type": "add",
+      "after": "5349ad0aab592561",
+      "date": 1413955093391
+    },
+    {
+      "type": "edit",
+      "id": "bc0b802e49770152",
+      "item": {
+        "type": "paragraph",
+        "id": "bc0b802e49770152",
+        "text": "robotic traversal"
+      },
+      "date": 1413955113695
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c9ee8887c0e5c988",
+        "text": "adjacency in sequence"
+      },
+      "after": "9a297d180b4eeeaa",
+      "id": "c9ee8887c0e5c988",
+      "date": 1414075128947
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c552475ca4a95eef",
+        "text": "[[Radar Data in Data Plugins]]"
+      },
+      "after": "bc0b802e49770152",
+      "id": "c552475ca4a95eef",
+      "date": 1414078053513
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ff4230812bbb4694",
+        "text": "repetition in form"
+      },
+      "after": "c552475ca4a95eef",
+      "id": "ff4230812bbb4694",
+      "date": 1414079855600
+    },
+    {
+      "type": "edit",
+      "id": "8cb207d2419c2d71",
+      "item": {
+        "type": "paragraph",
+        "id": "8cb207d2419c2d71",
+        "text": "[[Lineup Computation]]"
+      },
+      "date": 1414091251388
+    },
+    {
+      "type": "edit",
+      "id": "8cb207d2419c2d71",
+      "item": {
+        "type": "paragraph",
+        "id": "8cb207d2419c2d71",
+        "text": "[[Lineup Calculation]]"
+      },
+      "date": 1414091264242
+    },
+    {
+      "type": "edit",
+      "id": "8cb207d2419c2d71",
+      "item": {
+        "type": "paragraph",
+        "id": "8cb207d2419c2d71",
+        "text": "[[Lineup Computing]]"
+      },
+      "date": 1414091299341
+    },
+    {
+      "type": "edit",
+      "id": "0e6d0e04dddf9922",
+      "item": {
+        "type": "paragraph",
+        "id": "0e6d0e04dddf9922",
+        "text": "[[JSON Schema]]"
+      },
+      "date": 1414091366022
+    },
+    {
+      "type": "move",
+      "order": [
+        "9a297d180b4eeeaa",
+        "c9ee8887c0e5c988",
+        "0e6d0e04dddf9922",
+        "8cb207d2419c2d71",
+        "c552475ca4a95eef",
+        "d9a4e5cbcafc5304",
+        "5349ad0aab592561",
+        "bc0b802e49770152",
+        "ff4230812bbb4694"
+      ],
+      "id": "c552475ca4a95eef",
+      "date": 1414091415501
+    },
+    {
+      "type": "edit",
+      "id": "c9ee8887c0e5c988",
+      "item": {
+        "type": "paragraph",
+        "id": "c9ee8887c0e5c988",
+        "text": "[[In Praise of Lists]]"
+      },
+      "date": 1414091504422
+    },
+    {
+      "type": "edit",
+      "id": "d9a4e5cbcafc5304",
+      "item": {
+        "type": "paragraph",
+        "id": "d9a4e5cbcafc5304",
+        "text": "[[About Method Plugin]]"
+      },
+      "date": 1414098595594
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a3aa68af15e3c020",
+        "text": ""
+      },
+      "id": "a3aa68af15e3c020",
+      "type": "add",
+      "after": "9a297d180b4eeeaa",
+      "date": 1414099141192
+    },
+    {
+      "type": "edit",
+      "id": "a3aa68af15e3c020",
+      "item": {
+        "type": "paragraph",
+        "id": "a3aa68af15e3c020",
+        "text": "Sites within the wiki federation share content in its simplest form, lists of things."
+      },
+      "date": 1414099274373
+    },
+    {
+      "type": "edit",
+      "id": "a3aa68af15e3c020",
+      "item": {
+        "type": "paragraph",
+        "id": "a3aa68af15e3c020",
+        "text": "Sites within the wiki federation share content that on its surface is simply lists."
+      },
+      "date": 1414099342813
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a6fd3e9c5f1f352d",
+        "text": ""
+      },
+      "id": "a6fd3e9c5f1f352d",
+      "type": "add",
+      "after": "0e6d0e04dddf9922",
+      "date": 1414099352979
+    },
+    {
+      "type": "remove",
+      "id": "a6fd3e9c5f1f352d",
+      "date": 1414099395817
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1f14f6ce79e41b49",
+        "text": ""
+      },
+      "id": "1f14f6ce79e41b49",
+      "type": "add",
+      "after": "0e6d0e04dddf9922",
+      "date": 1414099415144
+    },
+    {
+      "type": "edit",
+      "id": "1f14f6ce79e41b49",
+      "item": {
+        "type": "paragraph",
+        "id": "1f14f6ce79e41b49",
+        "text": "A site renders lists as wiki pages using built-in and plugin javascript modules, distributed separately, as open source, using npm."
+      },
+      "date": 1414099660619
+    },
+    {
+      "type": "edit",
+      "id": "1f14f6ce79e41b49",
+      "item": {
+        "type": "paragraph",
+        "id": "1f14f6ce79e41b49",
+        "text": "A site renders lists as wiki pages using builtin and plugin javascript modules. We distribute plugins as npm packages backed by public github repositories."
+      },
+      "date": 1414099766552
+    },
+    {
+      "type": "edit",
+      "id": "1f14f6ce79e41b49",
+      "item": {
+        "type": "paragraph",
+        "id": "1f14f6ce79e41b49",
+        "text": "A site renders lists as wiki pages using builtin and plugin javascript modules."
+      },
+      "date": 1414099784989
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "039196d20335850b",
+        "text": "We distribute plugins as npm packages backed by public github repositories."
+      },
+      "id": "039196d20335850b",
+      "type": "add",
+      "after": "1f14f6ce79e41b49",
+      "date": 1414099784998
+    },
+    {
+      "type": "move",
+      "order": [
+        "9a297d180b4eeeaa",
+        "a3aa68af15e3c020",
+        "c9ee8887c0e5c988",
+        "0e6d0e04dddf9922",
+        "1f14f6ce79e41b49",
+        "8cb207d2419c2d71",
+        "c552475ca4a95eef",
+        "d9a4e5cbcafc5304",
+        "039196d20335850b",
+        "5349ad0aab592561",
+        "bc0b802e49770152",
+        "ff4230812bbb4694"
+      ],
+      "id": "039196d20335850b",
+      "date": 1414099795186
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f4748b8b193c773f",
+        "text": ""
+      },
+      "id": "f4748b8b193c773f",
+      "type": "add",
+      "after": "039196d20335850b",
+      "date": 1414099874914
+    },
+    {
+      "type": "edit",
+      "id": "f4748b8b193c773f",
+      "item": {
+        "type": "paragraph",
+        "id": "f4748b8b193c773f",
+        "text": "[[About Plugins]]"
+      },
+      "date": 1414099880863
+    },
+    {
+      "type": "edit",
+      "id": "a3aa68af15e3c020",
+      "item": {
+        "type": "paragraph",
+        "id": "a3aa68af15e3c020",
+        "text": "Sites within the wiki federation share content that is on its surface simply lists."
+      },
+      "date": 1414099965704
+    },
+    {
+      "type": "edit",
+      "id": "a3aa68af15e3c020",
+      "item": {
+        "type": "paragraph",
+        "id": "a3aa68af15e3c020",
+        "text": "Sites within the wiki federation share content that is on its surface simply lists encoded in JSON."
+      },
+      "date": 1414100019357
+    },
+    {
+      "type": "move",
+      "order": [
+        "9a297d180b4eeeaa",
+        "a3aa68af15e3c020",
+        "c9ee8887c0e5c988",
+        "0e6d0e04dddf9922",
+        "1f14f6ce79e41b49",
+        "8cb207d2419c2d71",
+        "d9a4e5cbcafc5304",
+        "c552475ca4a95eef",
+        "039196d20335850b",
+        "f4748b8b193c773f",
+        "5349ad0aab592561",
+        "bc0b802e49770152",
+        "ff4230812bbb4694"
+      ],
+      "id": "d9a4e5cbcafc5304",
+      "date": 1414100045818
+    },
+    {
+      "type": "edit",
+      "id": "1f14f6ce79e41b49",
+      "item": {
+        "type": "paragraph",
+        "id": "1f14f6ce79e41b49",
+        "text": "A site renders lists as wiki pages using builtin and plugin javascript modules. Most have their own markup."
+      },
+      "date": 1414100165809
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2bb1c02e1245e6c2",
+        "text": ""
+      },
+      "id": "2bb1c02e1245e6c2",
+      "type": "add",
+      "after": "f4748b8b193c773f",
+      "date": 1414100418211
+    },
+    {
+      "type": "remove",
+      "id": "2bb1c02e1245e6c2",
+      "date": 1414100480194
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e35373a67627a4da",
+        "text": ""
+      },
+      "id": "e35373a67627a4da",
+      "type": "add",
+      "after": "f4748b8b193c773f",
+      "date": 1414100741733
+    },
+    {
+      "type": "edit",
+      "id": "e35373a67627a4da",
+      "item": {
+        "type": "paragraph",
+        "id": "e35373a67627a4da",
+        "text": "[[About Factory Plugin]]"
+      },
+      "date": 1414100832345
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b4910e753be08d3f",
+        "text": ""
+      },
+      "id": "b4910e753be08d3f",
+      "type": "add",
+      "after": "f4748b8b193c773f",
+      "date": 1414100951599
+    },
+    {
+      "type": "remove",
+      "id": "b4910e753be08d3f",
+      "date": 1414100964021
+    },
+    {
+      "type": "remove",
+      "id": "e35373a67627a4da",
+      "date": 1414101071423
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7633011323c43454",
+        "text": ""
+      },
+      "id": "7633011323c43454",
+      "type": "add",
+      "after": "f4748b8b193c773f",
+      "date": 1414101079409
+    },
+    {
+      "type": "edit",
+      "id": "7633011323c43454",
+      "item": {
+        "type": "paragraph",
+        "id": "7633011323c43454",
+        "text": "We distribute scripts we've used to import various document formats into wiki's linear form."
+      },
+      "date": 1414101244315
+    },
+    {
+      "type": "remove",
+      "id": "ff4230812bbb4694",
+      "date": 1414101317000
+    },
+    {
+      "type": "remove",
+      "id": "bc0b802e49770152",
+      "date": 1414101319708
+    },
+    {
+      "type": "edit",
+      "id": "5349ad0aab592561",
+      "item": {
+        "type": "paragraph",
+        "id": "5349ad0aab592561",
+        "text": "[[About Importers]]"
+      },
+      "date": 1414101337031
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "852e8f0ea252a844",
+        "text": ""
+      },
+      "id": "852e8f0ea252a844",
+      "type": "add",
+      "after": "d9a4e5cbcafc5304",
+      "date": 1414126455816
+    },
+    {
+      "type": "edit",
+      "id": "852e8f0ea252a844",
+      "item": {
+        "type": "paragraph",
+        "id": "852e8f0ea252a844",
+        "text": "[[Computational Plugins]]"
+      },
+      "date": 1414126460566
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538750494132
+    }
+  ]
+}

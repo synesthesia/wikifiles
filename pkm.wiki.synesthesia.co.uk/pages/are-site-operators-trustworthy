@@ -1,0 +1,51 @@
+{
+  "title": "Are Site Operators Trustworthy",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ae05a61062fe98c6",
+      "text": "site operators might not protect their site from others"
+    },
+    {
+      "type": "paragraph",
+      "id": "3c8b7a84dd722f4e",
+      "text": "the journal may not be accurate due to errors or tampering."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Are Site Operators Trustworthy",
+        "story": []
+      },
+      "date": 1414118094198
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ae05a61062fe98c6",
+        "text": "site operators might not protect their site from others"
+      },
+      "id": "ae05a61062fe98c6",
+      "date": 1414118098260
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "3c8b7a84dd722f4e",
+        "text": "the journal may not be accurate due to errors or tampering."
+      },
+      "after": "ae05a61062fe98c6",
+      "id": "3c8b7a84dd722f4e",
+      "date": 1414118102436
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538751468538
+    }
+  ]
+}

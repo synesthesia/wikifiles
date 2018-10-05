@@ -1,0 +1,312 @@
+{
+  "title": "About Flags",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "176e86b5066622ec",
+      "text": "Wiki uses flags where other sites might use icons. Flags all have a family resemblance: squares of solid color with a gentle gradient. Flags always stand for navigating to specific sites within the federation."
+    },
+    {
+      "type": "paragraph",
+      "id": "e44f416fb218da8c",
+      "text": "Every site flies a flag that identifies content it serves."
+    },
+    {
+      "type": "paragraph",
+      "id": "eaf7b38d456d87e5",
+      "text": "Hover over a flag to learn more about a particular use."
+    },
+    {
+      "type": "paragraph",
+      "id": "a73751c735ee4e92",
+      "text": "Click a flag to retrieve more from the specific site."
+    },
+    {
+      "type": "paragraph",
+      "id": "93d9ee45a6b31698",
+      "text": "When navigating wiki clicking links we expect it to find the closest or most appropriate copy of pages that may be duplicated throughout the federation. We can click flags to be more specific about which copy we want."
+    },
+    {
+      "type": "paragraph",
+      "id": "200e9bbd2767c4a5",
+      "text": "Click a title flag to start over at the site's welcome page."
+    },
+    {
+      "type": "paragraph",
+      "id": "1c5a5bdfda639c54",
+      "text": "Click a twin page flag to see the twin version of a page."
+    },
+    {
+      "type": "paragraph",
+      "id": "dcddf47281a0beae",
+      "text": "Click a neighborhood flag to lineup its welcome page."
+    },
+    {
+      "type": "paragraph",
+      "id": "3a10a96fd6006cc3",
+      "text": "Click a reference flag to see the site's referenced page."
+    },
+    {
+      "type": "paragraph",
+      "id": "b3b996af758fc7d8",
+      "text": "Click a fork action flag to see current from the site."
+    },
+    {
+      "type": "paragraph",
+      "id": "eed5bed900a994be",
+      "text": "Click a Recent Changes flag to see current from the site."
+    },
+    {
+      "type": "paragraph",
+      "id": "fc87562f901cbaa4",
+      "text": "A flag will appear gray if the site is not online or is unaccessible due to other network considerations. Reloading a page will give a site a second chance to deliver its flag. Browsers vary in how they cache images. "
+    },
+    {
+      "type": "paragraph",
+      "id": "ad4f235e589f7bf2",
+      "text": "A flag will spin while wiki waits for a new neighborhood sitemap. Failed requests show as crooked flags."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "About Flags",
+        "story": []
+      },
+      "date": 1414103294371
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "176e86b5066622ec"
+      },
+      "id": "176e86b5066622ec",
+      "type": "add",
+      "date": 1414103296206
+    },
+    {
+      "type": "edit",
+      "id": "176e86b5066622ec",
+      "item": {
+        "type": "paragraph",
+        "id": "176e86b5066622ec",
+        "text": "Wiki uses flags where other sites might use icons. Flags all have a family resemblance: squares of solid color with a gentle gradient. Flags always stand for navigating to specific sites within the federation."
+      },
+      "date": 1414103486074
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e44f416fb218da8c",
+        "text": "Every site flies a flag that identifies content it serves."
+      },
+      "after": "176e86b5066622ec",
+      "id": "e44f416fb218da8c",
+      "date": 1414103498294
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "eaf7b38d456d87e5",
+        "text": "Hover over a flag to learn more about a particular use."
+      },
+      "after": "e44f416fb218da8c",
+      "id": "eaf7b38d456d87e5",
+      "date": 1414103501791
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a73751c735ee4e92",
+        "text": "Click a flag to retrieve more from the specific site."
+      },
+      "after": "eaf7b38d456d87e5",
+      "id": "a73751c735ee4e92",
+      "date": 1414103505248
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "93d9ee45a6b31698",
+        "text": "When navigating wiki clicking links we expect it to find the closest or most appropriate copy of pages that may be duplicated throughout the federation. We can click flags to be more specific about which copy we want."
+      },
+      "after": "a73751c735ee4e92",
+      "id": "93d9ee45a6b31698",
+      "date": 1414103514292
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "200e9bbd2767c4a5",
+        "text": "Click a title flag to start over at the site's welcome page."
+      },
+      "after": "93d9ee45a6b31698",
+      "id": "200e9bbd2767c4a5",
+      "date": 1414103519010
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "1c5a5bdfda639c54",
+        "text": "Click a twin page flag to see the twin version of a page."
+      },
+      "after": "200e9bbd2767c4a5",
+      "id": "1c5a5bdfda639c54",
+      "date": 1414103523768
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "dcddf47281a0beae",
+        "text": "Click a neighborhood flag to lineup its welcome page."
+      },
+      "after": "1c5a5bdfda639c54",
+      "id": "dcddf47281a0beae",
+      "date": 1414103527259
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3a10a96fd6006cc3"
+      },
+      "id": "3a10a96fd6006cc3",
+      "type": "add",
+      "after": "dcddf47281a0beae",
+      "date": 1414103537039
+    },
+    {
+      "type": "edit",
+      "id": "3a10a96fd6006cc3",
+      "item": {
+        "type": "paragraph",
+        "id": "3a10a96fd6006cc3",
+        "text": "Click a reference flag to see the referenced page from the referenced site."
+      },
+      "date": 1414103602606
+    },
+    {
+      "type": "edit",
+      "id": "3a10a96fd6006cc3",
+      "item": {
+        "type": "paragraph",
+        "id": "3a10a96fd6006cc3",
+        "text": "Click a reference flag to see the page from the referenced site."
+      },
+      "date": 1414103611843
+    },
+    {
+      "type": "edit",
+      "id": "3a10a96fd6006cc3",
+      "item": {
+        "type": "paragraph",
+        "id": "3a10a96fd6006cc3",
+        "text": "Click a reference flag to see the site's referenced page."
+      },
+      "date": 1414103681114
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b3b996af758fc7d8"
+      },
+      "id": "b3b996af758fc7d8",
+      "type": "add",
+      "after": "3a10a96fd6006cc3",
+      "date": 1414103688002
+    },
+    {
+      "type": "edit",
+      "id": "b3b996af758fc7d8",
+      "item": {
+        "type": "paragraph",
+        "id": "b3b996af758fc7d8",
+        "text": "Click a fork action flag to see current from the site."
+      },
+      "date": 1414103774454
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "eed5bed900a994be",
+        "text": ""
+      },
+      "id": "eed5bed900a994be",
+      "type": "add",
+      "after": "b3b996af758fc7d8",
+      "date": 1414103784521
+    },
+    {
+      "type": "edit",
+      "id": "eed5bed900a994be",
+      "item": {
+        "type": "paragraph",
+        "id": "eed5bed900a994be",
+        "text": "Click a Recent Changes flag to see current from the site."
+      },
+      "date": 1414103832949
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fc87562f901cbaa4",
+        "text": "A flag will appear gray if the site is not online or is unaccessible due to other network considerations. Reloading a page will give a site a second chance to deliver its flag. Browsers vary in how they cache images. "
+      },
+      "id": "fc87562f901cbaa4",
+      "type": "add",
+      "after": "eed5bed900a994be",
+      "date": 1414108278995
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ad4f235e589f7bf2",
+        "text": "A flag will spin while wiki waits for a new neighborhood sitemap. Failed requests show as crooked flags."
+      },
+      "id": "ad4f235e589f7bf2",
+      "type": "add",
+      "after": "fc87562f901cbaa4",
+      "date": 1414108556890
+    },
+    {
+      "type": "edit",
+      "id": "fc87562f901cbaa4",
+      "item": {
+        "type": "paragraph",
+        "id": "fc87562f901cbaa4",
+        "text": "A flag will appear gray if the site is not online or is unaccessible due to other network considerations. Reloading a page will give a site a second chance to deliver its flag. Browsers vary in how they cache images. "
+      },
+      "date": 1414108556877
+    },
+    {
+      "type": "edit",
+      "id": "ad4f235e589f7bf2",
+      "item": {
+        "type": "paragraph",
+        "id": "ad4f235e589f7bf2",
+        "text": "A flag will spin while wiki waits for a new neighborhood sitemap. Failed requests show as crooked flags."
+      },
+      "date": 1414108983976,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1414108988983
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538751348592
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Signed Versions",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cdb19b229cb973fe",
+      "text": "cryptographic methods connecting wiki to other trust networks "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Signed Versions",
+        "story": []
+      },
+      "date": 1414118049809
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cdb19b229cb973fe"
+      },
+      "id": "cdb19b229cb973fe",
+      "type": "add",
+      "date": 1414118051345
+    },
+    {
+      "type": "edit",
+      "id": "cdb19b229cb973fe",
+      "item": {
+        "type": "paragraph",
+        "id": "cdb19b229cb973fe",
+        "text": "cryptographic methods connecting wiki to other trust networks "
+      },
+      "date": 1414118054984
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538751480930
+    }
+  ]
+}

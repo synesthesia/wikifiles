@@ -1,0 +1,685 @@
+{
+  "title": "Emergent Value in Proliferation",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "23470d9e72f50960",
+      "text": "The tradition in computing has been to avoid duplication for fear that inconsistency would emerge in the presents of change. We prefer to explore and exploit that inconsistency considering it a primary feature of wiki."
+    },
+    {
+      "type": "paragraph",
+      "id": "2dea733da61bcab7",
+      "text": "Like any cultural construction a wiki lives from the energy given to it by its users. Centralization of resources works against this vitality."
+    },
+    {
+      "type": "paragraph",
+      "id": "c83fe9be3246705e",
+      "text": "[[Rumor Monger]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1e322d94151abfb4",
+      "text": "[[Folk Memory]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c8eaa3dc295e18d7",
+      "text": "[[Preservation]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "efd5a8ee59133f68",
+      "text": "We recognize a tug-of-war between designed control of mechanism (the program) and emergent properties of scale (the system). With the natural world as a guide we create affordances within wiki in support of those processes."
+    },
+    {
+      "type": "paragraph",
+      "id": "99cdb2010deacb5d",
+      "text": "[[Escaping Addresses]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f66788b9a0c12f0b",
+      "text": "[[Apoptosis]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f100ae817362c9e8",
+      "text": "[[Stigmergy]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7dd4913a8d12b6e9",
+      "text": "[[Twin Pages]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f38ee2d23c671764",
+      "text": "[[Abstraction of Method]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "16f6d41b555da229",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "832bd9e429369feb",
+      "text": ""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Emergent Value in Proliferation",
+        "story": []
+      },
+      "date": 1413951276009
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "23470d9e72f50960"
+      },
+      "id": "23470d9e72f50960",
+      "type": "add",
+      "date": 1413951322539
+    },
+    {
+      "type": "edit",
+      "id": "23470d9e72f50960",
+      "item": {
+        "type": "paragraph",
+        "id": "23470d9e72f50960",
+        "text": "The tradition in computing has been to avoid duplication for fear that inconsistency would emerge in the presents of change. We prefer to explore and exploit that inconsistency considering it a primary feature of wiki."
+      },
+      "date": 1413951447462
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7dd4913a8d12b6e9"
+      },
+      "id": "7dd4913a8d12b6e9",
+      "type": "add",
+      "after": "23470d9e72f50960",
+      "date": 1413951496364
+    },
+    {
+      "type": "edit",
+      "id": "7dd4913a8d12b6e9",
+      "item": {
+        "type": "paragraph",
+        "id": "7dd4913a8d12b6e9",
+        "text": "twin sites"
+      },
+      "date": 1413951520285
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "16f6d41b555da229",
+        "text": ""
+      },
+      "id": "16f6d41b555da229",
+      "type": "add",
+      "after": "7dd4913a8d12b6e9",
+      "date": 1413951520293
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "832bd9e429369feb",
+        "text": ""
+      },
+      "id": "832bd9e429369feb",
+      "type": "add",
+      "after": "16f6d41b555da229",
+      "date": 1413951584160
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "034ef327315d33df",
+        "text": ""
+      },
+      "id": "034ef327315d33df",
+      "type": "add",
+      "after": "832bd9e429369feb",
+      "date": 1413951726695
+    },
+    {
+      "type": "remove",
+      "id": "034ef327315d33df",
+      "date": 1413951739970
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c800fc6ab2fb500f",
+        "text": ""
+      },
+      "id": "c800fc6ab2fb500f",
+      "type": "add",
+      "after": "7dd4913a8d12b6e9",
+      "date": 1413959181424
+    },
+    {
+      "type": "remove",
+      "id": "c800fc6ab2fb500f",
+      "date": 1413959194066
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c49b6c287966865a",
+        "text": ""
+      },
+      "id": "c49b6c287966865a",
+      "type": "add",
+      "after": "7dd4913a8d12b6e9",
+      "date": 1413959195221
+    },
+    {
+      "type": "edit",
+      "id": "c49b6c287966865a",
+      "item": {
+        "type": "paragraph",
+        "id": "c49b6c287966865a",
+        "text": "lead-user innovation"
+      },
+      "date": 1413959200326
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dcf1265069067880",
+        "text": ""
+      },
+      "id": "dcf1265069067880",
+      "type": "add",
+      "after": "c49b6c287966865a",
+      "date": 1413959200334
+    },
+    {
+      "type": "remove",
+      "id": "dcf1265069067880",
+      "date": 1413959277680
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c8eaa3dc295e18d7",
+        "text": ""
+      },
+      "id": "c8eaa3dc295e18d7",
+      "type": "add",
+      "after": "c49b6c287966865a",
+      "date": 1413959360457
+    },
+    {
+      "type": "edit",
+      "id": "c8eaa3dc295e18d7",
+      "item": {
+        "type": "paragraph",
+        "id": "c8eaa3dc295e18d7",
+        "text": "immortality"
+      },
+      "date": 1413959364662
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7d2ea253936c8dd4",
+        "text": ""
+      },
+      "id": "7d2ea253936c8dd4",
+      "type": "add",
+      "after": "c8eaa3dc295e18d7",
+      "date": 1413959364670
+    },
+    {
+      "type": "remove",
+      "id": "7d2ea253936c8dd4",
+      "date": 1413959375726
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1e322d94151abfb4"
+      },
+      "id": "1e322d94151abfb4",
+      "type": "add",
+      "after": "832bd9e429369feb",
+      "date": 1413984670769
+    },
+    {
+      "type": "edit",
+      "id": "1e322d94151abfb4",
+      "item": {
+        "type": "paragraph",
+        "id": "1e322d94151abfb4",
+        "text": "folk memory"
+      },
+      "date": 1413984679249
+    },
+    {
+      "type": "move",
+      "order": [
+        "23470d9e72f50960",
+        "1e322d94151abfb4",
+        "7dd4913a8d12b6e9",
+        "c49b6c287966865a",
+        "c8eaa3dc295e18d7",
+        "16f6d41b555da229",
+        "832bd9e429369feb"
+      ],
+      "id": "1e322d94151abfb4",
+      "date": 1413984682511
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c5590c2e53337316"
+      },
+      "id": "c5590c2e53337316",
+      "type": "add",
+      "after": "832bd9e429369feb",
+      "date": 1413984685372
+    },
+    {
+      "type": "remove",
+      "id": "c5590c2e53337316",
+      "date": 1413984707014
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f100ae817362c9e8",
+        "text": ""
+      },
+      "id": "f100ae817362c9e8",
+      "type": "add",
+      "after": "c8eaa3dc295e18d7",
+      "date": 1413987041777
+    },
+    {
+      "type": "edit",
+      "id": "f100ae817362c9e8",
+      "item": {
+        "type": "paragraph",
+        "id": "f100ae817362c9e8",
+        "text": "[[Stig"
+      },
+      "date": 1413987065721
+    },
+    {
+      "type": "edit",
+      "id": "f100ae817362c9e8",
+      "item": {
+        "type": "paragraph",
+        "id": "f100ae817362c9e8",
+        "text": "[[Stigmergy]]"
+      },
+      "date": 1413987083803
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f66788b9a0c12f0b",
+        "text": ""
+      },
+      "id": "f66788b9a0c12f0b",
+      "type": "add",
+      "after": "f100ae817362c9e8",
+      "date": 1413987376406
+    },
+    {
+      "type": "edit",
+      "id": "f66788b9a0c12f0b",
+      "item": {
+        "type": "paragraph",
+        "id": "f66788b9a0c12f0b",
+        "text": "[[Apoptosis]]"
+      },
+      "date": 1413987380549
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "99cdb2010deacb5d",
+        "text": ""
+      },
+      "id": "99cdb2010deacb5d",
+      "type": "add",
+      "after": "c8eaa3dc295e18d7",
+      "date": 1413989423946
+    },
+    {
+      "type": "edit",
+      "id": "99cdb2010deacb5d",
+      "item": {
+        "type": "paragraph",
+        "id": "99cdb2010deacb5d",
+        "text": "[[Escaping Addresses]]"
+      },
+      "date": 1413989432028
+    },
+    {
+      "type": "edit",
+      "id": "c8eaa3dc295e18d7",
+      "item": {
+        "type": "paragraph",
+        "id": "c8eaa3dc295e18d7",
+        "text": "preservation"
+      },
+      "date": 1413991068570
+    },
+    {
+      "type": "edit",
+      "id": "1e322d94151abfb4",
+      "item": {
+        "type": "paragraph",
+        "id": "1e322d94151abfb4",
+        "text": "[[Folk Memory]]"
+      },
+      "date": 1413991115825
+    },
+    {
+      "type": "edit",
+      "id": "7dd4913a8d12b6e9",
+      "item": {
+        "type": "paragraph",
+        "id": "7dd4913a8d12b6e9",
+        "text": "[[Twin Pages]]"
+      },
+      "date": 1414013363845
+    },
+    {
+      "type": "edit",
+      "id": "c8eaa3dc295e18d7",
+      "item": {
+        "type": "paragraph",
+        "id": "c8eaa3dc295e18d7",
+        "text": "[[Preservation]]"
+      },
+      "date": 1414015138189
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c83fe9be3246705e",
+        "text": ""
+      },
+      "id": "c83fe9be3246705e",
+      "type": "add",
+      "after": "f66788b9a0c12f0b",
+      "date": 1414035638783
+    },
+    {
+      "type": "edit",
+      "id": "c83fe9be3246705e",
+      "item": {
+        "type": "paragraph",
+        "id": "c83fe9be3246705e",
+        "text": "[[Rumor Monger]]"
+      },
+      "date": 1414035648685
+    },
+    {
+      "type": "move",
+      "order": [
+        "23470d9e72f50960",
+        "1e322d94151abfb4",
+        "c83fe9be3246705e",
+        "7dd4913a8d12b6e9",
+        "c49b6c287966865a",
+        "c8eaa3dc295e18d7",
+        "99cdb2010deacb5d",
+        "f100ae817362c9e8",
+        "f66788b9a0c12f0b",
+        "16f6d41b555da229",
+        "832bd9e429369feb"
+      ],
+      "id": "c83fe9be3246705e",
+      "date": 1414074923850
+    },
+    {
+      "type": "edit",
+      "id": "c49b6c287966865a",
+      "item": {
+        "type": "paragraph",
+        "id": "c49b6c287966865a",
+        "text": "assumed peer relationship"
+      },
+      "date": 1414075387020
+    },
+    {
+      "type": "remove",
+      "id": "c49b6c287966865a",
+      "date": 1414075425723
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2dea733da61bcab7",
+        "text": ""
+      },
+      "id": "2dea733da61bcab7",
+      "type": "add",
+      "after": "23470d9e72f50960",
+      "date": 1414075823025
+    },
+    {
+      "type": "edit",
+      "id": "2dea733da61bcab7",
+      "item": {
+        "type": "paragraph",
+        "id": "2dea733da61bcab7",
+        "text": "Like any cultural construction a wiki lives from the energy given to it by its users. Centralization of resources works against this vitality."
+      },
+      "date": 1414076114631
+    },
+    {
+      "type": "move",
+      "order": [
+        "23470d9e72f50960",
+        "2dea733da61bcab7",
+        "c83fe9be3246705e",
+        "1e322d94151abfb4",
+        "7dd4913a8d12b6e9",
+        "c8eaa3dc295e18d7",
+        "99cdb2010deacb5d",
+        "f100ae817362c9e8",
+        "f66788b9a0c12f0b",
+        "16f6d41b555da229",
+        "832bd9e429369feb"
+      ],
+      "id": "c83fe9be3246705e",
+      "date": 1414076121960
+    },
+    {
+      "type": "move",
+      "order": [
+        "23470d9e72f50960",
+        "2dea733da61bcab7",
+        "c83fe9be3246705e",
+        "1e322d94151abfb4",
+        "c8eaa3dc295e18d7",
+        "7dd4913a8d12b6e9",
+        "99cdb2010deacb5d",
+        "f100ae817362c9e8",
+        "f66788b9a0c12f0b",
+        "16f6d41b555da229",
+        "832bd9e429369feb"
+      ],
+      "id": "7dd4913a8d12b6e9",
+      "date": 1414076135351
+    },
+    {
+      "type": "move",
+      "order": [
+        "23470d9e72f50960",
+        "2dea733da61bcab7",
+        "c83fe9be3246705e",
+        "1e322d94151abfb4",
+        "c8eaa3dc295e18d7",
+        "99cdb2010deacb5d",
+        "f100ae817362c9e8",
+        "7dd4913a8d12b6e9",
+        "f66788b9a0c12f0b",
+        "16f6d41b555da229",
+        "832bd9e429369feb"
+      ],
+      "id": "7dd4913a8d12b6e9",
+      "date": 1414076141711
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "efd5a8ee59133f68",
+        "text": ""
+      },
+      "id": "efd5a8ee59133f68",
+      "type": "add",
+      "after": "c8eaa3dc295e18d7",
+      "date": 1414076168637
+    },
+    {
+      "type": "move",
+      "order": [
+        "23470d9e72f50960",
+        "2dea733da61bcab7",
+        "c83fe9be3246705e",
+        "1e322d94151abfb4",
+        "c8eaa3dc295e18d7",
+        "efd5a8ee59133f68",
+        "99cdb2010deacb5d",
+        "f100ae817362c9e8",
+        "f66788b9a0c12f0b",
+        "7dd4913a8d12b6e9",
+        "16f6d41b555da229",
+        "832bd9e429369feb"
+      ],
+      "id": "7dd4913a8d12b6e9",
+      "date": 1414077020599
+    },
+    {
+      "type": "move",
+      "order": [
+        "23470d9e72f50960",
+        "2dea733da61bcab7",
+        "c83fe9be3246705e",
+        "1e322d94151abfb4",
+        "c8eaa3dc295e18d7",
+        "efd5a8ee59133f68",
+        "99cdb2010deacb5d",
+        "f66788b9a0c12f0b",
+        "f100ae817362c9e8",
+        "7dd4913a8d12b6e9",
+        "16f6d41b555da229",
+        "832bd9e429369feb"
+      ],
+      "id": "f66788b9a0c12f0b",
+      "date": 1414077024359
+    },
+    {
+      "type": "edit",
+      "id": "efd5a8ee59133f68",
+      "item": {
+        "type": "paragraph",
+        "id": "efd5a8ee59133f68",
+        "text": "We recognize a tug-of-war between designed control of mechanism (the program) and emergent properties of scale (the system). With the natural world as a guide we create affordances within wiki in support of those processes."
+      },
+      "date": 1414077031227
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bef8bb27ecbbc566",
+        "text": ""
+      },
+      "id": "bef8bb27ecbbc566",
+      "type": "add",
+      "after": "7dd4913a8d12b6e9",
+      "date": 1414085517142
+    },
+    {
+      "type": "edit",
+      "id": "bef8bb27ecbbc566",
+      "item": {
+        "type": "paragraph",
+        "id": "bef8bb27ecbbc566",
+        "text": "[[Serendipitous Namespace Collisions]]"
+      },
+      "date": 1414085520318
+    },
+    {
+      "type": "remove",
+      "id": "bef8bb27ecbbc566",
+      "date": 1414085578474
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bb2382e1135efbf1",
+        "text": ""
+      },
+      "id": "bb2382e1135efbf1",
+      "type": "add",
+      "after": "23470d9e72f50960",
+      "date": 1414126226024
+    },
+    {
+      "type": "edit",
+      "id": "bb2382e1135efbf1",
+      "item": {
+        "type": "paragraph",
+        "id": "bb2382e1135efbf1",
+        "text": "[[Federated Wiki At One]]"
+      },
+      "date": 1414126238916
+    },
+    {
+      "type": "edit",
+      "id": "bb2382e1135efbf1",
+      "item": {
+        "type": "paragraph",
+        "id": "bb2382e1135efbf1",
+        "text": "[[Federated Wiki at One]]"
+      },
+      "date": 1414126264357
+    },
+    {
+      "type": "remove",
+      "id": "bb2382e1135efbf1",
+      "date": 1414126690734
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f38ee2d23c671764",
+        "text": ""
+      },
+      "id": "f38ee2d23c671764",
+      "type": "add",
+      "after": "7dd4913a8d12b6e9",
+      "date": 1414133746029
+    },
+    {
+      "type": "edit",
+      "id": "f38ee2d23c671764",
+      "item": {
+        "type": "paragraph",
+        "id": "f38ee2d23c671764",
+        "text": "[[Abstraction of Method]]"
+      },
+      "date": 1414133749829
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538750485442
+    }
+  ]
+}

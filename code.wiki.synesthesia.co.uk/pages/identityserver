@@ -1,0 +1,111 @@
+{
+  "title": "IdentityServer",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "65b0a82aeb4cbc93",
+      "text": "hints and tricks"
+    },
+    {
+      "type": "paragraph",
+      "id": "8c64c503cb992f8a",
+      "text": "Using IdentityServer3 as SSO source for Discourse (extended) [https://gist.github.com/synesthesia/5b32cc3f43d414a2a41030571c36381e github]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "IdentityServer",
+        "story": []
+      },
+      "date": 1538752436334
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d2d681b78adb6bde"
+      },
+      "id": "d2d681b78adb6bde",
+      "type": "add",
+      "date": 1538752438046
+    },
+    {
+      "type": "remove",
+      "id": "d2d681b78adb6bde",
+      "date": 1538752440652
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "04b308432dcdf0ce"
+      },
+      "id": "04b308432dcdf0ce",
+      "type": "add",
+      "date": 1538752442893
+    },
+    {
+      "type": "remove",
+      "id": "04b308432dcdf0ce",
+      "date": 1538752446774
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8c64c503cb992f8a"
+      },
+      "id": "8c64c503cb992f8a",
+      "type": "add",
+      "date": 1538752452554
+    },
+    {
+      "type": "edit",
+      "id": "8c64c503cb992f8a",
+      "item": {
+        "type": "paragraph",
+        "id": "8c64c503cb992f8a",
+        "text": "Using IdentityServer3 as SSO source for Discourse (extended) "
+      },
+      "date": 1538752458945
+    },
+    {
+      "type": "edit",
+      "id": "8c64c503cb992f8a",
+      "item": {
+        "type": "paragraph",
+        "id": "8c64c503cb992f8a",
+        "text": "Using IdentityServer3 as SSO source for Discourse (extended) [https://gist.github.com/synesthesia/5b32cc3f43d414a2a41030571c36381e github]"
+      },
+      "date": 1538752473711
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "65b0a82aeb4cbc93"
+      },
+      "id": "65b0a82aeb4cbc93",
+      "type": "add",
+      "after": "8c64c503cb992f8a",
+      "date": 1538752481027
+    },
+    {
+      "type": "edit",
+      "id": "65b0a82aeb4cbc93",
+      "item": {
+        "type": "pagefold",
+        "id": "65b0a82aeb4cbc93",
+        "text": "hints and tricks"
+      },
+      "date": 1538752489002
+    },
+    {
+      "type": "move",
+      "order": [
+        "65b0a82aeb4cbc93",
+        "8c64c503cb992f8a"
+      ],
+      "id": "65b0a82aeb4cbc93",
+      "date": 1538752490465
+    }
+  ]
+}

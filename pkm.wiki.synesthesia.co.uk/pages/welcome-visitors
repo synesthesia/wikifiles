@@ -33,11 +33,6 @@
       "text": "[[Inspirations]]"
     },
     {
-      "type": "markdown",
-      "id": "7a20c6ccff52ba9e",
-      "text": "Start pages forked from elsewhere:"
-    },
-    {
       "type": "paragraph",
       "id": "a67f176000831d2d",
       "text": "[[About This Site]]"
@@ -51,6 +46,10 @@
       "type": "markdown",
       "id": "b8d81c060d223a68",
       "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!*"
+    },
+    {
+      "type": "factory",
+      "id": "c1168d143b9dccf2"
     }
   ],
   "journal": [
@@ -538,6 +537,36 @@
       ],
       "id": "a67f176000831d2d",
       "date": 1538684143098
+    },
+    {
+      "type": "remove",
+      "id": "7a20c6ccff52ba9e",
+      "date": 1538751779362
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "160c82a98d88e248"
+      },
+      "id": "160c82a98d88e248",
+      "type": "add",
+      "after": "b8d81c060d223a68",
+      "date": 1538751787247
+    },
+    {
+      "type": "remove",
+      "id": "160c82a98d88e248",
+      "date": 1538751806945
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c1168d143b9dccf2"
+      },
+      "id": "c1168d143b9dccf2",
+      "type": "add",
+      "after": "b8d81c060d223a68",
+      "date": 1538751816502
     }
   ]
 }

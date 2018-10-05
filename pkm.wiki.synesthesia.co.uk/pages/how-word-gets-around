@@ -1,0 +1,1049 @@
+{
+  "title": "How Word Gets Around",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4266aae3d03f1fb3",
+      "text": "I often surprise myself at how pages and page names float around among the dozens of sites I've built for myself. I've got to enumerate these flows and will do so here."
+    },
+    {
+      "type": "html",
+      "id": "70c1d3f5efb14acc",
+      "text": "<h3> Principles"
+    },
+    {
+      "type": "paragraph",
+      "id": "a1e7ce496bfe8e83",
+      "text": "We accept that routine communication must work with participants only pulling content towards themselves. No one pushes towards us. Nothing can be that urgent."
+    },
+    {
+      "type": "paragraph",
+      "id": "844528ca7da7876e",
+      "text": "We accept the network realities of firewalls, platform providers and disconnects intentional or otherwise."
+    },
+    {
+      "type": "paragraph",
+      "id": "d47a64c3f8d023ea",
+      "text": "We allow ourselves to imagine operation at scale and design affordances into clients, servers and communication protocols that will work at scale."
+    },
+    {
+      "type": "html",
+      "id": "91b5cc11f6a4aa52",
+      "text": "<h3> Processes"
+    },
+    {
+      "type": "paragraph",
+      "id": "a2809b43b7fd957d",
+      "text": "I can follow the links that you follow. If I get from my site to your site then I can continue on to wherever you link. Those first links from my site to yours are the hardest."
+    },
+    {
+      "type": "html",
+      "id": "634706676f08181b",
+      "text": "<b>I link to you.</b> I must start at my site (origin) if I am to remember there anything of yours. When I fork the first page of your's I am then connected."
+    },
+    {
+      "type": "html",
+      "id": "44562c1bb16acdbf",
+      "text": "<i>origin (login) => How to Wiki (plugin) => List of Lists of Sites (search) => your site (browse or search) => your page (browse) => your page (forked)"
+    },
+    {
+      "type": "html",
+      "id": "8868dcf0c45b92d5",
+      "text": "<i>origin (login) => your page (changes) => your site (older or journal)"
+    },
+    {
+      "type": "html",
+      "id": "309f6aeafcae8aa2",
+      "text": "<b>You link back.</b> You will not be connected to me unless you take some action too. Say I email a link to the good work I'm doing with your pages."
+    },
+    {
+      "type": "html",
+      "id": "19e2993c3ea36885",
+      "text": "<i>origin (visitor) => my copy of your pages (browsing or changes) => your original pages (older or journal)"
+    },
+    {
+      "type": "html",
+      "id": "3072744c105b690a",
+      "text": "<i>origin (visitor) => Welcome Visitors (flag) => my name (link); second origin (login) => Collaborators (search) => reference to my name (factory, drag)"
+    },
+    {
+      "type": "html",
+      "id": "2d67077064aea612",
+      "text": "<i>origin (login) => Collaborators (search); your page (search) => my copy of your page (newer) => your page back (fork)"
+    },
+    {
+      "type": "html",
+      "id": "80826a804261c347",
+      "text": "<b>I discover pages.</b> Once we are in each other's neighborhoods we have other ways to discover content."
+    },
+    {
+      "type": "html",
+      "id": "dbec797206d37197",
+      "text": "<i>origin (login) => add [ [ new page ] ] link (edit) => new page (future) => your page (browse) => your page (forked)"
+    },
+    {
+      "type": "html",
+      "id": "926ac889f2102e21",
+      "text": "<b>You see me discover.</b> While I am in your neighborhood you will see my use of your pages."
+    },
+    {
+      "type": "html",
+      "id": "c7c22da96fc170f2",
+      "text": "<i>origin(login) => your page (browse) => my copy of your page (newer)"
+    },
+    {
+      "type": "html",
+      "id": "dfc22f1d5d3fdd07",
+      "text": "<b>I discover pages.</b> But I want to have my own but keep references to the discoveries."
+    },
+    {
+      "type": "paragraph",
+      "id": "75fe54ab85725d69",
+      "text": "origin (login) => add [ [ new page ] ] link (edit) => new page (future) => your page (browse); new page (create) => add factory; drag your page to factory => reference"
+    },
+    {
+      "type": "html",
+      "id": "b5259c5b12abc968",
+      "text": "<h3> To Do"
+    },
+    {
+      "type": "paragraph",
+      "id": "1fa4c170a0812d25",
+      "text": "human behavior"
+    },
+    {
+      "type": "paragraph",
+      "id": "b32ec9fb235d38e0",
+      "text": "diligence "
+    },
+    {
+      "type": "paragraph",
+      "id": "452d9b3470ac1288",
+      "text": "affordances"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "How Word Gets Around",
+        "story": []
+      },
+      "date": 1386525668100
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4266aae3d03f1fb3"
+      },
+      "id": "4266aae3d03f1fb3",
+      "type": "add",
+      "date": 1386525669969
+    },
+    {
+      "type": "edit",
+      "id": "4266aae3d03f1fb3",
+      "item": {
+        "type": "paragraph",
+        "id": "4266aae3d03f1fb3",
+        "text": "I often surprise myself at how pages and page names float around among the dozens of sites I've built for myself. I've got to enumerate these flows and will do so here."
+      },
+      "date": 1386525752124
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a1e7ce496bfe8e83"
+      },
+      "id": "a1e7ce496bfe8e83",
+      "type": "add",
+      "after": "4266aae3d03f1fb3",
+      "date": 1386525754888
+    },
+    {
+      "type": "edit",
+      "id": "a1e7ce496bfe8e83",
+      "item": {
+        "type": "paragraph",
+        "id": "a1e7ce496bfe8e83",
+        "text": "primitives"
+      },
+      "date": 1386525767458
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "70c1d3f5efb14acc",
+        "text": ""
+      },
+      "id": "70c1d3f5efb14acc",
+      "type": "add",
+      "after": "a1e7ce496bfe8e83",
+      "date": 1386525767964
+    },
+    {
+      "type": "edit",
+      "id": "70c1d3f5efb14acc",
+      "item": {
+        "type": "paragraph",
+        "id": "70c1d3f5efb14acc",
+        "text": "principles"
+      },
+      "date": 1386525777401
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "844528ca7da7876e",
+        "text": ""
+      },
+      "id": "844528ca7da7876e",
+      "type": "add",
+      "after": "70c1d3f5efb14acc",
+      "date": 1386525777906
+    },
+    {
+      "type": "edit",
+      "id": "844528ca7da7876e",
+      "item": {
+        "type": "paragraph",
+        "id": "844528ca7da7876e",
+        "text": "network realities (nat, 404, offline)"
+      },
+      "date": 1386525835960
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1fa4c170a0812d25"
+      },
+      "id": "1fa4c170a0812d25",
+      "type": "add",
+      "after": "844528ca7da7876e",
+      "date": 1386525847345
+    },
+    {
+      "type": "edit",
+      "id": "1fa4c170a0812d25",
+      "item": {
+        "type": "paragraph",
+        "id": "1fa4c170a0812d25",
+        "text": "human behavior"
+      },
+      "date": 1386525855809
+    },
+    {
+      "type": "move",
+      "order": [
+        "4266aae3d03f1fb3",
+        "70c1d3f5efb14acc",
+        "a1e7ce496bfe8e83",
+        "844528ca7da7876e",
+        "1fa4c170a0812d25"
+      ],
+      "id": "70c1d3f5efb14acc",
+      "date": 1386525875051
+    },
+    {
+      "type": "edit",
+      "id": "70c1d3f5efb14acc",
+      "item": {
+        "type": "paragraph",
+        "id": "70c1d3f5efb14acc",
+        "text": "<h3> Principles"
+      },
+      "date": 1386525886199
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "91b5cc11f6a4aa52",
+        "text": ""
+      },
+      "id": "91b5cc11f6a4aa52",
+      "type": "add",
+      "after": "844528ca7da7876e",
+      "date": 1386525894141
+    },
+    {
+      "type": "edit",
+      "id": "91b5cc11f6a4aa52",
+      "item": {
+        "type": "paragraph",
+        "id": "91b5cc11f6a4aa52",
+        "text": "<h3> Processes"
+      },
+      "date": 1386525921661
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b32ec9fb235d38e0"
+      },
+      "id": "b32ec9fb235d38e0",
+      "type": "add",
+      "after": "1fa4c170a0812d25",
+      "date": 1386525924453
+    },
+    {
+      "type": "edit",
+      "id": "b32ec9fb235d38e0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32ec9fb235d38e0",
+        "text": "diligence "
+      },
+      "date": 1386525942605
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "452d9b3470ac1288"
+      },
+      "id": "452d9b3470ac1288",
+      "type": "add",
+      "after": "b32ec9fb235d38e0",
+      "date": 1386525944512
+    },
+    {
+      "type": "edit",
+      "id": "452d9b3470ac1288",
+      "item": {
+        "type": "paragraph",
+        "id": "452d9b3470ac1288",
+        "text": "affordances"
+      },
+      "date": 1386525960244
+    },
+    {
+      "type": "edit",
+      "id": "a1e7ce496bfe8e83",
+      "item": {
+        "type": "paragraph",
+        "id": "a1e7ce496bfe8e83",
+        "text": "We accept that routine communication must work with participants only pulling content towards themselves. No one pushes towards us. Nothing can be that urgent."
+      },
+      "date": 1386535030939
+    },
+    {
+      "type": "edit",
+      "id": "844528ca7da7876e",
+      "item": {
+        "type": "paragraph",
+        "id": "844528ca7da7876e",
+        "text": "We accept the network realities of firewalls, platform providers and disconnects intentional or otherwise."
+      },
+      "date": 1386535135554
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d47a64c3f8d023ea",
+        "text": ""
+      },
+      "id": "d47a64c3f8d023ea",
+      "type": "add",
+      "after": "844528ca7da7876e",
+      "date": 1386535136061
+    },
+    {
+      "type": "edit",
+      "id": "d47a64c3f8d023ea",
+      "item": {
+        "type": "paragraph",
+        "id": "d47a64c3f8d023ea",
+        "text": "We allow ourselves to imagine operation at scale and design affordances into clients, servers and communication protocols that will work at scale."
+      },
+      "date": 1386535190142
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a2809b43b7fd957d",
+        "text": ""
+      },
+      "id": "a2809b43b7fd957d",
+      "type": "add",
+      "after": "91b5cc11f6a4aa52",
+      "date": 1386535240269
+    },
+    {
+      "type": "edit",
+      "id": "a2809b43b7fd957d",
+      "item": {
+        "type": "paragraph",
+        "id": "a2809b43b7fd957d",
+        "text": "I can follow the links that you follow. If I get from my site to your site then I can continue on to wherever you link. Those first links from my site to yours are the hardest."
+      },
+      "date": 1386535345497
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "634706676f08181b",
+        "text": ""
+      },
+      "id": "634706676f08181b",
+      "type": "add",
+      "after": "a2809b43b7fd957d",
+      "date": 1386535346003
+    },
+    {
+      "type": "edit",
+      "id": "634706676f08181b",
+      "item": {
+        "type": "paragraph",
+        "id": "634706676f08181b",
+        "text": "I must start at my site (origin) if I am to remember there anything of yours."
+      },
+      "date": 1386535463063
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "44562c1bb16acdbf",
+        "text": ""
+      },
+      "id": "44562c1bb16acdbf",
+      "type": "add",
+      "after": "634706676f08181b",
+      "date": 1386535463570
+    },
+    {
+      "type": "edit",
+      "id": "44562c1bb16acdbf",
+      "item": {
+        "type": "paragraph",
+        "id": "44562c1bb16acdbf",
+        "text": "origin (login) => How to Wiki (plugin) => List of Lists of Sites (search) => your site (browse or search) => your page (browse) => your page (forked)"
+      },
+      "date": 1386535703488
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8868dcf0c45b92d5",
+        "text": ""
+      },
+      "id": "8868dcf0c45b92d5",
+      "type": "add",
+      "after": "44562c1bb16acdbf",
+      "date": 1386535703994
+    },
+    {
+      "type": "edit",
+      "id": "8868dcf0c45b92d5",
+      "item": {
+        "type": "paragraph",
+        "id": "8868dcf0c45b92d5",
+        "text": "origin (login) => your page (changes) => your site (older or journal)"
+      },
+      "date": 1386535818195
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "de031afa9c58892d",
+        "text": ""
+      },
+      "id": "de031afa9c58892d",
+      "type": "add",
+      "after": "8868dcf0c45b92d5",
+      "date": 1386535818701
+    },
+    {
+      "type": "remove",
+      "id": "de031afa9c58892d",
+      "date": 1386535894674
+    },
+    {
+      "type": "edit",
+      "id": "634706676f08181b",
+      "item": {
+        "type": "paragraph",
+        "id": "634706676f08181b",
+        "text": "I must start at my site (origin) if I am to remember there anything of yours. When I fork the first page of your's I am then connected."
+      },
+      "date": 1386535976501
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "309f6aeafcae8aa2",
+        "text": ""
+      },
+      "id": "309f6aeafcae8aa2",
+      "type": "add",
+      "after": "8868dcf0c45b92d5",
+      "date": 1386535988240
+    },
+    {
+      "type": "edit",
+      "id": "309f6aeafcae8aa2",
+      "item": {
+        "type": "paragraph",
+        "id": "309f6aeafcae8aa2",
+        "text": "You will not be connected to me unless you take some action too. Say I email a link to the good work I'm doing with your pages."
+      },
+      "date": 1386536066414
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "19e2993c3ea36885",
+        "text": ""
+      },
+      "id": "19e2993c3ea36885",
+      "type": "add",
+      "after": "309f6aeafcae8aa2",
+      "date": 1386536066922
+    },
+    {
+      "type": "edit",
+      "id": "19e2993c3ea36885",
+      "item": {
+        "type": "paragraph",
+        "id": "19e2993c3ea36885",
+        "text": "origin (visitor) => my copy of your pages (browsing or changes) => your copies of my pages (older or journal)"
+      },
+      "date": 1386536216186
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3072744c105b690a",
+        "text": ""
+      },
+      "id": "3072744c105b690a",
+      "type": "add",
+      "after": "19e2993c3ea36885",
+      "date": 1386536216690
+    },
+    {
+      "type": "edit",
+      "id": "3072744c105b690a",
+      "item": {
+        "type": "paragraph",
+        "id": "3072744c105b690a",
+        "text": "origin (visitor) => Welcome Visitors (flag) => my name (link)  . . . second origin (login) => Collaborators (search) => reference to my name (factory, drag)"
+      },
+      "date": 1386536433466
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "17993dd67d4cf8e3",
+        "text": ""
+      },
+      "id": "17993dd67d4cf8e3",
+      "type": "add",
+      "after": "3072744c105b690a",
+      "date": 1386536433971
+    },
+    {
+      "type": "remove",
+      "id": "17993dd67d4cf8e3",
+      "date": 1386536437417
+    },
+    {
+      "type": "edit",
+      "id": "3072744c105b690a",
+      "item": {
+        "type": "paragraph",
+        "id": "3072744c105b690a",
+        "text": "origin (visitor) => Welcome Visitors (flag) => my name (link); second origin (login) => Collaborators (search) => reference to my name (factory, drag)"
+      },
+      "date": 1386536446152
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2d67077064aea612",
+        "text": ""
+      },
+      "id": "2d67077064aea612",
+      "type": "add",
+      "after": "3072744c105b690a",
+      "date": 1386536489671
+    },
+    {
+      "type": "edit",
+      "id": "2d67077064aea612",
+      "item": {
+        "type": "paragraph",
+        "id": "2d67077064aea612",
+        "text": "origin (login) => Collaborators (search); your page (search) => my copy of your page (newer) => your page back (fork)"
+      },
+      "date": 1386536622162
+    },
+    {
+      "type": "edit",
+      "id": "634706676f08181b",
+      "item": {
+        "type": "paragraph",
+        "id": "634706676f08181b",
+        "text": "<b>I link to you.</b> I must start at my site (origin) if I am to remember there anything of yours. When I fork the first page of your's I am then connected."
+      },
+      "date": 1386536664569
+    },
+    {
+      "type": "edit",
+      "id": "309f6aeafcae8aa2",
+      "item": {
+        "type": "paragraph",
+        "id": "309f6aeafcae8aa2",
+        "text": "<b>You link to me.</b> You will not be connected to me unless you take some action too. Say I email a link to the good work I'm doing with your pages."
+      },
+      "date": 1386536692440
+    },
+    {
+      "type": "edit",
+      "id": "309f6aeafcae8aa2",
+      "item": {
+        "type": "paragraph",
+        "id": "309f6aeafcae8aa2",
+        "text": "<b>You link back.</b> You will not be connected to me unless you take some action too. Say I email a link to the good work I'm doing with your pages."
+      },
+      "date": 1386536767480
+    },
+    {
+      "type": "edit",
+      "id": "19e2993c3ea36885",
+      "item": {
+        "type": "paragraph",
+        "id": "19e2993c3ea36885",
+        "text": "origin (visitor) => my copy of your pages (browsing or changes) => your original pages (older or journal)"
+      },
+      "date": 1386536813277
+    },
+    {
+      "type": "edit",
+      "id": "44562c1bb16acdbf",
+      "item": {
+        "type": "paragraph",
+        "id": "44562c1bb16acdbf",
+        "text": "<i>origin (login) => How to Wiki (plugin) => List of Lists of Sites (search) => your site (browse or search) => your page (browse) => your page (forked)"
+      },
+      "date": 1386536867435
+    },
+    {
+      "type": "edit",
+      "id": "8868dcf0c45b92d5",
+      "item": {
+        "type": "paragraph",
+        "id": "8868dcf0c45b92d5",
+        "text": "<i>origin (login) => your page (changes) => your site (older or journal)"
+      },
+      "date": 1386536875908
+    },
+    {
+      "type": "edit",
+      "id": "19e2993c3ea36885",
+      "item": {
+        "type": "paragraph",
+        "id": "19e2993c3ea36885",
+        "text": "<i>origin (visitor) => my copy of your pages (browsing or changes) => your original pages (older or journal)"
+      },
+      "date": 1386536883142
+    },
+    {
+      "type": "edit",
+      "id": "3072744c105b690a",
+      "item": {
+        "type": "paragraph",
+        "id": "3072744c105b690a",
+        "text": "<i>origin (visitor) => Welcome Visitors (flag) => my name (link); second origin (login) => Collaborators (search) => reference to my name (factory, drag)"
+      },
+      "date": 1386536890483
+    },
+    {
+      "type": "edit",
+      "id": "2d67077064aea612",
+      "item": {
+        "type": "paragraph",
+        "id": "2d67077064aea612",
+        "text": "<i>origin (login) => Collaborators (search); your page (search) => my copy of your page (newer) => your page back (fork)"
+      },
+      "date": 1386536903795
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "80826a804261c347",
+        "text": ""
+      },
+      "id": "80826a804261c347",
+      "type": "add",
+      "after": "2d67077064aea612",
+      "date": 1386537121734
+    },
+    {
+      "type": "edit",
+      "id": "80826a804261c347",
+      "item": {
+        "type": "paragraph",
+        "id": "80826a804261c347",
+        "text": "<b>I discover your content.</b> Once we are in each other's neighborhoods we have other ways to discover content."
+      },
+      "date": 1386537189587
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0a69bec963bda632",
+        "text": ""
+      },
+      "id": "0a69bec963bda632",
+      "type": "add",
+      "after": "80826a804261c347",
+      "date": 1386537190093
+    },
+    {
+      "type": "remove",
+      "id": "0a69bec963bda632",
+      "date": 1386537195665
+    },
+    {
+      "type": "edit",
+      "id": "80826a804261c347",
+      "item": {
+        "type": "paragraph",
+        "id": "80826a804261c347",
+        "text": "<b>I discover pages.</b> Once we are in each other's neighborhoods we have other ways to discover content."
+      },
+      "date": 1386537215363
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dbec797206d37197",
+        "text": ""
+      },
+      "id": "dbec797206d37197",
+      "type": "add",
+      "after": "80826a804261c347",
+      "date": 1386537225482
+    },
+    {
+      "type": "edit",
+      "id": "dbec797206d37197",
+      "item": {
+        "type": "paragraph",
+        "id": "dbec797206d37197",
+        "text": "<i>origin (login) => add [ [ new page ] ] link (edit) => new page (future) => your page (browse) => your page (forked)"
+      },
+      "date": 1386537436179
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "926ac889f2102e21",
+        "text": ""
+      },
+      "id": "926ac889f2102e21",
+      "type": "add",
+      "after": "dbec797206d37197",
+      "date": 1386537497458
+    },
+    {
+      "type": "edit",
+      "id": "926ac889f2102e21",
+      "item": {
+        "type": "paragraph",
+        "id": "926ac889f2102e21",
+        "text": "<b>You discover pages.</b> While I am in your neighborhood you will see my use of your pages."
+      },
+      "date": 1386537593863
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c7c22da96fc170f2",
+        "text": ""
+      },
+      "id": "c7c22da96fc170f2",
+      "type": "add",
+      "after": "926ac889f2102e21",
+      "date": 1386537594369
+    },
+    {
+      "type": "edit",
+      "id": "c7c22da96fc170f2",
+      "item": {
+        "type": "paragraph",
+        "id": "c7c22da96fc170f2",
+        "text": "<i>origin(login) =>your page (browse) => my copy of your page (newer)"
+      },
+      "date": 1386537690699
+    },
+    {
+      "type": "edit",
+      "id": "c7c22da96fc170f2",
+      "item": {
+        "type": "paragraph",
+        "id": "c7c22da96fc170f2",
+        "text": "<i>origin(login) => your page (browse) => my copy of your page (newer)"
+      },
+      "date": 1386537699276
+    },
+    {
+      "type": "edit",
+      "id": "926ac889f2102e21",
+      "item": {
+        "type": "paragraph",
+        "id": "926ac889f2102e21",
+        "text": "<b>You see me discover.</b> While I am in your neighborhood you will see my use of your pages."
+      },
+      "date": 1386537751883
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b5259c5b12abc968",
+        "text": ""
+      },
+      "id": "b5259c5b12abc968",
+      "type": "add",
+      "after": "c7c22da96fc170f2",
+      "date": 1386538956908
+    },
+    {
+      "type": "edit",
+      "id": "b5259c5b12abc968",
+      "item": {
+        "type": "paragraph",
+        "id": "b5259c5b12abc968",
+        "text": "<h3> To Do"
+      },
+      "date": 1386538964479
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dfc22f1d5d3fdd07",
+        "text": ""
+      },
+      "id": "dfc22f1d5d3fdd07",
+      "type": "add",
+      "after": "c7c22da96fc170f2",
+      "date": 1386552317384
+    },
+    {
+      "type": "edit",
+      "id": "dfc22f1d5d3fdd07",
+      "item": {
+        "type": "paragraph",
+        "id": "dfc22f1d5d3fdd07",
+        "text": "<b>I discover pages.</b> But I want to have my own but keep references to the discoveries."
+      },
+      "date": 1386552436080
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4184c83b0096e287",
+        "text": ""
+      },
+      "id": "4184c83b0096e287",
+      "type": "add",
+      "after": "dfc22f1d5d3fdd07",
+      "date": 1386552436587
+    },
+    {
+      "type": "remove",
+      "id": "4184c83b0096e287",
+      "date": 1386552454645
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "75fe54ab85725d69",
+        "text": ""
+      },
+      "id": "75fe54ab85725d69",
+      "type": "add",
+      "after": "dfc22f1d5d3fdd07",
+      "date": 1386552467447
+    },
+    {
+      "type": "edit",
+      "id": "75fe54ab85725d69",
+      "item": {
+        "type": "paragraph",
+        "id": "75fe54ab85725d69",
+        "text": "origin (login) => add [ [ new page ] ] link (edit) => new page (future) => your page (browse); new page (create) => add factory; drag your page to factory"
+      },
+      "date": 1386552603492
+    },
+    {
+      "type": "edit",
+      "id": "75fe54ab85725d69",
+      "item": {
+        "type": "paragraph",
+        "id": "75fe54ab85725d69",
+        "text": "origin (login) => add [ [ new page ] ] link (edit) => new page (future) => your page (browse); new page (create) => add factory; drag your page to factory => reference"
+      },
+      "date": 1386552636890
+    },
+    {
+      "type": "edit",
+      "id": "70c1d3f5efb14acc",
+      "item": {
+        "type": "html",
+        "id": "70c1d3f5efb14acc",
+        "text": "<h3> Principles"
+      },
+      "date": 1420343628708
+    },
+    {
+      "type": "edit",
+      "id": "91b5cc11f6a4aa52",
+      "item": {
+        "type": "html",
+        "id": "91b5cc11f6a4aa52",
+        "text": "<h3> Processes"
+      },
+      "date": 1420343631233
+    },
+    {
+      "type": "edit",
+      "id": "634706676f08181b",
+      "item": {
+        "type": "html",
+        "id": "634706676f08181b",
+        "text": "<b>I link to you.</b> I must start at my site (origin) if I am to remember there anything of yours. When I fork the first page of your's I am then connected."
+      },
+      "date": 1420343642623
+    },
+    {
+      "type": "edit",
+      "id": "44562c1bb16acdbf",
+      "item": {
+        "type": "html",
+        "id": "44562c1bb16acdbf",
+        "text": "<i>origin (login) => How to Wiki (plugin) => List of Lists of Sites (search) => your site (browse or search) => your page (browse) => your page (forked)"
+      },
+      "date": 1420343643886
+    },
+    {
+      "type": "edit",
+      "id": "8868dcf0c45b92d5",
+      "item": {
+        "type": "html",
+        "id": "8868dcf0c45b92d5",
+        "text": "<i>origin (login) => your page (changes) => your site (older or journal)"
+      },
+      "date": 1420343647068
+    },
+    {
+      "type": "edit",
+      "id": "309f6aeafcae8aa2",
+      "item": {
+        "type": "html",
+        "id": "309f6aeafcae8aa2",
+        "text": "<b>You link back.</b> You will not be connected to me unless you take some action too. Say I email a link to the good work I'm doing with your pages."
+      },
+      "date": 1420343649354
+    },
+    {
+      "type": "edit",
+      "id": "19e2993c3ea36885",
+      "item": {
+        "type": "html",
+        "id": "19e2993c3ea36885",
+        "text": "<i>origin (visitor) => my copy of your pages (browsing or changes) => your original pages (older or journal)"
+      },
+      "date": 1420343651332
+    },
+    {
+      "type": "edit",
+      "id": "3072744c105b690a",
+      "item": {
+        "type": "html",
+        "id": "3072744c105b690a",
+        "text": "<i>origin (visitor) => Welcome Visitors (flag) => my name (link); second origin (login) => Collaborators (search) => reference to my name (factory, drag)"
+      },
+      "date": 1420343652697
+    },
+    {
+      "type": "edit",
+      "id": "2d67077064aea612",
+      "item": {
+        "type": "html",
+        "id": "2d67077064aea612",
+        "text": "<i>origin (login) => Collaborators (search); your page (search) => my copy of your page (newer) => your page back (fork)"
+      },
+      "date": 1420343654806
+    },
+    {
+      "type": "edit",
+      "id": "80826a804261c347",
+      "item": {
+        "type": "html",
+        "id": "80826a804261c347",
+        "text": "<b>I discover pages.</b> Once we are in each other's neighborhoods we have other ways to discover content."
+      },
+      "date": 1420343658661
+    },
+    {
+      "type": "edit",
+      "id": "dbec797206d37197",
+      "item": {
+        "type": "html",
+        "id": "dbec797206d37197",
+        "text": "<i>origin (login) => add [ [ new page ] ] link (edit) => new page (future) => your page (browse) => your page (forked)"
+      },
+      "date": 1420343659934
+    },
+    {
+      "type": "edit",
+      "id": "926ac889f2102e21",
+      "item": {
+        "type": "html",
+        "id": "926ac889f2102e21",
+        "text": "<b>You see me discover.</b> While I am in your neighborhood you will see my use of your pages."
+      },
+      "date": 1420343661167
+    },
+    {
+      "type": "edit",
+      "id": "c7c22da96fc170f2",
+      "item": {
+        "type": "html",
+        "id": "c7c22da96fc170f2",
+        "text": "<i>origin(login) => your page (browse) => my copy of your page (newer)"
+      },
+      "date": 1420343663164
+    },
+    {
+      "type": "edit",
+      "id": "dfc22f1d5d3fdd07",
+      "item": {
+        "type": "html",
+        "id": "dfc22f1d5d3fdd07",
+        "text": "<b>I discover pages.</b> But I want to have my own but keep references to the discoveries."
+      },
+      "date": 1420343664387
+    },
+    {
+      "type": "edit",
+      "id": "b5259c5b12abc968",
+      "item": {
+        "type": "html",
+        "id": "b5259c5b12abc968",
+        "text": "<h3> To Do"
+      },
+      "date": 1420343668507
+    },
+    {
+      "type": "fork",
+      "site": "ward.fed.wiki.org",
+      "date": 1421896441048
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538751426032
+    }
+  ]
+}

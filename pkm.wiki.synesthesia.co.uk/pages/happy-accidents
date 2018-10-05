@@ -1,0 +1,145 @@
+{
+  "title": "Happy Accidents",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ec5a3178b1f6dfbd",
+      "text": "Serendipity is the property of finding useful things not asked or sought for. Federated Wiki generates serendipity through fortuitous collisions of names."
+    },
+    {
+      "type": "paragraph",
+      "id": "41b73c24ad6c54cd",
+      "text": "Mike Caulfield explains the happiness."
+    },
+    {
+      "type": "paragraph",
+      "id": "95dfc7095e0f3f78",
+      "text": "[[Serendipitous Namespace Collisions]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Happy Accidents",
+        "story": []
+      },
+      "date": 1414136593650
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ec5a3178b1f6dfbd"
+      },
+      "id": "ec5a3178b1f6dfbd",
+      "type": "add",
+      "date": 1414136616626
+    },
+    {
+      "type": "edit",
+      "id": "ec5a3178b1f6dfbd",
+      "item": {
+        "type": "paragraph",
+        "id": "ec5a3178b1f6dfbd",
+        "text": "Serendipity is the property of finding useful things not asked or sought for. Federated Wiki generates serendipity through neighborhood namespace collisions."
+      },
+      "date": 1414136620353
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "41b73c24ad6c54cd"
+      },
+      "id": "41b73c24ad6c54cd",
+      "type": "add",
+      "after": "ec5a3178b1f6dfbd",
+      "date": 1414136636086
+    },
+    {
+      "type": "edit",
+      "id": "41b73c24ad6c54cd",
+      "item": {
+        "type": "paragraph",
+        "id": "41b73c24ad6c54cd",
+        "text": "Mike Caulfield explains the happiness."
+      },
+      "date": 1414136806588
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c6d7a2748ab5c79d",
+        "text": ""
+      },
+      "id": "c6d7a2748ab5c79d",
+      "type": "add",
+      "after": "41b73c24ad6c54cd",
+      "date": 1414136806605
+    },
+    {
+      "type": "remove",
+      "id": "c6d7a2748ab5c79d",
+      "date": 1414136811433
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "95dfc7095e0f3f78"
+      },
+      "id": "95dfc7095e0f3f78",
+      "type": "add",
+      "after": "41b73c24ad6c54cd",
+      "date": 1414136822172
+    },
+    {
+      "type": "edit",
+      "id": "95dfc7095e0f3f78",
+      "item": {
+        "type": "paragraph",
+        "id": "95dfc7095e0f3f78",
+        "text": "[[Serendipitous Namespace Collisions]]"
+      },
+      "date": 1414136826143
+    },
+    {
+      "type": "edit",
+      "id": "ec5a3178b1f6dfbd",
+      "item": {
+        "type": "paragraph",
+        "id": "ec5a3178b1f6dfbd",
+        "text": "Serendipity is the property of finding useful things not asked or sought for. Federated Wiki generates serendipity through fortuitous name collisions."
+      },
+      "date": 1414136871763
+    },
+    {
+      "type": "edit",
+      "id": "ec5a3178b1f6dfbd",
+      "item": {
+        "type": "paragraph",
+        "id": "ec5a3178b1f6dfbd",
+        "text": "Serendipity is the property of finding useful things not asked or sought for. Federated Wiki generates serendipity through fortuitous collisions of names."
+      },
+      "date": 1414136888764
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1cce8add250ca418"
+      },
+      "id": "1cce8add250ca418",
+      "type": "add",
+      "after": "95dfc7095e0f3f78",
+      "date": 1414136896263
+    },
+    {
+      "type": "remove",
+      "id": "1cce8add250ca418",
+      "date": 1414136953129
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538751188039
+    }
+  ]
+}

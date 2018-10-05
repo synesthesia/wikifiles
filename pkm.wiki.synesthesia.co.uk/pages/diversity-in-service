@@ -1,0 +1,1228 @@
+{
+  "title": "Diversity in Service",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6d6e3098ce86c679",
+      "text": "We consider what one might expect of a federated wiki server under diverse circumstances. We hope a brief reflection will guide improvements in servers, clients and the protocols between them."
+    },
+    {
+      "type": "paragraph",
+      "id": "c40d98f191aee4f6",
+      "text": "See also [[Laptop Server]]"
+    },
+    {
+      "type": "html",
+      "id": "d261696800ede496",
+      "text": "<h3> History"
+    },
+    {
+      "type": "paragraph",
+      "id": "cf558eff0a1310b2",
+      "text": "We have two full-featured servers, ruby and node, that support interactive content creation."
+    },
+    {
+      "type": "paragraph",
+      "id": "065989f914cc6470",
+      "text": "We have various read-only servers that participate by serving json into a client started elsewhere."
+    },
+    {
+      "type": "paragraph",
+      "id": "0ba43fb3afee28d1",
+      "text": "We've had marginal success with purely static sites where client assumptions make bootstrapping awkward."
+    },
+    {
+      "type": "paragraph",
+      "id": "5d56b000a9c869df",
+      "text": "We've made two versions of a c2.com wiki adapter, one batch, the other interactive."
+    },
+    {
+      "type": "paragraph",
+      "id": "881254df8e75b775",
+      "text": "We've come to depend on sitemaps. Sites without them can hardly be considered federated."
+    },
+    {
+      "type": "paragraph",
+      "id": "0a367b2cb9d0b4bc",
+      "text": "We're finding more value in server-side rendering for latency of initial payload and improved accessibility."
+    },
+    {
+      "type": "paragraph",
+      "id": "3781c61aeefe6c09",
+      "text": "We've explored including data by batch or on-demand page generation as well as a streaming side-channel."
+    },
+    {
+      "type": "paragraph",
+      "id": "b6a05b5515652083",
+      "text": "We've made drag-and-drop a workable mechanism for connecting previously unrelated sites."
+    },
+    {
+      "type": "html",
+      "id": "0e2133f64fc6b6c1",
+      "text": "<h3> Remote"
+    },
+    {
+      "type": "paragraph",
+      "id": "9b412fbfe618a74a",
+      "text": "A server that exists to be read remotely must serve JSON with CORS headers. See [[JSON Schema]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ae2355b5bdd3f6c1",
+      "text": "A root page, welcome-visitors, must be present and presumably leads to other useful content."
+    },
+    {
+      "type": "paragraph",
+      "id": "c0ad488b921adbe2",
+      "text": "A flag and sitemap should be present in order to appear as a functioning member of a neighborhood."
+    },
+    {
+      "type": "html",
+      "id": "90bfcad220724167",
+      "text": "<h3> Origin"
+    },
+    {
+      "type": "paragraph",
+      "id": "51450ead1f891904",
+      "text": "A server that originates browsing must serve a bootstrap html file that loads javascript and css and offers suitable footer for interactive elements."
+    },
+    {
+      "type": "paragraph",
+      "id": "4d303be01bb8f067",
+      "text": "A usefully rendered .html version of pages should be available to clients without javascript."
+    },
+    {
+      "type": "paragraph",
+      "id": "c735cee610e0d79e",
+      "text": "A useful complement of plugins should be served with their javascript, css and documentation pages."
+    },
+    {
+      "type": "paragraph",
+      "id": "4057f023198bce45",
+      "text": "A composite of available plugin factory.json menu entries should be available as factories.json."
+    },
+    {
+      "type": "paragraph",
+      "id": "309fe7c9cd97a549",
+      "text": "A stubbed version of a lineup should be generated for (/view/page)+ urls used for browser history."
+    },
+    {
+      "type": "html",
+      "id": "f3a9bd2905d5f11f",
+      "text": "<h3> Editor"
+    },
+    {
+      "type": "paragraph",
+      "id": "0e79ff6fa70f7576",
+      "text": "A server that supports editing must handle ajax posts of actions, perform those actions, and persist the results."
+    },
+    {
+      "type": "paragraph",
+      "id": "8ac81eb72e85029d",
+      "text": "A user should be able to claim a server and then later authenticate as the one user with permission to edit."
+    },
+    {
+      "type": "paragraph",
+      "id": "582a375557475528",
+      "text": "A family compliant gradient flag (favicon.png) should be generated for sites that don't yet have them."
+    },
+    {
+      "type": "paragraph",
+      "id": "61c151867e6cb886",
+      "text": "A server may host multiple virtual sites from a single server instance (a wiki farm)."
+    },
+    {
+      "type": "paragraph",
+      "id": "3d7188f35d31344f",
+      "text": "A server may accept submissions of local changes to be stored and served as subdomains."
+    },
+    {
+      "type": "html",
+      "id": "cb83357602b1e4b2",
+      "text": "<h3> Future"
+    },
+    {
+      "type": "paragraph",
+      "id": "271ae4e8874733f7",
+      "text": "Servers might support more exotic sitemaps that include enough information to trace links forward or backwards through pages."
+    },
+    {
+      "type": "paragraph",
+      "id": "a49709177727eda1",
+      "text": "Servers should support some safe and reliable mechanism for deleting unwanted pages and undeleting them when they become wanted. See [[Deleting Me Softly]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5319b4f53f366f94",
+      "text": "Servers shouldn't need to participate in browser history by parsing and echoing lineups."
+    },
+    {
+      "type": "paragraph",
+      "id": "17b26156866b171c",
+      "text": "Servers have, but shouldn't continue, fetching from remote servers during a fork. Rather, the client should relay content."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Diversity in Service",
+        "story": []
+      },
+      "date": 1401028177607
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6d6e3098ce86c679"
+      },
+      "id": "6d6e3098ce86c679",
+      "type": "add",
+      "date": 1401028179688
+    },
+    {
+      "type": "edit",
+      "id": "6d6e3098ce86c679",
+      "item": {
+        "type": "paragraph",
+        "id": "6d6e3098ce86c679",
+        "text": "We consider what one might expect of a federated wiki server under diverse circumstances. We hope a brief reflection will guide improvements in servers, client and the protocols between them."
+      },
+      "date": 1401028336904
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d261696800ede496",
+        "text": ""
+      },
+      "id": "d261696800ede496",
+      "type": "add",
+      "after": "6d6e3098ce86c679",
+      "date": 1401028337410
+    },
+    {
+      "type": "edit",
+      "id": "d261696800ede496",
+      "item": {
+        "type": "paragraph",
+        "id": "d261696800ede496",
+        "text": "<h3> History"
+      },
+      "date": 1401028369782
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cf558eff0a1310b2",
+        "text": ""
+      },
+      "id": "cf558eff0a1310b2",
+      "type": "add",
+      "after": "d261696800ede496",
+      "date": 1401028370288
+    },
+    {
+      "type": "edit",
+      "id": "cf558eff0a1310b2",
+      "item": {
+        "type": "paragraph",
+        "id": "cf558eff0a1310b2",
+        "text": "We have two full-featured servers, ruby and node, that support interactive content creation."
+      },
+      "date": 1401028467484
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "065989f914cc6470",
+        "text": ""
+      },
+      "id": "065989f914cc6470",
+      "type": "add",
+      "after": "cf558eff0a1310b2",
+      "date": 1401028467989
+    },
+    {
+      "type": "edit",
+      "id": "065989f914cc6470",
+      "item": {
+        "type": "paragraph",
+        "id": "065989f914cc6470",
+        "text": "We have various read-only servers that participate by serving json with CORS headers."
+      },
+      "date": 1401028563513
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0ba43fb3afee28d1",
+        "text": ""
+      },
+      "id": "0ba43fb3afee28d1",
+      "type": "add",
+      "after": "065989f914cc6470",
+      "date": 1401028564020
+    },
+    {
+      "type": "edit",
+      "id": "0ba43fb3afee28d1",
+      "item": {
+        "type": "paragraph",
+        "id": "0ba43fb3afee28d1",
+        "text": "We've had marginal success with purely static sites where client assumptions make bootstrapping more awkward than necessary."
+      },
+      "date": 1401028841971
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5d56b000a9c869df",
+        "text": ""
+      },
+      "id": "5d56b000a9c869df",
+      "type": "add",
+      "after": "0ba43fb3afee28d1",
+      "date": 1401028842479
+    },
+    {
+      "type": "edit",
+      "id": "5d56b000a9c869df",
+      "item": {
+        "type": "paragraph",
+        "id": "5d56b000a9c869df",
+        "text": "We've made two versions of a c2.com wiki adapter, one batch, the other interactive. The interactive version has been made serviceable by casting word-search as sitemap."
+      },
+      "date": 1401029010804
+    },
+    {
+      "type": "edit",
+      "id": "5d56b000a9c869df",
+      "item": {
+        "type": "paragraph",
+        "id": "5d56b000a9c869df",
+        "text": "We've made two versions of a c2.com wiki adapter, one batch, the other interactive."
+      },
+      "date": 1401029024245
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "881254df8e75b775",
+        "text": "The interactive version has been made serviceable by casting word-search as sitemap."
+      },
+      "id": "881254df8e75b775",
+      "type": "add",
+      "after": "5d56b000a9c869df",
+      "date": 1401029024752
+    },
+    {
+      "type": "edit",
+      "id": "0ba43fb3afee28d1",
+      "item": {
+        "type": "paragraph",
+        "id": "0ba43fb3afee28d1",
+        "text": "We've had marginal success with purely static sites where client assumptions make bootstrapping awkward."
+      },
+      "date": 1401029043299
+    },
+    {
+      "type": "edit",
+      "id": "881254df8e75b775",
+      "item": {
+        "type": "paragraph",
+        "id": "881254df8e75b775",
+        "text": "We've come to depend on sitemaps. Sites without them can hardly be considered federated."
+      },
+      "date": 1401029221605
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0a367b2cb9d0b4bc",
+        "text": ""
+      },
+      "id": "0a367b2cb9d0b4bc",
+      "type": "add",
+      "after": "881254df8e75b775",
+      "date": 1401029222118
+    },
+    {
+      "type": "edit",
+      "id": "0a367b2cb9d0b4bc",
+      "item": {
+        "type": "paragraph",
+        "id": "0a367b2cb9d0b4bc",
+        "text": "We're finding more value in server-side rendering for speed in initial payload and improved accessibility."
+      },
+      "date": 1401029338211
+    },
+    {
+      "type": "edit",
+      "id": "0a367b2cb9d0b4bc",
+      "item": {
+        "type": "paragraph",
+        "id": "0a367b2cb9d0b4bc",
+        "text": "We're finding more value in server-side rendering for latency of initial payload and improved accessibility."
+      },
+      "date": 1401029408145
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3781c61aeefe6c09",
+        "text": ""
+      },
+      "id": "3781c61aeefe6c09",
+      "type": "add",
+      "after": "0a367b2cb9d0b4bc",
+      "date": 1401029433770
+    },
+    {
+      "type": "edit",
+      "id": "3781c61aeefe6c09",
+      "item": {
+        "type": "paragraph",
+        "id": "3781c61aeefe6c09",
+        "text": "We've explored including data by batch or on-demand page generation as well as side-channel streaming though websockets."
+      },
+      "date": 1401029629434
+    },
+    {
+      "type": "edit",
+      "id": "3781c61aeefe6c09",
+      "item": {
+        "type": "paragraph",
+        "id": "3781c61aeefe6c09",
+        "text": "We've explored including data by batch or on-demand page generation as well as streaming side-channel."
+      },
+      "date": 1401029647836
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0e2133f64fc6b6c1"
+      },
+      "id": "0e2133f64fc6b6c1",
+      "type": "add",
+      "after": "3781c61aeefe6c09",
+      "date": 1401029790819
+    },
+    {
+      "type": "edit",
+      "id": "0e2133f64fc6b6c1",
+      "item": {
+        "type": "paragraph",
+        "id": "0e2133f64fc6b6c1",
+        "text": "<h3> Read"
+      },
+      "date": 1401029798797
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9b412fbfe618a74a",
+        "text": ""
+      },
+      "id": "9b412fbfe618a74a",
+      "type": "add",
+      "after": "0e2133f64fc6b6c1",
+      "date": 1401029799303
+    },
+    {
+      "type": "edit",
+      "id": "9b412fbfe618a74a",
+      "item": {
+        "type": "paragraph",
+        "id": "9b412fbfe618a74a",
+        "text": "A server that exists to be read must serve schema compliant json with CORS headers."
+      },
+      "date": 1401029897258
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ae2355b5bdd3f6c1",
+        "text": ""
+      },
+      "id": "ae2355b5bdd3f6c1",
+      "type": "add",
+      "after": "9b412fbfe618a74a",
+      "date": 1401029897764
+    },
+    {
+      "type": "edit",
+      "id": "ae2355b5bdd3f6c1",
+      "item": {
+        "type": "paragraph",
+        "id": "ae2355b5bdd3f6c1",
+        "text": "A root page, welcome-visitors, must be present and presumably leads to other useful content."
+      },
+      "date": 1401030037823
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c0ad488b921adbe2",
+        "text": ""
+      },
+      "id": "c0ad488b921adbe2",
+      "type": "add",
+      "after": "ae2355b5bdd3f6c1",
+      "date": 1401030038328
+    },
+    {
+      "type": "edit",
+      "id": "c0ad488b921adbe2",
+      "item": {
+        "type": "paragraph",
+        "id": "c0ad488b921adbe2",
+        "text": "A flag and sitemap should be present in order to appear as a functioning member of a neighborhood."
+      },
+      "date": 1401030207086
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "90bfcad220724167",
+        "text": ""
+      },
+      "id": "90bfcad220724167",
+      "type": "add",
+      "after": "c0ad488b921adbe2",
+      "date": 1401030254242
+    },
+    {
+      "type": "edit",
+      "id": "90bfcad220724167",
+      "item": {
+        "type": "paragraph",
+        "id": "90bfcad220724167",
+        "text": "<h3> Origin"
+      },
+      "date": 1401030335393
+    },
+    {
+      "type": "edit",
+      "id": "0e2133f64fc6b6c1",
+      "item": {
+        "type": "paragraph",
+        "id": "0e2133f64fc6b6c1",
+        "text": "<h3> Remote"
+      },
+      "date": 1401030343198
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "534d6d0ed30cfce1",
+        "text": ""
+      },
+      "id": "534d6d0ed30cfce1",
+      "type": "add",
+      "after": "90bfcad220724167",
+      "date": 1401030370112
+    },
+    {
+      "type": "remove",
+      "id": "534d6d0ed30cfce1",
+      "date": 1401030379932
+    },
+    {
+      "type": "edit",
+      "id": "9b412fbfe618a74a",
+      "item": {
+        "type": "paragraph",
+        "id": "9b412fbfe618a74a",
+        "text": "A server that exists to be read remotely must serve schema compliant json with CORS headers."
+      },
+      "date": 1401030389188
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "51450ead1f891904",
+        "text": ""
+      },
+      "id": "51450ead1f891904",
+      "type": "add",
+      "after": "90bfcad220724167",
+      "date": 1401030393485
+    },
+    {
+      "type": "edit",
+      "id": "51450ead1f891904",
+      "item": {
+        "type": "paragraph",
+        "id": "51450ead1f891904",
+        "text": "A server that originates browsing must serve a bootstrap html file that loads javascript and css."
+      },
+      "date": 1401030596800
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4d303be01bb8f067",
+        "text": ""
+      },
+      "id": "4d303be01bb8f067",
+      "type": "add",
+      "after": "51450ead1f891904",
+      "date": 1401030597308
+    },
+    {
+      "type": "edit",
+      "id": "4d303be01bb8f067",
+      "item": {
+        "type": "paragraph",
+        "id": "4d303be01bb8f067",
+        "text": "A usefully rendered .html version of pages should be available to clients without javascript."
+      },
+      "date": 1401030789803
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "309fe7c9cd97a549",
+        "text": ""
+      },
+      "id": "309fe7c9cd97a549",
+      "type": "add",
+      "after": "4d303be01bb8f067",
+      "date": 1401030790312
+    },
+    {
+      "type": "edit",
+      "id": "309fe7c9cd97a549",
+      "item": {
+        "type": "paragraph",
+        "id": "309fe7c9cd97a549",
+        "text": "A stubbed version of a lineup should be generated for (/view/page)+ urls generated for browser history."
+      },
+      "date": 1401031042010
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f3a9bd2905d5f11f",
+        "text": ""
+      },
+      "id": "f3a9bd2905d5f11f",
+      "type": "add",
+      "after": "309fe7c9cd97a549",
+      "date": 1401031088301
+    },
+    {
+      "type": "edit",
+      "id": "f3a9bd2905d5f11f",
+      "item": {
+        "type": "paragraph",
+        "id": "f3a9bd2905d5f11f",
+        "text": "<h3> Editor"
+      },
+      "date": 1401031104888
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0e79ff6fa70f7576",
+        "text": ""
+      },
+      "id": "0e79ff6fa70f7576",
+      "type": "add",
+      "after": "f3a9bd2905d5f11f",
+      "date": 1401031105396
+    },
+    {
+      "type": "edit",
+      "id": "0e79ff6fa70f7576",
+      "item": {
+        "type": "paragraph",
+        "id": "0e79ff6fa70f7576",
+        "text": "A server that supports editing must handle ajax posts of actions, perform those actions, and persist the results."
+      },
+      "date": 1401031173665
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3d7fb91b814db5a6",
+        "text": ""
+      },
+      "id": "3d7fb91b814db5a6",
+      "type": "add",
+      "after": "0e79ff6fa70f7576",
+      "date": 1401031174173
+    },
+    {
+      "type": "remove",
+      "id": "3d7fb91b814db5a6",
+      "date": 1401031259831
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5c50dc2c3e30b901",
+        "text": ""
+      },
+      "id": "5c50dc2c3e30b901",
+      "type": "add",
+      "after": "51450ead1f891904",
+      "date": 1401031462060
+    },
+    {
+      "type": "remove",
+      "id": "5c50dc2c3e30b901",
+      "date": 1401031568986
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c735cee610e0d79e",
+        "text": ""
+      },
+      "id": "c735cee610e0d79e",
+      "type": "add",
+      "after": "4d303be01bb8f067",
+      "date": 1401031577770
+    },
+    {
+      "type": "edit",
+      "id": "c735cee610e0d79e",
+      "item": {
+        "type": "paragraph",
+        "id": "c735cee610e0d79e",
+        "text": "A useful complement of plugins should be served with their javascript, css and documentation pages."
+      },
+      "date": 1401031767070
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8ac81eb72e85029d",
+        "text": ""
+      },
+      "id": "8ac81eb72e85029d",
+      "type": "add",
+      "after": "0e79ff6fa70f7576",
+      "date": 1401031900904
+    },
+    {
+      "type": "edit",
+      "id": "8ac81eb72e85029d",
+      "item": {
+        "type": "paragraph",
+        "id": "8ac81eb72e85029d",
+        "text": "A user should be able to claim a server and then later authenticate as the one user with permission to edit."
+      },
+      "date": 1401032056782
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5117ddc0cef4e118",
+        "text": ""
+      },
+      "id": "5117ddc0cef4e118",
+      "type": "add",
+      "after": "8ac81eb72e85029d",
+      "date": 1401032057291
+    },
+    {
+      "type": "remove",
+      "id": "5117ddc0cef4e118",
+      "date": 1401032067808
+    },
+    {
+      "type": "edit",
+      "id": "51450ead1f891904",
+      "item": {
+        "type": "paragraph",
+        "id": "51450ead1f891904",
+        "text": "A server that originates browsing must serve a bootstrap html file that loads javascript and css and offers suitable footer for interactive elements."
+      },
+      "date": 1401032271361
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "582a375557475528",
+        "text": ""
+      },
+      "id": "582a375557475528",
+      "type": "add",
+      "after": "8ac81eb72e85029d",
+      "date": 1401032330566
+    },
+    {
+      "type": "edit",
+      "id": "582a375557475528",
+      "item": {
+        "type": "paragraph",
+        "id": "582a375557475528",
+        "text": "A family compliant gradient flag (favicon.png) should be generated for sites that don't yet have them."
+      },
+      "date": 1401032403137
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6b82b7086d04a1f0",
+        "text": ""
+      },
+      "id": "6b82b7086d04a1f0",
+      "type": "add",
+      "after": "582a375557475528",
+      "date": 1401032445405
+    },
+    {
+      "type": "remove",
+      "id": "6b82b7086d04a1f0",
+      "date": 1401032493051
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "61c151867e6cb886",
+        "text": ""
+      },
+      "id": "61c151867e6cb886",
+      "type": "add",
+      "after": "c0ad488b921adbe2",
+      "date": 1401032495474
+    },
+    {
+      "type": "edit",
+      "id": "61c151867e6cb886",
+      "item": {
+        "type": "paragraph",
+        "id": "61c151867e6cb886",
+        "text": "A server may host multiple virtual sites from a single server instance."
+      },
+      "date": 1401032667123
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fe27de10e8507699",
+        "text": ""
+      },
+      "id": "fe27de10e8507699",
+      "type": "add",
+      "after": "c735cee610e0d79e",
+      "date": 1401032728920
+    },
+    {
+      "type": "remove",
+      "id": "fe27de10e8507699",
+      "date": 1401032816309
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4057f023198bce45",
+        "text": ""
+      },
+      "id": "4057f023198bce45",
+      "type": "add",
+      "after": "c735cee610e0d79e",
+      "date": 1401032827239
+    },
+    {
+      "type": "edit",
+      "id": "4057f023198bce45",
+      "item": {
+        "type": "paragraph",
+        "id": "4057f023198bce45",
+        "text": "A composite of available plugin factory.json menu entries should be available as factories.json."
+      },
+      "date": 1401032903460
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3d7188f35d31344f",
+        "text": ""
+      },
+      "id": "3d7188f35d31344f",
+      "type": "add",
+      "after": "582a375557475528",
+      "date": 1401032996776
+    },
+    {
+      "type": "edit",
+      "id": "3d7188f35d31344f",
+      "item": {
+        "type": "paragraph",
+        "id": "3d7188f35d31344f",
+        "text": "A server may accept submissions of local changes to be stored and served as subdomains."
+      },
+      "date": 1401033076735
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cb83357602b1e4b2",
+        "text": ""
+      },
+      "id": "cb83357602b1e4b2",
+      "type": "add",
+      "after": "3d7188f35d31344f",
+      "date": 1401033122119
+    },
+    {
+      "type": "edit",
+      "id": "cb83357602b1e4b2",
+      "item": {
+        "type": "paragraph",
+        "id": "cb83357602b1e4b2",
+        "text": "<h3> Future"
+      },
+      "date": 1401033128461
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a49709177727eda1",
+        "text": ""
+      },
+      "id": "a49709177727eda1",
+      "type": "add",
+      "after": "cb83357602b1e4b2",
+      "date": 1401033128968
+    },
+    {
+      "type": "edit",
+      "id": "a49709177727eda1",
+      "item": {
+        "type": "paragraph",
+        "id": "a49709177727eda1",
+        "text": "Servers should support some safe and reliable mechanism for deleting unwanted pages and undeleting them when they become wanted. See [[Deleting Me Softly]]"
+      },
+      "date": 1401033309078
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "271ae4e8874733f7",
+        "text": ""
+      },
+      "id": "271ae4e8874733f7",
+      "type": "add",
+      "after": "a49709177727eda1",
+      "date": 1401033499631
+    },
+    {
+      "type": "edit",
+      "id": "271ae4e8874733f7",
+      "item": {
+        "type": "paragraph",
+        "id": "271ae4e8874733f7",
+        "text": "Servers might support more exotic sitemaps that include enough information to trace links forward or backwards through pages."
+      },
+      "date": 1401033588375
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7a391ec02ebdec5e",
+        "text": ""
+      },
+      "id": "7a391ec02ebdec5e",
+      "type": "add",
+      "after": "271ae4e8874733f7",
+      "date": 1401033588881
+    },
+    {
+      "type": "remove",
+      "id": "7a391ec02ebdec5e",
+      "date": 1401033682748
+    },
+    {
+      "type": "edit",
+      "id": "309fe7c9cd97a549",
+      "item": {
+        "type": "paragraph",
+        "id": "309fe7c9cd97a549",
+        "text": "A stubbed version of a lineup should be generated for (/view/page)+ urls used for browser history."
+      },
+      "date": 1401033862569
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5319b4f53f366f94",
+        "text": ""
+      },
+      "id": "5319b4f53f366f94",
+      "type": "add",
+      "after": "271ae4e8874733f7",
+      "date": 1401033905446
+    },
+    {
+      "type": "edit",
+      "id": "5319b4f53f366f94",
+      "item": {
+        "type": "paragraph",
+        "id": "5319b4f53f366f94",
+        "text": "Servers shouldn't need to participate in browser history by parsing and echoing lineups."
+      },
+      "date": 1401034072297
+    },
+    {
+      "type": "move",
+      "order": [
+        "6d6e3098ce86c679",
+        "d261696800ede496",
+        "cf558eff0a1310b2",
+        "065989f914cc6470",
+        "0ba43fb3afee28d1",
+        "5d56b000a9c869df",
+        "881254df8e75b775",
+        "0a367b2cb9d0b4bc",
+        "3781c61aeefe6c09",
+        "0e2133f64fc6b6c1",
+        "9b412fbfe618a74a",
+        "ae2355b5bdd3f6c1",
+        "c0ad488b921adbe2",
+        "61c151867e6cb886",
+        "90bfcad220724167",
+        "51450ead1f891904",
+        "4d303be01bb8f067",
+        "c735cee610e0d79e",
+        "4057f023198bce45",
+        "309fe7c9cd97a549",
+        "f3a9bd2905d5f11f",
+        "0e79ff6fa70f7576",
+        "8ac81eb72e85029d",
+        "582a375557475528",
+        "3d7188f35d31344f",
+        "cb83357602b1e4b2",
+        "271ae4e8874733f7",
+        "a49709177727eda1",
+        "5319b4f53f366f94"
+      ],
+      "id": "271ae4e8874733f7",
+      "date": 1401034085814
+    },
+    {
+      "type": "edit",
+      "id": "9b412fbfe618a74a",
+      "item": {
+        "type": "paragraph",
+        "id": "9b412fbfe618a74a",
+        "text": "A server that exists to be read remotely must serve schema compliant json with CORS headers. See [[Json Schema]]"
+      },
+      "date": 1401034166441
+    },
+    {
+      "type": "edit",
+      "id": "9b412fbfe618a74a",
+      "item": {
+        "type": "paragraph",
+        "id": "9b412fbfe618a74a",
+        "text": "A server that exists to be read remotely must serve JSON with CORS headers. See [[JSON Schema]]"
+      },
+      "date": 1401034240670
+    },
+    {
+      "type": "edit",
+      "id": "61c151867e6cb886",
+      "item": {
+        "type": "paragraph",
+        "id": "61c151867e6cb886",
+        "text": "A server may host multiple virtual sites from a single server instance (a wiki farm)."
+      },
+      "date": 1401034378632
+    },
+    {
+      "type": "move",
+      "order": [
+        "6d6e3098ce86c679",
+        "d261696800ede496",
+        "cf558eff0a1310b2",
+        "065989f914cc6470",
+        "0ba43fb3afee28d1",
+        "5d56b000a9c869df",
+        "881254df8e75b775",
+        "0a367b2cb9d0b4bc",
+        "3781c61aeefe6c09",
+        "0e2133f64fc6b6c1",
+        "9b412fbfe618a74a",
+        "ae2355b5bdd3f6c1",
+        "c0ad488b921adbe2",
+        "90bfcad220724167",
+        "51450ead1f891904",
+        "4d303be01bb8f067",
+        "c735cee610e0d79e",
+        "4057f023198bce45",
+        "309fe7c9cd97a549",
+        "f3a9bd2905d5f11f",
+        "0e79ff6fa70f7576",
+        "8ac81eb72e85029d",
+        "582a375557475528",
+        "61c151867e6cb886",
+        "3d7188f35d31344f",
+        "cb83357602b1e4b2",
+        "271ae4e8874733f7",
+        "a49709177727eda1",
+        "5319b4f53f366f94"
+      ],
+      "id": "61c151867e6cb886",
+      "date": 1401034464184
+    },
+    {
+      "type": "edit",
+      "id": "6d6e3098ce86c679",
+      "item": {
+        "type": "paragraph",
+        "id": "6d6e3098ce86c679",
+        "text": "We consider what one might expect of a federated wiki server under diverse circumstances. We hope a brief reflection will guide improvements in servers, clients and the protocols between them."
+      },
+      "date": 1401034868398
+    },
+    {
+      "type": "edit",
+      "id": "3781c61aeefe6c09",
+      "item": {
+        "type": "paragraph",
+        "id": "3781c61aeefe6c09",
+        "text": "We've explored including data by batch or on-demand page generation as well as a streaming side-channel."
+      },
+      "date": 1401035058510
+    },
+    {
+      "type": "edit",
+      "id": "065989f914cc6470",
+      "item": {
+        "type": "paragraph",
+        "id": "065989f914cc6470",
+        "text": "We have various read-only servers that participate by serving json into a client started elsewhere."
+      },
+      "date": 1401036894079
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "17b26156866b171c",
+        "text": ""
+      },
+      "id": "17b26156866b171c",
+      "type": "add",
+      "after": "5319b4f53f366f94",
+      "date": 1401047584636
+    },
+    {
+      "type": "edit",
+      "id": "17b26156866b171c",
+      "item": {
+        "type": "paragraph",
+        "id": "17b26156866b171c",
+        "text": "Servers have, but shouldn't continue, fetching from remote servers during a fork. Rather, the client should relay content."
+      },
+      "date": 1401047750267
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b6a05b5515652083",
+        "text": ""
+      },
+      "id": "b6a05b5515652083",
+      "type": "add",
+      "after": "3781c61aeefe6c09",
+      "date": 1401195764824
+    },
+    {
+      "type": "edit",
+      "id": "b6a05b5515652083",
+      "item": {
+        "type": "paragraph",
+        "id": "b6a05b5515652083",
+        "text": "We've made drag-and-drop a workable mechanism for connecting previously unrelated sites."
+      },
+      "date": 1401195869144
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c40d98f191aee4f6",
+        "text": ""
+      },
+      "id": "c40d98f191aee4f6",
+      "type": "add",
+      "after": "6d6e3098ce86c679",
+      "date": 1401502400353
+    },
+    {
+      "type": "edit",
+      "id": "c40d98f191aee4f6",
+      "item": {
+        "type": "paragraph",
+        "id": "c40d98f191aee4f6",
+        "text": "See also [[Laptop Server]]"
+      },
+      "date": 1401502411131
+    },
+    {
+      "type": "fork",
+      "site": "ward.fed.wiki.org",
+      "date": 1414135422241
+    },
+    {
+      "type": "edit",
+      "id": "d261696800ede496",
+      "item": {
+        "type": "html",
+        "id": "d261696800ede496",
+        "text": "<h3> History"
+      },
+      "date": 1421896327504
+    },
+    {
+      "type": "edit",
+      "id": "0e2133f64fc6b6c1",
+      "item": {
+        "type": "html",
+        "id": "0e2133f64fc6b6c1",
+        "text": "<h3> Remote"
+      },
+      "date": 1421896330063
+    },
+    {
+      "type": "edit",
+      "id": "90bfcad220724167",
+      "item": {
+        "type": "html",
+        "id": "90bfcad220724167",
+        "text": "<h3> Origin"
+      },
+      "date": 1421896331871
+    },
+    {
+      "type": "edit",
+      "id": "f3a9bd2905d5f11f",
+      "item": {
+        "type": "html",
+        "id": "f3a9bd2905d5f11f",
+        "text": "<h3> Editor"
+      },
+      "date": 1421896334116
+    },
+    {
+      "type": "edit",
+      "id": "cb83357602b1e4b2",
+      "item": {
+        "type": "html",
+        "id": "cb83357602b1e4b2",
+        "text": "<h3> Future"
+      },
+      "date": 1421896336413
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1538750960377
+    }
+  ]
+}
