@@ -2,9 +2,19 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to the [[Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+      "type": "markdown",
+      "id": "b0228009ea272329",
+      "text": "_disturbingly I managed to completely replace my home page with this fork from one of Ward's wikis. In process of restoring it!_"
+    },
+    {
+      "text": "Welcome to this [[Federated Wiki]] site - personal site for [[Julian Elve]]. I am using this for general note-taking and experiments with [[Federated Wiki]]. ",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "903c0a7f34744b9e",
+      "text": "I also have a couple of subject-specific areas:"
     },
     {
       "type": "paragraph",
@@ -36,6 +46,16 @@
     {
       "type": "changes",
       "id": "55b26a986bb8be6f"
+    },
+    {
+      "type": "markdown",
+      "id": "97358d64ee1fe4d8",
+      "text": "[[Recycled Pages]]"
+    },
+    {
+      "type": "markdown",
+      "id": "9444a258b0bddc8a",
+      "text": "[[About this site]]"
     }
   ],
   "journal": [
@@ -484,6 +504,184 @@
       ],
       "id": "ee416d431ebf4fb4",
       "date": 1538688475396
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "97358d64ee1fe4d8"
+      },
+      "id": "97358d64ee1fe4d8",
+      "type": "add",
+      "after": "55b26a986bb8be6f",
+      "date": 1538720900784
+    },
+    {
+      "type": "edit",
+      "id": "97358d64ee1fe4d8",
+      "item": {
+        "type": "markdown",
+        "id": "97358d64ee1fe4d8",
+        "text": "[[Recycled Pages]]"
+      },
+      "date": 1538720919290
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9444a258b0bddc8a"
+      },
+      "id": "9444a258b0bddc8a",
+      "type": "add",
+      "after": "97358d64ee1fe4d8",
+      "date": 1538720952086
+    },
+    {
+      "type": "edit",
+      "id": "9444a258b0bddc8a",
+      "item": {
+        "type": "markdown",
+        "id": "9444a258b0bddc8a",
+        "text": "[[About this site]]"
+      },
+      "date": 1538720962808
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b0228009ea272329"
+      },
+      "id": "b0228009ea272329",
+      "type": "add",
+      "after": "9444a258b0bddc8a",
+      "date": 1538721124056
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "b0228009ea272329",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "ee416d431ebf4fb4",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "55b26a986bb8be6f",
+        "97358d64ee1fe4d8",
+        "9444a258b0bddc8a"
+      ],
+      "id": "b0228009ea272329",
+      "date": 1538721128338
+    },
+    {
+      "type": "move",
+      "order": [
+        "b0228009ea272329",
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "ee416d431ebf4fb4",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "55b26a986bb8be6f",
+        "97358d64ee1fe4d8",
+        "9444a258b0bddc8a"
+      ],
+      "id": "7b56f22a4b9ee974",
+      "date": 1538721130131
+    },
+    {
+      "type": "edit",
+      "id": "b0228009ea272329",
+      "item": {
+        "type": "markdown",
+        "id": "b0228009ea272329",
+        "text": "_disturbingly I managed to completely replace my home page with this fork from one of Ward's wikis. In process of restoring it!_"
+      },
+      "date": 1538721176909
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site - personal site for [[Julian Elve]]. I am using this for general note-taking and experiments with [[Federated Wiki]]. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1538721220674
+    },
+    {
+      "type": "add",
+      "id": "903c0a7f34744b9e",
+      "item": {
+        "type": "paragraph",
+        "id": "903c0a7f34744b9e",
+        "text": "I also have a couple of subject-specific areas:Welcome to the [[Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+      },
+      "after": "7b56f22a4b9ee974",
+      "date": 1538721220894
+    },
+    {
+      "type": "edit",
+      "id": "903c0a7f34744b9e",
+      "item": {
+        "type": "paragraph",
+        "id": "903c0a7f34744b9e",
+        "text": "I also have a couple of subject-specific areas:"
+      },
+      "date": 1538721237408
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c4e055f790203c87"
+      },
+      "id": "c4e055f790203c87",
+      "type": "add",
+      "after": "9444a258b0bddc8a",
+      "date": 1538721243557
+    },
+    {
+      "type": "move",
+      "order": [
+        "b0228009ea272329",
+        "7b56f22a4b9ee974",
+        "c4e055f790203c87",
+        "903c0a7f34744b9e",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "ee416d431ebf4fb4",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "55b26a986bb8be6f",
+        "97358d64ee1fe4d8",
+        "9444a258b0bddc8a"
+      ],
+      "id": "c4e055f790203c87",
+      "date": 1538721255486
+    },
+    {
+      "type": "move",
+      "order": [
+        "b0228009ea272329",
+        "7b56f22a4b9ee974",
+        "903c0a7f34744b9e",
+        "c4e055f790203c87",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "ee416d431ebf4fb4",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "55b26a986bb8be6f",
+        "97358d64ee1fe4d8",
+        "9444a258b0bddc8a"
+      ],
+      "id": "903c0a7f34744b9e",
+      "date": 1538721266175
+    },
+    {
+      "type": "remove",
+      "id": "c4e055f790203c87",
+      "date": 1538721271666
     }
   ]
 }
