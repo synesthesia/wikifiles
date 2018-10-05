@@ -13,11 +13,6 @@
     },
     {
       "type": "roster",
-      "id": "5396f966b4352926",
-      "text": "Technology Sites (via c0de academy)\n\nREFERENCES c0de.academy/technology-sites"
-    },
-    {
-      "type": "roster",
       "id": "ad7d0b8a0974c823",
       "text": "ROSTER sites.fed.wiki/federation-directory"
     },
@@ -318,6 +313,11 @@
         "text": "Thompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors"
       },
       "date": 1538656039818
+    },
+    {
+      "type": "remove",
+      "id": "5396f966b4352926",
+      "date": 1538723555971
     }
   ]
 }

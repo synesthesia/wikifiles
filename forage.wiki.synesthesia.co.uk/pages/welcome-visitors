@@ -2,19 +2,14 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "This is my ([[Julian Elve]]) \"forage\" site, where I collect information of interest withou tworrying about overall site structure",
+      "text": "This is my ([[Julian Elve]]) \"forage\" site, where I collect information of interest without worrying about overall site structure",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
     {
-      "type": "paragraph",
-      "id": "324f34c5efdbaa91",
-      "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You can make your own copy of these pages, but you will need your own [[Federated Wiki]] site to participate."
-    },
-    {
       "type": "roster",
-      "id": "fd716d0433c6eca4",
-      "text": "Julian\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
+      "id": "536f6e1bd20f2d5e",
+      "text": "ROSTER wiki.synesthesia.co.uk/julian-elve"
     },
     {
       "type": "paragraph",
@@ -835,6 +830,90 @@
       ],
       "id": "4aa2a2fea8e349dc",
       "date": 1522744802704
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "This is my ([[Julian Elve]]) \"forage\" site, where I collect information of interest without worrying about overall site structure",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1538724565221
+    },
+    {
+      "type": "remove",
+      "id": "324f34c5efdbaa91",
+      "date": 1538724576379
+    },
+    {
+      "type": "edit",
+      "id": "fd716d0433c6eca4",
+      "item": {
+        "type": "roster",
+        "id": "fd716d0433c6eca4",
+        "text": "Roster \n"
+      },
+      "date": 1538724602722
+    },
+    {
+      "type": "edit",
+      "id": "fd716d0433c6eca4",
+      "item": {
+        "type": "roster",
+        "id": "fd716d0433c6eca4",
+        "text": "ROSTER wiki.synesthesia.co.uk/julian-elve \n"
+      },
+      "date": 1538724643285
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "536f6e1bd20f2d5e"
+      },
+      "id": "536f6e1bd20f2d5e",
+      "type": "add",
+      "after": "27504524edc46225",
+      "date": 1538724660542
+    },
+    {
+      "type": "edit",
+      "id": "536f6e1bd20f2d5e",
+      "item": {
+        "type": "roster",
+        "id": "536f6e1bd20f2d5e",
+        "text": "ROSTER wiki.synesthesia.co.uk/julian-elve"
+      },
+      "date": 1538724685700
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "536f6e1bd20f2d5e",
+        "fd716d0433c6eca4",
+        "821827c99b90cfd1",
+        "4aa2a2fea8e349dc",
+        "63ad2e58eecdd9e5",
+        "27504524edc46225"
+      ],
+      "id": "536f6e1bd20f2d5e",
+      "date": 1538724688857
+    },
+    {
+      "type": "edit",
+      "id": "fd716d0433c6eca4",
+      "item": {
+        "type": "roster",
+        "id": "fd716d0433c6eca4",
+        "text": "\n"
+      },
+      "date": 1538724693927
+    },
+    {
+      "type": "remove",
+      "id": "fd716d0433c6eca4",
+      "date": 1538724699014
     }
   ]
 }

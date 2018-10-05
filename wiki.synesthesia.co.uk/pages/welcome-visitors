@@ -2,14 +2,24 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "type": "markdown",
-      "id": "b0228009ea272329",
-      "text": "_disturbingly I managed to completely replace my home page with this fork from one of Ward's wikis. In process of restoring it!_"
-    },
-    {
       "text": "Welcome to this [[Federated Wiki]] site - personal site for [[Julian Elve]]. I am using this for general note-taking and experiments with [[Federated Wiki]]. ",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
+    },
+    {
+      "type": "markdown",
+      "id": "9444a258b0bddc8a",
+      "text": "[[About this site]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "79c7b614f39532d7",
+      "text": "It's not clear to me what this top level wiki wants to be, so I have created a separate wiki for unstructured notes and journalling:"
+    },
+    {
+      "type": "paragraph",
+      "id": "ea8d6652fc10bff1",
+      "text": "[https://forage.wiki.synesthesia.co.uk Finds and Notes]"
     },
     {
       "type": "paragraph",
@@ -18,14 +28,33 @@
     },
     {
       "type": "paragraph",
-      "id": "821827c99b90cfd1",
-      "text": "Pages about us."
+      "id": "0328c7ca9941cd51",
+      "text": "[https://pkm.wiki.synesthesia.co.uk Personal Knowledge Management]"
     },
     {
       "type": "paragraph",
-      "id": "63ad2e58eecdd9e5",
-      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
-      "text": "[[Ward Cunningham]]"
+      "id": "e6f9f58b25d02c1d",
+      "text": "[https://code.wiki.synesthesia.co.uk Code Notes]"
+    },
+    {
+      "type": "markdown",
+      "id": "48492be542716aa8",
+      "text": "Search works in a particular way in [[Federated Wiki]], specifically it looks in sites that are in the current [[Neighborhood]] (_sorry, it's American English_). To add further sites to the Neighborhood, click the blue chevrons to the right of a list of site flags in one of the boxes below"
+    },
+    {
+      "type": "roster",
+      "id": "5f2ada1338df24e3",
+      "text": "Julian Elve\n\nnwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "26dec414348466ce",
+      "text": "Other ways to expand the search neighbourhood  - visit one of these pages and click through"
+    },
+    {
+      "type": "markdown",
+      "id": "97358d64ee1fe4d8",
+      "text": "[[People I Read]] (Rosters)\n[[Special Interest Groups]]"
     },
     {
       "type": "paragraph",
@@ -33,29 +62,8 @@
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
     },
     {
-      "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
-    },
-    {
-      "type": "paragraph",
-      "id": "05e2fa92643677ca",
-      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
-      "text": "[[Goals for Federated Wiki]]"
-    },
-    {
       "type": "changes",
       "id": "55b26a986bb8be6f"
-    },
-    {
-      "type": "markdown",
-      "id": "97358d64ee1fe4d8",
-      "text": "[[Recycled Pages]]"
-    },
-    {
-      "type": "markdown",
-      "id": "9444a258b0bddc8a",
-      "text": "[[About this site]]"
     }
   ],
   "journal": [
@@ -682,6 +690,404 @@
       "type": "remove",
       "id": "c4e055f790203c87",
       "date": 1538721271666
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5f2ada1338df24e3"
+      },
+      "id": "5f2ada1338df24e3",
+      "type": "add",
+      "after": "9444a258b0bddc8a",
+      "date": 1538721301208
+    },
+    {
+      "type": "edit",
+      "id": "5f2ada1338df24e3",
+      "item": {
+        "type": "roster",
+        "id": "5f2ada1338df24e3",
+        "text": "Julian's Public Sites\n\nnwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
+      },
+      "date": 1538721336420
+    },
+    {
+      "type": "move",
+      "order": [
+        "b0228009ea272329",
+        "7b56f22a4b9ee974",
+        "903c0a7f34744b9e",
+        "5f2ada1338df24e3",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "ee416d431ebf4fb4",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "55b26a986bb8be6f",
+        "97358d64ee1fe4d8",
+        "9444a258b0bddc8a"
+      ],
+      "id": "5f2ada1338df24e3",
+      "date": 1538721341459
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1538721426151
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1538721430579
+    },
+    {
+      "type": "move",
+      "order": [
+        "b0228009ea272329",
+        "7b56f22a4b9ee974",
+        "903c0a7f34744b9e",
+        "5f2ada1338df24e3",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "55b26a986bb8be6f",
+        "97358d64ee1fe4d8",
+        "9444a258b0bddc8a",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "ee416d431ebf4fb4",
+      "date": 1538721437698
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "79468aa874ed0d33"
+      },
+      "id": "79468aa874ed0d33",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1538721833252
+    },
+    {
+      "type": "remove",
+      "id": "79468aa874ed0d33",
+      "date": 1538721866353
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1538721894589
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1538721926151
+    },
+    {
+      "type": "add",
+      "id": "0328c7ca9941cd51",
+      "item": {
+        "type": "paragraph",
+        "id": "0328c7ca9941cd51",
+        "text": "[https://pkm.wiki.synesthesia.co.uk Personal Knowledge Management]"
+      },
+      "after": "903c0a7f34744b9e",
+      "date": 1538721984097
+    },
+    {
+      "type": "add",
+      "id": "e6f9f58b25d02c1d",
+      "item": {
+        "type": "paragraph",
+        "id": "e6f9f58b25d02c1d",
+        "text": "[code.wiki.synesthesia.co.uk Code"
+      },
+      "after": "0328c7ca9941cd51",
+      "date": 1538722011558
+    },
+    {
+      "type": "edit",
+      "id": "e6f9f58b25d02c1d",
+      "item": {
+        "type": "paragraph",
+        "id": "e6f9f58b25d02c1d",
+        "text": "[code.wiki.synesthesia.co.uk Code Notes]"
+      },
+      "date": 1538722016122
+    },
+    {
+      "type": "edit",
+      "id": "e6f9f58b25d02c1d",
+      "item": {
+        "type": "paragraph",
+        "id": "e6f9f58b25d02c1d",
+        "text": "[https://code.wiki.synesthesia.co.uk Code Notes]"
+      },
+      "date": 1538722032170
+    },
+    {
+      "type": "add",
+      "id": "79c7b614f39532d7",
+      "item": {
+        "type": "paragraph",
+        "id": "79c7b614f39532d7",
+        "text": "It's not clear to me what this top level wiki wants to be, so I have created a separate wiki for unstructured notes and journalling:"
+      },
+      "after": "7b56f22a4b9ee974",
+      "date": 1538722091659
+    },
+    {
+      "type": "add",
+      "id": "ea8d6652fc10bff1",
+      "item": {
+        "type": "paragraph",
+        "id": "ea8d6652fc10bff1",
+        "text": "[https://forage.wiki.synesthesia.co.uk Finds and Notes]"
+      },
+      "after": "79c7b614f39532d7",
+      "date": 1538722135763
+    },
+    {
+      "type": "move",
+      "order": [
+        "b0228009ea272329",
+        "7b56f22a4b9ee974",
+        "79c7b614f39532d7",
+        "9444a258b0bddc8a",
+        "ea8d6652fc10bff1",
+        "903c0a7f34744b9e",
+        "0328c7ca9941cd51",
+        "e6f9f58b25d02c1d",
+        "5f2ada1338df24e3",
+        "55b26a986bb8be6f",
+        "97358d64ee1fe4d8",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "9444a258b0bddc8a",
+      "date": 1538722301053
+    },
+    {
+      "type": "move",
+      "order": [
+        "b0228009ea272329",
+        "7b56f22a4b9ee974",
+        "9444a258b0bddc8a",
+        "79c7b614f39532d7",
+        "ea8d6652fc10bff1",
+        "903c0a7f34744b9e",
+        "0328c7ca9941cd51",
+        "e6f9f58b25d02c1d",
+        "5f2ada1338df24e3",
+        "55b26a986bb8be6f",
+        "97358d64ee1fe4d8",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "9444a258b0bddc8a",
+      "date": 1538722305202
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "48492be542716aa8"
+      },
+      "id": "48492be542716aa8",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1538722313231
+    },
+    {
+      "type": "edit",
+      "id": "48492be542716aa8",
+      "item": {
+        "type": "markdown",
+        "id": "48492be542716aa8",
+        "text": "Search works in a particular way in [Federated Wiki], specifically it looks in sites that are in the current [Neighbourhood]. To add further sites to the Neigh"
+      },
+      "date": 1538722371129
+    },
+    {
+      "type": "edit",
+      "id": "48492be542716aa8",
+      "item": {
+        "type": "markdown",
+        "id": "48492be542716aa8",
+        "text": "Search works in a particular way in [Federated Wiki], specifically it looks in sites that are in the current [Neighborhood] (_sorry, it's American English_). To add further sites to the Neighborhood, click the blue chevrons to the right of a list of site flags in one of the boxes below"
+      },
+      "date": 1538722527111
+    },
+    {
+      "type": "edit",
+      "id": "48492be542716aa8",
+      "item": {
+        "type": "markdown",
+        "id": "48492be542716aa8",
+        "text": "Search works in a particular way in [Federated Wiki], specifically it looks in sites that are in the current [[Neighborhood]] (_sorry, it's American English_). To add further sites to the Neighborhood, click the blue chevrons to the right of a list of site flags in one of the boxes below"
+      },
+      "date": 1538722542419
+    },
+    {
+      "type": "move",
+      "order": [
+        "b0228009ea272329",
+        "7b56f22a4b9ee974",
+        "9444a258b0bddc8a",
+        "79c7b614f39532d7",
+        "ea8d6652fc10bff1",
+        "903c0a7f34744b9e",
+        "0328c7ca9941cd51",
+        "e6f9f58b25d02c1d",
+        "48492be542716aa8",
+        "5f2ada1338df24e3",
+        "55b26a986bb8be6f",
+        "97358d64ee1fe4d8",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "48492be542716aa8",
+      "date": 1538722643526
+    },
+    {
+      "type": "edit",
+      "id": "48492be542716aa8",
+      "item": {
+        "type": "markdown",
+        "id": "48492be542716aa8",
+        "text": "Search works in a particular way in [[Federated Wiki]], specifically it looks in sites that are in the current [[Neighborhood]] (_sorry, it's American English_). To add further sites to the Neighborhood, click the blue chevrons to the right of a list of site flags in one of the boxes below"
+      },
+      "date": 1538722660832
+    },
+    {
+      "type": "move",
+      "order": [
+        "b0228009ea272329",
+        "7b56f22a4b9ee974",
+        "9444a258b0bddc8a",
+        "79c7b614f39532d7",
+        "ea8d6652fc10bff1",
+        "903c0a7f34744b9e",
+        "0328c7ca9941cd51",
+        "e6f9f58b25d02c1d",
+        "48492be542716aa8",
+        "5f2ada1338df24e3",
+        "ee416d431ebf4fb4",
+        "55b26a986bb8be6f",
+        "97358d64ee1fe4d8"
+      ],
+      "id": "ee416d431ebf4fb4",
+      "date": 1538722989996
+    },
+    {
+      "type": "move",
+      "order": [
+        "b0228009ea272329",
+        "7b56f22a4b9ee974",
+        "9444a258b0bddc8a",
+        "79c7b614f39532d7",
+        "ea8d6652fc10bff1",
+        "903c0a7f34744b9e",
+        "0328c7ca9941cd51",
+        "e6f9f58b25d02c1d",
+        "48492be542716aa8",
+        "5f2ada1338df24e3",
+        "ee416d431ebf4fb4",
+        "97358d64ee1fe4d8",
+        "55b26a986bb8be6f"
+      ],
+      "id": "97358d64ee1fe4d8",
+      "date": 1538722993016
+    },
+    {
+      "type": "edit",
+      "id": "97358d64ee1fe4d8",
+      "item": {
+        "type": "markdown",
+        "id": "97358d64ee1fe4d8",
+        "text": "[[People I Read]]"
+      },
+      "date": 1538723008816
+    },
+    {
+      "type": "move",
+      "order": [
+        "b0228009ea272329",
+        "7b56f22a4b9ee974",
+        "9444a258b0bddc8a",
+        "79c7b614f39532d7",
+        "ea8d6652fc10bff1",
+        "903c0a7f34744b9e",
+        "0328c7ca9941cd51",
+        "e6f9f58b25d02c1d",
+        "48492be542716aa8",
+        "5f2ada1338df24e3",
+        "97358d64ee1fe4d8",
+        "ee416d431ebf4fb4",
+        "55b26a986bb8be6f"
+      ],
+      "id": "97358d64ee1fe4d8",
+      "date": 1538723013215
+    },
+    {
+      "type": "remove",
+      "id": "b0228009ea272329",
+      "date": 1538723505409
+    },
+    {
+      "type": "edit",
+      "id": "97358d64ee1fe4d8",
+      "item": {
+        "type": "markdown",
+        "id": "97358d64ee1fe4d8",
+        "text": "[[People I Read]] (Rosters)\n[[Special Interest Groups]]"
+      },
+      "date": 1538723953959
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "26dec414348466ce"
+      },
+      "id": "26dec414348466ce",
+      "type": "add",
+      "after": "55b26a986bb8be6f",
+      "date": 1538724335998
+    },
+    {
+      "type": "edit",
+      "id": "26dec414348466ce",
+      "item": {
+        "type": "markdown",
+        "id": "26dec414348466ce",
+        "text": "Other ways to expand the search neighbourhood  - visit one of these pages and click through"
+      },
+      "date": 1538724368964
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "9444a258b0bddc8a",
+        "79c7b614f39532d7",
+        "ea8d6652fc10bff1",
+        "903c0a7f34744b9e",
+        "0328c7ca9941cd51",
+        "e6f9f58b25d02c1d",
+        "48492be542716aa8",
+        "5f2ada1338df24e3",
+        "26dec414348466ce",
+        "97358d64ee1fe4d8",
+        "ee416d431ebf4fb4",
+        "55b26a986bb8be6f"
+      ],
+      "id": "26dec414348466ce",
+      "date": 1538724383926
+    },
+    {
+      "type": "edit",
+      "id": "5f2ada1338df24e3",
+      "item": {
+        "type": "roster",
+        "id": "5f2ada1338df24e3",
+        "text": "Julian Elve\n\nnwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
+      },
+      "date": 1538724441211
     }
   ]
 }
