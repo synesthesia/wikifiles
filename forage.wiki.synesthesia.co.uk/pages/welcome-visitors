@@ -31,6 +31,11 @@
       "type": "paragraph",
       "id": "27504524edc46225",
       "text": "[[My Journal]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "bfd30f39150e3cc4",
+      "text": "[[Journal 2018]]"
     }
   ],
   "journal": [
@@ -914,6 +919,26 @@
       "type": "remove",
       "id": "fd716d0433c6eca4",
       "date": 1538724699014
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bfd30f39150e3cc4"
+      },
+      "id": "bfd30f39150e3cc4",
+      "type": "add",
+      "after": "27504524edc46225",
+      "date": 1538981671242
+    },
+    {
+      "type": "edit",
+      "id": "bfd30f39150e3cc4",
+      "item": {
+        "type": "paragraph",
+        "id": "bfd30f39150e3cc4",
+        "text": "[[Journal 2018]]"
+      },
+      "date": 1538981674866
     }
   ]
 }

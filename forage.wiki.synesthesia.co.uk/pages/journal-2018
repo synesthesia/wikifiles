@@ -46,6 +46,30 @@
       "slug": "welcome-visitors",
       "title": "Welcome Visitors",
       "text": "[[FEAST]] is a global decentralised conference and music festival, connected by radio. It is a celebration of local culture, with communities around the world sharing conversation, sound and music."
+    },
+    {
+      "type": "reference",
+      "id": "116eb80111effdc2",
+      "site": "future.fedwiki.org",
+      "slug": "a-fedwiki-style-sheet",
+      "title": "A FedWiki Style Sheet",
+      "text": "Here we present for refinement some of the fundamental writing practices for a FedWiki genre. The wiki genre facilitates readers and writers aiming to capture, share, and reuse networked community knowledge."
+    },
+    {
+      "type": "reference",
+      "id": "1b3cc4db9d4b14d9",
+      "site": "journal.mcmorgan.org",
+      "slug": "federated-writing",
+      "title": "Federated Writing",
+      "text": "Here we consider what federated writing is. So far we have:"
+    },
+    {
+      "type": "reference",
+      "id": "5e394ef99c174d48",
+      "site": "ward.asia.wiki.org",
+      "slug": "internal-link-style-guide",
+      "title": "Internal Link Style Guide",
+      "text": "Double-square-brackets makes a word or phrase into a hyperlink. This works best if the link is surrounded by words or placed in a context that makes it clear to a reader when thy might benefit from a shift of context."
     }
   ],
   "journal": [
@@ -280,6 +304,75 @@
         "text": "[[FEAST]] is a global decentralised conference and music festival, connected by radio. It is a celebration of local culture, with communities around the world sharing conversation, sound and music."
       },
       "date": 1538752264898
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "116eb80111effdc2"
+      },
+      "id": "116eb80111effdc2",
+      "type": "add",
+      "after": "98b56c23ac266259",
+      "date": 1538981518414
+    },
+    {
+      "type": "edit",
+      "id": "116eb80111effdc2",
+      "item": {
+        "type": "reference",
+        "id": "116eb80111effdc2",
+        "site": "future.fedwiki.org",
+        "slug": "a-fedwiki-style-sheet",
+        "title": "A FedWiki Style Sheet",
+        "text": "Here we present for refinement some of the fundamental writing practices for a FedWiki genre. The wiki genre facilitates readers and writers aiming to capture, share, and reuse networked community knowledge."
+      },
+      "date": 1538981523667
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1b3cc4db9d4b14d9"
+      },
+      "id": "1b3cc4db9d4b14d9",
+      "type": "add",
+      "after": "116eb80111effdc2",
+      "date": 1538981586445
+    },
+    {
+      "type": "edit",
+      "id": "1b3cc4db9d4b14d9",
+      "item": {
+        "type": "reference",
+        "id": "1b3cc4db9d4b14d9",
+        "site": "journal.mcmorgan.org",
+        "slug": "federated-writing",
+        "title": "Federated Writing",
+        "text": "Here we consider what federated writing is. So far we have:"
+      },
+      "date": 1538981704593
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5e394ef99c174d48"
+      },
+      "id": "5e394ef99c174d48",
+      "type": "add",
+      "after": "1b3cc4db9d4b14d9",
+      "date": 1538981731892
+    },
+    {
+      "type": "edit",
+      "id": "5e394ef99c174d48",
+      "item": {
+        "type": "reference",
+        "id": "5e394ef99c174d48",
+        "site": "ward.asia.wiki.org",
+        "slug": "internal-link-style-guide",
+        "title": "Internal Link Style Guide",
+        "text": "Double-square-brackets makes a word or phrase into a hyperlink. This works best if the link is surrounded by words or placed in a context that makes it clear to a reader when thy might benefit from a shift of context."
+      },
+      "date": 1538981736448
     }
   ]
 }
