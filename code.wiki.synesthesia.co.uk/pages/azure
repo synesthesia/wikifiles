@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "77689922884c04f9",
       "text": "[[Azure Functions]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "04d13ce84905a1a7",
+      "text": "[[Logic Apps / Flow]]"
     }
   ],
   "journal": [
@@ -34,6 +39,26 @@
         "text": "[[Azure Functions]]"
       },
       "date": 1522844079488
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "04d13ce84905a1a7"
+      },
+      "id": "04d13ce84905a1a7",
+      "type": "add",
+      "after": "77689922884c04f9",
+      "date": 1539173373314
+    },
+    {
+      "type": "edit",
+      "id": "04d13ce84905a1a7",
+      "item": {
+        "type": "paragraph",
+        "id": "04d13ce84905a1a7",
+        "text": "[[Logic Apps / Flow]]"
+      },
+      "date": 1539173385723
     }
   ]
 }

@@ -1,0 +1,53 @@
+{
+  "title": "Flow - Check for Null",
+  "story": [
+    {
+      "type": "code",
+      "id": "aabfa5d2fc4de46f",
+      "text": "@empty(body('STEPNAME')?['value'])"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Flow - Check for Null",
+        "story": []
+      },
+      "date": 1539173466741
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "16c9d82ec85396c2"
+      },
+      "id": "16c9d82ec85396c2",
+      "type": "add",
+      "date": 1539173477432
+    },
+    {
+      "type": "remove",
+      "id": "16c9d82ec85396c2",
+      "date": 1539173482470
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aabfa5d2fc4de46f"
+      },
+      "id": "aabfa5d2fc4de46f",
+      "type": "add",
+      "date": 1539173485599
+    },
+    {
+      "type": "edit",
+      "id": "aabfa5d2fc4de46f",
+      "item": {
+        "type": "code",
+        "id": "aabfa5d2fc4de46f",
+        "text": "@empty(body('STEPNAME')?['value'])"
+      },
+      "date": 1539173499432
+    }
+  ]
+}
