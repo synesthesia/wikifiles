@@ -5,6 +5,10 @@
       "type": "paragraph",
       "id": "ddcf16aaa95ab647",
       "text": "[[Flow - Check for Null]]"
+    },
+    {
+      "type": "factory",
+      "id": "b83217aff20c7dfd"
     }
   ],
   "journal": [
@@ -34,6 +38,16 @@
         "text": "[[Flow - Check for Null]]"
       },
       "date": 1539173461722
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b83217aff20c7dfd"
+      },
+      "id": "b83217aff20c7dfd",
+      "type": "add",
+      "after": "ddcf16aaa95ab647",
+      "date": 1539258695993
     }
   ]
 }
