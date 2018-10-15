@@ -25,6 +25,21 @@
       "type": "pagefold",
       "id": "e050302778bfd4dc",
       "text": "/"
+    },
+    {
+      "type": "paragraph",
+      "id": "472fd9505bf0d977",
+      "text": "Converter functions"
+    },
+    {
+      "type": "paragraph",
+      "id": "b5331599ef6fee28",
+      "text": "\n"
+    },
+    {
+      "type": "markdown",
+      "id": "b74ab7eafc6f5f99",
+      "text": "* json(): Casts data to application/json\n* xml(): Casts data to application/xml\n* binary(): Casts data to application/octet-stream\n* string(): Casts data to text/plain\n* base64(): Converts content to a base64 string\n* base64toString(): Converts a base64 encoded string to text/plain\n* base64toBinary(): Converts a base64 encoded string to application/octet-stream\n* encodeDataUri(): Encodes a string as a dataUri byte array\n* decodeDataUri(): Decodes a dataUri into a byte array\n"
     }
   ],
   "journal": [
@@ -238,6 +253,96 @@
         "text": "/"
       },
       "date": 1539597853785
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "472fd9505bf0d977"
+      },
+      "id": "472fd9505bf0d977",
+      "type": "add",
+      "after": "e050302778bfd4dc",
+      "date": 1539607270870
+    },
+    {
+      "type": "edit",
+      "id": "472fd9505bf0d977",
+      "item": {
+        "type": "paragraph",
+        "id": "472fd9505bf0d977",
+        "text": "Converter functions"
+      },
+      "date": 1539607280315
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b5331599ef6fee28"
+      },
+      "id": "b5331599ef6fee28",
+      "type": "add",
+      "after": "472fd9505bf0d977",
+      "date": 1539607287360
+    },
+    {
+      "type": "edit",
+      "id": "b5331599ef6fee28",
+      "item": {
+        "type": "paragraph",
+        "id": "b5331599ef6fee28",
+        "text": "* json(): Casts data to application/json\n* xml(): Casts data to application/xml\n* binary(): Casts data to application/octet-stream\n* string(): Casts data to text/plain\n* base64(): Converts content to a base64 string\n* base64toString(): Converts a base64 encoded string to text/plain\n* base64toBinary(): Converts a base64 encoded string to application/octet-stream\n* encodeDataUri(): Encodes a string as a dataUri byte array\n* decodeDataUri(): Decodes a dataUri into a byte array\n"
+      },
+      "date": 1539607316994
+    },
+    {
+      "type": "edit",
+      "id": "b5331599ef6fee28",
+      "item": {
+        "type": "paragraph",
+        "id": "b5331599ef6fee28",
+        "text": "\n"
+      },
+      "date": 1539607324324
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b74ab7eafc6f5f99"
+      },
+      "id": "b74ab7eafc6f5f99",
+      "type": "add",
+      "after": "b5331599ef6fee28",
+      "date": 1539607325796
+    },
+    {
+      "type": "edit",
+      "id": "b74ab7eafc6f5f99",
+      "item": {
+        "type": "markdown",
+        "id": "b74ab7eafc6f5f99",
+        "text": "* json(): Casts data to application/json\n* xml(): Casts data to application/xml\n* binary(): Casts data to application/octet-stream\n* string(): Casts data to text/plain\n* base64(): Converts content to a base64 string\n* base64toString(): Converts a base64 encoded string to text/plain\n* base64toBinary(): Converts a base64 encoded string to application/octet-stream\n* encodeDataUri(): Encodes a string as a dataUri byte array\n* decodeDataUri(): Decodes a dataUri into a byte array"
+      },
+      "date": 1539607330170
+    },
+    {
+      "type": "edit",
+      "id": "b74ab7eafc6f5f99",
+      "item": {
+        "type": "markdown",
+        "id": "b74ab7eafc6f5f99",
+        "text": "```\n* json(): Casts data to application/json\n* xml(): Casts data to application/xml\n* binary(): Casts data to application/octet-stream\n* string(): Casts data to text/plain\n* base64(): Converts content to a base64 string\n* base64toString(): Converts a base64 encoded string to text/plain\n* base64toBinary(): Converts a base64 encoded string to application/octet-stream\n* encodeDataUri(): Encodes a string as a dataUri byte array\n* decodeDataUri(): Decodes a dataUri into a byte array\n```"
+      },
+      "date": 1539607343303
+    },
+    {
+      "type": "edit",
+      "id": "b74ab7eafc6f5f99",
+      "item": {
+        "type": "markdown",
+        "id": "b74ab7eafc6f5f99",
+        "text": "* json(): Casts data to application/json\n* xml(): Casts data to application/xml\n* binary(): Casts data to application/octet-stream\n* string(): Casts data to text/plain\n* base64(): Converts content to a base64 string\n* base64toString(): Converts a base64 encoded string to text/plain\n* base64toBinary(): Converts a base64 encoded string to application/octet-stream\n* encodeDataUri(): Encodes a string as a dataUri byte array\n* decodeDataUri(): Decodes a dataUri into a byte array\n"
+      },
+      "date": 1539607354091
     }
   ]
 }
