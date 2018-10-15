@@ -1,0 +1,154 @@
+{
+  "title": "Flow - content types",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ec1c551cba37d03d",
+      "text": "[[Logic Apps - Flow]] flow data through with the content-type it was received with. Internally data is represented as JSON, with the corollary that data may need to be cast before use."
+    },
+    {
+      "type": "paragraph",
+      "id": "7a39524f7e116ea9",
+      "text": "The Microsoft documentation states [https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-content-type web page]:"
+    },
+    {
+      "type": "pagefold",
+      "id": "445e639b1e2ee1e7",
+      "text": "Handle content types in Azure Logic Apps"
+    },
+    {
+      "type": "audio",
+      "id": "ce28fd2a1b208901",
+      "text": "Various content types can flow through a logic app, for example, JSON, XML, flat files, and binary data. While Logic Apps supports all content types, some have native support and don't require casting or conversion in your logic apps. Other types might require casting or conversion as necessary. This article describes how Logic Apps handles content types and how you can correctly cast or convert these types when necessary."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Flow - content types",
+        "story": []
+      },
+      "date": 1539596635126
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ec1c551cba37d03d"
+      },
+      "id": "ec1c551cba37d03d",
+      "type": "add",
+      "date": 1539596645287
+    },
+    {
+      "type": "edit",
+      "id": "ec1c551cba37d03d",
+      "item": {
+        "type": "paragraph",
+        "id": "ec1c551cba37d03d",
+        "text": "[[Logic Apps - Flow]] handle "
+      },
+      "date": 1539596993012
+    },
+    {
+      "type": "edit",
+      "id": "ec1c551cba37d03d",
+      "item": {
+        "type": "paragraph",
+        "id": "ec1c551cba37d03d",
+        "text": "[[Logic Apps - Flow]] flow data through with the content-type it was received with. Internally data is represented as JSON, with the corollary that datta may need to be cast before use."
+      },
+      "date": 1539597618169
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7a39524f7e116ea9"
+      },
+      "id": "7a39524f7e116ea9",
+      "type": "add",
+      "after": "ec1c551cba37d03d",
+      "date": 1539597619485
+    },
+    {
+      "type": "edit",
+      "id": "7a39524f7e116ea9",
+      "item": {
+        "type": "paragraph",
+        "id": "7a39524f7e116ea9",
+        "text": "The Microsoft documentation states:"
+      },
+      "date": 1539597635140
+    },
+    {
+      "type": "edit",
+      "id": "7a39524f7e116ea9",
+      "item": {
+        "type": "paragraph",
+        "id": "7a39524f7e116ea9",
+        "text": "The Microsoft documentation states [web page](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-content-type):"
+      },
+      "date": 1539597655834
+    },
+    {
+      "type": "edit",
+      "id": "ec1c551cba37d03d",
+      "item": {
+        "type": "paragraph",
+        "id": "ec1c551cba37d03d",
+        "text": "[[Logic Apps - Flow]] flow data through with the content-type it was received with. Internally data is represented as JSON, with the corollary that data may need to be cast before use."
+      },
+      "date": 1539597693354
+    },
+    {
+      "type": "edit",
+      "id": "7a39524f7e116ea9",
+      "item": {
+        "type": "paragraph",
+        "id": "7a39524f7e116ea9",
+        "text": "The Microsoft documentation states [https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-content-type web page]:"
+      },
+      "date": 1539597702379
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "445e639b1e2ee1e7"
+      },
+      "id": "445e639b1e2ee1e7",
+      "type": "add",
+      "after": "7a39524f7e116ea9",
+      "date": 1539597705424
+    },
+    {
+      "type": "edit",
+      "id": "445e639b1e2ee1e7",
+      "item": {
+        "type": "pagefold",
+        "id": "445e639b1e2ee1e7",
+        "text": "Handle content types in Azure Logic Apps"
+      },
+      "date": 1539597725556
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ce28fd2a1b208901"
+      },
+      "id": "ce28fd2a1b208901",
+      "type": "add",
+      "after": "445e639b1e2ee1e7",
+      "date": 1539597726687
+    },
+    {
+      "type": "edit",
+      "id": "ce28fd2a1b208901",
+      "item": {
+        "type": "audio",
+        "id": "ce28fd2a1b208901",
+        "text": "Various content types can flow through a logic app, for example, JSON, XML, flat files, and binary data. While Logic Apps supports all content types, some have native support and don't require casting or conversion in your logic apps. Other types might require casting or conversion as necessary. This article describes how Logic Apps handles content types and how you can correctly cast or convert these types when necessary."
+      },
+      "date": 1539597740423
+    }
+  ]
+}

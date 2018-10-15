@@ -7,8 +7,9 @@
       "text": "[[Flow - Check for Null]]"
     },
     {
-      "type": "factory",
-      "id": "b83217aff20c7dfd"
+      "type": "paragraph",
+      "id": "b83217aff20c7dfd",
+      "text": "[[Flow - content types]]"
     }
   ],
   "journal": [
@@ -48,6 +49,16 @@
       "type": "add",
       "after": "ddcf16aaa95ab647",
       "date": 1539258695993
+    },
+    {
+      "type": "edit",
+      "id": "b83217aff20c7dfd",
+      "item": {
+        "type": "paragraph",
+        "id": "b83217aff20c7dfd",
+        "text": "[[Flow - content types]]"
+      },
+      "date": 1539596631402
     }
   ]
 }
