@@ -47,14 +47,14 @@
       "text": "[[Extreme Programming]]"
     },
     {
-      "type": "markdown",
-      "id": "ae1740e5140ced00",
-      "text": "[[UnixTools]]"
-    },
-    {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    },
+    {
+      "type": "markdown",
+      "id": "27e68e6c73536329",
+      "text": "UnixTools"
     }
   ],
   "journal": [
@@ -488,46 +488,24 @@
       "date": 1560197387297
     },
     {
-      "type": "fork",
-      "date": 1560197444019
-    },
-    {
       "item": {
         "type": "factory",
-        "id": "ae1740e5140ced00"
+        "id": "27e68e6c73536329"
       },
-      "id": "ae1740e5140ced00",
+      "id": "27e68e6c73536329",
       "type": "add",
       "after": "ee416d431ebf4fb4",
-      "date": 1560197446021
+      "date": 1560197391043
     },
     {
       "type": "edit",
-      "id": "ae1740e5140ced00",
+      "id": "27e68e6c73536329",
       "item": {
         "type": "markdown",
-        "id": "ae1740e5140ced00",
-        "text": "[[UnixTools]]"
+        "id": "27e68e6c73536329",
+        "text": "UnixTools"
       },
-      "date": 1560197459313
-    },
-    {
-      "type": "move",
-      "order": [
-        "7b56f22a4b9ee974",
-        "2ac11f8df56b47d7",
-        "b1bea368697866f0",
-        "798a3a9b67a723c7",
-        "ae893789a3a1f3fc",
-        "c40a1f63eb57e676",
-        "5cfeeecb2ddc82be",
-        "af1945546f160590",
-        "d71c87c252ae2bb8",
-        "ae1740e5140ced00",
-        "ee416d431ebf4fb4"
-      ],
-      "id": "ae1740e5140ced00",
-      "date": 1560197461661
+      "date": 1560197420364
     }
   ]
 }
