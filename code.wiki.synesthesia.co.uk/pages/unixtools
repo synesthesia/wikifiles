@@ -1,0 +1,48 @@
+{
+  "title": "UnixTools",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "e6844e7146e41355",
+      "text": "[[sed]]\n[[find]]\n[[grep]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "UnixTools",
+        "story": []
+      },
+      "date": 1560234493103,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1560234517397
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e6844e7146e41355"
+      },
+      "id": "e6844e7146e41355",
+      "type": "add",
+      "date": 1560234522543
+    },
+    {
+      "type": "edit",
+      "id": "e6844e7146e41355",
+      "item": {
+        "type": "markdown",
+        "id": "e6844e7146e41355",
+        "text": "[[sed]]\n[[find]]\n[[grep]]"
+      },
+      "date": 1560234552050
+    }
+  ]
+}

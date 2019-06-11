@@ -1,0 +1,178 @@
+{
+  "title": "sed",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "3a70f0b45693033f",
+      "text": "**sed** is extremely useful for manipulating text"
+    },
+    {
+      "type": "markdown",
+      "id": "9268936d09fa8bb6",
+      "text": "**sed** is strange\n"
+    },
+    {
+      "type": "markdown",
+      "id": "4923c356530c8a11",
+      "text": "or to be precise, its use of regexes looks strange to 2019 eyes because it predates other regex tools\n"
+    },
+    {
+      "type": "markdown",
+      "id": "02f3fe352884364f",
+      "text": "**remember** to use `-E` to get anything like useful regex behaviour..."
+    },
+    {
+      "type": "markdown",
+      "id": "56e4f078efc230e6",
+      "text": "SourceForge has a useful reference [http://sed.sourceforge.net/grabbag/tutorials/sedfaq.txt page]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "sed",
+        "story": []
+      },
+      "date": 1560234556388
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9268936d09fa8bb6"
+      },
+      "id": "9268936d09fa8bb6",
+      "type": "add",
+      "date": 1560234558246
+    },
+    {
+      "type": "edit",
+      "id": "9268936d09fa8bb6",
+      "item": {
+        "type": "markdown",
+        "id": "9268936d09fa8bb6",
+        "text": "**sed** is strange\n"
+      },
+      "date": 1560234570239
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0a9957f330aef54d"
+      },
+      "id": "0a9957f330aef54d",
+      "type": "add",
+      "after": "4923c356530c8a11",
+      "date": 1560234604214
+    },
+    {
+      "type": "add",
+      "id": "4923c356530c8a11",
+      "item": {
+        "type": "markdown",
+        "id": "4923c356530c8a11",
+        "text": "or to be precise, it's use of regexes looks strange to 2019 eyes because it predates other regex tools\n"
+      },
+      "after": "9268936d09fa8bb6",
+      "date": 1560234605257
+    },
+    {
+      "type": "edit",
+      "id": "4923c356530c8a11",
+      "item": {
+        "type": "markdown",
+        "id": "4923c356530c8a11",
+        "text": "or to be precise, its use of regexes looks strange to 2019 eyes because it predates other regex tools\n"
+      },
+      "date": 1560234612321
+    },
+    {
+      "type": "remove",
+      "id": "0a9957f330aef54d",
+      "date": 1560234632075
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "56e4f078efc230e6"
+      },
+      "id": "56e4f078efc230e6",
+      "type": "add",
+      "after": "4923c356530c8a11",
+      "date": 1560234782740
+    },
+    {
+      "type": "edit",
+      "id": "56e4f078efc230e6",
+      "item": {
+        "type": "markdown",
+        "id": "56e4f078efc230e6",
+        "text": "SourceForge has a useful reference [http://sed.sourceforge.net/grabbag/tutorials/sedfaq.txt page]"
+      },
+      "date": 1560234803120
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "02f3fe352884364f"
+      },
+      "id": "02f3fe352884364f",
+      "type": "add",
+      "after": "56e4f078efc230e6",
+      "date": 1560234819549
+    },
+    {
+      "type": "edit",
+      "id": "02f3fe352884364f",
+      "item": {
+        "type": "markdown",
+        "id": "02f3fe352884364f",
+        "text": "**remember** to use `-E` to get anything like useful regex behaviour..."
+      },
+      "date": 1560234844323
+    },
+    {
+      "type": "move",
+      "order": [
+        "9268936d09fa8bb6",
+        "4923c356530c8a11",
+        "02f3fe352884364f",
+        "56e4f078efc230e6"
+      ],
+      "id": "02f3fe352884364f",
+      "date": 1560234847192
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3a70f0b45693033f"
+      },
+      "id": "3a70f0b45693033f",
+      "type": "add",
+      "after": "56e4f078efc230e6",
+      "date": 1560234872004
+    },
+    {
+      "type": "edit",
+      "id": "3a70f0b45693033f",
+      "item": {
+        "type": "markdown",
+        "id": "3a70f0b45693033f",
+        "text": "**sed** is extremely useful for manipulating text"
+      },
+      "date": 1560234889684
+    },
+    {
+      "type": "move",
+      "order": [
+        "3a70f0b45693033f",
+        "9268936d09fa8bb6",
+        "4923c356530c8a11",
+        "02f3fe352884364f",
+        "56e4f078efc230e6"
+      ],
+      "id": "3a70f0b45693033f",
+      "date": 1560234891887
+    }
+  ]
+}
