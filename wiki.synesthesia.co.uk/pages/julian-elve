@@ -26,7 +26,7 @@
     {
       "type": "paragraph",
       "id": "90ec4f7ae17050ac",
-      "text": "[https://www.synesthesia.co.uk/worknotes/ Working Aloud]"
+      "text": "[https://www.synesthesia.co.uk/note/ Working Aloud]"
     },
     {
       "type": "paragraph",
@@ -338,6 +338,26 @@
       },
       "after": "1165719e648f7541",
       "date": 1538724516340
+    },
+    {
+      "type": "edit",
+      "id": "90ec4f7ae17050ac",
+      "item": {
+        "type": "paragraph",
+        "id": "90ec4f7ae17050ac",
+        "text": "[https://www.synesthesia.co.uk/notes/ Working Aloud]"
+      },
+      "date": 1560263568369
+    },
+    {
+      "type": "edit",
+      "id": "90ec4f7ae17050ac",
+      "item": {
+        "type": "paragraph",
+        "id": "90ec4f7ae17050ac",
+        "text": "[https://www.synesthesia.co.uk/note/ Working Aloud]"
+      },
+      "date": 1560263576841
     }
   ]
 }
