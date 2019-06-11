@@ -8,6 +8,11 @@
     },
     {
       "type": "markdown",
+      "id": "c9c834016dad56e7",
+      "text": "**sed** is venerable - see M Douglas McIlroy [https://www.cs.dartmouth.edu/~doug/reader.pdf pdf]"
+    },
+    {
+      "type": "markdown",
       "id": "9268936d09fa8bb6",
       "text": "**sed** is strange\n"
     },
@@ -173,6 +178,39 @@
       ],
       "id": "3a70f0b45693033f",
       "date": 1560234891887
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c9c834016dad56e7"
+      },
+      "id": "c9c834016dad56e7",
+      "type": "add",
+      "after": "56e4f078efc230e6",
+      "date": 1560234931059
+    },
+    {
+      "type": "edit",
+      "id": "c9c834016dad56e7",
+      "item": {
+        "type": "markdown",
+        "id": "c9c834016dad56e7",
+        "text": "**sed** is venerable - see M Douglas McIlroy [https://www.cs.dartmouth.edu/~doug/reader.pdf pdf]"
+      },
+      "date": 1560234959834
+    },
+    {
+      "type": "move",
+      "order": [
+        "3a70f0b45693033f",
+        "c9c834016dad56e7",
+        "9268936d09fa8bb6",
+        "4923c356530c8a11",
+        "02f3fe352884364f",
+        "56e4f078efc230e6"
+      ],
+      "id": "c9c834016dad56e7",
+      "date": 1560234964214
     }
   ]
 }

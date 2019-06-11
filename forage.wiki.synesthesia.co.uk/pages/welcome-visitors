@@ -36,6 +36,11 @@
       "type": "paragraph",
       "id": "bfd30f39150e3cc4",
       "text": "[[Journal 2018]]"
+    },
+    {
+      "type": "mathjax",
+      "id": "1befbacfd4bae661",
+      "text": "[[Journal 2019]]"
     }
   ],
   "journal": [
@@ -939,6 +944,26 @@
         "text": "[[Journal 2018]]"
       },
       "date": 1538981674866
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1befbacfd4bae661"
+      },
+      "id": "1befbacfd4bae661",
+      "type": "add",
+      "after": "bfd30f39150e3cc4",
+      "date": 1560238071240
+    },
+    {
+      "type": "edit",
+      "id": "1befbacfd4bae661",
+      "item": {
+        "type": "mathjax",
+        "id": "1befbacfd4bae661",
+        "text": "[[Journal 2019]]"
+      },
+      "date": 1560238085563
     }
   ]
 }

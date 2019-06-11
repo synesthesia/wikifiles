@@ -1,0 +1,95 @@
+{
+  "title": "journal-2019",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "17de85ad216f6b29",
+      "text": "June 2019"
+    },
+    {
+      "type": "reference",
+      "id": "11db98fa4daa50be",
+      "site": "ward.asia.wiki.org",
+      "slug": "dream-big",
+      "title": "Dream Big",
+      "text": "We've allowed ourselves to imagine wiki with many possible features working together well. We do this to find interesting steps along the way."
+    },
+    {
+      "type": "markdown",
+      "id": "f2abba24e83095ff",
+      "text": "Porting main website from wordpress to hugo/netlify"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "journal-2019",
+        "story": []
+      },
+      "date": 1560238091113
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "17de85ad216f6b29"
+      },
+      "id": "17de85ad216f6b29",
+      "type": "add",
+      "date": 1560238092911
+    },
+    {
+      "type": "edit",
+      "id": "17de85ad216f6b29",
+      "item": {
+        "type": "pagefold",
+        "id": "17de85ad216f6b29",
+        "text": "June 2019"
+      },
+      "date": 1560238101976
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "11db98fa4daa50be"
+      },
+      "id": "11db98fa4daa50be",
+      "type": "add",
+      "after": "17de85ad216f6b29",
+      "date": 1560238103364
+    },
+    {
+      "type": "edit",
+      "id": "11db98fa4daa50be",
+      "item": {
+        "type": "reference",
+        "id": "11db98fa4daa50be",
+        "site": "ward.asia.wiki.org",
+        "slug": "dream-big",
+        "title": "Dream Big",
+        "text": "We've allowed ourselves to imagine wiki with many possible features working together well. We do this to find interesting steps along the way."
+      },
+      "date": 1560238129248
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f2abba24e83095ff"
+      },
+      "id": "f2abba24e83095ff",
+      "type": "add",
+      "after": "11db98fa4daa50be",
+      "date": 1560238254409
+    },
+    {
+      "type": "edit",
+      "id": "f2abba24e83095ff",
+      "item": {
+        "type": "markdown",
+        "id": "f2abba24e83095ff",
+        "text": "Porting main website from wordpress to hugo/netlify"
+      },
+      "date": 1560238273975
+    }
+  ]
+}
