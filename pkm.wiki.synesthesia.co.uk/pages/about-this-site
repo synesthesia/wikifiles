@@ -24,7 +24,7 @@
     {
       "type": "html",
       "id": "f910a7b287be78e3",
-      "text": "<h4>Some Key Projects From Other People</h4>"
+      "text": "<h4>Explorations</h4>\n\n[[Markets and Networks]]\n\n<h4>Other people</h4>"
     },
     {
       "type": "paragraph",
@@ -807,6 +807,78 @@
         "text": "[[Federated Wiki Design Principles]]"
       },
       "date": 1538750472495
+    },
+    {
+      "type": "edit",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "<h4>Explorations</h4>\n\n[[Markets and Networks]]\n\n<h4>Other people</h4>"
+      },
+      "date": 1563204967779
+    },
+    {
+      "type": "edit",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "<h4>Explorations</h4>\n\n[[Markets and Networks]]\n\n<h4>Other people</h4>"
+      },
+      "date": 1563204974283
+    },
+    {
+      "type": "edit",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "<h4>Explorations</h4>\n\n[[Markets and Networks]]\n\n<h4>Other people</h4>"
+      },
+      "date": 1563204987832
+    },
+    {
+      "type": "edit",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "<h4>Explorations</h4>\n\n[[Markets and Networks]]\n\n<h4>Other people</h4>"
+      },
+      "date": 1563205013310
+    },
+    {
+      "type": "edit",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "<h4>Explorations</h4>\n\n[[Markets and Networks]]\n\n<h4>Other people</h4>"
+      },
+      "date": 1563205033964,
+      "error": {
+        "type": "error",
+        "msg": ""
+      }
+    },
+    {
+      "type": "edit",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "<h4>Explorations</h4>\n\n[[Markets and Networks]]\n\n<h4>Other people</h4>"
+      },
+      "date": 1563205068977,
+      "error": {
+        "type": "error",
+        "msg": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1563205540560
     }
   ]
 }

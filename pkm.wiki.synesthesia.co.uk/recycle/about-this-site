@@ -17,9 +17,14 @@
       "text": "[[Seek Sense Share]]"
     },
     {
+      "type": "paragraph",
+      "id": "8c8c02d9c97b7aac",
+      "text": "Understanding [[Roles in PKM]]"
+    },
+    {
       "type": "html",
       "id": "f910a7b287be78e3",
-      "text": "<h4>Some Key Projects From Other People</h4>"
+      "text": "<h4>Explorations</h4>\n\nOther people\n\n\n"
     },
     {
       "type": "paragraph",
@@ -55,390 +60,235 @@
       "text": "[[Getting Started with Federated Wiki]]"
     },
     {
-      "type": "factory",
-      "id": "1d8da3c04fce8f09"
+      "type": "paragraph",
+      "id": "d82343789c3e5127",
+      "text": "[[Federated Wiki Design Principles]]"
     }
   ],
   "journal": [
     {
-      "type": "create",
-      "item": {
-        "title": "About This Site",
-        "story": []
-      },
-      "date": 1454487387084
-    },
-    {
       "item": {
         "type": "factory",
-        "id": "f0177fdf76e50ab8"
+        "id": "1d8da3c04fce8f09"
       },
-      "id": "f0177fdf76e50ab8",
-      "type": "add",
-      "date": 1454487388455
-    },
-    {
-      "type": "edit",
-      "id": "f0177fdf76e50ab8",
-      "item": {
-        "type": "paragraph",
-        "id": "f0177fdf76e50ab8",
-        "text": "More to follow...."
-      },
-      "date": 1454487394606
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "321c009bda262c98"
-      },
-      "id": "321c009bda262c98",
-      "type": "add",
-      "after": "f0177fdf76e50ab8",
-      "date": 1454487396863
-    },
-    {
-      "type": "edit",
-      "id": "321c009bda262c98",
-      "item": {
-        "type": "audio",
-        "id": "321c009bda262c98",
-        "text": "**Tools**"
-      },
-      "date": 1454487408990
-    },
-    {
-      "type": "edit",
-      "id": "321c009bda262c98",
-      "item": {
-        "type": "audio",
-        "id": "321c009bda262c98",
-        "text": "*Tools*"
-      },
-      "date": 1454487419553
-    },
-    {
-      "type": "edit",
-      "id": "321c009bda262c98",
-      "item": {
-        "type": "audio",
-        "id": "321c009bda262c98",
-        "text": "Tools\n\n[[Federated Wiki]]"
-      },
-      "date": 1454487435426
-    },
-    {
-      "type": "remove",
-      "id": "321c009bda262c98",
-      "date": 1454487441934
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "65b9107154ca0fb0"
-      },
-      "id": "65b9107154ca0fb0",
-      "type": "add",
-      "after": "f0177fdf76e50ab8",
-      "date": 1454487444032
-    },
-    {
-      "type": "edit",
-      "id": "65b9107154ca0fb0",
-      "item": {
-        "type": "paragraph",
-        "id": "65b9107154ca0fb0",
-        "text": "Tools\n\n[[Federated Wiki]]"
-      },
-      "date": 1454487449950
-    },
-    {
-      "type": "remove",
-      "id": "65b9107154ca0fb0",
-      "date": 1454487509308
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "effcf15a08723ec0"
-      },
-      "id": "effcf15a08723ec0",
-      "type": "add",
-      "after": "f0177fdf76e50ab8",
-      "date": 1454487510821
-    },
-    {
-      "type": "edit",
-      "id": "effcf15a08723ec0",
-      "item": {
-        "type": "markdown",
-        "id": "effcf15a08723ec0",
-        "text": "Tools\n\n[[Federated Wiki]]"
-      },
-      "date": 1454487516961
-    },
-    {
-      "type": "edit",
-      "id": "effcf15a08723ec0",
-      "item": {
-        "type": "markdown",
-        "id": "effcf15a08723ec0",
-        "text": "*Tools*\n\n[[Federated Wiki]]"
-      },
-      "date": 1454487522783
-    },
-    {
-      "type": "edit",
-      "id": "effcf15a08723ec0",
-      "item": {
-        "type": "markdown",
-        "id": "effcf15a08723ec0",
-        "text": "**Tools**\n\n[[Federated Wiki]]\n\n[[Getting Started "
-      },
-      "date": 1454487542437
-    },
-    {
-      "type": "edit",
-      "id": "effcf15a08723ec0",
-      "item": {
-        "type": "markdown",
-        "id": "effcf15a08723ec0",
-        "text": "**Tools**\n\n[[Federated Wiki]]\n\n[[Getting Started with Federated Wiki]]"
-      },
-      "date": 1454487554879
-    },
-    {
-      "type": "edit",
-      "id": "effcf15a08723ec0",
-      "item": {
-        "type": "markdown",
-        "id": "effcf15a08723ec0",
-        "text": "**Tools**\n\n[[Federated Wiki]]\n\n"
-      },
-      "date": 1454487571134
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "a675b3519a23de73"
-      },
-      "id": "a675b3519a23de73",
-      "type": "add",
-      "after": "effcf15a08723ec0",
-      "date": 1454487588776
-    },
-    {
-      "type": "edit",
-      "id": "a675b3519a23de73",
-      "item": {
-        "type": "reference",
-        "id": "a675b3519a23de73",
-        "site": "je.fedwiki.ssatuk.co.uk",
-        "slug": "getting-started-with-federated-wiki",
-        "title": "Getting Started with Federated Wiki",
-        "text": "Obviously, read [[How To Wiki]]."
-      },
-      "date": 1454487591724
-    },
-    {
-      "type": "edit",
-      "id": "effcf15a08723ec0",
-      "item": {
-        "type": "markdown",
-        "id": "effcf15a08723ec0",
-        "text": "**Tools**\n\n[[Federated Wiki]]\n\n[[Getting Started with Federated Wiki]]\n\n"
-      },
-      "date": 1454487625759
-    },
-    {
-      "type": "remove",
-      "id": "a675b3519a23de73",
-      "date": 1454487633726
-    },
-    {
-      "type": "edit",
-      "id": "f0177fdf76e50ab8",
-      "item": {
-        "type": "paragraph",
-        "id": "f0177fdf76e50ab8",
-        "text": "This site serves to pull together ideas about [[Personal Knowledge Management]]"
-      },
-      "date": 1454487933708
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "a3bc6c94042c3a43"
-      },
-      "id": "a3bc6c94042c3a43",
-      "type": "add",
-      "after": "effcf15a08723ec0",
-      "date": 1522220492234
-    },
-    {
-      "type": "edit",
-      "id": "effcf15a08723ec0",
-      "item": {
-        "type": "markdown",
-        "id": "effcf15a08723ec0",
-        "text": "**Tools**\n\n\n\n[[Getting Started with Federated Wiki]]\n\n"
-      },
-      "date": 1522220505433
-    },
-    {
-      "type": "edit",
-      "id": "a3bc6c94042c3a43",
-      "item": {
-        "type": "paragraph",
-        "id": "a3bc6c94042c3a43",
-        "text": "[[Federated Wiki]]"
-      },
-      "date": 1522220508898
-    },
-    {
-      "type": "edit",
-      "id": "effcf15a08723ec0",
-      "item": {
-        "type": "markdown",
-        "id": "effcf15a08723ec0",
-        "text": "**Tools**\n\n\n\n"
-      },
-      "date": 1522220514722
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "86f65943f11bda8a"
-      },
-      "id": "86f65943f11bda8a",
-      "type": "add",
-      "after": "a3bc6c94042c3a43",
-      "date": 1522220516276
-    },
-    {
-      "type": "edit",
-      "id": "86f65943f11bda8a",
-      "item": {
-        "type": "paragraph",
-        "id": "86f65943f11bda8a",
-        "text": "\n\n[[Getting Started with Federated Wiki]]"
-      },
-      "date": 1522220518073
-    },
-    {
-      "type": "edit",
-      "id": "86f65943f11bda8a",
-      "item": {
-        "type": "paragraph",
-        "id": "86f65943f11bda8a",
-        "text": "[[Getting Started with Federated Wiki]]"
-      },
-      "date": 1522220523597
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "f910a7b287be78e3"
-      },
-      "id": "f910a7b287be78e3",
+      "id": "1d8da3c04fce8f09",
       "type": "add",
       "after": "86f65943f11bda8a",
-      "date": 1522220535566
-    },
-    {
-      "type": "edit",
-      "id": "f910a7b287be78e3",
-      "item": {
-        "type": "paragraph",
-        "id": "f910a7b287be78e3",
-        "text": "**Some Key Projects From Other People**"
-      },
-      "date": 1522220558009
-    },
-    {
-      "type": "edit",
-      "id": "f910a7b287be78e3",
-      "item": {
-        "type": "paragraph",
-        "id": "f910a7b287be78e3",
-        "text": "<h3>Some Key Projects From Other People</h3>"
-      },
-      "date": 1522220575882
-    },
-    {
-      "type": "edit",
-      "id": "f910a7b287be78e3",
-      "item": {
-        "type": "html",
-        "id": "f910a7b287be78e3",
-        "text": "<h3>Some Key Projects From Other People</h3>"
-      },
-      "date": 1522220686772
-    },
-    {
-      "type": "edit",
-      "id": "f910a7b287be78e3",
-      "item": {
-        "type": "html",
-        "id": "f910a7b287be78e3",
-        "text": "<h4>Some Key Projects From Other People</h4>"
-      },
-      "date": 1522220697424
+      "date": 1522226617509
     },
     {
       "type": "move",
       "order": [
         "f0177fdf76e50ab8",
+        "5bfa322e150bcc02",
+        "3b8007e0b419e558",
         "f910a7b287be78e3",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "bb529c10c542e1d8",
         "effcf15a08723ec0",
         "a3bc6c94042c3a43",
         "86f65943f11bda8a"
       ],
-      "id": "f910a7b287be78e3",
-      "date": 1522220702202
-    },
-    {
-      "type": "add",
-      "item": {
-        "type": "paragraph",
-        "id": "2bbd646ff3f44b51",
-        "text": "[[The Hidden History of Online Learning]]"
-      },
-      "after": "f910a7b287be78e3",
-      "id": "2bbd646ff3f44b51",
-      "date": 1522220705929
-    },
-    {
-      "type": "add",
-      "item": {
-        "type": "paragraph",
-        "id": "b2d06700b1ceb755",
-        "text": "[[Fedwiki: The Big Picture]]"
-      },
-      "after": "2bbd646ff3f44b51",
-      "id": "b2d06700b1ceb755",
-      "date": 1522220708791
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "a463fa6dffa935b6",
-        "text": "[[Seek Sense Share]]"
-      },
-      "id": "a463fa6dffa935b6",
-      "type": "add",
-      "after": "86f65943f11bda8a",
-      "date": 1522220845832
+      "id": "bb529c10c542e1d8",
+      "date": 1522226614559
     },
     {
       "type": "edit",
-      "id": "a463fa6dffa935b6",
+      "id": "bb529c10c542e1d8",
+      "item": {
+        "type": "reference",
+        "id": "bb529c10c542e1d8",
+        "site": "about.fed.wiki",
+        "slug": "about-federated-wiki",
+        "title": "About Federated Wiki",
+        "text": "We remain excited about this platform and have become increasingly confident that it embodies important new ideas. We will explain."
+      },
+      "date": 1522226587930
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bb529c10c542e1d8"
+      },
+      "id": "bb529c10c542e1d8",
+      "type": "add",
+      "after": "86f65943f11bda8a",
+      "date": 1522226580544
+    },
+    {
+      "type": "remove",
+      "id": "3cff65f0adfffbfb",
+      "date": 1522223610674
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3cff65f0adfffbfb"
+      },
+      "id": "3cff65f0adfffbfb",
+      "type": "add",
+      "after": "86f65943f11bda8a",
+      "date": 1522223600023
+    },
+    {
+      "type": "remove",
+      "id": "b7778707fc6843d1",
+      "date": 1522223587914
+    },
+    {
+      "type": "remove",
+      "id": "1eb4b9152c640631",
+      "date": 1522223581923
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b7778707fc6843d1"
+      },
+      "id": "b7778707fc6843d1",
+      "type": "add",
+      "after": "1eb4b9152c640631",
+      "date": 1522223570327
+    },
+    {
+      "type": "edit",
+      "id": "1eb4b9152c640631",
+      "item": {
+        "type": "factory",
+        "id": "1eb4b9152c640631",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "https://pkm.wiki.synesthesia.co.uk/proxy/hhol.mike.fed.wiki.org/favicon.png",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+        }
+      },
+      "date": 1522223566604
+    },
+    {
+      "type": "edit",
+      "id": "1eb4b9152c640631",
+      "item": {
+        "type": "factory",
+        "id": "1eb4b9152c640631",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "https://pkm.wiki.synesthesia.co.uk/proxy/hhol.mike.fed.wiki.org/favicon.png",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+        }
+      },
+      "date": 1522223555760
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1eb4b9152c640631"
+      },
+      "id": "1eb4b9152c640631",
+      "type": "add",
+      "after": "86f65943f11bda8a",
+      "date": 1522223553552
+    },
+    {
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "5bfa322e150bcc02",
+        "3b8007e0b419e558",
+        "f910a7b287be78e3",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "effcf15a08723ec0",
+        "a3bc6c94042c3a43",
+        "86f65943f11bda8a"
+      ],
+      "id": "3b8007e0b419e558",
+      "date": 1522223426717
+    },
+    {
+      "type": "edit",
+      "id": "3b8007e0b419e558",
       "item": {
         "type": "paragraph",
-        "id": "a463fa6dffa935b6",
+        "id": "3b8007e0b419e558",
         "text": "[[Seek Sense Share]]"
       },
-      "date": 1522220859254
+      "date": 1522223423289
+    },
+    {
+      "type": "edit",
+      "id": "3b8007e0b419e558",
+      "item": {
+        "type": "paragraph",
+        "id": "3b8007e0b419e558",
+        "text": "Seek Sense Share"
+      },
+      "date": 1522223404634
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3b8007e0b419e558"
+      },
+      "id": "3b8007e0b419e558",
+      "type": "add",
+      "after": "86f65943f11bda8a",
+      "date": 1522223395240
+    },
+    {
+      "type": "remove",
+      "id": "a463fa6dffa935b6",
+      "date": 1522223393517
+    },
+    {
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "5bfa322e150bcc02",
+        "a463fa6dffa935b6",
+        "f910a7b287be78e3",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "effcf15a08723ec0",
+        "a3bc6c94042c3a43",
+        "86f65943f11bda8a"
+      ],
+      "id": "5bfa322e150bcc02",
+      "date": 1522220893687
+    },
+    {
+      "type": "edit",
+      "id": "5bfa322e150bcc02",
+      "item": {
+        "type": "html",
+        "id": "5bfa322e150bcc02",
+        "text": "<h4>Approaches</h4>"
+      },
+      "date": 1522220891632
+    },
+    {
+      "type": "edit",
+      "id": "5bfa322e150bcc02",
+      "item": {
+        "type": "paragraph",
+        "id": "5bfa322e150bcc02",
+        "text": "<h4>Approaches</h4>"
+      },
+      "date": 1522220889274
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5bfa322e150bcc02"
+      },
+      "id": "5bfa322e150bcc02",
+      "type": "add",
+      "after": "86f65943f11bda8a",
+      "date": 1522220872180
+    },
+    {
+      "type": "fork",
+      "date": 1522220867829
     },
     {
       "type": "move",
@@ -462,207 +312,424 @@
       }
     },
     {
-      "type": "fork",
-      "date": 1522220867829
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "5bfa322e150bcc02"
-      },
-      "id": "5bfa322e150bcc02",
-      "type": "add",
-      "after": "86f65943f11bda8a",
-      "date": 1522220872180
-    },
-    {
       "type": "edit",
-      "id": "5bfa322e150bcc02",
-      "item": {
-        "type": "paragraph",
-        "id": "5bfa322e150bcc02",
-        "text": "<h4>Approaches</h4>"
-      },
-      "date": 1522220889274
-    },
-    {
-      "type": "edit",
-      "id": "5bfa322e150bcc02",
-      "item": {
-        "type": "html",
-        "id": "5bfa322e150bcc02",
-        "text": "<h4>Approaches</h4>"
-      },
-      "date": 1522220891632
-    },
-    {
-      "type": "move",
-      "order": [
-        "f0177fdf76e50ab8",
-        "5bfa322e150bcc02",
-        "a463fa6dffa935b6",
-        "f910a7b287be78e3",
-        "2bbd646ff3f44b51",
-        "b2d06700b1ceb755",
-        "effcf15a08723ec0",
-        "a3bc6c94042c3a43",
-        "86f65943f11bda8a"
-      ],
-      "id": "5bfa322e150bcc02",
-      "date": 1522220893687
-    },
-    {
-      "type": "remove",
       "id": "a463fa6dffa935b6",
-      "date": 1522223393517
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "3b8007e0b419e558"
-      },
-      "id": "3b8007e0b419e558",
-      "type": "add",
-      "after": "86f65943f11bda8a",
-      "date": 1522223395240
-    },
-    {
-      "type": "edit",
-      "id": "3b8007e0b419e558",
       "item": {
         "type": "paragraph",
-        "id": "3b8007e0b419e558",
-        "text": "Seek Sense Share"
-      },
-      "date": 1522223404634
-    },
-    {
-      "type": "edit",
-      "id": "3b8007e0b419e558",
-      "item": {
-        "type": "paragraph",
-        "id": "3b8007e0b419e558",
+        "id": "a463fa6dffa935b6",
         "text": "[[Seek Sense Share]]"
       },
-      "date": 1522223423289
+      "date": 1522220859254
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a463fa6dffa935b6",
+        "text": "[[Seek Sense Share]]"
+      },
+      "id": "a463fa6dffa935b6",
+      "type": "add",
+      "after": "86f65943f11bda8a",
+      "date": 1522220845832
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "b2d06700b1ceb755",
+        "text": "[[Fedwiki: The Big Picture]]"
+      },
+      "after": "2bbd646ff3f44b51",
+      "id": "b2d06700b1ceb755",
+      "date": 1522220708791
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "[[The Hidden History of Online Learning]]"
+      },
+      "after": "f910a7b287be78e3",
+      "id": "2bbd646ff3f44b51",
+      "date": 1522220705929
     },
     {
       "type": "move",
       "order": [
         "f0177fdf76e50ab8",
-        "5bfa322e150bcc02",
-        "3b8007e0b419e558",
         "f910a7b287be78e3",
-        "2bbd646ff3f44b51",
-        "b2d06700b1ceb755",
         "effcf15a08723ec0",
         "a3bc6c94042c3a43",
         "86f65943f11bda8a"
       ],
-      "id": "3b8007e0b419e558",
-      "date": 1522223426717
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "1eb4b9152c640631"
-      },
-      "id": "1eb4b9152c640631",
-      "type": "add",
-      "after": "86f65943f11bda8a",
-      "date": 1522223553552
+      "id": "f910a7b287be78e3",
+      "date": 1522220702202
     },
     {
       "type": "edit",
-      "id": "1eb4b9152c640631",
+      "id": "f910a7b287be78e3",
       "item": {
-        "type": "factory",
-        "id": "1eb4b9152c640631",
-        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
-        "punt": {
-          "url": "https://pkm.wiki.synesthesia.co.uk/proxy/hhol.mike.fed.wiki.org/favicon.png",
-          "userAgent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
-        }
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "<h4>Some Key Projects From Other People</h4>"
       },
-      "date": 1522223555760
+      "date": 1522220697424
     },
     {
       "type": "edit",
-      "id": "1eb4b9152c640631",
+      "id": "f910a7b287be78e3",
       "item": {
-        "type": "factory",
-        "id": "1eb4b9152c640631",
-        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
-        "punt": {
-          "url": "https://pkm.wiki.synesthesia.co.uk/proxy/hhol.mike.fed.wiki.org/favicon.png",
-          "userAgent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
-        }
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "<h3>Some Key Projects From Other People</h3>"
       },
-      "date": 1522223566604
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "b7778707fc6843d1"
-      },
-      "id": "b7778707fc6843d1",
-      "type": "add",
-      "after": "1eb4b9152c640631",
-      "date": 1522223570327
-    },
-    {
-      "type": "remove",
-      "id": "1eb4b9152c640631",
-      "date": 1522223581923
-    },
-    {
-      "type": "remove",
-      "id": "b7778707fc6843d1",
-      "date": 1522223587914
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "3cff65f0adfffbfb"
-      },
-      "id": "3cff65f0adfffbfb",
-      "type": "add",
-      "after": "86f65943f11bda8a",
-      "date": 1522223600023
-    },
-    {
-      "type": "remove",
-      "id": "3cff65f0adfffbfb",
-      "date": 1522223610674
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "bb529c10c542e1d8"
-      },
-      "id": "bb529c10c542e1d8",
-      "type": "add",
-      "after": "86f65943f11bda8a",
-      "date": 1522226580544
+      "date": 1522220686772
     },
     {
       "type": "edit",
-      "id": "bb529c10c542e1d8",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "paragraph",
+        "id": "f910a7b287be78e3",
+        "text": "<h3>Some Key Projects From Other People</h3>"
+      },
+      "date": 1522220575882
+    },
+    {
+      "type": "edit",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "paragraph",
+        "id": "f910a7b287be78e3",
+        "text": "**Some Key Projects From Other People**"
+      },
+      "date": 1522220558009
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f910a7b287be78e3"
+      },
+      "id": "f910a7b287be78e3",
+      "type": "add",
+      "after": "86f65943f11bda8a",
+      "date": 1522220535566
+    },
+    {
+      "type": "edit",
+      "id": "86f65943f11bda8a",
+      "item": {
+        "type": "paragraph",
+        "id": "86f65943f11bda8a",
+        "text": "[[Getting Started with Federated Wiki]]"
+      },
+      "date": 1522220523597
+    },
+    {
+      "type": "edit",
+      "id": "86f65943f11bda8a",
+      "item": {
+        "type": "paragraph",
+        "id": "86f65943f11bda8a",
+        "text": "\n\n[[Getting Started with Federated Wiki]]"
+      },
+      "date": 1522220518073
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "86f65943f11bda8a"
+      },
+      "id": "86f65943f11bda8a",
+      "type": "add",
+      "after": "a3bc6c94042c3a43",
+      "date": 1522220516276
+    },
+    {
+      "type": "edit",
+      "id": "effcf15a08723ec0",
+      "item": {
+        "type": "markdown",
+        "id": "effcf15a08723ec0",
+        "text": "**Tools**\n\n\n\n"
+      },
+      "date": 1522220514722
+    },
+    {
+      "type": "edit",
+      "id": "a3bc6c94042c3a43",
+      "item": {
+        "type": "paragraph",
+        "id": "a3bc6c94042c3a43",
+        "text": "[[Federated Wiki]]"
+      },
+      "date": 1522220508898
+    },
+    {
+      "type": "edit",
+      "id": "effcf15a08723ec0",
+      "item": {
+        "type": "markdown",
+        "id": "effcf15a08723ec0",
+        "text": "**Tools**\n\n\n\n[[Getting Started with Federated Wiki]]\n\n"
+      },
+      "date": 1522220505433
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a3bc6c94042c3a43"
+      },
+      "id": "a3bc6c94042c3a43",
+      "type": "add",
+      "after": "effcf15a08723ec0",
+      "date": 1522220492234
+    },
+    {
+      "type": "edit",
+      "id": "f0177fdf76e50ab8",
+      "item": {
+        "type": "paragraph",
+        "id": "f0177fdf76e50ab8",
+        "text": "This site serves to pull together ideas about [[Personal Knowledge Management]]"
+      },
+      "date": 1454487933708
+    },
+    {
+      "type": "remove",
+      "id": "a675b3519a23de73",
+      "date": 1454487633726
+    },
+    {
+      "type": "edit",
+      "id": "effcf15a08723ec0",
+      "item": {
+        "type": "markdown",
+        "id": "effcf15a08723ec0",
+        "text": "**Tools**\n\n[[Federated Wiki]]\n\n[[Getting Started with Federated Wiki]]\n\n"
+      },
+      "date": 1454487625759
+    },
+    {
+      "type": "edit",
+      "id": "a675b3519a23de73",
       "item": {
         "type": "reference",
-        "id": "bb529c10c542e1d8",
-        "site": "about.fed.wiki",
-        "slug": "about-federated-wiki",
-        "title": "About Federated Wiki",
-        "text": "We remain excited about this platform and have become increasingly confident that it embodies important new ideas. We will explain."
+        "id": "a675b3519a23de73",
+        "site": "je.fedwiki.ssatuk.co.uk",
+        "slug": "getting-started-with-federated-wiki",
+        "title": "Getting Started with Federated Wiki",
+        "text": "Obviously, read [[How To Wiki]]."
       },
-      "date": 1522226587930
+      "date": 1454487591724
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a675b3519a23de73"
+      },
+      "id": "a675b3519a23de73",
+      "type": "add",
+      "after": "effcf15a08723ec0",
+      "date": 1454487588776
+    },
+    {
+      "type": "edit",
+      "id": "effcf15a08723ec0",
+      "item": {
+        "type": "markdown",
+        "id": "effcf15a08723ec0",
+        "text": "**Tools**\n\n[[Federated Wiki]]\n\n"
+      },
+      "date": 1454487571134
+    },
+    {
+      "type": "edit",
+      "id": "effcf15a08723ec0",
+      "item": {
+        "type": "markdown",
+        "id": "effcf15a08723ec0",
+        "text": "**Tools**\n\n[[Federated Wiki]]\n\n[[Getting Started with Federated Wiki]]"
+      },
+      "date": 1454487554879
+    },
+    {
+      "type": "edit",
+      "id": "effcf15a08723ec0",
+      "item": {
+        "type": "markdown",
+        "id": "effcf15a08723ec0",
+        "text": "**Tools**\n\n[[Federated Wiki]]\n\n[[Getting Started "
+      },
+      "date": 1454487542437
+    },
+    {
+      "type": "edit",
+      "id": "effcf15a08723ec0",
+      "item": {
+        "type": "markdown",
+        "id": "effcf15a08723ec0",
+        "text": "*Tools*\n\n[[Federated Wiki]]"
+      },
+      "date": 1454487522783
+    },
+    {
+      "type": "edit",
+      "id": "effcf15a08723ec0",
+      "item": {
+        "type": "markdown",
+        "id": "effcf15a08723ec0",
+        "text": "Tools\n\n[[Federated Wiki]]"
+      },
+      "date": 1454487516961
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "effcf15a08723ec0"
+      },
+      "id": "effcf15a08723ec0",
+      "type": "add",
+      "after": "f0177fdf76e50ab8",
+      "date": 1454487510821
+    },
+    {
+      "type": "remove",
+      "id": "65b9107154ca0fb0",
+      "date": 1454487509308
+    },
+    {
+      "type": "edit",
+      "id": "65b9107154ca0fb0",
+      "item": {
+        "type": "paragraph",
+        "id": "65b9107154ca0fb0",
+        "text": "Tools\n\n[[Federated Wiki]]"
+      },
+      "date": 1454487449950
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "65b9107154ca0fb0"
+      },
+      "id": "65b9107154ca0fb0",
+      "type": "add",
+      "after": "f0177fdf76e50ab8",
+      "date": 1454487444032
+    },
+    {
+      "type": "remove",
+      "id": "321c009bda262c98",
+      "date": 1454487441934
+    },
+    {
+      "type": "edit",
+      "id": "321c009bda262c98",
+      "item": {
+        "type": "audio",
+        "id": "321c009bda262c98",
+        "text": "Tools\n\n[[Federated Wiki]]"
+      },
+      "date": 1454487435426
+    },
+    {
+      "type": "edit",
+      "id": "321c009bda262c98",
+      "item": {
+        "type": "audio",
+        "id": "321c009bda262c98",
+        "text": "*Tools*"
+      },
+      "date": 1454487419553
+    },
+    {
+      "type": "edit",
+      "id": "321c009bda262c98",
+      "item": {
+        "type": "audio",
+        "id": "321c009bda262c98",
+        "text": "**Tools**"
+      },
+      "date": 1454487408990
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "321c009bda262c98"
+      },
+      "id": "321c009bda262c98",
+      "type": "add",
+      "after": "f0177fdf76e50ab8",
+      "date": 1454487396863
+    },
+    {
+      "type": "edit",
+      "id": "f0177fdf76e50ab8",
+      "item": {
+        "type": "paragraph",
+        "id": "f0177fdf76e50ab8",
+        "text": "More to follow...."
+      },
+      "date": 1454487394606
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f0177fdf76e50ab8"
+      },
+      "id": "f0177fdf76e50ab8",
+      "type": "add",
+      "date": 1454487388455
+    },
+    {
+      "type": "create",
+      "item": {
+        "title": "About This Site",
+        "story": []
+      },
+      "date": 1454487387084
+    },
+    {
+      "type": "remove",
+      "id": "1d8da3c04fce8f09",
+      "date": 1522319617364,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1522319620171,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1522319668444
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8c8c02d9c97b7aac"
+      },
+      "id": "8c8c02d9c97b7aac",
+      "type": "add",
+      "after": "86f65943f11bda8a",
+      "date": 1522767703282
     },
     {
       "type": "move",
       "order": [
         "f0177fdf76e50ab8",
         "5bfa322e150bcc02",
+        "8c8c02d9c97b7aac",
         "3b8007e0b419e558",
         "f910a7b287be78e3",
         "2bbd646ff3f44b51",
@@ -672,18 +739,114 @@
         "a3bc6c94042c3a43",
         "86f65943f11bda8a"
       ],
-      "id": "bb529c10c542e1d8",
-      "date": 1522226614559
+      "id": "8c8c02d9c97b7aac",
+      "date": 1522767705149
+    },
+    {
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "5bfa322e150bcc02",
+        "3b8007e0b419e558",
+        "f910a7b287be78e3",
+        "8c8c02d9c97b7aac",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "bb529c10c542e1d8",
+        "effcf15a08723ec0",
+        "a3bc6c94042c3a43",
+        "86f65943f11bda8a"
+      ],
+      "id": "8c8c02d9c97b7aac",
+      "date": 1522767710111
+    },
+    {
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "5bfa322e150bcc02",
+        "3b8007e0b419e558",
+        "8c8c02d9c97b7aac",
+        "f910a7b287be78e3",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "bb529c10c542e1d8",
+        "effcf15a08723ec0",
+        "a3bc6c94042c3a43",
+        "86f65943f11bda8a"
+      ],
+      "id": "8c8c02d9c97b7aac",
+      "date": 1522767713095
+    },
+    {
+      "type": "edit",
+      "id": "8c8c02d9c97b7aac",
+      "item": {
+        "type": "paragraph",
+        "id": "8c8c02d9c97b7aac",
+        "text": "Understanding [[Roles in PKM]]"
+      },
+      "date": 1522767724342
     },
     {
       "item": {
         "type": "factory",
-        "id": "1d8da3c04fce8f09"
+        "id": "d82343789c3e5127"
       },
-      "id": "1d8da3c04fce8f09",
+      "id": "d82343789c3e5127",
       "type": "add",
       "after": "86f65943f11bda8a",
-      "date": 1522226617509
+      "date": 1538750456684
+    },
+    {
+      "type": "edit",
+      "id": "d82343789c3e5127",
+      "item": {
+        "type": "paragraph",
+        "id": "d82343789c3e5127",
+        "text": "[[Federated Wiki Design Principles]]"
+      },
+      "date": 1538750472495
+    },
+    {
+      "type": "edit",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "<h4>Explorations</h4>\n\n<h4>Some Key Projects From Other People</h4>"
+      },
+      "date": 1563204967779
+    },
+    {
+      "type": "edit",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "<h4>Explorations</h4>\n"
+      },
+      "date": 1563204974283
+    },
+    {
+      "type": "edit",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "<h4>Explorations</h4>\n\n"
+      },
+      "date": 1563204987832
+    },
+    {
+      "type": "edit",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "<h4>Explorations</h4>\n\nOther people\n\n\n"
+      },
+      "date": 1563205013310
     }
   ]
 }
