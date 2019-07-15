@@ -1,0 +1,491 @@
+{
+  "title": "Shallow Knowledge",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fc9462dd15cc94f9",
+      "text": "In terms of non-academic knowledge the same often happens when following a link to a newspaper paywall - further learning stops."
+    },
+    {
+      "type": "paragraph",
+      "id": "5cca7a5c4148ba48",
+      "text": "I suggested that this may be an example of the interface between [[Markets and Networks]]  ([https://mobile.twitter.com/Synesthesia/status/1147752172983074816 tweet])"
+    },
+    {
+      "type": "pagefold",
+      "id": "68d1fb933e03fb09",
+      "text": "Nicholas A Christakis\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "836c97f09ea8e566",
+      "text": "The tendency to believe one understands something based on a shallow reading"
+    },
+    {
+      "type": "paragraph",
+      "id": "888df6b771bd8045",
+      "text": "Interesting anecdote about twitter outrage involving a case study of a controversial medical journal article. Twitter analysis reveals 30,000 tweets expressing outrage about the article. Journal website analysis reveals only 300 people even viewed it."
+    },
+    {
+      "type": "paragraph",
+      "id": "82c36daacd9187ea",
+      "text": "[https://mobile.twitter.com/NAChristakis/status/1144428919501684736 tweet]"
+    },
+    {
+      "type": "pagefold",
+      "id": "d28aae39c88b6922",
+      "text": "   \n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "fe995595507d414d",
+      "text": "via"
+    },
+    {
+      "type": "pagefold",
+      "id": "94b23574795cf0de",
+      "text": "Harold Jarche"
+    },
+    {
+      "type": "paragraph",
+      "id": "c4ce87534710f098",
+      "text": "[...] If there is but one practice that will help with sensemaking, especially online, it is to always read the full article before sharing or commenting. [...]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7f859bea3ab236a9",
+      "text": "[https://jarche.com/2019/03/self-perception-of-knowledge/ blog]"
+    },
+    {
+      "type": "pagefold",
+      "id": "2d63a9daa04ac504",
+      "text": "-\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "fef8e1bf34660817",
+      "text": "Following the first thread I was struck how many times people mentioned that often finding that a paper was behind a paywall stopped them digging deeper to read the original."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Shallow Knowledge",
+        "story": []
+      },
+      "date": 1563207413089
+    },
+    {
+      "item": {
+        "type": "pagefold",
+        "id": "68d1fb933e03fb09",
+        "text": "Nicholas A Christakis\n"
+      },
+      "id": "68d1fb933e03fb09",
+      "type": "add",
+      "date": 1563207414798
+    },
+    {
+      "type": "edit",
+      "id": "68d1fb933e03fb09",
+      "item": {
+        "type": "pagefold",
+        "id": "68d1fb933e03fb09",
+        "text": "Nicholas A Christakis\n"
+      },
+      "date": 1563207426236
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "888df6b771bd8045",
+        "text": "Interesting anecdote about twitter outrage involving a case study of a controversial medical journal article. Twitter analysis reveals 30,000 tweets expressing outrage about the article. Journal website analysis reveals only 300 people even viewed it."
+      },
+      "id": "888df6b771bd8045",
+      "type": "add",
+      "after": "68d1fb933e03fb09",
+      "date": 1563207429910
+    },
+    {
+      "type": "edit",
+      "id": "888df6b771bd8045",
+      "item": {
+        "type": "paragraph",
+        "id": "888df6b771bd8045",
+        "text": "Interesting anecdote about twitter outrage involving a case study of a controversial medical journal article. Twitter analysis reveals 30,000 tweets expressing outrage about the article. Journal website analysis reveals only 300 people even viewed it."
+      },
+      "date": 1563207433952
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "82c36daacd9187ea",
+        "text": "[https://mobile.twitter.com/NAChristakis/status/1144428919501684736 tweet]"
+      },
+      "id": "82c36daacd9187ea",
+      "type": "add",
+      "after": "888df6b771bd8045",
+      "date": 1563207445223
+    },
+    {
+      "item": {
+        "type": "pagefold",
+        "id": "aad86625dfb369ed",
+        "text": ""
+      },
+      "id": "aad86625dfb369ed",
+      "type": "add",
+      "after": "82c36daacd9187ea",
+      "date": 1563207452351
+    },
+    {
+      "type": "edit",
+      "id": "82c36daacd9187ea",
+      "item": {
+        "type": "paragraph",
+        "id": "82c36daacd9187ea",
+        "text": "[https://mobile.twitter.com/NAChristakis/status/1144428919501684736 tweet]"
+      },
+      "date": 1563207455816
+    },
+    {
+      "type": "remove",
+      "id": "aad86625dfb369ed",
+      "date": 1563207458961
+    },
+    {
+      "item": {
+        "type": "pagefold",
+        "id": "b8e19ad98baa0df1",
+        "text": ""
+      },
+      "id": "b8e19ad98baa0df1",
+      "type": "add",
+      "after": "82c36daacd9187ea",
+      "date": 1563207471137
+    },
+    {
+      "type": "edit",
+      "id": "b8e19ad98baa0df1",
+      "item": {
+        "type": "pagefold",
+        "id": "b8e19ad98baa0df1",
+        "text": ""
+      },
+      "date": 1563207488437
+    },
+    {
+      "type": "edit",
+      "id": "68d1fb933e03fb09",
+      "item": {
+        "type": "pagefold",
+        "id": "68d1fb933e03fb09",
+        "text": "Nicholas A Christakis\n"
+      },
+      "date": 1563207498264
+    },
+    {
+      "type": "remove",
+      "id": "b8e19ad98baa0df1",
+      "date": 1563207501786
+    },
+    {
+      "item": {
+        "type": "pagefold",
+        "id": "d28aae39c88b6922",
+        "text": "   \n\n"
+      },
+      "id": "d28aae39c88b6922",
+      "type": "add",
+      "after": "82c36daacd9187ea",
+      "date": 1563207504927
+    },
+    {
+      "type": "edit",
+      "id": "d28aae39c88b6922",
+      "item": {
+        "type": "pagefold",
+        "id": "d28aae39c88b6922",
+        "text": "   \n\n"
+      },
+      "date": 1563207513232
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fe995595507d414d",
+        "text": "via"
+      },
+      "id": "fe995595507d414d",
+      "type": "add",
+      "after": "d28aae39c88b6922",
+      "date": 1563207529788
+    },
+    {
+      "type": "edit",
+      "id": "fe995595507d414d",
+      "item": {
+        "type": "paragraph",
+        "id": "fe995595507d414d",
+        "text": "via"
+      },
+      "date": 1563207534988
+    },
+    {
+      "item": {
+        "type": "pagefold",
+        "id": "94b23574795cf0de",
+        "text": "Harold Jarche"
+      },
+      "id": "94b23574795cf0de",
+      "type": "add",
+      "after": "fe995595507d414d",
+      "date": 1563207537757
+    },
+    {
+      "type": "edit",
+      "id": "94b23574795cf0de",
+      "item": {
+        "type": "pagefold",
+        "id": "94b23574795cf0de",
+        "text": "Harold Jarche"
+      },
+      "date": 1563207594884
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c4ce87534710f098",
+        "text": "[...] If there is but one practice that will help with sensemaking, especially online, it is to always read the full article before sharing or commenting. [...]"
+      },
+      "id": "c4ce87534710f098",
+      "type": "add",
+      "after": "94b23574795cf0de",
+      "date": 1563207618711
+    },
+    {
+      "type": "edit",
+      "id": "c4ce87534710f098",
+      "item": {
+        "type": "paragraph",
+        "id": "c4ce87534710f098",
+        "text": "[...] If there is but one practice that will help with sensemaking, especially online, it is to always read the full article before sharing or commenting. [...]"
+      },
+      "date": 1563207628099
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7f859bea3ab236a9",
+        "text": "[https://jarche.com/2019/03/self-perception-of-knowledge/ blog]"
+      },
+      "id": "7f859bea3ab236a9",
+      "type": "add",
+      "after": "c4ce87534710f098",
+      "date": 1563207631164
+    },
+    {
+      "type": "edit",
+      "id": "7f859bea3ab236a9",
+      "item": {
+        "type": "paragraph",
+        "id": "7f859bea3ab236a9",
+        "text": "[https://jarche.com/2019/03/self-perception-of-knowledge/ blog]"
+      },
+      "date": 1563207637404
+    },
+    {
+      "item": {
+        "type": "pagefold",
+        "id": "2d63a9daa04ac504",
+        "text": "-\n"
+      },
+      "id": "2d63a9daa04ac504",
+      "type": "add",
+      "after": "7f859bea3ab236a9",
+      "date": 1563207639189
+    },
+    {
+      "type": "edit",
+      "id": "2d63a9daa04ac504",
+      "item": {
+        "type": "pagefold",
+        "id": "2d63a9daa04ac504",
+        "text": "-\n"
+      },
+      "date": 1563207651265
+    },
+    {
+      "type": "edit",
+      "id": "c4ce87534710f098",
+      "item": {
+        "type": "paragraph",
+        "id": "c4ce87534710f098",
+        "text": "[...] If there is but one practice that will help with sensemaking, especially online, it is to always read the full article before sharing or commenting. [...]"
+      },
+      "date": 1563207680107
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fef8e1bf34660817",
+        "text": "Following the first thread I was struck how many times people mentioned that often finding that a paper was behind a paywall stopped them diggign deeper to read the original"
+      },
+      "id": "fef8e1bf34660817",
+      "type": "add",
+      "after": "2d63a9daa04ac504",
+      "date": 1563207698198
+    },
+    {
+      "type": "edit",
+      "id": "fef8e1bf34660817",
+      "item": {
+        "type": "paragraph",
+        "id": "fef8e1bf34660817",
+        "text": "Following the first thread I was struck how many times people mentioned that often finding that a paper was behind a paywall stopped them diggign deeper to read the original"
+      },
+      "date": 1563207745083
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "836c97f09ea8e566",
+        "text": "The tendency to believe one understands something based on a shallow reading"
+      },
+      "id": "836c97f09ea8e566",
+      "type": "add",
+      "after": "fef8e1bf34660817",
+      "date": 1563207760444
+    },
+    {
+      "type": "edit",
+      "id": "836c97f09ea8e566",
+      "item": {
+        "type": "paragraph",
+        "id": "836c97f09ea8e566",
+        "text": "The tendency to believe one understands something based on a shallow reading"
+      },
+      "date": 1563207783455
+    },
+    {
+      "type": "move",
+      "order": [
+        "68d1fb933e03fb09",
+        "836c97f09ea8e566",
+        "888df6b771bd8045",
+        "82c36daacd9187ea",
+        "d28aae39c88b6922",
+        "fe995595507d414d",
+        "94b23574795cf0de",
+        "c4ce87534710f098",
+        "7f859bea3ab236a9",
+        "2d63a9daa04ac504",
+        "fef8e1bf34660817",
+        "c3aab4212d20738f"
+      ],
+      "id": "836c97f09ea8e566",
+      "date": 1563207789912,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fc9462dd15cc94f9"
+      },
+      "id": "fc9462dd15cc94f9",
+      "type": "add",
+      "after": "c3aab4212d20738f",
+      "date": 1563207795725
+    },
+    {
+      "type": "fork",
+      "date": 1563207797402
+    },
+    {
+      "type": "edit",
+      "id": "888df6b771bd8045",
+      "item": {
+        "type": "paragraph",
+        "id": "888df6b771bd8045",
+        "text": "__Interesting anecdote about twitter outrage involving a case study of a controversial medical journal article. Twitter analysis reveals 30,000 tweets expressing outrage about the article. Journal website analysis reveals only 300 people even viewed it.__"
+      },
+      "date": 1563207824308
+    },
+    {
+      "type": "edit",
+      "id": "888df6b771bd8045",
+      "item": {
+        "type": "paragraph",
+        "id": "888df6b771bd8045",
+        "text": "Interesting anecdote about twitter outrage involving a case study of a controversial medical journal article. Twitter analysis reveals 30,000 tweets expressing outrage about the article. Journal website analysis reveals only 300 people even viewed it."
+      },
+      "date": 1563207837808
+    },
+    {
+      "type": "edit",
+      "id": "fef8e1bf34660817",
+      "item": {
+        "type": "paragraph",
+        "id": "fef8e1bf34660817",
+        "text": "Following the first thread I was struck how many times people mentioned that often finding that a paper was behind a paywall stopped them digging deeper to read the original."
+      },
+      "date": 1563207851215
+    },
+    {
+      "type": "edit",
+      "id": "fc9462dd15cc94f9",
+      "item": {
+        "type": "paragraph",
+        "id": "fc9462dd15cc94f9",
+        "text": "In terms of non-academic knowledge the same often happens when following a link to a newspaper paywayy - further learning stops."
+      },
+      "date": 1563207955502
+    },
+    {
+      "type": "edit",
+      "id": "fc9462dd15cc94f9",
+      "item": {
+        "type": "paragraph",
+        "id": "fc9462dd15cc94f9",
+        "text": "In terms of non-academic knowledge the same often happens when following a link to a newspaper paywall - further learning stops."
+      },
+      "date": 1563207964479
+    },
+    {
+      "type": "add",
+      "id": "5cca7a5c4148ba48",
+      "item": {
+        "type": "paragraph",
+        "id": "5cca7a5c4148ba48",
+        "text": "I "
+      },
+      "after": "fc9462dd15cc94f9",
+      "date": 1563207972613
+    },
+    {
+      "type": "edit",
+      "id": "5cca7a5c4148ba48",
+      "item": {
+        "type": "paragraph",
+        "id": "5cca7a5c4148ba48",
+        "text": "I suggested that this may be an example of the interface between [[Markets and Networks]]  [https://mobile.twitter.com/Synesthesia/status/1147752172983074816 tweet]"
+      },
+      "date": 1563208054766
+    },
+    {
+      "type": "edit",
+      "id": "5cca7a5c4148ba48",
+      "item": {
+        "type": "paragraph",
+        "id": "5cca7a5c4148ba48",
+        "text": "I suggested that this may be an example of the interface between [[Markets and Networks]]  ([https://mobile.twitter.com/Synesthesia/status/1147752172983074816 tweet])"
+      },
+      "date": 1563208067125
+    }
+  ]
+}

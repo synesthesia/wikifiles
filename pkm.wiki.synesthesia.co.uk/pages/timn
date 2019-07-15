@@ -1,0 +1,213 @@
+{
+  "title": "TIMN",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "b06fa1de966e80a7",
+      "text": "David Ronfeldt"
+    },
+    {
+      "type": "markdown",
+      "id": "be2827bddb3eefa5",
+      "text": "The four major forms of organization\n\nAccording to my review of history and theory, four forms of organization — and evidently only four — lie behind the governance and evolution of all societies across the ages:\n\n* The tribal form was the first to emerge and mature, beginning thousands of years ago. Its main dynamic is kinship, which gives people a distinct sense of identity and belonging — the basic elements of culture, as manifested still today in matters ranging from nationalism to fan clubs.\n\n* The institutional form was the second to emerge. Emphasizing hierarchy, it led to the development of the state and the military, as epitomized initially by the Roman Empire, not to mention the Catholic papacy and other corporate enterprises.\n\n* The market form, the third form of organization to take hold, enables people to excel at openly competitive, free, and fair economic exchanges. Although present in ancient times, it did not gain sway until the 19th century, at first mainly in England.\n\n* The network form, the fourth to mature, serves to connect dispersed groups and individuals so that they may coordinate and act conjointly. Enabled by the digital information-technology revolution, this form is only now coming into its own, so far strengthening civil society more than other realms.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "ecd111bba99d0ca1",
+      "text": "[http://twotheories.blogspot.com/2009/02/overview-of-social-evolution-past.html blog]"
+    },
+    {
+      "type": "pagefold",
+      "id": "6fd67887cbfecb9d",
+      "text": "---\n \n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "TIMN",
+        "story": []
+      },
+      "date": 1563206752096
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b06fa1de966e80a7"
+      },
+      "id": "b06fa1de966e80a7",
+      "type": "add",
+      "date": 1563206756116
+    },
+    {
+      "type": "edit",
+      "id": "b06fa1de966e80a7",
+      "item": {
+        "type": "pagefold",
+        "id": "b06fa1de966e80a7",
+        "text": "David Ronfeldt"
+      },
+      "date": 1563206774045
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7b4939264cdb3e95"
+      },
+      "id": "7b4939264cdb3e95",
+      "type": "add",
+      "after": "b06fa1de966e80a7",
+      "date": 1563206775651
+    },
+    {
+      "type": "edit",
+      "id": "7b4939264cdb3e95",
+      "item": {
+        "type": "paragraph",
+        "id": "7b4939264cdb3e95",
+        "text": "The four major forms of organization\n\nAccording to my review of history and theory, four forms of organization — and evidently only four — lie behind the governance and evolution of all societies across the ages:\n"
+      },
+      "date": 1563206796965
+    },
+    {
+      "type": "add",
+      "id": "e74b3b2cc92552a1",
+      "item": {
+        "type": "paragraph",
+        "id": "e74b3b2cc92552a1",
+        "text": "* The tribal form was the first to emerge and mature, beginning thousands of years ago. Its main dynamic is kinship, which gives people a distinct sense of identity and belonging — the basic elements of culture, as manifested still today in matters ranging from nationalism to fan clubs.\n"
+      },
+      "after": "7b4939264cdb3e95",
+      "date": 1563206806964
+    },
+    {
+      "type": "add",
+      "id": "4c27b793667f1ca4",
+      "item": {
+        "type": "paragraph",
+        "id": "4c27b793667f1ca4",
+        "text": "* The institutional form was the second to emerge. Emphasizing hierarchy, it led to the development of the state and the military, as epitomized initially by the Roman Empire, not to mention the Catholic papacy and other corporate enterprises.\nThe market form, the third form of organization to take hold, enables people to excel at openly competitive, free, and fair economic exchanges. Although present in ancient times, it did not gain sway until the 19th century, at first mainly in England.\nThe network form, the fourth to mature, serves to connect dispersed groups and individuals so that they may coordinate and act conjointly. Enabled by the digital information-technology revolution, this form is only now coming into its own, so far strengthening civil society more than other realms."
+      },
+      "after": "e74b3b2cc92552a1",
+      "date": 1563206813141
+    },
+    {
+      "type": "remove",
+      "id": "7b4939264cdb3e95",
+      "date": 1563206826637
+    },
+    {
+      "type": "edit",
+      "id": "e74b3b2cc92552a1",
+      "item": {
+        "type": "paragraph",
+        "id": "e74b3b2cc92552a1",
+        "text": "The four major forms of organization\n\nAccording to my review of history and theory, four forms of organization — and evidently only four — lie behind the governance and evolution of all societies across the ages:\n"
+      },
+      "date": 1563206829668
+    },
+    {
+      "type": "add",
+      "id": "c803115801a942e0",
+      "item": {
+        "type": "paragraph",
+        "id": "c803115801a942e0",
+        "text": "* The tribal form was the first to emerge and mature, beginning thousands of years ago. Its main dynamic is kinship, which gives people a distinct sense of identity and belonging — the basic elements of culture, as manifested still today in matters ranging from nationalism to fan clubs.\n"
+      },
+      "after": "e74b3b2cc92552a1",
+      "date": 1563206831819
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "be2827bddb3eefa5"
+      },
+      "id": "be2827bddb3eefa5",
+      "type": "add",
+      "after": "4c27b793667f1ca4",
+      "date": 1563206837760
+    },
+    {
+      "type": "edit",
+      "id": "be2827bddb3eefa5",
+      "item": {
+        "type": "markdown",
+        "id": "be2827bddb3eefa5",
+        "text": "The four major forms of organization\n\nAccording to my review of history and theory, four forms of organization — and evidently only four — lie behind the governance and evolution of all societies across the ages:\n"
+      },
+      "date": 1563206849626
+    },
+    {
+      "type": "edit",
+      "id": "be2827bddb3eefa5",
+      "item": {
+        "type": "markdown",
+        "id": "be2827bddb3eefa5",
+        "text": "The four major forms of organization\n\nAccording to my review of history and theory, four forms of organization — and evidently only four — lie behind the governance and evolution of all societies across the ages:\n\n* The tribal form was the first to emerge and mature, beginning thousands of years ago. Its main dynamic is kinship, which gives people a distinct sense of identity and belonging — the basic elements of culture, as manifested still today in matters ranging from nationalism to fan clubs.\n\n* The institutional form was the second to emerge. Emphasizing hierarchy, it led to the development of the state and the military, as epitomized initially by the Roman Empire, not to mention the Catholic papacy and other corporate enterprises.\n\n* The market form, the third form of organization to take hold, enables people to excel at openly competitive, free, and fair economic exchanges. Although present in ancient times, it did not gain sway until the 19th century, at first mainly in England.\n\n* The network form, the fourth to mature, serves to connect dispersed groups and individuals so that they may coordinate and act conjointly. Enabled by the digital information-technology revolution, this form is only now coming into its own, so far strengthening civil society more than other realms.\n"
+      },
+      "date": 1563206877707
+    },
+    {
+      "type": "remove",
+      "id": "e74b3b2cc92552a1",
+      "date": 1563206893362
+    },
+    {
+      "type": "remove",
+      "id": "c803115801a942e0",
+      "date": 1563206898418
+    },
+    {
+      "type": "remove",
+      "id": "4c27b793667f1ca4",
+      "date": 1563206903395
+    },
+    {
+      "type": "add",
+      "id": "ecd111bba99d0ca1",
+      "item": {
+        "type": "markdown",
+        "id": "ecd111bba99d0ca1",
+        "text": "[http://twotheories.blogspot.com/2009/02/overview-of-social-evolution-past.html blog]"
+      },
+      "after": "be2827bddb3eefa5",
+      "date": 1563206972400
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bef8401cf2afc6bc"
+      },
+      "id": "bef8401cf2afc6bc",
+      "type": "add",
+      "after": "ecd111bba99d0ca1",
+      "date": 1563206974911
+    },
+    {
+      "type": "remove",
+      "id": "bef8401cf2afc6bc",
+      "date": 1563206981244
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6fd67887cbfecb9d"
+      },
+      "id": "6fd67887cbfecb9d",
+      "type": "add",
+      "after": "ecd111bba99d0ca1",
+      "date": 1563206983872
+    },
+    {
+      "type": "edit",
+      "id": "6fd67887cbfecb9d",
+      "item": {
+        "type": "pagefold",
+        "id": "6fd67887cbfecb9d",
+        "text": "---\n \n"
+      },
+      "date": 1563206994342
+    }
+  ]
+}

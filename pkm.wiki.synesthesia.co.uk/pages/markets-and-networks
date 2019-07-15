@@ -1,6 +1,17 @@
 {
   "title": "Markets and Networks",
-  "story": [],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "39e8abe46f3e171d",
+      "text": "[[David Ronfeldt]] [[TIMN]] model of social evolution"
+    },
+    {
+      "type": "paragraph",
+      "id": "9caa87c8e0a5f028",
+      "text": "[[Shallow Knowledge]]"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +20,98 @@
         "story": []
       },
       "date": 1563205548269
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0046f9c8dd8d4efc"
+      },
+      "id": "0046f9c8dd8d4efc",
+      "type": "add",
+      "date": 1563205838124
+    },
+    {
+      "type": "edit",
+      "id": "0046f9c8dd8d4efc",
+      "item": {
+        "type": "factory",
+        "id": "0046f9c8dd8d4efc",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://twotheories.blogspot.com/2009/02/overview-of-social-evolution-past.html",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+        }
+      },
+      "date": 1563205864788
+    },
+    {
+      "type": "remove",
+      "id": "0046f9c8dd8d4efc",
+      "date": 1563205871091
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "39e8abe46f3e171d"
+      },
+      "id": "39e8abe46f3e171d",
+      "type": "add",
+      "date": 1563205924820
+    },
+    {
+      "type": "edit",
+      "id": "39e8abe46f3e171d",
+      "item": {
+        "type": "paragraph",
+        "id": "39e8abe46f3e171d",
+        "text": "[[DAvid R"
+      },
+      "date": 1563205974348
+    },
+    {
+      "type": "edit",
+      "id": "39e8abe46f3e171d",
+      "item": {
+        "type": "paragraph",
+        "id": "39e8abe46f3e171d",
+        "text": "[[David Ronfeldt]] [[TIMN]] model of social evolution"
+      },
+      "date": 1563206741316
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ea74336c8e158b07"
+      },
+      "id": "ea74336c8e158b07",
+      "type": "add",
+      "after": "39e8abe46f3e171d",
+      "date": 1563207196904
+    },
+    {
+      "type": "remove",
+      "id": "ea74336c8e158b07",
+      "date": 1563207206805
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9caa87c8e0a5f028"
+      },
+      "id": "9caa87c8e0a5f028",
+      "type": "add",
+      "after": "39e8abe46f3e171d",
+      "date": 1563207397439
+    },
+    {
+      "type": "edit",
+      "id": "9caa87c8e0a5f028",
+      "item": {
+        "type": "paragraph",
+        "id": "9caa87c8e0a5f028",
+        "text": "[[Shallow Knowledge]]"
+      },
+      "date": 1563207409444
     }
   ]
 }
