@@ -64,6 +64,10 @@
     {
       "type": "changes",
       "id": "55b26a986bb8be6f"
+    },
+    {
+      "type": "factory",
+      "id": "75c6dfd07f1fea9a"
     }
   ],
   "journal": [
@@ -1098,6 +1102,16 @@
         "text": "Julian Elve\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
       },
       "date": 1538737266210
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "75c6dfd07f1fea9a"
+      },
+      "id": "75c6dfd07f1fea9a",
+      "type": "add",
+      "after": "55b26a986bb8be6f",
+      "date": 1563258800440
     }
   ]
 }

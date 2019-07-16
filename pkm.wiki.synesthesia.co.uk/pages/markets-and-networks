@@ -3,13 +3,13 @@
   "story": [
     {
       "type": "paragraph",
-      "id": "39e8abe46f3e171d",
-      "text": "[[David Ronfeldt]] [[TIMN]] model of social evolution"
-    },
-    {
-      "type": "paragraph",
       "id": "9caa87c8e0a5f028",
       "text": "[[Shallow Knowledge]]"
+    },
+    {
+      "type": "markdown",
+      "id": "72c1874f5b2fe7a9",
+      "text": "See [[Models of Society]]"
     }
   ],
   "journal": [
@@ -112,6 +112,31 @@
         "text": "[[Shallow Knowledge]]"
       },
       "date": 1563207409444
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "72c1874f5b2fe7a9"
+      },
+      "id": "72c1874f5b2fe7a9",
+      "type": "add",
+      "after": "9caa87c8e0a5f028",
+      "date": 1563257525964
+    },
+    {
+      "type": "edit",
+      "id": "72c1874f5b2fe7a9",
+      "item": {
+        "type": "markdown",
+        "id": "72c1874f5b2fe7a9",
+        "text": "See [[Models of Society]]"
+      },
+      "date": 1563257536529
+    },
+    {
+      "type": "remove",
+      "id": "39e8abe46f3e171d",
+      "date": 1563257543984
     }
   ]
 }

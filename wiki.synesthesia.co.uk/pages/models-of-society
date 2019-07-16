@@ -1,0 +1,35 @@
+{
+  "title": "Models of Society",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "39e8abe46f3e171d",
+      "text": "[[David Ronfeldt]] [[TIMN]] model of social evolution"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Models of Society",
+        "story": []
+      },
+      "date": 1563257540408
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "39e8abe46f3e171d",
+        "text": "[[David Ronfeldt]] [[TIMN]] model of social evolution"
+      },
+      "id": "39e8abe46f3e171d",
+      "date": 1563257543986
+    },
+    {
+      "type": "fork",
+      "site": "pkm.wiki.synesthesia.co.uk",
+      "date": 1563258873790
+    }
+  ]
+}

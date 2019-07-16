@@ -20,6 +20,16 @@
       "type": "paragraph",
       "id": "cbdbf56d5a4b14a4",
       "text": "For a list of all my federated wiki sites see [[My Wikis]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "df7b26f5c3d9dc16",
+      "text": "\n"
+    },
+    {
+      "type": "markdown",
+      "id": "ca281d4d9577e996",
+      "text": "[[Models of Society]]"
     }
   ],
   "journal": [
@@ -331,6 +341,56 @@
         "text": "I am in the process of moving my unstructured discovery writing to [https://forage.wiki.synesthesia.co.uk forage.wiki.synesthesia.co.uk]"
       },
       "date": 1522742228629
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "df7b26f5c3d9dc16"
+      },
+      "id": "df7b26f5c3d9dc16",
+      "type": "add",
+      "after": "cbdbf56d5a4b14a4",
+      "date": 1563258823191
+    },
+    {
+      "type": "edit",
+      "id": "df7b26f5c3d9dc16",
+      "item": {
+        "type": "pagefold",
+        "id": "df7b26f5c3d9dc16",
+        "text": "--\n"
+      },
+      "date": 1563258837467
+    },
+    {
+      "type": "edit",
+      "id": "df7b26f5c3d9dc16",
+      "item": {
+        "type": "pagefold",
+        "id": "df7b26f5c3d9dc16",
+        "text": "\n"
+      },
+      "date": 1563258843844
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ca281d4d9577e996"
+      },
+      "id": "ca281d4d9577e996",
+      "type": "add",
+      "after": "df7b26f5c3d9dc16",
+      "date": 1563258846878
+    },
+    {
+      "type": "edit",
+      "id": "ca281d4d9577e996",
+      "item": {
+        "type": "markdown",
+        "id": "ca281d4d9577e996",
+        "text": "[[Models of Society]]"
+      },
+      "date": 1563258861268
     }
   ]
 }
