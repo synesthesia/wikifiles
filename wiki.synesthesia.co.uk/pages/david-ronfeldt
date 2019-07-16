@@ -1,0 +1,137 @@
+{
+  "title": "David Ronfeldt",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "bcac3ae82df26b14",
+      "text": "Professional status: retired from RAND since 2008. "
+    },
+    {
+      "type": "paragraph",
+      "id": "bdd00ee4c961827c",
+      "text": "Fields: first 20 years, U.S.-Latin American security issues (Mexico, Cuba); next 15 years, worldwide implications of the information revolution (cyberocracy, cyberwar, netwar, swarming, noopolitik, the nexus-state). "
+    },
+    {
+      "type": "paragraph",
+      "id": "565a0a7621762e09",
+      "text": "Current goals: finish quadriform framework about social evolution (past, present, future); finish social cognition framework about people's space-time-agency orientations. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7586cf4b8b668ca2",
+      "text": "Publications: mostly online at rand.org and firstmonday.org."
+    },
+    {
+      "type": "paragraph",
+      "id": "a26ba7a0bacfab93",
+      "text": "[https://www.blogger.com/profile/06488855410947866567 profile]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "David Ronfeldt",
+        "story": []
+      },
+      "date": 1563207022449
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bcac3ae82df26b14"
+      },
+      "id": "bcac3ae82df26b14",
+      "type": "add",
+      "date": 1563207034368
+    },
+    {
+      "type": "edit",
+      "id": "bcac3ae82df26b14",
+      "item": {
+        "type": "paragraph",
+        "id": "bcac3ae82df26b14",
+        "text": "rofessional status: retired from RAND since 2008. Fields: first 20 years, U.S.-Latin American security issues (Mexico, Cuba); next 15 years, worldwide implications of the information revolution (cyberocracy, cyberwar, netwar, swarming, noopolitik, the nexus-state). Current goals: finish quadriform framework about social evolution (past, present, future); finish social cognition framework about people's space-time-agency orientations. Publications: mostly online at rand.org and firstmonday.org."
+      },
+      "date": 1563207040799
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a26ba7a0bacfab93"
+      },
+      "id": "a26ba7a0bacfab93",
+      "type": "add",
+      "after": "bcac3ae82df26b14",
+      "date": 1563207051203
+    },
+    {
+      "type": "edit",
+      "id": "a26ba7a0bacfab93",
+      "item": {
+        "type": "paragraph",
+        "id": "a26ba7a0bacfab93",
+        "text": "[https://www.blogger.com/profile/06488855410947866567 profile]"
+      },
+      "date": 1563207059721
+    },
+    {
+      "type": "edit",
+      "id": "bcac3ae82df26b14",
+      "item": {
+        "type": "paragraph",
+        "id": "bcac3ae82df26b14",
+        "text": "Professional status: retired from RAND since 2008. "
+      },
+      "date": 1563207067667
+    },
+    {
+      "type": "add",
+      "id": "bdd00ee4c961827c",
+      "item": {
+        "type": "paragraph",
+        "id": "bdd00ee4c961827c",
+        "text": "Fields: first 20 years, U.S.-Latin American security issues (Mexico, Cuba); next 15 years, worldwide implications of the information revolution (cyberocracy, cyberwar, netwar, swarming, noopolitik, the nexus-state). "
+      },
+      "after": "bcac3ae82df26b14",
+      "date": 1563207075427
+    },
+    {
+      "type": "add",
+      "id": "565a0a7621762e09",
+      "item": {
+        "type": "paragraph",
+        "id": "565a0a7621762e09",
+        "text": "Current goals: finish quadriform framework about social evolution (past, present, future); finish social cognition framework about people's space-time-agency orientations. Publications: mostly online at rand.org and firstmonday.org."
+      },
+      "after": "bdd00ee4c961827c",
+      "date": 1563207079521
+    },
+    {
+      "type": "edit",
+      "id": "565a0a7621762e09",
+      "item": {
+        "type": "paragraph",
+        "id": "565a0a7621762e09",
+        "text": "Current goals: finish quadriform framework about social evolution (past, present, future); finish social cognition framework about people's space-time-agency orientations. "
+      },
+      "date": 1563207084210
+    },
+    {
+      "type": "add",
+      "id": "7586cf4b8b668ca2",
+      "item": {
+        "type": "paragraph",
+        "id": "7586cf4b8b668ca2",
+        "text": "Publications: mostly online at rand.org and firstmonday.org."
+      },
+      "after": "565a0a7621762e09",
+      "date": 1563207086276
+    },
+    {
+      "type": "fork",
+      "site": "pkm.wiki.synesthesia.co.uk",
+      "date": 1563259081779
+    }
+  ]
+}

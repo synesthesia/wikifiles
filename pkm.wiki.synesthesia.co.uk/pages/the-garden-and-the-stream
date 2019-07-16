@@ -1,0 +1,1193 @@
+{
+  "title": "The Garden and the Stream",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "901854de5f2104b2",
+      "text": "I found the commentary below from  [[Frank McPherson]] resonated with my own emerging sense of practice"
+    },
+    {
+      "type": "pagefold",
+      "id": "366a510faaf5c955",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "6633e69ba1a0d0a4",
+      "text": "An article written by Mike Caulfield in October, 2015 that has caused me to reconsider some of my own thinking about how and why I write and publish on the Internet. [https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/ webpage]"
+    },
+    {
+      "type": "markdown",
+      "id": "c90d61e0ba947b9b",
+      "text": ">I am going to make the argument that the predominant form of the social web — that amalgam of blogging, Twitter, Facebook, forums, Reddit, Instagram — is an impoverished model for learning and research and that our survival as a species depends on us getting past the sweet, salty fat of “the web as conversation” and on to something more timeless, integrative, iterative, something less personal and less self-assertive, something more solitary yet more connected."
+    },
+    {
+      "type": "paragraph",
+      "id": "59588549c7fba203",
+      "text": "I've been blogging for 18 years and I don't really think of my blogs as a conversation. I think of my blog as an online journal of what I find interesting, the key of which is that those things are tied to dates."
+    },
+    {
+      "type": "markdown",
+      "id": "a3ee3d2e046c79e2",
+      "text": ">To talk about this effectively I’d like to introduce two terms representing different approaches to the Web: The Garden and the Stream."
+    },
+    {
+      "type": "markdown",
+      "id": "26ca3a59489e506d",
+      "text": ">The Garden is an old metaphor associated with hypertext. Things in the Garden don’t collapse to a single set of relations or canonical sequence, and that’s part of what we mean when we say “the web as topology” or the “web as space”. Every walk through the garden creates new paths, new meanings, and when we add things to the garden we add them in a way that allows many future, unpredicted relationships"
+    },
+    {
+      "type": "markdown",
+      "id": "e6b13f25f0037104",
+      "text": ">The Stream is a newer metaphor with old roots. We can think of the”event stream” of programming, the “lifestream” proposed by researchers in the 1990s. More recently, the term stream has been applied to the never ending parade of twitter, news alerts, and Facebook feeds."
+    },
+    {
+      "type": "markdown",
+      "id": "ec836733d95fabd1",
+      "text": ">In other words, the Stream replaces topology with serialization. Rather than imagine a timeless world of connection and multiple paths, the Stream presents us with a single, time ordered path with our experience (and only our experience) at the center."
+    },
+    {
+      "type": "paragraph",
+      "id": "c14ad4126ce7c1ad",
+      "text": "I do agree with the notion that a blog is a stream and it is definitely serialized, reverse chronologically. However, for me the key difference is not that serial versus random like nature of access. Instead, the key difference is that a stream is more ephemeral. "
+    },
+    {
+      "type": "paragraph",
+      "id": "b7c18fc46043d245",
+      "text": "When I write a blog post I might edit it a bit after it is first published, but soon after I will stop editing and just let it flow off. "
+    },
+    {
+      "type": "paragraph",
+      "id": "f76bbde6c1761d6f",
+      "text": "On the other hand, in a wiki such as this one, I am constantly editing what I have written. Like weeding a garden or moving plants around."
+    },
+    {
+      "type": "paragraph",
+      "id": "6a6903b153cb676f",
+      "text": "Note that TBL's first proposal for the web was titled \"Information Management, a Proposal,\" which means to me that wiki is more closely aligned to the original idea of the web. [https://thehistoryoftheweb.com/timeline/ webpage] "
+    },
+    {
+      "type": "paragraph",
+      "id": "df731a73a3223856",
+      "text": "I realize now that the garden and stream metaphor is similar to my mental model of long form writing [https://writing.frankmcpherson.net example] and blog posts. [https://frankmcpherson.blog example] In my mind, a blog post should be one paragraph, two tops, where as anything three paragraphs or more is long form. Perhaps another way to think of this is the difference between posts with titles and those without titles."
+    },
+    {
+      "type": "paragraph",
+      "id": "601f64c7c54b140a",
+      "text": "By the way, I think Dave Winer's blogging style is mostly gardening. You see this in how we builds a day's worth of blog posts [http://scripting.com/2018/12/20.html example] and how he often carries topics over several days. The point being that gardening is not incompatible with blogs."
+    },
+    {
+      "type": "paragraph",
+      "id": "835a317c8cd4f057",
+      "text": "However, I will offer up an observation. The ability to directly edit what you write directly where it is published, such as with Federated Wiki and how Dave's [http://scripting.com/davenet/1999/12/08/editthispagecom.html EditThisPage] worked is more conducive to gardening than the separate writing and publishing models of most blogging platforms like WordPress and micro.blog. "
+    },
+    {
+      "type": "markdown",
+      "id": "5f08926a2fe102ad",
+      "text": ">The stream is what I do on Twitter and blogging platforms. I take a fact and project it out as another brick in an argument or narrative or persona that I build over time, and recapitulate instead of iterate."
+    },
+    {
+      "type": "paragraph",
+      "id": "1bd3ede72f3d556f",
+      "text": "Mike here is focusing on the differences in content between a stream and garden. I guess I am thinking of it more in terms of time or care and feeding."
+    },
+    {
+      "type": "paragraph",
+      "id": "20149e825007f9ff",
+      "text": "Mike moves on to [https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ Vannevar Bush’s 1945 essay As We May Think]. "
+    },
+    {
+      "type": "markdown",
+      "id": "7f95f0bd016236f5",
+      "text": ">So most people say this is the original vision of the web. And certainly it was the inspiration of those pioneers of hypertext ut in reality it doesn’t predict the web at all . Not at all. The web works very little like this. "
+    },
+    {
+      "type": "markdown",
+      "id": "d9cc5428dcdd635b",
+      "text": ">Your machine is a library not a publication device. You have copies of documents is there that you control directly, that you can annotate, change, add links to, summarize, and this is because the memex is a tool to think with, not a tool to publish with. And this is crucial to our talk here, because these abilities – to link, annotate, change, summarize, copy, and share — these are the verbs of gardening."
+    },
+    {
+      "type": "markdown",
+      "id": "6972dcdd31d68831",
+      "text": ">Links are made by readers as well as writers. A stunning thing that we forget, but the link here is not part of the author’s intent, but of the reader’s analysis. The majority of links in the memex are made by readers, not writers. On the world wide web of course, only an author gets to determine links. "
+    },
+    {
+      "type": "paragraph",
+      "id": "ba1b751137f535bf",
+      "text": "Here Mike is building up to Federated Wiki's forking capability. There is also the notion of local copies in Federated Wiki that enable you to overlay your own version of one's wiki page. He notes that the \"stream\" won on the Internet and asks why, answering:"
+    },
+    {
+      "type": "markdown",
+      "id": "fd2a44435a8c32e2",
+      "text": ">It came down to who had the power to change things. It came down to the right to make copies."
+    },
+    {
+      "type": "markdown",
+      "id": "9a7c70c749c0e8da",
+      "text": ">On the web, if you wanted to read something you had to read it on someone else’s server where you couldn’t rewrite it, and you couldn’t annotate it, you couldn’t copy it, and you couldn’t add links to it, you couldn’t curate it."
+    },
+    {
+      "type": "paragraph",
+      "id": "0d08bed163612e42",
+      "text": "Mike places the blame here to the thinking of the web as conversation. Instead, I suspect this came about mostly due to the commercialization of the Internet. We applied old school publishing, and more importantly making money from publishing, to the web. In other words we applied copyright. (See [[The Original Sin of the Internet]] and [http://www.mateoaboy.com/f6/blog_files/128ce98299902760f1c540b8dcf9eec5-4.html what is the purpose of copyright?])"
+    },
+    {
+      "type": "paragraph",
+      "id": "0fa78bd25cfa42b9",
+      "text": "Mike goes on to close his article by relating the implications of the garden and stream metaphor to his profession of educational technology."
+    },
+    {
+      "type": "paragraph",
+      "id": "a2a1e157327d88c4",
+      "text": "This essay and [http://fedwiki.andysylvester.com/view/welcome-visitors/view/journal-2017/view/new-user-setup a reference made by Andy Sylvester] inspired me to take a look at [[Federated Wiki]], the software of this site. At first I didn't fully understand it, and I am not entirely sure I fully grasp all it can fully do, but I am becoming more and more immersed in the wiki mindset. "
+    },
+    {
+      "type": "paragraph",
+      "id": "c40ee51dba4a0fd2",
+      "text": "I think the wiki mindset is centered on the sharing of knowledge. Half of why I write is simply to remember. Studies show you learn when writing. The other half of why I write is to share knowledge."
+    },
+    {
+      "type": "paragraph",
+      "id": "d3a77626f3312f92",
+      "text": "Wiki is not a web publishing tool, although you do use it publish on the web. Wiki is a knowledge platform. Scientists know that how our brain retains knowledge (makes memories, see [https://brainconnection.brainhq.com/2013/03/12/how-we-remember-and-why-we-forget/ page]) is by linking (associating) new information with something already known. In other words, our brain is very much like one big network that might look very much like a web. "
+    },
+    {
+      "type": "paragraph",
+      "id": "df8c9a305f215ec2",
+      "text": "Wiki's unique concept of internal linking is the key ingredient to it being a knowledge platform. As I write I can easily relate something new to something I have already written. Or, I can easily create a stub to a new page to be completed in the future. See [[Wiki As A Knowledge Platform]].  "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Garden and the Stream",
+        "story": []
+      },
+      "date": 1545426917249
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6633e69ba1a0d0a4"
+      },
+      "id": "6633e69ba1a0d0a4",
+      "type": "add",
+      "date": 1545426918732
+    },
+    {
+      "type": "edit",
+      "id": "6633e69ba1a0d0a4",
+      "item": {
+        "type": "paragraph",
+        "id": "6633e69ba1a0d0a4",
+        "text": "An article written by Mike Caulfield in October, 2015 that has caused me to form some of my own thinking about how and why I write and publish on the Internet. "
+      },
+      "date": 1545426994850
+    },
+    {
+      "type": "edit",
+      "id": "6633e69ba1a0d0a4",
+      "item": {
+        "type": "paragraph",
+        "id": "6633e69ba1a0d0a4",
+        "text": "An article written by Mike Caulfield in October, 2015 that has caused me to form some of my own thinking about how and why I write and publish on the Internet. [https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/ webpage]"
+      },
+      "date": 1545427009277
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c90d61e0ba947b9b"
+      },
+      "id": "c90d61e0ba947b9b",
+      "type": "add",
+      "after": "6633e69ba1a0d0a4",
+      "date": 1545427050522
+    },
+    {
+      "type": "edit",
+      "id": "c90d61e0ba947b9b",
+      "item": {
+        "type": "markdown",
+        "id": "c90d61e0ba947b9b",
+        "text": ">I am going to make the argument that the predominant form of the social web — that amalgam of blogging, Twitter, Facebook, forums, Reddit, Instagram — is an impoverished model for learning and research and that our survival as a species depends on us getting past the sweet, salty fat of “the web as conversation” and on to something more timeless, integrative, iterative, something less personal and less self-assertive, something more solitary yet more connected."
+      },
+      "date": 1545427058168
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "59588549c7fba203"
+      },
+      "id": "59588549c7fba203",
+      "type": "add",
+      "after": "c90d61e0ba947b9b",
+      "date": 1545427074847
+    },
+    {
+      "type": "edit",
+      "id": "59588549c7fba203",
+      "item": {
+        "type": "paragraph",
+        "id": "59588549c7fba203",
+        "text": "I don't thnk o"
+      },
+      "date": 1545427080113
+    },
+    {
+      "type": "edit",
+      "id": "59588549c7fba203",
+      "item": {
+        "type": "paragraph",
+        "id": "59588549c7fba203",
+        "text": "I've been blogging for 18 years and I don't really think of my blogs as a conversation. I think of my blog as an online journal of what I find interesting, they key of which is that those things are tied to dates."
+      },
+      "date": 1545427145260
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a3ee3d2e046c79e2"
+      },
+      "id": "a3ee3d2e046c79e2",
+      "type": "add",
+      "after": "59588549c7fba203",
+      "date": 1545427174898
+    },
+    {
+      "type": "edit",
+      "id": "a3ee3d2e046c79e2",
+      "item": {
+        "type": "markdown",
+        "id": "a3ee3d2e046c79e2",
+        "text": ">To talk about this effectively I’d like to introduce two terms representing different approaches to the Web: The Garden and the Stream."
+      },
+      "date": 1545427180155
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "26ca3a59489e506d"
+      },
+      "id": "26ca3a59489e506d",
+      "type": "add",
+      "after": "a3ee3d2e046c79e2",
+      "date": 1545427336561
+    },
+    {
+      "type": "edit",
+      "id": "26ca3a59489e506d",
+      "item": {
+        "type": "markdown",
+        "id": "26ca3a59489e506d",
+        "text": ">The Garden is an old metaphor associated with hypertext."
+      },
+      "date": 1545427344054
+    },
+    {
+      "type": "edit",
+      "id": "26ca3a59489e506d",
+      "item": {
+        "type": "markdown",
+        "id": "26ca3a59489e506d",
+        "text": ">The Garden is an old metaphor associated with hypertext.Things in the Garden don’t collapse to a single set of relations or canonical sequence, and that’s part of what we mean when we say “the web as topology” or the “web as space”. Every walk through the garden creates new paths, new meanings, and when we add things to the garden we add them in a way that allows many future, unpredicted relationships"
+      },
+      "date": 1545427363561
+    },
+    {
+      "type": "edit",
+      "id": "26ca3a59489e506d",
+      "item": {
+        "type": "markdown",
+        "id": "26ca3a59489e506d",
+        "text": ">The Garden is an old metaphor associated with hypertext. Things in the Garden don’t collapse to a single set of relations or canonical sequence, and that’s part of what we mean when we say “the web as topology” or the “web as space”. Every walk through the garden creates new paths, new meanings, and when we add things to the garden we add them in a way that allows many future, unpredicted relationships"
+      },
+      "date": 1545427371028
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e6b13f25f0037104"
+      },
+      "id": "e6b13f25f0037104",
+      "type": "add",
+      "after": "26ca3a59489e506d",
+      "date": 1545427429492
+    },
+    {
+      "type": "edit",
+      "id": "e6b13f25f0037104",
+      "item": {
+        "type": "markdown",
+        "id": "e6b13f25f0037104",
+        "text": ">The Stream is a newer metaphor with old roots. We can think of the”event stream” of programming, the “lifestream” proposed by researchers in the 1990s. More recently, the term stream has been applied to the never ending parade of twitter, news alerts, and Facebook feeds."
+      },
+      "date": 1545427435699
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "85642a6688f4d1fc"
+      },
+      "id": "85642a6688f4d1fc",
+      "type": "add",
+      "after": "e6b13f25f0037104",
+      "date": 1545427468803
+    },
+    {
+      "type": "edit",
+      "id": "85642a6688f4d1fc",
+      "item": {
+        "type": "paragraph",
+        "id": "85642a6688f4d1fc",
+        "text": ">In other words, the Stream replaces topology with serialization. Rather than imagine a timeless world of connection and multiple paths, the Stream presents us with a single, time ordered path with our experience (and only our experience) at the center."
+      },
+      "date": 1545427476872
+    },
+    {
+      "type": "remove",
+      "id": "85642a6688f4d1fc",
+      "date": 1545427483866
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ec836733d95fabd1"
+      },
+      "id": "ec836733d95fabd1",
+      "type": "add",
+      "after": "e6b13f25f0037104",
+      "date": 1545427485120
+    },
+    {
+      "type": "edit",
+      "id": "ec836733d95fabd1",
+      "item": {
+        "type": "markdown",
+        "id": "ec836733d95fabd1",
+        "text": ">In other words, the Stream replaces topology with serialization. Rather than imagine a timeless world of connection and multiple paths, the Stream presents us with a single, time ordered path with our experience (and only our experience) at the center."
+      },
+      "date": 1545427488507
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c14ad4126ce7c1ad"
+      },
+      "id": "c14ad4126ce7c1ad",
+      "type": "add",
+      "after": "ec836733d95fabd1",
+      "date": 1545427490862
+    },
+    {
+      "type": "edit",
+      "id": "c14ad4126ce7c1ad",
+      "item": {
+        "type": "paragraph",
+        "id": "c14ad4126ce7c1ad",
+        "text": "I do agree with the notion that a blog is a stream and it is definitely serialized, reverse chronologically. However, for me the key difference is not that serial versus random like nature of access. Instead, the key difference is that a stream is more ephemeral. "
+      },
+      "date": 1545427581753
+    },
+    {
+      "type": "add",
+      "id": "b7c18fc46043d245",
+      "item": {
+        "type": "paragraph",
+        "id": "b7c18fc46043d245",
+        "text": "When I write a blog post I might edit it a bit after it is first published, but soon after I will stop editing and just let it flow off. "
+      },
+      "after": "c14ad4126ce7c1ad",
+      "date": 1545427634400
+    },
+    {
+      "type": "add",
+      "id": "f76bbde6c1761d6f",
+      "item": {
+        "type": "paragraph",
+        "id": "f76bbde6c1761d6f",
+        "text": "On the other hand, in a wiki such as this one, I am constantly editing what I have written. Like weeding a garden or moving plants around"
+      },
+      "after": "b7c18fc46043d245",
+      "date": 1545427697447
+    },
+    {
+      "type": "edit",
+      "id": "f76bbde6c1761d6f",
+      "item": {
+        "type": "paragraph",
+        "id": "f76bbde6c1761d6f",
+        "text": "On the other hand, in a wiki such as this one, I am constantly editing what I have written. Like weeding a garden or moving plants around."
+      },
+      "date": 1545427702070
+    },
+    {
+      "type": "add",
+      "id": "df731a73a3223856",
+      "item": {
+        "type": "paragraph",
+        "id": "df731a73a3223856",
+        "text": "I realize now that garden and stream is similar to my mental model of long form writing and blog posts. In my mind, a blog post should be one paragraph, two tops, where as anything three paragraphs or more is long form. Perhaps another way to think of this is the difference between posts with titles and those without titles."
+      },
+      "after": "f76bbde6c1761d6f",
+      "date": 1545427882325
+    },
+    {
+      "type": "edit",
+      "id": "df731a73a3223856",
+      "item": {
+        "type": "paragraph",
+        "id": "df731a73a3223856",
+        "text": "I realize now that garden and stream is similar to my mental model of long form writing ([https://writing.frankmcpherson.net example) and blog posts. In my mind, a blog post should be one paragraph, two tops, where as anything three paragraphs or more is long form. Perhaps another way to think of this is the difference between posts with titles and those without titles."
+      },
+      "date": 1545427917292
+    },
+    {
+      "type": "edit",
+      "id": "df731a73a3223856",
+      "item": {
+        "type": "paragraph",
+        "id": "df731a73a3223856",
+        "text": "I realize now that garden and stream is similar to my mental model of long form writing ([https://writing.frankmcpherson.net example]) and blog posts. In my mind, a blog post should be one paragraph, two tops, where as anything three paragraphs or more is long form. Perhaps another way to think of this is the difference between posts with titles and those without titles."
+      },
+      "date": 1545427923403
+    },
+    {
+      "type": "edit",
+      "id": "df731a73a3223856",
+      "item": {
+        "type": "paragraph",
+        "id": "df731a73a3223856",
+        "text": "I realize now that garden and stream is similar to my mental model of long form writing [https://writing.frankmcpherson.net example] and blog posts. In my mind, a blog post should be one paragraph, two tops, where as anything three paragraphs or more is long form. Perhaps another way to think of this is the difference between posts with titles and those without titles."
+      },
+      "date": 1545427936658
+    },
+    {
+      "type": "edit",
+      "id": "df731a73a3223856",
+      "item": {
+        "type": "paragraph",
+        "id": "df731a73a3223856",
+        "text": "I realize now that garden and stream is similar to my mental model of long form writing [https://writing.frankmcpherson.net example] and blog posts. [https://frankmcpherson.blog example] In my mind, a blog post should be one paragraph, two tops, where as anything three paragraphs or more is long form. Perhaps another way to think of this is the difference between posts with titles and those without titles."
+      },
+      "date": 1545427959317
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5f08926a2fe102ad"
+      },
+      "id": "5f08926a2fe102ad",
+      "type": "add",
+      "after": "df731a73a3223856",
+      "date": 1545428038657
+    },
+    {
+      "type": "edit",
+      "id": "5f08926a2fe102ad",
+      "item": {
+        "type": "markdown",
+        "id": "5f08926a2fe102ad",
+        "text": ">The stream is what I do on Twitter and blogging platforms. I take a fact and project it out as another brick in an argument or narrative or persona that I build over time, and recapitulate instead of iterate."
+      },
+      "date": 1545428044458
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1bd3ede72f3d556f"
+      },
+      "id": "1bd3ede72f3d556f",
+      "type": "add",
+      "after": "5f08926a2fe102ad",
+      "date": 1545428046947
+    },
+    {
+      "type": "edit",
+      "id": "1bd3ede72f3d556f",
+      "item": {
+        "type": "paragraph",
+        "id": "1bd3ede72f3d556f",
+        "text": "Mike here is focusing on the differences in content between a stream and garden. I guess I am thinking of it more in terms of time or care and feeding."
+      },
+      "date": 1545428089823
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "20149e825007f9ff"
+      },
+      "id": "20149e825007f9ff",
+      "type": "add",
+      "after": "1bd3ede72f3d556f",
+      "date": 1545428211932
+    },
+    {
+      "type": "edit",
+      "id": "20149e825007f9ff",
+      "item": {
+        "type": "paragraph",
+        "id": "20149e825007f9ff",
+        "text": "Mike moves on to Vannevar Bush’s 1945 essay As We May Think. "
+      },
+      "date": 1545428234397
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7f95f0bd016236f5"
+      },
+      "id": "7f95f0bd016236f5",
+      "type": "add",
+      "after": "20149e825007f9ff",
+      "date": 1545428261679
+    },
+    {
+      "type": "edit",
+      "id": "7f95f0bd016236f5",
+      "item": {
+        "type": "markdown",
+        "id": "7f95f0bd016236f5",
+        "text": ">So most people say this is the original vision of the web. And certainly it was the inspiration of those pioneers of hypertext ut in reality it doesn’t predict the web at all . Not at all. The web works very little like this. "
+      },
+      "date": 1545428274180
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d9cc5428dcdd635b"
+      },
+      "id": "d9cc5428dcdd635b",
+      "type": "add",
+      "after": "7f95f0bd016236f5",
+      "date": 1545428316456
+    },
+    {
+      "type": "edit",
+      "id": "d9cc5428dcdd635b",
+      "item": {
+        "type": "markdown",
+        "id": "d9cc5428dcdd635b",
+        "text": ">Your machine is a library not a publication device. You have copies of documents is there that you control directly, that you can annotate, change, add links to, summarize, and this is because the memex is a tool to think with, not a tool to publish with. And this is crucial to our talk here, because these abilities – to link, annotate, change, summarize, copy, and share — these are the verbs of gardening."
+      },
+      "date": 1545428326430
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6972dcdd31d68831"
+      },
+      "id": "6972dcdd31d68831",
+      "type": "add",
+      "after": "d9cc5428dcdd635b",
+      "date": 1545428362751
+    },
+    {
+      "type": "edit",
+      "id": "6972dcdd31d68831",
+      "item": {
+        "type": "markdown",
+        "id": "6972dcdd31d68831",
+        "text": ">Links are made by readers as well as writers. A stunning thing that we forget, but the link here is not part of the author’s intent, but of the reader’s analysis. The majority of links in the memex are made by readers, not writers. On the world wide web of course, only an author gets to determine links. "
+      },
+      "date": 1545428369350
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ba1b751137f535bf"
+      },
+      "id": "ba1b751137f535bf",
+      "type": "add",
+      "after": "6972dcdd31d68831",
+      "date": 1545428375540
+    },
+    {
+      "type": "edit",
+      "id": "ba1b751137f535bf",
+      "item": {
+        "type": "paragraph",
+        "id": "ba1b751137f535bf",
+        "text": "Here Mike is building up to Federated Wiki's forking capability. "
+      },
+      "date": 1545428389440
+    },
+    {
+      "type": "edit",
+      "id": "ba1b751137f535bf",
+      "item": {
+        "type": "paragraph",
+        "id": "ba1b751137f535bf",
+        "text": "Here Mike is building up to Federated Wiki's forking capability. He notes that the \"stream\" won on the Internet and asks why, answering:"
+      },
+      "date": 1545428466009
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fd2a44435a8c32e2"
+      },
+      "id": "fd2a44435a8c32e2",
+      "type": "add",
+      "after": "ba1b751137f535bf",
+      "date": 1545428480651
+    },
+    {
+      "type": "edit",
+      "id": "fd2a44435a8c32e2",
+      "item": {
+        "type": "markdown",
+        "id": "fd2a44435a8c32e2",
+        "text": ">It came down to who had the power to change things. It came down to the right to make copies."
+      },
+      "date": 1545428486151
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9a7c70c749c0e8da"
+      },
+      "id": "9a7c70c749c0e8da",
+      "type": "add",
+      "after": "fd2a44435a8c32e2",
+      "date": 1545428538219
+    },
+    {
+      "type": "edit",
+      "id": "9a7c70c749c0e8da",
+      "item": {
+        "type": "markdown",
+        "id": "9a7c70c749c0e8da",
+        "text": ">On the web, if you wanted to read something you had to read it on someone else’s server where you couldn’t rewrite it, and you couldn’t annotate it, you couldn’t copy it, and you couldn’t add links to it, you couldn’t curate it."
+      },
+      "date": 1545428544144
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0d08bed163612e42"
+      },
+      "id": "0d08bed163612e42",
+      "type": "add",
+      "after": "9a7c70c749c0e8da",
+      "date": 1545428557430
+    },
+    {
+      "type": "edit",
+      "id": "0d08bed163612e42",
+      "item": {
+        "type": "paragraph",
+        "id": "0d08bed163612e42",
+        "text": "I suspect this came about mostly due to the commercialization of the Internet. We applied old school publishing, and more importantly making money from publishing, to the web. "
+      },
+      "date": 1545428610824
+    },
+    {
+      "type": "edit",
+      "id": "0d08bed163612e42",
+      "item": {
+        "type": "paragraph",
+        "id": "0d08bed163612e42",
+        "text": "I suspect this came about mostly due to the commercialization of the Internet. We applied old school publishing, and more importantly making money from publishing, to the web. In other words we applied copyright. "
+      },
+      "date": 1545428668867
+    },
+    {
+      "type": "edit",
+      "id": "0d08bed163612e42",
+      "item": {
+        "type": "paragraph",
+        "id": "0d08bed163612e42",
+        "text": "I suspect this came about mostly due to the commercialization of the Internet. We applied old school publishing, and more importantly making money from publishing, to the web. In other words we applied copyright. (See [http://www.mateoaboy.com/f6/blog_files/128ce98299902760f1c540b8dcf9eec5-4.html what is the purpose of copyright?])"
+      },
+      "date": 1545428706561
+    },
+    {
+      "type": "edit",
+      "id": "0d08bed163612e42",
+      "item": {
+        "type": "paragraph",
+        "id": "0d08bed163612e42",
+        "text": "Mike places the blame here to the thinking of the web as conversation. Instead, I suspect this came about mostly due to the commercialization of the Internet. We applied old school publishing, and more importantly making money from publishing, to the web. In other words we applied copyright. (See [http://www.mateoaboy.com/f6/blog_files/128ce98299902760f1c540b8dcf9eec5-4.html what is the purpose of copyright?])"
+      },
+      "date": 1545428771938
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0fa78bd25cfa42b9"
+      },
+      "id": "0fa78bd25cfa42b9",
+      "type": "add",
+      "after": "0d08bed163612e42",
+      "date": 1545428904906
+    },
+    {
+      "type": "edit",
+      "id": "0fa78bd25cfa42b9",
+      "item": {
+        "type": "paragraph",
+        "id": "0fa78bd25cfa42b9",
+        "text": "Mike goes on to close his article by relating the implications of the garden and stream metaphor to his profession "
+      },
+      "date": 1545428942429
+    },
+    {
+      "type": "edit",
+      "id": "0fa78bd25cfa42b9",
+      "item": {
+        "type": "paragraph",
+        "id": "0fa78bd25cfa42b9",
+        "text": "Mike goes on to close his article by relating the implications of the garden and stream metaphor to his profession of educational technology."
+      },
+      "date": 1545428974899
+    },
+    {
+      "type": "edit",
+      "id": "59588549c7fba203",
+      "item": {
+        "type": "paragraph",
+        "id": "59588549c7fba203",
+        "text": "I've been blogging for 18 years and I don't really think of my blogs as a conversation. I think of my blog as an online journal of what I find interesting, the key of which is that those things are tied to dates."
+      },
+      "date": 1545429028306
+    },
+    {
+      "type": "edit",
+      "id": "df731a73a3223856",
+      "item": {
+        "type": "paragraph",
+        "id": "df731a73a3223856",
+        "text": "I realize now that the garden and stream metaphor is similar to my mental model of long form writing [https://writing.frankmcpherson.net example] and blog posts. [https://frankmcpherson.blog example] In my mind, a blog post should be one paragraph, two tops, where as anything three paragraphs or more is long form. Perhaps another way to think of this is the difference between posts with titles and those without titles."
+      },
+      "date": 1545429150388
+    },
+    {
+      "type": "add",
+      "id": "601f64c7c54b140a",
+      "item": {
+        "type": "paragraph",
+        "id": "601f64c7c54b140a",
+        "text": "By the way, I think Dave Winer's blogging style is mostly gardening. You see this in how we builds a day's worth of blog posts and how he often carries topics over several days. The point being that gardening is not incompatible with blogs. "
+      },
+      "after": "df731a73a3223856",
+      "date": 1545429325308
+    },
+    {
+      "type": "edit",
+      "id": "601f64c7c54b140a",
+      "item": {
+        "type": "paragraph",
+        "id": "601f64c7c54b140a",
+        "text": "By the way, I think Dave Winer's blogging style is mostly gardening. You see this in how we builds a day's worth of blog posts [http://scripting.com/2018/12/20.html example] and how he often carries topics over several days. The point being that gardening is not incompatible with blogs. "
+      },
+      "date": 1545429378681
+    },
+    {
+      "type": "edit",
+      "id": "601f64c7c54b140a",
+      "item": {
+        "type": "paragraph",
+        "id": "601f64c7c54b140a",
+        "text": "By the way, I think Dave Winer's blogging style is mostly gardening. You see this in how we builds a day's worth of blog posts [http://scripting.com/2018/12/20.html example] and how he often carries topics over several days. The point being that gardening is not incompatible with blogs."
+      },
+      "date": 1545429412239
+    },
+    {
+      "type": "add",
+      "id": "835a317c8cd4f057",
+      "item": {
+        "type": "paragraph",
+        "id": "835a317c8cd4f057",
+        "text": "However, I will offer up an observation. The ability to directly edit what you write directly where it is published, such as with Federated Wiki and how Dave's EditThisPage worked is more conducive to gardening than the separate writing and publishing models of most blogging platforms like WordPress and micro.blog. "
+      },
+      "after": "601f64c7c54b140a",
+      "date": 1545429511461
+    },
+    {
+      "type": "edit",
+      "id": "835a317c8cd4f057",
+      "item": {
+        "type": "paragraph",
+        "id": "835a317c8cd4f057",
+        "text": "However, I will offer up an observation. The ability to directly edit what you write directly where it is published, such as with Federated Wiki and how Dave's [http://scripting.com/davenet/1999/12/08/editthispagecom.html EditThisPage] worked is more conducive to gardening than the separate writing and publishing models of most blogging platforms like WordPress and micro.blog. "
+      },
+      "date": 1545429576449
+    },
+    {
+      "type": "edit",
+      "id": "6633e69ba1a0d0a4",
+      "item": {
+        "type": "paragraph",
+        "id": "6633e69ba1a0d0a4",
+        "text": "An article written by Mike Caulfield in October, 2015 that has caused me to consider some of my own thinking about how and why I write and publish on the Internet. [https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/ webpage]"
+      },
+      "date": 1545429597791
+    },
+    {
+      "type": "edit",
+      "id": "6633e69ba1a0d0a4",
+      "item": {
+        "type": "paragraph",
+        "id": "6633e69ba1a0d0a4",
+        "text": "An article written by Mike Caulfield in October, 2015 that has caused me to reconsider some of my own thinking about how and why I write and publish on the Internet. [https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/ webpage]"
+      },
+      "date": 1545429610909
+    },
+    {
+      "type": "edit",
+      "id": "20149e825007f9ff",
+      "item": {
+        "type": "paragraph",
+        "id": "20149e825007f9ff",
+        "text": "Mike moves on to [https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ Vannevar Bush’s 1945 essay As We May Think]. "
+      },
+      "date": 1545429781426
+    },
+    {
+      "type": "edit",
+      "id": "ba1b751137f535bf",
+      "item": {
+        "type": "paragraph",
+        "id": "ba1b751137f535bf",
+        "text": "Here Mike is building up to Federated Wiki's forking capability. There is also the notion of local copies in Federated Wiki that enable you to overlay your own version of one's wiki page. He notes that the \"stream\" won on the Internet and asks why, answering:"
+      },
+      "date": 1545429869043
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a2a1e157327d88c4"
+      },
+      "id": "a2a1e157327d88c4",
+      "type": "add",
+      "after": "0fa78bd25cfa42b9",
+      "date": 1545429921646
+    },
+    {
+      "type": "edit",
+      "id": "a2a1e157327d88c4",
+      "item": {
+        "type": "paragraph",
+        "id": "a2a1e157327d88c4",
+        "text": "This essay and a reference made by Andy Sylverster inspired me to take a look at Federated Wiki, the software of this site. At first I didn't fully understand it, and I am not entirely sure I fully grasp all it can fully do, but I am becoming more and more immersed in the wiki mindset. "
+      },
+      "date": 1545430065676
+    },
+    {
+      "type": "add",
+      "id": "c40ee51dba4a0fd2",
+      "item": {
+        "type": "paragraph",
+        "id": "c40ee51dba4a0fd2",
+        "text": "I think the wiki mindset is centered on the sharing of knowledge. Half of why I write is simply to remember. Studies show you learn when writing. The other half of why I write is to share knowledge."
+      },
+      "after": "a2a1e157327d88c4",
+      "date": 1545430253767
+    },
+    {
+      "type": "add",
+      "id": "d3a77626f3312f92",
+      "item": {
+        "type": "paragraph",
+        "id": "d3a77626f3312f92",
+        "text": "Wiki is not a web publishing tool, although you do use it publish on the web. Wiki is a knowledge platform. Scientists know that how our brain retains knowledge is by linking new information with something already known. In other words, our brain is very much like one big network that might look very much like a web. "
+      },
+      "after": "c40ee51dba4a0fd2",
+      "date": 1545430424012
+    },
+    {
+      "type": "add",
+      "id": "df8c9a305f215ec2",
+      "item": {
+        "type": "paragraph",
+        "id": "df8c9a305f215ec2",
+        "text": "Wiki's unique concept of internal linking is the key ingredient to it being a knowledge platform. As I write I can easily relate something new to something I have already written. Or, I can easily create a stub to a new page to be completed in the future. See [[Wiki As A Knowledge Platform]].  "
+      },
+      "after": "d3a77626f3312f92",
+      "date": 1545430528841
+    },
+    {
+      "type": "edit",
+      "id": "a2a1e157327d88c4",
+      "item": {
+        "type": "paragraph",
+        "id": "a2a1e157327d88c4",
+        "text": "This essay and [http://fedwiki.andysylvester.com/view/welcome-visitors/view/journal-2017/view/new-user-setup a reference made by Andy Sylvester] inspired me to take a look at Federated Wiki, the software of this site. At first I didn't fully understand it, and I am not entirely sure I fully grasp all it can fully do, but I am becoming more and more immersed in the wiki mindset. "
+      },
+      "date": 1545430619044
+    },
+    {
+      "type": "edit",
+      "id": "a2a1e157327d88c4",
+      "item": {
+        "type": "paragraph",
+        "id": "a2a1e157327d88c4",
+        "text": "This essay and [http://fedwiki.andysylvester.com/view/welcome-visitors/view/journal-2017/view/new-user-setup a reference made by Andy Sylvester] inspired me to take a look at [[Federated Wiki]], the software of this site. At first I didn't fully understand it, and I am not entirely sure I fully grasp all it can fully do, but I am becoming more and more immersed in the wiki mindset. "
+      },
+      "date": 1545430651456
+    },
+    {
+      "type": "edit",
+      "id": "d3a77626f3312f92",
+      "item": {
+        "type": "paragraph",
+        "id": "d3a77626f3312f92",
+        "text": "Wiki is not a web publishing tool, although you do use it publish on the web. Wiki is a knowledge platform. Scientists know that how our brain retains knowledge (makes memories, see [https://brainconnection.brainhq.com/2013/03/12/how-we-remember-and-why-we-forget/ page]) is by linking new information with something already known. In other words, our brain is very much like one big network that might look very much like a web. "
+      },
+      "date": 1545431092761
+    },
+    {
+      "type": "edit",
+      "id": "d3a77626f3312f92",
+      "item": {
+        "type": "paragraph",
+        "id": "d3a77626f3312f92",
+        "text": "Wiki is not a web publishing tool, although you do use it publish on the web. Wiki is a knowledge platform. Scientists know that how our brain retains knowledge (makes memories, see [https://brainconnection.brainhq.com/2013/03/12/how-we-remember-and-why-we-forget/ page]) is by linking (associating) new information with something already known. In other words, our brain is very much like one big network that might look very much like a web. "
+      },
+      "date": 1545431117988
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "15fd161f2173f73a"
+      },
+      "id": "15fd161f2173f73a",
+      "type": "add",
+      "after": "df8c9a305f215ec2",
+      "date": 1546894039210
+    },
+    {
+      "type": "remove",
+      "id": "15fd161f2173f73a",
+      "date": 1546894059843
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a6903b153cb676f"
+      },
+      "id": "6a6903b153cb676f",
+      "type": "add",
+      "after": "df8c9a305f215ec2",
+      "date": 1546894061690
+    },
+    {
+      "type": "edit",
+      "id": "6a6903b153cb676f",
+      "item": {
+        "type": "paragraph",
+        "id": "6a6903b153cb676f",
+        "text": "Note that TBL's first proposal for the web was titled \""
+      },
+      "date": 1546894084500
+    },
+    {
+      "type": "edit",
+      "id": "6a6903b153cb676f",
+      "item": {
+        "type": "paragraph",
+        "id": "6a6903b153cb676f",
+        "text": "Note that TBL's first proposal for the web was titled \"Information Management, a Proposal\"."
+      },
+      "date": 1546894100697
+    },
+    {
+      "type": "edit",
+      "id": "6a6903b153cb676f",
+      "item": {
+        "type": "paragraph",
+        "id": "6a6903b153cb676f",
+        "text": "Note that TBL's first proposal for the web was titled \"Information Management, a Proposal\". [https://thehistoryoftheweb.com/timeline/ webpage]"
+      },
+      "date": 1546894123352
+    },
+    {
+      "type": "move",
+      "order": [
+        "6633e69ba1a0d0a4",
+        "c90d61e0ba947b9b",
+        "59588549c7fba203",
+        "a3ee3d2e046c79e2",
+        "26ca3a59489e506d",
+        "e6b13f25f0037104",
+        "ec836733d95fabd1",
+        "c14ad4126ce7c1ad",
+        "b7c18fc46043d245",
+        "f76bbde6c1761d6f",
+        "6a6903b153cb676f",
+        "df731a73a3223856",
+        "601f64c7c54b140a",
+        "835a317c8cd4f057",
+        "5f08926a2fe102ad",
+        "1bd3ede72f3d556f",
+        "20149e825007f9ff",
+        "7f95f0bd016236f5",
+        "d9cc5428dcdd635b",
+        "6972dcdd31d68831",
+        "ba1b751137f535bf",
+        "fd2a44435a8c32e2",
+        "9a7c70c749c0e8da",
+        "0d08bed163612e42",
+        "0fa78bd25cfa42b9",
+        "a2a1e157327d88c4",
+        "c40ee51dba4a0fd2",
+        "d3a77626f3312f92",
+        "df8c9a305f215ec2"
+      ],
+      "id": "6a6903b153cb676f",
+      "date": 1546894148877
+    },
+    {
+      "type": "edit",
+      "id": "6a6903b153cb676f",
+      "item": {
+        "type": "paragraph",
+        "id": "6a6903b153cb676f",
+        "text": "Note that TBL's first proposal for the web was titled \"Information Management, a Proposal,\" which means to me that wiki is more closely aligned to the original idea opf the web. [https://thehistoryoftheweb.com/timeline/ webpage] "
+      },
+      "date": 1546894206151
+    },
+    {
+      "type": "edit",
+      "id": "0d08bed163612e42",
+      "item": {
+        "type": "paragraph",
+        "id": "0d08bed163612e42",
+        "text": "Mike places the blame here to the thinking of the web as conversation. Instead, I suspect this came about mostly due to the commercialization of the Internet. We applied old school publishing, and more importantly making money from publishing, to the web. In other words we applied copyright. (See [[The Original Sin of the Internet]] and [http://www.mateoaboy.com/f6/blog_files/128ce98299902760f1c540b8dcf9eec5-4.html what is the purpose of copyright?])"
+      },
+      "date": 1547065509427
+    },
+    {
+      "type": "edit",
+      "id": "6a6903b153cb676f",
+      "item": {
+        "type": "paragraph",
+        "id": "6a6903b153cb676f",
+        "text": "Note that TBL's first proposal for the web was titled \"Information Management, a Proposal,\" which means to me that wiki is more closely aligned to the original idea of the web. [https://thehistoryoftheweb.com/timeline/ webpage] "
+      },
+      "date": 1547156348902
+    },
+    {
+      "type": "fork",
+      "site": "fedwiki.frankmcpherson.net",
+      "date": 1563259526865
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "901854de5f2104b2"
+      },
+      "id": "901854de5f2104b2",
+      "type": "add",
+      "after": "df8c9a305f215ec2",
+      "date": 1563259550235
+    },
+    {
+      "type": "edit",
+      "id": "901854de5f2104b2",
+      "item": {
+        "type": "markdown",
+        "id": "901854de5f2104b2",
+        "text": "I found the commentary below from  [[Frank McPherson]] resonated with my own emerging sense of practice"
+      },
+      "date": 1563259596952
+    },
+    {
+      "id": "901854de5f2104b2",
+      "type": "move",
+      "order": [
+        "901854de5f2104b2",
+        "6633e69ba1a0d0a4",
+        "c90d61e0ba947b9b",
+        "59588549c7fba203",
+        "a3ee3d2e046c79e2",
+        "26ca3a59489e506d",
+        "e6b13f25f0037104",
+        "ec836733d95fabd1",
+        "c14ad4126ce7c1ad",
+        "b7c18fc46043d245",
+        "f76bbde6c1761d6f",
+        "6a6903b153cb676f",
+        "df731a73a3223856",
+        "601f64c7c54b140a",
+        "835a317c8cd4f057",
+        "5f08926a2fe102ad",
+        "1bd3ede72f3d556f",
+        "20149e825007f9ff",
+        "7f95f0bd016236f5",
+        "d9cc5428dcdd635b",
+        "6972dcdd31d68831",
+        "ba1b751137f535bf",
+        "fd2a44435a8c32e2",
+        "9a7c70c749c0e8da",
+        "0d08bed163612e42",
+        "0fa78bd25cfa42b9",
+        "a2a1e157327d88c4",
+        "c40ee51dba4a0fd2",
+        "d3a77626f3312f92",
+        "df8c9a305f215ec2"
+      ],
+      "date": 1563259616198
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "366a510faaf5c955"
+      },
+      "id": "366a510faaf5c955",
+      "type": "add",
+      "after": "df8c9a305f215ec2",
+      "date": 1563259621634
+    },
+    {
+      "type": "edit",
+      "id": "366a510faaf5c955",
+      "item": {
+        "type": "pagefold",
+        "id": "366a510faaf5c955",
+        "text": " "
+      },
+      "date": 1563259626710
+    },
+    {
+      "id": "366a510faaf5c955",
+      "type": "move",
+      "order": [
+        "901854de5f2104b2",
+        "366a510faaf5c955",
+        "6633e69ba1a0d0a4",
+        "c90d61e0ba947b9b",
+        "59588549c7fba203",
+        "a3ee3d2e046c79e2",
+        "26ca3a59489e506d",
+        "e6b13f25f0037104",
+        "ec836733d95fabd1",
+        "c14ad4126ce7c1ad",
+        "b7c18fc46043d245",
+        "f76bbde6c1761d6f",
+        "6a6903b153cb676f",
+        "df731a73a3223856",
+        "601f64c7c54b140a",
+        "835a317c8cd4f057",
+        "5f08926a2fe102ad",
+        "1bd3ede72f3d556f",
+        "20149e825007f9ff",
+        "7f95f0bd016236f5",
+        "d9cc5428dcdd635b",
+        "6972dcdd31d68831",
+        "ba1b751137f535bf",
+        "fd2a44435a8c32e2",
+        "9a7c70c749c0e8da",
+        "0d08bed163612e42",
+        "0fa78bd25cfa42b9",
+        "a2a1e157327d88c4",
+        "c40ee51dba4a0fd2",
+        "d3a77626f3312f92",
+        "df8c9a305f215ec2"
+      ],
+      "date": 1563259641462
+    }
+  ]
+}

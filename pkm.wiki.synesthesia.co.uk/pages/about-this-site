@@ -22,9 +22,24 @@
       "text": "Understanding [[Roles in PKM]]"
     },
     {
+      "type": "markdown",
+      "id": "0a7fc31d5b812eff",
+      "text": "[[The Garden and the Stream]]"
+    },
+    {
       "type": "html",
       "id": "f910a7b287be78e3",
-      "text": "<h4>Explorations</h4>\n\n[[Markets and Networks]]\n\n<h4>Other people</h4>"
+      "text": "<h4>Explorations</h4>\n\n[[Markets and Networks]]\n\n\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "996c1ba6f19b2394",
+      "text": "[[Barriers to Effective PKM]]"
+    },
+    {
+      "type": "markdown",
+      "id": "19750f7866ed4bc0",
+      "text": "#### Other people"
     },
     {
       "type": "paragraph",
@@ -879,6 +894,214 @@
     {
       "type": "fork",
       "date": 1563205540560
+    },
+    {
+      "type": "edit",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "<h4>Explorations</h4>\n\n[[Markets and Networks]]\n[[The Garden and the Stream]]\n\n<h4>Other people</h4>"
+      },
+      "date": 1563259482163
+    },
+    {
+      "type": "edit",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "<h4>Explorations</h4>\n\n[[Markets and Networks]]\n\n[[The Garden and the Stream]]\n\n<h4>Other people</h4>"
+      },
+      "date": 1563259486392
+    },
+    {
+      "type": "edit",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "<h4>Explorations</h4>\n\n[[Markets and Networks]]\n\n\n\n<h4>Other people</h4>"
+      },
+      "date": 1563259491904
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0a7fc31d5b812eff"
+      },
+      "id": "0a7fc31d5b812eff",
+      "type": "add",
+      "after": "d82343789c3e5127",
+      "date": 1563259496353
+    },
+    {
+      "type": "edit",
+      "id": "0a7fc31d5b812eff",
+      "item": {
+        "type": "markdown",
+        "id": "0a7fc31d5b812eff",
+        "text": "[[The Garden and the Stream]]"
+      },
+      "date": 1563259501277
+    },
+    {
+      "id": "0a7fc31d5b812eff",
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "5bfa322e150bcc02",
+        "3b8007e0b419e558",
+        "8c8c02d9c97b7aac",
+        "0a7fc31d5b812eff",
+        "f910a7b287be78e3",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "bb529c10c542e1d8",
+        "effcf15a08723ec0",
+        "a3bc6c94042c3a43",
+        "86f65943f11bda8a",
+        "d82343789c3e5127"
+      ],
+      "date": 1563259507378
+    },
+    {
+      "type": "edit",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "<h4>Explorations</h4>\n\n[[Markets and Networks]]\n\n\n\n"
+      },
+      "date": 1563261985691
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "78bd4b56cbcfaea2"
+      },
+      "id": "78bd4b56cbcfaea2",
+      "type": "add",
+      "after": "d82343789c3e5127",
+      "date": 1563261990124
+    },
+    {
+      "type": "edit",
+      "id": "78bd4b56cbcfaea2",
+      "item": {
+        "type": "paragraph",
+        "id": "78bd4b56cbcfaea2",
+        "text": "<h4>Other people</h4>"
+      },
+      "date": 1563261992776
+    },
+    {
+      "type": "remove",
+      "id": "78bd4b56cbcfaea2",
+      "date": 1563261996155
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "19750f7866ed4bc0"
+      },
+      "id": "19750f7866ed4bc0",
+      "type": "add",
+      "after": "d82343789c3e5127",
+      "date": 1563261997449
+    },
+    {
+      "type": "edit",
+      "id": "19750f7866ed4bc0",
+      "item": {
+        "type": "markdown",
+        "id": "19750f7866ed4bc0",
+        "text": "<h4>Other people</h4>"
+      },
+      "date": 1563262000418
+    },
+    {
+      "type": "edit",
+      "id": "19750f7866ed4bc0",
+      "item": {
+        "type": "markdown",
+        "id": "19750f7866ed4bc0",
+        "text": "## Other people"
+      },
+      "date": 1563262009606
+    },
+    {
+      "id": "19750f7866ed4bc0",
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "5bfa322e150bcc02",
+        "3b8007e0b419e558",
+        "8c8c02d9c97b7aac",
+        "0a7fc31d5b812eff",
+        "f910a7b287be78e3",
+        "19750f7866ed4bc0",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "bb529c10c542e1d8",
+        "effcf15a08723ec0",
+        "a3bc6c94042c3a43",
+        "86f65943f11bda8a",
+        "d82343789c3e5127"
+      ],
+      "date": 1563262015527
+    },
+    {
+      "type": "edit",
+      "id": "19750f7866ed4bc0",
+      "item": {
+        "type": "markdown",
+        "id": "19750f7866ed4bc0",
+        "text": "#### Other people"
+      },
+      "date": 1563262047369
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "996c1ba6f19b2394"
+      },
+      "id": "996c1ba6f19b2394",
+      "type": "add",
+      "after": "d82343789c3e5127",
+      "date": 1563262416707
+    },
+    {
+      "type": "edit",
+      "id": "996c1ba6f19b2394",
+      "item": {
+        "type": "markdown",
+        "id": "996c1ba6f19b2394",
+        "text": "[[Barriers to Effective PKM]]"
+      },
+      "date": 1563262427314
+    },
+    {
+      "id": "996c1ba6f19b2394",
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "5bfa322e150bcc02",
+        "3b8007e0b419e558",
+        "8c8c02d9c97b7aac",
+        "0a7fc31d5b812eff",
+        "f910a7b287be78e3",
+        "996c1ba6f19b2394",
+        "19750f7866ed4bc0",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "bb529c10c542e1d8",
+        "effcf15a08723ec0",
+        "a3bc6c94042c3a43",
+        "86f65943f11bda8a",
+        "d82343789c3e5127"
+      ],
+      "date": 1563262432292
     }
   ]
 }

@@ -1,0 +1,49 @@
+{
+  "title": "Barriers to Effective PKM",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "cad6d2360d1611aa",
+      "text": "What are the factors that undermine effective personal knowledge management?\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Barriers to Effective PKM",
+        "story": []
+      },
+      "date": 1563262437437
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cad6d2360d1611aa"
+      },
+      "id": "cad6d2360d1611aa",
+      "type": "add",
+      "date": 1563262439671
+    },
+    {
+      "type": "edit",
+      "id": "cad6d2360d1611aa",
+      "item": {
+        "type": "markdown",
+        "id": "cad6d2360d1611aa",
+        "text": "What are the factors that "
+      },
+      "date": 1563262452841
+    },
+    {
+      "type": "edit",
+      "id": "cad6d2360d1611aa",
+      "item": {
+        "type": "markdown",
+        "id": "cad6d2360d1611aa",
+        "text": "What are the factors that undermine effective personal knowledge management?\n"
+      },
+      "date": 1563262481966
+    }
+  ]
+}

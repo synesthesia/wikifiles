@@ -1,0 +1,105 @@
+{
+  "title": "Social Evolution",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "f0403420ffef2c9a",
+      "text": "The application of [[Biological Evolution]] theory to explain societal change."
+    },
+    {
+      "type": "pagefold",
+      "id": "adbfa30996a46a87",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "39e8abe46f3e171d",
+      "text": "[[David Ronfeldt]] [[TIMN]] model of social evolution"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Social Evolution",
+        "story": []
+      },
+      "date": 1563259014481
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f0403420ffef2c9a"
+      },
+      "id": "f0403420ffef2c9a",
+      "type": "add",
+      "date": 1563259016151
+    },
+    {
+      "type": "edit",
+      "id": "f0403420ffef2c9a",
+      "item": {
+        "type": "markdown",
+        "id": "f0403420ffef2c9a",
+        "text": "The application of [[Biological Evolution]] theory to explain societal change."
+      },
+      "date": 1563259042359
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "39e8abe46f3e171d",
+        "text": "[[David Ronfeldt]] [[TIMN]] model of social evolution"
+      },
+      "after": "f0403420ffef2c9a",
+      "id": "39e8abe46f3e171d",
+      "date": 1563259046187
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ee95306d69ac2914"
+      },
+      "id": "ee95306d69ac2914",
+      "type": "add",
+      "after": "39e8abe46f3e171d",
+      "date": 1563259055990
+    },
+    {
+      "type": "remove",
+      "id": "ee95306d69ac2914",
+      "date": 1563259059400
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "adbfa30996a46a87"
+      },
+      "id": "adbfa30996a46a87",
+      "type": "add",
+      "after": "39e8abe46f3e171d",
+      "date": 1563259060805
+    },
+    {
+      "type": "edit",
+      "id": "adbfa30996a46a87",
+      "item": {
+        "type": "pagefold",
+        "id": "adbfa30996a46a87",
+        "text": "\n"
+      },
+      "date": 1563259063991
+    },
+    {
+      "type": "move",
+      "order": [
+        "f0403420ffef2c9a",
+        "adbfa30996a46a87",
+        "39e8abe46f3e171d"
+      ],
+      "id": "39e8abe46f3e171d",
+      "date": 1563259071616
+    }
+  ]
+}

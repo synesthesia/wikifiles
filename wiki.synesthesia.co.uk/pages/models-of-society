@@ -2,9 +2,9 @@
   "title": "Models of Society",
   "story": [
     {
-      "type": "paragraph",
-      "id": "39e8abe46f3e171d",
-      "text": "[[David Ronfeldt]] [[TIMN]] model of social evolution"
+      "type": "markdown",
+      "id": "9ae4dd096a2194ff",
+      "text": "[[Social Evolution]]\n[[Functionalist Theories of Society]]\n[[Conflict Theories of Society]]"
     }
   ],
   "journal": [
@@ -30,6 +30,41 @@
       "type": "fork",
       "site": "pkm.wiki.synesthesia.co.uk",
       "date": 1563258873790
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9ae4dd096a2194ff"
+      },
+      "id": "9ae4dd096a2194ff",
+      "type": "add",
+      "after": "39e8abe46f3e171d",
+      "date": 1563258935885
+    },
+    {
+      "type": "edit",
+      "id": "9ae4dd096a2194ff",
+      "item": {
+        "type": "markdown",
+        "id": "9ae4dd096a2194ff",
+        "text": "[[Social Evolution]]\n[[Functionalist Theories of Society]]"
+      },
+      "date": 1563258982366
+    },
+    {
+      "type": "edit",
+      "id": "9ae4dd096a2194ff",
+      "item": {
+        "type": "markdown",
+        "id": "9ae4dd096a2194ff",
+        "text": "[[Social Evolution]]\n[[Functionalist Theories of Society]]\n[[Conflict Theories of Society]]"
+      },
+      "date": 1563259003847
+    },
+    {
+      "type": "remove",
+      "id": "39e8abe46f3e171d",
+      "date": 1563259046185
     }
   ]
 }
