@@ -1,0 +1,353 @@
+{
+  "title": "Wiki Launch Codes",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "908fd85894062b98",
+      "text": "see also [[Starting Fedwiki]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "56335f32c512f5a1",
+      "text": " \n"
+    },
+    {
+      "type": "paragraph",
+      "id": "6a47ae18f9bd999e",
+      "text": "We use to launch wiki with one command: wiki. It is much more complicated now. If you put the info into a wiki config file then it will remember it but you won't know how to change it. For personal servers and especially development, try one of these."
+    },
+    {
+      "type": "paragraph",
+      "id": "c6c83678605b8af8",
+      "text": "From [[Plugin Documentation]] for editing about files."
+    },
+    {
+      "type": "code",
+      "id": "dbe1075530eb7eb7",
+      "text": "wiki -p 3010 -d . --security_legacy"
+    },
+    {
+      "type": "code",
+      "id": "3d2ebef7cb24d644",
+      "text": "P=`pwd`\n(cd ../wiki;\n  node index.js -p 3010 -d $P --security_legacy)"
+    },
+    {
+      "type": "paragraph",
+      "id": "f6a031277639071b",
+      "text": "For Friendly security on your laptop. [https://github.com/fedwiki/wiki-security-friends github]"
+    },
+    {
+      "type": "code",
+      "id": "5492f1c2e6eb2753",
+      "text": "cd wiki;\nnode index.js -f \\\n  --security_type friends \\\n  --cookieSecret mumble \\\n  --session_duration 365 \\\n  --admin 923042340982"
+    },
+    {
+      "type": "paragraph",
+      "id": "b44239dae0948223",
+      "text": "Find the admin code in .wiki."
+    },
+    {
+      "type": "code",
+      "id": "6a01f6ebd100e6c3",
+      "text": "cat ~/.wiki/localhost/status/owner.json"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Wiki Launch Codes",
+        "story": []
+      },
+      "date": 1519167891685
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a47ae18f9bd999e"
+      },
+      "id": "6a47ae18f9bd999e",
+      "type": "add",
+      "date": 1519167893910
+    },
+    {
+      "type": "edit",
+      "id": "6a47ae18f9bd999e",
+      "item": {
+        "type": "paragraph",
+        "id": "6a47ae18f9bd999e",
+        "text": "We use to launch wiki with wiki. It is much more complicated now. If you put the info into a wiki config file then it will remember it but you won't know how to change it. For personal servers and especially development, try one of these."
+      },
+      "date": 1519167998244
+    },
+    {
+      "type": "add",
+      "id": "c6c83678605b8af8",
+      "item": {
+        "type": "paragraph",
+        "id": "c6c83678605b8af8",
+        "text": "From [[Plugin Documentation]] for editing about files."
+      },
+      "after": "6a47ae18f9bd999e",
+      "date": 1519168084511
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dbe1075530eb7eb7"
+      },
+      "id": "dbe1075530eb7eb7",
+      "type": "add",
+      "after": "c6c83678605b8af8",
+      "date": 1519168110314
+    },
+    {
+      "type": "edit",
+      "id": "dbe1075530eb7eb7",
+      "item": {
+        "type": "code",
+        "id": "dbe1075530eb7eb7",
+        "text": "wiki -p 3010 -d . --security_legacy"
+      },
+      "date": 1519168119840
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3d2ebef7cb24d644"
+      },
+      "id": "3d2ebef7cb24d644",
+      "type": "add",
+      "after": "dbe1075530eb7eb7",
+      "date": 1519168122414
+    },
+    {
+      "type": "edit",
+      "id": "3d2ebef7cb24d644",
+      "item": {
+        "type": "code",
+        "id": "3d2ebef7cb24d644",
+        "text": "P=`pwd`\n(cd ../wiki; node index.js -p 3010 -d $P --security_legacy)"
+      },
+      "date": 1519168165284
+    },
+    {
+      "type": "edit",
+      "id": "3d2ebef7cb24d644",
+      "item": {
+        "type": "code",
+        "id": "3d2ebef7cb24d644",
+        "text": "P=`pwd`\n(cd ../wiki;node index.js -p 3010 -d $P --security_legacy)"
+      },
+      "date": 1519168175438
+    },
+    {
+      "type": "edit",
+      "id": "3d2ebef7cb24d644",
+      "item": {
+        "type": "code",
+        "id": "3d2ebef7cb24d644",
+        "text": "P=`pwd`\n(cd ../wiki;\n  node index.js -p 3010 -d $P --security_legacy)"
+      },
+      "date": 1519168186286
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f6a031277639071b"
+      },
+      "id": "f6a031277639071b",
+      "type": "add",
+      "after": "3d2ebef7cb24d644",
+      "date": 1519168219907
+    },
+    {
+      "type": "edit",
+      "id": "f6a031277639071b",
+      "item": {
+        "type": "paragraph",
+        "id": "f6a031277639071b",
+        "text": "For Friendly security on your laptop."
+      },
+      "date": 1519168242428
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5492f1c2e6eb2753"
+      },
+      "id": "5492f1c2e6eb2753",
+      "type": "add",
+      "after": "f6a031277639071b",
+      "date": 1519168263161
+    },
+    {
+      "type": "edit",
+      "id": "5492f1c2e6eb2753",
+      "item": {
+        "type": "code",
+        "id": "5492f1c2e6eb2753",
+        "text": "cd wiki;\nnode index.js -f -security_type friendly"
+      },
+      "date": 1519168322706
+    },
+    {
+      "type": "edit",
+      "id": "f6a031277639071b",
+      "item": {
+        "type": "paragraph",
+        "id": "f6a031277639071b",
+        "text": "For Friendly security on your laptop. [https://github.com/fedwiki/wiki-security-friends github]"
+      },
+      "date": 1519168524748
+    },
+    {
+      "type": "edit",
+      "id": "5492f1c2e6eb2753",
+      "item": {
+        "type": "code",
+        "id": "5492f1c2e6eb2753",
+        "text": "cd wiki;\nnode index.js -f \\\n  --security_type friends \\\n  --cookieSecret mumble \\\n  --session_duration 365 \\"
+      },
+      "date": 1519168739644
+    },
+    {
+      "type": "edit",
+      "id": "5492f1c2e6eb2753",
+      "item": {
+        "type": "code",
+        "id": "5492f1c2e6eb2753",
+        "text": "cd wiki;\nnode index.js -f \\\n  --security_type friends \\\n  --cookieSecret mumble \\\n  --session_duration 365 \\\n  --admin 923042340982"
+      },
+      "date": 1519168860755
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b44239dae0948223"
+      },
+      "id": "b44239dae0948223",
+      "type": "add",
+      "after": "5492f1c2e6eb2753",
+      "date": 1519168974943
+    },
+    {
+      "type": "edit",
+      "id": "b44239dae0948223",
+      "item": {
+        "type": "paragraph",
+        "id": "b44239dae0948223",
+        "text": "Find the admin code in .wiki."
+      },
+      "date": 1519168994739
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a01f6ebd100e6c3"
+      },
+      "id": "6a01f6ebd100e6c3",
+      "type": "add",
+      "after": "b44239dae0948223",
+      "date": 1519168996833
+    },
+    {
+      "type": "edit",
+      "id": "6a01f6ebd100e6c3",
+      "item": {
+        "type": "code",
+        "id": "6a01f6ebd100e6c3",
+        "text": "cat ~/.wiki/localhost/status/owner.json"
+      },
+      "date": 1519169003581
+    },
+    {
+      "type": "edit",
+      "id": "6a47ae18f9bd999e",
+      "item": {
+        "type": "paragraph",
+        "id": "6a47ae18f9bd999e",
+        "text": "We use to launch wiki with one command: wiki. It is much more complicated now. If you put the info into a wiki config file then it will remember it but you won't know how to change it. For personal servers and especially development, try one of these."
+      },
+      "date": 1519227591501
+    },
+    {
+      "type": "fork",
+      "site": "found.ward.bay.wiki.org",
+      "date": 1563275800834
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "56335f32c512f5a1"
+      },
+      "id": "56335f32c512f5a1",
+      "type": "add",
+      "after": "6a01f6ebd100e6c3",
+      "date": 1563275810005
+    },
+    {
+      "type": "edit",
+      "id": "56335f32c512f5a1",
+      "item": {
+        "type": "pagefold",
+        "id": "56335f32c512f5a1",
+        "text": " \n"
+      },
+      "date": 1563275821226
+    },
+    {
+      "id": "56335f32c512f5a1",
+      "type": "move",
+      "order": [
+        "56335f32c512f5a1",
+        "6a47ae18f9bd999e",
+        "c6c83678605b8af8",
+        "dbe1075530eb7eb7",
+        "3d2ebef7cb24d644",
+        "f6a031277639071b",
+        "5492f1c2e6eb2753",
+        "b44239dae0948223",
+        "6a01f6ebd100e6c3"
+      ],
+      "date": 1563275824741
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "908fd85894062b98"
+      },
+      "id": "908fd85894062b98",
+      "type": "add",
+      "after": "6a01f6ebd100e6c3",
+      "date": 1563275826573
+    },
+    {
+      "type": "edit",
+      "id": "908fd85894062b98",
+      "item": {
+        "type": "markdown",
+        "id": "908fd85894062b98",
+        "text": "see also [[Starting Fedwiki]]"
+      },
+      "date": 1563275845784
+    },
+    {
+      "id": "908fd85894062b98",
+      "type": "move",
+      "order": [
+        "908fd85894062b98",
+        "56335f32c512f5a1",
+        "6a47ae18f9bd999e",
+        "c6c83678605b8af8",
+        "dbe1075530eb7eb7",
+        "3d2ebef7cb24d644",
+        "f6a031277639071b",
+        "5492f1c2e6eb2753",
+        "b44239dae0948223",
+        "6a01f6ebd100e6c3"
+      ],
+      "date": 1563275848779
+    }
+  ]
+}
