@@ -5,6 +5,20 @@
       "type": "markdown",
       "id": "cad6d2360d1611aa",
       "text": "What are the factors that undermine effective personal knowledge management?\n"
+    },
+    {
+      "type": "markdown",
+      "id": "3ba8605f0e537dd9",
+      "text": "[[Shallow Knowledge]]"
+    },
+    {
+      "type": "markdown",
+      "id": "44f7a163e1c4b8c6",
+      "text": "Weak [[Sense]]-making"
+    },
+    {
+      "type": "factory",
+      "id": "bbaad6cd26a83a74"
     }
   ],
   "journal": [
@@ -44,6 +58,56 @@
         "text": "What are the factors that undermine effective personal knowledge management?\n"
       },
       "date": 1563262481966
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3ba8605f0e537dd9"
+      },
+      "id": "3ba8605f0e537dd9",
+      "type": "add",
+      "after": "cad6d2360d1611aa",
+      "date": 1563262534103
+    },
+    {
+      "type": "edit",
+      "id": "3ba8605f0e537dd9",
+      "item": {
+        "type": "markdown",
+        "id": "3ba8605f0e537dd9",
+        "text": "[[Shallow Knowledge]]"
+      },
+      "date": 1563262544585
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "44f7a163e1c4b8c6"
+      },
+      "id": "44f7a163e1c4b8c6",
+      "type": "add",
+      "after": "3ba8605f0e537dd9",
+      "date": 1563262545695
+    },
+    {
+      "type": "edit",
+      "id": "44f7a163e1c4b8c6",
+      "item": {
+        "type": "markdown",
+        "id": "44f7a163e1c4b8c6",
+        "text": "Weak [[Sense]]-making"
+      },
+      "date": 1563262561624
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bbaad6cd26a83a74"
+      },
+      "id": "bbaad6cd26a83a74",
+      "type": "add",
+      "after": "44f7a163e1c4b8c6",
+      "date": 1563262563071
     }
   ]
 }
