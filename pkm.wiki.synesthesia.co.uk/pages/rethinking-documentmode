@@ -1,0 +1,741 @@
+{
+  "title": "Rethinking DocumentMode",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a10e294d3dc8f85b",
+      "text": "We rethink DocumentMode as a synthesis of thread mode ideas brought to an end and view it as one position in a larger constellation of ideas."
+    },
+    {
+      "type": "paragraph",
+      "id": "c062bc84d8bf2835",
+      "text": "Well-composed dissertation pages create starting points for further consideration. They become nodes in a larger wiki-wide discussion. On FedWiki, those points can be indicated using stubs. Linked dissertation pages can be used to create an ever-widening [[Radical Discourse]] that [[Thread Mode]] doesn't."
+    },
+    {
+      "type": "paragraph",
+      "id": "fa511f4c3018ca8d",
+      "text": "The traditional wiki idea of DocumentMode is something like this:"
+    },
+    {
+      "type": "reference",
+      "id": "1d84f262c69221a5",
+      "site": "journal.hapgood.net",
+      "slug": "document-mode",
+      "title": "Document Mode",
+      "text": "[[Document Mode]] is when a wiki contribution is written in the third person and left unsigned. The piece of text is community property; it may have multiple and changing authors as it is updated to reflect the community consensus and contention (in the case of traditional wiki) or a single individual's understanding (in the case of federated wiki)."
+    },
+    {
+      "type": "paragraph",
+      "id": "c24c5495fdf99e9f",
+      "text": "On FedWiki, DocumentMode has been re-named, re-thought, and re-cast as Dissertation. There is some discussion on it at [[Dissertation Over Discourse]], that stresses that dissertation is \"a unified presentation ....\" "
+    },
+    {
+      "type": "paragraph",
+      "id": "63feb029fdc60d79",
+      "text": "We needn't let the name of the thing get in the way. We can place an emphasis on unified, crafted, well-wrought, while adding some ideas drawn from the academic dissertation:"
+    },
+    {
+      "type": "paragraph",
+      "id": "f9b7527710f91270",
+      "text": "- dissertations are written in response to other documents."
+    },
+    {
+      "type": "paragraph",
+      "id": "98c9673ab7bf4730",
+      "text": "- dissertations are collective documents, not written in a vacuum, but with the assistance of others who are recognized as experts in the subject."
+    },
+    {
+      "type": "paragraph",
+      "id": "01b196452f7d24f7",
+      "text": "- dissertations that are socially important are further responded to and built on by others."
+    },
+    {
+      "type": "paragraph",
+      "id": "e2a3aab83e25cbcf",
+      "text": "- dissertations are where experts in training test their their ideas."
+    },
+    {
+      "type": "html",
+      "id": "6adad20e71943859",
+      "text": "\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "56e3a6377e4f2aa9",
+      "text": "Or we can ignore the analogy completely and get on with things."
+    },
+    {
+      "type": "paragraph",
+      "id": "04a84a5433d64edc",
+      "text": "Call it DocumentMode or dissertation page, here are two points about dissertation pages that orient writers to the page."
+    },
+    {
+      "type": "paragraph",
+      "id": "3d094f771c74dd56",
+      "text": "- A dissertation page is not its own entity. It is linked into the wiki and the web at large as one node in the universe."
+    },
+    {
+      "type": "html",
+      "id": "688f3a00336ba964",
+      "text": "- Dissertation pages do not automatically align with monological argument. A dissertation page can enact a dialogical exchange. A good dissertation page will, by using stubs, constellate a dialogical options. [[Dissertation Pages Need Not Be Monological]]"
+    },
+    {
+      "type": "factory",
+      "id": "21e607538a08e3b2"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Rethinking DocumentMode",
+        "story": []
+      },
+      "date": 1426185308977
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c24c5495fdf99e9f"
+      },
+      "id": "c24c5495fdf99e9f",
+      "type": "add",
+      "date": 1426185318760
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "1d84f262c69221a5",
+        "site": "journal.hapgood.net",
+        "slug": "document-mode",
+        "title": "Document Mode",
+        "text": "[[Document Mode]] is when a wiki contribution is written in the third person and left unsigned. The piece of text is community property; it may have multiple and changing authors as it is updated to reflect the community consensus and contention (in the case of traditional wiki) or a single individual's understanding (in the case of federated wiki)."
+      },
+      "id": "1d84f262c69221a5",
+      "date": 1426185322105
+    },
+    {
+      "type": "move",
+      "order": [
+        "c24c5495fdf99e9f",
+        "1d84f262c69221a5"
+      ],
+      "id": "1d84f262c69221a5",
+      "date": 1426185323574
+    },
+    {
+      "type": "move",
+      "order": [
+        "1d84f262c69221a5",
+        "c24c5495fdf99e9f"
+      ],
+      "id": "1d84f262c69221a5",
+      "date": 1426185325542
+    },
+    {
+      "type": "edit",
+      "id": "c24c5495fdf99e9f",
+      "item": {
+        "type": "paragraph",
+        "id": "c24c5495fdf99e9f",
+        "text": "This has been re-named and re-cast as Dissertation pages."
+      },
+      "date": 1426185375766
+    },
+    {
+      "type": "edit",
+      "id": "c24c5495fdf99e9f",
+      "item": {
+        "type": "paragraph",
+        "id": "c24c5495fdf99e9f",
+        "text": "No longer a mode, this has been re-named, re-thought, and re-cast as Dissertation. There is some discussion on it at [[Dissertation Over Discourse]]."
+      },
+      "date": 1426185500268
+    },
+    {
+      "type": "edit",
+      "id": "c24c5495fdf99e9f",
+      "item": {
+        "type": "paragraph",
+        "id": "c24c5495fdf99e9f",
+        "text": "No longer a mode, this has been re-named, re-thought, and re-cast as Dissertation. There is some discussion on it at [[Dissertation Over Discourse]], that stresses that dissertation is \"a unified presentation ....\" "
+      },
+      "date": 1426185588389
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "409084b160d9acfd"
+      },
+      "id": "409084b160d9acfd",
+      "type": "add",
+      "after": "c24c5495fdf99e9f",
+      "date": 1426185591661
+    },
+    {
+      "type": "edit",
+      "id": "409084b160d9acfd",
+      "item": {
+        "type": "paragraph",
+        "id": "409084b160d9acfd",
+        "text": "We needn't let the name of the thing get in the way. We can place an emphasis on unified, crafted, well-wrought, while adding the ideas that "
+      },
+      "date": 1426185680604
+    },
+    {
+      "type": "add",
+      "id": "a7671ce167ad7a45",
+      "item": {
+        "type": "paragraph",
+        "id": "a7671ce167ad7a45",
+        "text": "- dissertations are written in response to other documents"
+      },
+      "after": "409084b160d9acfd",
+      "date": 1426185691573
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eaf984e47d6072b3"
+      },
+      "id": "eaf984e47d6072b3",
+      "type": "add",
+      "after": "5aaf7d24615506df",
+      "date": 1426185697444
+    },
+    {
+      "type": "move",
+      "order": [
+        "1d84f262c69221a5",
+        "c24c5495fdf99e9f",
+        "a7671ce167ad7a45",
+        "409084b160d9acfd",
+        "eaf984e47d6072b3"
+      ],
+      "id": "409084b160d9acfd",
+      "date": 1426185701740
+    },
+    {
+      "type": "remove",
+      "id": "eaf984e47d6072b3",
+      "date": 1426185701933
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6adad20e71943859"
+      },
+      "id": "6adad20e71943859",
+      "type": "add",
+      "after": "409084b160d9acfd",
+      "date": 1426185708751
+    },
+    {
+      "type": "remove",
+      "id": "409084b160d9acfd",
+      "date": 1426185710145
+    },
+    {
+      "type": "edit",
+      "id": "6adad20e71943859",
+      "item": {
+        "type": "html",
+        "id": "6adad20e71943859",
+        "text": "We needn't let the name of the thing get in the way. We can place an emphasis on unified, crafted, well-wrought, while adding the ideas that "
+      },
+      "date": 1426185713903
+    },
+    {
+      "type": "remove",
+      "id": "a7671ce167ad7a45",
+      "date": 1426185717469
+    },
+    {
+      "type": "edit",
+      "id": "6adad20e71943859",
+      "item": {
+        "type": "html",
+        "id": "6adad20e71943859",
+        "text": "We needn't let the name of the thing get in the way. We can place an emphasis on unified, crafted, well-wrought, while adding the ideas that \n- dissertations are written in response to other documents.\n- dissertations are collective documents, not written in a vacuum, but with the assistance of others who are recognized as expert in the subject.\n- dissertations that are socially important are further responded to and built on by others.\n- dissertations are where experts in training try out their ideas."
+      },
+      "date": 1426185870672
+    },
+    {
+      "type": "edit",
+      "id": "6adad20e71943859",
+      "item": {
+        "type": "html",
+        "id": "6adad20e71943859",
+        "text": "We needn't let the name of the thing get in the way. We can place an emphasis on unified, crafted, well-wrought, while adding the ideas that \n\n- dissertations are written in response to other documents.\n\n- dissertations are collective documents, not written in a vacuum, but with the assistance of others who are recognized as expert in the subject.\n\n- dissertations that are socially important are further responded to and built on by others.\n\n- dissertations are where experts in training try out their ideas.\n\n"
+      },
+      "date": 1426185882710
+    },
+    {
+      "type": "edit",
+      "id": "6adad20e71943859",
+      "item": {
+        "type": "html",
+        "id": "6adad20e71943859",
+        "text": "We needn't let the name of the thing get in the way. We can place an emphasis on unified, crafted, well-wrought, while adding the ideas that \n\n* dissertations are written in response to other documents.\n\n- dissertations are collective documents, not written in a vacuum, but with the assistance of others who are recognized as expert in the subject.\n\n- dissertations that are socially important are further responded to and built on by others.\n\n- dissertations are where experts in training try out their ideas.\n\n"
+      },
+      "date": 1426185888841
+    },
+    {
+      "type": "edit",
+      "id": "6adad20e71943859",
+      "item": {
+        "type": "html",
+        "id": "6adad20e71943859",
+        "text": "We needn't let the name of the thing get in the way. We can place an emphasis on unified, crafted, well-wrought, while adding the ideas that \n\n- dissertations are written in response to other documents.\n\n- dissertations are collective documents, not written in a vacuum, but with the assistance of others who are recognized as expert in the subject.\n\n- dissertations that are socially important are further responded to and built on by others.\n\n- dissertations are where experts in training try out their ideas.\n\n"
+      },
+      "date": 1426185902138
+    },
+    {
+      "type": "edit",
+      "id": "6adad20e71943859",
+      "item": {
+        "type": "html",
+        "id": "6adad20e71943859",
+        "text": "We needn't let the name of the thing get in the way. We can place an emphasis on unified, crafted, well-wrought, while adding the ideas that \n\n* dissertations are written in response to other documents.\n\n- dissertations are collective documents, not written in a vacuum, but with the assistance of others who are recognized as expert in the subject.\n\n- dissertations that are socially important are further responded to and built on by others.\n\n- dissertations are where experts in training try out their ideas.\n\n"
+      },
+      "date": 1426185922129
+    },
+    {
+      "type": "edit",
+      "id": "6adad20e71943859",
+      "item": {
+        "type": "html",
+        "id": "6adad20e71943859",
+        "text": "We needn't let the name of the thing get in the way. We can place an emphasis on unified, crafted, well-wrought, while adding the ideas that \n\n  - dissertations are written in response to other documents.\n\n- dissertations are collective documents, not written in a vacuum, but with the assistance of others who are recognized as expert in the subject.\n\n- dissertations that are socially important are further responded to and built on by others.\n\n- dissertations are where experts in training try out their ideas.\n\n"
+      },
+      "date": 1426185937159
+    },
+    {
+      "type": "edit",
+      "id": "6adad20e71943859",
+      "item": {
+        "type": "html",
+        "id": "6adad20e71943859",
+        "text": "\n\n"
+      },
+      "date": 1426185953918
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "63feb029fdc60d79"
+      },
+      "id": "63feb029fdc60d79",
+      "type": "add",
+      "after": "6adad20e71943859",
+      "date": 1426185955855
+    },
+    {
+      "type": "edit",
+      "id": "63feb029fdc60d79",
+      "item": {
+        "type": "paragraph",
+        "id": "63feb029fdc60d79",
+        "text": "We needn't let the name of the thing get in the way. We can place an emphasis on unified, crafted, well-wrought, while adding the ideas that \n\n  - dissertations are written in response to other documents.\n\n- dissertations are collective documents, not written in a vacuum, but with the assistance of others who are recognized as expert in the subject.\n\n- dissertations that are socially important are further responded to and built on by others.\n\n- dissertations are where experts in training try out their ideas."
+      },
+      "date": 1426185961111
+    },
+    {
+      "type": "edit",
+      "id": "63feb029fdc60d79",
+      "item": {
+        "type": "paragraph",
+        "id": "63feb029fdc60d79",
+        "text": "We needn't let the name of the thing get in the way. We can place an emphasis on unified, crafted, well-wrought, while adding the ideas that \n\n  - dissertations are written in response to other documents.\n\n- dissertations are collective documents, not written in a vacuum, but with the assistance of others who are recognized as expert in the subject.\n\n- dissertations that are socially important are further responded to and built on by others.\n\n- dissertations are where experts in training test their their ideas."
+      },
+      "date": 1426185984083
+    },
+    {
+      "type": "add",
+      "id": "56e3a6377e4f2aa9",
+      "item": {
+        "type": "paragraph",
+        "id": "56e3a6377e4f2aa9",
+        "text": "Or we can ignore the analogy completely and get on with things."
+      },
+      "after": "63feb029fdc60d79",
+      "date": 1426186014390
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c062bc84d8bf2835",
+        "text": "Well-composed dissertation pages create starting points for further consideration. On FedWiki, those points can be indicated using stubs. Linked dissertation pages can be used to create an ever-widening [[Radical Discourse]] that [[Thread Mode]] doesn't."
+      },
+      "after": "04a84a5433d64edc",
+      "id": "c062bc84d8bf2835",
+      "date": 1426186054990
+    },
+    {
+      "type": "add",
+      "id": "04a84a5433d64edc",
+      "item": {
+        "type": "paragraph",
+        "id": "04a84a5433d64edc",
+        "text": "But call it DocumentMode or dissertation page, "
+      },
+      "after": "56e3a6377e4f2aa9",
+      "date": 1426186063481
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fa511f4c3018ca8d"
+      },
+      "id": "fa511f4c3018ca8d",
+      "type": "add",
+      "after": "04a84a5433d64edc",
+      "date": 1426186074309
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e737cf2879ea96d6",
+        "text": "Well-composed dissertation pages create starting points for further consideration. On FedWiki, those points can be indicated using stubs. Linked dissertation pages can be used to create an ever-widening [[Radical Discourse]] that [[Thread Mode]] doesn't.",
+        "alias": "c062bc84d8bf2835"
+      },
+      "after": "04a84a5433d64edc",
+      "id": "e737cf2879ea96d6",
+      "date": 1426186078795
+    },
+    {
+      "type": "edit",
+      "id": "04a84a5433d64edc",
+      "item": {
+        "type": "paragraph",
+        "id": "04a84a5433d64edc",
+        "text": "But call it DocumentMode or dissertation page, the one point the needs to be made is that the dissertation page is not its own entity."
+      },
+      "date": 1426186127587
+    },
+    {
+      "type": "edit",
+      "id": "c062bc84d8bf2835",
+      "item": {
+        "type": "paragraph",
+        "id": "c062bc84d8bf2835",
+        "text": "Well-composed dissertation pages create starting points for further consideration. They become nodes in a larger wiki-wide discussion. On FedWiki, those points can be indicated using stubs. Linked dissertation pages can be used to create an ever-widening [[Radical Discourse]] that [[Thread Mode]] doesn't."
+      },
+      "date": 1426186674220
+    },
+    {
+      "type": "remove",
+      "id": "e737cf2879ea96d6",
+      "date": 1426186681453
+    },
+    {
+      "type": "move",
+      "order": [
+        "c062bc84d8bf2835",
+        "1d84f262c69221a5",
+        "c24c5495fdf99e9f",
+        "6adad20e71943859",
+        "56e3a6377e4f2aa9",
+        "04a84a5433d64edc",
+        "63feb029fdc60d79",
+        "fa511f4c3018ca8d"
+      ],
+      "id": "63feb029fdc60d79",
+      "date": 1426186727002
+    },
+    {
+      "type": "move",
+      "order": [
+        "c062bc84d8bf2835",
+        "1d84f262c69221a5",
+        "c24c5495fdf99e9f",
+        "63feb029fdc60d79",
+        "6adad20e71943859",
+        "56e3a6377e4f2aa9",
+        "04a84a5433d64edc",
+        "fa511f4c3018ca8d"
+      ],
+      "id": "63feb029fdc60d79",
+      "date": 1426186741975
+    },
+    {
+      "type": "edit",
+      "id": "63feb029fdc60d79",
+      "item": {
+        "type": "paragraph",
+        "id": "63feb029fdc60d79",
+        "text": "We needn't let the name of the thing get in the way. We can place an emphasis on unified, crafted, well-wrought, while adding the ideas that"
+      },
+      "date": 1426186754938
+    },
+    {
+      "type": "add",
+      "id": "f9b7527710f91270",
+      "item": {
+        "type": "paragraph",
+        "id": "f9b7527710f91270",
+        "text": "- dissertations are written in response to other documents."
+      },
+      "after": "63feb029fdc60d79",
+      "date": 1426186775717
+    },
+    {
+      "type": "add",
+      "id": "98c9673ab7bf4730",
+      "item": {
+        "type": "paragraph",
+        "id": "98c9673ab7bf4730",
+        "text": "- dissertations are collective documents, not written in a vacuum, but with the assistance of others who are recognized as expert in the subject."
+      },
+      "after": "f9b7527710f91270",
+      "date": 1426186800579
+    },
+    {
+      "type": "add",
+      "id": "01b196452f7d24f7",
+      "item": {
+        "type": "paragraph",
+        "id": "01b196452f7d24f7",
+        "text": "- dissertations that are socially important are further responded to and built on by others."
+      },
+      "after": "98c9673ab7bf4730",
+      "date": 1426186803279
+    },
+    {
+      "type": "add",
+      "id": "e2a3aab83e25cbcf",
+      "item": {
+        "type": "paragraph",
+        "id": "e2a3aab83e25cbcf",
+        "text": "- dissertations are where experts in training test their their ideas."
+      },
+      "after": "01b196452f7d24f7",
+      "date": 1426186808848
+    },
+    {
+      "type": "edit",
+      "id": "98c9673ab7bf4730",
+      "item": {
+        "type": "paragraph",
+        "id": "98c9673ab7bf4730",
+        "text": "- dissertations are collective documents, not written in a vacuum, but with the assistance of others who are recognized as experts in the subject."
+      },
+      "date": 1426186827647
+    },
+    {
+      "type": "edit",
+      "id": "56e3a6377e4f2aa9",
+      "item": {
+        "type": "paragraph",
+        "id": "56e3a6377e4f2aa9",
+        "text": "We can ignore the analogy completely and get on with things."
+      },
+      "date": 1426186871106
+    },
+    {
+      "type": "edit",
+      "id": "04a84a5433d64edc",
+      "item": {
+        "type": "paragraph",
+        "id": "04a84a5433d64edc",
+        "text": "Call it DocumentMode or dissertation page, the one point the needs to be made is that the dissertation page is not its own entity. It is linked into the wiki and the web at large as one node in the universe."
+      },
+      "date": 1426186962106
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "688f3a00336ba964",
+        "text": "<b>Dissertation Pages Need Not Be Monological</b> Dissertation pages do not automatically align with monological argument. A dissertation page can enact a dialogical exchange. A good dissertation page will, by using stubs, constellate a dialogical options. "
+      },
+      "after": "1d84f262c69221a5",
+      "id": "688f3a00336ba964",
+      "date": 1426262089130
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a10e294d3dc8f85b"
+      },
+      "id": "a10e294d3dc8f85b",
+      "type": "add",
+      "after": "fa511f4c3018ca8d",
+      "date": 1426262203451
+    },
+    {
+      "type": "edit",
+      "id": "fa511f4c3018ca8d",
+      "item": {
+        "type": "paragraph",
+        "id": "fa511f4c3018ca8d",
+        "text": "The traditional wiki idea of DocumentMode is something like this:"
+      },
+      "date": 1426262233956
+    },
+    {
+      "type": "move",
+      "order": [
+        "c062bc84d8bf2835",
+        "fa511f4c3018ca8d",
+        "1d84f262c69221a5",
+        "688f3a00336ba964",
+        "c24c5495fdf99e9f",
+        "63feb029fdc60d79",
+        "f9b7527710f91270",
+        "98c9673ab7bf4730",
+        "01b196452f7d24f7",
+        "e2a3aab83e25cbcf",
+        "6adad20e71943859",
+        "56e3a6377e4f2aa9",
+        "04a84a5433d64edc",
+        "a10e294d3dc8f85b"
+      ],
+      "id": "fa511f4c3018ca8d",
+      "date": 1426262238831
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "21e607538a08e3b2"
+      },
+      "id": "21e607538a08e3b2",
+      "type": "add",
+      "after": "a10e294d3dc8f85b",
+      "date": 1426262383371
+    },
+    {
+      "type": "edit",
+      "id": "a10e294d3dc8f85b",
+      "item": {
+        "type": "paragraph",
+        "id": "a10e294d3dc8f85b",
+        "text": "We rethink DocumentMode as a synthesis of thread mode ideas brought to an end and view it as one position in a larger constellation of ideas."
+      },
+      "date": 1426262523371
+    },
+    {
+      "type": "move",
+      "order": [
+        "a10e294d3dc8f85b",
+        "c062bc84d8bf2835",
+        "fa511f4c3018ca8d",
+        "1d84f262c69221a5",
+        "688f3a00336ba964",
+        "c24c5495fdf99e9f",
+        "63feb029fdc60d79",
+        "f9b7527710f91270",
+        "98c9673ab7bf4730",
+        "01b196452f7d24f7",
+        "e2a3aab83e25cbcf",
+        "6adad20e71943859",
+        "56e3a6377e4f2aa9",
+        "04a84a5433d64edc",
+        "21e607538a08e3b2"
+      ],
+      "id": "a10e294d3dc8f85b",
+      "date": 1426262528720
+    },
+    {
+      "type": "edit",
+      "id": "c24c5495fdf99e9f",
+      "item": {
+        "type": "paragraph",
+        "id": "c24c5495fdf99e9f",
+        "text": "On FedWiki, DocumentMode has been re-named, re-thought, and re-cast as Dissertation. There is some discussion on it at [[Dissertation Over Discourse]], that stresses that dissertation is \"a unified presentation ....\" "
+      },
+      "date": 1426262599185
+    },
+    {
+      "type": "move",
+      "order": [
+        "a10e294d3dc8f85b",
+        "c062bc84d8bf2835",
+        "fa511f4c3018ca8d",
+        "1d84f262c69221a5",
+        "c24c5495fdf99e9f",
+        "63feb029fdc60d79",
+        "f9b7527710f91270",
+        "98c9673ab7bf4730",
+        "01b196452f7d24f7",
+        "e2a3aab83e25cbcf",
+        "6adad20e71943859",
+        "56e3a6377e4f2aa9",
+        "04a84a5433d64edc",
+        "688f3a00336ba964",
+        "21e607538a08e3b2"
+      ],
+      "id": "688f3a00336ba964",
+      "date": 1426262615658
+    },
+    {
+      "type": "edit",
+      "id": "56e3a6377e4f2aa9",
+      "item": {
+        "type": "paragraph",
+        "id": "56e3a6377e4f2aa9",
+        "text": "Or we can ignore the analogy completely and get on with things."
+      },
+      "date": 1426262657324
+    },
+    {
+      "type": "edit",
+      "id": "63feb029fdc60d79",
+      "item": {
+        "type": "paragraph",
+        "id": "63feb029fdc60d79",
+        "text": "We needn't let the name of the thing get in the way. We can place an emphasis on unified, crafted, well-wrought, while adding some ideas drawn from the academic dissertation:"
+      },
+      "date": 1426262690916
+    },
+    {
+      "type": "edit",
+      "id": "04a84a5433d64edc",
+      "item": {
+        "type": "paragraph",
+        "id": "04a84a5433d64edc",
+        "text": "Call it DocumentMode or dissertation page, here are two points about dissertation pages that orient writers to the page."
+      },
+      "date": 1426262778879
+    },
+    {
+      "type": "add",
+      "id": "3d094f771c74dd56",
+      "item": {
+        "type": "paragraph",
+        "id": "3d094f771c74dd56",
+        "text": "- the dissertation page is not its own entity. It is linked into the wiki and the web at large as one node in the universe."
+      },
+      "after": "04a84a5433d64edc",
+      "date": 1426262787436
+    },
+    {
+      "type": "edit",
+      "id": "688f3a00336ba964",
+      "item": {
+        "type": "html",
+        "id": "688f3a00336ba964",
+        "text": "- Dissertation pages do not automatically align with monological argument. A dissertation page can enact a dialogical exchange. A good dissertation page will, by using stubs, constellate a dialogical options. [[Dissertation Pages Need Not Be Monological]]"
+      },
+      "date": 1426262812220
+    },
+    {
+      "type": "edit",
+      "id": "3d094f771c74dd56",
+      "item": {
+        "type": "paragraph",
+        "id": "3d094f771c74dd56",
+        "text": "- A dissertation page is not its own entity. It is linked into the wiki and the web at large as one node in the universe."
+      },
+      "date": 1426262818490
+    },
+    {
+      "type": "fork",
+      "site": "sfw.mcmorgan.org",
+      "date": 1563346804314
+    }
+  ]
+}

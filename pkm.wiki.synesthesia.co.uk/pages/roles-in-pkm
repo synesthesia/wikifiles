@@ -2,9 +2,20 @@
   "title": "Roles in PKM",
   "story": [
     {
-      "type": "paragraph",
-      "id": "d332babbb40f9670",
-      "text": "[[Knowledge Catalyst]] / [[Curator]]"
+      "type": "reference",
+      "id": "7b87412b83043ebf",
+      "site": "pkm.wiki.synesthesia.co.uk",
+      "slug": "knowledge-catalyst",
+      "title": "Knowledge Catalyst",
+      "text": "An individual who combines sources to identify tentative new knowledge, then re-shares to a network. See also [[Curator]]"
+    },
+    {
+      "type": "reference",
+      "id": "c1075b6a1babd625",
+      "site": "pkm.wiki.synesthesia.co.uk",
+      "slug": "curator",
+      "title": "Curator",
+      "text": "An individual who selects knowledge artifacts and presents them within a context.  Closely related to [[Knowledge Catalyst]]."
     }
   ],
   "journal": [
@@ -44,6 +55,113 @@
         "text": "[[Knowledge Catalyst]] / [[Curator]]"
       },
       "date": 1522767999349
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b3a1466171ba4fb7"
+      },
+      "id": "b3a1466171ba4fb7",
+      "type": "add",
+      "after": "d332babbb40f9670",
+      "date": 1563346251322
+    },
+    {
+      "type": "edit",
+      "id": "b3a1466171ba4fb7",
+      "item": {
+        "type": "reference",
+        "id": "b3a1466171ba4fb7",
+        "site": "pkm.wiki.synesthesia.co.uk",
+        "slug": "knowledge-catalyst",
+        "title": "Knowledge Catalyst",
+        "text": "An individual who combines sources to identify tentative new knowledge, then re-shares to a network."
+      },
+      "date": 1563346253599
+    },
+    {
+      "type": "edit",
+      "id": "d332babbb40f9670",
+      "item": {
+        "type": "paragraph",
+        "id": "d332babbb40f9670",
+        "text": "[[Curator]]"
+      },
+      "date": 1563346263239
+    },
+    {
+      "id": "b3a1466171ba4fb7",
+      "type": "move",
+      "order": [
+        "b3a1466171ba4fb7",
+        "d332babbb40f9670"
+      ],
+      "date": 1563346267713
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c1075b6a1babd625"
+      },
+      "id": "c1075b6a1babd625",
+      "type": "add",
+      "after": "d332babbb40f9670",
+      "date": 1563348131704
+    },
+    {
+      "type": "edit",
+      "id": "c1075b6a1babd625",
+      "item": {
+        "type": "reference",
+        "id": "c1075b6a1babd625",
+        "site": "pkm.wiki.synesthesia.co.uk",
+        "slug": "curator",
+        "title": "Curator",
+        "text": "An individual who selects knowledge artifacts and presents them within a context.  Closely related to [[Knowledge Catalyst]]."
+      },
+      "date": 1563348133203
+    },
+    {
+      "type": "remove",
+      "id": "d332babbb40f9670",
+      "date": 1563348136692
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7b87412b83043ebf"
+      },
+      "id": "7b87412b83043ebf",
+      "type": "add",
+      "after": "c1075b6a1babd625",
+      "date": 1563348165855
+    },
+    {
+      "type": "edit",
+      "id": "7b87412b83043ebf",
+      "item": {
+        "type": "reference",
+        "id": "7b87412b83043ebf",
+        "site": "pkm.wiki.synesthesia.co.uk",
+        "slug": "knowledge-catalyst",
+        "title": "Knowledge Catalyst",
+        "text": "An individual who combines sources to identify tentative new knowledge, then re-shares to a network. See also [[Curator]]"
+      },
+      "date": 1563348167234
+    },
+    {
+      "type": "remove",
+      "id": "b3a1466171ba4fb7",
+      "date": 1563348172612
+    },
+    {
+      "id": "7b87412b83043ebf",
+      "type": "move",
+      "order": [
+        "7b87412b83043ebf",
+        "c1075b6a1babd625"
+      ],
+      "date": 1563348174935
     }
   ]
 }

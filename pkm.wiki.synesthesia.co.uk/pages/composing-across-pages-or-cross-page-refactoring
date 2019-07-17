@@ -1,0 +1,109 @@
+{
+  "title": "Composing Across Pages or Cross Page Refactoring",
+  "story": [
+    {
+      "type": "video",
+      "id": "5d184427fa86e108",
+      "text": "YOUTUBE _lviuozVf98\nCross Page Refactoring"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Composing Across Pages or Cross Page Refactoring",
+        "story": []
+      },
+      "date": 1424180243767
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9a5b2451835626b4",
+        "text": "If a gae becomes too long and you want to break it into two you can do this easily with Cross Page Refactoring, as [[Mike Caulfield]] demonstrates in this video."
+      },
+      "id": "9a5b2451835626b4",
+      "type": "add",
+      "date": 1424180246516
+    },
+    {
+      "item": {
+        "type": "video",
+        "id": "5d184427fa86e108",
+        "text": "YOUTUBE _lviuozVf98\nCross Page Refactoring"
+      },
+      "id": "5d184427fa86e108",
+      "type": "add",
+      "after": "9a5b2451835626b4",
+      "date": 1424180324040
+    },
+    {
+      "type": "edit",
+      "id": "9a5b2451835626b4",
+      "item": {
+        "type": "paragraph",
+        "id": "9a5b2451835626b4",
+        "text": "If a gae becomes too long and you want to break it into two you can do this easily with Cross Page Refactoring, as [[Mike Caulfield]] demonstrates in this video."
+      },
+      "date": 1424180326573
+    },
+    {
+      "type": "edit",
+      "id": "5d184427fa86e108",
+      "item": {
+        "type": "video",
+        "id": "5d184427fa86e108",
+        "text": "YOUTUBE _lviuozVf98\nCross Page Refactoring"
+      },
+      "date": 1424180358161
+    },
+    {
+      "type": "fork",
+      "date": 1424180378428
+    },
+    {
+      "type": "edit",
+      "id": "9a5b2451835626b4",
+      "item": {
+        "type": "paragraph",
+        "id": "9a5b2451835626b4",
+        "text": "If a page becomes too long and you want to break it into two you can do this easily with Cross Page Refactoring, as [[Mike Caulfield]] demonstrates in this video."
+      },
+      "date": 1424182042706
+    },
+    {
+      "type": "fork",
+      "date": 1424182045558
+    },
+    {
+      "type": "fork",
+      "site": "frances.uk.fedwikihappening.net"
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "9e0579a1a9d5900f",
+        "text": "[[Composing Across Pages or Cross Page Refactoring]]"
+      },
+      "after": "9a5b2451835626b4",
+      "id": "9e0579a1a9d5900f",
+      "date": 1424214547110
+    },
+    {
+      "type": "remove",
+      "id": "9e0579a1a9d5900f",
+      "date": 1424214563053
+    },
+    {
+      "type": "remove",
+      "id": "9a5b2451835626b4",
+      "date": 1424214764559
+    },
+    {
+      "type": "fork",
+      "site": "sfw.mcmorgan.org",
+      "date": 1563347121065
+    }
+  ]
+}

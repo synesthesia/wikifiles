@@ -1,0 +1,64 @@
+{
+  "title": "Using Federated Wiki for PKM",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "842d69d9aa3cb7b3",
+      "text": "Writing in FedWiki"
+    },
+    {
+      "type": "markdown",
+      "id": "2efecda3d596de06",
+      "text": "[[Composing on FedWiki (M C Morgan)]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Using Federated Wiki for PKM",
+        "story": []
+      },
+      "date": 1563346614451
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "842d69d9aa3cb7b3"
+      },
+      "id": "842d69d9aa3cb7b3",
+      "type": "add",
+      "date": 1563346616389
+    },
+    {
+      "type": "edit",
+      "id": "842d69d9aa3cb7b3",
+      "item": {
+        "type": "pagefold",
+        "id": "842d69d9aa3cb7b3",
+        "text": "Writing in FedWiki"
+      },
+      "date": 1563346639622
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2efecda3d596de06"
+      },
+      "id": "2efecda3d596de06",
+      "type": "add",
+      "after": "842d69d9aa3cb7b3",
+      "date": 1563346644742
+    },
+    {
+      "type": "edit",
+      "id": "2efecda3d596de06",
+      "item": {
+        "type": "markdown",
+        "id": "2efecda3d596de06",
+        "text": "[[Composing on FedWiki (M C Morgan)]]"
+      },
+      "date": 1563346651800
+    }
+  ]
+}

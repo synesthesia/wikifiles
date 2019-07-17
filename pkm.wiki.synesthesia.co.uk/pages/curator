@@ -1,0 +1,49 @@
+{
+  "title": "Curator",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "92ea08169a1c1a2a",
+      "text": "An individual who selects knowledge artifacts and presents them within a context.  Closely related to [[Knowledge Catalyst]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Curator",
+        "story": []
+      },
+      "date": 1563347978603
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "92ea08169a1c1a2a"
+      },
+      "id": "92ea08169a1c1a2a",
+      "type": "add",
+      "date": 1563347980888
+    },
+    {
+      "type": "edit",
+      "id": "92ea08169a1c1a2a",
+      "item": {
+        "type": "markdown",
+        "id": "92ea08169a1c1a2a",
+        "text": " Closely related to [[Knowledge Catalyst]]."
+      },
+      "date": 1563348016211
+    },
+    {
+      "type": "edit",
+      "id": "92ea08169a1c1a2a",
+      "item": {
+        "type": "markdown",
+        "id": "92ea08169a1c1a2a",
+        "text": "An individual who selects knowledge artifacts and presents them within a context.  Closely related to [[Knowledge Catalyst]]."
+      },
+      "date": 1563348130189
+    }
+  ]
+}

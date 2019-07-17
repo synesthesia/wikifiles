@@ -1,0 +1,484 @@
+{
+  "title": "Composing Lineups",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "a3d36b67812604da",
+      "text": "Within a single browser tab, FedWiki pages open as a series called the lineup. As you extend the lineup you'll see that the URL in the browser's Location window grows accordingly."
+    },
+    {
+      "type": "paragraph",
+      "id": "bc690db6eaef639b",
+      "text": "We might call that URL a [[Passively Constructed URL]], because it just records your navigation through FedWiki space."
+    },
+    {
+      "type": "paragraph",
+      "id": "5e25510cea0aca8f",
+      "text": "Contrast that with an [[Actively Constructed URL]] that is composed to achieve a desired effect. See [[Favorite Broccoli Recipes]] for two examples. In the first, I compose  a lineup that goes like this:"
+    },
+    {
+      "type": "paragraph",
+      "id": "5f7e3f6d99deaaae",
+      "text": "Jon's Italian Broccoli -> Jon's Broccoli Fried With Sesame Oil -> Jon's Favorite Broccoli Recipes"
+    },
+    {
+      "type": "paragraph",
+      "id": "d8c0c98c9e7ea1ad",
+      "text": "The second one goes like this:"
+    },
+    {
+      "type": "html",
+      "id": "adf76cb851906d08",
+      "text": "Jon's Italian Broccoli -> <i><b>Paul's</b></i> Broccoli Fried With Sesame Oil -> Jon's Favorite Broccoli Recipes"
+    },
+    {
+      "type": "paragraph",
+      "id": "471035beaa9294ed",
+      "text": "You compose a lineup by starting with a site name, like jon.sf.fedwikihappening.net, and then adding pairs that follow one of two patterns."
+    },
+    {
+      "type": "markdown",
+      "id": "6bec124b6a12f88d",
+      "text": "# origin patterns\n\n/origin/page<br>\n/local/page<br>\n/view/page <font color=gray><i>(browser local if present, origin otherwise)</i></font>\n<p>\n[http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry]\n\n# remote pattern\n\n/site/page \n<p>\n[http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry]"
+    },
+    {
+      "type": "markdown",
+      "id": "7b1fef006e9406b1",
+      "text": "These patterns can repeat, and they can mix. Examples:"
+    },
+    {
+      "type": "paragraph",
+      "id": "26ef4e84770269dd",
+      "text": "/view/page/view/page"
+    },
+    {
+      "type": "paragraph",
+      "id": "8bb12aa48b1c38f0",
+      "text": "/view/page/site/page"
+    },
+    {
+      "type": "paragraph",
+      "id": "3a9f7bff0fb3d10c",
+      "text": "/site/page/view/page/site/page"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Composing Lineups",
+        "story": []
+      },
+      "date": 1419773623514
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a3d36b67812604da"
+      },
+      "id": "a3d36b67812604da",
+      "type": "add",
+      "date": 1419773642365
+    },
+    {
+      "type": "edit",
+      "id": "a3d36b67812604da",
+      "item": {
+        "type": "markdown",
+        "id": "a3d36b67812604da",
+        "text": "Within a single browser tab, FedWiki pages open as a series called the lineup. As you extend the lineup you'll see that the URL in the browser's Location window grows accordingly."
+      },
+      "date": 1419773797687
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b3e00260e7ec1c55"
+      },
+      "id": "b3e00260e7ec1c55",
+      "type": "add",
+      "after": "a3d36b67812604da",
+      "date": 1419773799790
+    },
+    {
+      "type": "remove",
+      "id": "b3e00260e7ec1c55",
+      "date": 1419773837442
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bc690db6eaef639b"
+      },
+      "id": "bc690db6eaef639b",
+      "type": "add",
+      "after": "a3d36b67812604da",
+      "date": 1419773842893
+    },
+    {
+      "type": "edit",
+      "id": "bc690db6eaef639b",
+      "item": {
+        "type": "paragraph",
+        "id": "bc690db6eaef639b",
+        "text": "We might call that URL a [[Passively Constructed URL]], because it just records your navigation through FedWiki spa"
+      },
+      "date": 1419773984062
+    },
+    {
+      "type": "edit",
+      "id": "bc690db6eaef639b",
+      "item": {
+        "type": "paragraph",
+        "id": "bc690db6eaef639b",
+        "text": "We might call that URL a [[Passively Constructed URL]], because it just records your navigation through FedWiki space."
+      },
+      "date": 1419773991855
+    },
+    {
+      "type": "add",
+      "id": "5e25510cea0aca8f",
+      "item": {
+        "type": "paragraph",
+        "id": "5e25510cea0aca8f",
+        "text": "Contrast that with an [[Acti"
+      },
+      "after": "bc690db6eaef639b",
+      "date": 1419774047957
+    },
+    {
+      "type": "edit",
+      "id": "5e25510cea0aca8f",
+      "item": {
+        "type": "paragraph",
+        "id": "5e25510cea0aca8f",
+        "text": "Contrast that with an [[Actively Constructed URL]] that is composed to achieve a desired e"
+      },
+      "date": 1419774076494
+    },
+    {
+      "type": "edit",
+      "id": "5e25510cea0aca8f",
+      "item": {
+        "type": "paragraph",
+        "id": "5e25510cea0aca8f",
+        "text": "Contrast that with an [[Actively Constructed URL]] that is composed to achieve a desired effect. See [[Favorite Broccoli Recipes]] for two examples. In the first, I compose  a lineup that goes like this:"
+      },
+      "date": 1419774123602
+    },
+    {
+      "type": "add",
+      "id": "5f7e3f6d99deaaae",
+      "item": {
+        "type": "paragraph",
+        "id": "5f7e3f6d99deaaae",
+        "text": "Jon's Italian Broccoli -> Jon's Broccoli Fried With Sesame Oil -> Jon's Favorite Broccoli Recipes"
+      },
+      "after": "5e25510cea0aca8f",
+      "date": 1419774155246
+    },
+    {
+      "type": "add",
+      "id": "d8c0c98c9e7ea1ad",
+      "item": {
+        "type": "paragraph",
+        "id": "d8c0c98c9e7ea1ad",
+        "text": "In the se"
+      },
+      "after": "5f7e3f6d99deaaae",
+      "date": 1419774159277
+    },
+    {
+      "type": "edit",
+      "id": "d8c0c98c9e7ea1ad",
+      "item": {
+        "type": "paragraph",
+        "id": "d8c0c98c9e7ea1ad",
+        "text": "The second one goes like thi"
+      },
+      "date": 1419774181100
+    },
+    {
+      "type": "edit",
+      "id": "d8c0c98c9e7ea1ad",
+      "item": {
+        "type": "paragraph",
+        "id": "d8c0c98c9e7ea1ad",
+        "text": "The second one goes like this"
+      },
+      "date": 1419774192963
+    },
+    {
+      "type": "add",
+      "id": "adf76cb851906d08",
+      "item": {
+        "type": "paragraph",
+        "id": "adf76cb851906d08",
+        "text": "Jon's Italian Broccoli -> <i>Paul's</i> Broccoli Fried With Sesame Oil -> Jon's Favorite Broccoli Recipes"
+      },
+      "after": "d8c0c98c9e7ea1ad",
+      "date": 1419774212852
+    },
+    {
+      "type": "edit",
+      "id": "adf76cb851906d08",
+      "item": {
+        "type": "html",
+        "id": "adf76cb851906d08",
+        "text": "Jon's Italian Broccoli -> <i>Paul's</i> Broccoli Fried With Sesame Oil -> Jon's Favorite Broccoli Recipes"
+      },
+      "date": 1419774215585
+    },
+    {
+      "type": "edit",
+      "id": "d8c0c98c9e7ea1ad",
+      "item": {
+        "type": "paragraph",
+        "id": "d8c0c98c9e7ea1ad",
+        "text": "The second one goes like this:"
+      },
+      "date": 1419774222235
+    },
+    {
+      "type": "edit",
+      "id": "adf76cb851906d08",
+      "item": {
+        "type": "html",
+        "id": "adf76cb851906d08",
+        "text": "Jon's Italian Broccoli -> <i><b>Paul's</b></i> Broccoli Fried With Sesame Oil -> Jon's Favorite Broccoli Recipes"
+      },
+      "date": 1419774237272
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "471035beaa9294ed"
+      },
+      "id": "471035beaa9294ed",
+      "type": "add",
+      "after": "adf76cb851906d08",
+      "date": 1419774297190
+    },
+    {
+      "type": "edit",
+      "id": "471035beaa9294ed",
+      "item": {
+        "type": "paragraph",
+        "id": "471035beaa9294ed",
+        "text": "You compose a lineup by starting with a site name, like jon.sf.fedwikihappening.net, and then adding pairs that follow one of two patterns."
+      },
+      "date": 1419774402976
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6bec124b6a12f88d"
+      },
+      "id": "6bec124b6a12f88d",
+      "type": "add",
+      "after": "471035beaa9294ed",
+      "date": 1419774446035
+    },
+    {
+      "type": "edit",
+      "id": "6bec124b6a12f88d",
+      "item": {
+        "type": "markdown",
+        "id": "6bec124b6a12f88d",
+        "text": "# local pattern\n\n/view/page\n\n# remote pattern\n\n/site/page"
+      },
+      "date": 1419774484291
+    },
+    {
+      "type": "edit",
+      "id": "6bec124b6a12f88d",
+      "item": {
+        "type": "markdown",
+        "id": "6bec124b6a12f88d",
+        "text": "# local pattern\n\n/view/page (may repeat)\n\nhttp://jon.sf.fedwikihappening.net/view/italian-broccoli/view/favorite-broccoli-recipes\n\n# remote pattern\n\n/site/page (may repeat)"
+      },
+      "date": 1419774583568
+    },
+    {
+      "type": "edit",
+      "id": "6bec124b6a12f88d",
+      "item": {
+        "type": "markdown",
+        "id": "6bec124b6a12f88d",
+        "text": "# local pattern\n\n/view/page (may repeat)\n\nhttp://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry/view/favorite-broccoli-recipes\n\n# remote pattern\n\n/site/page (may repeat)\n\nhttp://jon.sf.fedwikihappening.net//broccoli-fried-with-sesame-and-raspberry/view/favorite-broccoli-recipes"
+      },
+      "date": 1419774714806
+    },
+    {
+      "type": "edit",
+      "id": "6bec124b6a12f88d",
+      "item": {
+        "type": "markdown",
+        "id": "6bec124b6a12f88d",
+        "text": "# local pattern\n\n/view/page\n\n[http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry]\n\n# remote pattern\n\n/site/page (may repeat)\n\n[http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry]"
+      },
+      "date": 1419774831153
+    },
+    {
+      "type": "edit",
+      "id": "6bec124b6a12f88d",
+      "item": {
+        "type": "markdown",
+        "id": "6bec124b6a12f88d",
+        "text": "# local pattern\n\n/view/page\n<p>\n[http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry]\n\n# remote pattern\n\n/site/page \n<p>\n[http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry]"
+      },
+      "date": 1419774851647
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7b1fef006e9406b1"
+      },
+      "id": "7b1fef006e9406b1",
+      "type": "add",
+      "after": "6bec124b6a12f88d",
+      "date": 1419774885132
+    },
+    {
+      "type": "edit",
+      "id": "7b1fef006e9406b1",
+      "item": {
+        "type": "markdown",
+        "id": "7b1fef006e9406b1",
+        "text": "These patterns can repeat, and they can mix. "
+      },
+      "date": 1419774904013
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "26ef4e84770269dd"
+      },
+      "id": "26ef4e84770269dd",
+      "type": "add",
+      "after": "7b1fef006e9406b1",
+      "date": 1419774905618
+    },
+    {
+      "type": "edit",
+      "id": "26ef4e84770269dd",
+      "item": {
+        "type": "paragraph",
+        "id": "26ef4e84770269dd",
+        "text": "/view/page/view/page"
+      },
+      "date": 1419774913573
+    },
+    {
+      "type": "add",
+      "id": "8bb12aa48b1c38f0",
+      "item": {
+        "type": "paragraph",
+        "id": "8bb12aa48b1c38f0",
+        "text": "/view/page/site/page"
+      },
+      "after": "26ef4e84770269dd",
+      "date": 1419774925834
+    },
+    {
+      "type": "add",
+      "id": "3a9f7bff0fb3d10c",
+      "item": {
+        "type": "paragraph",
+        "id": "3a9f7bff0fb3d10c",
+        "text": "/site/page/view/page/site/page"
+      },
+      "after": "8bb12aa48b1c38f0",
+      "date": 1419774932230
+    },
+    {
+      "type": "edit",
+      "id": "7b1fef006e9406b1",
+      "item": {
+        "type": "markdown",
+        "id": "7b1fef006e9406b1",
+        "text": "These patterns can repeat, and they can mix. Examples:"
+      },
+      "date": 1419775106688
+    },
+    {
+      "type": "fork",
+      "site": "jon.sf.fedwikihappening.net"
+    },
+    {
+      "type": "edit",
+      "id": "6bec124b6a12f88d",
+      "item": {
+        "type": "markdown",
+        "id": "6bec124b6a12f88d",
+        "text": "# local patterns\n\n/origin/page\n/local/page\n/view/page\n<p>\n[http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry]\n\n# remote pattern\n\n/site/page \n<p>\n[http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry]"
+      },
+      "date": 1419785380990
+    },
+    {
+      "type": "edit",
+      "id": "6bec124b6a12f88d",
+      "item": {
+        "type": "markdown",
+        "id": "6bec124b6a12f88d",
+        "text": "# local patterns\n\n/origin/page<br>\n/local/page<br>\n/view/page\n<p>\n[http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry]\n\n# remote pattern\n\n/site/page \n<p>\n[http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry]"
+      },
+      "date": 1419785433936
+    },
+    {
+      "type": "edit",
+      "id": "6bec124b6a12f88d",
+      "item": {
+        "type": "markdown",
+        "id": "6bec124b6a12f88d",
+        "text": "# local patterns\n\n/origin/page<br>\n/local/page<br>\n/view/page <i>local if present, otherwise origin</i>\n<p>\n[http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry]\n\n# remote pattern\n\n/site/page \n<p>\n[http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry]"
+      },
+      "date": 1419785540260
+    },
+    {
+      "type": "edit",
+      "id": "6bec124b6a12f88d",
+      "item": {
+        "type": "markdown",
+        "id": "6bec124b6a12f88d",
+        "text": "# local patterns\n\n/origin/page<br>\n/local/page<br>\n/view/page <font color=gray><i>(local if present, otherwise) origin</i></font>\n<p>\n[http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry]\n\n# remote pattern\n\n/site/page \n<p>\n[http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry]"
+      },
+      "date": 1419785569918
+    },
+    {
+      "type": "edit",
+      "id": "6bec124b6a12f88d",
+      "item": {
+        "type": "markdown",
+        "id": "6bec124b6a12f88d",
+        "text": "# local patterns\n\n/origin/page<br>\n/local/page<br>\n/view/page <font color=gray><i>(local if present, origin otherwise)</i></font>\n<p>\n[http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry]\n\n# remote pattern\n\n/site/page \n<p>\n[http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry]"
+      },
+      "date": 1419785586935
+    },
+    {
+      "type": "edit",
+      "id": "6bec124b6a12f88d",
+      "item": {
+        "type": "markdown",
+        "id": "6bec124b6a12f88d",
+        "text": "# origin patterns\n\n/origin/page<br>\n/local/page<br>\n/view/page <font color=gray><i>(local if present, origin otherwise)</i></font>\n<p>\n[http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry]\n\n# remote pattern\n\n/site/page \n<p>\n[http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry]"
+      },
+      "date": 1419785616800
+    },
+    {
+      "type": "edit",
+      "id": "6bec124b6a12f88d",
+      "item": {
+        "type": "markdown",
+        "id": "6bec124b6a12f88d",
+        "text": "# origin patterns\n\n/origin/page<br>\n/local/page<br>\n/view/page <font color=gray><i>(browser local if present, origin otherwise)</i></font>\n<p>\n[http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/view/broccoli-fried-with-sesame-and-raspberry]\n\n# remote pattern\n\n/site/page \n<p>\n[http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry http://jon.sf.fedwikihappening.net/fedwikihappening.rodwell.me/broccoli-fried-with-sesame-and-raspberry]"
+      },
+      "date": 1419785626179
+    },
+    {
+      "type": "fork",
+      "site": "forage.ward.fed.wiki.org",
+      "date": 1563347127076
+    }
+  ]
+}

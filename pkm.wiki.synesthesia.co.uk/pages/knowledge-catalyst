@@ -2,19 +2,19 @@
   "title": "Knowledge Catalyst",
   "story": [
     {
+      "type": "markdown",
+      "id": "89b508ddfdc10a60",
+      "text": "An individual who combines sources to identify tentative new knowledge, then re-shares to a network. See also [[Curator]]"
+    },
+    {
       "type": "pagefold",
       "id": "fa74fa5750c52d04",
       "text": "quote from jarche.com\n"
     },
     {
-      "type": "paragraph",
-      "id": "7c78ec3585ebb9ae",
-      "text": "> The knowledge gained from PKM is an emergent property of all its activities. For example, merely tagging an article in a system like Diigo, does not create knowledge. The process of seeking out information sources, making sense of them through some actions, and then sharing with others to confirm or accelerate our knowledge are interlinked activities from which knowledge slowly emerges."
-    },
-    {
-      "type": "paragraph",
-      "id": "f4e23e53ca68b78c",
-      "text": "[...] each community member has to have effective sense-making processes, or social networks are nothing more than noise amplification."
+      "type": "markdown",
+      "id": "76dfc0daebefd7f4",
+      "text": "> The knowledge gained from PKM is an emergent property of all its activities. For example, merely tagging an article in a system like Diigo, does not create knowledge. The process of seeking out information sources, making sense of them through some actions, and then sharing with others to confirm or accelerate our knowledge are interlinked activities from which knowledge slowly emerges.\n>[...] each community member has to have effective sense-making processes, or social networks are nothing more than noise amplification."
     },
     {
       "type": "paragraph",
@@ -187,6 +187,128 @@
         "text": "[...] each community member has to have effective sense-making processes, or social networks are nothing more than noise amplification."
       },
       "date": 1522767959350
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "387b0124023641ae"
+      },
+      "id": "387b0124023641ae",
+      "type": "add",
+      "after": "f34b5fd646be6b3f",
+      "date": 1563346016108
+    },
+    {
+      "id": "7c78ec3585ebb9ae",
+      "type": "move",
+      "order": [
+        "fa74fa5750c52d04",
+        "f4e23e53ca68b78c",
+        "b0e619d40d969622",
+        "f34b5fd646be6b3f",
+        "7c78ec3585ebb9ae",
+        "387b0124023641ae"
+      ],
+      "date": 1563346024419
+    },
+    {
+      "type": "remove",
+      "id": "387b0124023641ae",
+      "date": 1563346025597
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "76dfc0daebefd7f4"
+      },
+      "id": "76dfc0daebefd7f4",
+      "type": "add",
+      "after": "7c78ec3585ebb9ae",
+      "date": 1563346031041
+    },
+    {
+      "type": "edit",
+      "id": "76dfc0daebefd7f4",
+      "item": {
+        "type": "markdown",
+        "id": "76dfc0daebefd7f4",
+        "text": "> The knowledge gained from PKM is an emergent property of all its activities. For example, merely tagging an article in a system like Diigo, does not create knowledge. The process of seeking out information sources, making sense of them through some actions, and then sharing with others to confirm or accelerate our knowledge are interlinked activities from which knowledge slowly emerges."
+      },
+      "date": 1563346034134
+    },
+    {
+      "type": "remove",
+      "id": "7c78ec3585ebb9ae",
+      "date": 1563346038146
+    },
+    {
+      "id": "76dfc0daebefd7f4",
+      "type": "move",
+      "order": [
+        "fa74fa5750c52d04",
+        "76dfc0daebefd7f4",
+        "f4e23e53ca68b78c",
+        "b0e619d40d969622",
+        "f34b5fd646be6b3f"
+      ],
+      "date": 1563346046354
+    },
+    {
+      "type": "remove",
+      "id": "f4e23e53ca68b78c",
+      "date": 1563346054679
+    },
+    {
+      "type": "edit",
+      "id": "76dfc0daebefd7f4",
+      "item": {
+        "type": "markdown",
+        "id": "76dfc0daebefd7f4",
+        "text": "> The knowledge gained from PKM is an emergent property of all its activities. For example, merely tagging an article in a system like Diigo, does not create knowledge. The process of seeking out information sources, making sense of them through some actions, and then sharing with others to confirm or accelerate our knowledge are interlinked activities from which knowledge slowly emerges.\n>[...] each community member has to have effective sense-making processes, or social networks are nothing more than noise amplification."
+      },
+      "date": 1563346059729
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "89b508ddfdc10a60"
+      },
+      "id": "89b508ddfdc10a60",
+      "type": "add",
+      "after": "f34b5fd646be6b3f",
+      "date": 1563346086592
+    },
+    {
+      "type": "edit",
+      "id": "89b508ddfdc10a60",
+      "item": {
+        "type": "markdown",
+        "id": "89b508ddfdc10a60",
+        "text": "An individual who combines sources to identify tentative new knowledge, then re-shares to a network."
+      },
+      "date": 1563346136300
+    },
+    {
+      "id": "89b508ddfdc10a60",
+      "type": "move",
+      "order": [
+        "89b508ddfdc10a60",
+        "fa74fa5750c52d04",
+        "76dfc0daebefd7f4",
+        "b0e619d40d969622",
+        "f34b5fd646be6b3f"
+      ],
+      "date": 1563346138546
+    },
+    {
+      "type": "edit",
+      "id": "89b508ddfdc10a60",
+      "item": {
+        "type": "markdown",
+        "id": "89b508ddfdc10a60",
+        "text": "An individual who combines sources to identify tentative new knowledge, then re-shares to a network. See also [[Curator]]"
+      },
+      "date": 1563348156214
     }
   ]
 }

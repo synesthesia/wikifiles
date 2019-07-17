@@ -1,0 +1,174 @@
+{
+  "title": "Constellate Dissertation Pages",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9bb018ce2cc60e5a",
+      "text": "Start with [https://books.google.com/books?id=e3YoAgAAQBAJ&pg=PA45&lpg=PA45&dq=gutenberg+galaxy+mosaic&source=bl&ots=o6OVhvMp-T&sig=QzYn_6CEJ2_x4tRSgkgF6vBamO0&hl=en&sa=X&ei=HDB3Ver8BK3lsAS1-YHYAQ&ved=0CFwQ6AEwDw#v=onepage&q=gutenberg%20galaxy%20mosaic&f=false Jessica Pressman on Gutenberg Galaxy], a quote from McLuhan."
+    },
+    {
+      "type": "paragraph",
+      "id": "e01a21d0888a1062",
+      "text": "Then consider other ways of talking about and organizing independent linked nodes, from Papyrus to Hypertext and elsewhere."
+    },
+    {
+      "type": "paragraph",
+      "id": "ca6da10a33db5e8c",
+      "text": "The idea is that the dissertation page is a single element in a larger dynamic constellation that is each users FedWiki."
+    },
+    {
+      "type": "paragraph",
+      "id": "f488f6134d9849d3",
+      "text": "Probes and glosses"
+    },
+    {
+      "type": "paragraph",
+      "id": "92c2987f421e4bcf",
+      "text": "Hence the value of dissertation pages."
+    },
+    {
+      "type": "paragraph",
+      "id": "846c7dd68b1da5fc",
+      "text": "This is going to take us back to Mike's [[Hospitable Hypertext]]."
+    },
+    {
+      "type": "reference",
+      "id": "9d59a7668a034868",
+      "site": "sfw.mcmorgan.org",
+      "slug": "hospitable-hypertext",
+      "title": "Hospitable Hypertext",
+      "text": "Hospitality is the effort one makes to have those not at home feel at home. On the web, notions of hospitality are inextricably bound up with charity of language, interpretation, and discourse style. While wiki focuses on the needs of writers, it also encourages writers to write in a hospitable way."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Constellate Dissertation Pages",
+        "story": []
+      },
+      "date": 1433876203195
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9bb018ce2cc60e5a"
+      },
+      "id": "9bb018ce2cc60e5a",
+      "type": "add",
+      "date": 1433876206195
+    },
+    {
+      "type": "edit",
+      "id": "9bb018ce2cc60e5a",
+      "item": {
+        "type": "paragraph",
+        "id": "9bb018ce2cc60e5a",
+        "text": "Start with [https://books.google.com/books?id=e3YoAgAAQBAJ&pg=PA45&lpg=PA45&dq=gutenberg+galaxy+mosaic&source=bl&ots=o6OVhvMp-T&sig=QzYn_6CEJ2_x4tRSgkgF6vBamO0&hl=en&sa=X&ei=HDB3Ver8BK3lsAS1-YHYAQ&ved=0CFwQ6AEwDw#v=onepage&q=gutenberg%20galaxy%20mosaic&f=false Jessica Pressman on Gutenberg Galaxy], a quote from McLuhan."
+      },
+      "date": 1433876295980
+    },
+    {
+      "type": "add",
+      "id": "e01a21d0888a1062",
+      "item": {
+        "type": "paragraph",
+        "id": "e01a21d0888a1062",
+        "text": "Then consider other ways of talking about and organizing independent linked nodes, from Papyrus to Hypertext and elsewhere."
+      },
+      "after": "9bb018ce2cc60e5a",
+      "date": 1433876359655
+    },
+    {
+      "type": "add",
+      "id": "ca6da10a33db5e8c",
+      "item": {
+        "type": "paragraph",
+        "id": "ca6da10a33db5e8c",
+        "text": "The idea is that the dissertation page is a single element in a larger dynamic constellation that is each users FedWiki."
+      },
+      "after": "e01a21d0888a1062",
+      "date": 1433876404070
+    },
+    {
+      "type": "add",
+      "id": "92c2987f421e4bcf",
+      "item": {
+        "type": "paragraph",
+        "id": "92c2987f421e4bcf",
+        "text": "Hence the value of dissertation pages."
+      },
+      "after": "ca6da10a33db5e8c",
+      "date": 1433876419606
+    },
+    {
+      "type": "add",
+      "id": "f488f6134d9849d3",
+      "item": {
+        "type": "paragraph",
+        "id": "f488f6134d9849d3",
+        "text": "Probes and glosses"
+      },
+      "after": "ca6da10a33db5e8c",
+      "date": 1433876774501
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "846c7dd68b1da5fc"
+      },
+      "id": "846c7dd68b1da5fc",
+      "type": "add",
+      "after": "92c2987f421e4bcf",
+      "date": 1433877021478
+    },
+    {
+      "type": "edit",
+      "id": "846c7dd68b1da5fc",
+      "item": {
+        "type": "paragraph",
+        "id": "846c7dd68b1da5fc",
+        "text": "This is going to take us back to Mike's "
+      },
+      "date": 1433877059871
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9d59a7668a034868"
+      },
+      "id": "9d59a7668a034868",
+      "type": "add",
+      "after": "846c7dd68b1da5fc",
+      "date": 1433877082994
+    },
+    {
+      "type": "edit",
+      "id": "9d59a7668a034868",
+      "item": {
+        "type": "reference",
+        "id": "9d59a7668a034868",
+        "site": "sfw.mcmorgan.org",
+        "slug": "hospitable-hypertext",
+        "title": "Hospitable Hypertext",
+        "text": "Hospitality is the effort one makes to have those not at home feel at home. On the web, notions of hospitality are inextricably bound up with charity of language, interpretation, and discourse style. While wiki focuses on the needs of writers, it also encourages writers to write in a hospitable way."
+      },
+      "date": 1433877085345
+    },
+    {
+      "type": "edit",
+      "id": "846c7dd68b1da5fc",
+      "item": {
+        "type": "paragraph",
+        "id": "846c7dd68b1da5fc",
+        "text": "This is going to take us back to Mike's [[Hospitable Hypertext]]."
+      },
+      "date": 1433877109124
+    },
+    {
+      "type": "fork",
+      "site": "sfw.mcmorgan.org",
+      "date": 1563346790962
+    }
+  ]
+}

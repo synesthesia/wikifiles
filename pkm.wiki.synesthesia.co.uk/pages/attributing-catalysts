@@ -1,0 +1,64 @@
+{
+  "title": "Attributing Catalysts",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "f7545c689a10a962",
+      "text": "In the face of the [[Information Torrent]], [[Knowledge Catalysts]]  / [[Curators]] play an essential role in [[Knowledge Network]]s"
+    },
+    {
+      "type": "markdown",
+      "id": "59dc67b063b8707b",
+      "text": "The classic way to acknowledge these "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Attributing Catalysts",
+        "story": []
+      },
+      "date": 1563348204540
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f7545c689a10a962"
+      },
+      "id": "f7545c689a10a962",
+      "type": "add",
+      "date": 1563348206319
+    },
+    {
+      "type": "edit",
+      "id": "f7545c689a10a962",
+      "item": {
+        "type": "markdown",
+        "id": "f7545c689a10a962",
+        "text": "In the face of the [[Information Torrent]], [[Knowledge Catalysts]]  / [[Curators]] play an essential role in [[Knowledge Network]]s"
+      },
+      "date": 1563348285864
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "59dc67b063b8707b"
+      },
+      "id": "59dc67b063b8707b",
+      "type": "add",
+      "after": "f7545c689a10a962",
+      "date": 1563348314025
+    },
+    {
+      "type": "edit",
+      "id": "59dc67b063b8707b",
+      "item": {
+        "type": "markdown",
+        "id": "59dc67b063b8707b",
+        "text": "The classic way to acknowledge these "
+      },
+      "date": 1563348335812
+    }
+  ]
+}

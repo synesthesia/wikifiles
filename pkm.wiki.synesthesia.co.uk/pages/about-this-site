@@ -27,9 +27,22 @@
       "text": "[[The Garden and the Stream]]"
     },
     {
+      "type": "markdown",
+      "id": "ca68053d22785b23",
+      "text": "[[Using Federated Wiki for PKM]]"
+    },
+    {
       "type": "html",
       "id": "f910a7b287be78e3",
       "text": "<h4>Explorations</h4>\n\n\n\n\n\n"
+    },
+    {
+      "type": "reference",
+      "id": "0488509b4da7a5a9",
+      "site": "pkm.wiki.synesthesia.co.uk",
+      "slug": "attribution-in-pkm",
+      "title": "Attribution in PKM",
+      "text": "Effective PKM relies on [[Building a Knowledge Network]]. Attribution is the glue that holds networks together"
     },
     {
       "type": "markdown",
@@ -1112,6 +1125,146 @@
         "text": "<h4>Explorations</h4>\n\n\n\n\n\n"
       },
       "date": 1563262529656
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ca68053d22785b23"
+      },
+      "id": "ca68053d22785b23",
+      "type": "add",
+      "after": "d82343789c3e5127",
+      "date": 1563346545073
+    },
+    {
+      "type": "edit",
+      "id": "ca68053d22785b23",
+      "item": {
+        "type": "markdown",
+        "id": "ca68053d22785b23",
+        "text": "[[Using Federated Wiki for PKM]]"
+      },
+      "date": 1563346560578
+    },
+    {
+      "id": "ca68053d22785b23",
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "5bfa322e150bcc02",
+        "3b8007e0b419e558",
+        "8c8c02d9c97b7aac",
+        "0a7fc31d5b812eff",
+        "ca68053d22785b23",
+        "f910a7b287be78e3",
+        "996c1ba6f19b2394",
+        "19750f7866ed4bc0",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "bb529c10c542e1d8",
+        "effcf15a08723ec0",
+        "a3bc6c94042c3a43",
+        "86f65943f11bda8a",
+        "d82343789c3e5127"
+      ],
+      "date": 1563346564922
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d1cce29f23e280b0"
+      },
+      "id": "d1cce29f23e280b0",
+      "type": "add",
+      "after": "d82343789c3e5127",
+      "date": 1563347698338
+    },
+    {
+      "type": "edit",
+      "id": "d1cce29f23e280b0",
+      "item": {
+        "type": "markdown",
+        "id": "d1cce29f23e280b0",
+        "text": "[[Attribution in PKM]]"
+      },
+      "date": 1563347707212
+    },
+    {
+      "id": "d1cce29f23e280b0",
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "5bfa322e150bcc02",
+        "3b8007e0b419e558",
+        "8c8c02d9c97b7aac",
+        "0a7fc31d5b812eff",
+        "ca68053d22785b23",
+        "f910a7b287be78e3",
+        "d1cce29f23e280b0",
+        "996c1ba6f19b2394",
+        "19750f7866ed4bc0",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "bb529c10c542e1d8",
+        "effcf15a08723ec0",
+        "a3bc6c94042c3a43",
+        "86f65943f11bda8a",
+        "d82343789c3e5127"
+      ],
+      "date": 1563347711469
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0488509b4da7a5a9"
+      },
+      "id": "0488509b4da7a5a9",
+      "type": "add",
+      "after": "d82343789c3e5127",
+      "date": 1563347814424
+    },
+    {
+      "type": "edit",
+      "id": "0488509b4da7a5a9",
+      "item": {
+        "type": "reference",
+        "id": "0488509b4da7a5a9",
+        "site": "pkm.wiki.synesthesia.co.uk",
+        "slug": "attribution-in-pkm",
+        "title": "Attribution in PKM",
+        "text": "Effective PKM relies on [[Building a Knowledge Network]]. Attribution is the glue that holds networks together"
+      },
+      "date": 1563347816439
+    },
+    {
+      "id": "0488509b4da7a5a9",
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "5bfa322e150bcc02",
+        "3b8007e0b419e558",
+        "8c8c02d9c97b7aac",
+        "0a7fc31d5b812eff",
+        "ca68053d22785b23",
+        "f910a7b287be78e3",
+        "0488509b4da7a5a9",
+        "d1cce29f23e280b0",
+        "996c1ba6f19b2394",
+        "19750f7866ed4bc0",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "bb529c10c542e1d8",
+        "effcf15a08723ec0",
+        "a3bc6c94042c3a43",
+        "86f65943f11bda8a",
+        "d82343789c3e5127"
+      ],
+      "date": 1563347821052
+    },
+    {
+      "type": "remove",
+      "id": "d1cce29f23e280b0",
+      "date": 1563347824445
     }
   ]
 }

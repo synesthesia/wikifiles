@@ -1,0 +1,68 @@
+{
+  "title": "FedWiki Isn't Designed for Discussion",
+  "story": [
+    {
+      "type": "html",
+      "id": "cca6d9e24d1474aa",
+      "text": "FedWiki is not built to support multiparty discussion. Traditional wikis support it weakly by using delimiters and a style guide, and perhaps FedWiki will develop similar indicators of processes. But a dedicated discussion space might support thread mode better than the wiki page. Wikipedia has talk pages. The thread mode is near by but separate from the dissertation, which makes the dissertation more useful to readers and makes the thread mode more useful to writers. \"Useful\" meaning it facilitates creating a better crafted dissertation mode, one that can be woven in more to the overall net. "
+    },
+    {
+      "type": "factory",
+      "id": "51020c094af7f972"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "FedWiki Isn't Designed for Discussion",
+        "story": []
+      },
+      "date": 1433862421177
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "51020c094af7f972"
+      },
+      "id": "51020c094af7f972",
+      "type": "add",
+      "date": 1433862423357
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "cca6d9e24d1474aa",
+        "text": "<b>FedWiki isn't built for discussion</b> FedWiki is not built to support multiparty discussion. Traditional wikis support it weakly by using delimiters and a style guide, and perhaps FedWiki will develop similar indicators of processes. But a dedicated discussion space might support thread mode better than the wiki page. Wikipedia has talk pages. The thread mode is near by but separate from the dissertation, which makes the dissertation more useful to readers and makes the thread mode more useful to writers. \"Useful\" meaning it facilitates creating a better crafted dissertation mode, one that can be woven in more to the overall net. "
+      },
+      "id": "cca6d9e24d1474aa",
+      "date": 1433862427350
+    },
+    {
+      "type": "edit",
+      "id": "cca6d9e24d1474aa",
+      "item": {
+        "type": "html",
+        "id": "cca6d9e24d1474aa",
+        "text": "<b>FedWiki isn't designed for discussion</b> FedWiki is not built to support multiparty discussion. Traditional wikis support it weakly by using delimiters and a style guide, and perhaps FedWiki will develop similar indicators of processes. But a dedicated discussion space might support thread mode better than the wiki page. Wikipedia has talk pages. The thread mode is near by but separate from the dissertation, which makes the dissertation more useful to readers and makes the thread mode more useful to writers. \"Useful\" meaning it facilitates creating a better crafted dissertation mode, one that can be woven in more to the overall net. "
+      },
+      "date": 1433862481944
+    },
+    {
+      "type": "edit",
+      "id": "cca6d9e24d1474aa",
+      "item": {
+        "type": "html",
+        "id": "cca6d9e24d1474aa",
+        "text": "FedWiki is not built to support multiparty discussion. Traditional wikis support it weakly by using delimiters and a style guide, and perhaps FedWiki will develop similar indicators of processes. But a dedicated discussion space might support thread mode better than the wiki page. Wikipedia has talk pages. The thread mode is near by but separate from the dissertation, which makes the dissertation more useful to readers and makes the thread mode more useful to writers. \"Useful\" meaning it facilitates creating a better crafted dissertation mode, one that can be woven in more to the overall net. "
+      },
+      "date": 1433875839069
+    },
+    {
+      "type": "fork",
+      "site": "sfw.mcmorgan.org",
+      "date": 1563346856745
+    }
+  ]
+}

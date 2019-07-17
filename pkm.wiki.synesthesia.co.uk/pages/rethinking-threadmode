@@ -1,0 +1,1597 @@
+{
+  "title": "Rethinking ThreadMode",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "83183ff25d3a292c",
+      "text": "We rethink the traditional idea of thread mode as a conversation that moves towards document mode exposition."
+    },
+    {
+      "type": "paragraph",
+      "id": "8af32265d1c4f446",
+      "text": "The traditional wiki idea of ThreadMode is something like this:"
+    },
+    {
+      "type": "reference",
+      "id": "0ea11391d724fb60",
+      "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+      "punt": {
+        "url": "http://sfw.mcmorgan.org/",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18"
+      },
+      "site": "sfw.mcmorgan.org",
+      "slug": "thread-mode",
+      "title": "Thread Mode",
+      "text": "Thread mode is a form of discussion where our community holds a conversation. It is the beginning of a process of distilling experience that culminates in patterns."
+    },
+    {
+      "type": "paragraph",
+      "id": "f536e9603adc2787",
+      "text": "But dialogue isn't all it's cracked up to be. A lot of Thread Mode work on c2 , Meatball [http://meatballwiki.org/wiki/ wiki], and Weblogs And Wikis Wiki is redundant and monologic. Less a dialogue and more a sequence of loosely related micro-essays or assertions. We acknowledge this when we refactor threads into discourses with the loose ends and remainders refashioned into stubs."
+    },
+    {
+      "type": "paragraph",
+      "id": "6e64a4167ed629e6",
+      "text": "ThreadMode was not intended to be the record of an exchange but a technique of invention. ([[Discussion As Invention]] and maybe something on [[Vygotsky]].) The idea was akin to the brainstorm, with a dose of exploring for stasis and topical arguments. The idea was to collectively voice multiple arguments - not necessarily in support of one's own but to add to the pool of arguments and perspectives that need to be considered. The idea is that once a page - a dissertation - starts to gel, we then have a place to establish stubs, which lead to other perspectives, ideologies, compositions. The vision of the wiki as a collaborative document and workspace comes forward when we can constellate these various dissertations. Rather than embedding a set of possible ideas and arguments in a single page along a thread, we create webs with documents. "
+    },
+    {
+      "type": "paragraph",
+      "id": "188c92ebf4be4c5e",
+      "text": "Participants tended to view ThreadMode as a kind of [[Speaker's Corner]]. We envisioned lots of discussion, leading to a developing document. But the ThreadMode became a loose collection of soapboxes, each speaker addressing a different public. A set of monologues rather than speakers in dialogue. This arrangement can work, but it needs a moderator to synthesize the ideas. Hard work. The moderator has to be both intrusive - not afraid of re-working specific statements - and external to the argument in order to be, um, moderate. Few want the position. Few in the local wiki community want this kind of rhetorical intervention."
+    },
+    {
+      "type": "paragraph",
+      "id": "b7d0e459ce349a87",
+      "text": "One way out of this cul de sac is to rethink thread mode with the understanding that document / dissertation pages can be placed in dialogue with one another. Demote ThreadMode and promote the larger conversation between document or dissertation pages."
+    },
+    {
+      "type": "paragraph",
+      "id": "eb6acd27a38c678a",
+      "text": "[[Place Dissertation Pages in Dialogue]] or [[Constellate Dissertation Pages]]"
+    },
+    {
+      "type": "html",
+      "id": "00893d99d3b3118d",
+      "text": "<b>Not much comes of ThreadMode</b> Review the ThreadMode work at Weblogs and Wikis [http://erhetoric.org/WeblogsAndWikis/wikka.php?wakka=HomePage traditional wiki]. You'll see that not a lot of thread mode discussion comes to much, in great part because adding to thread mode becomes a way of avoiding committing to creating a dissertation page.  Students report every semester, \"Doing ThreadMode is just easier!\" The addition to a thread might help the writer think about an idea - but, I'd suggest, so does taking energy to start a dissertation page. Yes, adding to a thread might spur the next person into action, get her thinking about a new idea- but so can a dissertation page."
+    },
+    {
+      "type": "paragraph",
+      "id": "e30df5206613f1ff",
+      "text": "As [[Mike Caulfield]] observes, \"What the disseration does is force me to try and articulate your concerns in summary, and by doing that gain an understanding of your experience. I have to try and write your experience -- I can't just assert mine. We work together instead of in opposition. That produces better discourse -- I have to read your concerns carefully in the thread, because I am going to need to articulate them back to you.\" from [[Is Dissertation Over Discourse Gendered?]]"
+    },
+    {
+      "type": "html",
+      "id": "b33751be4a81fc95",
+      "text": "<h3>Critique of ThreadMode</h3>"
+    },
+    {
+      "type": "html",
+      "id": "ab267c8cb10f5bcf",
+      "text": "<b>In practice, ThreadMode encouraged conversation rather than invention</b> TheadMode is taken as an invitation to discussion rather than as an invitation to invention, and threads tend to show the usual patterns of discussions online - patterns that get in the way of developing invention. For instance, One-Person - One-Perspective tends to be foregrounded in threads. This is especially pronounced in students working on the wiki in that they understand their way of thinking as theirs and theirs alone and proclaim that Every Person Has A Different Opinion. The belief gets in the way of seeing patterns in the arguments, and we need patterns to get to DiscourseMode."
+    },
+    {
+      "type": "paragraph",
+      "id": "b2f37cac69b7b3aa",
+      "text": "More socially profound / valuable / significant / knowledge comes of developing things beyond the personal and into the social. The wiki asks uses to develop pages that others can stop by in later semesters and build on further."
+    },
+    {
+      "type": "paragraph",
+      "id": "23dc0be19534851b",
+      "text": "The matter in composing is where to place and how to use discussion for invention and drafting the collective page."
+    },
+    {
+      "type": "paragraph",
+      "id": "d4303b5000cac3fd",
+      "text": "[[Rethinking DocumentMode]] addresses this."
+    },
+    {
+      "type": "paragraph",
+      "id": "3a96be34a3088e0f",
+      "text": "[[FedWiki Isn't Designed for Discussion]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Rethinking ThreadMode",
+        "story": []
+      },
+      "date": 1426181969258
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f536e9603adc2787"
+      },
+      "id": "f536e9603adc2787",
+      "type": "add",
+      "date": 1426181984971
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c086a2d6c4937686",
+        "text": "[[M C Morgan]] Years of watching thread mode discussions go on at Weblogs and Wikis [http://erhetoric.org/WeblogsAndWikis/wikka.php?wakka=HomePage traditional wiki] and the advent of FedWiki as a distributed system has encouraged me to re-think the old ThreadMode into DocumentMode pattern of composing. I've always viewed ThreadMode is an inventional technique - a way of locating and trying out the ways that an idea might be constructed and a document composed. Once a document - a dissertation - starts to gel, we then have a place to anchor stubs, which lead to other perspectives, ideologies, compositions. The real vision of the wiki comes forward when we can constellate these various dissertations. Rather than embedding a set of possible ideas and arguments in a single page along a thread, we can, with documents, create webs."
+      },
+      "id": "c086a2d6c4937686",
+      "date": 1426181987096
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "cca6d9e24d1474aa",
+        "text": "I'm not sure FedWiki supports multiparty discussion well. Traditional wiki only kinda supports it using delimiters and a style guide, and perhaps FedWiki will develop similar indicators of processes. But a dedicated discussion space might support thread mode better than the wiki page. Wikipedia has talk pages. The thread mode is near by but separate from the dissertation, which makes the dissertation more useful to readers and makes the thread mode more useful to writers. \"Useful\" meaning it facilitates creating a better crafted dissertation mode, one that can be woven in more to the overall net. "
+      },
+      "after": "c086a2d6c4937686",
+      "id": "cca6d9e24d1474aa",
+      "date": 1426181992889
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ab267c8cb10f5bcf",
+        "text": "The other idea I'm resisting is the idea if One-Person - One-Perspective that tends to be foregrounded in threads. This is especially pronounced in students working on the wiki in that they understand their way of thinking as theirs and theirs alone (not so), and proclaim Every Person Has A Different Opinion (also not so). I'm of the mind (the ideology) that more socially profound / valuable / significant / knowledge comes of developing things beyond the personal. It's that kind of stuff I'm always asking students to aspire to on the wiki, so that others can stop by in later semesters and build on it further."
+      },
+      "after": "cca6d9e24d1474aa",
+      "id": "ab267c8cb10f5bcf",
+      "date": 1426181997929
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "8a01a6eafd295de8",
+        "text": "And a final observation from students in Weblogs and Wikis [http://erhetoric.org/WeblogsAndWikis/wikka.php?wakka=HomePage traditional wiki]. Not a lot of thread mode discussion comes to much, in great part because adding to thread mode becomes a way of avoiding committing to creating a dissertation page.  Students report every semester, \"Doing ThreadMode is just easier!\" The addition to a thread might help the writer think about an idea - but, I'd suggest, so does taking energy to start a dissertation page. Yes, adding to a thread might spur the next person into action, get her thinking about a new idea- but so can a dissertation page."
+      },
+      "after": "ab267c8cb10f5bcf",
+      "id": "8a01a6eafd295de8",
+      "date": 1426182000348
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "eb6acd27a38c678a",
+        "text": "That is, dissertation pages can be placed into dialogue with one another. [[Place Dissertation Pages in Dialogue]] or [[Constellate Dissertation Pages]]"
+      },
+      "after": "c086a2d6c4937686",
+      "id": "eb6acd27a38c678a",
+      "date": 1426182005185
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e30df5206613f1ff",
+        "text": "What the disseration does is force me to try and articulate your concerns in summary, and by doing that gain an understanding of your experience. I have to try and write your experience -- I can't just assert mine. We work together instead of in opposition. That produces better discourse -- I have to read your concerns carefully in the thread, because I am going to need to articulate them back to you. "
+      },
+      "after": "f536e9603adc2787",
+      "id": "e30df5206613f1ff",
+      "date": 1426182025323
+    },
+    {
+      "type": "edit",
+      "id": "e30df5206613f1ff",
+      "item": {
+        "type": "paragraph",
+        "id": "e30df5206613f1ff",
+        "text": "[[Mike Caulfield]] What the disseration does is force me to try and articulate your concerns in summary, and by doing that gain an understanding of your experience. I have to try and write your experience -- I can't just assert mine. We work together instead of in opposition. That produces better discourse -- I have to read your concerns carefully in the thread, because I am going to need to articulate them back to you. "
+      },
+      "date": 1426182043382
+    },
+    {
+      "type": "edit",
+      "id": "f536e9603adc2787",
+      "item": {
+        "type": "paragraph",
+        "id": "f536e9603adc2787",
+        "text": "[[Dialogue Isn't All It's Cracked Up To Be]]. In fact, a lot of Thread Mode work on c2, Meatball, and Weblogs And Wikis Wiki is redundant, monologic, and empty. Not a dialogue at all but more a sequence of loosely related micro-essays. As such the thread needs to be refactored into discourse and the loose threads cut or tied up. [[Rethinking ThreadMode]]"
+      },
+      "date": 1426182537613
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "c086a2d6c4937686",
+        "eb6acd27a38c678a",
+        "cca6d9e24d1474aa",
+        "ab267c8cb10f5bcf",
+        "8a01a6eafd295de8",
+        "e30df5206613f1ff"
+      ],
+      "id": "f536e9603adc2787",
+      "date": 1426182543664
+    },
+    {
+      "type": "edit",
+      "id": "f536e9603adc2787",
+      "item": {
+        "type": "paragraph",
+        "id": "f536e9603adc2787",
+        "text": "[[Dialogue Isn't All It's Cracked Up To Be]]. In fact, a lot of Thread Mode work on c2, Meatball, and Weblogs And Wikis Wiki is redundant, monologic, and empty. Not a dialogue at all but more a sequence of loosely related micro-essays. As such the thread needs to be refactored into discourse and the loose threads cut or tied up."
+      },
+      "date": 1426182550787
+    },
+    {
+      "type": "edit",
+      "id": "f536e9603adc2787",
+      "item": {
+        "type": "paragraph",
+        "id": "f536e9603adc2787",
+        "text": "It turns out that dialogue isn't all it's cracked up to be. In fact, a lot of Thread Mode work on c2, Meatball, and Weblogs And Wikis Wiki is redundant, monologic, and empty. Not a dialogue at all but more a sequence of loosely related micro-essays. As such the thread needs to be refactored into discourse and and the loose ends refashioned into stubs."
+      },
+      "date": 1426182622718
+    },
+    {
+      "type": "add",
+      "id": "6e64a4167ed629e6",
+      "item": {
+        "type": "paragraph",
+        "id": "6e64a4167ed629e6",
+        "text": "ThreadMode was not intended to be the record of an exchange but a technique of invention. The idea was akin to the brainstorm, with a dose of exploring for stasis and topical arguments. The idea was to collectively voice multiple arguments - not necessarily one's own but those participants could think of. Participants, however, tended to see the practice as more akin to soapboxing."
+      },
+      "after": "f536e9603adc2787",
+      "date": 1426182855581
+    },
+    {
+      "type": "add",
+      "id": "bcee58963fa0e183",
+      "item": {
+        "type": "paragraph",
+        "id": "bcee58963fa0e183",
+        "text": "Wrong from the start."
+      },
+      "after": "6e64a4167ed629e6",
+      "date": 1426182885383
+    },
+    {
+      "type": "add",
+      "id": "08d823c66551a2d0",
+      "item": {
+        "type": "paragraph",
+        "id": "08d823c66551a2d0",
+        "text": "Because DocumentMode the looks like something monological and finished. I"
+      },
+      "after": "bcee58963fa0e183",
+      "date": 1426182940056
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "eb6acd27a38c678a",
+        "c086a2d6c4937686",
+        "cca6d9e24d1474aa",
+        "ab267c8cb10f5bcf",
+        "8a01a6eafd295de8",
+        "e30df5206613f1ff"
+      ],
+      "id": "c086a2d6c4937686",
+      "date": 1426182948581
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "eb6acd27a38c678a",
+        "c086a2d6c4937686",
+        "8a01a6eafd295de8",
+        "cca6d9e24d1474aa",
+        "ab267c8cb10f5bcf",
+        "e30df5206613f1ff"
+      ],
+      "id": "8a01a6eafd295de8",
+      "date": 1426182984254
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "8a01a6eafd295de8",
+        "eb6acd27a38c678a",
+        "c086a2d6c4937686",
+        "cca6d9e24d1474aa",
+        "ab267c8cb10f5bcf",
+        "e30df5206613f1ff"
+      ],
+      "id": "8a01a6eafd295de8",
+      "date": 1426182987573
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "bcee58963fa0e183",
+        "8a01a6eafd295de8",
+        "08d823c66551a2d0",
+        "eb6acd27a38c678a",
+        "c086a2d6c4937686",
+        "cca6d9e24d1474aa",
+        "ab267c8cb10f5bcf",
+        "e30df5206613f1ff"
+      ],
+      "id": "08d823c66551a2d0",
+      "date": 1426182992264
+    },
+    {
+      "type": "edit",
+      "id": "8a01a6eafd295de8",
+      "item": {
+        "type": "paragraph",
+        "id": "8a01a6eafd295de8",
+        "text": "Review the ThreadMode work at Weblogs and Wikis [http://erhetoric.org/WeblogsAndWikis/wikka.php?wakka=HomePage traditional wiki]. You'll see that not a lot of thread mode discussion comes to much, in great part because adding to thread mode becomes a way of avoiding committing to creating a dissertation page.  Students report every semester, \"Doing ThreadMode is just easier!\" The addition to a thread might help the writer think about an idea - but, I'd suggest, so does taking energy to start a dissertation page. Yes, adding to a thread might spur the next person into action, get her thinking about a new idea- but so can a dissertation page."
+      },
+      "date": 1426183023396
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "eb6acd27a38c678a",
+        "8a01a6eafd295de8",
+        "c086a2d6c4937686",
+        "cca6d9e24d1474aa",
+        "ab267c8cb10f5bcf",
+        "e30df5206613f1ff"
+      ],
+      "id": "8a01a6eafd295de8",
+      "date": 1426183031987
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "8a01a6eafd295de8",
+        "eb6acd27a38c678a",
+        "c086a2d6c4937686",
+        "cca6d9e24d1474aa",
+        "ab267c8cb10f5bcf",
+        "e30df5206613f1ff"
+      ],
+      "id": "eb6acd27a38c678a",
+      "date": 1426183038647
+    },
+    {
+      "type": "edit",
+      "id": "8a01a6eafd295de8",
+      "item": {
+        "type": "paragraph",
+        "id": "8a01a6eafd295de8",
+        "text": "<b>Not much comes of ThreadMode</b>"
+      },
+      "date": 1426183075595
+    },
+    {
+      "type": "add",
+      "id": "00893d99d3b3118d",
+      "item": {
+        "type": "paragraph",
+        "id": "00893d99d3b3118d",
+        "text": "Review the ThreadMode work at Weblogs and Wikis [http://erhetoric.org/WeblogsAndWikis/wikka.php?wakka=HomePage traditional wiki]. You'll see that not a lot of thread mode discussion comes to much, in great part because adding to thread mode becomes a way of avoiding committing to creating a dissertation page.  Students report every semester, \"Doing ThreadMode is just easier!\" The addition to a thread might help the writer think about an idea - but, I'd suggest, so does taking energy to start a dissertation page. Yes, adding to a thread might spur the next person into action, get her thinking about a new idea- but so can a dissertation page."
+      },
+      "after": "8a01a6eafd295de8",
+      "date": 1426183079878
+    },
+    {
+      "type": "remove",
+      "id": "8a01a6eafd295de8",
+      "date": 1426183088576
+    },
+    {
+      "type": "edit",
+      "id": "00893d99d3b3118d",
+      "item": {
+        "type": "paragraph",
+        "id": "00893d99d3b3118d",
+        "text": "<b>Not much comes of ThreadMode</b> Review the ThreadMode work at Weblogs and Wikis [http://erhetoric.org/WeblogsAndWikis/wikka.php?wakka=HomePage traditional wiki]. You'll see that not a lot of thread mode discussion comes to much, in great part because adding to thread mode becomes a way of avoiding committing to creating a dissertation page.  Students report every semester, \"Doing ThreadMode is just easier!\" The addition to a thread might help the writer think about an idea - but, I'd suggest, so does taking energy to start a dissertation page. Yes, adding to a thread might spur the next person into action, get her thinking about a new idea- but so can a dissertation page."
+      },
+      "date": 1426183095688
+    },
+    {
+      "type": "edit",
+      "id": "00893d99d3b3118d",
+      "item": {
+        "type": "html",
+        "id": "00893d99d3b3118d",
+        "text": "<b>Not much comes of ThreadMode</b> Review the ThreadMode work at Weblogs and Wikis [http://erhetoric.org/WeblogsAndWikis/wikka.php?wakka=HomePage traditional wiki]. You'll see that not a lot of thread mode discussion comes to much, in great part because adding to thread mode becomes a way of avoiding committing to creating a dissertation page.  Students report every semester, \"Doing ThreadMode is just easier!\" The addition to a thread might help the writer think about an idea - but, I'd suggest, so does taking energy to start a dissertation page. Yes, adding to a thread might spur the next person into action, get her thinking about a new idea- but so can a dissertation page."
+      },
+      "date": 1426183098678
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "eb6acd27a38c678a",
+        "00893d99d3b3118d",
+        "c086a2d6c4937686",
+        "cca6d9e24d1474aa",
+        "ab267c8cb10f5bcf",
+        "e30df5206613f1ff"
+      ],
+      "id": "00893d99d3b3118d",
+      "date": 1426183099983
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "00893d99d3b3118d",
+        "eb6acd27a38c678a",
+        "c086a2d6c4937686",
+        "cca6d9e24d1474aa",
+        "ab267c8cb10f5bcf",
+        "e30df5206613f1ff"
+      ],
+      "id": "00893d99d3b3118d",
+      "date": 1426183102648
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "00893d99d3b3118d",
+        "eb6acd27a38c678a",
+        "c086a2d6c4937686",
+        "ab267c8cb10f5bcf",
+        "cca6d9e24d1474aa",
+        "e30df5206613f1ff"
+      ],
+      "id": "ab267c8cb10f5bcf",
+      "date": 1426183166244
+    },
+    {
+      "type": "edit",
+      "id": "ab267c8cb10f5bcf",
+      "item": {
+        "type": "paragraph",
+        "id": "ab267c8cb10f5bcf",
+        "text": "<b>ThreadMode emphasizes the wrong ideas</b> The other idea I'm resisting is the idea if One-Person - One-Perspective that tends to be foregrounded in threads. This is especially pronounced in students working on the wiki in that they understand their way of thinking as theirs and theirs alone (not so), and proclaim Every Person Has A Different Opinion (also not so). I'm of the mind (the ideology) that more socially profound / valuable / significant / knowledge comes of developing things beyond the personal. It's that kind of stuff I'm always asking students to aspire to on the wiki, so that others can stop by in later semesters and build on it further."
+      },
+      "date": 1426183311146
+    },
+    {
+      "type": "edit",
+      "id": "ab267c8cb10f5bcf",
+      "item": {
+        "type": "html",
+        "id": "ab267c8cb10f5bcf",
+        "text": "<b>ThreadMode emphasizes the wrong ideas</b> The other idea I'm resisting is the idea if One-Person - One-Perspective that tends to be foregrounded in threads. This is especially pronounced in students working on the wiki in that they understand their way of thinking as theirs and theirs alone (not so), and proclaim Every Person Has A Different Opinion (also not so). I'm of the mind (the ideology) that more socially profound / valuable / significant / knowledge comes of developing things beyond the personal. It's that kind of stuff I'm always asking students to aspire to on the wiki, so that others can stop by in later semesters and build on it further."
+      },
+      "date": 1426183316948
+    },
+    {
+      "type": "edit",
+      "id": "ab267c8cb10f5bcf",
+      "item": {
+        "type": "html",
+        "id": "ab267c8cb10f5bcf",
+        "text": "<b>ThreadMode emphasizes the wrong ideas</b> TheadMode is taken as an invitation to discussion rathger than as an invitation to invention and threads tend to show the usual patterns of discussions online - patterns that get in the way of developing invention. A: One-Person - One-Perspective tends to be foregrounded in threads. This is especially pronounced in students working on the wiki in that they understand their way of thinking as theirs and theirs alone (not so), and proclaim B: Every Person Has A Different Opinion (also not so). "
+      },
+      "date": 1426183519091
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b2f37cac69b7b3aa"
+      },
+      "id": "b2f37cac69b7b3aa",
+      "type": "add",
+      "after": "e30df5206613f1ff",
+      "date": 1426183522577
+    },
+    {
+      "type": "edit",
+      "id": "b2f37cac69b7b3aa",
+      "item": {
+        "type": "paragraph",
+        "id": "b2f37cac69b7b3aa",
+        "text": "\nI'm of the mind (the ideology) that more socially profound / valuable / significant / knowledge comes of developing things beyond the personal. It's that kind of stuff I'm always asking students to aspire to on the wiki, so that others can stop by in later semesters and build on it further."
+      },
+      "date": 1426183526605
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "00893d99d3b3118d",
+        "eb6acd27a38c678a",
+        "c086a2d6c4937686",
+        "ab267c8cb10f5bcf",
+        "b2f37cac69b7b3aa",
+        "cca6d9e24d1474aa",
+        "e30df5206613f1ff"
+      ],
+      "id": "b2f37cac69b7b3aa",
+      "date": 1426183530280
+    },
+    {
+      "type": "edit",
+      "id": "ab267c8cb10f5bcf",
+      "item": {
+        "type": "html",
+        "id": "ab267c8cb10f5bcf",
+        "text": "<b>ThreadMode emphasizes the wrong ideas</b> TheadMode is taken as an invitation to discussion rathger than as an invitation to invention and threads tend to show the usual patterns of discussions online - patterns that get in the way of developing invention.\n\n- One-Person - One-Perspective tends to be foregrounded in threads. This is especially pronounced in students working on the wiki in that they understand their way of thinking as theirs and theirs alone (not so), and proclaim\n- Every Person Has A Different Opinion (also not so). The belief gets in the way of seeing patterns in the arguments, and we need patterns to get to DiscourseMode."
+      },
+      "date": 1426183640937
+    },
+    {
+      "type": "edit",
+      "id": "b2f37cac69b7b3aa",
+      "item": {
+        "type": "paragraph",
+        "id": "b2f37cac69b7b3aa",
+        "text": "More socially profound / valuable / significant / knowledge comes of developing things beyond the personal, and pages beyond the thread. The wiki asks uses to develop pages that others can stop by in later semesters and build on further."
+      },
+      "date": 1426183717685
+    },
+    {
+      "type": "edit",
+      "id": "b2f37cac69b7b3aa",
+      "item": {
+        "type": "paragraph",
+        "id": "b2f37cac69b7b3aa",
+        "text": "More socially profound / valuable / significant / knowledge comes of developing things beyond the personal and into the social. The wiki asks uses to develop pages that others can stop by in later semesters and build on further."
+      },
+      "date": 1426183741500
+    },
+    {
+      "type": "edit",
+      "id": "cca6d9e24d1474aa",
+      "item": {
+        "type": "paragraph",
+        "id": "cca6d9e24d1474aa",
+        "text": "<b>FedWiki ism"
+      },
+      "date": 1426183778603
+    },
+    {
+      "type": "edit",
+      "id": "cca6d9e24d1474aa",
+      "item": {
+        "type": "paragraph",
+        "id": "cca6d9e24d1474aa",
+        "text": "<b>FedWiki isn't built for discussion</b> I'm not sure FedWiki supports multiparty discussion well. Traditional wikis support it weakly by using delimiters and a style guide, and perhaps FedWiki will develop similar indicators of processes. But a dedicated discussion space might support thread mode better than the wiki page. Wikipedia has talk pages. The thread mode is near by but separate from the dissertation, which makes the dissertation more useful to readers and makes the thread mode more useful to writers. \"Useful\" meaning it facilitates creating a better crafted dissertation mode, one that can be woven in more to the overall net. "
+      },
+      "date": 1426183828609
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "00893d99d3b3118d",
+        "eb6acd27a38c678a",
+        "c086a2d6c4937686",
+        "ab267c8cb10f5bcf",
+        "cca6d9e24d1474aa",
+        "b2f37cac69b7b3aa",
+        "e30df5206613f1ff"
+      ],
+      "id": "cca6d9e24d1474aa",
+      "date": 1426183830823
+    },
+    {
+      "type": "edit",
+      "id": "cca6d9e24d1474aa",
+      "item": {
+        "type": "html",
+        "id": "cca6d9e24d1474aa",
+        "text": "<b>FedWiki isn't built for discussion</b> I'm not sure FedWiki supports multiparty discussion well. Traditional wikis support it weakly by using delimiters and a style guide, and perhaps FedWiki will develop similar indicators of processes. But a dedicated discussion space might support thread mode better than the wiki page. Wikipedia has talk pages. The thread mode is near by but separate from the dissertation, which makes the dissertation more useful to readers and makes the thread mode more useful to writers. \"Useful\" meaning it facilitates creating a better crafted dissertation mode, one that can be woven in more to the overall net. "
+      },
+      "date": 1426183833624
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "00893d99d3b3118d",
+        "eb6acd27a38c678a",
+        "c086a2d6c4937686",
+        "ab267c8cb10f5bcf",
+        "b2f37cac69b7b3aa",
+        "cca6d9e24d1474aa",
+        "e30df5206613f1ff"
+      ],
+      "id": "b2f37cac69b7b3aa",
+      "date": 1426183840789
+    },
+    {
+      "type": "edit",
+      "id": "08d823c66551a2d0",
+      "item": {
+        "type": "paragraph",
+        "id": "08d823c66551a2d0",
+        "text": "Because DocumentMode then looks like something monological and finished, complete in and of itself. Better is to see that document / dissertation pages can be placed in dialogue with one another."
+      },
+      "date": 1426184101870
+    },
+    {
+      "type": "edit",
+      "id": "f536e9603adc2787",
+      "item": {
+        "type": "paragraph",
+        "id": "f536e9603adc2787",
+        "text": "It turns out that dialogue isn't all it's cracked up to be. In fact, a lot of Thread Mode work on c2, Meatball, and Weblogs And Wikis Wiki is redundant, monologic, and empty. Not a dialogue at all but more a sequence of loosely related micro-essays or assertions. As such the thread needs to be refactored into discourse and and the loose ends refashioned into stubs."
+      },
+      "date": 1426184178279
+    },
+    {
+      "type": "remove",
+      "id": "c086a2d6c4937686",
+      "date": 1426184297100
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "6e64a4167ed629e6",
+        "00893d99d3b3118d",
+        "eb6acd27a38c678a",
+        "ab267c8cb10f5bcf",
+        "b2f37cac69b7b3aa",
+        "cca6d9e24d1474aa",
+        "e30df5206613f1ff"
+      ],
+      "id": "6e64a4167ed629e6",
+      "date": 1426184313230
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "bcee58963fa0e183",
+        "6e64a4167ed629e6",
+        "08d823c66551a2d0",
+        "00893d99d3b3118d",
+        "eb6acd27a38c678a",
+        "ab267c8cb10f5bcf",
+        "b2f37cac69b7b3aa",
+        "cca6d9e24d1474aa",
+        "e30df5206613f1ff"
+      ],
+      "id": "6e64a4167ed629e6",
+      "date": 1426184317090
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "00893d99d3b3118d",
+        "eb6acd27a38c678a",
+        "ab267c8cb10f5bcf",
+        "b2f37cac69b7b3aa",
+        "cca6d9e24d1474aa",
+        "e30df5206613f1ff"
+      ],
+      "id": "6e64a4167ed629e6",
+      "date": 1426184321723
+    },
+    {
+      "type": "edit",
+      "id": "6e64a4167ed629e6",
+      "item": {
+        "type": "paragraph",
+        "id": "6e64a4167ed629e6",
+        "text": "ThreadMode was not intended to be the record of an exchange but a technique of invention. The idea was akin to the brainstorm, with a dose of exploring for stasis and topical arguments. The idea was to collectively voice multiple arguments - not necessarily one's own but those participants could think of. The idea is that once a document - a dissertation - starts to gel, we then have a place to anchor stubs, which lead to other perspectives, ideologies, compositions. The real vision of the wiki comes forward when we can constellate these various dissertations.  Rather than embedding a set of possible ideas and arguments in a single page along a thread, we can, with documents, create webs. "
+      },
+      "date": 1426184386729
+    },
+    {
+      "type": "add",
+      "id": "188c92ebf4be4c5e",
+      "item": {
+        "type": "paragraph",
+        "id": "188c92ebf4be4c5e",
+        "text": "Participants, however, tended to see the practice as more akin to soapboxing."
+      },
+      "after": "6e64a4167ed629e6",
+      "date": 1426184499408
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "188c92ebf4be4c5e",
+        "6e64a4167ed629e6",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "00893d99d3b3118d",
+        "eb6acd27a38c678a",
+        "ab267c8cb10f5bcf",
+        "b2f37cac69b7b3aa",
+        "cca6d9e24d1474aa",
+        "e30df5206613f1ff"
+      ],
+      "id": "6e64a4167ed629e6",
+      "date": 1426184508663
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "188c92ebf4be4c5e",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "00893d99d3b3118d",
+        "eb6acd27a38c678a",
+        "ab267c8cb10f5bcf",
+        "b2f37cac69b7b3aa",
+        "cca6d9e24d1474aa",
+        "e30df5206613f1ff"
+      ],
+      "id": "6e64a4167ed629e6",
+      "date": 1426184512781
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "188c92ebf4be4c5e",
+        "bcee58963fa0e183",
+        "6e64a4167ed629e6",
+        "08d823c66551a2d0",
+        "00893d99d3b3118d",
+        "eb6acd27a38c678a",
+        "ab267c8cb10f5bcf",
+        "b2f37cac69b7b3aa",
+        "cca6d9e24d1474aa",
+        "e30df5206613f1ff"
+      ],
+      "id": "6e64a4167ed629e6",
+      "date": 1426184533504
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "188c92ebf4be4c5e",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "00893d99d3b3118d",
+        "eb6acd27a38c678a",
+        "ab267c8cb10f5bcf",
+        "b2f37cac69b7b3aa",
+        "cca6d9e24d1474aa",
+        "e30df5206613f1ff"
+      ],
+      "id": "6e64a4167ed629e6",
+      "date": 1426184536068
+    },
+    {
+      "type": "edit",
+      "id": "188c92ebf4be4c5e",
+      "item": {
+        "type": "paragraph",
+        "id": "188c92ebf4be4c5e",
+        "text": "Participants, however, tended to see the practice as more akin to soapboxing."
+      },
+      "date": 1426184553496
+    },
+    {
+      "type": "edit",
+      "id": "6e64a4167ed629e6",
+      "item": {
+        "type": "paragraph",
+        "id": "6e64a4167ed629e6",
+        "text": "ThreadMode was not intended to be the record of an exchange but a technique of invention. The idea was akin to the brainstorm, with a dose of exploring for stasis and topical arguments. The idea was to collectively voice multiple arguments - not necessarily one's own but those participants could think of. The idea is that once a document - a dissertation - starts to gel, we then have a place to anchor stubs, which lead to other perspectives, ideologies, compositions. The real vision of the wiki comes forward when we can constellate these various dissertations.  Rather than embedding a set of possible ideas and arguments in a single page along a thread, we can, with documents, create webs. "
+      },
+      "date": 1426184559449
+    },
+    {
+      "type": "edit",
+      "id": "08d823c66551a2d0",
+      "item": {
+        "type": "paragraph",
+        "id": "08d823c66551a2d0",
+        "text": "Because DocumentMode then looks like something monological and finished, complete in and of itself. Better is to see that document / dissertation pages can be placed in dialogue with one another."
+      },
+      "date": 1426184609252
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "188c92ebf4be4c5e",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "eb6acd27a38c678a",
+        "00893d99d3b3118d",
+        "ab267c8cb10f5bcf",
+        "b2f37cac69b7b3aa",
+        "cca6d9e24d1474aa",
+        "e30df5206613f1ff"
+      ],
+      "id": "eb6acd27a38c678a",
+      "date": 1426184614818
+    },
+    {
+      "item": {
+        "type": "html",
+        "id": "688f3a00336ba964",
+        "text": "<b>Dissertation Pages Need Not Be Monological</b> Dissertation pages, or whatever you want to call this genre, do not automatically align with monological argument. A dissertation page can enact a dialogical exchange. A good dissertation page will, by using stubs, constellate a dialogical options. "
+      },
+      "id": "688f3a00336ba964",
+      "type": "add",
+      "after": "e30df5206613f1ff",
+      "date": 1426184871498
+    },
+    {
+      "type": "edit",
+      "id": "688f3a00336ba964",
+      "item": {
+        "type": "html",
+        "id": "688f3a00336ba964",
+        "text": "<b>Dissertation Pages Need Not Be Monological</b> Dissertation pages, or whatever you want to call this genre, do not automatically align with monological argument. A dissertation page can enact a dialogical exchange. A good dissertation page will, by using stubs, constellate a dialogical options. "
+      },
+      "date": 1426185059081
+    },
+    {
+      "type": "edit",
+      "id": "688f3a00336ba964",
+      "item": {
+        "type": "html",
+        "id": "688f3a00336ba964",
+        "text": "<b>Dissertation Pages Need Not Be Monological</b> Dissertation pages, or whatever you want to call this genre, do not automatically align with monological argument. A dissertation page can enact a dialogical exchange. A good dissertation page will, by using stubs, constellate a dialogical options. "
+      },
+      "date": 1426185064084
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "188c92ebf4be4c5e",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "eb6acd27a38c678a",
+        "00893d99d3b3118d",
+        "ab267c8cb10f5bcf",
+        "b2f37cac69b7b3aa",
+        "688f3a00336ba964",
+        "cca6d9e24d1474aa",
+        "e30df5206613f1ff",
+        "23dc0be19534851b"
+      ],
+      "id": "688f3a00336ba964",
+      "date": 1426185070608,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "add",
+      "id": "23dc0be19534851b",
+      "item": {
+        "type": "paragraph",
+        "id": "23dc0be19534851b",
+        "text": "The matter in composing is where to place and how to use discussion for invention and drafting the collective page."
+      },
+      "after": "688f3a00336ba964",
+      "date": 1426185074852
+    },
+    {
+      "type": "move",
+      "order": [
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "188c92ebf4be4c5e",
+        "bcee58963fa0e183",
+        "08d823c66551a2d0",
+        "eb6acd27a38c678a",
+        "00893d99d3b3118d",
+        "ab267c8cb10f5bcf",
+        "b2f37cac69b7b3aa",
+        "688f3a00336ba964",
+        "23dc0be19534851b",
+        "cca6d9e24d1474aa",
+        "e30df5206613f1ff"
+      ],
+      "id": "23dc0be19534851b",
+      "date": 1426185080396
+    },
+    {
+      "type": "fork",
+      "date": 1426185127016
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "0ea11391d724fb60",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://sfw.mcmorgan.org/",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18"
+        },
+        "site": "sfw.mcmorgan.org",
+        "slug": "thread-mode",
+        "title": "Thread Mode",
+        "text": "<i>Thread mode is a form of discussion where our community holds a conversation. It is the beginning of a process of distilling experience that culminates in patterns.</i>"
+      },
+      "id": "0ea11391d724fb60",
+      "date": 1426185161882
+    },
+    {
+      "type": "edit",
+      "id": "f536e9603adc2787",
+      "item": {
+        "type": "paragraph",
+        "id": "f536e9603adc2787",
+        "text": "It turns out that dialogue isn't all it's cracked up to be. In fact, a lot of Thread Mode work on c2, Meatball, and Weblogs And Wikis Wiki is redundant, monologic, and empty. Not a dialogue at all but more a sequence of loosely related micro-essays or assertions. We acknowledge this when we refactor threads into discourses with the loose ends refashioned into stubs."
+      },
+      "date": 1426260218717
+    },
+    {
+      "type": "edit",
+      "id": "6e64a4167ed629e6",
+      "item": {
+        "type": "paragraph",
+        "id": "6e64a4167ed629e6",
+        "text": "ThreadMode was not intended to be the record of an exchange but a technique of invention. The idea was akin to the brainstorm, with a dose of exploring for stasis and topical arguments. The idea was to collectively voice multiple arguments - not necessarily in support of one's own but to add to the pool of arguments and perspectives that need to be considered. The idea is that once a page - a dissertation - starts to gel, we then have a place to establish stubs, which lead to other perspectives, ideologies, compositions. The vision of the wiki as a collaborative document and workspace comes forward when we can constellate these various dissertations. Rather than embedding a set of possible ideas and arguments in a single page along a thread, we create webs with documents. "
+      },
+      "date": 1426260471096
+    },
+    {
+      "type": "remove",
+      "id": "bcee58963fa0e183",
+      "date": 1426260497050
+    },
+    {
+      "type": "edit",
+      "id": "188c92ebf4be4c5e",
+      "item": {
+        "type": "paragraph",
+        "id": "188c92ebf4be4c5e",
+        "text": "Participants, however, tended to see the practice as something akin to soapboxing or [[Speaker's Corner]]."
+      },
+      "date": 1426260545143
+    },
+    {
+      "type": "edit",
+      "id": "08d823c66551a2d0",
+      "item": {
+        "type": "paragraph",
+        "id": "08d823c66551a2d0",
+        "text": "But this makes DocumentMode look like something monological and finished, complete in and of itself. Better is to see that document / dissertation pages can be placed in dialogue with one another."
+      },
+      "date": 1426260570741
+    },
+    {
+      "type": "edit",
+      "id": "188c92ebf4be4c5e",
+      "item": {
+        "type": "paragraph",
+        "id": "188c92ebf4be4c5e",
+        "text": "Participants tended to view ThreadMode as a kind of [[Speaker's Corner]]. Lots of discussion, leading to a finished document, when everyone agreed, or leading to an on-going exchange."
+      },
+      "date": 1426260683280
+    },
+    {
+      "type": "edit",
+      "id": "ab267c8cb10f5bcf",
+      "item": {
+        "type": "html",
+        "id": "ab267c8cb10f5bcf",
+        "text": "<b>ThreadMode emphasizes practices of conversation rather than invention</b> TheadMode is taken as an invitation to discussion rather than as an invitation to invention and threads tend to show the usual patterns of discussions online - patterns that get in the way of developing invention.\n\n- One-Person - One-Perspective tends to be foregrounded in threads. This is especially pronounced in students working on the wiki in that they understand their way of thinking as theirs and theirs alone (not so), and proclaim\n- Every Person Has A Different Opinion (also not so). The belief gets in the way of seeing patterns in the arguments, and we need patterns to get to DiscourseMode."
+      },
+      "date": 1426260937820
+    },
+    {
+      "type": "edit",
+      "id": "ab267c8cb10f5bcf",
+      "item": {
+        "type": "html",
+        "id": "ab267c8cb10f5bcf",
+        "text": "<b>ThreadMode emphasizes practices of conversation rather than invention</b> TheadMode is taken as an invitation to discussion rather than as an invitation to invention and threads tend to show the usual patterns of discussions online - patterns that get in the way of developing invention.\n\n- One-Person - One-Perspective tends to be foregrounded in threads. This is especially pronounced in students working on the wiki in that they understand their way of thinking as theirs and theirs alone and proclaim\n- Every Person Has A Different Opinion. The belief gets in the way of seeing patterns in the arguments, and we need patterns to get to DiscourseMode."
+      },
+      "date": 1426260995870
+    },
+    {
+      "type": "edit",
+      "id": "ab267c8cb10f5bcf",
+      "item": {
+        "type": "html",
+        "id": "ab267c8cb10f5bcf",
+        "text": "<b>ThreadMode emphasizes practices of conversation rather than invention</b> TheadMode is taken as an invitation to discussion rather than as an invitation to invention, and threads tend to show the usual patterns of discussions online - patterns that get in the way of developing invention.\n\n- One-Person - One-Perspective tends to be foregrounded in threads. This is especially pronounced in students working on the wiki in that they understand their way of thinking as theirs and theirs alone and proclaim\n- Every Person Has A Different Opinion. The belief gets in the way of seeing patterns in the arguments, and we need patterns to get to DiscourseMode."
+      },
+      "date": 1426261035807
+    },
+    {
+      "type": "edit",
+      "id": "ab267c8cb10f5bcf",
+      "item": {
+        "type": "html",
+        "id": "ab267c8cb10f5bcf",
+        "text": "<b>ThreadMode emphasizes practices of conversation rather than invention</b> TheadMode is taken as an invitation to discussion rather than as an invitation to invention, and threads tend to show the usual patterns of discussions online - patterns that get in the way of developing invention. For instance, One-Person - One-Perspective tends to be foregrounded in threads. This is especially pronounced in students working on the wiki in that they understand their way of thinking as theirs and theirs alone and proclaim that Every Person Has A Different Opinion. The belief gets in the way of seeing patterns in the arguments, and we need patterns to get to DiscourseMode."
+      },
+      "date": 1426261077860
+    },
+    {
+      "type": "edit",
+      "id": "188c92ebf4be4c5e",
+      "item": {
+        "type": "paragraph",
+        "id": "188c92ebf4be4c5e",
+        "text": "Participants tended to view ThreadMode as a kind of [[Speaker's Corner]]. Lots of discussion, leading to a finished document if everyone finally formed a consensus, or leading to an on-going exchange if they couldn't. "
+      },
+      "date": 1426261156744
+    },
+    {
+      "type": "move",
+      "order": [
+        "0ea11391d724fb60",
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "188c92ebf4be4c5e",
+        "08d823c66551a2d0",
+        "eb6acd27a38c678a",
+        "00893d99d3b3118d",
+        "e30df5206613f1ff",
+        "ab267c8cb10f5bcf",
+        "b2f37cac69b7b3aa",
+        "688f3a00336ba964",
+        "23dc0be19534851b",
+        "cca6d9e24d1474aa"
+      ],
+      "id": "e30df5206613f1ff",
+      "date": 1426261176401
+    },
+    {
+      "type": "edit",
+      "id": "e30df5206613f1ff",
+      "item": {
+        "type": "paragraph",
+        "id": "e30df5206613f1ff",
+        "text": "As [[Mike Caulfield]] observes in   \"What the disseration does is force me to try and articulate your concerns in summary, and by doing that gain an understanding of your experience. I have to try and write your experience -- I can't just assert mine. We work together instead of in opposition. That produces better discourse -- I have to read your concerns carefully in the thread, because I am going to need to articulate them back to you.\""
+      },
+      "date": 1426261242686
+    },
+    {
+      "type": "edit",
+      "id": "e30df5206613f1ff",
+      "item": {
+        "type": "paragraph",
+        "id": "e30df5206613f1ff",
+        "text": "As [[Mike Caulfield]] observes, \"What the disseration does is force me to try and articulate your concerns in summary, and by doing that gain an understanding of your experience. I have to try and write your experience -- I can't just assert mine. We work together instead of in opposition. That produces better discourse -- I have to read your concerns carefully in the thread, because I am going to need to articulate them back to you.\" from [[Is Dissertation Gendered]]?"
+      },
+      "date": 1426261363439
+    },
+    {
+      "type": "edit",
+      "id": "e30df5206613f1ff",
+      "item": {
+        "type": "paragraph",
+        "id": "e30df5206613f1ff",
+        "text": "As [[Mike Caulfield]] observes, \"What the disseration does is force me to try and articulate your concerns in summary, and by doing that gain an understanding of your experience. I have to try and write your experience -- I can't just assert mine. We work together instead of in opposition. That produces better discourse -- I have to read your concerns carefully in the thread, because I am going to need to articulate them back to you.\" from [[Is Dissertation Over Discourse Gendered?]]"
+      },
+      "date": 1426261415301
+    },
+    {
+      "type": "edit",
+      "id": "08d823c66551a2d0",
+      "item": {
+        "type": "paragraph",
+        "id": "08d823c66551a2d0",
+        "text": "But this makes DocumentMode look like something monological and finished, the end of discussion, complete in and of itself. Better is to see that document / dissertation pages can be placed in dialogue with one another."
+      },
+      "date": 1426261465070
+    },
+    {
+      "type": "edit",
+      "id": "08d823c66551a2d0",
+      "item": {
+        "type": "paragraph",
+        "id": "08d823c66551a2d0",
+        "text": "But this makes DocumentMode look like something monological and finished, the end of discussion, complete in and of itself. The way out of this cull de sac is to see that document / dissertation pages can be placed in dialogue with one another."
+      },
+      "date": 1426261529139
+    },
+    {
+      "type": "edit",
+      "id": "08d823c66551a2d0",
+      "item": {
+        "type": "paragraph",
+        "id": "08d823c66551a2d0",
+        "text": "But this makes DocumentMode look like something monological and finished, the end of discussion, complete in and of itself.  The way out of this cull de sac is to rethink thread mode, perhaps even demote it, with the understanding that document / dissertation pages can be placed in dialogue with one another."
+      },
+      "date": 1426261654935
+    },
+    {
+      "type": "edit",
+      "id": "eb6acd27a38c678a",
+      "item": {
+        "type": "paragraph",
+        "id": "eb6acd27a38c678a",
+        "text": "[[Place Dissertation Pages in Dialogue]] or [[Constellate Dissertation Pages]]"
+      },
+      "date": 1426261664790
+    },
+    {
+      "type": "edit",
+      "id": "08d823c66551a2d0",
+      "item": {
+        "type": "paragraph",
+        "id": "08d823c66551a2d0",
+        "text": "But this makes DocumentMode look like something monological and finished, the end of discussion, complete in and of itself.  "
+      },
+      "date": 1426261777919
+    },
+    {
+      "type": "add",
+      "id": "b7d0e459ce349a87",
+      "item": {
+        "type": "paragraph",
+        "id": "b7d0e459ce349a87",
+        "text": "The way out of this cull de sac is to rethink thread mode, perhaps even demote it, with the understanding that document / dissertation pages can be placed in dialogue with one another. Demote ThreadMode and promote the larger conversation between document or dissertation pages."
+      },
+      "after": "08d823c66551a2d0",
+      "date": 1426261829567
+    },
+    {
+      "type": "edit",
+      "id": "b7d0e459ce349a87",
+      "item": {
+        "type": "paragraph",
+        "id": "b7d0e459ce349a87",
+        "text": "The way out of this cull de sac is to rethink thread mode with the understanding that document / dissertation pages can be placed in dialogue with one another. Demote ThreadMode and promote the larger conversation between document or dissertation pages."
+      },
+      "date": 1426261887785
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b33751be4a81fc95"
+      },
+      "id": "b33751be4a81fc95",
+      "type": "add",
+      "after": "cca6d9e24d1474aa",
+      "date": 1426261913105
+    },
+    {
+      "type": "edit",
+      "id": "b33751be4a81fc95",
+      "item": {
+        "type": "paragraph",
+        "id": "b33751be4a81fc95",
+        "text": "<h3>Critique of ThreadMode</h3>"
+      },
+      "date": 1426261946814
+    },
+    {
+      "type": "edit",
+      "id": "b33751be4a81fc95",
+      "item": {
+        "type": "html",
+        "id": "b33751be4a81fc95",
+        "text": "<h3>Critique of ThreadMode</h3>"
+      },
+      "date": 1426261949237
+    },
+    {
+      "type": "move",
+      "order": [
+        "0ea11391d724fb60",
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "188c92ebf4be4c5e",
+        "08d823c66551a2d0",
+        "b7d0e459ce349a87",
+        "eb6acd27a38c678a",
+        "00893d99d3b3118d",
+        "e30df5206613f1ff",
+        "b33751be4a81fc95",
+        "ab267c8cb10f5bcf",
+        "b2f37cac69b7b3aa",
+        "688f3a00336ba964",
+        "23dc0be19534851b",
+        "cca6d9e24d1474aa"
+      ],
+      "id": "b33751be4a81fc95",
+      "date": 1426261954332
+    },
+    {
+      "type": "edit",
+      "id": "688f3a00336ba964",
+      "item": {
+        "type": "html",
+        "id": "688f3a00336ba964",
+        "text": "<b>Dissertation Pages Need Not Be Monological</b> Dissertation pages do not automatically align with monological argument. A dissertation page can enact a dialogical exchange. A good dissertation page will, by using stubs, constellate a dialogical options. "
+      },
+      "date": 1426261991082
+    },
+    {
+      "type": "edit",
+      "id": "cca6d9e24d1474aa",
+      "item": {
+        "type": "html",
+        "id": "cca6d9e24d1474aa",
+        "text": "<b>FedWiki isn't built for discussion</b> FedWiki is not built to support multiparty discussion. Traditional wikis support it weakly by using delimiters and a style guide, and perhaps FedWiki will develop similar indicators of processes. But a dedicated discussion space might support thread mode better than the wiki page. Wikipedia has talk pages. The thread mode is near by but separate from the dissertation, which makes the dissertation more useful to readers and makes the thread mode more useful to writers. \"Useful\" meaning it facilitates creating a better crafted dissertation mode, one that can be woven in more to the overall net. "
+      },
+      "date": 1426262034091
+    },
+    {
+      "type": "remove",
+      "id": "688f3a00336ba964",
+      "date": 1426262089128
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0105fafdfc082b9a"
+      },
+      "id": "0105fafdfc082b9a",
+      "type": "add",
+      "after": "cca6d9e24d1474aa",
+      "date": 1426262103800
+    },
+    {
+      "type": "edit",
+      "id": "0105fafdfc082b9a",
+      "item": {
+        "type": "reference",
+        "id": "0105fafdfc082b9a",
+        "site": "sfw.mcmorgan.org",
+        "slug": "rethinking-documentmode",
+        "title": "Rethinking DocumentMode",
+        "text": "Well-composed dissertation pages create starting points for further consideration. They become nodes in a larger wiki-wide discussion. On FedWiki, those points can be indicated using stubs. Linked dissertation pages can be used to create an ever-widening [[Radical Discourse]] that [[Thread Mode]] doesn't."
+      },
+      "date": 1426262107855
+    },
+    {
+      "type": "remove",
+      "id": "0105fafdfc082b9a",
+      "date": 1426262133181
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d4303b5000cac3fd"
+      },
+      "id": "d4303b5000cac3fd",
+      "type": "add",
+      "after": "cca6d9e24d1474aa",
+      "date": 1426262141352
+    },
+    {
+      "type": "edit",
+      "id": "d4303b5000cac3fd",
+      "item": {
+        "type": "paragraph",
+        "id": "d4303b5000cac3fd",
+        "text": "[[Rethinking DocumentMode]] addresses this."
+      },
+      "date": 1426262162677
+    },
+    {
+      "type": "move",
+      "order": [
+        "0ea11391d724fb60",
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "188c92ebf4be4c5e",
+        "08d823c66551a2d0",
+        "b7d0e459ce349a87",
+        "eb6acd27a38c678a",
+        "00893d99d3b3118d",
+        "e30df5206613f1ff",
+        "b33751be4a81fc95",
+        "ab267c8cb10f5bcf",
+        "b2f37cac69b7b3aa",
+        "23dc0be19534851b",
+        "d4303b5000cac3fd",
+        "cca6d9e24d1474aa"
+      ],
+      "id": "d4303b5000cac3fd",
+      "date": 1426262166933
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8af32265d1c4f446"
+      },
+      "id": "8af32265d1c4f446",
+      "type": "add",
+      "after": "cca6d9e24d1474aa",
+      "date": 1426262253233
+    },
+    {
+      "type": "edit",
+      "id": "8af32265d1c4f446",
+      "item": {
+        "type": "paragraph",
+        "id": "8af32265d1c4f446",
+        "text": "The traditional wiki idea of ThreadMode is something like this:"
+      },
+      "date": 1426262278124
+    },
+    {
+      "type": "move",
+      "order": [
+        "8af32265d1c4f446",
+        "0ea11391d724fb60",
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "188c92ebf4be4c5e",
+        "08d823c66551a2d0",
+        "b7d0e459ce349a87",
+        "eb6acd27a38c678a",
+        "00893d99d3b3118d",
+        "e30df5206613f1ff",
+        "b33751be4a81fc95",
+        "ab267c8cb10f5bcf",
+        "b2f37cac69b7b3aa",
+        "23dc0be19534851b",
+        "d4303b5000cac3fd",
+        "cca6d9e24d1474aa"
+      ],
+      "id": "8af32265d1c4f446",
+      "date": 1426262285687
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "83183ff25d3a292c"
+      },
+      "id": "83183ff25d3a292c",
+      "type": "add",
+      "after": "cca6d9e24d1474aa",
+      "date": 1426262292708
+    },
+    {
+      "type": "edit",
+      "id": "83183ff25d3a292c",
+      "item": {
+        "type": "paragraph",
+        "id": "83183ff25d3a292c",
+        "text": "We rethink the traditional idea of thread mode as a conversation that moves towards document mode exposition."
+      },
+      "date": 1426262342192
+    },
+    {
+      "type": "move",
+      "order": [
+        "83183ff25d3a292c",
+        "8af32265d1c4f446",
+        "0ea11391d724fb60",
+        "f536e9603adc2787",
+        "6e64a4167ed629e6",
+        "188c92ebf4be4c5e",
+        "08d823c66551a2d0",
+        "b7d0e459ce349a87",
+        "eb6acd27a38c678a",
+        "00893d99d3b3118d",
+        "e30df5206613f1ff",
+        "b33751be4a81fc95",
+        "ab267c8cb10f5bcf",
+        "b2f37cac69b7b3aa",
+        "23dc0be19534851b",
+        "d4303b5000cac3fd",
+        "cca6d9e24d1474aa"
+      ],
+      "id": "83183ff25d3a292c",
+      "date": 1426262356561
+    },
+    {
+      "type": "edit",
+      "id": "0ea11391d724fb60",
+      "item": {
+        "type": "reference",
+        "id": "0ea11391d724fb60",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://sfw.mcmorgan.org/",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18"
+        },
+        "site": "sfw.mcmorgan.org",
+        "slug": "thread-mode",
+        "title": "Thread Mode",
+        "text": "Thread mode is a form of discussion where our community holds a conversation. It is the beginning of a process of distilling experience that culminates in patterns."
+      },
+      "date": 1426262837897
+    },
+    {
+      "type": "edit",
+      "id": "f536e9603adc2787",
+      "item": {
+        "type": "paragraph",
+        "id": "f536e9603adc2787",
+        "text": "But dialogue isn't all it's cracked up to be. A lot of Thread Mode work on c2, Meatball, and Weblogs And Wikis Wiki is redundant and monologic. Less a dialogue and more a sequence of loosely related micro-essays or assertions. We acknowledge this when we refactor threads into discourses with the loose ends refashioned into stubs."
+      },
+      "date": 1426262916298
+    },
+    {
+      "type": "edit",
+      "id": "6e64a4167ed629e6",
+      "item": {
+        "type": "paragraph",
+        "id": "6e64a4167ed629e6",
+        "text": "ThreadMode was not intended to be the record of an exchange but a technique of invention. [[Discussion As Invention]] and maybe something on [[Vygotsky]]. The idea was akin to the brainstorm, with a dose of exploring for stasis and topical arguments. The idea was to collectively voice multiple arguments - not necessarily in support of one's own but to add to the pool of arguments and perspectives that need to be considered. The idea is that once a page - a dissertation - starts to gel, we then have a place to establish stubs, which lead to other perspectives, ideologies, compositions. The vision of the wiki as a collaborative document and workspace comes forward when we can constellate these various dissertations. Rather than embedding a set of possible ideas and arguments in a single page along a thread, we create webs with documents. "
+      },
+      "date": 1426262970803
+    },
+    {
+      "type": "edit",
+      "id": "6e64a4167ed629e6",
+      "item": {
+        "type": "paragraph",
+        "id": "6e64a4167ed629e6",
+        "text": "ThreadMode was not intended to be the record of an exchange but a technique of invention. ([[Discussion As Invention]] and maybe something on [[Vygotsky]].) The idea was akin to the brainstorm, with a dose of exploring for stasis and topical arguments. The idea was to collectively voice multiple arguments - not necessarily in support of one's own but to add to the pool of arguments and perspectives that need to be considered. The idea is that once a page - a dissertation - starts to gel, we then have a place to establish stubs, which lead to other perspectives, ideologies, compositions. The vision of the wiki as a collaborative document and workspace comes forward when we can constellate these various dissertations. Rather than embedding a set of possible ideas and arguments in a single page along a thread, we create webs with documents. "
+      },
+      "date": 1426263001527
+    },
+    {
+      "type": "edit",
+      "id": "f536e9603adc2787",
+      "item": {
+        "type": "paragraph",
+        "id": "f536e9603adc2787",
+        "text": "But dialogue isn't all it's cracked up to be. A lot of Thread Mode work on c2 , Meatball [http://meatballwiki.org/wiki/ wiki], and Weblogs And Wikis Wiki is redundant and monologic. Less a dialogue and more a sequence of loosely related micro-essays or assertions. We acknowledge this when we refactor threads into discourses with the loose ends refashioned into stubs."
+      },
+      "date": 1426302221275
+    },
+    {
+      "type": "edit",
+      "id": "f536e9603adc2787",
+      "item": {
+        "type": "paragraph",
+        "id": "f536e9603adc2787",
+        "text": "But dialogue isn't all it's cracked up to be. A lot of Thread Mode work on c2 , Meatball [http://meatballwiki.org/wiki/ wiki], and Weblogs And Wikis Wiki is redundant and monologic. Less a dialogue and more a sequence of loosely related micro-essays or assertions. We acknowledge this when we refactor threads into discourses with the loose ends and remainders refashioned into stubs."
+      },
+      "date": 1426302296392
+    },
+    {
+      "type": "fork",
+      "site": "sfw.mcmorgan.org",
+      "date": 1433861460646
+    },
+    {
+      "type": "edit",
+      "id": "b7d0e459ce349a87",
+      "item": {
+        "type": "paragraph",
+        "id": "b7d0e459ce349a87",
+        "text": "The way out of this cul de sac is to rethink thread mode with the understanding that document / dissertation pages can be placed in dialogue with one another. Demote ThreadMode and promote the larger conversation between document or dissertation pages."
+      },
+      "site": "sfw.mcmorgan.org",
+      "date": 1433861460645
+    },
+    {
+      "type": "fork",
+      "date": 1433861490910
+    },
+    {
+      "type": "edit",
+      "id": "188c92ebf4be4c5e",
+      "item": {
+        "type": "paragraph",
+        "id": "188c92ebf4be4c5e",
+        "text": "Participants tended to view ThreadMode as a kind of [[Speaker's Corner]]. We envisioned lots of discussion, leading to a developing document. But the ThreadMode became a loose collection of soapboxes, each speaker addressing a different public. A set of monologues rather than speakers in dialogue. This arrangement can work, but it needs a moderator to synthesize the ideas. Hard work. The moderator has to be both intrusive - not afraid of re-working specific statements - and external to the argument in order to be, um, moderate. Few want the position."
+      },
+      "date": 1433861854170
+    },
+    {
+      "type": "remove",
+      "id": "08d823c66551a2d0",
+      "date": 1433861866893
+    },
+    {
+      "type": "edit",
+      "id": "188c92ebf4be4c5e",
+      "item": {
+        "type": "paragraph",
+        "id": "188c92ebf4be4c5e",
+        "text": "Participants tended to view ThreadMode as a kind of [[Speaker's Corner]]. We envisioned lots of discussion, leading to a developing document. But the ThreadMode became a loose collection of soapboxes, each speaker addressing a different public. A set of monologues rather than speakers in dialogue. This arrangement can work, but it needs a moderator to synthesize the ideas. Hard work. The moderator has to be both intrusive - not afraid of re-working specific statements - and external to the argument in order to be, um, moderate. Few want the position. Few in the local wiki community want this kind of rhetorical intervention."
+      },
+      "date": 1433861971046
+    },
+    {
+      "type": "edit",
+      "id": "b7d0e459ce349a87",
+      "item": {
+        "type": "paragraph",
+        "id": "b7d0e459ce349a87",
+        "text": "One way out of this cul de sac is to rethink thread mode with the understanding that document / dissertation pages can be placed in dialogue with one another. Demote ThreadMode and promote the larger conversation between document or dissertation pages."
+      },
+      "date": 1433861992556
+    },
+    {
+      "type": "edit",
+      "id": "ab267c8cb10f5bcf",
+      "item": {
+        "type": "html",
+        "id": "ab267c8cb10f5bcf",
+        "text": "<b>In practice ThreadMode encouraged conversation rather than invention</b> TheadMode is taken as an invitation to discussion rather than as an invitation to invention, and threads tend to show the usual patterns of discussions online - patterns that get in the way of developing invention. For instance, One-Person - One-Perspective tends to be foregrounded in threads. This is especially pronounced in students working on the wiki in that they understand their way of thinking as theirs and theirs alone and proclaim that Every Person Has A Different Opinion. The belief gets in the way of seeing patterns in the arguments, and we need patterns to get to DiscourseMode."
+      },
+      "date": 1433862205283
+    },
+    {
+      "type": "edit",
+      "id": "ab267c8cb10f5bcf",
+      "item": {
+        "type": "html",
+        "id": "ab267c8cb10f5bcf",
+        "text": "<b>In practice, ThreadMode encouraged conversation rather than invention</b> TheadMode is taken as an invitation to discussion rather than as an invitation to invention, and threads tend to show the usual patterns of discussions online - patterns that get in the way of developing invention. For instance, One-Person - One-Perspective tends to be foregrounded in threads. This is especially pronounced in students working on the wiki in that they understand their way of thinking as theirs and theirs alone and proclaim that Every Person Has A Different Opinion. The belief gets in the way of seeing patterns in the arguments, and we need patterns to get to DiscourseMode."
+      },
+      "date": 1433862212067
+    },
+    {
+      "type": "remove",
+      "id": "cca6d9e24d1474aa",
+      "date": 1433862427349
+    },
+    {
+      "type": "add",
+      "id": "3a96be34a3088e0f",
+      "item": {
+        "type": "paragraph",
+        "id": "3a96be34a3088e0f",
+        "text": "[[FedWiki Isn't Designed for "
+      },
+      "after": "d4303b5000cac3fd",
+      "date": 1433862464106
+    },
+    {
+      "type": "edit",
+      "id": "3a96be34a3088e0f",
+      "item": {
+        "type": "paragraph",
+        "id": "3a96be34a3088e0f",
+        "text": "[[FedWiki Isn't Designed for Discussion]]"
+      },
+      "date": 1433862469715
+    },
+    {
+      "type": "fork",
+      "site": "sfw.mcmorgan.org",
+      "date": 1563346799979
+    }
+  ]
+}

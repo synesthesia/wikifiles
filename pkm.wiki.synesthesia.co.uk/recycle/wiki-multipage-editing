@@ -1,0 +1,195 @@
+{
+  "title": "Wiki Multipage Editing",
+  "story": [
+    {
+      "type": "html",
+      "text": "<i>Editing more than one page at a time can be done by Federation</i> ",
+      "id": "050e9715083085322396a2e23bb0f582"
+    },
+    {
+      "type": "html",
+      "text": " See [[Federation Of Your Internet]] ",
+      "id": "08e6e2f7048b10b7bebd21499105cac3"
+    },
+    {
+      "type": "html",
+      "text": " [[Donald Noyes]].20121118",
+      "id": "1978580a9165e8095c4471f904eb0d44"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "92c596b0405db189317ca02fc1e8fdcd"
+    },
+    {
+      "type": "html",
+      "text": "Sometimes when you are editing a page in wiki, you may wish to edit a related page at the same time. This may be particularly technique when merging or extracting page information in relation to another page or pages. ",
+      "id": "4197d7741592aaa5481bd51025c85f03"
+    },
+    {
+      "type": "html",
+      "text": "\nThis is possible using a single display screen (I use a secondary screen with 1920 by 1080 resolution)  and the approach found on [[Wiki Displayed As Pages]]. The simple coding of several Iframes initially displaying pages which aggregate or search the wiki or web is the staring point. You can copy and/also use the page appearing on my web site as: [http://donaldr.noyes.com/c2/MultipleWikiPageEdits.htm donaldr.noyes.com] to begin a process allowing this. (space removed when page created later today)",
+      "id": "7f374dd6794e2f048d1fb632ae0d580f"
+    },
+    {
+      "type": "html",
+      "text": "\nThe page is meant to be self-evident in usage, but will later contain a page explaining how to use. ",
+      "id": "48e25369a51b5e4b674f95cfbfa41d67"
+    },
+    {
+      "type": "html",
+      "text": "\nOne of the advantages of multi-page editing is the ability to drag and drop directly (which accomplishes in [[Two Clicks]] a cut and paste operation otherwise requiring keyboard effort and access).",
+      "id": "b5679c41fefb24f483006e3d5234eff6"
+    },
+    {
+      "type": "html",
+      "text": " When used with a a local [[Personal Wiki Server]] and my own internet site, a private/public Wiki Experience can be had. ",
+      "id": "8503a403d308d3e6edd8da5d93996d52"
+    },
+    {
+      "type": "html",
+      "text": " On my machine I have a cloned version of [[Eddies Wiki]] which loads a group of pages which I edit privately and refactor to my taste. ",
+      "id": "d5f474d3373eb503c1845dd9bbc082de"
+    },
+    {
+      "type": "html",
+      "text": " [http://localhost:1112 localhost:1112]",
+      "id": "1069363f7e1d8bedc7e497e3ac13f56c"
+    },
+    {
+      "type": "html",
+      "text": " The beginnings of a public Federated Experience is to be found:",
+      "id": "b1a88a74fa4fdce7a4fa5bd92caa3070"
+    },
+    {
+      "type": "html",
+      "text": " [http://donaldr.noyes.com/fed/info.htm donaldr.noyes.com]",
+      "id": "2f2e91f774c799351a339575300cde89"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "92c596b0405db189317ca02fc1e8fdcd"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Organization]]",
+      "id": "1908e54aaa60302cb79e2ce4b5a0c955"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?WikiMultipageEditing c2.com]",
+      "id": "8730c57b63d03369f3eb27ac6b6cc159"
+    },
+    {
+      "type": "factory",
+      "id": "394a4f0a580e9b4f"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1360832507000,
+      "id": "b749458b72cda9473a93bbf45aedd91e",
+      "type": "create",
+      "item": {
+        "title": "Wiki Multipage Editing",
+        "story": [
+          {
+            "type": "html",
+            "text": "<i>Editing more than one page at a time can be done by Federation</i> ",
+            "id": "050e9715083085322396a2e23bb0f582"
+          },
+          {
+            "type": "html",
+            "text": " See [[Federation Of Your Internet]] ",
+            "id": "08e6e2f7048b10b7bebd21499105cac3"
+          },
+          {
+            "type": "html",
+            "text": " [[Donald Noyes]].20121118",
+            "id": "1978580a9165e8095c4471f904eb0d44"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "92c596b0405db189317ca02fc1e8fdcd"
+          },
+          {
+            "type": "html",
+            "text": "Sometimes when you are editing a page in wiki, you may wish to edit a related page at the same time. This may be particularly technique when merging or extracting page information in relation to another page or pages. ",
+            "id": "4197d7741592aaa5481bd51025c85f03"
+          },
+          {
+            "type": "html",
+            "text": "\nThis is possible using a single display screen (I use a secondary screen with 1920 by 1080 resolution)  and the approach found on [[Wiki Displayed As Pages]]. The simple coding of several Iframes initially displaying pages which aggregate or search the wiki or web is the staring point. You can copy and/also use the page appearing on my web site as: [http://donaldr.noyes.com/c2/MultipleWikiPageEdits.htm donaldr.noyes.com] to begin a process allowing this. (space removed when page created later today)",
+            "id": "7f374dd6794e2f048d1fb632ae0d580f"
+          },
+          {
+            "type": "html",
+            "text": "\nThe page is meant to be self-evident in usage, but will later contain a page explaining how to use. ",
+            "id": "48e25369a51b5e4b674f95cfbfa41d67"
+          },
+          {
+            "type": "html",
+            "text": "\nOne of the advantages of multi-page editing is the ability to drag and drop directly (which accomplishes in [[Two Clicks]] a cut and paste operation otherwise requiring keyboard effort and access).",
+            "id": "b5679c41fefb24f483006e3d5234eff6"
+          },
+          {
+            "type": "html",
+            "text": " When used with a a local [[Personal Wiki Server]] and my own internet site, a private/public Wiki Experience can be had. ",
+            "id": "8503a403d308d3e6edd8da5d93996d52"
+          },
+          {
+            "type": "html",
+            "text": " On my machine I have a cloned version of [[Eddies Wiki]] which loads a group of pages which I edit privately and refactor to my taste. ",
+            "id": "d5f474d3373eb503c1845dd9bbc082de"
+          },
+          {
+            "type": "html",
+            "text": " [http://localhost:1112 localhost:1112]",
+            "id": "1069363f7e1d8bedc7e497e3ac13f56c"
+          },
+          {
+            "type": "html",
+            "text": " The beginnings of a public Federated Experience is to be found:",
+            "id": "b1a88a74fa4fdce7a4fa5bd92caa3070"
+          },
+          {
+            "type": "html",
+            "text": " [http://donaldr.noyes.com/fed/info.htm donaldr.noyes.com]",
+            "id": "2f2e91f774c799351a339575300cde89"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "92c596b0405db189317ca02fc1e8fdcd"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Organization]]",
+            "id": "1908e54aaa60302cb79e2ce4b5a0c955"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?WikiMultipageEditing c2.com]",
+            "id": "8730c57b63d03369f3eb27ac6b6cc159"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fork",
+      "site": "wiki.sfw.c2.com"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "394a4f0a580e9b4f"
+      },
+      "id": "394a4f0a580e9b4f",
+      "type": "add",
+      "after": "8730c57b63d03369f3eb27ac6b6cc159",
+      "date": 1563347156701
+    }
+  ]
+}

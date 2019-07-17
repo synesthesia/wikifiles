@@ -1,0 +1,405 @@
+{
+  "title": "Rethinking Composing in FedWiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "448b81cee5b1fbdc",
+      "text": "FedWiki doesn't work the same way the traditional wiki works, and works even less like paper than traditional wikis."
+    },
+    {
+      "type": "paragraph",
+      "id": "4aa4fc597165896d",
+      "text": "We can take the opportunity to re-think out composing techniques in light of the changed rhetoric of FedWiki. Thread Mode and Document Mode might be ready to retire. Dialogue Mode really needs rethinking. Dialectic Mode - as the play of oppositions - might be less of a thing."
+    },
+    {
+      "type": "paragraph",
+      "id": "c086a2d6c4937686",
+      "text": "Years of watching thread mode discussions go on at Weblogs and Wikis [http://erhetoric.org/WeblogsAndWikis/wikka.php?wakka=HomePage traditional wiki] and the advent of FedWiki as a distributed system has encouraged me to re-think the old ThreadMode into DocumentMode pattern of composing. ThreadMode is an inventional technique - a way of locating and trying out the ways that an idea might be constructed and a document composed. But documents don't get composed; contributors stay in thread mode. The reasons are complex, I'm sure, but little moves forward in thread mode."
+    },
+    {
+      "type": "paragraph",
+      "id": "d1dba1dd8f2be3e6",
+      "text": "We need a document to move forward. Once a document - a dissertation - starts to gel, we then have a place to anchor stubs, which lead to other perspectives, ideologies, compositions."
+    },
+    {
+      "type": "paragraph",
+      "id": "64fa150b95f28ca7",
+      "text": "The traditional commons-based wiki allows contributors to stay in thread mode with the trust or hope that someone will come along and refactor."
+    },
+    {
+      "type": "paragraph",
+      "id": "98adda9ff1c64d59",
+      "text": "But because each contributor owns her own iteration of the fedwiki, she - each of us - is responsible for her own refactoring - her own development of the argument, her own dissertation, which lives with her. A set of notes won't do in this case. For a page to become part of the linked federation, the [[Chorus of Voices]] (an idea forwarded by Ward and now picked up by the community), it will need to be discursive. Or, put better, those pages that become part of the community will be discursive rather than threads."
+    },
+    {
+      "type": "paragraph",
+      "id": "9a1fa8b663f93f42",
+      "text": "Because of the radical differences with the commons-based wiki, we can - maybe need - to set aside the Commonplaces of composing, patterns, methods as we have seen them develop. No loss: they work on the commons -although I'm thinking that a new iteration is going to work better. But it's with this differentness in mind that I'm setting aside the old stuff."
+    },
+    {
+      "type": "paragraph",
+      "id": "713c355bfcd7fbce",
+      "text": "The real vision of the wiki comes forward when we can constellate these various dissertations. Rather than embedding a set of possible ideas and arguments in a single page along a thread, we can, with documents, create webs."
+    },
+    {
+      "type": "paragraph",
+      "id": "52ca3ff6a01cf947",
+      "text": "So watch for distinctions such as [[Dialectic Mode]], which points to imports from c2 and elsewhere, vs pages specifying FedWiki: [[Dialectic Mode in FedWiki]], which rethinks dialectics in the new context."
+    },
+    {
+      "type": "paragraph",
+      "id": "5446f197afb709be",
+      "text": "[http://sfw.mcmorgan.org/view/welcome-visitors/view/composing-and-editing-in-federated-wiki/view/composing-on-fedwiki-m-c-morgan/wiki.sfw.c2.com/dialectic-mode Dialectic Mode]"
+    },
+    {
+      "type": "paragraph",
+      "id": "57fa6c3f68024e11",
+      "text": "A note on attribution: When I first linked in [[Chorus of Voices]], I had Ward's original posting in mind, and named Ward as the writer of the idea. But when I searched for the page, I found others who contributed to the original. I could fork any of them. I forked one with a link to [[Advanced Work]]. Which source? is a new choice writers will need to make in FedWiki."
+    },
+    {
+      "id": "1fe1291cf4c9213f",
+      "type": "reference",
+      "site": "kate.au.fedwikihappening.net",
+      "slug": "chorus-of-voices",
+      "title": "Chorus of Voices",
+      "text": "Four distinct concerns surface when designing federated wiki based information communities. We identify each and suggest forces that must be resolved before creative collaboration will take place."
+    },
+    {
+      "type": "paragraph",
+      "id": "72989099f2765fce",
+      "text": "[[Rethinking ThreadMode]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "eedc8c9adc286c5e",
+      "text": "[[Rethinking DocumentMode]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Rethinking Composing in FedWiki",
+        "story": []
+      },
+      "date": 1433775944321
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "448b81cee5b1fbdc",
+        "text": "FedWiki doesn't work the same way the traditional wiki works, and works even less like paper than traditional wikis."
+      },
+      "id": "448b81cee5b1fbdc",
+      "date": 1433775993779
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "4aa4fc597165896d",
+        "text": "We can take the opportunity to re-think out composing techniques in light of the changed rhetoric of FedWiki. Thread Mode and Document Mode might be ready to retire. Dialogue Mode really needs rethinking. Dialectic Mode - as the play of oppositions - might be less of a thing."
+      },
+      "after": "448b81cee5b1fbdc",
+      "id": "4aa4fc597165896d",
+      "date": 1433776000040
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c086a2d6c4937686",
+        "text": "Years of watching thread mode discussions go on at Weblogs and Wikis [http://erhetoric.org/WeblogsAndWikis/wikka.php?wakka=HomePage traditional wiki] and the advent of FedWiki as a distributed system has encouraged me to re-think the old ThreadMode into DocumentMode pattern of composing. ThreadMode is an inventional technique - a way of locating and trying out the ways that an idea might be constructed and a document composed. But documents don't get composed; contributors stay in thread mode. The reasons are complex, I'm sure, but little moves forward in thread mode."
+      },
+      "after": "4aa4fc597165896d",
+      "id": "c086a2d6c4937686",
+      "date": 1433776002638
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d1dba1dd8f2be3e6",
+        "text": "We need a document to move forward. Once a document - a dissertation - starts to gel, we then have a place to anchor stubs, which lead to other perspectives, ideologies, compositions."
+      },
+      "after": "c086a2d6c4937686",
+      "id": "d1dba1dd8f2be3e6",
+      "date": 1433776005294
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "64fa150b95f28ca7",
+        "text": "The traditional commons-based wiki allows contributors to stay in thread mode with the trust or hope that someone will come along and refactor."
+      },
+      "after": "d1dba1dd8f2be3e6",
+      "id": "64fa150b95f28ca7",
+      "date": 1433776008409
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "98adda9ff1c64d59",
+        "text": "But because each contributor owns her own iteration of the fedwiki, she - each - is responsible for her own refactoring - her own development of the argument, her own dissertation, which lives with her. A set of notes won't do in this case. For a page to become part of the linked federation, the [[Chorus of Voices]] (an idea forwarded by Ward and now picked up by the community), it will need to be discursive. Or, put better, those pages that become part of the community will be discursive rather than threads."
+      },
+      "after": "64fa150b95f28ca7",
+      "id": "98adda9ff1c64d59",
+      "date": 1433776011649
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "713c355bfcd7fbce",
+        "text": "The real vision of the wiki comes forward when we can constellate these various dissertations. Rather than embedding a set of possible ideas and arguments in a single page along a thread, we can, with documents, create webs."
+      },
+      "after": "98adda9ff1c64d59",
+      "id": "713c355bfcd7fbce",
+      "date": 1433776014697
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "9a1fa8b663f93f42",
+        "text": "Because of the radical differences with the commons-based wiki, we can - maybe need - to set aside the Commonplaces of composing, patterns, methods as we have seen them develop. No loss: they work on the commons -although I'm thinking that a new iteration is going to work better. But it's with this differentness in mind that I'm setting aside the old stuff."
+      },
+      "after": "98adda9ff1c64d59",
+      "id": "9a1fa8b663f93f42",
+      "date": 1433776020210
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "52ca3ff6a01cf947",
+        "text": "So watch for distinctions such as [[Dialectic Mode]], which points to imports from c2 and elsewhere, vs [[Dialectic Mode in FedWiki]], which rethinks dialectics in the new context."
+      },
+      "after": "713c355bfcd7fbce",
+      "id": "52ca3ff6a01cf947",
+      "date": 1433776028238
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "5446f197afb709be",
+        "text": "[http://sfw.mcmorgan.org/view/welcome-visitors/view/composing-and-editing-in-federated-wiki/view/composing-on-fedwiki-m-c-morgan/wiki.sfw.c2.com/dialectic-mode Dialectic Mode]"
+      },
+      "after": "52ca3ff6a01cf947",
+      "id": "5446f197afb709be",
+      "date": 1433776034342
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "57fa6c3f68024e11",
+        "text": "A note on attribution: When I first linked in [[Chorus of Voices]], I had Ward's original posting in mind, and named Ward as the writer of the idea. But when I searched for the page, I found others who contributed to the original. I could fork any of them. I forked one with a link to [[Advanced Work]]."
+      },
+      "after": "5446f197afb709be",
+      "id": "57fa6c3f68024e11",
+      "date": 1433776039228
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "1fe1291cf4c9213f",
+        "type": "reference",
+        "site": "kate.au.fedwikihappening.net",
+        "slug": "chorus-of-voices",
+        "title": "Chorus of Voices",
+        "text": "Four distinct concerns surface when designing federated wiki based information communities. We identify each and suggest forces that must be resolved before creative collaboration will take place."
+      },
+      "after": "713c355bfcd7fbce",
+      "id": "1fe1291cf4c9213f",
+      "date": 1433776051811
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "eedc8c9adc286c5e",
+        "text": "[[Rethinking DocumentMode]]"
+      },
+      "after": "57fa6c3f68024e11",
+      "id": "eedc8c9adc286c5e",
+      "date": 1433776061915
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "72989099f2765fce",
+        "text": "[[Rethinking ThreadMode]]"
+      },
+      "after": "57fa6c3f68024e11",
+      "id": "72989099f2765fce",
+      "date": 1433776066538
+    },
+    {
+      "type": "edit",
+      "id": "52ca3ff6a01cf947",
+      "item": {
+        "type": "paragraph",
+        "id": "52ca3ff6a01cf947",
+        "text": "So watch for distinctions such as [[Dialectic Mode]], which points to imports from c2 and elsewhere, vs pages specifying FedWiki: [[Dialectic Mode in FedWiki]], which rethinks dialectics in the new context."
+      },
+      "date": 1433776155257
+    },
+    {
+      "type": "move",
+      "order": [
+        "448b81cee5b1fbdc",
+        "4aa4fc597165896d",
+        "c086a2d6c4937686",
+        "d1dba1dd8f2be3e6",
+        "64fa150b95f28ca7",
+        "98adda9ff1c64d59",
+        "9a1fa8b663f93f42",
+        "713c355bfcd7fbce",
+        "52ca3ff6a01cf947",
+        "5446f197afb709be",
+        "1fe1291cf4c9213f",
+        "57fa6c3f68024e11",
+        "72989099f2765fce",
+        "eedc8c9adc286c5e"
+      ],
+      "id": "1fe1291cf4c9213f",
+      "date": 1433776159912
+    },
+    {
+      "type": "move",
+      "order": [
+        "448b81cee5b1fbdc",
+        "4aa4fc597165896d",
+        "c086a2d6c4937686",
+        "d1dba1dd8f2be3e6",
+        "64fa150b95f28ca7",
+        "98adda9ff1c64d59",
+        "9a1fa8b663f93f42",
+        "713c355bfcd7fbce",
+        "52ca3ff6a01cf947",
+        "5446f197afb709be",
+        "57fa6c3f68024e11",
+        "1fe1291cf4c9213f",
+        "72989099f2765fce",
+        "eedc8c9adc286c5e"
+      ],
+      "id": "1fe1291cf4c9213f",
+      "date": 1433776166448
+    },
+    {
+      "type": "edit",
+      "id": "57fa6c3f68024e11",
+      "item": {
+        "type": "paragraph",
+        "id": "57fa6c3f68024e11",
+        "text": "A note on attribution: When I first linked in [[Chorus of Voices]], I had Ward's original posting in mind, and named Ward as the writer of the idea. But when I searched for the page, I found others who contributed to the original. I could fork any of them. I forked one with a link to [[Advanced Work]]. Which source? is a new choice writers will need to make in FedWiki."
+      },
+      "date": 1433776215951
+    },
+    {
+      "type": "move",
+      "order": [
+        "448b81cee5b1fbdc",
+        "c086a2d6c4937686",
+        "4aa4fc597165896d",
+        "d1dba1dd8f2be3e6",
+        "64fa150b95f28ca7",
+        "98adda9ff1c64d59",
+        "9a1fa8b663f93f42",
+        "713c355bfcd7fbce",
+        "52ca3ff6a01cf947",
+        "5446f197afb709be",
+        "57fa6c3f68024e11",
+        "1fe1291cf4c9213f",
+        "72989099f2765fce",
+        "eedc8c9adc286c5e"
+      ],
+      "id": "4aa4fc597165896d",
+      "date": 1433776967866
+    },
+    {
+      "type": "move",
+      "order": [
+        "448b81cee5b1fbdc",
+        "4aa4fc597165896d",
+        "c086a2d6c4937686",
+        "d1dba1dd8f2be3e6",
+        "64fa150b95f28ca7",
+        "98adda9ff1c64d59",
+        "9a1fa8b663f93f42",
+        "713c355bfcd7fbce",
+        "52ca3ff6a01cf947",
+        "5446f197afb709be",
+        "57fa6c3f68024e11",
+        "1fe1291cf4c9213f",
+        "72989099f2765fce",
+        "eedc8c9adc286c5e"
+      ],
+      "id": "c086a2d6c4937686",
+      "date": 1433776971747
+    },
+    {
+      "type": "move",
+      "order": [
+        "448b81cee5b1fbdc",
+        "4aa4fc597165896d",
+        "c086a2d6c4937686",
+        "d1dba1dd8f2be3e6",
+        "64fa150b95f28ca7",
+        "9a1fa8b663f93f42",
+        "98adda9ff1c64d59",
+        "713c355bfcd7fbce",
+        "52ca3ff6a01cf947",
+        "5446f197afb709be",
+        "57fa6c3f68024e11",
+        "1fe1291cf4c9213f",
+        "72989099f2765fce",
+        "eedc8c9adc286c5e"
+      ],
+      "id": "98adda9ff1c64d59",
+      "date": 1433777265171
+    },
+    {
+      "type": "move",
+      "order": [
+        "448b81cee5b1fbdc",
+        "4aa4fc597165896d",
+        "c086a2d6c4937686",
+        "d1dba1dd8f2be3e6",
+        "64fa150b95f28ca7",
+        "98adda9ff1c64d59",
+        "9a1fa8b663f93f42",
+        "713c355bfcd7fbce",
+        "52ca3ff6a01cf947",
+        "5446f197afb709be",
+        "57fa6c3f68024e11",
+        "1fe1291cf4c9213f",
+        "72989099f2765fce",
+        "eedc8c9adc286c5e"
+      ],
+      "id": "98adda9ff1c64d59",
+      "date": 1433777267566
+    },
+    {
+      "type": "edit",
+      "id": "98adda9ff1c64d59",
+      "item": {
+        "type": "paragraph",
+        "id": "98adda9ff1c64d59",
+        "text": "But because each contributor owns her own iteration of the fedwiki, she - each of us - is responsible for her own refactoring - her own development of the argument, her own dissertation, which lives with her. A set of notes won't do in this case. For a page to become part of the linked federation, the [[Chorus of Voices]] (an idea forwarded by Ward and now picked up by the community), it will need to be discursive. Or, put better, those pages that become part of the community will be discursive rather than threads."
+      },
+      "date": 1433777346723
+    },
+    {
+      "type": "fork",
+      "site": "sfw.mcmorgan.org",
+      "date": 1563346782098
+    }
+  ]
+}

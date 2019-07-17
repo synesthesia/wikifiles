@@ -1,0 +1,619 @@
+{
+  "title": "Dissertation Over Discourse in FedWiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9056f9523e683c8c",
+      "text": "Remixed from  [http://maha.uk.fedwikihappening.net/view/welcome-visitors/view/dissertation-over-discourse Dissertation Over Discourse here]."
+    },
+    {
+      "type": "paragraph",
+      "text": "A play on words. Hospitality Rules.",
+      "id": "7163dfb0cb11535fdb1d9c819dae14a3"
+    },
+    {
+      "type": "html",
+      "id": "42d91064ed4184d6",
+      "text": "<i>9 Jun 2015 Edited to move links away from c2 sources and towards new consideration of discourse on FedWiki</i>."
+    },
+    {
+      "type": "paragraph",
+      "id": "f639a407b6b33f7e",
+      "text": "This idea has its origins in the wiki patterns of ThreadMode and DocumentMode created for work on c2 and promulgated throughout the wiki world. This is FedWiki and it's time for a rethink."
+    },
+    {
+      "type": "html",
+      "text": "<b>Dissertation</b>: a unified presentation of ideas, as if from a single mind although joint authorship accepted and encouraged, in which arguments are made, information presented, instructions or advice given, etc., with concomitant assumption of authority over the chosen subject matter. Dissertation is influenced by earlier ideas of [[Document Mode]] as developed on c2. The sense of things are that because Document Mode implies a linear argument that it encourages linear thinking. It doesn't do either. Nor does it have to be written in a monologic register. A dissertation can be written to develop polyvocal rhizomatic arguments.",
+      "id": "0db3af711f7e576e8da0a161b7ebc12c"
+    },
+    {
+      "type": "html",
+      "text": "<b>Discourse</b>: a multi-part exchange of ideas, information, advice, admitting questions and answers, in which two or more distinct minds interact in order to explore subject matter jointly, where authority is not an essential ingredient but when present is usually distributed and often conflicting. This conception of discourse is influenced by earlier ideas of [[Thread Mode]] on c2. Discourse is claimed to encourage recursivity, exploration, inclusiveness, but is typically a rehearsal of ideas that need further work and consideration. Lines of arguments are more commonplace than we like to think.",
+      "id": "52506133ab63fb24d7846c77a02eef6e"
+    },
+    {
+      "type": "html",
+      "id": "c062bc84d8bf2835",
+      "text": "<b>Well-composed dissertation pages create starting points for further consideration, and provide content for that consideration.</b> On FedWiki, those points can be indicated using stubs. Linked dissertation pages can be used to create an ever-widening [[Radical Discourse]] that Thread Mode discussion doesn't."
+    },
+    {
+      "type": "paragraph",
+      "text": "On FedWiki, dissertation is generally more highly valued than discourse because it is more useful. Discourse might be seen as a means to achieve the more preferred end of dissertation. But dissertation establishes a page as a point to depart from and link to, a node in a larger discourse that can be developed, built on, rethought, revised. It becomes a social artifact - something for the wiki community to work with.",
+      "id": "d3dd5cfa9897b4769db910220aed2b98"
+    },
+    {
+      "type": "html",
+      "id": "1e1717e5d1aad0be",
+      "text": "[[Alan Levine]] describes the Fedwiki as a set of index cards. That might lead one to see each wiki page as a card for discourse and discussion. But index cards are not discussions: no room! They are tightly focused so to be useful in creating a larger work. Working with cards means weaving the warp and weft of the arguments. <b>This process of weaving is a kind of dialogue but the product is a dissertative tapestry</b>. The degree of granularity is important."
+    },
+    {
+      "type": "paragraph",
+      "id": "fbe46ae3816cced6",
+      "text": "If you prefer, imagine the cards as tiles in a mosaic. If you prefer, pretend you're Marshal McLuhen composing The Gutenberg Galaxy as the mosaic it is usually read as. [https://books.google.com/books?id=e3YoAgAAQBAJ&pg=PA45&lpg=PA45&dq=gutenberg+galaxy+mosaic&source=bl&ots=o6OVhvMp-T&sig=QzYn_6CEJ2_x4tRSgkgF6vBamO0&hl=en&sa=X&ei=HDB3Ver8BK3lsAS1-YHYAQ&ved=0CFwQ6AEwDw#v=onepage&q=gutenberg%20galaxy%20mosaic&f=false Digital Modernism: Making It New in New Media]"
+    },
+    {
+      "type": "reference",
+      "id": "0f8807c6022f3301",
+      "site": "sfw.mcmorgan.org",
+      "slug": "radical-discourse",
+      "title": "Radical Discourse",
+      "text": "What we might have given up in [[Rethinking ThreadMode]] and [[Rethinking DocumentMode]] we regain in [[Radical Discourse]]. The idea is that when dissertation pages are linked up, constellated, we create the larger, multi-voiced discourse. "
+    },
+    {
+      "type": "factory",
+      "id": "0c5a9b0bb4d0aadb"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Dissertation Over Discourse in FedWiki",
+        "story": []
+      },
+      "date": 1433872227914
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f639a407b6b33f7e",
+        "text": "This idea has its origins in the wiki patterns of [[ThreadMode]] and [[DocumentMode]]."
+      },
+      "id": "f639a407b6b33f7e",
+      "type": "add",
+      "date": 1433872229969
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "text": "A play on words. Hospitality Rules.",
+        "id": "7163dfb0cb11535fdb1d9c819dae14a3"
+      },
+      "id": "7163dfb0cb11535fdb1d9c819dae14a3",
+      "date": 1433872243548
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "42d91064ed4184d6",
+        "text": "<i>9 Jun 2015 Edited to move links away from c2 sources and towards new consideration of discourse on FedWiki</i>."
+      },
+      "after": "7163dfb0cb11535fdb1d9c819dae14a3",
+      "id": "42d91064ed4184d6",
+      "date": 1433872250488
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "text": "<b>Dissertation</b>: a unified presentation of ideas, as if from a single mind although joint authorship accepted and encouraged, in which arguments are made, information presented, instructions or advice given, etc., with concomitant assumption of authority over the chosen subject matter. Dissertation is influenced by earlier ideas of [[Document Mode]] as developed on c2. Encourages linear thinking? It doesn't have to.\n",
+        "id": "0db3af711f7e576e8da0a161b7ebc12c"
+      },
+      "after": "42d91064ed4184d6",
+      "id": "0db3af711f7e576e8da0a161b7ebc12c",
+      "date": 1433872264382
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "text": "<b>Discourse</b>: a multi-part exchange of ideas, information, advice, admitting questions and answers, in which two or more distinct minds interact in order to explore subject matter jointly, where authority is not an essential ingredient but when present is usually distributed and often conflicting. This conception of discourse is influenced by earlier ideas of [[Thread Mode]] on c2. Encourages recursivity and can be unpredictable but typically is a rehearsal of ideas that need work. ",
+        "id": "52506133ab63fb24d7846c77a02eef6e"
+      },
+      "after": "0db3af711f7e576e8da0a161b7ebc12c",
+      "id": "52506133ab63fb24d7846c77a02eef6e",
+      "date": 1433872267059
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "c062bc84d8bf2835",
+        "text": "<b>Well-composed dissertation pages create starting points for further consideration, and provide content for that consideration.</b> On FedWiki, those points can be indicated using stubs. Linked dissertation pages can be used to create an ever-widening [[Radical Discourse]] that [[Thread Mode]] discussion doesn't."
+      },
+      "after": "52506133ab63fb24d7846c77a02eef6e",
+      "id": "c062bc84d8bf2835",
+      "date": 1433872270468
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "text": "On FedWiki, dissertation is generally more highly valued than discourse because it is more readable. Discourse is seen by some as a means to achieve the more preferred end of dissertation. But dissertation establishes a page as a point to depart from and link to, a node in a larger discourse that can be developed, built on, rethought, revised. A well-wrought dissertation page will function as Adorno envisions it. ",
+        "id": "d3dd5cfa9897b4769db910220aed2b98"
+      },
+      "after": "c062bc84d8bf2835",
+      "id": "d3dd5cfa9897b4769db910220aed2b98",
+      "date": 1433872276285
+    },
+    {
+      "type": "edit",
+      "id": "f639a407b6b33f7e",
+      "item": {
+        "type": "paragraph",
+        "id": "f639a407b6b33f7e",
+        "text": "This idea has its origins in the wiki patterns of [[ThreadMode]] and [[DocumentMode]]."
+      },
+      "date": 1433872360343
+    },
+    {
+      "type": "move",
+      "order": [
+        "7163dfb0cb11535fdb1d9c819dae14a3",
+        "42d91064ed4184d6",
+        "f639a407b6b33f7e",
+        "0db3af711f7e576e8da0a161b7ebc12c",
+        "52506133ab63fb24d7846c77a02eef6e",
+        "c062bc84d8bf2835",
+        "d3dd5cfa9897b4769db910220aed2b98",
+        "8769009b221fdd6f"
+      ],
+      "id": "f639a407b6b33f7e",
+      "date": 1433872363179,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1433872368907
+    },
+    {
+      "type": "edit",
+      "id": "f639a407b6b33f7e",
+      "item": {
+        "type": "paragraph",
+        "id": "f639a407b6b33f7e",
+        "text": "This idea has its origins in the wiki patterns of ThreadMode and DocumentMode."
+      },
+      "date": 1433872378995
+    },
+    {
+      "type": "add",
+      "id": "9056f9523e683c8c",
+      "item": {
+        "type": "paragraph",
+        "id": "9056f9523e683c8c",
+        "text": "Remixed from content "
+      },
+      "after": "7163dfb0cb11535fdb1d9c819dae14a3",
+      "date": 1433872697722
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1aafa19a41a12eea"
+      },
+      "id": "1aafa19a41a12eea",
+      "type": "add",
+      "after": "d3dd5cfa9897b4769db910220aed2b98",
+      "date": 1433872727503
+    },
+    {
+      "type": "edit",
+      "id": "1aafa19a41a12eea",
+      "item": {
+        "type": "reference",
+        "id": "1aafa19a41a12eea",
+        "site": "maha.uk.fedwikihappening.net",
+        "slug": "dissertation-over-discourse",
+        "title": "Dissertation Over Discourse",
+        "text": "A play on words meaning, of course, that [[Document Mode]] is more important than [[Thread Mode]] but suggesting also to put [[Summaries On Top Discussion Below]]."
+      },
+      "date": 1433872730440
+    },
+    {
+      "type": "move",
+      "order": [
+        "7163dfb0cb11535fdb1d9c819dae14a3",
+        "1aafa19a41a12eea",
+        "9056f9523e683c8c",
+        "42d91064ed4184d6",
+        "f639a407b6b33f7e",
+        "0db3af711f7e576e8da0a161b7ebc12c",
+        "52506133ab63fb24d7846c77a02eef6e",
+        "c062bc84d8bf2835",
+        "d3dd5cfa9897b4769db910220aed2b98"
+      ],
+      "id": "1aafa19a41a12eea",
+      "date": 1433872735838
+    },
+    {
+      "type": "edit",
+      "id": "9056f9523e683c8c",
+      "item": {
+        "type": "paragraph",
+        "id": "9056f9523e683c8c",
+        "text": "Remixed from  [http://maha.uk.fedwikihappening.net/view/welcome-visitors/view/dissertation-over-discourse Dissertation Over Discourse here]."
+      },
+      "date": 1433872807207
+    },
+    {
+      "type": "remove",
+      "id": "1aafa19a41a12eea",
+      "date": 1433872825950
+    },
+    {
+      "type": "move",
+      "order": [
+        "9056f9523e683c8c",
+        "7163dfb0cb11535fdb1d9c819dae14a3",
+        "42d91064ed4184d6",
+        "f639a407b6b33f7e",
+        "0db3af711f7e576e8da0a161b7ebc12c",
+        "52506133ab63fb24d7846c77a02eef6e",
+        "c062bc84d8bf2835",
+        "d3dd5cfa9897b4769db910220aed2b98"
+      ],
+      "id": "9056f9523e683c8c",
+      "date": 1433872829057
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fbe46ae3816cced6"
+      },
+      "id": "fbe46ae3816cced6",
+      "type": "add",
+      "after": "d3dd5cfa9897b4769db910220aed2b98",
+      "date": 1433873182187
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "1e1717e5d1aad0be",
+        "text": "[[Alan Levine]] describes the Fedwiki as a set of index cards. That might lead one to think in terms of dissertation, but the way index cards work tends to involve an interaction between cards as the warp and weft of the arguments is woven together. <b>This process of weaving is a kind of dialogue but the product is a dissertative tapestry</b>. The degree of granularity is important. [[Radical Discourse]]"
+      },
+      "after": "d3dd5cfa9897b4769db910220aed2b98",
+      "id": "1e1717e5d1aad0be",
+      "date": 1433873185224
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "0f8807c6022f3301",
+        "site": "sfw.mcmorgan.org",
+        "slug": "radical-discourse",
+        "title": "Radical Discourse",
+        "text": "What we might have given up in [[Rethinking ThreadMode]] and [[Rethinking DocumentMode]] we regain in [[Radical Discourse]]. The idea is that when dissertation pages are linked up, constellated, we create the larger, multi-voiced discourse. "
+      },
+      "after": "1e1717e5d1aad0be",
+      "id": "0f8807c6022f3301",
+      "date": 1433873192513
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "text": "Over the course of time dialog has often been exchanged for \"discourse\" when referring to this now famous quote. It will be worth the reader's time and effort to read the full quote in context. Because the dictionary definitions of these terms fail to make a clear distinction between the two, the following definitions are humbly offered for purposes of [[FedWiki On FedWiki]] discussion:",
+        "id": "b9f1ba0a2993e43ff3420b636ed9058b"
+      },
+      "after": "9056f9523e683c8c",
+      "id": "b9f1ba0a2993e43ff3420b636ed9058b",
+      "date": 1433873208240
+    },
+    {
+      "type": "remove",
+      "id": "b9f1ba0a2993e43ff3420b636ed9058b",
+      "date": 1433873225025
+    },
+    {
+      "type": "edit",
+      "id": "f639a407b6b33f7e",
+      "item": {
+        "type": "paragraph",
+        "id": "f639a407b6b33f7e",
+        "text": "This idea has its origins in the wiki patterns of ThreadMode and DocumentMode created for work on c2 and promulgated throughout the wiki world. "
+      },
+      "date": 1433873354296
+    },
+    {
+      "type": "edit",
+      "id": "f639a407b6b33f7e",
+      "item": {
+        "type": "paragraph",
+        "id": "f639a407b6b33f7e",
+        "text": "This idea has its origins in the wiki patterns of ThreadMode and DocumentMode created for work on c2 and promulgated throughout the wiki world. This is FedWiki and it's time for a rethink."
+      },
+      "date": 1433873388352
+    },
+    {
+      "type": "edit",
+      "id": "0db3af711f7e576e8da0a161b7ebc12c",
+      "item": {
+        "type": "html",
+        "text": "<b>Dissertation</b>: a unified presentation of ideas, as if from a single mind although joint authorship accepted and encouraged, in which arguments are made, information presented, instructions or advice given, etc., with concomitant assumption of authority over the chosen subject matter. Dissertation is influenced by earlier ideas of [[Document Mode]] as developed on c2. The sense of things are that Document Mode implies a linear argument that it encourages linear thinking. It doesn't do either, and can certainly be written to develop rhizomatic arguments ",
+        "id": "0db3af711f7e576e8da0a161b7ebc12c"
+      },
+      "date": 1433873554793
+    },
+    {
+      "type": "edit",
+      "id": "0db3af711f7e576e8da0a161b7ebc12c",
+      "item": {
+        "type": "html",
+        "text": "<b>Dissertation</b>: a unified presentation of ideas, as if from a single mind although joint authorship accepted and encouraged, in which arguments are made, information presented, instructions or advice given, etc., with concomitant assumption of authority over the chosen subject matter. Dissertation is influenced by earlier ideas of [[Document Mode]] as developed on c2. The sense of things are that Document Mode implies a linear argument that it encourages linear thinking. It doesn't do either, and can certainly be written to develop rhizomatic arguments.",
+        "id": "0db3af711f7e576e8da0a161b7ebc12c"
+      },
+      "date": 1433873565677
+    },
+    {
+      "type": "edit",
+      "id": "0db3af711f7e576e8da0a161b7ebc12c",
+      "item": {
+        "type": "html",
+        "text": "<b>Dissertation</b>: a unified presentation of ideas, as if from a single mind although joint authorship accepted and encouraged, in which arguments are made, information presented, instructions or advice given, etc., with concomitant assumption of authority over the chosen subject matter. Dissertation is influenced by earlier ideas of [[Document Mode]] as developed on c2. The sense of things are that because Document Mode implies a linear argument that it encourages linear thinking. It doesn't do either. Nor does it have to be written in a monologic register. A dissertation can be written to develop polyvocal rhizomatic arguments.",
+        "id": "0db3af711f7e576e8da0a161b7ebc12c"
+      },
+      "date": 1433873696964
+    },
+    {
+      "type": "edit",
+      "id": "52506133ab63fb24d7846c77a02eef6e",
+      "item": {
+        "type": "html",
+        "text": "<b>Discourse</b>: a multi-part exchange of ideas, information, advice, admitting questions and answers, in which two or more distinct minds interact in order to explore subject matter jointly, where authority is not an essential ingredient but when present is usually distributed and often conflicting. This conception of discourse is influenced by earlier ideas of [[Thread Mode]] on c2. Discourse is claimed to encourage recursivity, exploration, inclusiveness, but is typically a rehearsal of ideas that need further work and consideration. Minds aren't that distinct, arguments are more commonplace than we like to think.",
+        "id": "52506133ab63fb24d7846c77a02eef6e"
+      },
+      "date": 1433873878507
+    },
+    {
+      "type": "edit",
+      "id": "c062bc84d8bf2835",
+      "item": {
+        "type": "html",
+        "id": "c062bc84d8bf2835",
+        "text": "<b>Well-composed dissertation pages create starting points for further consideration, and provide content for that consideration.</b> On FedWiki, those points can be indicated using stubs. Linked dissertation pages can be used to create an ever-widening [[Radical Discourse]] that Thread Mode discussion doesn't."
+      },
+      "date": 1433873906351
+    },
+    {
+      "type": "edit",
+      "id": "52506133ab63fb24d7846c77a02eef6e",
+      "item": {
+        "type": "html",
+        "text": "<b>Discourse</b>: a multi-part exchange of ideas, information, advice, admitting questions and answers, in which two or more distinct minds interact in order to explore subject matter jointly, where authority is not an essential ingredient but when present is usually distributed and often conflicting. This conception of discourse is influenced by earlier ideas of [[Thread Mode]] on c2. Discourse is claimed to encourage recursivity, exploration, inclusiveness, but is typically a rehearsal of ideas that need further work and consideration. Lines of arguments are more commonplace than we like to think.",
+        "id": "52506133ab63fb24d7846c77a02eef6e"
+      },
+      "date": 1433873937885
+    },
+    {
+      "type": "edit",
+      "id": "d3dd5cfa9897b4769db910220aed2b98",
+      "item": {
+        "type": "paragraph",
+        "text": "On FedWiki, dissertation is generally more highly valued than discourse because it is more useful. Discourse might be seen as a means to achieve the more preferred end of dissertation. But dissertation establishes a page as a point to depart from and link to, a node in a larger discourse that can be developed, built on, rethought, revised. A well-wrought dissertation page will function as Adorno envisions it. ",
+        "id": "d3dd5cfa9897b4769db910220aed2b98"
+      },
+      "date": 1433873985462
+    },
+    {
+      "type": "edit",
+      "id": "d3dd5cfa9897b4769db910220aed2b98",
+      "item": {
+        "type": "paragraph",
+        "text": "On FedWiki, dissertation is generally more highly valued than discourse because it is more useful. Discourse might be seen as a means to achieve the more preferred end of dissertation. But dissertation establishes a page as a point to depart from and link to, a node in a larger discourse that can be developed, built on, rethought, revised. It becomes a social artifact - something for the wiki community to work with.",
+        "id": "d3dd5cfa9897b4769db910220aed2b98"
+      },
+      "date": 1433874047904
+    },
+    {
+      "type": "edit",
+      "id": "1e1717e5d1aad0be",
+      "item": {
+        "type": "html",
+        "id": "1e1717e5d1aad0be",
+        "text": "[[Alan Levine]] describes the Fedwiki as a set of index cards. That might lead one to think in terms of discourse and discussion, but the way index cards work tends to involve an interaction between cards as the warp and weft of the arguments is woven together. <b>This process of weaving is a kind of dialogue but the product is a dissertative tapestry</b>. The degree of granularity is important. [[Radical Discourse]]"
+      },
+      "date": 1433874085542
+    },
+    {
+      "type": "edit",
+      "id": "1e1717e5d1aad0be",
+      "item": {
+        "type": "html",
+        "id": "1e1717e5d1aad0be",
+        "text": "[[Alan Levine]] describes the Fedwiki as a set of index cards. That might lead one to favor discourse and discussion. But the way index cards work tends to involve an interaction between cards as the warp and weft of the arguments is woven together. <b>This process of weaving is a kind of dialogue but the product is a dissertative tapestry</b>. The degree of granularity is important. [[Radical Discourse]]"
+      },
+      "date": 1433874123443
+    },
+    {
+      "type": "edit",
+      "id": "1e1717e5d1aad0be",
+      "item": {
+        "type": "html",
+        "id": "1e1717e5d1aad0be",
+        "text": "[[Alan Levine]] describes the Fedwiki as a set of index cards. That might lead one to see each wiki page as a card for discourse and discussion. But index cards are not discussions: no room! They are tightly focused so to be useful in creating a larger work. Working with cards means weaving the warp and weft of the arguments. <b>This process of weaving is a kind of dialogue but the product is a dissertative tapestry</b>. The degree of granularity is important. [[Radical Discourse]]\n\nIf you prefer, imagine the cards as tiles in a mosaic. If you prefer, pretend you're Marshal McLuhen "
+      },
+      "date": 1433874329332
+    },
+    {
+      "type": "edit",
+      "id": "1e1717e5d1aad0be",
+      "item": {
+        "type": "html",
+        "id": "1e1717e5d1aad0be",
+        "text": "[[Alan Levine]] describes the Fedwiki as a set of index cards. That might lead one to see each wiki page as a card for discourse and discussion. But index cards are not discussions: no room! They are tightly focused so to be useful in creating a larger work. Working with cards means weaving the warp and weft of the arguments. <b>This process of weaving is a kind of dialogue but the product is a dissertative tapestry</b>. The degree of granularity is important. [[Radical Discourse]]"
+      },
+      "date": 1433874383073
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0c5a9b0bb4d0aadb"
+      },
+      "id": "0c5a9b0bb4d0aadb",
+      "type": "add",
+      "after": "fbe46ae3816cced6",
+      "date": 1433874387295
+    },
+    {
+      "type": "edit",
+      "id": "fbe46ae3816cced6",
+      "item": {
+        "type": "paragraph",
+        "id": "fbe46ae3816cced6",
+        "text": "If you prefer, imagine the cards as tiles in a mosaic. If you prefer, pretend you're Marshal McLuhen composing The Gutenberg Galaxie"
+      },
+      "date": 1433874419223
+    },
+    {
+      "type": "edit",
+      "id": "fbe46ae3816cced6",
+      "item": {
+        "type": "paragraph",
+        "id": "fbe46ae3816cced6",
+        "text": "If you prefer, imagine the cards as tiles in a mosaic. If you prefer, pretend you're Marshal McLuhen composing The Gutenberg Galaxy"
+      },
+      "date": 1433874427082
+    },
+    {
+      "type": "edit",
+      "id": "fbe46ae3816cced6",
+      "item": {
+        "type": "paragraph",
+        "id": "fbe46ae3816cced6",
+        "text": "If you prefer, imagine the cards as tiles in a mosaic. If you prefer, pretend you're Marshal McLuhen composing The Gutenberg Galaxy as the mosaic it is usually seen as [https://books.google.com/books?id=hEUgn8aQEm8C&pg=PA55&lpg=PA55&dq=gutenberg+galaxy+mosaic&source=bl&ots=7nEBBTAfCF&sig=QGbkMLh1n_JOSFCVkInGOxyOleA&hl=en&sa=X&ei=HDB3Ver8BK3lsAS1-YHYAQ&ved=0CEwQ6AEwCw#v=onepage&q=gutenberg%20galaxy%20mosaic&f=false "
+      },
+      "date": 1433874515453
+    },
+    {
+      "type": "edit",
+      "id": "fbe46ae3816cced6",
+      "item": {
+        "type": "paragraph",
+        "id": "fbe46ae3816cced6",
+        "text": "If you prefer, imagine the cards as tiles in a mosaic. If you prefer, pretend you're Marshal McLuhen composing The Gutenberg Galaxy as the mosaic it is usually seen as [https://books.google.com/books?id=hEUgn8aQEm8C&pg=PA55&lpg=PA55&dq=gutenberg+galaxy+mosaic&source=bl&ots=7nEBBTAfCF&sig=QGbkMLh1n_JOSFCVkInGOxyOleA&hl=en&sa=X&ei=HDB3Ver8BK3lsAS1-YHYAQ&ved=0CEwQ6AEwCw#v=onepage&q=gutenberg%20galaxy%20mosaic&f=false McLuhan in Space: A Cultural Geography]"
+      },
+      "date": 1433874537711
+    },
+    {
+      "type": "edit",
+      "id": "fbe46ae3816cced6",
+      "item": {
+        "type": "paragraph",
+        "id": "fbe46ae3816cced6",
+        "text": "If you prefer, imagine the cards as tiles in a mosaic. If you prefer, pretend you're Marshal McLuhen composing The Gutenberg Galaxy as the mosaic it is usually read as. [https://books.google.com/books?id=hEUgn8aQEm8C&pg=PA55&lpg=PA55&dq=gutenberg+galaxy+mosaic&source=bl&ots=7nEBBTAfCF&sig=QGbkMLh1n_JOSFCVkInGOxyOleA&hl=en&sa=X&ei=HDB3Ver8BK3lsAS1-YHYAQ&ved=0CEwQ6AEwCw#v=onepage&q=gutenberg%20galaxy%20mosaic&f=false McLuhan in Space: A Cultural Geography]"
+      },
+      "date": 1433874564120
+    },
+    {
+      "type": "edit",
+      "id": "fbe46ae3816cced6",
+      "item": {
+        "type": "paragraph",
+        "id": "fbe46ae3816cced6",
+        "text": "If you prefer, imagine the cards as tiles in a mosaic. If you prefer, pretend you're Marshal McLuhen composing The Gutenberg Galaxy as the mosaic it is usually read as. [https://books.google.com/books?id=e3YoAgAAQBAJ&pg=PA45&lpg=PA45&dq=gutenberg+galaxy+mosaic&source=bl&ots=o6OVhvMp-T&sig=QzYn_6CEJ2_x4tRSgkgF6vBamO0&hl=en&sa=X&ei=HDB3Ver8BK3lsAS1-YHYAQ&ved=0CFwQ6AEwDw#v=onepage&q=gutenberg%20galaxy%20mosaic&f=false ]"
+      },
+      "date": 1433874645394
+    },
+    {
+      "type": "edit",
+      "id": "fbe46ae3816cced6",
+      "item": {
+        "type": "paragraph",
+        "id": "fbe46ae3816cced6",
+        "text": "If you prefer, imagine the cards as tiles in a mosaic. If you prefer, pretend you're Marshal McLuhen composing The Gutenberg Galaxy as the mosaic it is usually read as. [https://books.google.com/books?id=e3YoAgAAQBAJ&pg=PA45&lpg=PA45&dq=gutenberg+galaxy+mosaic&source=bl&ots=o6OVhvMp-T&sig=QzYn_6CEJ2_x4tRSgkgF6vBamO0&hl=en&sa=X&ei=HDB3Ver8BK3lsAS1-YHYAQ&ved=0CFwQ6AEwDw#v=onepage&q=gutenberg%20galaxy%20mosaic&f=false Digital Modernism: Making It New in New Media]"
+      },
+      "date": 1433874658739
+    },
+    {
+      "type": "move",
+      "order": [
+        "9056f9523e683c8c",
+        "7163dfb0cb11535fdb1d9c819dae14a3",
+        "42d91064ed4184d6",
+        "f639a407b6b33f7e",
+        "0db3af711f7e576e8da0a161b7ebc12c",
+        "52506133ab63fb24d7846c77a02eef6e",
+        "c062bc84d8bf2835",
+        "d3dd5cfa9897b4769db910220aed2b98",
+        "1e1717e5d1aad0be",
+        "fbe46ae3816cced6",
+        "0f8807c6022f3301",
+        "0c5a9b0bb4d0aadb"
+      ],
+      "id": "fbe46ae3816cced6",
+      "date": 1433874839422
+    },
+    {
+      "type": "move",
+      "order": [
+        "9056f9523e683c8c",
+        "7163dfb0cb11535fdb1d9c819dae14a3",
+        "42d91064ed4184d6",
+        "f639a407b6b33f7e",
+        "0db3af711f7e576e8da0a161b7ebc12c",
+        "52506133ab63fb24d7846c77a02eef6e",
+        "c062bc84d8bf2835",
+        "d3dd5cfa9897b4769db910220aed2b98",
+        "fbe46ae3816cced6",
+        "1e1717e5d1aad0be",
+        "0f8807c6022f3301",
+        "0c5a9b0bb4d0aadb"
+      ],
+      "id": "1e1717e5d1aad0be",
+      "date": 1433874844147
+    },
+    {
+      "type": "edit",
+      "id": "1e1717e5d1aad0be",
+      "item": {
+        "type": "html",
+        "id": "1e1717e5d1aad0be",
+        "text": "[[Alan Levine]] describes the Fedwiki as a set of index cards. That might lead one to see each wiki page as a card for discourse and discussion. But index cards are not discussions: no room! They are tightly focused so to be useful in creating a larger work. Working with cards means weaving the warp and weft of the arguments. <b>This process of weaving is a kind of dialogue but the product is a dissertative tapestry</b>. The degree of granularity is important."
+      },
+      "date": 1433874852842
+    },
+    {
+      "type": "move",
+      "order": [
+        "9056f9523e683c8c",
+        "7163dfb0cb11535fdb1d9c819dae14a3",
+        "42d91064ed4184d6",
+        "f639a407b6b33f7e",
+        "0db3af711f7e576e8da0a161b7ebc12c",
+        "52506133ab63fb24d7846c77a02eef6e",
+        "c062bc84d8bf2835",
+        "d3dd5cfa9897b4769db910220aed2b98",
+        "1e1717e5d1aad0be",
+        "fbe46ae3816cced6",
+        "0f8807c6022f3301",
+        "0c5a9b0bb4d0aadb"
+      ],
+      "id": "fbe46ae3816cced6",
+      "date": 1433874858682
+    },
+    {
+      "type": "fork",
+      "site": "sfw.mcmorgan.org",
+      "date": 1563346813546
+    }
+  ]
+}
