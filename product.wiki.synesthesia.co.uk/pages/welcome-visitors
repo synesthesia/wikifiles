@@ -1,0 +1,247 @@
+{
+  "title": "Welcome Visitors",
+  "story": [
+    {
+      "text": "Welcome to this [[Federated Wiki]] site hosted by [[Julian Elve]]. ",
+      "id": "7b56f22a4b9ee974",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "dac66041ccc5e100",
+      "text": "You will need your own site to participate."
+    },
+    {
+      "type": "paragraph",
+      "id": "05e2fa92643677ca",
+      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+      "text": "[[Approaches to Product Strategy]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ee416d431ebf4fb4",
+      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    },
+    {
+      "type": "markdown",
+      "id": "b4c6cd3efab6b224",
+      "text": "Search works in a particular way in [[Federated Wiki]], specifically it looks in sites that are in the current [[Neighborhood]] (_sorry, it's American English_). To add further sites to the Neighborhood, click the blue chevrons to the right of a list of site flags in one of the boxes below"
+    },
+    {
+      "type": "roster",
+      "id": "112d911ccca4ae39",
+      "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Welcome Visitors",
+        "story": []
+      },
+      "date": 1420938191608
+    },
+    {
+      "type": "add",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "id": "7b56f22a4b9ee974",
+      "date": 1420938199166
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about us."
+      },
+      "after": "7b56f22a4b9ee974",
+      "id": "821827c99b90cfd1",
+      "date": 1420938202921
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below."
+      },
+      "after": "821827c99b90cfd1",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1420938208737
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages where we do and share."
+      },
+      "after": "63ad2e58eecdd9e5",
+      "id": "2bbd646ff3f44b51",
+      "date": 1420938212624
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+      },
+      "after": "2bbd646ff3f44b51",
+      "id": "05e2fa92643677ca",
+      "date": 1420938216782
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "after": "05e2fa92643677ca",
+      "id": "ee416d431ebf4fb4",
+      "date": 1420938220851
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "112d911ccca4ae39"
+      },
+      "id": "112d911ccca4ae39",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1563373472425
+    },
+    {
+      "type": "edit",
+      "id": "112d911ccca4ae39",
+      "item": {
+        "type": "roster",
+        "id": "112d911ccca4ae39",
+        "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors"
+      },
+      "date": 1563373485171
+    },
+    {
+      "type": "add",
+      "id": "261bebfa2d8bf9bd",
+      "item": {
+        "type": "paragraph",
+        "id": "261bebfa2d8bf9bd",
+        "text": "To expand the search neighbourhood click on right-chevrons in Roster plugin below"
+      },
+      "after": "ee416d431ebf4fb4",
+      "date": 1563373515635
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1563373525416
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site hosted by [[Julian Elve]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1563373579014
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1563373590624
+    },
+    {
+      "type": "edit",
+      "id": "261bebfa2d8bf9bd",
+      "item": {
+        "type": "paragraph",
+        "id": "261bebfa2d8bf9bd",
+        "text": "Search works in a particular way in [[Federated Wiki]], specifically it looks in sites that are in the current [[Neighborhood]] (_sorry, it's American English_). To add further sites to the Neighborhood, click the blue chevrons to the right of a list of site flags in one of the boxes below"
+      },
+      "date": 1563373645662
+    },
+    {
+      "type": "remove",
+      "id": "261bebfa2d8bf9bd",
+      "date": 1563373652552
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b4c6cd3efab6b224"
+      },
+      "id": "b4c6cd3efab6b224",
+      "type": "add",
+      "after": "112d911ccca4ae39",
+      "date": 1563373653934
+    },
+    {
+      "type": "edit",
+      "id": "b4c6cd3efab6b224",
+      "item": {
+        "type": "markdown",
+        "id": "b4c6cd3efab6b224",
+        "text": "Search works in a particular way in [[Federated Wiki]], specifically it looks in sites that are in the current [[Neighborhood]] (_sorry, it's American English_). To add further sites to the Neighborhood, click the blue chevrons to the right of a list of site flags in one of the boxes below"
+      },
+      "date": 1563373659935
+    },
+    {
+      "id": "112d911ccca4ae39",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4",
+        "b4c6cd3efab6b224",
+        "112d911ccca4ae39"
+      ],
+      "date": 1563373668326
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "[[Approaches to Product Strategy]]"
+      },
+      "date": 1563373693992
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1563373703853
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site hosted by [[Julian Elve]]. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1563373719639
+    },
+    {
+      "type": "add",
+      "id": "dac66041ccc5e100",
+      "item": {
+        "type": "paragraph",
+        "id": "dac66041ccc5e100",
+        "text": "You will need your own site to participate."
+      },
+      "after": "7b56f22a4b9ee974",
+      "date": 1563373721217
+    }
+  ]
+}

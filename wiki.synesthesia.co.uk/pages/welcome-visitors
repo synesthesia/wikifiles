@@ -37,6 +37,11 @@
       "text": "[https://code.wiki.synesthesia.co.uk Code Notes]"
     },
     {
+      "type": "paragraph",
+      "id": "caeafe4b294d6287",
+      "text": "[https://product.wiki.synesthesia.co.uk Product Strategy Notes]"
+    },
+    {
       "type": "markdown",
       "id": "48492be542716aa8",
       "text": "Search works in a particular way in [[Federated Wiki]], specifically it looks in sites that are in the current [[Neighborhood]] (_sorry, it's American English_). To add further sites to the Neighborhood, click the blue chevrons to the right of a list of site flags in one of the boxes below"
@@ -44,7 +49,7 @@
     {
       "type": "roster",
       "id": "5f2ada1338df24e3",
-      "text": "Julian Elve\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\n\n"
+      "text": "Julian Elve\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\nproduct.wiki.synesthesia.co.uk\n\n"
     },
     {
       "type": "markdown",
@@ -1112,6 +1117,27 @@
       "type": "add",
       "after": "55b26a986bb8be6f",
       "date": 1563258800440
+    },
+    {
+      "type": "edit",
+      "id": "5f2ada1338df24e3",
+      "item": {
+        "type": "roster",
+        "id": "5f2ada1338df24e3",
+        "text": "Julian Elve\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\nproduct.wiki.synesthesia.co.uk\n\n"
+      },
+      "date": 1563373412022
+    },
+    {
+      "type": "add",
+      "id": "caeafe4b294d6287",
+      "item": {
+        "type": "paragraph",
+        "id": "caeafe4b294d6287",
+        "text": "[https://product.wiki.synesthesia.co.uk Product Strategy Notes]"
+      },
+      "after": "e6f9f58b25d02c1d",
+      "date": 1563373455547
     }
   ]
 }

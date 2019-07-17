@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"/>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://product.wiki.synesthesia.co.uk/welcome-visitors.html</loc>
+    <lastmod>2019-07-17</lastmod>
+  </url>
+  <url>
+    <loc>http://product.wiki.synesthesia.co.uk/julian-elve.html</loc>
+    <lastmod>2019-07-17</lastmod>
+  </url>
+</urlset>
