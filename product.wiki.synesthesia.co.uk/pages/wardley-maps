@@ -1,6 +1,62 @@
 {
   "title": "Wardley Maps",
-  "story": [],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "2e6ae8bed0040b6d",
+      "text": ">A Wardley map is a map of the structure of a business or service, mapping the components needed to serve the customer or user. \n[https://en.wikipedia.org/wiki/Wardley_map wikipedia]"
+    },
+    {
+      "type": "pagefold",
+      "id": "72443e202dcfa67e",
+      "text": "overview\n"
+    },
+    {
+      "type": "markdown",
+      "id": "59a7417aea20a879",
+      "text": "TODO expand out from Simon's overview [https://product.wiki.synesthesia.co.uk/view/welcome-visitors/view/approaches-to-product-strategy/view/wardley-maps post ]"
+    },
+    {
+      "type": "pagefold",
+      "id": "ea8b4a7a3dc5f251",
+      "text": "critique"
+    },
+    {
+      "type": "markdown",
+      "id": "98a3b8abb6cf2327",
+      "text": "\n"
+    },
+    {
+      "type": "markdown",
+      "id": "83fff36e4a8852d0",
+      "text": "\n"
+    },
+    {
+      "type": "markdown",
+      "id": "579b0432c22d8cbc",
+      "text": "\n"
+    },
+    {
+      "type": "markdown",
+      "id": "2371b1919db4a0ed",
+      "text": "\n"
+    },
+    {
+      "type": "markdown",
+      "id": "96981772973c3e5b",
+      "text": "Proponents claim that much of the process's value lies in\n\n>exposing assumptions. allowing challenge and creating consensus\" \n\n-- Simon Wardley [https://twitter.com/swardley/status/888866083142348801 tweet]"
+    },
+    {
+      "type": "markdown",
+      "id": "65db92a9e29a27c4",
+      "text": "At least one critic has expressed concern that because maps are socially constructed, and therefore\n\n>a common manoeuvre to secure consensus is to create an illusion of objectivity, so maps contain the seeds of their own misinterpretation.\n\n-- Matt Edgar _What do Wardley Maps really Map_ [https://blog.mattedgar.com/2017/08/13/what-do-wardley-maps-really-map-a-settler-writes/ post]"
+    },
+    {
+      "type": "markdown",
+      "id": "322fc64aa462e86d",
+      "text": "see also [[Social Construction of Technology]]"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +65,496 @@
         "story": []
       },
       "date": 1563376335502
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "94b65dd490e71eb9"
+      },
+      "id": "94b65dd490e71eb9",
+      "type": "add",
+      "date": 1563377914044
+    },
+    {
+      "type": "remove",
+      "id": "94b65dd490e71eb9",
+      "date": 1563377930389
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2e6ae8bed0040b6d"
+      },
+      "id": "2e6ae8bed0040b6d",
+      "type": "add",
+      "date": 1563377931998
+    },
+    {
+      "type": "edit",
+      "id": "2e6ae8bed0040b6d",
+      "item": {
+        "type": "markdown",
+        "id": "2e6ae8bed0040b6d",
+        "text": ">A Wardley map is a map of the structure of a business or service, mapping the components needed to serve the customer or user. "
+      },
+      "date": 1563377937216
+    },
+    {
+      "type": "edit",
+      "id": "2e6ae8bed0040b6d",
+      "item": {
+        "type": "markdown",
+        "id": "2e6ae8bed0040b6d",
+        "text": ">A Wardley map is a map of the structure of a business or service, mapping the components needed to serve the customer or user. \n-- Wikipedia [https://en.wikipedia.org/wiki/Wardley_map wikipedia]"
+      },
+      "date": 1563377956179
+    },
+    {
+      "type": "edit",
+      "id": "2e6ae8bed0040b6d",
+      "item": {
+        "type": "markdown",
+        "id": "2e6ae8bed0040b6d",
+        "text": ">A Wardley map is a map of the structure of a business or service, mapping the components needed to serve the customer or user. \nhttps://en.wikipedia.org/wiki/Wardley_map wikipedia]"
+      },
+      "date": 1563377963139
+    },
+    {
+      "type": "edit",
+      "id": "2e6ae8bed0040b6d",
+      "item": {
+        "type": "markdown",
+        "id": "2e6ae8bed0040b6d",
+        "text": ">A Wardley map is a map of the structure of a business or service, mapping the components needed to serve the customer or user. \n[https://en.wikipedia.org/wiki/Wardley_map wikipedia]"
+      },
+      "date": 1563377970953
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ea8b4a7a3dc5f251"
+      },
+      "id": "ea8b4a7a3dc5f251",
+      "type": "add",
+      "after": "2e6ae8bed0040b6d",
+      "date": 1563378033623
+    },
+    {
+      "type": "edit",
+      "id": "ea8b4a7a3dc5f251",
+      "item": {
+        "type": "pagefold",
+        "id": "ea8b4a7a3dc5f251",
+        "text": "critique"
+      },
+      "date": 1563378048878
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "98a3b8abb6cf2327"
+      },
+      "id": "98a3b8abb6cf2327",
+      "type": "add",
+      "after": "ea8b4a7a3dc5f251",
+      "date": 1563378051031
+    },
+    {
+      "type": "edit",
+      "id": "98a3b8abb6cf2327",
+      "item": {
+        "type": "markdown",
+        "id": "98a3b8abb6cf2327",
+        "text": "Proponents "
+      },
+      "date": 1563378069005
+    },
+    {
+      "type": "edit",
+      "id": "98a3b8abb6cf2327",
+      "item": {
+        "type": "markdown",
+        "id": "98a3b8abb6cf2327",
+        "text": "Proponents claim that much of the process's value lies in \"exposing assumptions. allowing challenge and creating consensus\""
+      },
+      "date": 1563378086412
+    },
+    {
+      "type": "edit",
+      "id": "98a3b8abb6cf2327",
+      "item": {
+        "type": "markdown",
+        "id": "98a3b8abb6cf2327",
+        "text": "Proponents claim that much of the process's value lies in \"exposing assumptions. allowing challenge and creating consensus\" [https://twitter.com/swardley/status/888866083142348801 tweet]"
+      },
+      "date": 1563378106218
+    },
+    {
+      "type": "edit",
+      "id": "98a3b8abb6cf2327",
+      "item": {
+        "type": "markdown",
+        "id": "98a3b8abb6cf2327",
+        "text": "Proponents claim that much of the process's value lies in \"exposing assumptions. allowing challenge and creating consensus\" [https://twitter.com/swardley/status/888866083142348801 tweet]\n"
+      },
+      "date": 1563378134762
+    },
+    {
+      "type": "add",
+      "id": "2371b1919db4a0ed",
+      "item": {
+        "type": "markdown",
+        "id": "2371b1919db4a0ed",
+        "text": "At least once critic has expressed cocnern "
+      },
+      "after": "98a3b8abb6cf2327",
+      "date": 1563378144952
+    },
+    {
+      "type": "edit",
+      "id": "2371b1919db4a0ed",
+      "item": {
+        "type": "markdown",
+        "id": "2371b1919db4a0ed",
+        "text": "At least once critic has expressed concern that because maps are socially constructed"
+      },
+      "date": 1563378204406
+    },
+    {
+      "type": "edit",
+      "id": "2371b1919db4a0ed",
+      "item": {
+        "type": "markdown",
+        "id": "2371b1919db4a0ed",
+        "text": "At least once critic has expressed concern that because maps are socially constructed, and therefore\n"
+      },
+      "date": 1563378240536
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "65db92a9e29a27c4"
+      },
+      "id": "65db92a9e29a27c4",
+      "type": "add",
+      "after": "7b5caa936c270141",
+      "date": 1563378244470
+    },
+    {
+      "type": "add",
+      "id": "7b5caa936c270141",
+      "item": {
+        "type": "markdown",
+        "id": "7b5caa936c270141",
+        "text": ">"
+      },
+      "after": "2371b1919db4a0ed",
+      "date": 1563378246038
+    },
+    {
+      "type": "edit",
+      "id": "65db92a9e29a27c4",
+      "item": {
+        "type": "markdown",
+        "id": "65db92a9e29a27c4",
+        "text": ">a common manoeuvre to secure consensus is to create an illusion of objectivity, so maps contain the seeds of their own misinterpretation.\n"
+      },
+      "date": 1563378252964
+    },
+    {
+      "type": "edit",
+      "id": "2371b1919db4a0ed",
+      "item": {
+        "type": "markdown",
+        "id": "2371b1919db4a0ed",
+        "text": "\n"
+      },
+      "date": 1563378259208
+    },
+    {
+      "type": "edit",
+      "id": "65db92a9e29a27c4",
+      "item": {
+        "type": "markdown",
+        "id": "65db92a9e29a27c4",
+        "text": "At least once critic has expressed concern that because maps are socially constructed, and therefore\n\n>a common manoeuvre to secure consensus is to create an illusion of objectivity, so maps contain the seeds of their own misinterpretation.\n"
+      },
+      "date": 1563378264104
+    },
+    {
+      "type": "remove",
+      "id": "7b5caa936c270141",
+      "date": 1563378267475
+    },
+    {
+      "type": "edit",
+      "id": "65db92a9e29a27c4",
+      "item": {
+        "type": "markdown",
+        "id": "65db92a9e29a27c4",
+        "text": "At least once critic has expressed concern that because maps are socially constructed, and therefore\n\n>a common manoeuvre to secure consensus is to create an illusion of objectivity, so maps contain the seeds of their own misinterpretation.\n\n-- What Do Wardley Maps really map [https://blog.mattedgar.com/2017/08/13/what-do-wardley-maps-really-map-a-settler-writes/ post]"
+      },
+      "date": 1563378303205
+    },
+    {
+      "type": "edit",
+      "id": "65db92a9e29a27c4",
+      "item": {
+        "type": "markdown",
+        "id": "65db92a9e29a27c4",
+        "text": "At least once critic has expressed concern that because maps are socially constructed, and therefore\n\n>a common manoeuvre to secure consensus is to create an illusion of objectivity, so maps contain the seeds of their own misinterpretation.\n\n-- What Do Wardley Maps really Map [https://blog.mattedgar.com/2017/08/13/what-do-wardley-maps-really-map-a-settler-writes/ post]"
+      },
+      "date": 1563378312072
+    },
+    {
+      "type": "edit",
+      "id": "65db92a9e29a27c4",
+      "item": {
+        "type": "markdown",
+        "id": "65db92a9e29a27c4",
+        "text": "At least once critic has expressed concern that because maps are socially constructed, and therefore\n\n>a common manoeuvre to secure consensus is to create an illusion of objectivity, so maps contain the seeds of their own misinterpretation.\n\n-- Matt Edgar _What do Wardley Maps really Map_ [https://blog.mattedgar.com/2017/08/13/what-do-wardley-maps-really-map-a-settler-writes/ post]"
+      },
+      "date": 1563378333372
+    },
+    {
+      "type": "edit",
+      "id": "98a3b8abb6cf2327",
+      "item": {
+        "type": "markdown",
+        "id": "98a3b8abb6cf2327",
+        "text": "Proponents claim that much of the process's value lies in\n"
+      },
+      "date": 1563378350199
+    },
+    {
+      "type": "add",
+      "id": "83fff36e4a8852d0",
+      "item": {
+        "type": "markdown",
+        "id": "83fff36e4a8852d0",
+        "text": ">exposing assumptions. allowing challenge and creating consensus\" [https://twitter.com/swardley/status/888866083142348801 tweet]\n"
+      },
+      "after": "98a3b8abb6cf2327",
+      "date": 1563378353044
+    },
+    {
+      "type": "edit",
+      "id": "98a3b8abb6cf2327",
+      "item": {
+        "type": "markdown",
+        "id": "98a3b8abb6cf2327",
+        "text": "\n"
+      },
+      "date": 1563378357804
+    },
+    {
+      "type": "edit",
+      "id": "83fff36e4a8852d0",
+      "item": {
+        "type": "markdown",
+        "id": "83fff36e4a8852d0",
+        "text": "Proponents claim that much of the process's value lies in\n"
+      },
+      "date": 1563378362584
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "96981772973c3e5b"
+      },
+      "id": "96981772973c3e5b",
+      "type": "add",
+      "after": "65db92a9e29a27c4",
+      "date": 1563378368459
+    },
+    {
+      "type": "add",
+      "id": "579b0432c22d8cbc",
+      "item": {
+        "type": "markdown",
+        "id": "579b0432c22d8cbc",
+        "text": "\n"
+      },
+      "after": "83fff36e4a8852d0",
+      "date": 1563378371583
+    },
+    {
+      "type": "edit",
+      "id": "96981772973c3e5b",
+      "item": {
+        "type": "markdown",
+        "id": "96981772973c3e5b",
+        "text": "\n\n>exposing assumptions. allowing challenge and creating consensus\" [https://twitter.com/swardley/status/888866083142348801 tweet]"
+      },
+      "date": 1563378378885
+    },
+    {
+      "id": "96981772973c3e5b",
+      "type": "move",
+      "order": [
+        "2e6ae8bed0040b6d",
+        "ea8b4a7a3dc5f251",
+        "98a3b8abb6cf2327",
+        "83fff36e4a8852d0",
+        "579b0432c22d8cbc",
+        "2371b1919db4a0ed",
+        "96981772973c3e5b",
+        "65db92a9e29a27c4"
+      ],
+      "date": 1563378382336
+    },
+    {
+      "type": "edit",
+      "id": "83fff36e4a8852d0",
+      "item": {
+        "type": "markdown",
+        "id": "83fff36e4a8852d0",
+        "text": "\n"
+      },
+      "date": 1563378389681
+    },
+    {
+      "type": "edit",
+      "id": "96981772973c3e5b",
+      "item": {
+        "type": "markdown",
+        "id": "96981772973c3e5b",
+        "text": "Proponents claim that much of the process's value lies in\n\n>exposing assumptions. allowing challenge and creating consensus\" "
+      },
+      "date": 1563378396567
+    },
+    {
+      "type": "edit",
+      "id": "96981772973c3e5b",
+      "item": {
+        "type": "markdown",
+        "id": "96981772973c3e5b",
+        "text": "Proponents claim that much of the process's value lies in\n\n>exposing assumptions. allowing challenge and creating consensus\" \n"
+      },
+      "date": 1563378404503
+    },
+    {
+      "type": "edit",
+      "id": "96981772973c3e5b",
+      "item": {
+        "type": "markdown",
+        "id": "96981772973c3e5b",
+        "text": "Proponents claim that much of the process's value lies in\n\n>exposing assumptions. allowing challenge and creating consensus\" \n-- Simon Wardley "
+      },
+      "date": 1563378417481
+    },
+    {
+      "type": "edit",
+      "id": "96981772973c3e5b",
+      "item": {
+        "type": "markdown",
+        "id": "96981772973c3e5b",
+        "text": "Proponents claim that much of the process's value lies in\n\n>exposing assumptions. allowing challenge and creating consensus\" \n\n-- Simon Wardley [https://twitter.com/swardley/status/888866083142348801 tweet]"
+      },
+      "date": 1563378475999
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "72443e202dcfa67e"
+      },
+      "id": "72443e202dcfa67e",
+      "type": "add",
+      "after": "65db92a9e29a27c4",
+      "date": 1563378810494
+    },
+    {
+      "type": "edit",
+      "id": "72443e202dcfa67e",
+      "item": {
+        "type": "pagefold",
+        "id": "72443e202dcfa67e",
+        "text": "overview\n"
+      },
+      "date": 1563378819770
+    },
+    {
+      "id": "72443e202dcfa67e",
+      "type": "move",
+      "order": [
+        "2e6ae8bed0040b6d",
+        "72443e202dcfa67e",
+        "ea8b4a7a3dc5f251",
+        "98a3b8abb6cf2327",
+        "83fff36e4a8852d0",
+        "579b0432c22d8cbc",
+        "2371b1919db4a0ed",
+        "96981772973c3e5b",
+        "65db92a9e29a27c4"
+      ],
+      "date": 1563378822685
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "59a7417aea20a879"
+      },
+      "id": "59a7417aea20a879",
+      "type": "add",
+      "after": "65db92a9e29a27c4",
+      "date": 1563378941937
+    },
+    {
+      "type": "edit",
+      "id": "59a7417aea20a879",
+      "item": {
+        "type": "markdown",
+        "id": "59a7417aea20a879",
+        "text": "TODO expand out from Simon's overview [https://product.wiki.synesthesia.co.uk/view/welcome-visitors/view/approaches-to-product-strategy/view/wardley-maps post ]"
+      },
+      "date": 1563378964844
+    },
+    {
+      "id": "59a7417aea20a879",
+      "type": "move",
+      "order": [
+        "2e6ae8bed0040b6d",
+        "72443e202dcfa67e",
+        "59a7417aea20a879",
+        "ea8b4a7a3dc5f251",
+        "98a3b8abb6cf2327",
+        "83fff36e4a8852d0",
+        "579b0432c22d8cbc",
+        "2371b1919db4a0ed",
+        "96981772973c3e5b",
+        "65db92a9e29a27c4"
+      ],
+      "date": 1563378970764
+    },
+    {
+      "type": "edit",
+      "id": "65db92a9e29a27c4",
+      "item": {
+        "type": "markdown",
+        "id": "65db92a9e29a27c4",
+        "text": "At least one critic has expressed concern that because maps are socially constructed, and therefore\n\n>a common manoeuvre to secure consensus is to create an illusion of objectivity, so maps contain the seeds of their own misinterpretation.\n\n-- Matt Edgar _What do Wardley Maps really Map_ [https://blog.mattedgar.com/2017/08/13/what-do-wardley-maps-really-map-a-settler-writes/ post]"
+      },
+      "date": 1563378975602
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "322fc64aa462e86d"
+      },
+      "id": "322fc64aa462e86d",
+      "type": "add",
+      "after": "65db92a9e29a27c4",
+      "date": 1563379022080
+    },
+    {
+      "type": "edit",
+      "id": "322fc64aa462e86d",
+      "item": {
+        "type": "markdown",
+        "id": "322fc64aa462e86d",
+        "text": "see also [[Social Construction of Technology]]"
+      },
+      "date": 1563379035675
     }
   ]
 }

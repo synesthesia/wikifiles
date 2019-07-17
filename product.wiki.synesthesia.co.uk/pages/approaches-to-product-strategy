@@ -22,9 +22,12 @@
       "text": "[[Value Proposition Design ]]"
     },
     {
-      "type": "markdown",
-      "id": "ef6711d1ca025206",
-      "text": "[[Wardley Maps]]"
+      "type": "reference",
+      "id": "ab53e713f097b8a4",
+      "site": "product.wiki.synesthesia.co.uk",
+      "slug": "wardley-maps",
+      "title": "Wardley Maps",
+      "text": "A Wardley map is a map of the structure of a business or service, mapping the components needed to serve the customer or user. "
     }
   ],
   "journal": [
@@ -164,6 +167,47 @@
         "text": "[[Value Proposition Design ]]"
       },
       "date": 1563376315713
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ab53e713f097b8a4"
+      },
+      "id": "ab53e713f097b8a4",
+      "type": "add",
+      "after": "ef6711d1ca025206",
+      "date": 1563377974758
+    },
+    {
+      "type": "edit",
+      "id": "ab53e713f097b8a4",
+      "item": {
+        "type": "reference",
+        "id": "ab53e713f097b8a4",
+        "site": "product.wiki.synesthesia.co.uk",
+        "slug": "wardley-maps",
+        "title": "Wardley Maps",
+        "text": ">A Wardley map is a map of the structure of a business or service, mapping the components needed to serve the customer or user. "
+      },
+      "date": 1563377976245
+    },
+    {
+      "type": "edit",
+      "id": "ab53e713f097b8a4",
+      "item": {
+        "type": "reference",
+        "id": "ab53e713f097b8a4",
+        "site": "product.wiki.synesthesia.co.uk",
+        "slug": "wardley-maps",
+        "title": "Wardley Maps",
+        "text": "A Wardley map is a map of the structure of a business or service, mapping the components needed to serve the customer or user. "
+      },
+      "date": 1563377982975
+    },
+    {
+      "type": "remove",
+      "id": "ef6711d1ca025206",
+      "date": 1563377989069
     }
   ]
 }
