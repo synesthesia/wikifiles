@@ -1,0 +1,2373 @@
+{
+  "title": "Blue Plane",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "764ad32826c492b5",
+      "text": "[[Alan Kay]] coined the term \"blue plane\". To explain it, he needed to tell a story.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "94e635825557af3e",
+      "text": "A story of the Grand Canyon.  "
+    },
+    {
+      "type": "paragraph",
+      "id": "1de61369d63f204a",
+      "text": "A canyon that was slowly created by the Colorado River. Etching deeper and deeper, into the earth. Until it created a world unto its own."
+    },
+    {
+      "type": "paragraph",
+      "id": "7d3f8cb577650110",
+      "text": "If you have ever been to the bottom of the canyon you will understand. The journey down is a long one. As you descend, you notice that the world above drifts away. You enter another world. The world of the canyon. It is a profound experience."
+    },
+    {
+      "type": "paragraph",
+      "id": "9df2459523b476d8",
+      "text": "There, at the bottom, is a new reality. You also notice that the light down there is different. It has a pink hue, as the sunlight reflects off of the canyon walls. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7b3c1baa69b106b4",
+      "text": "There, you soon make decisions entirely from the context of this reality. What is possible. What is not possible in this horizontal pink plane. "
+    },
+    {
+      "type": "paragraph",
+      "id": "993760144ee2006b",
+      "text": "Kay talks about our current reality is being similar to this pink plane. The plane in which we make our decisions based on what we believe to be possible."
+    },
+    {
+      "type": "paragraph",
+      "id": "0dba53fdbe3d4a38",
+      "text": "He then challenges us to look toward the sky above us, to that small, intense sliver of deep blue that is above the canyon walls. Where there are no limitations. Just the infinite blue sky. "
+    },
+    {
+      "type": "paragraph",
+      "id": "6da5a7ba9384f624",
+      "text": "If we reimagine the possible based on that perpendicular blue plane, our thinking shifts. We are no longer constricted by the possibilities of the present, but inspired by the potential of an illusory future. As we reimagine on that blue plane we can boldly aspire to an [[Audacious Aspiration]]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "8da2eaa320288f64",
+      "text": "With this audacity, Kay led the reimagining of what a computer is, turning it from a calculating machine to a tool that could unleash our creativity. One that would lay at the foundation of our new economy. "
+    },
+    {
+      "type": "paragraph",
+      "id": "b32f96503cb8faf0",
+      "text": "For while at Xerox’s research facility in Palo Alto [https://en.wikipedia.org/wiki/PARC_(company) (PARC)] in the 1970's, Kay's team was not simply building a user interface for Xerox's Alto computer, but a radical new user experience for an imagined [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child might use in a distant future. "
+    },
+    {
+      "type": "paragraph",
+      "id": "207eeef175728fab",
+      "text": "An experience that was introduced to the general market by Apple in 1984 with the Macintosh computer. A computer that changed everything. "
+    },
+    {
+      "type": "markdown",
+      "id": "aac459cff3e1f076",
+      "text": "Kay's concept of the blue plane that transforms our creative potential was inspired by _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "345e1e20bf040167",
+      "text": "In this book, Koestler developed a theory that creativity is derived from the juxtaposition of two orthogonal planes, what he called matrices of thought. These two matrices form a \"bisociation\" that forces an assimilation that leads to the development of new framework of understanding. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "3019a98a383cc04d",
+      "text": "A \"bisociation\" that creates a [[Dialectical Synthesis]]. "
+    },
+    {
+      "type": "graphviz",
+      "id": "3584040df2656405",
+      "text": "DOT FROM preview-next-diagram"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Blue Plane",
+        "story": []
+      },
+      "date": 1550458601038
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "764ad32826c492b5"
+      },
+      "id": "764ad32826c492b5",
+      "type": "add",
+      "date": 1550458602582
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "paragraph",
+        "id": "764ad32826c492b5",
+        "text": "Ward mentioned Alan Kay's Blue Plane concept during our conversation on Saturday. This concept came out of a talk that he gave "
+      },
+      "date": 1550458645631
+    },
+    {
+      "type": "add",
+      "id": "d3553f2a12c8e2c7",
+      "item": {
+        "type": "factory",
+        "id": "d3553f2a12c8e2c7",
+        "text": "> Okay, so, a quick easy model is how randomness is, is a little bit of rainwater on dirt, dislodges a few crumbs of dirt and a little gully happens, and the gully is more efficient at routing water, so things start happening. Just where things started happening originally, you get something like this. Completely random, it could have gone anyway. You make a whole world out of it. Here's a world that's completely pink, if you've ever been in the Grand Canyon, it is just almost overwhelming. If you look up, you have to remember to look up, there's a little bit of blue sky up above. The problem with human beings is we don't look up. We look out. Here's an example. That's pretty washed out, but that's a pink plane, and our thoughts are like ants crawling over it. We can think about things, we can make progress, we can run into an obstacle, we can get around the obstacle, and so forth, but everything we're doing here is pink except we don't know it's pink because we've never been in anything else but pink. This is like a fish not knowing it's in water. It's always been in water. Every once in a while, you might have a little outlaw thought, a little blue thought, but you've been to school, you're going to Stanford, you go to church, temple, synagogue, mosque, whatever it is, because our beliefs project out. When we see something that isn't normal, normal is actually the same as crazy. Smash. maybe you're out for a run, you're just waking up in the morning, you're taking a shower, and all of a sudden, you get a, \"Holy shit, holy shit, there's a blue world, a blue world that's orthogonal to the one I'm in.\" Once you're in that blue world, you realize, \"Oh, there's probably a lot of them.\" Can you see each one of these as a context? Can you see that what happened from the Renaissance by Newton, to our modern age, was going from a pink plane to a blue plain? "
+      },
+      "after": "764ad32826c492b5",
+      "date": 1550458842349
+    },
+    {
+      "type": "edit",
+      "id": "d3553f2a12c8e2c7",
+      "item": {
+        "type": "markdown",
+        "id": "d3553f2a12c8e2c7",
+        "text": "> Okay, so, a quick easy model is how randomness is, is a little bit of rainwater on dirt, dislodges a few crumbs of dirt and a little gully happens, and the gully is more efficient at routing water, so things start happening. Just where things started happening originally, you get something like this. Completely random, it could have gone anyway. You make a whole world out of it. Here's a world that's completely pink, if you've ever been in the Grand Canyon, it is just almost overwhelming. If you look up, you have to remember to look up, there's a little bit of blue sky up above. The problem with human beings is we don't look up. We look out. Here's an example. That's pretty washed out, but that's a pink plane, and our thoughts are like ants crawling over it. We can think about things, we can make progress, we can run into an obstacle, we can get around the obstacle, and so forth, but everything we're doing here is pink except we don't know it's pink because we've never been in anything else but pink. This is like a fish not knowing it's in water. It's always been in water. Every once in a while, you might have a little outlaw thought, a little blue thought, but you've been to school, you're going to Stanford, you go to church, temple, synagogue, mosque, whatever it is, because our beliefs project out. When we see something that isn't normal, normal is actually the same as crazy. Smash. maybe you're out for a run, you're just waking up in the morning, you're taking a shower, and all of a sudden, you get a, \"Holy shit, holy shit, there's a blue world, a blue world that's orthogonal to the one I'm in.\" Once you're in that blue world, you realize, \"Oh, there's probably a lot of them.\" Can you see each one of these as a context? Can you see that what happened from the Renaissance by Newton, to our modern age, was going from a pink plane to a blue plain? \n"
+      },
+      "date": 1550458911062
+    },
+    {
+      "type": "add",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "This concept of an orthogonal plane comes was likely derived from the work  "
+      },
+      "after": "d3553f2a12c8e2c7",
+      "date": 1550458971204
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "This concept of an orthogonal plane comes was likely derived from the _The Act of Creation_ a 1964 book by Arthur Koestler. In this book he talked about how creative is derived from the juxtaposition of two planes, or matrices. These matrices create a \"biassociation\" that forces an assimilation the creation of the new understanding. \n"
+      },
+      "date": 1550459153205
+    },
+    {
+      "type": "add",
+      "id": "66c48ca80001a7f8",
+      "item": {
+        "type": "markdown",
+        "id": "66c48ca80001a7f8",
+        "text": ">rom describing and comparing many different examples of invention and discovery, Koestler concludes that they all share a common pattern which he terms \"bisociation\" – a blending of elements drawn from two previously unrelated matrices of thought into a new matrix of meaning by way of a process involving comparison, abstraction and categorisation, analogies and metaphors. \n>\n"
+      },
+      "after": "aac459cff3e1f076",
+      "date": 1550459211638
+    },
+    {
+      "type": "edit",
+      "id": "66c48ca80001a7f8",
+      "item": {
+        "type": "markdown",
+        "id": "66c48ca80001a7f8",
+        "text": ">rom describing and comparing many different examples of invention and discovery, Koestler concludes that they all share a common pattern which he terms \"bisociation\" – a blending of elements drawn from two previously unrelated matrices of thought into a new matrix of meaning by way of a process involving comparison, abstraction and categorisation, analogies and metaphors. \n>\n[https://en.wikipedia.org/wiki/The_Act_of_Creation wikipedia]\n"
+      },
+      "date": 1550459241339
+    },
+    {
+      "type": "edit",
+      "id": "66c48ca80001a7f8",
+      "item": {
+        "type": "markdown",
+        "id": "66c48ca80001a7f8",
+        "text": ">From describing and comparing many different examples of invention and discovery, Koestler concludes that they all share a common pattern which he terms \"bisociation\" – a blending of elements drawn from two previously unrelated matrices of thought into a new matrix of meaning by way of a process involving comparison, abstraction and categorisation, analogies and metaphors. \n>\n[https://en.wikipedia.org/wiki/The_Act_of_Creation wikipedia]\n"
+      },
+      "date": 1550459272784
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "525b283ea595dd15"
+      },
+      "id": "525b283ea595dd15",
+      "type": "add",
+      "after": "66c48ca80001a7f8",
+      "date": 1550459275370
+    },
+    {
+      "type": "remove",
+      "id": "525b283ea595dd15",
+      "date": 1550459291101
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "This concept of an orthogonal plane comes was likely derived from the _The Act of Creation_ a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. In this book he talked about how creative is derived from the juxtaposition of two planes, or matrices. These matrices create a \"biassociation\" that forces an assimilation the creation of the new understanding. \n"
+      },
+      "date": 1550459305040
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "paragraph",
+        "id": "764ad32826c492b5",
+        "text": "Ward mentioned Alan Kay's Blue Plane concept during our conversation on Saturday. This concept came out of a talk that he gave at Stanford called _How_to_Invent_the_Future_."
+      },
+      "date": 1550459371534
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "Ward mentioned Alan Kay's Blue Plane concept during our conversation on Saturday. This concept came out of a talk that he gave at Stanford called _How to Invent the Future_."
+      },
+      "date": 1550459389946
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a99fc04b4d48fa67"
+      },
+      "id": "a99fc04b4d48fa67",
+      "type": "add",
+      "after": "66c48ca80001a7f8",
+      "date": 1550459406884
+    },
+    {
+      "type": "remove",
+      "id": "a99fc04b4d48fa67",
+      "date": 1550459419982
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b32f96503cb8faf0"
+      },
+      "id": "b32f96503cb8faf0",
+      "type": "add",
+      "after": "66c48ca80001a7f8",
+      "date": 1550459442762
+    },
+    {
+      "type": "edit",
+      "id": "66c48ca80001a7f8",
+      "item": {
+        "type": "markdown",
+        "id": "66c48ca80001a7f8",
+        "text": ">From describing and comparing many different examples of invention and discovery, Koestler concludes that they all share a common pattern which he terms \"bisociation\" – a blending of elements drawn from two previously unrelated matrices of thought into a new matrix of meaning by way of a process involving comparison, abstraction and categorisation, analogies and metaphors. \n>\n[https://en.wikipedia.org/wiki/The_Act_of_Creation wikipedia]\n\n"
+      },
+      "date": 1550459448183
+    },
+    {
+      "type": "add",
+      "id": "e00f83d2319954ca",
+      "item": {
+        "type": "markdown",
+        "id": "e00f83d2319954ca",
+        "text": "For Kay, his Blue Plane as was a world where solutions could be re-imagined within the context of future possiblity, not current constraints. It was withing these [[Collective Ideaspaces]] that were a Blue Plane of thought, that he and his team created, looking not to create incremental innovation, but transformational invention. \n"
+      },
+      "after": "66c48ca80001a7f8",
+      "date": 1550459621263
+    },
+    {
+      "type": "edit",
+      "id": "e00f83d2319954ca",
+      "item": {
+        "type": "markdown",
+        "id": "e00f83d2319954ca",
+        "text": "For Kay, his Blue Plane was a world where technology solutions could be re-imagined within the context of future possibility, not current constraints. It was within these [[Collective Ideaspaces]] that he created - a Blue Plane of thought - that he and his team created, looking not to create incremental innovation, but transformational invention. \n"
+      },
+      "date": 1550459682976
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "They were not building the new user experience for the Alto, but for the Dynabook, a radically re-imagined portable computer that a child could use. "
+      },
+      "date": 1550459780293
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While a  were not building the new user experience for the Alto, but for the Dynabook, a radically re-imagined portable computer that a child could use. "
+      },
+      "date": 1550459794333
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC] they were not building the new user experience for the Alto, but for the Dynabook, a radically re-imagined portable computer that a child could use some day in the future. "
+      },
+      "date": 1550459882000
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC] they were not building the new user experience for the Alto, but for the Dynabook, a radically re-imagined portable computer that a child could use some day in the future. Their Blue Plane."
+      },
+      "date": 1550459892272
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC] they were not building the new user experience for the Alto, but for the Dynabook, a radically re-imagined portable computer that a child could use some day in the future. Their Blue Plane that transformed everything."
+      },
+      "date": 1550459906348
+    },
+    {
+      "type": "edit",
+      "id": "66c48ca80001a7f8",
+      "item": {
+        "type": "markdown",
+        "id": "66c48ca80001a7f8",
+        "text": ">From describing and comparing many different examples of invention and discovery, Koestler concludes that they all share a common pattern which he terms \"bisociation\" – a blending of elements drawn from two previously unrelated matrices of thought into a new matrix of meaning by way of a process involving comparison, abstraction and categorisation, analogies and metaphors. \n"
+      },
+      "date": 1550459983715
+    },
+    {
+      "type": "edit",
+      "id": "66c48ca80001a7f8",
+      "item": {
+        "type": "markdown",
+        "id": "66c48ca80001a7f8",
+        "text": ">From describing and comparing many different examples of invention and discovery, Koestler concludes that they all share a common pattern which he terms \"bisociation\" – a blending of elements drawn from two previously unrelated matrices of thought into a new matrix of meaning by way of a process involving comparison, abstraction and categorisation, analogies and metaphors. \n>\n[https://en.wikipedia.org/wiki/The_Act_of_Creation wikipedia]\n\n"
+      },
+      "date": 1550459987553
+    },
+    {
+      "type": "edit",
+      "id": "66c48ca80001a7f8",
+      "item": {
+        "type": "markdown",
+        "id": "66c48ca80001a7f8",
+        "text": ">From describing and comparing many different examples of invention and discovery, Koestler concludes that they all share a common pattern which he terms \"bisociation\" – a blending of elements drawn from two previously unrelated matrices of thought into a new matrix of meaning by way of a process involving comparison, abstraction and categorisation, analogies and metaphors. \n>\n[https://en.wikipedia.org/wiki/The_Act_of_Creation wikipedia]\n"
+      },
+      "date": 1550459993247
+    },
+    {
+      "type": "add",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "The concept of matrices of thought appear similar to what Piaget calles [[Schemas]]. \n\n"
+      },
+      "after": "66c48ca80001a7f8",
+      "date": 1550460043773
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "The concept of matrices of thought appear similar to what Piaget calles [[Schema]]. \n\n"
+      },
+      "date": 1550460052076
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "The concept of matrices of thought appear similar to what Piaget called [[Schema]]s. \n\n"
+      },
+      "date": 1550460064452
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "The concept of matrices of thought appear similar to what Piaget called [[Schema]]s. The reconfiguration of understanding seem similar to [[\n\n"
+      },
+      "date": 1550460100271
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "The concept of matrices of thought appear similar to what Piaget called [[Schema]]s. The reconfiguration of understanding could also be called a [[Dialectical Synthesis]]. "
+      },
+      "date": 1550460147492
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "_The concept of matrices of thought appear similar to what Piaget called [[Schema]]s. The reconfiguration of understanding could also be called a [[Dialectical Synthesis]]. _"
+      },
+      "date": 1550460161108
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "Ward mentioned Alan Kay's Blue Plane concept during our conversation on Saturday. This concept came out of a talk that he gave at Stanford called [https://youtu.be/1e8VZlPBx_0 _How to Invent the Future_]."
+      },
+      "date": 1550460311105
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "Ward mentioned Alan Kay's Blue Plane concept during our conversation on Saturday. This concept came out of a talk that he gave at Stanford called [https://youtu.be/1e8VZlPBx_0 How to Invent the Future]."
+      },
+      "date": 1550460319608
+    },
+    {
+      "type": "edit",
+      "id": "d3553f2a12c8e2c7",
+      "item": {
+        "type": "markdown",
+        "id": "d3553f2a12c8e2c7",
+        "text": "> Okay, so, a quick easy model is how randomness is, is a little bit of rainwater on dirt, dislodges a few crumbs of dirt and a little gully happens, and the gully is more efficient at routing water, so things start happening. Just where things started happening originally, you get something like this. Completely random, it could have gone anyway. \n"
+      },
+      "date": 1550460349517
+    },
+    {
+      "type": "add",
+      "id": "b8007b91044f59c4",
+      "item": {
+        "type": "markdown",
+        "id": "b8007b91044f59c4",
+        "text": "You make a whole world out of it. Here's a world that's completely pink, if you've ever been in the Grand Canyon, it is just almost overwhelming. If you look up, you have to remember to look up, there's a little bit of blue sky up above. The problem with human beings is we don't look up. We look out. Here's an example. That's pretty washed out, but that's a pink plane, and our thoughts are like ants crawling over it. We can think about things, we can make progress, we can run into an obstacle, we can get around the obstacle, and so forth, but everything we're doing here is pink except we don't know it's pink because we've never been in anything else but pink. This is like a fish not knowing it's in water. It's always been in water. Every once in a while, you might have a little outlaw thought, a little blue thought, but you've been to school, you're going to Stanford, you go to church, temple, synagogue, mosque, whatever it is, because our beliefs project out. When we see something that isn't normal, normal is actually the same as crazy. Smash. maybe you're out for a run, you're just waking up in the morning, you're taking a shower, and all of a sudden, you get a, \"Holy shit, holy shit, there's a blue world, a blue world that's orthogonal to the one I'm in.\" Once you're in that blue world, you realize, \"Oh, there's probably a lot of them.\" Can you see each one of these as a context? Can you see that what happened from the Renaissance by Newton, to our modern age, was going from a pink plane to a blue plain? \n"
+      },
+      "after": "d3553f2a12c8e2c7",
+      "date": 1550460351153
+    },
+    {
+      "type": "remove",
+      "id": "b8007b91044f59c4",
+      "date": 1550460355137
+    },
+    {
+      "type": "edit",
+      "id": "d3553f2a12c8e2c7",
+      "item": {
+        "type": "markdown",
+        "id": "d3553f2a12c8e2c7",
+        "text": "> Okay, so, a quick easy model is how randomness is, is a little bit of rainwater on dirt, dislodges a few crumbs of dirt and a little gully happens, and the gully is more efficient at routing water, so things start happening. Just where things started happening originally, you get something like this. Completely random, it could have gone anyway. \n>\nYou make a whole world out of it. Here's a world that's completely pink, if you've ever been in the Grand Canyon, it is just almost overwhelming. If you look up, you have to remember to look up, there's a little bit of blue sky up above. The problem with human beings is we don't look up. We look out. "
+      },
+      "date": 1550460372525
+    },
+    {
+      "type": "edit",
+      "id": "d3553f2a12c8e2c7",
+      "item": {
+        "type": "markdown",
+        "id": "d3553f2a12c8e2c7",
+        "text": "> Okay, so, a quick easy model is how randomness is, is a little bit of rainwater on dirt, dislodges a few crumbs of dirt and a little gully happens, and the gully is more efficient at routing water, so things start happening. Just where things started happening originally, you get something like this. Completely random, it could have gone anyway. \n>\nYou make a whole world out of it. Here's a world that's completely pink, if you've ever been in the Grand Canyon, it is just almost overwhelming. If you look up, you have to remember to look up, there's a little bit of blue sky up above. The problem with human beings is we don't look up. We look out. \n>\nHere's an example. That's pretty washed out, but that's a pink plane, and our thoughts are like ants crawling over it. We can think about things, we can make progress, we can run into an obstacle, we can get around the obstacle, and so forth, but everything we're doing here is pink except we don't know it's pink because we've never been in anything else but pink. This is like a fish not knowing it's in water. It's always been in water. "
+      },
+      "date": 1550460400281
+    },
+    {
+      "type": "edit",
+      "id": "d3553f2a12c8e2c7",
+      "item": {
+        "type": "markdown",
+        "id": "d3553f2a12c8e2c7",
+        "text": "> Okay, so, a quick easy model is how randomness is, is a little bit of rainwater on dirt, dislodges a few crumbs of dirt and a little gully happens, and the gully is more efficient at routing water, so things start happening. Just where things started happening originally, you get something like this. Completely random, it could have gone anyway. \n>\nYou make a whole world out of it. Here's a world that's completely pink, if you've ever been in the Grand Canyon, it is just almost overwhelming. If you look up, you have to remember to look up, there's a little bit of blue sky up above. The problem with human beings is we don't look up. We look out. \n>\nHere's an example. That's pretty washed out, but that's a pink plane, and our thoughts are like ants crawling over it. We can think about things, we can make progress, we can run into an obstacle, we can get around the obstacle, and so forth, but everything we're doing here is pink except we don't know it's pink because we've never been in anything else but pink. This is like a fish not knowing it's in water. It's always been in water. \n>\nEvery once in a while, you might have a little outlaw thought, a little blue thought, but you've been to school, you're going to Stanford, you go to church, temple, synagogue, mosque, whatever it is, because our beliefs project out. When we see something that isn't normal, normal is actually the same as crazy. Smash. maybe you're out for a run, you're just waking up in the morning, you're taking a shower, and all of a sudden, you get a, \"Holy shit, holy shit, there's a blue world, a blue world that's orthogonal to the one I'm in.\" \n>"
+      },
+      "date": 1550460436845
+    },
+    {
+      "type": "edit",
+      "id": "d3553f2a12c8e2c7",
+      "item": {
+        "type": "markdown",
+        "id": "d3553f2a12c8e2c7",
+        "text": "> Okay, so, a quick easy model is how randomness is, is a little bit of rainwater on dirt, dislodges a few crumbs of dirt and a little gully happens, and the gully is more efficient at routing water, so things start happening. Just where things started happening originally, you get something like this. Completely random, it could have gone anyway. \n>\nYou make a whole world out of it. Here's a world that's completely pink, if you've ever been in the Grand Canyon, it is just almost overwhelming. If you look up, you have to remember to look up, there's a little bit of blue sky up above. The problem with human beings is we don't look up. We look out. \n>\nHere's an example. That's pretty washed out, but that's a pink plane, and our thoughts are like ants crawling over it. We can think about things, we can make progress, we can run into an obstacle, we can get around the obstacle, and so forth, but everything we're doing here is pink except we don't know it's pink because we've never been in anything else but pink. This is like a fish not knowing it's in water. It's always been in water. \n>\nEvery once in a while, you might have a little outlaw thought, a little blue thought, but you've been to school, you're going to Stanford, you go to church, temple, synagogue, mosque, whatever it is, because our beliefs project out. When we see something that isn't normal, normal is actually the same as crazy. Smash. maybe you're out for a run, you're just waking up in the morning, you're taking a shower, and all of a sudden, you get a, \"Holy shit, holy shit, there's a blue world, a blue world that's orthogonal to the one I'm in.\" \n>\nOnce you're in that blue world, you realize, \"Oh, there's probably a lot of them.\" Can you see each one of these as a context? Can you see that what happened from the Renaissance by Newton, to our modern age, was going from a pink plane to a blue plain? \n"
+      },
+      "date": 1550460448174
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "In passing, Ward mentioned Alan Kay's Blue Plane concept during our conversation on Saturday. Intrigued, I started exploring and found this concept came out of a talk that he gave at Stanford called [https://youtu.be/1e8VZlPBx_0 How to Invent the Future]."
+      },
+      "date": 1550460548107
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "This concept of an orthogonal plane that transforms our understanding of reality was likely derived from the _The Act of Creation_ a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. In this book he talked about how creative is derived from the juxtaposition of two planes, or matrices. These matrices create a \"biassociation\" that forces an assimilation the creation of the new understanding. \n"
+      },
+      "date": 1550460601529
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of an orthogonal plane that transforms our understanding of reality was likely derived from the _The Act of Creation_ a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. In this book he talked about how creative is derived from the juxtaposition of two planes, or matrices. These matrices create a \"biassociation\" that forces an assimilation the creation of the new understanding. \n"
+      },
+      "date": 1550460606369
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of an orthogonal plane that transforms our understanding of reality was likely derived from _The Act of Creation_ a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. In this book he talked about how creative is derived from the juxtaposition of two planes, or matrices. These matrices create a \"biassociation\" that forces an assimilation the creation of the new understanding. \n"
+      },
+      "date": 1550460617021
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of an orthogonal plane that transforms our understanding of reality was likely derived from _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. In this book he talked about how creative is derived from the juxtaposition of two planes, or matrices. These matrices create a \"biassociation\" that forces an assimilation the creation of the new understanding. \n"
+      },
+      "date": 1550460625238
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of an orthogonal plane that transforms our understanding of reality was likely derived from _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. In this book Koestler talked about how creative is derived from the juxtaposition of two planes, or matrices. These matrices create a \"biassociation\" that forces an assimilation the creation of the new understanding. \n"
+      },
+      "date": 1550460640103
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of an orthogonal plane that transforms our understanding of reality was likely derived from _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. In this book Koestler explored how creativity is derived from the juxtaposition of two planes, or matrices. These matrices create a \"biassociation\" that forces an assimilation the creation of the new understanding. \n"
+      },
+      "date": 1550460657430
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of an orthogonal plane that transforms our understanding of reality was likely derived from _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. In this book Koestler developed a theory that creativity is derived from the juxtaposition of two orthogonal planes, or matrices. These matrices create a \"biassociation\" that forces an assimilation the creation of the new understanding. \n"
+      },
+      "date": 1550460696109
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of an orthogonal plane that transforms our understanding of reality was likely derived from _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. In this book Koestler developed a theory that creativity is derived from the juxtaposition of two orthogonal planes, what he called matrices. These matrices create a \"biassociation\" that forces an assimilation the creation of the new understanding. \n"
+      },
+      "date": 1550460710980
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of an orthogonal plane that transforms our understanding of reality was likely derived from _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. In this book Koestler developed a theory that creativity is derived from the juxtaposition of two orthogonal planes, what he called matrices. These two matrices create a \"biassociation\" that forces an assimilation the creation of the new understanding. \n"
+      },
+      "date": 1550460731915
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of an orthogonal plane that transforms our understanding of reality was likely derived from _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. In this book Koestler developed a theory that creativity is derived from the juxtaposition of two orthogonal planes, what he called matrices. These two matrices create a \"biassociation\" that forces an assimilation that leads to the development of the new understanding. \n"
+      },
+      "date": 1550460756458
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of an orthogonal plane that transforms our understanding of reality was likely derived from _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. In this book Koestler developed a theory that creativity is derived from the juxtaposition of two orthogonal planes, what he called matrices. These two matrices create a \"biassociation\" that forces an assimilation that leads to the development of new understanding. \n"
+      },
+      "date": 1550460763067
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "_The concept of \"matrices of thought\" appear similar to what Piaget called [[Schema]]s. The reconfiguration of understanding could also be called a [[Dialectical Synthesis]]. _"
+      },
+      "date": 1550460787951
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "_The concept of \"matrices of thought\" appear similar to what Piaget called [[Schema]]s. The reconfiguration of understanding could be called a [[Dialectical Synthesis]]. _"
+      },
+      "date": 1550460807871
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "_The concept of \"matrices of thought\" appear similar to what Piaget called [[Schema]]s. The reconfiguration of understanding could also be called a [[Dialectical Synthesis]]. _"
+      },
+      "date": 1550460819363
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "_The concept of \"matrices of thought\" appear similar to what Piaget called [[Schema]]s. The \"bisociation\" of thought could also be called a [[Dialectical Synthesis]]. _"
+      },
+      "date": 1550460855534
+    },
+    {
+      "type": "edit",
+      "id": "e00f83d2319954ca",
+      "item": {
+        "type": "markdown",
+        "id": "e00f83d2319954ca",
+        "text": "For Kay, his Blue Plane was a world where technology solutions could be re-imagined within the context of future possibility, not current constraints. It was within these [[Collective Ideaspaces]] that he led his team - a Blue Plane of thought - that he and his team created, looking not to create incremental innovation, but transformational invention. \n"
+      },
+      "date": 1550460902304
+    },
+    {
+      "type": "edit",
+      "id": "e00f83d2319954ca",
+      "item": {
+        "type": "markdown",
+        "id": "e00f83d2319954ca",
+        "text": "For Kay, his Blue Plane was a world where technology solutions could be re-imagined within the context of future possibility, not current constraints. It was within these [[Collective Ideaspaces]] that he led his team - a Blue Plane of thought - where he and his team sought transformational invention not to create incremental innovation.\n"
+      },
+      "date": 1550460940214
+    },
+    {
+      "type": "edit",
+      "id": "e00f83d2319954ca",
+      "item": {
+        "type": "markdown",
+        "id": "e00f83d2319954ca",
+        "text": "For Kay, his Blue Plane was a world where technology solutions could be re-imagined within the context of future possibility, not current constraints. It was within these [[Collective Ideaspaces]] that he led his team - a Blue Plane of thought - where he and his team sought transformational invention not just incremental innovation.\n"
+      },
+      "date": 1550460956504
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC] they were not building a radical new user experience for the Alto, but for the Dynabook, a simple hand-held graphical computer that a child could use some day in the future. Their Blue Plane transformed everything."
+      },
+      "date": 1550461026372
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC] they were not building a radical new user experience for the Alto, but for the Dynabook, a simple hand-held graphical computer that a child could use some day in distant future. Their Blue Plane transformed everything."
+      },
+      "date": 1550461052206
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "In passing, Ward mentioned Alan Kay's Blue Plane concept during our conversation on Saturday. Intrigued, I started exploring and found that this concept came out of a talk that he gave at Stanford called [https://youtu.be/1e8VZlPBx_0 How to Invent the Future]."
+      },
+      "date": 1550461073777
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "In passing, Ward mentioned Alan Kay's Blue Plane concept during our conversation on Saturday. Intrigued, I started exploring and found that this concept came out of a talk that he gave at Stanford called [https://youtu.be/1e8VZlPBx_0 How to Invent the Future]:"
+      },
+      "date": 1550461087644
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "In passing, Ward mentioned Alan Kay's Blue Plane concept during our conversation on Saturday. Intrigued, I started exploring and found that this concept came out of a talk that he gave at Stanford called [https://youtu.be/1e8VZlPBx_0 How to Invent the Future:]"
+      },
+      "date": 1550461099844
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "In passing, Ward mentioned Alan Kay's blue plane concept during our conversation on Saturday. Intrigued, I started exploring and found that this concept came out of a talk that he gave at Stanford called [https://youtu.be/1e8VZlPBx_0 How to Invent the Future:]"
+      },
+      "date": 1550461143623
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "_The concept of \"matrices of thought\" appear similar to what Piaget called [[Schema]]s. The \"bisociation\" of thought might also be called a [[Dialectical Synthesis]]. _"
+      },
+      "date": 1550461185785
+    },
+    {
+      "type": "edit",
+      "id": "e00f83d2319954ca",
+      "item": {
+        "type": "markdown",
+        "id": "e00f83d2319954ca",
+        "text": "For Kay, his Blue Plane was a world where technology solutions could be re-imagined within the context of future possibility, not current constraints. It was within these [[Collective Ideaspaces]] that he led his team - a blue plane of thought - where he and his team sought transformational invention not just incremental innovation.\n"
+      },
+      "date": 1550461226596
+    },
+    {
+      "type": "edit",
+      "id": "e00f83d2319954ca",
+      "item": {
+        "type": "markdown",
+        "id": "e00f83d2319954ca",
+        "text": "For Kay, his blue plane was a world where technology solutions could be re-imagined within the context of future possibility, not current constraints. It was within these [[Collective Ideaspaces]] that he led his team - a blue plane of thought - where he and his team sought transformational invention not just incremental innovation.\n"
+      },
+      "date": 1550461237299
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC] they were not building a radical new user experience for the Alto, but for the Dynabook, a simple hand-held graphical computer that a child could use some day in distant future. Their blue plane [[Audacious Aspiration]] transformed everything."
+      },
+      "date": 1550461283787
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC] they were not building a radical new user experience for the Alto, but for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use some day in distant future. Their blue plane [[Audacious Aspiration]] transformed everything."
+      },
+      "date": 1550461475695
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC] they were not building a radical new user experience for the Alto, but for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use some day in distant future. Their blue plane [[Audacious Aspiration]] laid the foundation for our new creative economy. "
+      },
+      "date": 1550461529426
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC] Kay's team were not building a radical new user experience for the Alto, but for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use some day in distant future. Their blue plane [[Audacious Aspiration]] laid the foundation for our new creative economy. "
+      },
+      "date": 1550461688495
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC,] Kay's team were not building a radical new user experience for the Alto, but for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use some day in distant future. Their blue plane [[Audacious Aspiration]] laid the foundation for our new creative economy. "
+      },
+      "date": 1550461698743
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC,] Kay's team were not building a radical new user interface for the Alto, but for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use some day in distant future. Their blue plane [[Audacious Aspiration]] laid the foundation for our new creative economy. "
+      },
+      "date": 1550461717562
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC,] Kay's team were not building a radical new user interface for the Alto, but a new experience for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use some day in distant future. Their blue plane [[Audacious Aspiration]] laid the foundation for our new creative economy. "
+      },
+      "date": 1550461740196
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC,] Kay's team were not building a user interface for the Alto, but a radical new experience for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use some day in distant future. Their blue plane [[Audacious Aspiration]] laid the foundation for our new creative economy. "
+      },
+      "date": 1550461766829
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC,] Kay's team were not building a user interface for the Alto, but a radical new experience for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use some day in distant future. Their blue plane [[Audacious Aspiration]] laid the foundation of our new creative economy. "
+      },
+      "date": 1550461800626
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC,] Kay's team were not building a user interface for the Alto, but a radical new experience for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use some day in distant future. Their blue plane [[Audacious Aspiration]] laid the foundation for our new creative economy. "
+      },
+      "date": 1550461813829
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC,] Kay's team was not building a user interface for the Alto, but a radical new experience for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use some day in distant future. Their blue plane [[Audacious Aspiration]] laid the foundation for our new creative economy. "
+      },
+      "date": 1550461902769
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "In passing, during our conversation on Saturday, Ward mentioned Alan Kay's blue plane concept. Intrigued, I started exploring and found that this concept came out of a talk that he gave at Stanford called [https://youtu.be/1e8VZlPBx_0 How to Invent the Future:]"
+      },
+      "date": 1550462391263
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of an orthogonal plane that transforms our understanding of reality was likely derived from _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. In this book Koestler developed a theory that creativity is derived from the juxtaposition of two orthogonal planes, what he called matrices. These two matrices create a \"biassociation\" that forces an assimilation that leads to the development of new framework of understanding. \n"
+      },
+      "date": 1550462444231
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC,] Kay's team was not building a user interface for the Alto, but a radical new user experience for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use some day in distant future. Their blue plane [[Audacious Aspiration]] laid the foundation for our new creative economy. "
+      },
+      "date": 1550462495677
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC,] Kay's team was not building a user interface for the Alto, but a radical new user experience for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use some day in distant future. Their blue plane [[Audacious Aspiration]] laid the foundation for our entire creative economy. "
+      },
+      "date": 1550462527909
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "In passing during our conversation on Saturday, Ward mentioned Alan Kay's blue plane concept. Intrigued, I started exploring and found that this concept came out of a talk that he gave at Stanford called [https://youtu.be/1e8VZlPBx_0 How to Invent the Future:]"
+      },
+      "date": 1550462578949
+    },
+    {
+      "type": "add",
+      "id": "a9af3cf0937601e2",
+      "item": {
+        "type": "paragraph",
+        "id": "a9af3cf0937601e2",
+        "text": "[[Meaning Matrix]]"
+      },
+      "after": "b32f96503cb8faf0",
+      "date": 1550505636215
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "During our conversation on Saturday, Ward mentioned Alan Kay's blue plane concept. Intrigued, I started exploring and found that this concept came out of a talk that he gave at Stanford called [https://youtu.be/1e8VZlPBx_0 How to Invent the Future:]"
+      },
+      "date": 1550507436212
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC,] Kay's team was not building a user interface for the Alto, but a radical new user experience for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use some day in distant future. The Alto was simply the best way they could represent this new experience within current technological constraints. Their blue plane [[Audacious Aspiration]] laid the foundation for our entire creative economy. "
+      },
+      "date": 1550507571885
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC,] Kay's team was not building a user interface for the Alto, but a radical new user experience for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use some day in distant future. The Alto was simply the best way they could represent this new experience within current technological constraints. "
+      },
+      "date": 1550507586329
+    },
+    {
+      "type": "add",
+      "id": "0bae92eb331e7c27",
+      "item": {
+        "type": "paragraph",
+        "id": "0bae92eb331e7c27",
+        "text": "Their blue plane [[Audacious Aspiration]] laid the foundation for our entire creative economy. "
+      },
+      "after": "b32f96503cb8faf0",
+      "date": 1550507587285
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of an orthogonal plane that transforms our understanding of reality was likely derived from _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. In this book Koestler developed a theory that creativity is derived from the juxtaposition of two orthogonal planes, what he called matrices. These two matrices create a \"bisociation\" that forces an assimilation that leads to the development of new framework of understanding. \n"
+      },
+      "date": 1550540209840
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC,] Kay's team was not building a user interface for the Alto, but a radical new user experience for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use some day in distant future. The Alto was simply the best way they could explore this new experience within current technological constraints. "
+      },
+      "date": 1550540256756
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "Alan Kay's used the metaphor of the blue plane concept in a talk that he gave at Stanford called [https://youtu.be/1e8VZlPBx_0 How to Invent the Future:]"
+      },
+      "date": 1550709162291
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "Alan Kay used the metaphor of the blue plane concept in a talk that he gave at Stanford called [https://youtu.be/1e8VZlPBx_0 How to Invent the Future:]"
+      },
+      "date": 1550709167926
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "Alan Kay used the metaphor of the blue plane in a talk that he gave at Stanford called [https://youtu.be/1e8VZlPBx_0 How to Invent the Future:]"
+      },
+      "date": 1550709177246
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC,] Kay's team was not building a user interface for the Alto, but a radical new user experience for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use some day in distant future. The Alto was simply the best way they could explore this new experience within his current technological constraints. "
+      },
+      "date": 1550709244395
+    },
+    {
+      "type": "fork",
+      "site": "thompson.wiki.innovateoregon.org",
+      "date": 1552083612486
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "64502ca3b7ef4452"
+      },
+      "id": "64502ca3b7ef4452",
+      "type": "add",
+      "after": "a9af3cf0937601e2",
+      "date": 1552583075183
+    },
+    {
+      "type": "remove",
+      "id": "64502ca3b7ef4452",
+      "date": 1552583082327
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3584040df2656405"
+      },
+      "id": "3584040df2656405",
+      "type": "add",
+      "after": "a9af3cf0937601e2",
+      "date": 1552583089155
+    },
+    {
+      "type": "edit",
+      "id": "3584040df2656405",
+      "item": {
+        "type": "paragraph",
+        "id": "3584040df2656405",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552583092203
+    },
+    {
+      "type": "edit",
+      "id": "3584040df2656405",
+      "item": {
+        "type": "graphviz",
+        "id": "3584040df2656405",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552583101549
+    },
+    {
+      "type": "edit",
+      "id": "3584040df2656405",
+      "item": {
+        "type": "graphviz",
+        "id": "3584040df2656405",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552583110238
+    },
+    {
+      "type": "edit",
+      "id": "3584040df2656405",
+      "item": {
+        "type": "graphviz",
+        "id": "3584040df2656405",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552583961800
+    },
+    {
+      "type": "edit",
+      "id": "3584040df2656405",
+      "item": {
+        "type": "graphviz",
+        "id": "3584040df2656405",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552584347738
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b8f0fcd699479fba"
+      },
+      "id": "b8f0fcd699479fba",
+      "type": "add",
+      "after": "3584040df2656405",
+      "date": 1553016435039
+    },
+    {
+      "type": "edit",
+      "id": "b8f0fcd699479fba",
+      "item": {
+        "type": "graphviz",
+        "id": "b8f0fcd699479fba",
+        "text": "DOT strict digraph\n\n  rankdir=LR\n  \n  node [style=filled fillcolor=lightyellow]\n  HERE NODE\n\n    node [style=filled fillcolor=lightblue]\n    WHERE /^Next/\n      LINKS HERE -> NODE\n\n    node [style=filled fillcolor=white]\n    LINKS HERE -> NODE\n       HERE NODE\n        LINKS HERE -> NODE\n          HERE NODE\n            LINKS HERE -> NODE\n"
+      },
+      "date": 1553016470559
+    },
+    {
+      "type": "edit",
+      "id": "b8f0fcd699479fba",
+      "item": {
+        "type": "graphviz",
+        "id": "b8f0fcd699479fba",
+        "text": "DOT strict digraph\n\n  rankdir=LR\n  \n  node [style=filled fillcolor=lightyellow]\n  HERE NODE\n\n    node [style=filled fillcolor=lightblue]\n    WHERE /^Next/\n      LINKS HERE -> NODE\n\n    node [style=filled fillcolor=white]\n    LINKS HERE -> NODE\n       HERE NODE\n        LINKS HERE -> NODE\n          HERE NODE\n            LINKS HERE -> NODE\n              HERE NODE\n                LINKS HERE -> NODE\n                 HERE NODE\n                   LINKS HERE -> NODE\n"
+      },
+      "date": 1553016545799
+    },
+    {
+      "type": "remove",
+      "id": "b8f0fcd699479fba",
+      "date": 1553018630538
+    },
+    {
+      "type": "remove",
+      "id": "a9af3cf0937601e2",
+      "date": 1554223263322
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "This \"bisociation\" of thought is a [[Dialectical Synthesis]]. "
+      },
+      "date": 1554223398722
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "This \"bisociation\" of thought creates a [[Dialectical Synthesis]]. "
+      },
+      "date": 1554223411244
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "This \"bisociation\" of thought is a [[Dialectical Synthesis]]. "
+      },
+      "date": 1554223424048
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "[[Alan Kay]] used the metaphor of the blue plane in a talk that he gave at Stanford called [https://youtu.be/1e8VZlPBx_0 How to Invent the Future:]"
+      },
+      "date": 1554350911462
+    },
+    {
+      "type": "edit",
+      "id": "d3553f2a12c8e2c7",
+      "item": {
+        "type": "markdown",
+        "id": "d3553f2a12c8e2c7",
+        "text": "> Okay, so, a quick easy model is how randomness is, is a little bit of rainwater on dirt, dislodges a few crumbs of dirt and a little gully happens, and the gully is more efficient at routing water, so things start happening. Just where things started happening originally, you get something like this. Completely random, it could have gone anyway. \n>\nYou make a whole world out of it. Here's a world that's completely pink, if you've ever been in the Grand Canyon, it is just almost overwhelming. If you look up, you have to remember to look up, there's a little bit of blue sky up above. The problem with human beings is we don't look up. We look out. \n>\nHere's an example. That's pretty washed out, but that's a pink plane, and our thoughts are like ants crawling over it. We can think about things, we can make progress, we can run into an obstacle, we can get around the obstacle, and so forth, but everything we're doing here is pink except we don't know it's pink because we've never been in anything else but pink. This is like a fish not knowing it's in water. It's always been in water. \n>\nEvery once in a while, you might have a little outlaw thought, a little blue thought, but you've been to school, you're going to Stanford, you go to church, temple, synagogue, mosque, whatever it is, because our beliefs project out. When we see something that isn't normal, normal is actually the same as crazy. Smash. maybe you're out for a run, you're just waking up in the morning, you're taking a shower, and all of a sudden, you get a, \"Holy shit, holy shit, there's a blue world, a blue world that's orthogonal to the one I'm in.\" \n>\nOnce you're in that blue world, you realize, \"Oh, there's probably a lot of them.\" Can you see each one of these as a context? Can you see that what happened from the Renaissance by Newton, to our modern age, was going from a pink plane to a blue plane? \n"
+      },
+      "date": 1562000257163
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "This \"bisociation\" of thought creates a [[Dialectical Synthesis]]. "
+      },
+      "date": 1562000315014
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "[[Alan Kay]] coined the term \"blue plane\"\n"
+      },
+      "date": 1562000691539
+    },
+    {
+      "type": "add",
+      "id": "912ad6ccc468cdc6",
+      "item": {
+        "type": "markdown",
+        "id": "912ad6ccc468cdc6",
+        "text": " of the blue plane in a talk that he gave at Stanford called [https://youtu.be/1e8VZlPBx_0 How to Invent the Future:]"
+      },
+      "after": "764ad32826c492b5",
+      "date": 1562000693919
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "[[Alan Kay]] coined the term \"blue plane\". To understand it, you need to tell a story.\n"
+      },
+      "date": 1562000720379
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "[[Alan Kay]] coined the term \"blue plane\". To explain it, he needed to tell a story.\n"
+      },
+      "date": 1562000733349
+    },
+    {
+      "type": "add",
+      "id": "94e635825557af3e",
+      "item": {
+        "type": "markdown",
+        "id": "94e635825557af3e",
+        "text": "A story of the Grand Canyon. \n"
+      },
+      "after": "764ad32826c492b5",
+      "date": 1562000753860
+    },
+    {
+      "type": "edit",
+      "id": "94e635825557af3e",
+      "item": {
+        "type": "paragraph",
+        "id": "94e635825557af3e",
+        "text": "A story of the Grand Canyon. "
+      },
+      "date": 1562000795610
+    },
+    {
+      "type": "edit",
+      "id": "94e635825557af3e",
+      "item": {
+        "type": "paragraph",
+        "id": "94e635825557af3e",
+        "text": "A story of the Grand Canyon.  "
+      },
+      "date": 1562000823895
+    },
+    {
+      "type": "add",
+      "id": "1de61369d63f204a",
+      "item": {
+        "type": "paragraph",
+        "id": "1de61369d63f204a",
+        "text": "A canyon that was slowly created by the Colorado River. Etching deeper and deeper, into the earth. Until it created a world unto its own."
+      },
+      "after": "94e635825557af3e",
+      "date": 1562000879524
+    },
+    {
+      "type": "add",
+      "id": "7d3f8cb577650110",
+      "item": {
+        "type": "paragraph",
+        "id": "7d3f8cb577650110",
+        "text": "If you have ever been to the bottom of the canyon you will understand. The journey down is a long one. But as you do, the world above drifts away. You enter a new world. The world of the canyon. It is a profound experience."
+      },
+      "after": "1de61369d63f204a",
+      "date": 1562000956768
+    },
+    {
+      "type": "add",
+      "id": "9df2459523b476d8",
+      "item": {
+        "type": "paragraph",
+        "id": "9df2459523b476d8",
+        "text": "There, at the bottom, is this new reality. And it is beautiful. But you notice that the light down there is different. It has a pink hue, as the sunlight reflects off of the walls. "
+      },
+      "after": "7d3f8cb577650110",
+      "date": 1562001060236
+    },
+    {
+      "type": "add",
+      "id": "7b3c1baa69b106b4",
+      "item": {
+        "type": "paragraph",
+        "id": "7b3c1baa69b106b4",
+        "text": "We soon see the world and make our decisions entirely from this new context. What is possible. What is not possible. "
+      },
+      "after": "9df2459523b476d8",
+      "date": 1562001138786
+    },
+    {
+      "type": "add",
+      "id": "993760144ee2006b",
+      "item": {
+        "type": "paragraph",
+        "id": "993760144ee2006b",
+        "text": "Kay talks about our current reality is being similar. "
+      },
+      "after": "7b3c1baa69b106b4",
+      "date": 1562001198625
+    },
+    {
+      "type": "edit",
+      "id": "7b3c1baa69b106b4",
+      "item": {
+        "type": "paragraph",
+        "id": "7b3c1baa69b106b4",
+        "text": "We soon see the world and make our decisions entirely from this new context. What is possible. What is not possible in this pink plane. "
+      },
+      "date": 1562001233897
+    },
+    {
+      "type": "edit",
+      "id": "993760144ee2006b",
+      "item": {
+        "type": "paragraph",
+        "id": "993760144ee2006b",
+        "text": "Kay talks about our current reality is being similar to this pink plane. The plane in which we make our decisions based on what we believe to be possible."
+      },
+      "date": 1562001281339
+    },
+    {
+      "type": "add",
+      "id": "0dba53fdbe3d4a38",
+      "item": {
+        "type": "paragraph",
+        "id": "0dba53fdbe3d4a38",
+        "text": "But then, he challenges us to look toward the sky above us, that small, intense sliver of deep blue that is above our canyon. Where there are now walls. Just infinite blue."
+      },
+      "after": "993760144ee2006b",
+      "date": 1562001372251
+    },
+    {
+      "type": "edit",
+      "id": "0dba53fdbe3d4a38",
+      "item": {
+        "type": "paragraph",
+        "id": "0dba53fdbe3d4a38",
+        "text": "But then, he challenges us to look toward the sky above us, that small, intense sliver of deep blue that is above our canyon. Where there are no walls. Just infinite blue. "
+      },
+      "date": 1562001379806
+    },
+    {
+      "type": "add",
+      "id": "6da5a7ba9384f624",
+      "item": {
+        "type": "paragraph",
+        "id": "6da5a7ba9384f624",
+        "text": "If reimagine the possible based on the infinite blue, the blue plane, our thinking shifts. We are no longer constricted by the possibilities of the present, but by the potential of the future. On that blue plane we can call forth our [[Audacious Aspirations]]."
+      },
+      "after": "0dba53fdbe3d4a38",
+      "date": 1562001517150
+    },
+    {
+      "type": "edit",
+      "id": "6da5a7ba9384f624",
+      "item": {
+        "type": "paragraph",
+        "id": "6da5a7ba9384f624",
+        "text": "If reimagine the possible based on the infinite blue, the blue plane, our thinking shifts. We are no longer constricted by the possibilities of the present, but by the potential of the future. On that blue plane we can call forth our [[Audacious Aspiration]]."
+      },
+      "date": 1562001528352
+    },
+    {
+      "type": "edit",
+      "id": "6da5a7ba9384f624",
+      "item": {
+        "type": "paragraph",
+        "id": "6da5a7ba9384f624",
+        "text": "If reimagine the possible based on the infinite blue, the blue plane, our thinking shifts. We are no longer constricted by the possibilities of the present, but by the potential of the future. On that blue plane we can call forth an [[Audacious Aspiration]]."
+      },
+      "date": 1562001536389
+    },
+    {
+      "type": "add",
+      "id": "8da2eaa320288f64",
+      "item": {
+        "type": "paragraph",
+        "id": "8da2eaa320288f64",
+        "text": "With this audacity, Kay led the reimagining of what a computer is, turning it from a sophisticating calculating machine to a tool that could be used to unleash our creativity. "
+      },
+      "after": "6da5a7ba9384f624",
+      "date": 1562001698418
+    },
+    {
+      "type": "move",
+      "order": [
+        "764ad32826c492b5",
+        "94e635825557af3e",
+        "1de61369d63f204a",
+        "7d3f8cb577650110",
+        "9df2459523b476d8",
+        "7b3c1baa69b106b4",
+        "993760144ee2006b",
+        "0dba53fdbe3d4a38",
+        "6da5a7ba9384f624",
+        "8da2eaa320288f64",
+        "912ad6ccc468cdc6",
+        "aac459cff3e1f076",
+        "d3553f2a12c8e2c7",
+        "66c48ca80001a7f8",
+        "3019a98a383cc04d",
+        "e00f83d2319954ca",
+        "b32f96503cb8faf0",
+        "0bae92eb331e7c27",
+        "3584040df2656405"
+      ],
+      "id": "aac459cff3e1f076",
+      "date": 1562001715555
+    },
+    {
+      "type": "edit",
+      "id": "6da5a7ba9384f624",
+      "item": {
+        "type": "paragraph",
+        "id": "6da5a7ba9384f624",
+        "text": "If reimagine the possible based on the infinite blue, the blue plane, our thinking shifts. We are no longer constricted by the possibilities of the present, but by the potential of the future. On that blue plane that is perpendicular to our pink plane, we can call forth an [[Audacious Aspiration]]."
+      },
+      "date": 1562001763019
+    },
+    {
+      "type": "edit",
+      "id": "6da5a7ba9384f624",
+      "item": {
+        "type": "paragraph",
+        "id": "6da5a7ba9384f624",
+        "text": "If reimagine the possible based on the infinite blue, the blue plane, our thinking shifts. We are no longer constricted by the possibilities of the present, but by the potential of the future. On that blue plane that is perpendicular to our pink plane, we can call forth and aspire to an [[Audacious Aspiration]]."
+      },
+      "date": 1562001813080
+    },
+    {
+      "type": "remove",
+      "id": "912ad6ccc468cdc6",
+      "date": 1562001838228
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of an orthogonal plane that transforms our understanding of reality was derived from _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. In this book Koestler developed a theory that creativity is derived from the juxtaposition of two orthogonal planes, what he called matrices. These two matrices create a \"bisociation\" that forces an assimilation that leads to the development of new framework of understanding. \n"
+      },
+      "date": 1562001848791
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of an orthogonal plane that transforms our understanding of reality was inspired by _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. In this book Koestler developed a theory that creativity is derived from the juxtaposition of two orthogonal planes, what he called matrices. These two matrices create a \"bisociation\" that forces an assimilation that leads to the development of new framework of understanding. \n"
+      },
+      "date": 1562001860054
+    },
+    {
+      "type": "remove",
+      "id": "d3553f2a12c8e2c7",
+      "date": 1562001919246
+    },
+    {
+      "type": "remove",
+      "id": "66c48ca80001a7f8",
+      "date": 1562001942358
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of an orthogonal plane that transforms our understanding of reality was inspired by _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. \n"
+      },
+      "date": 1562002036653
+    },
+    {
+      "type": "add",
+      "id": "345e1e20bf040167",
+      "item": {
+        "type": "markdown",
+        "id": "345e1e20bf040167",
+        "text": "In this book Koestler developed a theory that creativity is derived from the juxtaposition of two orthogonal planes, what he called matrices. These two matrices create a \"bisociation\" that forces an assimilation that leads to the development of new framework of understanding. \n"
+      },
+      "after": "aac459cff3e1f076",
+      "date": 1562002037824
+    },
+    {
+      "type": "move",
+      "order": [
+        "764ad32826c492b5",
+        "94e635825557af3e",
+        "1de61369d63f204a",
+        "7d3f8cb577650110",
+        "9df2459523b476d8",
+        "7b3c1baa69b106b4",
+        "993760144ee2006b",
+        "0dba53fdbe3d4a38",
+        "6da5a7ba9384f624",
+        "8da2eaa320288f64",
+        "b32f96503cb8faf0",
+        "aac459cff3e1f076",
+        "345e1e20bf040167",
+        "3019a98a383cc04d",
+        "e00f83d2319954ca",
+        "0bae92eb331e7c27",
+        "3584040df2656405"
+      ],
+      "id": "b32f96503cb8faf0",
+      "date": 1562002108711
+    },
+    {
+      "type": "move",
+      "order": [
+        "764ad32826c492b5",
+        "94e635825557af3e",
+        "1de61369d63f204a",
+        "7d3f8cb577650110",
+        "9df2459523b476d8",
+        "7b3c1baa69b106b4",
+        "993760144ee2006b",
+        "0dba53fdbe3d4a38",
+        "6da5a7ba9384f624",
+        "8da2eaa320288f64",
+        "b32f96503cb8faf0",
+        "aac459cff3e1f076",
+        "345e1e20bf040167",
+        "3019a98a383cc04d",
+        "e00f83d2319954ca",
+        "0bae92eb331e7c27",
+        "3584040df2656405"
+      ],
+      "id": "b32f96503cb8faf0",
+      "date": 1562002108711
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC,] Kay's team was not building a user interface for the Alto, but a radical new user experience for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use in distant future. The Alto was simply the best way they could explore this new experience within his current technological constraints. "
+      },
+      "date": 1562002141169
+    },
+    {
+      "type": "add",
+      "id": "207eeef175728fab",
+      "item": {
+        "type": "paragraph",
+        "id": "207eeef175728fab",
+        "text": "An experience that was initially introduced to "
+      },
+      "after": "b32f96503cb8faf0",
+      "date": 1562002218791
+    },
+    {
+      "type": "edit",
+      "id": "207eeef175728fab",
+      "item": {
+        "type": "paragraph",
+        "id": "207eeef175728fab",
+        "text": "An experience that was initially introduced to the market by Apple with their release in 1984 of the Macintosh computer. A computer that changed everything. "
+      },
+      "date": 1562002271787
+    },
+    {
+      "type": "edit",
+      "id": "207eeef175728fab",
+      "item": {
+        "type": "paragraph",
+        "id": "207eeef175728fab",
+        "text": "An experience that was initially introduced to the market by Apple in 1984 with their Macintosh computer. A computer that changed everything. "
+      },
+      "date": 1562002313145
+    },
+    {
+      "type": "edit",
+      "id": "207eeef175728fab",
+      "item": {
+        "type": "paragraph",
+        "id": "207eeef175728fab",
+        "text": "An experience that was introduced to the market by Apple in 1984 with their Macintosh computer. A computer that changed everything. "
+      },
+      "date": 1562002343412
+    },
+    {
+      "type": "edit",
+      "id": "9df2459523b476d8",
+      "item": {
+        "type": "paragraph",
+        "id": "9df2459523b476d8",
+        "text": "There, at the bottom, is this new reality. You notice that the light down there is different. It has a pink hue, as the sunlight reflects off of the walls. "
+      },
+      "date": 1562002459758
+    },
+    {
+      "type": "edit",
+      "id": "9df2459523b476d8",
+      "item": {
+        "type": "paragraph",
+        "id": "9df2459523b476d8",
+        "text": "There, at the bottom, is this new reality. You notice that the light down there is different. It has a pink hue, as the sunlight reflects off of the canyon walls. "
+      },
+      "date": 1562002464752
+    },
+    {
+      "type": "edit",
+      "id": "7b3c1baa69b106b4",
+      "item": {
+        "type": "paragraph",
+        "id": "7b3c1baa69b106b4",
+        "text": "We soon see the world and make our decisions entirely from this new reality. What is possible. What is not possible in this pink plane. "
+      },
+      "date": 1562002480237
+    },
+    {
+      "type": "edit",
+      "id": "7b3c1baa69b106b4",
+      "item": {
+        "type": "paragraph",
+        "id": "7b3c1baa69b106b4",
+        "text": "We soon make our decisions entirely from the context of this new reality. What is possible. What is not possible in this pink plane. "
+      },
+      "date": 1562002506676
+    },
+    {
+      "type": "edit",
+      "id": "0dba53fdbe3d4a38",
+      "item": {
+        "type": "paragraph",
+        "id": "0dba53fdbe3d4a38",
+        "text": "But then, he challenges us to look toward the sky above us, to that small, intense sliver of deep blue that is above our canyon. Where there are no walls. Just infinite blue. "
+      },
+      "date": 1562002535286
+    },
+    {
+      "type": "edit",
+      "id": "6da5a7ba9384f624",
+      "item": {
+        "type": "paragraph",
+        "id": "6da5a7ba9384f624",
+        "text": "If we reimagine the possible based on the infinite blue, the blue plane, our thinking shifts. We are no longer constricted by the possibilities of the present, but by the potential of the future. On that blue plane that is perpendicular to our pink plane, we can call forth and aspire to an [[Audacious Aspiration]]."
+      },
+      "date": 1562002559092
+    },
+    {
+      "type": "edit",
+      "id": "6da5a7ba9384f624",
+      "item": {
+        "type": "paragraph",
+        "id": "6da5a7ba9384f624",
+        "text": "If we reimagine the possible based on that infinite blue, the blue plane, our thinking shifts. We are no longer constricted by the possibilities of the present, but by the potential of the future. On that blue plane that is perpendicular to our pink plane, we can call forth and aspire to an [[Audacious Aspiration]]."
+      },
+      "date": 1562002566327
+    },
+    {
+      "type": "edit",
+      "id": "6da5a7ba9384f624",
+      "item": {
+        "type": "paragraph",
+        "id": "6da5a7ba9384f624",
+        "text": "If we reimagine the possible based on that infinite blue, the blue plane, our thinking shifts. We are no longer constricted by the possibilities of the present, but inspired by the potential of a future. On that blue plane that is perpendicular to our pink plane, we can call forth and aspire to an [[Audacious Aspiration]]."
+      },
+      "date": 1562002594284
+    },
+    {
+      "type": "edit",
+      "id": "6da5a7ba9384f624",
+      "item": {
+        "type": "paragraph",
+        "id": "6da5a7ba9384f624",
+        "text": "If we reimagine the possible based on that infinite blue, the blue plane, our thinking shifts. We are no longer constricted by the possibilities of the present, but inspired by the potential of a future. As we reimagine on that blue plane that is perpendicular to our pink plane, we can call forth and aspire to an [[Audacious Aspiration]]."
+      },
+      "date": 1562002625673
+    },
+    {
+      "type": "edit",
+      "id": "8da2eaa320288f64",
+      "item": {
+        "type": "paragraph",
+        "id": "8da2eaa320288f64",
+        "text": "With this audacity, Kay led the reimagining of what a computer is, turning it from a calculating machine to a tool that could be used to unleash our creativity. "
+      },
+      "date": 1562002662402
+    },
+    {
+      "type": "edit",
+      "id": "207eeef175728fab",
+      "item": {
+        "type": "paragraph",
+        "id": "207eeef175728fab",
+        "text": "An experience that was later introduced to the market by Apple in 1984 with their Macintosh computer. A computer that changed everything. "
+      },
+      "date": 1562002709404
+    },
+    {
+      "type": "edit",
+      "id": "207eeef175728fab",
+      "item": {
+        "type": "paragraph",
+        "id": "207eeef175728fab",
+        "text": "An experience that was later introduced to the general market by Apple in 1984 with their Macintosh computer. A computer that changed everything. "
+      },
+      "date": 1562002721523
+    },
+    {
+      "type": "edit",
+      "id": "345e1e20bf040167",
+      "item": {
+        "type": "markdown",
+        "id": "345e1e20bf040167",
+        "text": "In this book, Koestler developed a theory that creativity is derived from the juxtaposition of two orthogonal planes, what he called matrices. These two matrices create a \"bisociation\" that forces an assimilation that leads to the development of new framework of understanding. \n"
+      },
+      "date": 1562002744614
+    },
+    {
+      "type": "edit",
+      "id": "345e1e20bf040167",
+      "item": {
+        "type": "markdown",
+        "id": "345e1e20bf040167",
+        "text": "In this book, Koestler developed a theory that creativity is derived from the juxtaposition of two orthogonal planes, what he called matrices of thought. These two matrices create a \"bisociation\" that forces an assimilation that leads to the development of new framework of understanding. \n"
+      },
+      "date": 1562002757929
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "This \"bisociation\" creates a [[Dialectical Synthesis]]. "
+      },
+      "date": 1562002785931
+    },
+    {
+      "type": "remove",
+      "id": "e00f83d2319954ca",
+      "date": 1562002842416
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC] in the 1970's, Kay's team was not building a user interface for the Alto, but a radical new user experience for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use in distant future. The Alto was simply the best way they could explore this new experience within his current technological constraints. "
+      },
+      "date": 1562002916402
+    },
+    {
+      "type": "edit",
+      "id": "207eeef175728fab",
+      "item": {
+        "type": "paragraph",
+        "id": "207eeef175728fab",
+        "text": "An experience that was later introduced to the general market by Apple in 1984 with their Macintosh computer. A computer that  laid the foundation for our entire creative economy. "
+      },
+      "date": 1562003081981
+    },
+    {
+      "type": "edit",
+      "id": "8da2eaa320288f64",
+      "item": {
+        "type": "paragraph",
+        "id": "8da2eaa320288f64",
+        "text": "With this audacity, Kay led the reimagining of what a computer is, turning it from a calculating machine to a tool that could be used to unleash our creativity laid the foundation for our new economy. "
+      },
+      "date": 1562003142893
+    },
+    {
+      "type": "edit",
+      "id": "207eeef175728fab",
+      "item": {
+        "type": "paragraph",
+        "id": "207eeef175728fab",
+        "text": "An experience that was later introduced to the general market by Apple in 1984 with their Macintosh computer. A computer that changed everything. "
+      },
+      "date": 1562003172667
+    },
+    {
+      "type": "edit",
+      "id": "0dba53fdbe3d4a38",
+      "item": {
+        "type": "paragraph",
+        "id": "0dba53fdbe3d4a38",
+        "text": "But then, he challenges us to look toward the sky above us, to that small, intense sliver of deep blue that is above our canyon. Where there are no walls. Just the infinite blue. "
+      },
+      "date": 1562003214939
+    },
+    {
+      "type": "edit",
+      "id": "7d3f8cb577650110",
+      "item": {
+        "type": "paragraph",
+        "id": "7d3f8cb577650110",
+        "text": "If you have ever been to the bottom of the canyon you will understand. The journey down is a long one. But as you do, you notice that the world above drifts away. You enter a new world. The world of the canyon. It is a profound experience."
+      },
+      "date": 1562003264927
+    },
+    {
+      "type": "edit",
+      "id": "7b3c1baa69b106b4",
+      "item": {
+        "type": "paragraph",
+        "id": "7b3c1baa69b106b4",
+        "text": "We soon make our decisions entirely from the context of this reality. What is possible. What is not possible in this pink plane. "
+      },
+      "date": 1562003291199
+    },
+    {
+      "type": "edit",
+      "id": "0dba53fdbe3d4a38",
+      "item": {
+        "type": "paragraph",
+        "id": "0dba53fdbe3d4a38",
+        "text": "But then, he challenges us to look toward the sky above us, to that small, intense sliver of deep blue that is above the canyon. Where there are no walls. Just the infinite blue. "
+      },
+      "date": 1562003315385
+    },
+    {
+      "type": "edit",
+      "id": "6da5a7ba9384f624",
+      "item": {
+        "type": "paragraph",
+        "id": "6da5a7ba9384f624",
+        "text": "If we reimagine the possible based on that blue, a blue plane, our thinking shifts. We are no longer constricted by the possibilities of the present, but inspired by the potential of a future. As we reimagine on that blue plane that is perpendicular to our pink plane, we can call forth and aspire to an [[Audacious Aspiration]]."
+      },
+      "date": 1562003346794
+    },
+    {
+      "type": "edit",
+      "id": "8da2eaa320288f64",
+      "item": {
+        "type": "paragraph",
+        "id": "8da2eaa320288f64",
+        "text": "With this audacity, Kay led the reimagining of what a computer is, turning it from a calculating machine to a tool that could be used to unleash our creativity. One that would lay the foundation for our new economy. "
+      },
+      "date": 1562003422264
+    },
+    {
+      "type": "edit",
+      "id": "8da2eaa320288f64",
+      "item": {
+        "type": "paragraph",
+        "id": "8da2eaa320288f64",
+        "text": "With this audacity, Kay led the reimagining of what a computer is, turning it from a calculating machine to a tool that could be used to unleash our creativity. One that would lay the at foundation for our new economy. "
+      },
+      "date": 1562003436764
+    },
+    {
+      "type": "edit",
+      "id": "8da2eaa320288f64",
+      "item": {
+        "type": "paragraph",
+        "id": "8da2eaa320288f64",
+        "text": "With this audacity, Kay led the reimagining of what a computer is, turning it from a calculating machine to a tool that could be used to unleash our creativity. One that would lay the at foundation of our new economy. "
+      },
+      "date": 1562003447414
+    },
+    {
+      "type": "edit",
+      "id": "8da2eaa320288f64",
+      "item": {
+        "type": "paragraph",
+        "id": "8da2eaa320288f64",
+        "text": "With this audacity, Kay led the reimagining of what a computer is, turning it from a calculating machine to a tool to unleash our creativity. One that would lay the at foundation of our new economy. "
+      },
+      "date": 1562003466180
+    },
+    {
+      "type": "edit",
+      "id": "8da2eaa320288f64",
+      "item": {
+        "type": "paragraph",
+        "id": "8da2eaa320288f64",
+        "text": "With this audacity, Kay led the reimagining of what a computer is, turning it from a calculating machine to a tool that might unleash our creativity. One that would lay the at foundation of our new economy. "
+      },
+      "date": 1562003477654
+    },
+    {
+      "type": "edit",
+      "id": "8da2eaa320288f64",
+      "item": {
+        "type": "paragraph",
+        "id": "8da2eaa320288f64",
+        "text": "With this audacity, Kay led the reimagining of what a computer is, turning it from a calculating machine to a tool that might unleash our creativity. One that would lay at the foundation of our new economy. "
+      },
+      "date": 1562003499049
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "A \"bisociation\" that created a [[Dialectical Synthesis]]. "
+      },
+      "date": 1562003589492
+    },
+    {
+      "type": "edit",
+      "id": "7d3f8cb577650110",
+      "item": {
+        "type": "paragraph",
+        "id": "7d3f8cb577650110",
+        "text": "If you have ever been to the bottom of the canyon you will understand. The journey down is a long one. But as you do, you notice that the world above drifts away. You enter another world. The world of the canyon. It is a profound experience."
+      },
+      "date": 1562003633577
+    },
+    {
+      "type": "edit",
+      "id": "7b3c1baa69b106b4",
+      "item": {
+        "type": "paragraph",
+        "id": "7b3c1baa69b106b4",
+        "text": "There, you soon make our decisions entirely from the context of this reality. What is possible. What is not possible in this pink plane. "
+      },
+      "date": 1562003667246
+    },
+    {
+      "type": "edit",
+      "id": "7b3c1baa69b106b4",
+      "item": {
+        "type": "paragraph",
+        "id": "7b3c1baa69b106b4",
+        "text": "There, you soon make decisions entirely from the context of this reality. What is possible. What is not possible in this pink plane. "
+      },
+      "date": 1562003673127
+    },
+    {
+      "type": "edit",
+      "id": "0dba53fdbe3d4a38",
+      "item": {
+        "type": "paragraph",
+        "id": "0dba53fdbe3d4a38",
+        "text": "He challenges us to look toward the sky above us, to that small, intense sliver of deep blue that is above the canyon. Where there are no walls. Just the infinite blue. "
+      },
+      "date": 1562003736397
+    },
+    {
+      "type": "edit",
+      "id": "6da5a7ba9384f624",
+      "item": {
+        "type": "paragraph",
+        "id": "6da5a7ba9384f624",
+        "text": "If we reimagine the possible based on that blue plane, our thinking shifts. We are no longer constricted by the possibilities of the present, but inspired by the potential of a future. As we reimagine on that blue plane that is perpendicular to our pink plane, we can call forth and aspire to an [[Audacious Aspiration]]."
+      },
+      "date": 1562003759093
+    },
+    {
+      "type": "edit",
+      "id": "6da5a7ba9384f624",
+      "item": {
+        "type": "paragraph",
+        "id": "6da5a7ba9384f624",
+        "text": "If we reimagine the possible based on that perpendicular blue plane, our thinking shifts. We are no longer constricted by the possibilities of the present, but inspired by the potential of a future. As we reimagine on that blue plane we can boldly aspire to an [[Audacious Aspiration]]. "
+      },
+      "date": 1562003847887
+    },
+    {
+      "type": "edit",
+      "id": "8da2eaa320288f64",
+      "item": {
+        "type": "paragraph",
+        "id": "8da2eaa320288f64",
+        "text": "With this audacity, Kay led the reimagining of what a computer is, turning it from a calculating machine to a tool that could unleash our creativity. One that would lay at the foundation of our new economy. "
+      },
+      "date": 1562003864913
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC] in the 1970's, Kay's team was not simply building a user interface for the Alto, but a radical new user experience for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use in distant future. The Alto was simply the best way they could explore this new experience within his current technological constraints. "
+      },
+      "date": 1562003928442
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC] in the 1970's, Kay's team was not simply building a user interface for Xerox's Alto computer, but a radical new user experience for the [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use in distant future. The Alto was simply the best way they could explore this new experience within his current technological constraints. "
+      },
+      "date": 1562003952896
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC] in the 1970's, Kay's team was not simply building a user interface for Xerox's Alto computer, but a radical new user experience for an imagined [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child could use in distant future. The Alto was simply the best way they could explore this new experience within his current technological constraints. "
+      },
+      "date": 1562003967265
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC] in the 1970's, Kay's team was not simply building a user interface for Xerox's Alto computer, but a radical new user experience for an imagined [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child might use in distant future. The Alto was simply the best way they could explore this new experience within his current technological constraints. "
+      },
+      "date": 1562003978089
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "While at [https://en.wikipedia.org/wiki/PARC_(company) PARC] in the 1970's, Kay's team was not simply building a user interface for Xerox's Alto computer, but a radical new user experience for an imagined [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child might use in distant future. "
+      },
+      "date": 1562004030194
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of an orthogonal plane that transforms our creative potential was inspired by _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. \n"
+      },
+      "date": 1562004095707
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of the orthogonal plane that transforms our creative potential was inspired by _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. \n"
+      },
+      "date": 1562004114446
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of the orthogonal blue plane that transforms our creative potential was inspired by _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. \n"
+      },
+      "date": 1562004123053
+    },
+    {
+      "type": "edit",
+      "id": "aac459cff3e1f076",
+      "item": {
+        "type": "markdown",
+        "id": "aac459cff3e1f076",
+        "text": "Kay's concept of the blue plane that transforms our creative potential was inspired by _The Act of Creation_, a 1964 book by [https://en.wikipedia.org/wiki/Arthur_Koestler Arthur Koestler]. \n"
+      },
+      "date": 1562004145347
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "A \"bisociation\" that creates [[Dialectical Synthesis]]. "
+      },
+      "date": 1562004176187
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "A \"bisociation\" that creates the potential for [[Dialectical Synthesis]]. "
+      },
+      "date": 1562004194895
+    },
+    {
+      "type": "remove",
+      "id": "0bae92eb331e7c27",
+      "date": 1562004206898
+    },
+    {
+      "type": "edit",
+      "id": "7d3f8cb577650110",
+      "item": {
+        "type": "paragraph",
+        "id": "7d3f8cb577650110",
+        "text": "If you have ever been to the bottom of the canyon you will understand. The journey down is a long one. But as you descend, you notice that the world above drifts away. You enter another world. The world of the canyon. It is a profound experience."
+      },
+      "date": 1562004259545
+    },
+    {
+      "type": "edit",
+      "id": "7d3f8cb577650110",
+      "item": {
+        "type": "paragraph",
+        "id": "7d3f8cb577650110",
+        "text": "If you have ever been to the bottom of the canyon you will understand. The journey down is a long one. As you descend, you notice that the world above drifts away. You enter another world. The world of the canyon. It is a profound experience."
+      },
+      "date": 1562004275078
+    },
+    {
+      "type": "edit",
+      "id": "9df2459523b476d8",
+      "item": {
+        "type": "paragraph",
+        "id": "9df2459523b476d8",
+        "text": "There, at the bottom, is a new reality. You notice that the light down there is different. It has a pink hue, as the sunlight reflects off of the canyon walls. "
+      },
+      "date": 1562004293837
+    },
+    {
+      "type": "edit",
+      "id": "9df2459523b476d8",
+      "item": {
+        "type": "paragraph",
+        "id": "9df2459523b476d8",
+        "text": "There, at the bottom, is a new reality. You also notice that the light down there is different. It has a pink hue, as the sunlight reflects off of the canyon walls. "
+      },
+      "date": 1562004309615
+    },
+    {
+      "type": "edit",
+      "id": "7b3c1baa69b106b4",
+      "item": {
+        "type": "paragraph",
+        "id": "7b3c1baa69b106b4",
+        "text": "There, you soon make decisions entirely from the context of this reality. What is possible. What is not possible in this horizontal pink plane. "
+      },
+      "date": 1562004348708
+    },
+    {
+      "type": "edit",
+      "id": "0dba53fdbe3d4a38",
+      "item": {
+        "type": "paragraph",
+        "id": "0dba53fdbe3d4a38",
+        "text": "He then challenges us to look toward the sky above us, to that small, intense sliver of deep blue that is above the canyon. Where there are no walls. Just the infinite blue. "
+      },
+      "date": 1562004380461
+    },
+    {
+      "type": "edit",
+      "id": "0dba53fdbe3d4a38",
+      "item": {
+        "type": "paragraph",
+        "id": "0dba53fdbe3d4a38",
+        "text": "He then challenges us to look toward the sky above us, to that small, intense sliver of deep blue that is above the canyon walls. Where there are no walls. Just the infinite blue. "
+      },
+      "date": 1562004390594
+    },
+    {
+      "type": "edit",
+      "id": "0dba53fdbe3d4a38",
+      "item": {
+        "type": "paragraph",
+        "id": "0dba53fdbe3d4a38",
+        "text": "He then challenges us to look toward the sky above us, to that small, intense sliver of deep blue that is above the canyon. Where there are no walls. Just the infinite blue. "
+      },
+      "date": 1562004395523
+    },
+    {
+      "type": "edit",
+      "id": "0dba53fdbe3d4a38",
+      "item": {
+        "type": "paragraph",
+        "id": "0dba53fdbe3d4a38",
+        "text": "He then challenges us to look toward the sky above us, to that small, intense sliver of deep blue that is above the canyon. Where there are no walls. Just the infinite blue sky. "
+      },
+      "date": 1562004409683
+    },
+    {
+      "type": "edit",
+      "id": "207eeef175728fab",
+      "item": {
+        "type": "paragraph",
+        "id": "207eeef175728fab",
+        "text": "An experience that was later introduced to the general market by Apple in 1984 with the Macintosh computer. A computer that changed everything. "
+      },
+      "date": 1562004504282
+    },
+    {
+      "type": "edit",
+      "id": "0dba53fdbe3d4a38",
+      "item": {
+        "type": "paragraph",
+        "id": "0dba53fdbe3d4a38",
+        "text": "He then challenges us to look toward the sky above us, to that small, intense sliver of deep blue that is above the canyon walls. Where there are no limitations. Just the infinite blue sky. "
+      },
+      "date": 1562004650667
+    },
+    {
+      "type": "edit",
+      "id": "6da5a7ba9384f624",
+      "item": {
+        "type": "paragraph",
+        "id": "6da5a7ba9384f624",
+        "text": "If we reimagine the possible based on that perpendicular blue plane, our thinking shifts. We are no longer constricted by the possibilities of the present, but inspired by the potential of an imaginary future. As we reimagine on that blue plane we can boldly aspire to an [[Audacious Aspiration]]. "
+      },
+      "date": 1562004688076
+    },
+    {
+      "type": "edit",
+      "id": "6da5a7ba9384f624",
+      "item": {
+        "type": "paragraph",
+        "id": "6da5a7ba9384f624",
+        "text": "If we reimagine the possible based on that perpendicular blue plane, our thinking shifts. We are no longer constricted by the possibilities of the present, but inspired by the potential of an illusory future. As we reimagine on that blue plane we can boldly aspire to an [[Audacious Aspiration]]. "
+      },
+      "date": 1562004724781
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "For while at [https://en.wikipedia.org/wiki/PARC_(company) PARC] in the 1970's, Kay's team was not simply building a user interface for Xerox's Alto computer, but a radical new user experience for an imagined [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child might use in distant future. "
+      },
+      "date": 1562004776603
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "For while at [https://en.wikipedia.org/wiki/PARC_(company) PARC] in the 1970's, Kay's team was not simply building a user interface for Xerox's Alto computer, but a radical new user experience for an imagined [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child might use in a distant future. "
+      },
+      "date": 1562004793394
+    },
+    {
+      "type": "edit",
+      "id": "207eeef175728fab",
+      "item": {
+        "type": "paragraph",
+        "id": "207eeef175728fab",
+        "text": "An experience that was introduced to the general market by Apple in 1984 with the Macintosh computer. A computer that changed everything. "
+      },
+      "date": 1562004812864
+    },
+    {
+      "type": "edit",
+      "id": "345e1e20bf040167",
+      "item": {
+        "type": "markdown",
+        "id": "345e1e20bf040167",
+        "text": "In this book, Koestler developed a theory that creativity is derived from the juxtaposition of two orthogonal planes, what he called matrices of thought. These two matrices form a \"bisociation\" that forces an assimilation that leads to the development of new framework of understanding. \n"
+      },
+      "date": 1562004896069
+    },
+    {
+      "type": "edit",
+      "id": "3019a98a383cc04d",
+      "item": {
+        "type": "markdown",
+        "id": "3019a98a383cc04d",
+        "text": "A \"bisociation\" that creates a [[Dialectical Synthesis]]. "
+      },
+      "date": 1562079111529
+    },
+    {
+      "type": "edit",
+      "id": "b32f96503cb8faf0",
+      "item": {
+        "type": "paragraph",
+        "id": "b32f96503cb8faf0",
+        "text": "For while at Xerox’s research facility in Palo Alto [https://en.wikipedia.org/wiki/PARC_(company) (PARC)] in the 1970's, Kay's team was not simply building a user interface for Xerox's Alto computer, but a radical new user experience for an imagined [https://en.wikipedia.org/wiki/Dynabook Dynabook], a simple hand-held graphical computer that a child might use in a distant future. "
+      },
+      "date": 1562079147514
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "[Alan Kay]] coined the term \"blue plane\". To explain it, he needed to tell a story.\n"
+      },
+      "date": 1562260702122
+    },
+    {
+      "type": "edit",
+      "id": "764ad32826c492b5",
+      "item": {
+        "type": "markdown",
+        "id": "764ad32826c492b5",
+        "text": "[[Alan Kay]] coined the term \"blue plane\". To explain it, he needed to tell a story.\n"
+      },
+      "date": 1562260767445
+    },
+    {
+      "type": "fork",
+      "site": "dev2.wiki.innovateoregon.org",
+      "date": 1563356947188
+    }
+  ]
+}

@@ -1,0 +1,914 @@
+{
+  "title": "Schema",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "5f5ad00c4b7b6052",
+      "text": "Kant first introduced the concept of schema. It is the internal landscape that we use to interpret the world around us.  How we make sense of our perceptions. \n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "d00c9adc8f735689",
+      "text": "We are standing at a street corner, the light turns red and the walk sign ahead is illuminated. We step out into the street although a car that is coming down the street is still moving. We are, at that precious moment, with an understanding based on our internal schema, deciding it is safe to proceed. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "7d1b3ce3b1646527",
+      "text": "Every day, every moment, we are stepping out into the world based on perceptions interpreted through our internal schema.  "
+    },
+    {
+      "type": "markdown",
+      "id": "a82b3379b738d1cc",
+      "text": "\n"
+    },
+    {
+      "type": "markdown",
+      "id": "6af9c33d8d442df4",
+      "text": "\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "9f8fb4e43f0b9867",
+      "text": "One way to think of schema is as our personal pattern language of meaning - a [[Meaning Matrix]]. It is how we make sense of our personal experiences to shape our current understanding of the world. "
+    },
+    {
+      "type": "paragraph",
+      "id": "29d23b9dead96418",
+      "text": "What the great learning theorist [[Jean Piaget]] came to understand, is that there are two types of learning, one that which deepens our understanding of our current schema and one that actually reconfigures our schema. "
+    },
+    {
+      "type": "markdown",
+      "id": "b4a1186a478c3fbd",
+      "text": "Piaget's concepts of learning profoundly influenced how both [[Seymour Papert]] and [[Alan Kay]] as they explored the potential of the computer as a tool for learning and creating."
+    },
+    {
+      "type": "graphviz",
+      "id": "fbfef03a88894766",
+      "text": "DOT FROM preview-next-diagram"
+    }
+  ],
+  "journal": [
+    {
+      "type": "edit",
+      "id": "d2e2d3b6fd4d85f0",
+      "item": {
+        "type": "paragraph",
+        "id": "d2e2d3b6fd4d85f0",
+        "text": "[[Eureka Moments]] are moments that change the structure of our schema - giving us a new understanding of the world. A restructuring of our personal pattern language. "
+      },
+      "date": 1539540995524
+    },
+    {
+      "type": "add",
+      "id": "d2e2d3b6fd4d85f0",
+      "item": {
+        "type": "paragraph",
+        "id": "d2e2d3b6fd4d85f0",
+        "text": "[[Eureka Moments]] are moments that change the structure of our schema - giving us a new understanding of the world. A restructuring of our personal pattern language. "
+      },
+      "after": "29d23b9dead96418",
+      "date": 1539540988069
+    },
+    {
+      "type": "edit",
+      "id": "29d23b9dead96418",
+      "item": {
+        "type": "paragraph",
+        "id": "29d23b9dead96418",
+        "text": "What [https://en.wikipedia.org/wiki/Jean_Piaget Jean Piaget] came to understand is that there are two types of learning, that which deepens our understanding based on current schema and learning that changes the structure of our schema. "
+      },
+      "date": 1539540919952
+    },
+    {
+      "type": "move",
+      "order": [
+        "5f5ad00c4b7b6052",
+        "9f8fb4e43f0b9867",
+        "29d23b9dead96418",
+        "ed7a4141d3023462",
+        "4f3c57d2543c2734",
+        "87bbd33060c8b8dc"
+      ],
+      "id": "29d23b9dead96418",
+      "date": 1539540842531,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "9f8fb4e43f0b9867",
+      "item": {
+        "type": "paragraph",
+        "id": "9f8fb4e43f0b9867",
+        "text": "One valuable way to think of schema is as our personal pattern language of meaning. It is how we make sense of our personal experiences to shape our current understand of the world. "
+      },
+      "date": 1539540823362
+    },
+    {
+      "type": "fork",
+      "date": 1539540714417
+    },
+    {
+      "type": "move",
+      "order": [
+        "5f5ad00c4b7b6052",
+        "9f8fb4e43f0b9867",
+        "4f3c57d2543c2734",
+        "29d23b9dead96418",
+        "87bbd33060c8b8dc",
+        "e699ea2966b48914"
+      ],
+      "id": "9f8fb4e43f0b9867",
+      "date": 1539540708349,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "9f8fb4e43f0b9867",
+      "item": {
+        "type": "paragraph",
+        "id": "9f8fb4e43f0b9867",
+        "text": "One valuable way to think of schema is as our personal pattern language of meaning. It is how we make sense of our personal experiences to shape our current understand of the world. "
+      },
+      "date": 1539540705524
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9f8fb4e43f0b9867",
+        "text": "One valuable way to think of schema is as our personal pattern language of meaning. It is how we make sense of our personal experiences to shape our current understand of the world. "
+      },
+      "id": "9f8fb4e43f0b9867",
+      "type": "add",
+      "after": "87bbd33060c8b8dc",
+      "date": 1539540658422
+    },
+    {
+      "type": "add",
+      "id": "4f3c57d2543c2734",
+      "item": {
+        "type": "markdown",
+        "id": "4f3c57d2543c2734",
+        "text": ">A schema (pl. schemata) is the mental framework that is created as children interact with their physical and social environments"
+      },
+      "after": "5f5ad00c4b7b6052",
+      "date": 1539540655311
+    },
+    {
+      "type": "edit",
+      "id": "5f5ad00c4b7b6052",
+      "item": {
+        "type": "markdown",
+        "id": "5f5ad00c4b7b6052",
+        "text": "Schema:\n>A Schema is a structured cluster of concepts, it can be used to represent objects, scenarios or sequences of events or relations. The original idea was proposed by philosopher Immanuel Kant as innate structures used to help us perceive the world.\n\n\n"
+      },
+      "date": 1539540652488
+    },
+    {
+      "type": "move",
+      "order": [
+        "5f5ad00c4b7b6052",
+        "29d23b9dead96418",
+        "87bbd33060c8b8dc"
+      ],
+      "id": "5f5ad00c4b7b6052",
+      "date": 1539540644950
+    },
+    {
+      "type": "edit",
+      "id": "5f5ad00c4b7b6052",
+      "item": {
+        "type": "markdown",
+        "id": "5f5ad00c4b7b6052",
+        "text": "Schema:\n>A Schema is a structured cluster of concepts, it can be used to represent objects, scenarios or sequences of events or relations. The original idea was proposed by philosopher Immanuel Kant as innate structures used to help us perceive the world.\n\n\n"
+      },
+      "date": 1539540615597
+    },
+    {
+      "item": {
+        "type": "markdown",
+        "id": "5f5ad00c4b7b6052",
+        "text": "Schema:\n>A Schema is a structured cluster of concepts, it can be used to represent objects, scenarios or sequences of events or relations. The original idea was proposed by philosopher Immanuel Kant as innate structures used to help us perceive the world.\n\n\n"
+      },
+      "id": "5f5ad00c4b7b6052",
+      "type": "add",
+      "after": "87bbd33060c8b8dc",
+      "date": 1539540571581
+    },
+    {
+      "type": "edit",
+      "id": "29d23b9dead96418",
+      "item": {
+        "type": "paragraph",
+        "id": "29d23b9dead96418",
+        "text": "What [https://en.wikipedia.org/wiki/Jean_Piaget Jean Piaget] came to understand is that there are two types of learning, that which deepens our understanding based on current schema and learning that changes the structure of our schema. "
+      },
+      "date": 1539540548689
+    },
+    {
+      "type": "edit",
+      "id": "29d23b9dead96418",
+      "item": {
+        "type": "paragraph",
+        "id": "29d23b9dead96418",
+        "text": "What [https://en.wikipedia.org/wiki/Jean_Piaget Jean Piaget] came to understand is that there are two types of learning, that which deepens our understanding based on current schema and learning that changes the structure of our schema. "
+      },
+      "date": 1539540459629
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "29d23b9dead96418",
+        "text": "There are many ideas"
+      },
+      "id": "29d23b9dead96418",
+      "date": 1536347924636
+    },
+    {
+      "type": "remove",
+      "id": "29d23b9dead96418",
+      "date": 1536347917760
+    },
+    {
+      "type": "move",
+      "order": [
+        "29d23b9dead96418",
+        "87bbd33060c8b8dc"
+      ],
+      "id": "29d23b9dead96418",
+      "date": 1536347912066
+    },
+    {
+      "type": "add",
+      "id": "29d23b9dead96418",
+      "item": {
+        "type": "paragraph",
+        "id": "29d23b9dead96418",
+        "text": "There are many ideas"
+      },
+      "after": "87bbd33060c8b8dc",
+      "date": 1536347888816
+    },
+    {
+      "type": "edit",
+      "id": "87bbd33060c8b8dc",
+      "item": {
+        "type": "paragraph",
+        "id": "87bbd33060c8b8dc",
+        "text": "Talk about the concept of geniuse"
+      },
+      "date": 1536347883499
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "87bbd33060c8b8dc"
+      },
+      "id": "87bbd33060c8b8dc",
+      "type": "add",
+      "date": 1536347872718
+    },
+    {
+      "type": "create",
+      "item": {
+        "title": "Schema",
+        "story": []
+      },
+      "date": 1536347869443
+    },
+    {
+      "type": "move",
+      "order": [
+        "5f5ad00c4b7b6052",
+        "9f8fb4e43f0b9867",
+        "29d23b9dead96418",
+        "4f3c57d2543c2734",
+        "d2e2d3b6fd4d85f0",
+        "87bbd33060c8b8dc"
+      ],
+      "id": "4f3c57d2543c2734",
+      "date": 1539541018732
+    },
+    {
+      "type": "fork",
+      "date": 1539541029679
+    },
+    {
+      "type": "edit",
+      "id": "87bbd33060c8b8dc",
+      "item": {
+        "type": "paragraph",
+        "id": "87bbd33060c8b8dc",
+        "text": "These moments, as key to the reshaping our our schemata, are at the core of [[Agile]]."
+      },
+      "date": 1539541129686
+    },
+    {
+      "type": "edit",
+      "id": "87bbd33060c8b8dc",
+      "item": {
+        "type": "paragraph",
+        "id": "87bbd33060c8b8dc",
+        "text": "These moments, as key to the reshaping our our schemata, are at the core of [[Agile Learning]]."
+      },
+      "date": 1539541141198
+    },
+    {
+      "type": "move",
+      "order": [
+        "5f5ad00c4b7b6052",
+        "9f8fb4e43f0b9867",
+        "4f3c57d2543c2734",
+        "29d23b9dead96418",
+        "d2e2d3b6fd4d85f0",
+        "87bbd33060c8b8dc"
+      ],
+      "id": "4f3c57d2543c2734",
+      "date": 1539541182357
+    },
+    {
+      "type": "edit",
+      "id": "d2e2d3b6fd4d85f0",
+      "item": {
+        "type": "paragraph",
+        "id": "d2e2d3b6fd4d85f0",
+        "text": "[[Eureka Moments]] are inspired, joyful moments that giving us a new understanding of the world, that is, change the structure of our schema. A restructuring of our personal pattern language. "
+      },
+      "date": 1539541273242
+    },
+    {
+      "type": "edit",
+      "id": "d2e2d3b6fd4d85f0",
+      "item": {
+        "type": "paragraph",
+        "id": "d2e2d3b6fd4d85f0",
+        "text": "[[Eureka Moments]] are inspired, joyful moments that giving us a new understanding of the world. They change the structure of our schema. A restructuring of our personal pattern language. "
+      },
+      "date": 1539541289088
+    },
+    {
+      "type": "edit",
+      "id": "d2e2d3b6fd4d85f0",
+      "item": {
+        "type": "paragraph",
+        "id": "d2e2d3b6fd4d85f0",
+        "text": "[[Eureka Moments]] are inspired, joyful moments that giving us a new understanding of the world. They change the structure of our schema - a restructuring of our personal pattern language. "
+      },
+      "date": 1539541300201
+    },
+    {
+      "type": "edit",
+      "id": "87bbd33060c8b8dc",
+      "item": {
+        "type": "paragraph",
+        "id": "87bbd33060c8b8dc",
+        "text": "These moments, in their reshaping our our schemata, are at the core of [[Agile Learning]]."
+      },
+      "date": 1539541985001
+    },
+    {
+      "type": "edit",
+      "id": "87bbd33060c8b8dc",
+      "item": {
+        "type": "paragraph",
+        "id": "87bbd33060c8b8dc",
+        "text": "These moments, in their reshaping our our schemata, are an important part of [[Agile Learning]]."
+      },
+      "date": 1539542020841
+    },
+    {
+      "type": "edit",
+      "id": "29d23b9dead96418",
+      "item": {
+        "type": "paragraph",
+        "id": "29d23b9dead96418",
+        "text": "What [https://en.wikipedia.org/wiki/Jean_Piaget Jean Piaget] came to understand is that there are two types of learning, one that which deepens our understanding based on current schema and learning that changes the structure of our schema. "
+      },
+      "date": 1539542802066
+    },
+    {
+      "type": "edit",
+      "id": "29d23b9dead96418",
+      "item": {
+        "type": "paragraph",
+        "id": "29d23b9dead96418",
+        "text": "What [https://en.wikipedia.org/wiki/Jean_Piaget Jean Piaget] came to understand is that there are two types of learning, one that which deepens our understanding of our current schema and learning that changes the structure of our schema. "
+      },
+      "date": 1539542817519
+    },
+    {
+      "type": "edit",
+      "id": "29d23b9dead96418",
+      "item": {
+        "type": "paragraph",
+        "id": "29d23b9dead96418",
+        "text": "What [https://en.wikipedia.org/wiki/Jean_Piaget Jean Piaget] came to understand is that there are two types of learning, one that which deepens our understanding of our current schema and one that actually changes the structure of our schema. "
+      },
+      "date": 1539542836024
+    },
+    {
+      "type": "add",
+      "id": "b4a1186a478c3fbd",
+      "item": {
+        "type": "paragraph",
+        "id": "b4a1186a478c3fbd",
+        "text": "The concept of learning that changes our schema profoundly influenced how both Papert and Kay viewed the potential of the computer as a tool for learning and for creating [[Computer Enhanced "
+      },
+      "after": "29d23b9dead96418",
+      "date": 1539542971725
+    },
+    {
+      "type": "edit",
+      "id": "b4a1186a478c3fbd",
+      "item": {
+        "type": "paragraph",
+        "id": "b4a1186a478c3fbd",
+        "text": "The concept of learning that changes our schema profoundly influenced how both Papert and Kay viewed the potential of the computer as a tool for learning and for [[Computer Enhanced Creativity]]."
+      },
+      "date": 1539542989501
+    },
+    {
+      "type": "edit",
+      "id": "b4a1186a478c3fbd",
+      "item": {
+        "type": "paragraph",
+        "id": "b4a1186a478c3fbd",
+        "text": "The concept of learning that changes our schema profoundly influenced how both Papert and Kay viewed the potential of the computer as a tool for learning and [[Computer Enhanced Creativity]]."
+      },
+      "date": 1539543012656
+    },
+    {
+      "type": "edit",
+      "id": "b4a1186a478c3fbd",
+      "item": {
+        "type": "markdown",
+        "id": "b4a1186a478c3fbd",
+        "text": "*The concept of learning that changes our schema profoundly influenced how both Papert and Kay viewed the potential of the computer as a tool for learning and [[Computer Enhanced Creativity]]."
+      },
+      "date": 1539543037459
+    },
+    {
+      "type": "edit",
+      "id": "b4a1186a478c3fbd",
+      "item": {
+        "type": "markdown",
+        "id": "b4a1186a478c3fbd",
+        "text": "*The concept of learning that changes our schema profoundly influenced how both Papert and Kay viewed the potential of the computer as a tool for learning and [[Computer Enhanced Creativity]].*"
+      },
+      "date": 1539543045617
+    },
+    {
+      "type": "edit",
+      "id": "b4a1186a478c3fbd",
+      "item": {
+        "type": "markdown",
+        "id": "b4a1186a478c3fbd",
+        "text": "*The concept of learning that changes our schema profoundly influenced how both [https://en.wikipedia.org/wiki/Seymour_Papert Seymour Papert] and Alan Kay viewed the potential of the computer as a tool for learning and [[Computer Enhanced Creativity]].*"
+      },
+      "date": 1539543104573
+    },
+    {
+      "type": "edit",
+      "id": "b4a1186a478c3fbd",
+      "item": {
+        "type": "markdown",
+        "id": "b4a1186a478c3fbd",
+        "text": "*The concept of learning that changes our schema profoundly influenced how both [https://en.wikipedia.org/wiki/Seymour_Papert Seymour Papert] and [https://en.wikipedia.org/wiki/Alan_Kay Alan Kay] viewed the potential of the computer as a tool for learning and [[Computer Enhanced Creativity]].*"
+      },
+      "date": 1539543123887
+    },
+    {
+      "type": "edit",
+      "id": "29d23b9dead96418",
+      "item": {
+        "type": "paragraph",
+        "id": "29d23b9dead96418",
+        "text": "What [https://en.wikipedia.org/wiki/Jean_Piaget Jean Piaget] came to understand is that there are two types of learning, one that which deepens our understanding of our current schema and one that actually changes the structure of our schema. A [[Dialectical Synthesis]]"
+      },
+      "date": 1539543398838
+    },
+    {
+      "type": "edit",
+      "id": "b4a1186a478c3fbd",
+      "item": {
+        "type": "markdown",
+        "id": "b4a1186a478c3fbd",
+        "text": "*Piaget's concepts of learning profoundly influenced how both [https://en.wikipedia.org/wiki/Seymour_Papert Seymour Papert] and [https://en.wikipedia.org/wiki/Alan_Kay Alan Kay] viewed the potential of the computer as a tool for learning and [[Computer Enhanced Creativity]].*"
+      },
+      "date": 1539659113901
+    },
+    {
+      "type": "fork",
+      "site": "thompson.wiki.innovateoregon.org",
+      "date": 1552416198268
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fbfef03a88894766"
+      },
+      "id": "fbfef03a88894766",
+      "type": "add",
+      "after": "87bbd33060c8b8dc",
+      "date": 1552583357989
+    },
+    {
+      "type": "edit",
+      "id": "fbfef03a88894766",
+      "item": {
+        "type": "graphviz",
+        "id": "fbfef03a88894766",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552583363709
+    },
+    {
+      "type": "edit",
+      "id": "fbfef03a88894766",
+      "item": {
+        "type": "graphviz",
+        "id": "fbfef03a88894766",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552583373267
+    },
+    {
+      "type": "edit",
+      "id": "9f8fb4e43f0b9867",
+      "item": {
+        "type": "paragraph",
+        "id": "9f8fb4e43f0b9867",
+        "text": "One valuable way to think of schema is as our personal pattern language of meaning - [[Meaning Matrix]] It is how we make sense of our personal experiences to shape our current understand of the world. "
+      },
+      "date": 1553529698657
+    },
+    {
+      "type": "edit",
+      "id": "9f8fb4e43f0b9867",
+      "item": {
+        "type": "paragraph",
+        "id": "9f8fb4e43f0b9867",
+        "text": "One valuable way to think of schema is as our personal pattern language of meaning - [[Meaning Matrix]]. It is how we make sense of our personal experiences to shape our current understand of the world. "
+      },
+      "date": 1553529708584
+    },
+    {
+      "type": "edit",
+      "id": "b4a1186a478c3fbd",
+      "item": {
+        "type": "markdown",
+        "id": "b4a1186a478c3fbd",
+        "text": "*Piaget's concepts of learning profoundly influenced how both [https://en.wikipedia.org/wiki/Seymour_Papert Seymour Papert] and [[Alan Kay]] viewed the potential of the computer as a tool for learning and [[Computer Enhanced Creativity]].*"
+      },
+      "date": 1553529743271
+    },
+    {
+      "type": "edit",
+      "id": "b4a1186a478c3fbd",
+      "item": {
+        "type": "markdown",
+        "id": "b4a1186a478c3fbd",
+        "text": "*Piaget's concepts of learning profoundly influenced how both [[Seymour Papert]] and [[Alan Kay]] viewed the potential of the computer as a tool for learning and [[Computer Enhanced Creativity]].*"
+      },
+      "date": 1553529760157
+    },
+    {
+      "type": "edit",
+      "id": "9f8fb4e43f0b9867",
+      "item": {
+        "type": "paragraph",
+        "id": "9f8fb4e43f0b9867",
+        "text": "One valuable way to think of schema is as our personal pattern language of meaning - a [[Meaning Matrix]]. It is how we make sense of our personal experiences to shape our current understand of the world. "
+      },
+      "date": 1553529799872
+    },
+    {
+      "type": "edit",
+      "id": "29d23b9dead96418",
+      "item": {
+        "type": "paragraph",
+        "id": "29d23b9dead96418",
+        "text": "What [[Jean Piaget]] came to understand is that there are two types of learning, one that which deepens our understanding of our current schema and one that actually changes the structure of our schema. A [[Dialectical Synthesis]]"
+      },
+      "date": 1553529855877
+    },
+    {
+      "type": "edit",
+      "id": "29d23b9dead96418",
+      "item": {
+        "type": "paragraph",
+        "id": "29d23b9dead96418",
+        "text": "What [[Jean Piaget]] came to understand is that there are two types of learning, one that which deepens our understanding of our current schema and one that actually changes the structure of our schema. "
+      },
+      "date": 1553529874994
+    },
+    {
+      "type": "edit",
+      "id": "29d23b9dead96418",
+      "item": {
+        "type": "paragraph",
+        "id": "29d23b9dead96418",
+        "text": "What [[Jean Piaget]] came to understand is that there are two types of learning, one that which deepens our understanding of our current schema and one that actually reconfigures our schema. "
+      },
+      "date": 1553530077081
+    },
+    {
+      "type": "remove",
+      "id": "d2e2d3b6fd4d85f0",
+      "date": 1553530113295
+    },
+    {
+      "type": "remove",
+      "id": "87bbd33060c8b8dc",
+      "date": 1553530118046
+    },
+    {
+      "type": "edit",
+      "id": "9f8fb4e43f0b9867",
+      "item": {
+        "type": "paragraph",
+        "id": "9f8fb4e43f0b9867",
+        "text": "One valuable way to think of schema is as our personal pattern language of meaning - a [[Meaning Matrix]]. It is how we make sense of our personal experiences to shape our current understanding of the world. "
+      },
+      "date": 1553530215093
+    },
+    {
+      "type": "edit",
+      "id": "29d23b9dead96418",
+      "item": {
+        "type": "paragraph",
+        "id": "29d23b9dead96418",
+        "text": "What the great learning theorist [[Jean Piaget]] came to understand, is that there are two types of learning, one that which deepens our understanding of our current schema and one that actually reconfigures our schema. "
+      },
+      "date": 1553530266514
+    },
+    {
+      "type": "edit",
+      "id": "b4a1186a478c3fbd",
+      "item": {
+        "type": "markdown",
+        "id": "b4a1186a478c3fbd",
+        "text": "*Piaget's concepts of learning profoundly influenced how both [[Seymour Papert]] and [[Alan Kay]] viewed the potential of the computer as a tool for learning."
+      },
+      "date": 1553530345289
+    },
+    {
+      "type": "edit",
+      "id": "b4a1186a478c3fbd",
+      "item": {
+        "type": "markdown",
+        "id": "b4a1186a478c3fbd",
+        "text": "Piaget's concepts of learning profoundly influenced how both [[Seymour Papert]] and [[Alan Kay]] viewed the potential of the computer as a tool for learning."
+      },
+      "date": 1553530377302
+    },
+    {
+      "type": "edit",
+      "id": "5f5ad00c4b7b6052",
+      "item": {
+        "type": "markdown",
+        "id": "5f5ad00c4b7b6052",
+        "text": "The original idea was proposed by philosopher Immanuel Kant as innate structures used to help us perceive the world.\n"
+      },
+      "date": 1557943324501
+    },
+    {
+      "type": "add",
+      "id": "6af9c33d8d442df4",
+      "item": {
+        "type": "markdown",
+        "id": "6af9c33d8d442df4",
+        "text": "A Schema is a structured cluster of concepts, it can be used to represent objects, scenarios or sequences of events or relations. \n\n\n"
+      },
+      "after": "5f5ad00c4b7b6052",
+      "date": 1557943326058
+    },
+    {
+      "type": "edit",
+      "id": "5f5ad00c4b7b6052",
+      "item": {
+        "type": "markdown",
+        "id": "5f5ad00c4b7b6052",
+        "text": "Kant \n"
+      },
+      "date": 1557943335086
+    },
+    {
+      "type": "add",
+      "id": "bbd42f2748b42f4d",
+      "item": {
+        "type": "markdown",
+        "id": "bbd42f2748b42f4d",
+        "text": "The original idea was proposed by philosopher Immanuel Kant as innate structures used to help us perceive the world.\n"
+      },
+      "after": "5f5ad00c4b7b6052",
+      "date": 1557943337196
+    },
+    {
+      "type": "edit",
+      "id": "5f5ad00c4b7b6052",
+      "item": {
+        "type": "markdown",
+        "id": "5f5ad00c4b7b6052",
+        "text": "Kant first introduced the concept. It is the internal landscape that we use to interpret the world around us.  How we make sense of our senses.\n"
+      },
+      "date": 1557943478115
+    },
+    {
+      "type": "add",
+      "id": "a82b3379b738d1cc",
+      "item": {
+        "type": "markdown",
+        "id": "a82b3379b738d1cc",
+        "text": "\n"
+      },
+      "after": "5f5ad00c4b7b6052",
+      "date": 1557943482701
+    },
+    {
+      "type": "edit",
+      "id": "5f5ad00c4b7b6052",
+      "item": {
+        "type": "markdown",
+        "id": "5f5ad00c4b7b6052",
+        "text": "Kant first introduced the concept. It is the internal landscape that we use to interpret the world around us.  How we make sense of our perceptions. \n"
+      },
+      "date": 1557943507921
+    },
+    {
+      "type": "edit",
+      "id": "5f5ad00c4b7b6052",
+      "item": {
+        "type": "markdown",
+        "id": "5f5ad00c4b7b6052",
+        "text": "Kant first introduced the concept. It is the internal landscape that we use to interpret the world around us.  How we make sense of our perceptions. \n\n"
+      },
+      "date": 1557943526163
+    },
+    {
+      "type": "add",
+      "id": "d00c9adc8f735689",
+      "item": {
+        "type": "markdown",
+        "id": "d00c9adc8f735689",
+        "text": "We are standing at the corner, the light turns red and the walk sign ahead is illuminated. We step out into the street although the car coming down the street is still moving. We are, at the moment, with a pattern of understanding based on how our internal schema, deciding it is safe to proceed. \n"
+      },
+      "after": "5f5ad00c4b7b6052",
+      "date": 1557943699374
+    },
+    {
+      "type": "add",
+      "id": "7d1b3ce3b1646527",
+      "item": {
+        "type": "markdown",
+        "id": "7d1b3ce3b1646527",
+        "text": "All "
+      },
+      "after": "d00c9adc8f735689",
+      "date": 1557943712494
+    },
+    {
+      "type": "edit",
+      "id": "d00c9adc8f735689",
+      "item": {
+        "type": "markdown",
+        "id": "d00c9adc8f735689",
+        "text": "We are standing at the corner, the light turns red and the walk sign ahead is illuminated. We step out into the street although a car coming down the street is still moving. We are, at that precious moment, with a pattern of understanding based on how our internal schema, deciding it is safe to proceed. \n"
+      },
+      "date": 1557943725891
+    },
+    {
+      "type": "edit",
+      "id": "7d1b3ce3b1646527",
+      "item": {
+        "type": "markdown",
+        "id": "7d1b3ce3b1646527",
+        "text": "Every day, every moment, we are stepping out into the world based on our internal schema.  "
+      },
+      "date": 1557943790415
+    },
+    {
+      "type": "edit",
+      "id": "d00c9adc8f735689",
+      "item": {
+        "type": "markdown",
+        "id": "d00c9adc8f735689",
+        "text": "We are standing at street corner, the light turns red and the walk sign ahead is illuminated. We step out into the street although a car coming down the street is still moving. We are, at that precious moment, with a pattern of understanding based on how our internal schema, deciding it is safe to proceed. \n"
+      },
+      "date": 1557943813007
+    },
+    {
+      "type": "edit",
+      "id": "7d1b3ce3b1646527",
+      "item": {
+        "type": "markdown",
+        "id": "7d1b3ce3b1646527",
+        "text": "Every day, every moment, we are stepping out into the world based on perceptions interpreted through our internal schema.  "
+      },
+      "date": 1557943862189
+    },
+    {
+      "type": "remove",
+      "id": "bbd42f2748b42f4d",
+      "date": 1557943875084
+    },
+    {
+      "type": "edit",
+      "id": "6af9c33d8d442df4",
+      "item": {
+        "type": "markdown",
+        "id": "6af9c33d8d442df4",
+        "text": "\n\n"
+      },
+      "date": 1557943880849
+    },
+    {
+      "type": "edit",
+      "id": "9f8fb4e43f0b9867",
+      "item": {
+        "type": "paragraph",
+        "id": "9f8fb4e43f0b9867",
+        "text": "One way to think of schema is as our personal pattern language of meaning - a [[Meaning Matrix]]. It is how we make sense of our personal experiences to shape our current understanding of the world. "
+      },
+      "date": 1557943886383
+    },
+    {
+      "type": "remove",
+      "id": "4f3c57d2543c2734",
+      "date": 1557943896271
+    },
+    {
+      "type": "edit",
+      "id": "d00c9adc8f735689",
+      "item": {
+        "type": "markdown",
+        "id": "d00c9adc8f735689",
+        "text": "We are standing at a street corner, the light turns red and the walk sign ahead is illuminated. We step out into the street although a car that is coming down the street is still moving. We are, at that precious moment, with an understanding based on how our internal schema, deciding it is safe to proceed. \n"
+      },
+      "date": 1557943951635
+    },
+    {
+      "type": "edit",
+      "id": "d00c9adc8f735689",
+      "item": {
+        "type": "markdown",
+        "id": "d00c9adc8f735689",
+        "text": "We are standing at a street corner, the light turns red and the walk sign ahead is illuminated. We step out into the street although a car that is coming down the street is still moving. We are, at that precious moment, with an understanding based on our internal schema, deciding it is safe to proceed. \n"
+      },
+      "date": 1557943962715
+    },
+    {
+      "type": "edit",
+      "id": "d00c9adc8f735689",
+      "item": {
+        "type": "markdown",
+        "id": "d00c9adc8f735689",
+        "text": "We are standing at a street corner, the light turns red and the walk sign ahead is illuminated. We step out into the street although the car that is coming down the street is still moving. We are, at that precious moment, with an understanding based on our internal schema, deciding it is safe to proceed. \n"
+      },
+      "date": 1557944001437
+    },
+    {
+      "type": "edit",
+      "id": "b4a1186a478c3fbd",
+      "item": {
+        "type": "markdown",
+        "id": "b4a1186a478c3fbd",
+        "text": "Piaget's concepts of learning profoundly influenced how both [[Seymour Papert]] and [[Alan Kay]] as they explored the potential of the computer as a tool for learning and creating."
+      },
+      "date": 1557944081897
+    },
+    {
+      "type": "edit",
+      "id": "d00c9adc8f735689",
+      "item": {
+        "type": "markdown",
+        "id": "d00c9adc8f735689",
+        "text": "We are standing at a street corner, the light turns red and the walk sign ahead is illuminated. We step out into the street although a car that is coming down the street is still moving. We are, at that precious moment, with an understanding based on our internal schema, deciding it is safe to proceed. \n"
+      },
+      "date": 1557944148144
+    },
+    {
+      "type": "edit",
+      "id": "5f5ad00c4b7b6052",
+      "item": {
+        "type": "markdown",
+        "id": "5f5ad00c4b7b6052",
+        "text": "Kant first introduced the concept of schema. It is the internal landscape that we use to interpret the world around us.  How we make sense of our perceptions. \n\n"
+      },
+      "date": 1562690921007
+    },
+    {
+      "type": "fork",
+      "site": "dev2.wiki.innovateoregon.org",
+      "date": 1563357160647
+    }
+  ]
+}

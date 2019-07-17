@@ -1,0 +1,1424 @@
+{
+  "title": "Meaning Makers",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2aef90c816089eda",
+      "text": "Life is a mystery. We walk our solitary path in the hope that our lives will have a meaning for ourselves and, ultimately, for others. "
+    },
+    {
+      "type": "markdown",
+      "id": "b1a7000de477df4f",
+      "text": "Our spirit rails against the angst of Macbeth's lament: \n> Out, out, brief candle! Life's but a walking shadow, a poor player that struts and frets his hour upon the stage and is heard no more. It is a tale told by an idiot, full of sound and fury, signifying nothing.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "3124159133d05893",
+      "text": "From our earliest days, then, we are trying to make meaning of our experiences. To find a narrative that helps explain our world. To create a [[Meaning Matrix]].\n"
+    },
+    {
+      "type": "markdown",
+      "id": "26838872de19be48",
+      "text": "Our ability to make meaning ignites our [[Curiosity]] and empowers us as creators. It is what gives us our vitality, our passion, our meaning. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "11b5c8f25dafe717",
+      "text": "It is also what guides our future. Something recognized by Daniel Pink:"
+    },
+    {
+      "type": "markdown",
+      "id": "20b0fcc534a52dc8",
+      "text": ">The future belongs to a very different kind of person with a very different kind of mind - creators and empathizers, pattern recognizers and meaning makers. \n> \n_Daniel Pink_\n"
+    },
+    {
+      "type": "graphviz",
+      "id": "f6921444ecadb1a9",
+      "text": "DOT FROM preview-next-diagram"
+    }
+  ],
+  "journal": [
+    {
+      "type": "edit",
+      "id": "d6863e5fb72df822",
+      "item": {
+        "type": "markdown",
+        "id": "d6863e5fb72df822",
+        "text": "The discovery stage will be, for many, the most challenging. It is a struggle to begin to find the pattern tha connects the pieces. But when that pattern is found, that will be their [[Aha! Moment]] that gives inspires their future [[Learning Cycles]]."
+      },
+      "date": 1551375729811
+    },
+    {
+      "type": "edit",
+      "id": "d6863e5fb72df822",
+      "item": {
+        "type": "markdown",
+        "id": "d6863e5fb72df822",
+        "text": "The discovery stage will be, for many, the most challenging. It is a struggle to begin to find the pattern tha connects the pieces. But when that pattern is found, that will be their [[Aha! Moment]] that gives inspires their future [[Learning Cycles]]."
+      },
+      "date": 1551375713310
+    },
+    {
+      "type": "edit",
+      "id": "761fad71e6beca47",
+      "item": {
+        "type": "paragraph",
+        "id": "761fad71e6beca47",
+        "text": "Jenni is launching the concept of [[Rabbit Hole Research]] with her students. Inspired by the wiki practice that allows for the creation of [[Containers of Meaning]], she is challenging her students in her Genius class to follow their curiosity as they look to connect their Scramble topic with their Base topic."
+      },
+      "date": 1551374951457
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "761fad71e6beca47"
+      },
+      "id": "761fad71e6beca47",
+      "type": "add",
+      "date": 1551374754538
+    },
+    {
+      "type": "create",
+      "item": {
+        "title": "Meaning Makers",
+        "story": []
+      },
+      "date": 1551374751395
+    },
+    {
+      "type": "add",
+      "id": "b69c1308f568b94b",
+      "item": {
+        "type": "paragraph",
+        "id": "b69c1308f568b94b",
+        "text": "In this way, she is having them set off on their sprints as if they are a [[Hero's Journey]]. There are three primary role the must have in this journey:"
+      },
+      "after": "761fad71e6beca47",
+      "date": 1551375096414
+    },
+    {
+      "type": "edit",
+      "id": "b69c1308f568b94b",
+      "item": {
+        "type": "paragraph",
+        "id": "b69c1308f568b94b",
+        "text": "In this way, she is having them set off on their sprints as if they are a [[Hero's Journey]]. There are three primary role the must have in this journey:"
+      },
+      "date": 1551375120110
+    },
+    {
+      "item": {
+        "type": "markdown",
+        "id": "a1ba104e1b9344df",
+        "text": "* Explorer\n* Discoverer\n* Storyteller\n\n\n"
+      },
+      "id": "a1ba104e1b9344df",
+      "type": "add",
+      "after": "1520511b680f5a15",
+      "date": 1551375126174
+    },
+    {
+      "type": "edit",
+      "id": "a1ba104e1b9344df",
+      "item": {
+        "type": "markdown",
+        "id": "a1ba104e1b9344df",
+        "text": "* Explorer\n* Discoverer\n* Storyteller\n\n\n"
+      },
+      "date": 1551375201178
+    },
+    {
+      "type": "edit",
+      "id": "b69c1308f568b94b",
+      "item": {
+        "type": "paragraph",
+        "id": "b69c1308f568b94b",
+        "text": "In this way, she is having them set off on their sprints as if they are a [[Hero's Journey]]. There are three primary role the must have in this journey:"
+      },
+      "date": 1551375212294
+    },
+    {
+      "type": "edit",
+      "id": "a1ba104e1b9344df",
+      "item": {
+        "type": "markdown",
+        "id": "a1ba104e1b9344df",
+        "text": "* Explorer\n* Discoverer\n* Storyteller\n\n\n"
+      },
+      "date": 1551375278250
+    },
+    {
+      "type": "add",
+      "id": "3dad2b973d4304f2",
+      "item": {
+        "type": "markdown",
+        "id": "3dad2b973d4304f2",
+        "text": "* Courageous Curiosity\n* Surprising Insight\n* Compelling Telling\n"
+      },
+      "after": "a1ba104e1b9344df",
+      "date": 1551375281726
+    },
+    {
+      "type": "edit",
+      "id": "a1ba104e1b9344df",
+      "item": {
+        "type": "markdown",
+        "id": "a1ba104e1b9344df",
+        "text": "* Explorer\n* Discoverer\n* Storyteller\n\n\n"
+      },
+      "date": 1551375284053
+    },
+    {
+      "type": "edit",
+      "id": "3dad2b973d4304f2",
+      "item": {
+        "type": "markdown",
+        "id": "3dad2b973d4304f2",
+        "text": "* Courageous Curiosity\n* Surprising Insight\n* Compelling Telling\n"
+      },
+      "date": 1551375308682
+    },
+    {
+      "type": "edit",
+      "id": "3dad2b973d4304f2",
+      "item": {
+        "type": "markdown",
+        "id": "3dad2b973d4304f2",
+        "text": "* Courageous Curiosity\n* Surprising Insight\n* Compelling Telling\n"
+      },
+      "date": 1551375315593
+    },
+    {
+      "type": "edit",
+      "id": "a1ba104e1b9344df",
+      "item": {
+        "type": "markdown",
+        "id": "a1ba104e1b9344df",
+        "text": "* Explorer\n* Discoverer\n* Storyteller\n\n\n"
+      },
+      "date": 1551375330630
+    },
+    {
+      "type": "edit",
+      "id": "3dad2b973d4304f2",
+      "item": {
+        "type": "markdown",
+        "id": "3dad2b973d4304f2",
+        "text": "* Courageous Curiosity\n* Surprising Insight\n* Compelling Telling\n"
+      },
+      "date": 1551375365161
+    },
+    {
+      "type": "add",
+      "id": "9b33e46a4b52d416",
+      "item": {
+        "type": "markdown",
+        "id": "9b33e46a4b52d416",
+        "text": "In this journey they must identify and define interesting facts and concepts. This is the explorer stage. They must then find the pattern that connects these pieces together. That is the discover stage. Then they must come back and share their discovery, telling a story that is compelling to others.\n"
+      },
+      "after": "3dad2b973d4304f2",
+      "date": 1551375541557
+    },
+    {
+      "type": "add",
+      "id": "d6863e5fb72df822",
+      "item": {
+        "type": "markdown",
+        "id": "d6863e5fb72df822",
+        "text": "The discovery stage will be, for many, the most challenging. It is a struggle to begin to find the pattern tha connects the pieces. But when that pattern is found, that will be their [[Aha! Moment]] that gives inspires their future [[Learning Cycles]]."
+      },
+      "after": "9b33e46a4b52d416",
+      "date": 1551375673690
+    },
+    {
+      "type": "edit",
+      "id": "d6863e5fb72df822",
+      "item": {
+        "type": "markdown",
+        "id": "d6863e5fb72df822",
+        "text": "The discovery stage will be, for many, the most challenging. It is a struggle to begin to find the pattern tha connects the pieces. But when that pattern is found, that will be their [[Aha! Moment]] that gives inspires their future [[Learning Cycles]]."
+      },
+      "date": 1551375741695
+    },
+    {
+      "type": "edit",
+      "id": "d6863e5fb72df822",
+      "item": {
+        "type": "markdown",
+        "id": "d6863e5fb72df822",
+        "text": "The discovery stage will be, for many, the most challenging. It is a struggle to begin to find the pattern tha connects the pieces. But when that pattern is found, that will be their [[Aha! Moment]] that gives inspires their future [[Learning Cycles]]."
+      },
+      "date": 1551375761141
+    },
+    {
+      "type": "edit",
+      "id": "761fad71e6beca47",
+      "item": {
+        "type": "paragraph",
+        "id": "761fad71e6beca47",
+        "text": "Jenni is launching the concept of [[Rabbit Hole Research]] with her students. Inspired by the wiki practice of creating of [[Containers of Meaning]], she is challenging her students in her [[Genius Hour]] class to follow their curiosity as they look to connect their Scramble topic with their Base topic."
+      },
+      "date": 1551375798742
+    },
+    {
+      "type": "edit",
+      "id": "761fad71e6beca47",
+      "item": {
+        "type": "paragraph",
+        "id": "761fad71e6beca47",
+        "text": "Jenni is launching the concept of [[Rabbit Hole Research]] with her students. Inspired by the wiki practice of creating of [[Containers of Meaning]], she is challenging her students in her [[Genius Hour]] class to follow their curiosity as they look to connect their Scramble topic with their Base topic."
+      },
+      "date": 1551375807963
+    },
+    {
+      "type": "edit",
+      "id": "761fad71e6beca47",
+      "item": {
+        "type": "paragraph",
+        "id": "761fad71e6beca47",
+        "text": "Jenni is launching the concept of [[Rabbit Hole Research]] with her students. Inspired by the wiki practice of creating of [[Containers of Meaning]], she is challenging her students in her [[Genius Hour]] class to follow their curiosity as they look to connect their Scramble topic with their Base topic."
+      },
+      "date": 1551375825096
+    },
+    {
+      "type": "edit",
+      "id": "b69c1308f568b94b",
+      "item": {
+        "type": "paragraph",
+        "id": "b69c1308f568b94b",
+        "text": "In this way, she is having them set off on their sprints as if they are a [[Hero's Journey]]. There are three primary role the must have in this journey:"
+      },
+      "date": 1551375850575
+    },
+    {
+      "type": "edit",
+      "id": "b69c1308f568b94b",
+      "item": {
+        "type": "paragraph",
+        "id": "b69c1308f568b94b",
+        "text": "In this way, she is having them set off on their sprints as if they are a [[Hero's Journey]]. There are three primary role the must have in this journey:"
+      },
+      "date": 1551375857930
+    },
+    {
+      "type": "edit",
+      "id": "b69c1308f568b94b",
+      "item": {
+        "type": "paragraph",
+        "id": "b69c1308f568b94b",
+        "text": "In this way, she is having them set off on their sprints as if they are a [[Hero's Journey]]. There are three primary role the must have in this journey:"
+      },
+      "date": 1551375873322
+    },
+    {
+      "type": "edit",
+      "id": "a1ba104e1b9344df",
+      "item": {
+        "type": "markdown",
+        "id": "a1ba104e1b9344df",
+        "text": "* Explorer\n* Discoverer\n* Storyteller\n\n\n"
+      },
+      "date": 1551375881672
+    },
+    {
+      "type": "edit",
+      "id": "a1ba104e1b9344df",
+      "item": {
+        "type": "markdown",
+        "id": "a1ba104e1b9344df",
+        "text": "* Explorer\n* Discoverer\n* Storyteller\n\n\n"
+      },
+      "date": 1551375898250
+    },
+    {
+      "type": "edit",
+      "id": "a1ba104e1b9344df",
+      "item": {
+        "type": "markdown",
+        "id": "a1ba104e1b9344df",
+        "text": "* Explorer\n* Discoverer\n* Storyteller\n\n\n"
+      },
+      "date": 1551375919365
+    },
+    {
+      "type": "move",
+      "order": [
+        "761fad71e6beca47",
+        "b69c1308f568b94b",
+        "a1ba104e1b9344df",
+        "9b33e46a4b52d416",
+        "3dad2b973d4304f2",
+        "d6863e5fb72df822"
+      ],
+      "id": "9b33e46a4b52d416",
+      "date": 1551375941673
+    },
+    {
+      "type": "edit",
+      "id": "a1ba104e1b9344df",
+      "item": {
+        "type": "markdown",
+        "id": "a1ba104e1b9344df",
+        "text": "* Explorer\n* Discoverer\n* Storyteller\n\n\n"
+      },
+      "date": 1551375946948
+    },
+    {
+      "type": "move",
+      "order": [
+        "761fad71e6beca47",
+        "b69c1308f568b94b",
+        "a1ba104e1b9344df",
+        "9b33e46a4b52d416",
+        "21acbd33fc793a0b",
+        "3dad2b973d4304f2",
+        "d6863e5fb72df822"
+      ],
+      "id": "9b33e46a4b52d416",
+      "date": 1551375949387,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1551375952454
+    },
+    {
+      "type": "add",
+      "id": "21acbd33fc793a0b",
+      "item": {
+        "type": "markdown",
+        "id": "21acbd33fc793a0b",
+        "text": "In these roles, these journeys will have these student to experience:"
+      },
+      "after": "a1ba104e1b9344df",
+      "date": 1551375955145
+    },
+    {
+      "type": "edit",
+      "id": "9b33e46a4b52d416",
+      "item": {
+        "type": "markdown",
+        "id": "9b33e46a4b52d416",
+        "text": "In this journey they must identify and define interesting facts and concepts. This is the explorer stage. They must then find the pattern that connects these pieces together. That is the discoverer stage. Then they must come back and share their discovery, telling a story that is compelling to others.\n"
+      },
+      "date": 1551375972145
+    },
+    {
+      "type": "edit",
+      "id": "9b33e46a4b52d416",
+      "item": {
+        "type": "markdown",
+        "id": "9b33e46a4b52d416",
+        "text": "In this journey they must identify and define interesting facts and concepts. This is the explorer stage. They must then find the pattern that connects these pieces together. That is the discoverer stage. Then they must come back and share their insight, telling a story that is compelling to others.\n"
+      },
+      "date": 1551375981394
+    },
+    {
+      "type": "edit",
+      "id": "21acbd33fc793a0b",
+      "item": {
+        "type": "markdown",
+        "id": "21acbd33fc793a0b",
+        "text": "These journeys will have these student to experience:"
+      },
+      "date": 1551375991321
+    },
+    {
+      "type": "edit",
+      "id": "d6863e5fb72df822",
+      "item": {
+        "type": "markdown",
+        "id": "d6863e5fb72df822",
+        "text": "The discovery stage will be, for many, the most challenging for her students. It is a struggle to begin to find the pattern tha connects the pieces. But when that pattern is found, that will be their [[Aha! Moment]] that gives inspires their future [[Learning Cycles]]."
+      },
+      "date": 1551376009935
+    },
+    {
+      "type": "edit",
+      "id": "d6863e5fb72df822",
+      "item": {
+        "type": "markdown",
+        "id": "d6863e5fb72df822",
+        "text": "The discovery stage will be, for many, the most challenging for her students. It is a struggle to find the pattern that connects the pieces. But this is the most important part of the learning process. When that pattern is found, they will be their [[Aha! Moment]] that inspires their future [[Learning Cycles]]."
+      },
+      "date": 1551376065761
+    },
+    {
+      "type": "remove",
+      "id": "d6863e5fb72df822",
+      "date": 1551376075193
+    },
+    {
+      "type": "edit",
+      "id": "3dad2b973d4304f2",
+      "item": {
+        "type": "markdown",
+        "id": "3dad2b973d4304f2",
+        "text": "* Courageous Curiosity\n* Surprising Insight\n* Compelling Telling\n\nThe discovery stage will be, for many, the most challenging for her students. It is a struggle to find the pattern that connects the pieces. But this is the most important part of the learning process. When that pattern is found, they will be their [[Aha! Moment]] that inspires their future [[Learning Cycles]]."
+      },
+      "date": 1551376077634
+    },
+    {
+      "type": "edit",
+      "id": "3dad2b973d4304f2",
+      "item": {
+        "type": "markdown",
+        "id": "3dad2b973d4304f2",
+        "text": "* Courageous Curiosity\n* Surprising Insight\n* Compelling Telling\n\nThe discovery stage will be, for many, the most challenging for her students. It is a struggle to find the pattern that connects the pieces. But this is the most important part of the learning process. When that pattern is found, they will be their [[Aha! Moment]] that inspires future [[Learning Cycles]]."
+      },
+      "date": 1551376089373
+    },
+    {
+      "type": "edit",
+      "id": "b69c1308f568b94b",
+      "item": {
+        "type": "paragraph",
+        "id": "b69c1308f568b94b",
+        "text": "In this way, she is having them set off on their sprints as if they are a [[Hero's Journey]]. There are three primary role they will have in this journey:"
+      },
+      "date": 1551376132153
+    },
+    {
+      "type": "edit",
+      "id": "21acbd33fc793a0b",
+      "item": {
+        "type": "markdown",
+        "id": "21acbd33fc793a0b",
+        "text": "These journeys will have these student experience:"
+      },
+      "date": 1551376156229
+    },
+    {
+      "type": "edit",
+      "id": "3dad2b973d4304f2",
+      "item": {
+        "type": "markdown",
+        "id": "3dad2b973d4304f2",
+        "text": "* Courageous Curiosity\n* Surprising Insight\n* Compelling Telling\n\nThe discovery stage will be, for many, the most challenging for her students. It is a struggle to find the pattern that connects the pieces. But this is the most important part of the learning process. \n"
+      },
+      "date": 1551376182376
+    },
+    {
+      "type": "add",
+      "id": "3b25770a556f69f8",
+      "item": {
+        "type": "markdown",
+        "id": "3b25770a556f69f8",
+        "text": "When that pattern is found, they will be their [[Aha! Moment]] that inspires future [[Learning Cycles]]."
+      },
+      "after": "3dad2b973d4304f2",
+      "date": 1551376183557
+    },
+    {
+      "type": "edit",
+      "id": "3b25770a556f69f8",
+      "item": {
+        "type": "markdown",
+        "id": "3b25770a556f69f8",
+        "text": "When that pattern is found, they will have their [[Aha! Moment]] that inspires future [[Learning Cycles]]."
+      },
+      "date": 1551376190935
+    },
+    {
+      "type": "edit",
+      "id": "21acbd33fc793a0b",
+      "item": {
+        "type": "markdown",
+        "id": "21acbd33fc793a0b",
+        "text": "These journeys will have these experiences:"
+      },
+      "date": 1551376249398
+    },
+    {
+      "type": "edit",
+      "id": "3dad2b973d4304f2",
+      "item": {
+        "type": "markdown",
+        "id": "3dad2b973d4304f2",
+        "text": "* Courageous Curiosity\n* Surprising Insight\n* Compelling Telling\n\nThe discovery stage will be the most challenging for her students. It is a struggle to find the pattern that connects the pieces. But this is the most important part of the learning process. \n"
+      },
+      "date": 1551376270673
+    },
+    {
+      "type": "edit",
+      "id": "3b25770a556f69f8",
+      "item": {
+        "type": "markdown",
+        "id": "3b25770a556f69f8",
+        "text": "When that pattern is found, they will have their [[Aha! Moment]] that inspires future [[Learning Cycles]]. By so doing, they are building their [[Meaning Matrix]]."
+      },
+      "date": 1551376311951
+    },
+    {
+      "type": "edit",
+      "id": "3b25770a556f69f8",
+      "item": {
+        "type": "markdown",
+        "id": "3b25770a556f69f8",
+        "text": "When that pattern is found, they will have their [[Aha! Moment]] that inspires future [[Learning Cycles]]. In this process, they are building their [[Meaning Matrix]]."
+      },
+      "date": 1551376331816
+    },
+    {
+      "type": "edit",
+      "id": "3b25770a556f69f8",
+      "item": {
+        "type": "markdown",
+        "id": "3b25770a556f69f8",
+        "text": "When that pattern is found, they will have their [[Aha! Moment]] that inspires future [[Learning Cycles]]. In this process, they are building their [[Meaning Matrix]].\n"
+      },
+      "date": 1551376355784
+    },
+    {
+      "type": "edit",
+      "id": "3b25770a556f69f8",
+      "item": {
+        "type": "markdown",
+        "id": "3b25770a556f69f8",
+        "text": "When that pattern is found, they will have their [[Aha! Moment]] that inspires future [[Learning Cycles]]. In this process, they are building their [[Meaning Matrix]].\n\n\n"
+      },
+      "date": 1551376394300
+    },
+    {
+      "type": "add",
+      "id": "20b0fcc534a52dc8",
+      "item": {
+        "type": "markdown",
+        "id": "20b0fcc534a52dc8",
+        "text": ">The future belongs to a very different kind of person with a very different kind of mind - creators and empathizers, pattern recognizers and meaning makers. \n"
+      },
+      "after": "3b25770a556f69f8",
+      "date": 1551376397890
+    },
+    {
+      "type": "edit",
+      "id": "20b0fcc534a52dc8",
+      "item": {
+        "type": "markdown",
+        "id": "20b0fcc534a52dc8",
+        "text": ">The future belongs to a very different kind of person with a very different kind of mind - creators and empathizers, pattern recognizers and meaning makers. \n> \n- Daniel Pink\n"
+      },
+      "date": 1551376413555
+    },
+    {
+      "type": "edit",
+      "id": "20b0fcc534a52dc8",
+      "item": {
+        "type": "markdown",
+        "id": "20b0fcc534a52dc8",
+        "text": ">The future belongs to a very different kind of person with a very different kind of mind - creators and empathizers, pattern recognizers and meaning makers. \n> \n_Daniel Pink_\n"
+      },
+      "date": 1551376422669
+    },
+    {
+      "type": "move",
+      "order": [
+        "761fad71e6beca47",
+        "a1ba104e1b9344df",
+        "21acbd33fc793a0b",
+        "9b33e46a4b52d416",
+        "3dad2b973d4304f2",
+        "3b25770a556f69f8",
+        "20b0fcc534a52dc8",
+        "b69c1308f568b94b"
+      ],
+      "id": "761fad71e6beca47",
+      "date": 1551378855266
+    },
+    {
+      "type": "move",
+      "order": [
+        "761fad71e6beca47",
+        "b69c1308f568b94b",
+        "a1ba104e1b9344df",
+        "21acbd33fc793a0b",
+        "9b33e46a4b52d416",
+        "3dad2b973d4304f2",
+        "3b25770a556f69f8",
+        "20b0fcc534a52dc8"
+      ],
+      "id": "b69c1308f568b94b",
+      "date": 1551378882831
+    },
+    {
+      "type": "move",
+      "order": [
+        "761fad71e6beca47",
+        "b69c1308f568b94b",
+        "a1ba104e1b9344df",
+        "9b33e46a4b52d416",
+        "21acbd33fc793a0b",
+        "3dad2b973d4304f2",
+        "3b25770a556f69f8",
+        "20b0fcc534a52dc8"
+      ],
+      "id": "9b33e46a4b52d416",
+      "date": 1551378918053
+    },
+    {
+      "type": "move",
+      "order": [
+        "761fad71e6beca47",
+        "b69c1308f568b94b",
+        "a1ba104e1b9344df",
+        "9b33e46a4b52d416",
+        "21acbd33fc793a0b",
+        "3dad2b973d4304f2",
+        "3b25770a556f69f8",
+        "20b0fcc534a52dc8"
+      ],
+      "id": "9b33e46a4b52d416",
+      "date": 1551378918053
+    },
+    {
+      "type": "edit",
+      "id": "21acbd33fc793a0b",
+      "item": {
+        "type": "markdown",
+        "id": "21acbd33fc793a0b",
+        "text": "Ideally, these journeys will have these experiences:"
+      },
+      "date": 1551378944658
+    },
+    {
+      "type": "move",
+      "order": [
+        "761fad71e6beca47",
+        "b69c1308f568b94b",
+        "a1ba104e1b9344df",
+        "9b33e46a4b52d416",
+        "3dad2b973d4304f2",
+        "21acbd33fc793a0b",
+        "3b25770a556f69f8",
+        "20b0fcc534a52dc8"
+      ],
+      "id": "3dad2b973d4304f2",
+      "date": 1551378955801
+    },
+    {
+      "type": "edit",
+      "id": "b69c1308f568b94b",
+      "item": {
+        "type": "paragraph",
+        "id": "b69c1308f568b94b",
+        "text": "In this way, she is having them set off on their sprints as if they are a [[Hero's Journey]]. There are three primary roles they will have in this journey:"
+      },
+      "date": 1551378986256
+    },
+    {
+      "type": "edit",
+      "id": "3dad2b973d4304f2",
+      "item": {
+        "type": "markdown",
+        "id": "3dad2b973d4304f2",
+        "text": "* Courageous Curiosity\n* Surprising Insight\n* Compelling Telling\n\n\n"
+      },
+      "date": 1551379000601
+    },
+    {
+      "type": "add",
+      "id": "1577cf968f3a6f6a",
+      "item": {
+        "type": "markdown",
+        "id": "1577cf968f3a6f6a",
+        "text": "The discovery stage will be the most challenging for her students. It is a struggle to find the pattern that connects the pieces. But this is the most important part of the learning process. \n"
+      },
+      "after": "3dad2b973d4304f2",
+      "date": 1551379002284
+    },
+    {
+      "type": "move",
+      "order": [
+        "761fad71e6beca47",
+        "b69c1308f568b94b",
+        "a1ba104e1b9344df",
+        "9b33e46a4b52d416",
+        "1577cf968f3a6f6a",
+        "3dad2b973d4304f2",
+        "21acbd33fc793a0b",
+        "3b25770a556f69f8",
+        "20b0fcc534a52dc8"
+      ],
+      "id": "1577cf968f3a6f6a",
+      "date": 1551379005000
+    },
+    {
+      "type": "move",
+      "order": [
+        "761fad71e6beca47",
+        "b69c1308f568b94b",
+        "a1ba104e1b9344df",
+        "9b33e46a4b52d416",
+        "1577cf968f3a6f6a",
+        "21acbd33fc793a0b",
+        "3dad2b973d4304f2",
+        "3b25770a556f69f8",
+        "20b0fcc534a52dc8"
+      ],
+      "id": "21acbd33fc793a0b",
+      "date": 1551379007901
+    },
+    {
+      "type": "edit",
+      "id": "761fad71e6beca47",
+      "item": {
+        "type": "paragraph",
+        "id": "761fad71e6beca47",
+        "text": "Jenni is launching the concept of [[Rabbit Hole Research]] with her students. Inspired by the wiki practice of creating [[Containers of Meaning]], she is challenging her students in her [[Genius Hour]] class to follow their curiosity as they look to connect their Scramble topic with their Base topic."
+      },
+      "date": 1551379046698
+    },
+    {
+      "type": "edit",
+      "id": "761fad71e6beca47",
+      "item": {
+        "type": "paragraph",
+        "id": "761fad71e6beca47",
+        "text": "Jenni is launching the concept of [[Rabbit Hole Research]] with her students. Inspired by the wiki practice of creating [[Containers of Meaning]], she is challenging her students in her [[Genius Hour]] class to follow their curiosity as they look to connect their Scrambler topic with their Base topic."
+      },
+      "date": 1551379146545
+    },
+    {
+      "type": "edit",
+      "id": "3b25770a556f69f8",
+      "item": {
+        "type": "markdown",
+        "id": "3b25770a556f69f8",
+        "text": "When that pattern is found, they will have hopefully have their [[Aha! Moment]] that inspires future [[Learning Cycles]]. In this process, they are building their [[Meaning Matrix]].\n\n\n"
+      },
+      "date": 1551379226836
+    },
+    {
+      "type": "edit",
+      "id": "b69c1308f568b94b",
+      "item": {
+        "type": "paragraph",
+        "id": "b69c1308f568b94b",
+        "text": "In this way, she is having them set off on their sprints as if they are on a [[Hero's Journey]]. There are three primary roles they will have in this journey:"
+      },
+      "date": 1551379266000
+    },
+    {
+      "type": "edit",
+      "id": "1577cf968f3a6f6a",
+      "item": {
+        "type": "markdown",
+        "id": "1577cf968f3a6f6a",
+        "text": "The discoverer stage will be the most challenging for her students. It is a struggle to find the pattern that connects the pieces. But this is the most important part of the learning process. \n"
+      },
+      "date": 1551379295256
+    },
+    {
+      "type": "edit",
+      "id": "21acbd33fc793a0b",
+      "item": {
+        "type": "markdown",
+        "id": "21acbd33fc793a0b",
+        "text": "Ideally, these journeys will have these experiences associated with each phase of the journey:"
+      },
+      "date": 1551379352324
+    },
+    {
+      "type": "edit",
+      "id": "3b25770a556f69f8",
+      "item": {
+        "type": "markdown",
+        "id": "3b25770a556f69f8",
+        "text": "When that pattern is found, they will have hopefully have their [[Aha! Moment]] that inspires life-long [[Learning Cycles]]. In this process, they are building their [[Meaning Matrix]].\n\n\n"
+      },
+      "date": 1551380240964
+    },
+    {
+      "type": "edit",
+      "id": "9b33e46a4b52d416",
+      "item": {
+        "type": "markdown",
+        "id": "9b33e46a4b52d416",
+        "text": "In this journey they must identify and define interesting facts and concepts that tie these two topics together. This is the explorer stage. They must then find the pattern that connects these pieces together. That is the discoverer stage. Then they must come back and share their insight, telling a story that is compelling to others.\n"
+      },
+      "date": 1551380383703
+    },
+    {
+      "type": "edit",
+      "id": "9b33e46a4b52d416",
+      "item": {
+        "type": "markdown",
+        "id": "9b33e46a4b52d416",
+        "text": "In this journey they must identify and define interesting facts and concepts related to these two topics. This is the explorer stage. They must then find the pattern that connects these pieces together. That is the discoverer stage. Then they must come back and share their insight, telling a story that is compelling to others.\n"
+      },
+      "date": 1551380471974
+    },
+    {
+      "type": "edit",
+      "id": "3b25770a556f69f8",
+      "item": {
+        "type": "markdown",
+        "id": "3b25770a556f69f8",
+        "text": "When that pattern is found, they will have have their [[Aha! Moment]] that inspires life-long [[Learning Cycles]]. In this process, they are building their [[Meaning Matrix]].\n\n\n"
+      },
+      "date": 1551380988764
+    },
+    {
+      "type": "edit",
+      "id": "3b25770a556f69f8",
+      "item": {
+        "type": "markdown",
+        "id": "3b25770a556f69f8",
+        "text": "When that pattern is found, they will have have their [[Aha! Moment]] that will, hopefully, begin to inspire life-long [[Learning Cycles]]. In this process, they are building their [[Meaning Matrix]].\n\n\n"
+      },
+      "date": 1551381011709
+    },
+    {
+      "type": "remove",
+      "id": "3b25770a556f69f8",
+      "date": 1551381020506
+    },
+    {
+      "type": "edit",
+      "id": "3dad2b973d4304f2",
+      "item": {
+        "type": "markdown",
+        "id": "3dad2b973d4304f2",
+        "text": "* Courageous Curiosity\n* Surprising Insight\n* Compelling Telling\n\n\nWhen that pattern is found, they will have have their [[Aha! Moment]] that will, hopefully, begin to inspire life-long [[Learning Cycles]]. In this process, they are building their [[Meaning Matrix]] that will empower them as creative problem solvers.\n\n\n"
+      },
+      "date": 1551381035240
+    },
+    {
+      "type": "edit",
+      "id": "3dad2b973d4304f2",
+      "item": {
+        "type": "markdown",
+        "id": "3dad2b973d4304f2",
+        "text": "* Courageous Curiosity\n* Surprising Insight\n* Compelling Telling\n\n\nWhen that pattern of meaning is found, they will have have their [[Aha! Moment]] that will, hopefully, begin to inspire life-long [[Learning Cycles]]. In this process, they are building their [[Meaning Matrix]] that will empower them as creative problem solvers.\n\n\n"
+      },
+      "date": 1551388359888
+    },
+    {
+      "type": "edit",
+      "id": "761fad71e6beca47",
+      "item": {
+        "type": "paragraph",
+        "id": "761fad71e6beca47",
+        "text": "Jenni is launching the concept of [[Rabbit Hole Research]] with her students. Inspired by the wiki practice of creating [[Containers of Meaning]], she is challenging her students in her [[Genius Hour]] classes to follow their curiosity as they look to connect their Scrambler topic with their Base topic."
+      },
+      "date": 1551388421441
+    },
+    {
+      "type": "edit",
+      "id": "a1ba104e1b9344df",
+      "item": {
+        "type": "markdown",
+        "id": "a1ba104e1b9344df",
+        "text": "* Explorer\n* Creator\n* Storyteller\n\n\n"
+      },
+      "date": 1551401150862
+    },
+    {
+      "type": "edit",
+      "id": "9b33e46a4b52d416",
+      "item": {
+        "type": "markdown",
+        "id": "9b33e46a4b52d416",
+        "text": "In this journey they must identify and define interesting facts and concepts related to these two topics. This is the explorer stage. They must then find the pattern that connects these pieces together. That is the creator stage. Then they must come back and share their insight, telling a story that is compelling to others.\n"
+      },
+      "date": 1551401167126
+    },
+    {
+      "type": "edit",
+      "id": "9b33e46a4b52d416",
+      "item": {
+        "type": "markdown",
+        "id": "9b33e46a4b52d416",
+        "text": "In this journey they must identify and define interesting facts and concepts related to these two topics. This is the explorer stage. They must then find the pattern that connects these pieces together. That is the creator stage. Then they must come back and share their insight, telling a story that teaches others about their learning. \n"
+      },
+      "date": 1551401267003
+    },
+    {
+      "type": "edit",
+      "id": "9b33e46a4b52d416",
+      "item": {
+        "type": "markdown",
+        "id": "9b33e46a4b52d416",
+        "text": "In this journey they must identify and define interesting facts and concepts related to these two topics. This is the explorer stage. They must then find the pattern that connects these pieces together. That is the creator stage of insightful learning. Then they must come back and share their insight, telling a story that teaches others about their learning. \n"
+      },
+      "date": 1551401292801
+    },
+    {
+      "type": "edit",
+      "id": "9b33e46a4b52d416",
+      "item": {
+        "type": "markdown",
+        "id": "9b33e46a4b52d416",
+        "text": "In this journey they must identify and define interesting facts and concepts related to these two topics. This is the explorer stage. They must then find the pattern that connects these pieces together into a new meaning. That is the creator stage of insightful learning. Then they must come back and share their insight, telling a story that teaches others about their learning. \n"
+      },
+      "date": 1551401499638
+    },
+    {
+      "type": "edit",
+      "id": "9b33e46a4b52d416",
+      "item": {
+        "type": "markdown",
+        "id": "9b33e46a4b52d416",
+        "text": "In this journey they must identify and define interesting facts and concepts related to these two topics. This is the explorer stage. They must then find the pattern that connects these pieces together into a new meaning. That is the creator stage of learning. Then they must come back and share their insight, telling a story that teaches others about their learning. \n"
+      },
+      "date": 1551401507532
+    },
+    {
+      "type": "edit",
+      "id": "9b33e46a4b52d416",
+      "item": {
+        "type": "markdown",
+        "id": "9b33e46a4b52d416",
+        "text": "In this journey they must identify and define interesting facts and concepts related to these two topics. This is the explorer stage. They must then find the pattern that connects these pieces together into a new meaning. That is the creator stage of learning. Then they must come back and share their learning, telling a story that teaches others."
+      },
+      "date": 1551401522340
+    },
+    {
+      "type": "edit",
+      "id": "1577cf968f3a6f6a",
+      "item": {
+        "type": "markdown",
+        "id": "1577cf968f3a6f6a",
+        "text": "The creator stage will be the most challenging for her students. It is a struggle to find the pattern that connects the pieces. But this is the most important part of the learning process. \n"
+      },
+      "date": 1551401578536
+    },
+    {
+      "type": "fork",
+      "site": "thompson.wiki.innovateoregon.org",
+      "date": 1552668522316
+    },
+    {
+      "type": "fork",
+      "date": 1552668524128
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f6921444ecadb1a9"
+      },
+      "id": "f6921444ecadb1a9",
+      "type": "add",
+      "after": "20b0fcc534a52dc8",
+      "date": 1552668535730
+    },
+    {
+      "type": "edit",
+      "id": "f6921444ecadb1a9",
+      "item": {
+        "type": "graphviz",
+        "id": "f6921444ecadb1a9",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552668552292
+    },
+    {
+      "type": "edit",
+      "id": "f6921444ecadb1a9",
+      "item": {
+        "type": "graphviz",
+        "id": "f6921444ecadb1a9",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552668564108
+    },
+    {
+      "type": "add",
+      "id": "18d3a017e8d9aab2",
+      "item": {
+        "type": "paragraph",
+        "id": "18d3a017e8d9aab2",
+        "text": "[[Journey of Discovery]]"
+      },
+      "after": "761fad71e6beca47",
+      "date": 1553532172818
+    },
+    {
+      "type": "remove",
+      "id": "761fad71e6beca47",
+      "date": 1553532187568
+    },
+    {
+      "type": "remove",
+      "id": "b69c1308f568b94b",
+      "date": 1553532191196
+    },
+    {
+      "type": "remove",
+      "id": "a1ba104e1b9344df",
+      "date": 1553532192922
+    },
+    {
+      "type": "remove",
+      "id": "9b33e46a4b52d416",
+      "date": 1553532198163
+    },
+    {
+      "type": "remove",
+      "id": "1577cf968f3a6f6a",
+      "date": 1553532200192
+    },
+    {
+      "type": "remove",
+      "id": "21acbd33fc793a0b",
+      "date": 1553532203485
+    },
+    {
+      "type": "remove",
+      "id": "3dad2b973d4304f2",
+      "date": 1553532207693
+    },
+    {
+      "type": "fork",
+      "date": 1553532532572
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2aef90c816089eda",
+        "text": "d"
+      },
+      "id": "2aef90c816089eda",
+      "type": "add",
+      "after": "f6921444ecadb1a9",
+      "date": 1553532537781
+    },
+    {
+      "type": "edit",
+      "id": "2aef90c816089eda",
+      "item": {
+        "type": "paragraph",
+        "id": "2aef90c816089eda",
+        "text": "d"
+      },
+      "date": 1553532542823
+    },
+    {
+      "type": "move",
+      "order": [
+        "18d3a017e8d9aab2",
+        "20b0fcc534a52dc8",
+        "2aef90c816089eda",
+        "f6921444ecadb1a9",
+        "b2c86209186f403d"
+      ],
+      "id": "2aef90c816089eda",
+      "date": 1553532550612,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1553532559053
+    },
+    {
+      "type": "edit",
+      "id": "2aef90c816089eda",
+      "item": {
+        "type": "paragraph",
+        "id": "2aef90c816089eda",
+        "text": "Life is a mystery. We walk our path in the hope that our life will have a meaning for ourselves and, ultimately, for others. "
+      },
+      "date": 1553532695625
+    },
+    {
+      "type": "add",
+      "id": "b1a7000de477df4f",
+      "item": {
+        "type": "paragraph",
+        "id": "b1a7000de477df4f",
+        "text": "Our spirit rail against the the angst of Shakespear's lament: "
+      },
+      "after": "2aef90c816089eda",
+      "date": 1553532762989
+    },
+    {
+      "type": "edit",
+      "id": "b1a7000de477df4f",
+      "item": {
+        "type": "markdown",
+        "id": "b1a7000de477df4f",
+        "text": "Our spirit rail against the the angst of Shakespear lament: \n> “Out, out, brief candle! Life's but a walking shadow, a poor player that struts and frets his hour upon the stage and is heard no more. It is a tale told by an idiot, full of sound and fury, signifying nothing.”"
+      },
+      "date": 1553532789589
+    },
+    {
+      "type": "edit",
+      "id": "b1a7000de477df4f",
+      "item": {
+        "type": "markdown",
+        "id": "b1a7000de477df4f",
+        "text": "Our spirit rail against the the angst of Shakespeare's lament: \n> “Out, out, brief candle! Life's but a walking shadow, a poor player that struts and frets his hour upon the stage and is heard no more. It is a tale told by an idiot, full of sound and fury, signifying nothing.”"
+      },
+      "date": 1553532860708
+    },
+    {
+      "type": "edit",
+      "id": "b1a7000de477df4f",
+      "item": {
+        "type": "markdown",
+        "id": "b1a7000de477df4f",
+        "text": "Our spirit rail against the the angst of Shakespeare's lament in Mak: \n> “Out, out, brief candle! Life's but a walking shadow, a poor player that struts and frets his hour upon the stage and is heard no more. It is a tale told by an idiot, full of sound and fury, signifying nothing.”"
+      },
+      "date": 1553532896756
+    },
+    {
+      "type": "edit",
+      "id": "b1a7000de477df4f",
+      "item": {
+        "type": "markdown",
+        "id": "b1a7000de477df4f",
+        "text": "Our spirit rail against the the angst of Shakespeare's lament in Macbeth: \n> Out, out, brief candle! Life's but a walking shadow, a poor player that struts and frets his hour upon the stage and is heard no more. It is a tale told by an idiot, full of sound and fury, signifying nothing."
+      },
+      "date": 1553532911969
+    },
+    {
+      "type": "edit",
+      "id": "b1a7000de477df4f",
+      "item": {
+        "type": "markdown",
+        "id": "b1a7000de477df4f",
+        "text": "Our spirit rail against the the angst of Shakespeare's lament in Macbeth: \n> Out, out, brief candle! Life's but a walking shadow, a poor player that struts and frets his hour upon the stage and is heard no more. It is a tale told by an idiot, full of sound and fury, signifying nothing.\n"
+      },
+      "date": 1553532916387
+    },
+    {
+      "type": "add",
+      "id": "3124159133d05893",
+      "item": {
+        "type": "markdown",
+        "id": "3124159133d05893",
+        "text": "From our earliest days, then, we are trying to make meaning of our experiences. To find a narrative that helps explain our world.\n"
+      },
+      "after": "b1a7000de477df4f",
+      "date": 1553532991245
+    },
+    {
+      "type": "edit",
+      "id": "3124159133d05893",
+      "item": {
+        "type": "markdown",
+        "id": "3124159133d05893",
+        "text": "From our earliest days, then, we are trying to make meaning of our experiences. To find a narrative that helps explain our world.\n\n"
+      },
+      "date": 1553533003150
+    },
+    {
+      "type": "edit",
+      "id": "b1a7000de477df4f",
+      "item": {
+        "type": "markdown",
+        "id": "b1a7000de477df4f",
+        "text": "Our spirit rails against the the angst of Shakespeare's lament in Macbeth: \n> Out, out, brief candle! Life's but a walking shadow, a poor player that struts and frets his hour upon the stage and is heard no more. It is a tale told by an idiot, full of sound and fury, signifying nothing.\n"
+      },
+      "date": 1553533016868
+    },
+    {
+      "type": "edit",
+      "id": "3124159133d05893",
+      "item": {
+        "type": "markdown",
+        "id": "3124159133d05893",
+        "text": "From our earliest days, then, we are trying to make meaning of our experiences. To find a narrative that helps explain our world.\n"
+      },
+      "date": 1553533045653
+    },
+    {
+      "type": "add",
+      "id": "26838872de19be48",
+      "item": {
+        "type": "markdown",
+        "id": "26838872de19be48",
+        "text": "Our ability to make meaning empowers us as creators. It is what gives us our vitality, our passion, our meaning. \n"
+      },
+      "after": "3124159133d05893",
+      "date": 1553533189068
+    },
+    {
+      "type": "add",
+      "id": "11b5c8f25dafe717",
+      "item": {
+        "type": "markdown",
+        "id": "11b5c8f25dafe717",
+        "text": "It is also what gives us our future. Something clearly recognized by Daniel Pink:"
+      },
+      "after": "26838872de19be48",
+      "date": 1553533219082
+    },
+    {
+      "type": "edit",
+      "id": "26838872de19be48",
+      "item": {
+        "type": "markdown",
+        "id": "26838872de19be48",
+        "text": "Our ability to make meaning empowers us as creators. It is what gives us our vitality, our passion, our meaning. It shapes our [[Meaning Matrix]].\n"
+      },
+      "date": 1553533277584
+    },
+    {
+      "type": "edit",
+      "id": "3124159133d05893",
+      "item": {
+        "type": "markdown",
+        "id": "3124159133d05893",
+        "text": "From our earliest days, then, we are trying to make meaning of our experiences. To find a narrative that helps explain our world. To create our [[Meaning Matrix]].\n"
+      },
+      "date": 1553533331996
+    },
+    {
+      "type": "edit",
+      "id": "26838872de19be48",
+      "item": {
+        "type": "markdown",
+        "id": "26838872de19be48",
+        "text": "Our ability to make meaning empowers us as creators. It is what gives us our vitality, our passion, our meaning. \n"
+      },
+      "date": 1553533335955
+    },
+    {
+      "type": "edit",
+      "id": "26838872de19be48",
+      "item": {
+        "type": "markdown",
+        "id": "26838872de19be48",
+        "text": "Our ability to make meaning ignites our [[Curiosity]] and empowers us as creators. It is what gives us our vitality, our passion, our meaning. \n"
+      },
+      "date": 1553533360868
+    },
+    {
+      "type": "edit",
+      "id": "b1a7000de477df4f",
+      "item": {
+        "type": "markdown",
+        "id": "b1a7000de477df4f",
+        "text": "Our spirit rails against the the angst of Macbeth's lament: \n> Out, out, brief candle! Life's but a walking shadow, a poor player that struts and frets his hour upon the stage and is heard no more. It is a tale told by an idiot, full of sound and fury, signifying nothing.\n"
+      },
+      "date": 1553533476483
+    },
+    {
+      "type": "remove",
+      "id": "18d3a017e8d9aab2",
+      "date": 1553533539232
+    },
+    {
+      "type": "edit",
+      "id": "11b5c8f25dafe717",
+      "item": {
+        "type": "markdown",
+        "id": "11b5c8f25dafe717",
+        "text": "It is also what gives us our future guiding our [[Journey of Discovery]]. Something clearly recognized by Daniel Pink:"
+      },
+      "date": 1553533545254
+    },
+    {
+      "type": "move",
+      "order": [
+        "2aef90c816089eda",
+        "b1a7000de477df4f",
+        "3124159133d05893",
+        "26838872de19be48",
+        "11b5c8f25dafe717",
+        "20b0fcc534a52dc8",
+        "f6921444ecadb1a9"
+      ],
+      "id": "20b0fcc534a52dc8",
+      "date": 1553533582151
+    },
+    {
+      "type": "edit",
+      "id": "11b5c8f25dafe717",
+      "item": {
+        "type": "markdown",
+        "id": "11b5c8f25dafe717",
+        "text": "It is also what gives us our future and guides our [[Journey of Discovery]]. Something clearly recognized by Daniel Pink:"
+      },
+      "date": 1553533635903
+    },
+    {
+      "type": "edit",
+      "id": "11b5c8f25dafe717",
+      "item": {
+        "type": "markdown",
+        "id": "11b5c8f25dafe717",
+        "text": "It is also what guides our [[Journey of Discovery]] and gives us our future. Something clearly recognized by Daniel Pink:"
+      },
+      "date": 1553533735377
+    },
+    {
+      "type": "edit",
+      "id": "2aef90c816089eda",
+      "item": {
+        "type": "paragraph",
+        "id": "2aef90c816089eda",
+        "text": "Life is a mystery. We walk our solitary path in the hope that our life will have a meaning for ourselves and, ultimately, for others. "
+      },
+      "date": 1554221892485
+    },
+    {
+      "type": "edit",
+      "id": "11b5c8f25dafe717",
+      "item": {
+        "type": "markdown",
+        "id": "11b5c8f25dafe717",
+        "text": "It is also what guides our [[Journey of Discovery]] and gives us our future. Something recognized by Daniel Pink:"
+      },
+      "date": 1554221966472
+    },
+    {
+      "type": "edit",
+      "id": "3124159133d05893",
+      "item": {
+        "type": "markdown",
+        "id": "3124159133d05893",
+        "text": "From our earliest days, then, we are trying to make meaning of our experiences. To find a narrative that helps explain our world. To create a [[Meaning Matrix]].\n"
+      },
+      "date": 1562776231869
+    },
+    {
+      "type": "fork",
+      "date": 1562776398861
+    },
+    {
+      "type": "edit",
+      "id": "11b5c8f25dafe717",
+      "item": {
+        "type": "markdown",
+        "id": "11b5c8f25dafe717",
+        "text": "It is also what guides our future. Something recognized by Daniel Pink:"
+      },
+      "date": 1562776437540
+    },
+    {
+      "type": "edit",
+      "id": "2aef90c816089eda",
+      "item": {
+        "type": "paragraph",
+        "id": "2aef90c816089eda",
+        "text": "Life is a mystery. We walk our solitary path in the hope that our lives will have a meaning for ourselves and, ultimately, for others. "
+      },
+      "date": 1562776667708
+    },
+    {
+      "type": "edit",
+      "id": "b1a7000de477df4f",
+      "item": {
+        "type": "markdown",
+        "id": "b1a7000de477df4f",
+        "text": "Our spirit rails against the angst of Macbeth's lament: \n> Out, out, brief candle! Life's but a walking shadow, a poor player that struts and frets his hour upon the stage and is heard no more. It is a tale told by an idiot, full of sound and fury, signifying nothing.\n"
+      },
+      "date": 1562776675483
+    },
+    {
+      "type": "fork",
+      "site": "dev2.wiki.innovateoregon.org",
+      "date": 1563357200458
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "title": "Comfortable being Uncomfortable",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c396b42cbab564d4",
+      "text": "As someone embarks on a true learning journey, consider this rule number one: One must become comfortable being uncomfortable. "
+    },
+    {
+      "type": "paragraph",
+      "id": "5d8d486b4789b7f0",
+      "text": "You have to step boldly into the unknown, to experiment, to fail. Then reflect, learn, and step boldly again, back into the unknown."
+    },
+    {
+      "type": "paragraph",
+      "id": "8e9c57afcfae72e4",
+      "text": "We call this these [[Learning Cycles]]. The faster one can go through these cycles, the faster one learns. The faster one learns, the faster one innovates. Our rate of learning is critical for success and for us to build our [[Creative Confidence]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "b92194355863d073",
+      "text": "But to walk into the unknown puts us, emotionally, into a place where failure is not only possible, but likely. But we have been taught by our society to avoid failure like the plague. For in failure we are vulnerable. We risk shame. We fear rejection. "
+    },
+    {
+      "type": "paragraph",
+      "id": "2cf4c010b8136cb0",
+      "text": "But the only way for us to know which of those assumptions are incorrect are by trying a solution that we think might work. When it fails, which it likely will, our incorrect assumptions are revealed. We then try again, this time understanding the problem more deeply. So our next solution is incrementally better. But again, perhaps not the right one. So we have to try another time. Each time, smarter."
+    },
+    {
+      "type": "paragraph",
+      "id": "49dd667b377f24f7",
+      "text": "It is essential, then, not to do this journey alone, but with others we trust. We need to trust them with our vulnerabilities, knowing that when we fail, they will not judge us, but help pick up back up so that we can learn, empowering us to once again plunge back into the next learning cycle one where we can [[Know the Problem]] better. "
+    },
+    {
+      "type": "graphviz",
+      "id": "48d92f829accafc7",
+      "text": "DOT FROM preview-next-diagram"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Comfortable being Uncomfortable",
+        "story": []
+      },
+      "date": 1520028272158
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c396b42cbab564d4"
+      },
+      "id": "c396b42cbab564d4",
+      "type": "add",
+      "date": 1520028278242
+    },
+    {
+      "type": "edit",
+      "id": "c396b42cbab564d4",
+      "item": {
+        "type": "paragraph",
+        "id": "c396b42cbab564d4",
+        "text": "As someone embarks on this journey, consider this rule number one. "
+      },
+      "date": 1520028299267
+    },
+    {
+      "type": "add",
+      "id": "5d8d486b4789b7f0",
+      "item": {
+        "type": "paragraph",
+        "id": "5d8d486b4789b7f0",
+        "text": "You have to step boldly, to experiment, the fail. The reflect, learn, and step boldly again, into the unknown."
+      },
+      "after": "c396b42cbab564d4",
+      "date": 1520028398084
+    },
+    {
+      "type": "add",
+      "id": "8e9c57afcfae72e4",
+      "item": {
+        "type": "paragraph",
+        "id": "8e9c57afcfae72e4",
+        "text": "We call this the [[Learning Cycle]]. The faster one can go through these Learning Cycles, the faster one learns. The faster one learns, the faster one innovates. Our rate of innovation is critical for success in order for us to establish ourselves as a [[First Mover]] and to [[Create a Wake]]."
+      },
+      "after": "5d8d486b4789b7f0",
+      "date": 1520028514331
+    },
+    {
+      "type": "add",
+      "id": "b92194355863d073",
+      "item": {
+        "type": "paragraph",
+        "id": "b92194355863d073",
+        "text": "But to walk into the unknown puts us, emotionally, into a place where failure is not only possible, but likely. And we have been taught by our society to avoid failure like the plague. For in failure we are vulnerable. We feel shame. We fear rejection. "
+      },
+      "after": "8e9c57afcfae72e4",
+      "date": 1520028670362
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "49dd667b377f24f7"
+      },
+      "id": "49dd667b377f24f7",
+      "type": "add",
+      "after": "b92194355863d073",
+      "date": 1520028722839
+    },
+    {
+      "type": "edit",
+      "id": "49dd667b377f24f7",
+      "item": {
+        "type": "paragraph",
+        "id": "49dd667b377f24f7",
+        "text": "We need, then, not to do this journey alone, but with [[Mentors]] and [[Helpers]]. We need to trust them with our vulnerabilities, knowing that when we fail, they will not judge us, but help us learn so that we can once again plunge back into the [[Learning Cycle]]. "
+      },
+      "date": 1520028842290
+    },
+    {
+      "type": "edit",
+      "id": "5d8d486b4789b7f0",
+      "item": {
+        "type": "paragraph",
+        "id": "5d8d486b4789b7f0",
+        "text": "You have to step boldly into the unknown, to experiment, to fail. Then reflect, learn, and step boldly again, back into the unknown."
+      },
+      "date": 1520029296590
+    },
+    {
+      "type": "edit",
+      "id": "8e9c57afcfae72e4",
+      "item": {
+        "type": "paragraph",
+        "id": "8e9c57afcfae72e4",
+        "text": "We call this the [[Learning Cycle]]. The faster one can go through these cycles, the faster one learns. The faster one learns, the faster one innovates. Our rate of innovation is critical for success in order for us to establish ourselves as a [[First Mover]] and to [[Create a Wake]]."
+      },
+      "date": 1520029311081
+    },
+    {
+      "type": "edit",
+      "id": "b92194355863d073",
+      "item": {
+        "type": "paragraph",
+        "id": "b92194355863d073",
+        "text": "But to walk into the unknown puts us, emotionally, into a place where failure is not only possible, but likely. But we have been taught by our society to avoid failure like the plague. For in failure we are vulnerable. We feel shame. We fear rejection. "
+      },
+      "date": 1520029342885
+    },
+    {
+      "type": "edit",
+      "id": "49dd667b377f24f7",
+      "item": {
+        "type": "paragraph",
+        "id": "49dd667b377f24f7",
+        "text": "It is essential, then, not to do this journey alone, but with [[Mentors]] and [[Helpers]]. We need to trust them with our vulnerabilities, knowing that when we fail, they will not judge us, but help us learn so that we can once again plunge back into the [[Learning Cycle]]. "
+      },
+      "date": 1520029369914
+    },
+    {
+      "type": "edit",
+      "id": "49dd667b377f24f7",
+      "item": {
+        "type": "paragraph",
+        "id": "49dd667b377f24f7",
+        "text": "It is essential, then, not to do this journey alone, but with [[Mentors]] and [[Helpers]]. We need to trust them with our vulnerabilities, knowing that when we fail, they will not judge us, but help pick up back up so to that we can learn, empowering us to once again plunge back into the [[Learning Cycle]]. "
+      },
+      "date": 1520029456490
+    },
+    {
+      "type": "edit",
+      "id": "49dd667b377f24f7",
+      "item": {
+        "type": "paragraph",
+        "id": "49dd667b377f24f7",
+        "text": "It is essential, then, not to do this journey alone, but with [[Mentors]] and [[Helpers]]. We need to trust them with our vulnerabilities, knowing that when we fail, they will not judge us, but help pick up back up so to that we can learn, empowering us to once again plunge back into the next [[Learning Cycle]]. "
+      },
+      "date": 1520030314331
+    },
+    {
+      "type": "edit",
+      "id": "c396b42cbab564d4",
+      "item": {
+        "type": "paragraph",
+        "id": "c396b42cbab564d4",
+        "text": "As someone embarks on a true learning journey, consider this rule number one. "
+      },
+      "date": 1548452801907
+    },
+    {
+      "type": "edit",
+      "id": "c396b42cbab564d4",
+      "item": {
+        "type": "paragraph",
+        "id": "c396b42cbab564d4",
+        "text": "As someone embarks on a true learning journey, consider this rule number one: One must become comfortable being uncomfortable. "
+      },
+      "date": 1548452834774
+    },
+    {
+      "type": "edit",
+      "id": "8e9c57afcfae72e4",
+      "item": {
+        "type": "paragraph",
+        "id": "8e9c57afcfae72e4",
+        "text": "We call this the [[Learning Cycles]]. The faster one can go through these cycles, the faster one learns. The faster one learns, the faster one innovates. Our rate of innovation is critical for success in order for us to establish ourselves as a [[First Mover]] and to [[Create a Wake]]."
+      },
+      "date": 1550611296805
+    },
+    {
+      "type": "fork",
+      "site": "thompson.wiki.innovateoregon.org",
+      "date": 1552515426272
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "48d92f829accafc7"
+      },
+      "id": "48d92f829accafc7",
+      "type": "add",
+      "after": "49dd667b377f24f7",
+      "date": 1552515431936
+    },
+    {
+      "type": "edit",
+      "id": "48d92f829accafc7",
+      "item": {
+        "type": "graphviz",
+        "id": "48d92f829accafc7",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552515442182
+    },
+    {
+      "type": "edit",
+      "id": "48d92f829accafc7",
+      "item": {
+        "type": "graphviz",
+        "id": "48d92f829accafc7",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552515449543
+    },
+    {
+      "type": "edit",
+      "id": "8e9c57afcfae72e4",
+      "item": {
+        "type": "paragraph",
+        "id": "8e9c57afcfae72e4",
+        "text": "We call this these [[Learning Cycles]]. The faster one can go through these cycles, the faster one learns. The faster one learns, the faster one innovates. Our rate of innovation is critical for success in order for us to establish ourselves as a [[First Mover]] and to [[Create a Wake]]."
+      },
+      "date": 1553621146164
+    },
+    {
+      "type": "edit",
+      "id": "8e9c57afcfae72e4",
+      "item": {
+        "type": "paragraph",
+        "id": "8e9c57afcfae72e4",
+        "text": "We call this these [[Learning Cycles]]. The faster one can go through these cycles, the faster one learns. The faster one learns, the faster one innovates. Our rate of innovation is critical for success in order for us to establish ourselves as a [[First Mover]]."
+      },
+      "date": 1553621202491
+    },
+    {
+      "type": "edit",
+      "id": "49dd667b377f24f7",
+      "item": {
+        "type": "paragraph",
+        "id": "49dd667b377f24f7",
+        "text": "It is essential, then, not to do this journey alone, but with others we trust. We need to trust them with our vulnerabilities, knowing that when we fail, they will not judge us, but help pick up back up so to that we can learn, empowering us to once again plunge back into the next [[Learning Cycle]]. "
+      },
+      "date": 1553621224147
+    },
+    {
+      "type": "edit",
+      "id": "49dd667b377f24f7",
+      "item": {
+        "type": "paragraph",
+        "id": "49dd667b377f24f7",
+        "text": "It is essential, then, not to do this journey alone, but with others we trust. We need to trust them with our vulnerabilities, knowing that when we fail, they will not judge us, but help pick up back up so to that we can learn, empowering us to once again plunge back into the next learning cycle. "
+      },
+      "date": 1553621263833
+    },
+    {
+      "type": "edit",
+      "id": "49dd667b377f24f7",
+      "item": {
+        "type": "paragraph",
+        "id": "49dd667b377f24f7",
+        "text": "It is essential, then, not to do this journey alone, but with others we trust. We need to trust them with our vulnerabilities, knowing that when we fail, they will not judge us, but help pick up back up so to that we can learn, empowering us to once again plunge back into the next learning cycle one where we [[Know the Problem]] better. "
+      },
+      "date": 1553621355427
+    },
+    {
+      "type": "edit",
+      "id": "49dd667b377f24f7",
+      "item": {
+        "type": "paragraph",
+        "id": "49dd667b377f24f7",
+        "text": "It is essential, then, not to do this journey alone, but with others we trust. We need to trust them with our vulnerabilities, knowing that when we fail, they will not judge us, but help pick up back up so that we can learn, empowering us to once again plunge back into the next learning cycle one where we [[Know the Problem]] better. "
+      },
+      "date": 1560882736233
+    },
+    {
+      "type": "edit",
+      "id": "49dd667b377f24f7",
+      "item": {
+        "type": "paragraph",
+        "id": "49dd667b377f24f7",
+        "text": "It is essential, then, not to do this journey alone, but with others we trust. We need to trust them with our vulnerabilities, knowing that when we fail, they will not judge us, but help pick up back up so that we can learn, empowering us to once again plunge back into the next learning cycle one where we can [[Know the Problem]] better. "
+      },
+      "date": 1562698286459
+    },
+    {
+      "type": "edit",
+      "id": "8e9c57afcfae72e4",
+      "item": {
+        "type": "paragraph",
+        "id": "8e9c57afcfae72e4",
+        "text": "We call this these [[Learning Cycles]]. The faster one can go through these cycles, the faster one learns. The faster one learns, the faster one innovates. Our rate of learning is critical for success and for us to build our [[Creative "
+      },
+      "date": 1562698344349
+    },
+    {
+      "type": "edit",
+      "id": "8e9c57afcfae72e4",
+      "item": {
+        "type": "paragraph",
+        "id": "8e9c57afcfae72e4",
+        "text": "We call this these [[Learning Cycles]]. The faster one can go through these cycles, the faster one learns. The faster one learns, the faster one innovates. Our rate of learning is critical for success and for us to build our [[Creative Confidence]]."
+      },
+      "date": 1562698350867
+    },
+    {
+      "type": "edit",
+      "id": "b92194355863d073",
+      "item": {
+        "type": "paragraph",
+        "id": "b92194355863d073",
+        "text": "But to walk into the unknown puts us, emotionally, into a place where failure is not only possible, but likely. But we have been taught by our society to avoid failure like the plague. For in failure we are vulnerable. We risk shame. We fear rejection. "
+      },
+      "date": 1562698434162
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2cf4c010b8136cb0",
+        "text": "But the only way for us to know which of those assumptions are incorrect are by trying a solution that we think might work. When it fails, which it likely will, our incorrect assumptions are revealed. We then try again, this time understanding the problem more deeply. So our next solution is incrementally better. But again, perhaps not the right one. So we have to try another time. Each time, smarter."
+      },
+      "after": "b92194355863d073",
+      "id": "2cf4c010b8136cb0",
+      "date": 1563033568911
+    },
+    {
+      "type": "fork",
+      "site": "dev2.wiki.innovateoregon.org",
+      "date": 1563357101841
+    }
+  ]
+}

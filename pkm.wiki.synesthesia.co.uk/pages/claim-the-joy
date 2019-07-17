@@ -1,0 +1,484 @@
+{
+  "title": "Claim the Joy",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "defe45488ebf5a56",
+      "text": "Being in the [[Flow]] is a joyful experience. It's challenging, but it vitalizes us - leaves us with more energy, not less. "
+    },
+    {
+      "type": "paragraph",
+      "id": "dee96185b51ef351",
+      "text": "Because it excites our [[Curiosity]], it becomes almost addictive. Our heart begins to crave it."
+    },
+    {
+      "type": "paragraph",
+      "id": "efe1537d5061be89",
+      "text": "We become fearless. Until doubt appears. "
+    },
+    {
+      "type": "paragraph",
+      "id": "122cffdbbbeec513",
+      "text": "We are living in a world that doesn't fully embrace this new paradigm. Periodically, we have to come face to face with our fear that causes us to question our joy. Are we really deserving of it? Is the fear the reality and we are only in a temporarily suspended state?"
+    },
+    {
+      "type": "paragraph",
+      "id": "1052753dd44893e3",
+      "text": "When we are confronted by our fear, we are forced to choose one or the other. If we claim the joy, we can walk through the fear. With [[Courage]]."
+    },
+    {
+      "type": "graphviz",
+      "id": "b2c714443294dedd",
+      "text": "DOT FROM preview-next-diagram"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Claim the Joy",
+        "story": []
+      },
+      "date": 1538066256413
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "defe45488ebf5a56"
+      },
+      "id": "defe45488ebf5a56",
+      "type": "add",
+      "date": 1538066259643
+    },
+    {
+      "type": "edit",
+      "id": "defe45488ebf5a56",
+      "item": {
+        "type": "paragraph",
+        "id": "defe45488ebf5a56",
+        "text": "Being in the [[Flow State]] of [[Agile]] is a joyful experience. It's challenging, but it vitalizes us - leaves us with more energy than less. Because it excites our [[Curiosity]], it almost becomes addictive."
+      },
+      "date": 1538066367017
+    },
+    {
+      "type": "add",
+      "id": "99288dacf5d03f55",
+      "item": {
+        "type": "paragraph",
+        "id": "99288dacf5d03f55",
+        "text": "But, having this [[Agile Mindset]] creates tension when butting up against others who have a traditional [[Cartesian Mindset]]. If the Agile Mindset is focused on creativity, the Cartesian Mindset is focused on control. One is fundamentally driven by the experience of Joy, the other driven by the experience of Fear. "
+      },
+      "after": "defe45488ebf5a56",
+      "date": 1538066560811
+    },
+    {
+      "type": "edit",
+      "id": "99288dacf5d03f55",
+      "item": {
+        "type": "paragraph",
+        "id": "99288dacf5d03f55",
+        "text": "But, having this [[Agile Mindset]] creates tension when butting up against others who have a traditional [[Cartesian Mindset]]. If the Agile Mindset is focused on creativity, the Cartesian Mindset is focused on control. One is fundamentally driven by the experience of joy, the other is largely driven by the experience of fear. "
+      },
+      "date": 1538066583077
+    },
+    {
+      "type": "add",
+      "id": "efe1537d5061be89",
+      "item": {
+        "type": "paragraph",
+        "id": "efe1537d5061be89",
+        "text": "Coming face to face with someones fear can sometimes cause us to question our joy. Are we really deserving of it? It the fear the reality and we are in a suspended state of that reality?"
+      },
+      "after": "99288dacf5d03f55",
+      "date": 1538066661507
+    },
+    {
+      "type": "edit",
+      "id": "efe1537d5061be89",
+      "item": {
+        "type": "paragraph",
+        "id": "efe1537d5061be89",
+        "text": "Coming face to face with someones fear can sometimes cause us to question our joy. Are we really deserving of it? It the fear the reality and we are in a temporarily suspended state of that reality?"
+      },
+      "date": 1538066671651
+    },
+    {
+      "type": "add",
+      "id": "1052753dd44893e3",
+      "item": {
+        "type": "paragraph",
+        "id": "1052753dd44893e3",
+        "text": "When we are confronted by fear, we are called to chose one or the other. If we claim the joy, we can walk through the fear. "
+      },
+      "after": "efe1537d5061be89",
+      "date": 1538066728881
+    },
+    {
+      "type": "edit",
+      "id": "efe1537d5061be89",
+      "item": {
+        "type": "paragraph",
+        "id": "efe1537d5061be89",
+        "text": "Coming face to face with someone's fear can sometimes cause us to question our joy. Are we really deserving of it? It the fear the reality and we are in a temporarily suspended state of that reality?"
+      },
+      "date": 1538066804684
+    },
+    {
+      "type": "edit",
+      "id": "efe1537d5061be89",
+      "item": {
+        "type": "paragraph",
+        "id": "efe1537d5061be89",
+        "text": "Coming face to face with someone's fear can sometimes cause us to question our joy. Are we really deserving of it? Is the fear the reality and we are only in a temporarily suspended state of that reality?"
+      },
+      "date": 1538066823262
+    },
+    {
+      "type": "edit",
+      "id": "1052753dd44893e3",
+      "item": {
+        "type": "paragraph",
+        "id": "1052753dd44893e3",
+        "text": "When we are confronted by fear, we are called to chose one or the other. If we claim the joy, we can walk through the fear. With courage. "
+      },
+      "date": 1538066865926
+    },
+    {
+      "type": "edit",
+      "id": "1052753dd44893e3",
+      "item": {
+        "type": "paragraph",
+        "id": "1052753dd44893e3",
+        "text": "When we are confronted by fear, we are called to chose one or the other. If we claim the joy, we can walk through the fear. With [[Creative Courage]]. "
+      },
+      "date": 1538066989838
+    },
+    {
+      "type": "edit",
+      "id": "1052753dd44893e3",
+      "item": {
+        "type": "paragraph",
+        "id": "1052753dd44893e3",
+        "text": "When we are confronted by fear, we are called to chose one or the other. If we claim the joy, we can walk through the fear. With courage."
+      },
+      "date": 1538067020325
+    },
+    {
+      "type": "edit",
+      "id": "99288dacf5d03f55",
+      "item": {
+        "type": "paragraph",
+        "id": "99288dacf5d03f55",
+        "text": "But, having this [[Agile Mindset]] creates tension when butting up against others who have a traditional [[Cartesian Mindset]]. If the [[Agile Mindset]] is focused on creativity, the Cartesian Mindset is focused on control. One is fundamentally driven by the experience of joy, the other is largely driven by the experience of fear. "
+      },
+      "date": 1544413913080
+    },
+    {
+      "type": "edit",
+      "id": "99288dacf5d03f55",
+      "item": {
+        "type": "paragraph",
+        "id": "99288dacf5d03f55",
+        "text": "But, having this [[Agile Mindset]] creates tension when butting up against others who have a traditional [[Cartesian Mindset]]. If the Agile Mindset is focused on creativity, the Cartesian Mindset is focused on control. One is fundamentally driven by the experience of joy, the other is largely driven by the experience of fear. "
+      },
+      "date": 1544413941640
+    },
+    {
+      "type": "fork",
+      "site": "thompson.wiki.innovateoregon.org",
+      "date": 1553292372470
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b2c714443294dedd"
+      },
+      "id": "b2c714443294dedd",
+      "type": "add",
+      "after": "1052753dd44893e3",
+      "date": 1553292375122
+    },
+    {
+      "type": "edit",
+      "id": "b2c714443294dedd",
+      "item": {
+        "type": "graphviz",
+        "id": "b2c714443294dedd",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1553292379150
+    },
+    {
+      "type": "edit",
+      "id": "defe45488ebf5a56",
+      "item": {
+        "type": "paragraph",
+        "id": "defe45488ebf5a56",
+        "text": "Being in [[The Flow]] of [[Agile]] is a joyful experience. It's challenging, but it vitalizes us - leaves us with more energy than less. Because it excites our [[Curiosity]], it almost becomes addictive."
+      },
+      "date": 1553292421456
+    },
+    {
+      "type": "edit",
+      "id": "99288dacf5d03f55",
+      "item": {
+        "type": "paragraph",
+        "id": "99288dacf5d03f55",
+        "text": "But, having this mindset can creates tension when butting up against others who have a traditional [[Cartesian Mindset]]. If the Agile Mindset is focused on creativity, the Cartesian Mindset is focused on control. One is fundamentally driven by the experience of joy, the other is largely driven by the experience of fear. "
+      },
+      "date": 1553793100985
+    },
+    {
+      "type": "edit",
+      "id": "defe45488ebf5a56",
+      "item": {
+        "type": "paragraph",
+        "id": "defe45488ebf5a56",
+        "text": "Being in [[The Flow]] of [[Agile]] is a joyful experience. It's challenging, but it vitalizes us - leaves us with more energy than less. Because it excites our [[Curiosity]], it becomes addictive."
+      },
+      "date": 1553793119385
+    },
+    {
+      "type": "remove",
+      "id": "99288dacf5d03f55",
+      "date": 1553793124027
+    },
+    {
+      "type": "edit",
+      "id": "efe1537d5061be89",
+      "item": {
+        "type": "paragraph",
+        "id": "efe1537d5061be89",
+        "text": "We become fearless. But then doubt appears, particularly living in a world that doesn't embrace this new paradigm. We then have to come face to face with fear can can cause us to question our joy. Are we really deserving of it? Is the fear the reality and we are only in a temporarily suspended state of that reality?"
+      },
+      "date": 1553793264534
+    },
+    {
+      "type": "edit",
+      "id": "1052753dd44893e3",
+      "item": {
+        "type": "paragraph",
+        "id": "1052753dd44893e3",
+        "text": "When we are confronted by fear, we are called to chose one or the other. If we claim the joy, we can walk through the fear. With [[Courage]]."
+      },
+      "date": 1553793283065
+    },
+    {
+      "type": "edit",
+      "id": "defe45488ebf5a56",
+      "item": {
+        "type": "paragraph",
+        "id": "defe45488ebf5a56",
+        "text": "Being in [[The Flow]] of [[Agile]] is a joyful experience. It's challenging, but it vitalizes us - leaves us with more energy than less. Because it excites our [[Curiosity]], it literally becomes addictive."
+      },
+      "date": 1553793339848
+    },
+    {
+      "type": "edit",
+      "id": "defe45488ebf5a56",
+      "item": {
+        "type": "paragraph",
+        "id": "defe45488ebf5a56",
+        "text": "Being in [[The Flow]] of [[Agile]] is a joyful experience. It's challenging, but it vitalizes us - leaves us with more energy than less. Because it excites our [[Curiosity]], it becomes addictive."
+      },
+      "date": 1553793344963
+    },
+    {
+      "type": "edit",
+      "id": "defe45488ebf5a56",
+      "item": {
+        "type": "paragraph",
+        "id": "defe45488ebf5a56",
+        "text": "Being in [[The Flow]] of [[Agile]] is a joyful experience. It's challenging, but it vitalizes us - leaves us with more energy than less. Because it excites our [[Curiosity]], it becomes addictive. Our heart begins to crave it."
+      },
+      "date": 1553793365726
+    },
+    {
+      "type": "edit",
+      "id": "efe1537d5061be89",
+      "item": {
+        "type": "paragraph",
+        "id": "efe1537d5061be89",
+        "text": "We become fearless. Until doubt appears. We are living in a world that doesn't fully embrace this new paradigm. We then have to come face to face with fear can can cause us to question our joy. Are we really deserving of it? Is the fear the reality and we are only in a temporarily suspended state of that reality?"
+      },
+      "date": 1553793415476
+    },
+    {
+      "type": "edit",
+      "id": "efe1537d5061be89",
+      "item": {
+        "type": "paragraph",
+        "id": "efe1537d5061be89",
+        "text": "We become fearless. Until doubt appears. We are living in a world that doesn't fully embrace this new paradigm. We have to come face to face with fear can can cause us to question our joy. Are we really deserving of it? Is the fear the reality and we are only in a temporarily suspended state of that reality?"
+      },
+      "date": 1553793449141
+    },
+    {
+      "type": "edit",
+      "id": "1052753dd44893e3",
+      "item": {
+        "type": "paragraph",
+        "id": "1052753dd44893e3",
+        "text": "When we are confronted by fear, we are forced to chose one or the other. If we claim the joy, we can walk through the fear. With [[Courage]]."
+      },
+      "date": 1553793480558
+    },
+    {
+      "type": "edit",
+      "id": "efe1537d5061be89",
+      "item": {
+        "type": "paragraph",
+        "id": "efe1537d5061be89",
+        "text": "We become fearless. Until doubt appears. "
+      },
+      "date": 1553793554093
+    },
+    {
+      "type": "add",
+      "id": "122cffdbbbeec513",
+      "item": {
+        "type": "paragraph",
+        "id": "122cffdbbbeec513",
+        "text": "We are living in a world that doesn't fully embrace this new paradigm. We have to come face to face with fear can can cause us to question our joy. Are we really deserving of it? Is the fear the reality and we are only in a temporarily suspended state of that reality?"
+      },
+      "after": "efe1537d5061be89",
+      "date": 1553793555038
+    },
+    {
+      "type": "edit",
+      "id": "122cffdbbbeec513",
+      "item": {
+        "type": "paragraph",
+        "id": "122cffdbbbeec513",
+        "text": "We are living in a world that doesn't fully embrace this new paradigm. Periodically, we have to come face to face with fear that can cause us to question our joy. Are we really deserving of it? Is the fear the reality and we are only in a temporarily suspended state of that reality?"
+      },
+      "date": 1553793588201
+    },
+    {
+      "type": "edit",
+      "id": "defe45488ebf5a56",
+      "item": {
+        "type": "paragraph",
+        "id": "defe45488ebf5a56",
+        "text": "Being in [[The Flow]] is a joyful experience. It's challenging, but it vitalizes us - leaves us with more energy than less. Because it excites our [[Curiosity]], it becomes addictive. Our heart begins to crave it."
+      },
+      "date": 1553793864010
+    },
+    {
+      "type": "edit",
+      "id": "defe45488ebf5a56",
+      "item": {
+        "type": "paragraph",
+        "id": "defe45488ebf5a56",
+        "text": "Being in [[The Flow]] is a joyful experience. It's challenging, but it vitalizes us - leaves us with more energy than less. "
+      },
+      "date": 1553793875531
+    },
+    {
+      "type": "add",
+      "id": "dee96185b51ef351",
+      "item": {
+        "type": "paragraph",
+        "id": "dee96185b51ef351",
+        "text": "Because it excites our [[Curiosity]], it becomes addictive. Our heart begins to crave it."
+      },
+      "after": "defe45488ebf5a56",
+      "date": 1553793876690
+    },
+    {
+      "type": "edit",
+      "id": "122cffdbbbeec513",
+      "item": {
+        "type": "paragraph",
+        "id": "122cffdbbbeec513",
+        "text": "We are living in a world that doesn't fully embrace this new paradigm. Periodically, we have to come face to face with our fear that causes us to question our joy. Are we really deserving of it? Is the fear the reality and we are only in a temporarily suspended state of that reality?"
+      },
+      "date": 1553793913488
+    },
+    {
+      "type": "edit",
+      "id": "122cffdbbbeec513",
+      "item": {
+        "type": "paragraph",
+        "id": "122cffdbbbeec513",
+        "text": "We are living in a world that doesn't fully embrace this new paradigm. Periodically, we have to come face to face with our fear that causes us to question our joy. Are we really deserving of it? Is the fear the reality and we are only in a temporarily suspended state?"
+      },
+      "date": 1553793958762
+    },
+    {
+      "type": "edit",
+      "id": "1052753dd44893e3",
+      "item": {
+        "type": "paragraph",
+        "id": "1052753dd44893e3",
+        "text": "When we are confronted by our fear, we are forced to chose one or the other. If we claim the joy, we can walk through the fear. With [[Courage]]."
+      },
+      "date": 1553793984572
+    },
+    {
+      "type": "edit",
+      "id": "122cffdbbbeec513",
+      "item": {
+        "type": "paragraph",
+        "id": "122cffdbbbeec513",
+        "text": "We are living in a world that doesn't embrace this new paradigm. Periodically, we have to come face to face with our fear that causes us to question our joy. Are we really deserving of it? Is the fear the reality and we are only in a temporarily suspended state?"
+      },
+      "date": 1553794032698
+    },
+    {
+      "type": "edit",
+      "id": "defe45488ebf5a56",
+      "item": {
+        "type": "paragraph",
+        "id": "defe45488ebf5a56",
+        "text": "Being in [[The Flow]] is a joyful experience. It's challenging, but it vitalizes us - leaves us with more energy, not less. "
+      },
+      "date": 1557942104158
+    },
+    {
+      "type": "edit",
+      "id": "dee96185b51ef351",
+      "item": {
+        "type": "paragraph",
+        "id": "dee96185b51ef351",
+        "text": "Because it excites our [[Curiosity]], it becomes almost addictive. Our heart begins to crave it."
+      },
+      "date": 1557942117904
+    },
+    {
+      "type": "edit",
+      "id": "defe45488ebf5a56",
+      "item": {
+        "type": "paragraph",
+        "id": "defe45488ebf5a56",
+        "text": "Being in the [[Flow]] is a joyful experience. It's challenging, but it vitalizes us - leaves us with more energy, not less. "
+      },
+      "date": 1562079446746
+    },
+    {
+      "type": "edit",
+      "id": "122cffdbbbeec513",
+      "item": {
+        "type": "paragraph",
+        "id": "122cffdbbbeec513",
+        "text": "We are living in a world that doesn't fully embrace this new paradigm. Periodically, we have to come face to face with our fear that causes us to question our joy. Are we really deserving of it? Is the fear the reality and we are only in a temporarily suspended state?"
+      },
+      "date": 1562177526733
+    },
+    {
+      "type": "edit",
+      "id": "1052753dd44893e3",
+      "item": {
+        "type": "paragraph",
+        "id": "1052753dd44893e3",
+        "text": "When we are confronted by our fear, we are forced to choose one or the other. If we claim the joy, we can walk through the fear. With [[Courage]]."
+      },
+      "date": 1563296097343
+    },
+    {
+      "type": "fork",
+      "site": "dev2.wiki.innovateoregon.org",
+      "date": 1563356971849
+    }
+  ]
+}

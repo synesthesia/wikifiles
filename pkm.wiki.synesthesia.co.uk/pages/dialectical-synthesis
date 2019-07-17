@@ -1,0 +1,1926 @@
+{
+  "title": "Dialectical Synthesis",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "33769b0d29006ab0",
+      "text": "The concept of Dialectical Synthesis is derived from the Hegelian dialectic."
+    },
+    {
+      "type": "paragraph",
+      "id": "a8ed0cf48af41c1a",
+      "text": "This process involves taking diverse and seemingly conflicting concepts that become fused together into a new understanding that incorporates the original concepts. "
+    },
+    {
+      "type": "paragraph",
+      "id": "3faf6447ecdd7c24",
+      "text": "The process can often feel mysterious and almost magical. Where does that insight come from that provides that new embracing understanding? "
+    },
+    {
+      "type": "paragraph",
+      "id": "3bf8abc308d7a95b",
+      "text": "This concept is critical to understand the [[Agile Mindset]]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "f0c78bac26a77ce0",
+      "text": "One could argue, we have Alan Kay and the experience of programming in his [[Smalltalk]] language partially to thank. For it was this experience that important seeds were planted for what was to become Agile. "
+    },
+    {
+      "type": "paragraph",
+      "id": "1760b80ae5b6a902",
+      "text": "One of the powerful characteristics of Smalltalk was the ability for developers to code in rapid, iterative hacks. Small changes could be made to the program and, almost instantly, those changes could be tested in the program. "
+    },
+    {
+      "type": "paragraph",
+      "id": "a73442dd8f1fb2b0",
+      "text": "This experience was a radical departure from the typical experience where programmers had to wait for an entire program to be recompiled before the changes could be seen. This process could take several minutes, if not longer."
+    },
+    {
+      "type": "paragraph",
+      "id": "ac092ead02af04ac",
+      "text": "This ability, using what was called a \"Just-in-Time compiler\",  allowed programmers to creatively code through quick trial and error experiments where each failure created a dialectical tension: \"We thought this, but it is that. Could it be this, now that we now that?\" "
+    },
+    {
+      "type": "paragraph",
+      "id": "82b1defcbc323994",
+      "text": "By iterating over and over again, a deeper understanding of the problem was quickly developed. This understanding would then lead to moments where solutions were realized in [[Eureka Moments]] when the problem was finally truly known and a solution found. "
+    },
+    {
+      "type": "graphviz",
+      "id": "6d54263bce1b4b2b",
+      "text": "DOT FROM preview-next-diagram"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Dialectical Synthesis",
+        "story": []
+      },
+      "date": 1538764612283
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "33769b0d29006ab0"
+      },
+      "id": "33769b0d29006ab0",
+      "type": "add",
+      "date": 1538764614139
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "Hegel was the first to name it. It was called the [[Hegelian Dialectic]]."
+      },
+      "date": 1538764648371
+    },
+    {
+      "type": "add",
+      "id": "a8ed0cf48af41c1a",
+      "item": {
+        "type": "paragraph",
+        "id": "a8ed0cf48af41c1a",
+        "text": "This process of "
+      },
+      "after": "33769b0d29006ab0",
+      "date": 1538764670545
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "Hegel was the first to name it. It was called the Hegelian Dialectic."
+      },
+      "date": 1538764681302
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "Hegel was the first to name it. It was called the [https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic Hegelian Dialectic]."
+      },
+      "date": 1538764735896
+    },
+    {
+      "type": "edit",
+      "id": "a8ed0cf48af41c1a",
+      "item": {
+        "type": "paragraph",
+        "id": "a8ed0cf48af41c1a",
+        "text": "This process involves taking two, seemingly contradictory ideas, and melding together new understanding the incorporates the two ideas. "
+      },
+      "date": 1538764841035
+    },
+    {
+      "type": "edit",
+      "id": "a8ed0cf48af41c1a",
+      "item": {
+        "type": "paragraph",
+        "id": "a8ed0cf48af41c1a",
+        "text": "This process involves taking two, seemingly contradictory ideas, and melding together new, higher understanding the incorporates the two ideas. "
+      },
+      "date": 1538764862109
+    },
+    {
+      "type": "edit",
+      "id": "a8ed0cf48af41c1a",
+      "item": {
+        "type": "paragraph",
+        "id": "a8ed0cf48af41c1a",
+        "text": "This process involves taking two, seemingly contradictory ideas, and melding together a new, higher understanding the incorporates the two ideas. "
+      },
+      "date": 1538764877167
+    },
+    {
+      "type": "add",
+      "id": "3faf6447ecdd7c24",
+      "item": {
+        "type": "paragraph",
+        "id": "3faf6447ecdd7c24",
+        "text": "The process feel, frankly, almost magical. Where does that insight comes from to generate that higher understanding. Such a different process of creating meaning than the sequential logic of the [[Cartesian Mindset]]."
+      },
+      "after": "a8ed0cf48af41c1a",
+      "date": 1538764981907
+    },
+    {
+      "type": "add",
+      "id": "3bf8abc308d7a95b",
+      "item": {
+        "type": "paragraph",
+        "id": "3bf8abc308d7a95b",
+        "text": "This concept is critical to understand the [[Agile Mindset]]. And we have [[Alan Kay]] to largely thank. "
+      },
+      "after": "3faf6447ecdd7c24",
+      "date": 1538765063667
+    },
+    {
+      "type": "add",
+      "id": "6a106785bf563e12",
+      "item": {
+        "type": "paragraph",
+        "id": "6a106785bf563e12",
+        "text": "It was Alan Kay, who, building on the work of Papert and others, who challenged the concept that the computer was simply a tool for sequential analytical calculations. What if the computer could be a tool to unleash our creativity "
+      },
+      "after": "3bf8abc308d7a95b",
+      "date": 1538765192455
+    },
+    {
+      "type": "edit",
+      "id": "3faf6447ecdd7c24",
+      "item": {
+        "type": "paragraph",
+        "id": "3faf6447ecdd7c24",
+        "text": "The process feel, frankly, almost magical. Where does that insight comes from to generate that higher understanding? Such a different process of creating meaning than the sequential logic of the [[Cartesian Mindset]]."
+      },
+      "date": 1538765215941
+    },
+    {
+      "type": "edit",
+      "id": "3bf8abc308d7a95b",
+      "item": {
+        "type": "paragraph",
+        "id": "3bf8abc308d7a95b",
+        "text": "This concept is critical to understand the [[Agile Mindset]]. And we have [Alan Kay]] to largely thank. "
+      },
+      "date": 1538765240732
+    },
+    {
+      "type": "edit",
+      "id": "3bf8abc308d7a95b",
+      "item": {
+        "type": "paragraph",
+        "id": "3bf8abc308d7a95b",
+        "text": "This concept is critical to understand the [[Agile Mindset]]. And we have [https://en.wikipedia.org/wiki/Alan_Kay Alan Kay] to largely thank. "
+      },
+      "date": 1538765267270
+    },
+    {
+      "type": "edit",
+      "id": "6a106785bf563e12",
+      "item": {
+        "type": "paragraph",
+        "id": "6a106785bf563e12",
+        "text": "It was Alan Kay, who, building on the work of Papert and others, who challenged the concept that the computer was simply a tool for sequential analytical calculations. What if the computer could be a tool to unleash our creativity? Creativity is, at it heart, a process of dialectical synthesis."
+      },
+      "date": 1538765314526
+    },
+    {
+      "type": "edit",
+      "id": "6a106785bf563e12",
+      "item": {
+        "type": "paragraph",
+        "id": "6a106785bf563e12",
+        "text": "It was Alan Kay, who, building on the work of Papert and others, who challenged the concept that the computer was simply a tool for sequential analytical calculations. What if the computer could be a tool to unleash our creativity? Creativity is, at its heart, a process of dialectical synthesis."
+      },
+      "date": 1538765326720
+    },
+    {
+      "type": "edit",
+      "id": "6a106785bf563e12",
+      "item": {
+        "type": "paragraph",
+        "id": "6a106785bf563e12",
+        "text": "It was Alan Kay, who, building on the work of Papert and others, who challenged the concept that the computer was simply a tool for sequential analytical calculations. What if the computer could be a tool to unleash our creativity? Creativity is, at its heart, a process of dialectical synthesis. "
+      },
+      "date": 1538765343741
+    },
+    {
+      "type": "add",
+      "id": "36d117591d2e7e48",
+      "item": {
+        "type": "paragraph",
+        "id": "36d117591d2e7e48",
+        "text": "And, from his vision, the modern personal computer, was born - a tools has the potential to unleashes amazing creativity. "
+      },
+      "after": "6a106785bf563e12",
+      "date": 1538765414342
+    },
+    {
+      "type": "edit",
+      "id": "36d117591d2e7e48",
+      "item": {
+        "type": "paragraph",
+        "id": "36d117591d2e7e48",
+        "text": "And, from his vision, the modern personal computer, was born - a tools has the potential to unleashes amazing creativity - the creativity that undep"
+      },
+      "date": 1538765424126
+    },
+    {
+      "type": "edit",
+      "id": "36d117591d2e7e48",
+      "item": {
+        "type": "paragraph",
+        "id": "36d117591d2e7e48",
+        "text": "And, from his vision, the modern personal computer, was born - a tools has the potential to unleashes amazing creativity - the creativity that fuels the innovation economy."
+      },
+      "date": 1538765441096
+    },
+    {
+      "type": "edit",
+      "id": "36d117591d2e7e48",
+      "item": {
+        "type": "paragraph",
+        "id": "36d117591d2e7e48",
+        "text": "And, from his vision, the modern personal computer, was born - a tool that has unleashed amazing creativity - the creativity that fuels the innovation economy."
+      },
+      "date": 1538765488247
+    },
+    {
+      "type": "add",
+      "id": "555709101ada02c4",
+      "item": {
+        "type": "paragraph",
+        "id": "555709101ada02c4",
+        "text": "[[The Whole Mind]]"
+      },
+      "after": "36d117591d2e7e48",
+      "date": 1538765531560
+    },
+    {
+      "type": "edit",
+      "id": "36d117591d2e7e48",
+      "item": {
+        "type": "paragraph",
+        "id": "36d117591d2e7e48",
+        "text": "And, from his vision, the modern personal computer, was born - a tool that has unleashed amazing creativity - the creativity that utilizes the [[Whole Mind]] and fuels the innovation economy."
+      },
+      "date": 1538765583453
+    },
+    {
+      "type": "remove",
+      "id": "555709101ada02c4",
+      "date": 1538765587032
+    },
+    {
+      "type": "edit",
+      "id": "3faf6447ecdd7c24",
+      "item": {
+        "type": "paragraph",
+        "id": "3faf6447ecdd7c24",
+        "text": "The process can feel, quite frankly, almost magical. Where does that insight comes from to generate that higher understanding? Such a different process of creating meaning than the sequential logic of the [[Cartesian Mindset]]."
+      },
+      "date": 1538765625604
+    },
+    {
+      "type": "edit",
+      "id": "3faf6447ecdd7c24",
+      "item": {
+        "type": "paragraph",
+        "id": "3faf6447ecdd7c24",
+        "text": "The process can feel, quite frankly, almost magical. Where does that insight comes from to generate that higher understanding? Such a different process of creating meaning than the controlled steps of sequential logic utilized in the [[Cartesian Mindset]]."
+      },
+      "date": 1538765887513
+    },
+    {
+      "type": "edit",
+      "id": "3bf8abc308d7a95b",
+      "item": {
+        "type": "paragraph",
+        "id": "3bf8abc308d7a95b",
+        "text": "This concept is critical to understand the [[Agile Mindset]]. And, one could argue, we have [https://en.wikipedia.org/wiki/Alan_Kay Alan Kay] to largely thank. "
+      },
+      "date": 1538765908932
+    },
+    {
+      "type": "edit",
+      "id": "3bf8abc308d7a95b",
+      "item": {
+        "type": "paragraph",
+        "id": "3bf8abc308d7a95b",
+        "text": "This concept is critical to understand the [[Agile Mindset]]. And, one could argue, we have [https://en.wikipedia.org/wiki/Alan_Kay Alan Kay] and his creation of [[Smalltalk]] to largely thank. "
+      },
+      "date": 1538765926302
+    },
+    {
+      "type": "edit",
+      "id": "36d117591d2e7e48",
+      "item": {
+        "type": "paragraph",
+        "id": "36d117591d2e7e48",
+        "text": "And, from his vision, the modern personal computer, was born - a tool that has unleashed amazing creativity - the creativity that utilizes the [[Whole Mind]] that fuels the innovation economy."
+      },
+      "date": 1538766100098
+    },
+    {
+      "type": "edit",
+      "id": "36d117591d2e7e48",
+      "item": {
+        "type": "paragraph",
+        "id": "36d117591d2e7e48",
+        "text": "And, from his vision, the modern personal computer, was born - a tool that has unleashed amazing creativity - the creativity that utilizes the [[Whole Mind]] and fuels the innovation economy."
+      },
+      "date": 1538766107474
+    },
+    {
+      "type": "edit",
+      "id": "36d117591d2e7e48",
+      "item": {
+        "type": "paragraph",
+        "id": "36d117591d2e7e48",
+        "text": "And, from his vision, the modern personal computer, was born - a tool that has unleashed amazing creativity - the creativity that utilizes the [[Whole Mind]] and drives  the innovation economy."
+      },
+      "date": 1538766113349
+    },
+    {
+      "type": "edit",
+      "id": "6a106785bf563e12",
+      "item": {
+        "type": "paragraph",
+        "id": "6a106785bf563e12",
+        "text": "It was Alan Kay, who, building on the work of Papert and others, who challenged the concept that the computer was simply a tool for sequential analytical calculations. What if the computer could be a tool to unleash our creativity? Creativity that is, at its heart, a process of dialectical synthesis. "
+      },
+      "date": 1538772700233
+    },
+    {
+      "type": "edit",
+      "id": "36d117591d2e7e48",
+      "item": {
+        "type": "paragraph",
+        "id": "36d117591d2e7e48",
+        "text": "And, from his vision, the personal computer, was born - a tool that has unleashed amazing creativity - the creativity that utilizes the [[Whole Mind]] and drives  the innovation economy."
+      },
+      "date": 1538772734976
+    },
+    {
+      "type": "edit",
+      "id": "36d117591d2e7e48",
+      "item": {
+        "type": "paragraph",
+        "id": "36d117591d2e7e48",
+        "text": "And, from his vision,  personal computer experience, was born - a tool that has unleashed amazing creativity - the creativity that utilizes the [[Whole Mind]] and drives  the innovation economy."
+      },
+      "date": 1538772764674
+    },
+    {
+      "type": "edit",
+      "id": "36d117591d2e7e48",
+      "item": {
+        "type": "paragraph",
+        "id": "36d117591d2e7e48",
+        "text": "And, from his vision,  personal computer experience was born - a tool that has unleashed amazing creativity - the creativity that utilizes the [[Whole Mind]] and drives  the innovation economy."
+      },
+      "date": 1538772770445
+    },
+    {
+      "type": "edit",
+      "id": "a8ed0cf48af41c1a",
+      "item": {
+        "type": "paragraph",
+        "id": "a8ed0cf48af41c1a",
+        "text": "This process involves taking seemingly contradictory ideas and melding together a new, higher understanding the incorporates them. "
+      },
+      "date": 1538773429726
+    },
+    {
+      "type": "edit",
+      "id": "a8ed0cf48af41c1a",
+      "item": {
+        "type": "paragraph",
+        "id": "a8ed0cf48af41c1a",
+        "text": "This process involves taking seemingly contradictory ideas and melding together a new, higher understanding that incorporates them. "
+      },
+      "date": 1538773438474
+    },
+    {
+      "type": "edit",
+      "id": "6a106785bf563e12",
+      "item": {
+        "type": "paragraph",
+        "id": "6a106785bf563e12",
+        "text": "It was Alan Kay, who, building on the work of Papert and others, who challenged the concept that the computer was simply a tool for sequential analytical calculations. What if the computer could be a tool to unleash our [[Creative Genius]]? Creativity that is, at its heart, a process of dialectical synthesis. "
+      },
+      "date": 1538787006807
+    },
+    {
+      "type": "edit",
+      "id": "36d117591d2e7e48",
+      "item": {
+        "type": "paragraph",
+        "id": "36d117591d2e7e48",
+        "text": "And, from his vision,  personal computer experience was born - a tool that has unleashed amazing creativity - the creativity that utilizes the [[Whole Mind]] and drives  the creative economy."
+      },
+      "date": 1539315220620
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "Hegel was the first to explain it. It was called the [https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic Hegelian Dialectic]."
+      },
+      "date": 1539657231952
+    },
+    {
+      "type": "add",
+      "id": "1204c932d4c2cad5",
+      "item": {
+        "type": "paragraph",
+        "id": "1204c932d4c2cad5",
+        "text": "[[Birthing Eureka Moments]]"
+      },
+      "after": "36d117591d2e7e48",
+      "date": 1539657541076
+    },
+    {
+      "type": "remove",
+      "id": "1204c932d4c2cad5",
+      "date": 1539823404006
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "1204c932d4c2cad5",
+        "text": "[[Birthing Eureka Moments]]"
+      },
+      "after": "36d117591d2e7e48",
+      "id": "1204c932d4c2cad5",
+      "date": 1539823410603
+    },
+    {
+      "type": "remove",
+      "id": "36d117591d2e7e48",
+      "date": 1539823414100
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "36d117591d2e7e48",
+        "text": "And, from his vision,  personal computer experience was born - a tool that has unleashed amazing creativity - the creativity that utilizes the [[Whole Mind]] and drives  the creative economy."
+      },
+      "after": "6a106785bf563e12",
+      "id": "36d117591d2e7e48",
+      "date": 1539823415636
+    },
+    {
+      "type": "add",
+      "id": "481ef69e20d5d2eb",
+      "item": {
+        "type": "paragraph",
+        "id": "481ef69e20d5d2eb",
+        "text": "[[Thoughts on Smalltalk & Agile]]"
+      },
+      "after": "3bf8abc308d7a95b",
+      "date": 1539832866109
+    },
+    {
+      "type": "move",
+      "order": [
+        "33769b0d29006ab0",
+        "a8ed0cf48af41c1a",
+        "3faf6447ecdd7c24",
+        "3bf8abc308d7a95b",
+        "6a106785bf563e12",
+        "36d117591d2e7e48",
+        "1204c932d4c2cad5",
+        "481ef69e20d5d2eb"
+      ],
+      "id": "481ef69e20d5d2eb",
+      "date": 1539833062649
+    },
+    {
+      "type": "move",
+      "order": [
+        "33769b0d29006ab0",
+        "a8ed0cf48af41c1a",
+        "3faf6447ecdd7c24",
+        "3bf8abc308d7a95b",
+        "6a106785bf563e12",
+        "36d117591d2e7e48",
+        "481ef69e20d5d2eb",
+        "1204c932d4c2cad5"
+      ],
+      "id": "481ef69e20d5d2eb",
+      "date": 1539833084094
+    },
+    {
+      "type": "edit",
+      "id": "3faf6447ecdd7c24",
+      "item": {
+        "type": "paragraph",
+        "id": "3faf6447ecdd7c24",
+        "text": "The process can feel, quite frankly, mysterious and almost magical. Where does that insight comes from to generate that higher understanding? Such a different process of creating meaning than the controlled steps of sequential logic utilized in the [[Cartesian Mindset]]."
+      },
+      "date": 1540672062841
+    },
+    {
+      "type": "add",
+      "id": "1760b80ae5b6a902",
+      "item": {
+        "type": "paragraph",
+        "id": "1760b80ae5b6a902",
+        "text": "One of the magic pieces of Smalltalk was the ability to code in the [[Speed of Now]]. Small changes could be made to the program and, almost instantly, those changes could be seen in the program. This experience was a radical departure to the normal experience where programmers had to wait for an entire program to be recompiled before the changes could be seen. This process could talk several minutes."
+      },
+      "after": "3bf8abc308d7a95b",
+      "date": 1540672346636
+    },
+    {
+      "type": "edit",
+      "id": "1760b80ae5b6a902",
+      "item": {
+        "type": "paragraph",
+        "id": "1760b80ae5b6a902",
+        "text": "One of the magic pieces of Smalltalk was the ability to code in [[The Speed of Now]]. Small changes could be made to the program and, almost instantly, those changes could be seen in the program. This experience was a radical departure to the normal experience where programmers had to wait for an entire program to be recompiled before the changes could be seen. This process could talk several minutes."
+      },
+      "date": 1540672368224
+    },
+    {
+      "type": "edit",
+      "id": "1760b80ae5b6a902",
+      "item": {
+        "type": "paragraph",
+        "id": "1760b80ae5b6a902",
+        "text": "One of the magic pieces of Smalltalk was the ability to code in the [[Speed of Now]]. Small changes could be made to the program and, almost instantly, those changes could be seen in the program. This experience was a radical departure to the normal experience where programmers had to wait for an entire program to be recompiled before the changes could be seen. This process could talk several minutes."
+      },
+      "date": 1540672451657
+    },
+    {
+      "type": "edit",
+      "id": "6a106785bf563e12",
+      "item": {
+        "type": "paragraph",
+        "id": "6a106785bf563e12",
+        "text": "It was Alan Kay, who, building on the work of Papert and others, who realized that by hacking at the code in fasWhat if the computer could be a tool to unleash our [[Creative Genius]]? Creativity that is, at its heart, a process of dialectical synthesis. "
+      },
+      "date": 1540672576137
+    },
+    {
+      "type": "add",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability allowed developers to creatively code through quick trial and error, called hacking. Each attempt was a [[Learning Cycle]]. Each cycle that didn't work created dialectical conflict. It didn't work, why not? By iterating over and over again, more evidence would be collected that would then lead to moments where solutions were realized, small [[Eureka Moments]]. "
+      },
+      "after": "1760b80ae5b6a902",
+      "date": 1540672852906
+    },
+    {
+      "type": "edit",
+      "id": "6a106785bf563e12",
+      "item": {
+        "type": "paragraph",
+        "id": "6a106785bf563e12",
+        "text": "By building on these moments, Alan was able to help unleash [[Creative Genius]] - and a recognition of the potential of the computer as a creative tool. "
+      },
+      "date": 1540672975334
+    },
+    {
+      "type": "edit",
+      "id": "6a106785bf563e12",
+      "item": {
+        "type": "paragraph",
+        "id": "6a106785bf563e12",
+        "text": "By building on these moments, Alan was able to help unleash [[Creative Genius]] - and the potential of the computer as a creative tool. "
+      },
+      "date": 1540672986999
+    },
+    {
+      "type": "edit",
+      "id": "36d117591d2e7e48",
+      "item": {
+        "type": "paragraph",
+        "id": "36d117591d2e7e48",
+        "text": "This creativity that utilizes the [[Whole Mind]] and drives  the creative economy."
+      },
+      "date": 1540673013412
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "Hegel was the first to explain this dynamic. As a result, it was called the [https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic Hegelian Dialectic]."
+      },
+      "date": 1542078774443
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "Hegel was the first to explain this dynamic. As a result, it was known as the [https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic Hegelian Dialectic]."
+      },
+      "date": 1542078791774
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a Just In Time Compiler,  allowed developers to creatively code through quick trial and error, called hacking. Each attempt was a [[Learning Cycle]]. Each cycle that didn't work created dialectical conflict. It didn't work, why not? By iterating over and over again, more evidence would be collected that would then lead to moments where solutions were realized, small [[Eureka Moments]]. "
+      },
+      "date": 1542078868914
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a Just In Time Compiler,  allowed programmers to creatively code through quick trial and error, called hacking. Each attempt was a [[Learning Cycle]]. Each cycle that didn't work created dialectical conflict. It didn't work, why not? By iterating over and over again, more evidence would be collected that would then lead to moments where solutions were realized, small [[Eureka Moments]]. "
+      },
+      "date": 1542078881578
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a Just In Time Compiler,  allowed programmers to creatively code through quick trial and error, called hacking. Each attempt became a [[Learning Cycle]]. Each cycle that didn't work created dialectical conflict. It didn't work, why not? By iterating over and over again, more evidence would be collected that would then lead to moments where solutions were realized, small [[Eureka Moments]]. "
+      },
+      "date": 1542078908035
+    },
+    {
+      "type": "edit",
+      "id": "6a106785bf563e12",
+      "item": {
+        "type": "paragraph",
+        "id": "6a106785bf563e12",
+        "text": "By building on these moments, Kay was able to help unleash [[Creative Genius]] - and the potential of the computer as a creative tool. "
+      },
+      "date": 1542078937464
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "Hegel was the first to explain this dynamic. It has become known as the [https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic Hegelian Dialectic]."
+      },
+      "date": 1545531189539
+    },
+    {
+      "type": "edit",
+      "id": "1760b80ae5b6a902",
+      "item": {
+        "type": "paragraph",
+        "id": "1760b80ae5b6a902",
+        "text": "One of the magic pieces of Smalltalk was the ability to code in the [[Speed of Now]]. Small changes could be made to the program and, almost instantly, those changes could be seen in the program, using a Just in Time compiler. This experience was a radical departure to the normal experience where programmers had to wait for an entire program to be recompiled before the changes could be seen. This process could talk several minutes."
+      },
+      "date": 1545944729782
+    },
+    {
+      "type": "edit",
+      "id": "1760b80ae5b6a902",
+      "item": {
+        "type": "paragraph",
+        "id": "1760b80ae5b6a902",
+        "text": "One of the magic pieces of Smalltalk was the ability to code in the [[Speed of Now]]. Small changes could be made to the program and, almost instantly, those changes could be seen in the program. This experience was a radical departure to the normal experience where programmers had to wait for an entire program to be recompiled before the changes could be seen. This process could talk several minutes."
+      },
+      "date": 1545944777802
+    },
+    {
+      "type": "fork",
+      "site": "thompson.wiki.innovateoregon.org",
+      "date": 1552415268980
+    },
+    {
+      "type": "remove",
+      "id": "1204c932d4c2cad5",
+      "date": 1552415311422
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "Hegel was the first to explain this synthesis. It has become known as the [https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic Hegelian Dialectic]."
+      },
+      "date": 1552415405667
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "Hegel was the first to describe this synthesis. It has become known as the [https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic Hegelian Dialectic]."
+      },
+      "date": 1552415412418
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a Just In Time Compiler,  allowed programmers to creatively code through quick trial and error, called hacking. Each attempt became a [[Learning Cycles]]. Each cycle that didn't work created dialectical conflict. It didn't work, why not? By iterating over and over again, more evidence would be collected that would then lead to moments where solutions were realized, small [[Eureka Moments]]. "
+      },
+      "date": 1552416708134
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a Just In Time Compiler,  allowed programmers to creatively code through quick trial and error, called hacking. These attempts become [[Learning Cycles]]. Each cycle that didn't work created dialectical conflict. It didn't work, why not? By iterating over and over again, more evidence would be collected that would then lead to moments where solutions were realized, small [[Eureka Moments]]. "
+      },
+      "date": 1552416727207
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6d54263bce1b4b2b"
+      },
+      "id": "6d54263bce1b4b2b",
+      "type": "add",
+      "after": "481ef69e20d5d2eb",
+      "date": 1552583174010
+    },
+    {
+      "type": "edit",
+      "id": "6d54263bce1b4b2b",
+      "item": {
+        "type": "graphviz",
+        "id": "6d54263bce1b4b2b",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552583179053
+    },
+    {
+      "type": "edit",
+      "id": "6d54263bce1b4b2b",
+      "item": {
+        "type": "graphviz",
+        "id": "6d54263bce1b4b2b",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552583190251
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "Hegel described this synthesis. It has become known as the [https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic Hegelian Dialectic]."
+      },
+      "date": 1552931049230
+    },
+    {
+      "type": "edit",
+      "id": "a8ed0cf48af41c1a",
+      "item": {
+        "type": "paragraph",
+        "id": "a8ed0cf48af41c1a",
+        "text": "This process involves taking seemingly contradictory ideas and fusing them together a new, higher understanding that incorporates the two. "
+      },
+      "date": 1552931185215
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "[[Georg Hegel]] described this synthesis. It has become known as the [https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic Hegelian Dialectic]."
+      },
+      "date": 1552931238442
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "[[Georg Wilhelm Fredrich Hegel]] described this synthesis. It has become known as the [https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic Hegelian Dialectic]."
+      },
+      "date": 1552931272929
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "[[Georg Wilhelm Friedrich Hegell]] described this synthesis. It has become known as the [https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic Hegelian Dialectic]."
+      },
+      "date": 1552931301334
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "[[Georg Wilhelm Friedrich Hegel]] described this synthesis. It has become known as the [https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic Hegelian Dialectic]."
+      },
+      "date": 1552931408126
+    },
+    {
+      "type": "edit",
+      "id": "3bf8abc308d7a95b",
+      "item": {
+        "type": "paragraph",
+        "id": "3bf8abc308d7a95b",
+        "text": "This concept is critical to understand the [[Agile Mindset]]. And, one could argue, we have [[Alan Kay]] and his creation of [[Smalltalk]] to largely thank. "
+      },
+      "date": 1552931687177
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "[[Georg Wilhelm Friedrich Hegel]] described this synthesis. It has become known as the [[Hegelian Dialectic]]."
+      },
+      "date": 1552932092107
+    },
+    {
+      "type": "edit",
+      "id": "1760b80ae5b6a902",
+      "item": {
+        "type": "paragraph",
+        "id": "1760b80ae5b6a902",
+        "text": "One of the magic pieces of Smalltalk was the ability of creative developers to code in the [[Speed of Now]]. Small changes could be made to the program and, almost instantly, those changes could be seen in the program. This experience was a radical departure to the normal experience where programmers had to wait for an entire program to be recompiled before the changes could be seen. This process could talk several minutes."
+      },
+      "date": 1552932325948
+    },
+    {
+      "type": "edit",
+      "id": "1760b80ae5b6a902",
+      "item": {
+        "type": "paragraph",
+        "id": "1760b80ae5b6a902",
+        "text": "One of the magic pieces of Smalltalk was the ability of creative developers to code in the [[Speed of Now]]. Small changes could be made to the program and, almost instantly, those changes could be seen in the program. This experience was a radical departure to the normal experience where programmers had to wait for an entire program to be recompiled before the changes could be seen. This process could take several minutes, if not longer."
+      },
+      "date": 1552932350507
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a Just In Time Compiler,  allowed programmers to creatively code through quick trial and error, essentially [[hacking]]. These attempts become [[Learning Cycles]]. Each cycle that didn't work created dialectical conflict. It didn't work, why not? By iterating over and over again, more evidence would be collected that would then lead to moments where solutions were realized, small [[Eureka Moments]]. "
+      },
+      "date": 1552932418880
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a Just In Time Compiler,  allowed programmers to creatively code through quick trial and error, essentially [[Hacking]]. These attempts become [[Learning Cycles]]. Each cycle that didn't work created dialectical conflict. It didn't work, why not? By iterating over and over again, more evidence would be collected that would then lead to moments where solutions were realized, small [[Eureka Moments]]. "
+      },
+      "date": 1552932431357
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a Just In Time Compiler,  allowed programmers to creatively code through quick trial and error, that is, [[Hacking]] the code. These attempts become [[Learning Cycles]]. Each cycle that didn't work created dialectical conflict. It didn't work, why not? By iterating over and over again, more evidence would be collected that would then lead to moments where solutions were realized, small [[Eureka Moments]]. "
+      },
+      "date": 1552932456503
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a Just In Time Compiler,  allowed programmers to creatively code through quick trial and error, that is, [[Hacking]] the code. These attempts created [[Learning Cycles]]. Each cycle that didn't work created dialectical conflict. It didn't work, why not? By iterating over and over again, more evidence would be collected that would then lead to moments where solutions were realized, small [[Eureka Moments]]. "
+      },
+      "date": 1552932502187
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a Just In Time Compiler,  allowed programmers to creatively code through quick trial and error, that is, [[Hacking]] the code. These attempts created [[Learning Cycles]]. Each cycle that didn't work created dialectical conflict. It didn't work, why not? By iterating over and over again, a deeper understanding of the problem was developed. This understanding would then lead to moments where solutions were realized, [[Eureka Moments]]. "
+      },
+      "date": 1552932559098
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a Just In Time Compiler,  allowed programmers to creatively code through quick trial and error, that is, [[Hacking]] the code. These attempts created [[Learning Cycles]]. Each cycle that didn't work created dialectical conflict. It didn't work, why not? By iterating over and over again, a deeper understanding of the problem was developed. This understanding would then lead to moments where solutions were realized in [[Eureka Moments]]. "
+      },
+      "date": 1552932567172
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a Just In Time Compiler,  allowed programmers to creatively code through quick trial and error, that is, [[Hacking]] the code. These attempts created [[Learning Cycles]]. Each cycle that didn't work created dialectical conflict. It didn't work, why not? By iterating over and over again, a deeper understanding of the problem was developed. This understanding would then lead to moments where solutions were realized in [[Eureka Moments]]. "
+      },
+      "date": 1552932567172
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a \"Just In Time Compiler\",  allowed programmers to creatively code through quick trial and error, that is, [[Hacking]] the code. These attempts created [[Learning Cycles]]. Each cycle that didn't work created dialectical conflict. It didn't work, why not? By iterating over and over again, a deeper understanding of the problem was developed. This understanding would then lead to moments where solutions were realized in [[Eureka Moments]]. "
+      },
+      "date": 1552932594739
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a \"Just In Time Compiler\",  allowed programmers to creatively code through quick trial and error, that is, [[Hacking]] the code. These attempts created fast [[Learning Cycles]]. Each cycle that didn't work created dialectical conflict. It didn't work, why not? By iterating over and over again, a deeper understanding of the problem was developed. This understanding would then lead to moments where solutions were realized in [[Eureka Moments]]. "
+      },
+      "date": 1552932614416
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a \"Just In Time Compiler\",  allowed programmers to creatively code through quick trial and error, that is, [[Hacking]] the code. These attempts created fast [[Learning Cycles]]. "
+      },
+      "date": 1552932648065
+    },
+    {
+      "type": "add",
+      "id": "82b1defcbc323994",
+      "item": {
+        "type": "paragraph",
+        "id": "82b1defcbc323994",
+        "text": "By iterating over and over again, a deeper understanding of the problem was developed. This understanding would then lead to moments where solutions were realized in [[Eureka Moments]]. "
+      },
+      "after": "ac092ead02af04ac",
+      "date": 1552932649351
+    },
+    {
+      "type": "edit",
+      "id": "6a106785bf563e12",
+      "item": {
+        "type": "paragraph",
+        "id": "6a106785bf563e12",
+        "text": "By building on these moments, Kay was able to help unleash the [[Creative Genius]] of the developers using [[Smalltalk]] and the potential of the computer as a creative tool. "
+      },
+      "date": 1552932696353
+    },
+    {
+      "type": "edit",
+      "id": "6a106785bf563e12",
+      "item": {
+        "type": "paragraph",
+        "id": "6a106785bf563e12",
+        "text": "By building on these moments, Kay was able to help unleash the [[Creative Genius]] of the developers using [[Smalltalk]] and the potential of the computer as a creative tool for its users. "
+      },
+      "date": 1552932705594
+    },
+    {
+      "type": "edit",
+      "id": "36d117591d2e7e48",
+      "item": {
+        "type": "paragraph",
+        "id": "36d117591d2e7e48",
+        "text": "This creativity utilizes the [[Whole Mind]] and powers  the creative economy."
+      },
+      "date": 1552932719467
+    },
+    {
+      "type": "edit",
+      "id": "a8ed0cf48af41c1a",
+      "item": {
+        "type": "paragraph",
+        "id": "a8ed0cf48af41c1a",
+        "text": "This process involves taking seemingly contradictory concepts and fusing them together a new, higher understanding that incorporates the two. "
+      },
+      "date": 1553899455289
+    },
+    {
+      "type": "edit",
+      "id": "a8ed0cf48af41c1a",
+      "item": {
+        "type": "paragraph",
+        "id": "a8ed0cf48af41c1a",
+        "text": "This process involves taking seemingly contradictory concepts that become fused together a new, higher understanding that incorporates the two original concepts. "
+      },
+      "date": 1553899482317
+    },
+    {
+      "type": "edit",
+      "id": "3faf6447ecdd7c24",
+      "item": {
+        "type": "paragraph",
+        "id": "3faf6447ecdd7c24",
+        "text": "The process can feel, quite frankly, mysterious and almost magical. Where does that insight comes from to generate that higher understanding? Such a different process of creating meaning than the controlled steps of sequential logic."
+      },
+      "date": 1553899513097
+    },
+    {
+      "type": "edit",
+      "id": "3bf8abc308d7a95b",
+      "item": {
+        "type": "paragraph",
+        "id": "3bf8abc308d7a95b",
+        "text": "This concept is critical to understand the [[Agile Mindset]]. And, one could argue, we have [[Alan Kay]] and his creation of [[Smalltalk]] to partly thank. "
+      },
+      "date": 1553899535659
+    },
+    {
+      "type": "edit",
+      "id": "1760b80ae5b6a902",
+      "item": {
+        "type": "paragraph",
+        "id": "1760b80ae5b6a902",
+        "text": "One of the magic pieces of Smalltalk was the ability of creative developers to code in rapid, iterative hacks. Small changes could be made to the program and, almost instantly, those changes could be seen in the program. This experience was a radical departure to the normal experience where programmers had to wait for an entire program to be recompiled before the changes could be seen. This process could take several minutes, if not longer."
+      },
+      "date": 1554223495572
+    },
+    {
+      "type": "edit",
+      "id": "3faf6447ecdd7c24",
+      "item": {
+        "type": "paragraph",
+        "id": "3faf6447ecdd7c24",
+        "text": "The process can feel, quite frankly, mysterious and almost magical. Where does that insight come from to generate that higher understanding? Such a different process of creating meaning than the controlled steps of sequential logic."
+      },
+      "date": 1554223693528
+    },
+    {
+      "type": "edit",
+      "id": "6a106785bf563e12",
+      "item": {
+        "type": "paragraph",
+        "id": "6a106785bf563e12",
+        "text": "By building on these moments, Kay was able to help unleash the [[Creative Genius]] of the developers to discover the potential of the computer as a creative tool. "
+      },
+      "date": 1554223809215
+    },
+    {
+      "type": "remove",
+      "id": "36d117591d2e7e48",
+      "date": 1554223815480
+    },
+    {
+      "type": "remove",
+      "id": "481ef69e20d5d2eb",
+      "date": 1554223819923
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "[[Georg Wilhelm Friedrich Hegel]] described this synthesis. It become known as the [[Hegelian Dialectic]]."
+      },
+      "date": 1554223904352,
+      "error": {
+        "type": "error",
+        "msg": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1554223998073
+    },
+    {
+      "type": "edit",
+      "id": "1760b80ae5b6a902",
+      "item": {
+        "type": "paragraph",
+        "id": "1760b80ae5b6a902",
+        "text": "One of the magic pieces of Smalltalk was the ability of creative developers to code in rapid, iterative hacks. Small changes could be made to the program and, almost instantly, those changes could be seen in the program. "
+      },
+      "date": 1554224041346
+    },
+    {
+      "type": "add",
+      "id": "a73442dd8f1fb2b0",
+      "item": {
+        "type": "paragraph",
+        "id": "a73442dd8f1fb2b0",
+        "text": "This experience was a radical departure to the normal experience where programmers had to wait for an entire program to be recompiled before the changes could be seen. This process could take several minutes, if not longer."
+      },
+      "after": "1760b80ae5b6a902",
+      "date": 1554224042389
+    },
+    {
+      "type": "edit",
+      "id": "82b1defcbc323994",
+      "item": {
+        "type": "paragraph",
+        "id": "82b1defcbc323994",
+        "text": "By iterating over and over again, a deeper understanding of the problem was developed. This understanding would then lead to moments where solutions were realized in joyful [[Eureka Moments]]. "
+      },
+      "date": 1554224074741
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "[[Georg Wilhelm Friedrich Hegel]] described this synthesis. It became known as the [[Hegelian Dialectic]]."
+      },
+      "date": 1554224114363
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "described this synthesis. It became known as the [[Hegelian Dialectic]]."
+      },
+      "date": 1554224135930
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "The concept of the Dialectical Synthesis is derived from the [[Hegelian Dialectic]]."
+      },
+      "date": 1554224193459
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "The concept of Dialectical Synthesis is derived from the [[Hegelian Dialectic]]."
+      },
+      "date": 1554224199419
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a \"Just In Time Compiler\",  allowed programmers to creatively code through quick trial and error."
+      },
+      "date": 1554224445291
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a \"Just In Time Compiler\",  allowed programmers to creatively code through quick trial and error."
+      },
+      "date": 1554224445291
+    },
+    {
+      "type": "edit",
+      "id": "3bf8abc308d7a95b",
+      "item": {
+        "type": "paragraph",
+        "id": "3bf8abc308d7a95b",
+        "text": "This concept is critical to understand the [[Agile Mindset]]. And, one could argue, we have [[Alan Kay]] and his creation of [[Smalltalk]] to partly thank for that. "
+      },
+      "date": 1554225311463
+    },
+    {
+      "type": "edit",
+      "id": "3bf8abc308d7a95b",
+      "item": {
+        "type": "paragraph",
+        "id": "3bf8abc308d7a95b",
+        "text": "This concept is critical to understand the [[Agile Mindset]]. And, one could argue, we have [[Alan Kay]] and his creation of [[Smalltalk]] to partly thank for that as it was with Smalltalk that the seeds for what was to become agile were planted. "
+      },
+      "date": 1554225384043
+    },
+    {
+      "type": "edit",
+      "id": "3bf8abc308d7a95b",
+      "item": {
+        "type": "paragraph",
+        "id": "3bf8abc308d7a95b",
+        "text": "This concept is critical to understand the [[Agile Mindset]]. And, one could argue, we have [[Alan Kay]] and his creation of [[Smalltalk]] to partly thank for that as it was with Smalltalk that the seeds for what was to become [[Agile]] were planted. "
+      },
+      "date": 1554225597247
+    },
+    {
+      "type": "remove",
+      "id": "6a106785bf563e12",
+      "date": 1554225666395
+    },
+    {
+      "type": "edit",
+      "id": "82b1defcbc323994",
+      "item": {
+        "type": "paragraph",
+        "id": "82b1defcbc323994",
+        "text": "By iterating over and over again, a deeper understanding of the problem was quickly developed. This understanding would then lead to moments where solutions were realized in joyful [[Eureka Moments]]. "
+      },
+      "date": 1554225856476
+    },
+    {
+      "type": "edit",
+      "id": "82b1defcbc323994",
+      "item": {
+        "type": "paragraph",
+        "id": "82b1defcbc323994",
+        "text": "By iterating over and over again, a deeper understanding of the problem was quickly developed. This understanding would then lead to moments where solutions were realized in joyful [[Eureka Moments]]. "
+      },
+      "date": 1554225856476
+    },
+    {
+      "type": "edit",
+      "id": "a8ed0cf48af41c1a",
+      "item": {
+        "type": "paragraph",
+        "id": "a8ed0cf48af41c1a",
+        "text": "This process involves taking seemingly antithetical concepts that become fused together a new, higher understanding that incorporates the two original concepts. "
+      },
+      "date": 1554227607589
+    },
+    {
+      "type": "edit",
+      "id": "a8ed0cf48af41c1a",
+      "item": {
+        "type": "paragraph",
+        "id": "a8ed0cf48af41c1a",
+        "text": "This process involves taking antithetical concepts that become fused together a new, higher understanding that incorporates the two original concepts. "
+      },
+      "date": 1554227641974
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a \"Just In Time Compiler\",  allowed programmers to creatively code through quick trial and error where each failure created a dialectical exploration: We thought this, but it is that. Could it be this, now that we now that?\" "
+      },
+      "date": 1554227954311
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a \"Just In Time Compiler\",  allowed programmers to creatively code through quick trial and error where each failure created a dialectical exploration: \"We thought this, but it is that. Could it be this, now that we now that?\" "
+      },
+      "date": 1554228000992
+    },
+    {
+      "type": "edit",
+      "id": "82b1defcbc323994",
+      "item": {
+        "type": "paragraph",
+        "id": "82b1defcbc323994",
+        "text": "By iterating over and over again, a deeper understanding of the problem was quickly developed. This understanding would then lead to moments where solutions were realized in joyful [[Eureka Moments]] when the problem is finally known and the solution found. "
+      },
+      "date": 1554228069089
+    },
+    {
+      "type": "edit",
+      "id": "a8ed0cf48af41c1a",
+      "item": {
+        "type": "paragraph",
+        "id": "a8ed0cf48af41c1a",
+        "text": "This process involves taking antithetical concepts that become fused together a new understanding that incorporates the two original concepts. "
+      },
+      "date": 1554228093234
+    },
+    {
+      "type": "edit",
+      "id": "3bf8abc308d7a95b",
+      "item": {
+        "type": "paragraph",
+        "id": "3bf8abc308d7a95b",
+        "text": "This concept is critical to understand the [[Agile Mindset]]. And, one could argue, we have [[Alan Kay]] and the experience of programming in his [[Smalltalk]] language that planted the seeds for what was to become [[Agile]]. "
+      },
+      "date": 1554228172419
+    },
+    {
+      "type": "edit",
+      "id": "3faf6447ecdd7c24",
+      "item": {
+        "type": "paragraph",
+        "id": "3faf6447ecdd7c24",
+        "text": "The process can feel, quite frankly, mysterious and almost magical. Where does that insight come from to generate that new understanding? Such a different process of creating meaning than the controlled steps of sequential logic."
+      },
+      "date": 1554228212486
+    },
+    {
+      "type": "edit",
+      "id": "3bf8abc308d7a95b",
+      "item": {
+        "type": "paragraph",
+        "id": "3bf8abc308d7a95b",
+        "text": "This concept is critical to understand the [[Agile Mindset]]. "
+      },
+      "date": 1554228244557
+    },
+    {
+      "type": "add",
+      "id": "f0c78bac26a77ce0",
+      "item": {
+        "type": "paragraph",
+        "id": "f0c78bac26a77ce0",
+        "text": "And, one could argue, we have [[Alan Kay]] and the experience of programming in his [[Smalltalk]] language that planted the seeds for what was to become [[Agile]]. "
+      },
+      "after": "3bf8abc308d7a95b",
+      "date": 1554228245557
+    },
+    {
+      "type": "edit",
+      "id": "f0c78bac26a77ce0",
+      "item": {
+        "type": "paragraph",
+        "id": "f0c78bac26a77ce0",
+        "text": "One could argue, we have [[Alan Kay]] and the experience of programming in his [[Smalltalk]] language that planted the seeds for what was to become [[Agile]]. "
+      },
+      "date": 1554228254822
+    },
+    {
+      "type": "edit",
+      "id": "f0c78bac26a77ce0",
+      "item": {
+        "type": "paragraph",
+        "id": "f0c78bac26a77ce0",
+        "text": "One could argue, we have [[Alan Kay]] and the experience of programming in his [[Smalltalk]] language to thank. For it was with this experience that planted the seeds for what was to become [[Agile]]. "
+      },
+      "date": 1554228296571
+    },
+    {
+      "type": "edit",
+      "id": "f0c78bac26a77ce0",
+      "item": {
+        "type": "paragraph",
+        "id": "f0c78bac26a77ce0",
+        "text": "One could argue, we have [[Alan Kay]] and the experience of programming in his [[Smalltalk]] language to thank. For it was with this experience that the seeds were planted for what was to become [[Agile]]. "
+      },
+      "date": 1554228318146
+    },
+    {
+      "type": "edit",
+      "id": "f0c78bac26a77ce0",
+      "item": {
+        "type": "paragraph",
+        "id": "f0c78bac26a77ce0",
+        "text": "One could argue, we have [[Alan Kay]] and the experience of programming in his [[Smalltalk]] language to thank. For it was in this experience that the seeds were planted for what was to become [[Agile]]. "
+      },
+      "date": 1554228379004
+    },
+    {
+      "type": "edit",
+      "id": "1760b80ae5b6a902",
+      "item": {
+        "type": "paragraph",
+        "id": "1760b80ae5b6a902",
+        "text": "One of the magic pieces of Smalltalk was the ability for developers to code in rapid, iterative hacks. Small changes could be made to the program and, almost instantly, those changes could be seen in the program. "
+      },
+      "date": 1554228401134
+    },
+    {
+      "type": "edit",
+      "id": "1760b80ae5b6a902",
+      "item": {
+        "type": "paragraph",
+        "id": "1760b80ae5b6a902",
+        "text": "One of the magic pieces of Smalltalk was the ability for developers to code in rapid, iterative hacks. Small changes could be made to the program and, almost instantly, those changes could be tested in the program. "
+      },
+      "date": 1554228425375
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a \"Just In Time Compiler\",  allowed programmers to creatively code through quick trial and error experiments where each failure created a dialectical exploration: \"We thought this, but it is that. Could it be this, now that we now that?\" "
+      },
+      "date": 1554228458128
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a \"Just In Time Compiler\",  allowed programmers to creatively code through quick trial and error experiments where each failure created a dialectical tension: \"We thought this, but it is that. Could it be this, now that we now that?\" "
+      },
+      "date": 1554228471066
+    },
+    {
+      "type": "edit",
+      "id": "82b1defcbc323994",
+      "item": {
+        "type": "paragraph",
+        "id": "82b1defcbc323994",
+        "text": "By quickly iterating over and over again, a deeper understanding of the problem was developed. This understanding would then lead to moments where solutions were realized in joyful [[Eureka Moments]] when the problem is finally known and the solution found. "
+      },
+      "date": 1554228514822
+    },
+    {
+      "type": "edit",
+      "id": "82b1defcbc323994",
+      "item": {
+        "type": "paragraph",
+        "id": "82b1defcbc323994",
+        "text": "By iterating over and over again, a deeper understanding of the problem was quickly developed. This understanding would then lead to moments where solutions were realized in joyful [[Eureka Moments]] when the problem is finally known and the solution found. "
+      },
+      "date": 1554228529733
+    },
+    {
+      "type": "edit",
+      "id": "82b1defcbc323994",
+      "item": {
+        "type": "paragraph",
+        "id": "82b1defcbc323994",
+        "text": "By iterating over and over again, a deeper understanding of the problem was quickly developed. This understanding would then lead to moments where solutions were realized in joyful [[Eureka Moments]] when the problem was finally known and the solution found. "
+      },
+      "date": 1554228543576
+    },
+    {
+      "type": "edit",
+      "id": "82b1defcbc323994",
+      "item": {
+        "type": "paragraph",
+        "id": "82b1defcbc323994",
+        "text": "By iterating over and over again, a deeper understanding of the problem was quickly developed. This understanding would then lead to moments where solutions were realized in joyful [[Eureka Moments]] when the problem was finally truly known and the solution found. "
+      },
+      "date": 1554228552291
+    },
+    {
+      "type": "edit",
+      "id": "a73442dd8f1fb2b0",
+      "item": {
+        "type": "paragraph",
+        "id": "a73442dd8f1fb2b0",
+        "text": "This experience was a radical departure from the normal experience where programmers had to wait for an entire program to be recompiled before the changes could be seen. This process could take several minutes, if not longer."
+      },
+      "date": 1554228625718,
+      "error": {
+        "type": "error",
+        "msg": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1554228884922
+    },
+    {
+      "type": "edit",
+      "id": "f0c78bac26a77ce0",
+      "item": {
+        "type": "paragraph",
+        "id": "f0c78bac26a77ce0",
+        "text": "One could argue, we have [[Alan Kay]] and the experience of programming in his [[Smalltalk]] language largely to thank. For it was in this experience that the seeds were planted for what was to become [[Agile]]. "
+      },
+      "date": 1554228929776
+    },
+    {
+      "type": "edit",
+      "id": "a73442dd8f1fb2b0",
+      "item": {
+        "type": "paragraph",
+        "id": "a73442dd8f1fb2b0",
+        "text": "This experience was a radical departure from the typical experience where programmers had to wait for an entire program to be recompiled before the changes could be seen. This process could take several minutes, if not longer."
+      },
+      "date": 1554228993293
+    },
+    {
+      "type": "edit",
+      "id": "f0c78bac26a77ce0",
+      "item": {
+        "type": "paragraph",
+        "id": "f0c78bac26a77ce0",
+        "text": "One could argue, we have [[Alan Kay]] and the experience of programming in his [[Smalltalk]] language largely to thank. For it was in this experience that the seeds were planted for what was to become [[Agile Movement]]. "
+      },
+      "date": 1554229052151
+    },
+    {
+      "type": "edit",
+      "id": "82b1defcbc323994",
+      "item": {
+        "type": "paragraph",
+        "id": "82b1defcbc323994",
+        "text": "By iterating over and over again, a deeper understanding of the problem was quickly developed. This understanding would then lead to moments where solutions were realized in [[Eureka Moments]] when the problem was finally truly known and the solution found. "
+      },
+      "date": 1557174026752
+    },
+    {
+      "type": "edit",
+      "id": "82b1defcbc323994",
+      "item": {
+        "type": "paragraph",
+        "id": "82b1defcbc323994",
+        "text": "By iterating over and over again, a deeper understanding of the problem was quickly developed. This understanding would then lead to moments where solutions were realized in [[Eureka Moments]] when the problem was finally truly known and the solution found. Ward Cunningham described these moments the \"climax\" in Episodes, the first pattern language developed for software developers."
+      },
+      "date": 1557174128446
+    },
+    {
+      "type": "edit",
+      "id": "82b1defcbc323994",
+      "item": {
+        "type": "paragraph",
+        "id": "82b1defcbc323994",
+        "text": "By iterating over and over again, a deeper understanding of the problem was quickly developed. This understanding would then lead to moments where solutions were realized in [[Eureka Moments]] when the problem was finally truly known and the solution found. "
+      },
+      "date": 1557174133403
+    },
+    {
+      "type": "add",
+      "id": "9cce4b3d87820b42",
+      "item": {
+        "type": "paragraph",
+        "id": "9cce4b3d87820b42",
+        "text": "Ward Cunningham described these moments the \"climax\" in Episodes, the first pattern language developed for software developers."
+      },
+      "after": "82b1defcbc323994",
+      "date": 1557174134572
+    },
+    {
+      "type": "edit",
+      "id": "9cce4b3d87820b42",
+      "item": {
+        "type": "paragraph",
+        "id": "9cce4b3d87820b42",
+        "text": "Ward Cunningham described these moments the \"climax\" in Episodes, the first pattern language developed for software developers. "
+      },
+      "date": 1557174161980
+    },
+    {
+      "type": "edit",
+      "id": "9cce4b3d87820b42",
+      "item": {
+        "type": "paragraph",
+        "id": "9cce4b3d87820b42",
+        "text": "Ward Cunningham described these moments the \"climax\" in the [[Episodic Flow]] of the first pattern language developed for software developers. "
+      },
+      "date": 1557174221390
+    },
+    {
+      "type": "edit",
+      "id": "9cce4b3d87820b42",
+      "item": {
+        "type": "paragraph",
+        "id": "9cce4b3d87820b42",
+        "text": "Ward Cunningham described these moments the \"climax\" in the [[Episodic Flow]] of the first pattern language developed for software developers. The also represent the "
+      },
+      "date": 1557174258499
+    },
+    {
+      "type": "edit",
+      "id": "9cce4b3d87820b42",
+      "item": {
+        "type": "paragraph",
+        "id": "9cce4b3d87820b42",
+        "text": "Ward Cunningham described these moments the \"climax\" in the [[Episodic Flow]] of the first pattern language developed for software developers. The also represent the \"ultimate boon\" in Campbell's [[The Hero's Journey]]"
+      },
+      "date": 1557174295976
+    },
+    {
+      "type": "edit",
+      "id": "9cce4b3d87820b42",
+      "item": {
+        "type": "paragraph",
+        "id": "9cce4b3d87820b42",
+        "text": "Ward Cunningham described these moments the \"climax\" in the [[Episodic Flow]] of the first pattern language developed for software developers. The also represent the \"ultimate boon\" in Campbell's [[Hero's Journey]]"
+      },
+      "date": 1557174310809
+    },
+    {
+      "type": "edit",
+      "id": "9cce4b3d87820b42",
+      "item": {
+        "type": "markdown",
+        "id": "9cce4b3d87820b42",
+        "text": "_Ward Cunningham described these moments the \"climax\" in the [[Episodic Flow]] of the first pattern language developed for software developers. The also represent the \"ultimate boon\" in Campbell's [[Hero's Journey]]_"
+      },
+      "date": 1557174328331
+    },
+    {
+      "type": "edit",
+      "id": "9cce4b3d87820b42",
+      "item": {
+        "type": "markdown",
+        "id": "9cce4b3d87820b42",
+        "text": "_Ward Cunningham described these moments as the \"climax\" in the [[Episodic Flow]] described in the first pattern language developed for software developers. The also represent the \"ultimate boon\" in Campbell's [[Hero's Journey]]_"
+      },
+      "date": 1557174360142
+    },
+    {
+      "type": "edit",
+      "id": "9cce4b3d87820b42",
+      "item": {
+        "type": "markdown",
+        "id": "9cce4b3d87820b42",
+        "text": "_Ward Cunningham described these moments as the \"climax\" in the [[Episodic Flow]] described in the first pattern language developed for software developers. It also represent the \"ultimate boon\" in Campbell's [[Hero's Journey]]_"
+      },
+      "date": 1557174379545
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a \"Just In Time Compiler\",  allowed programmers to creatively hack code through quick trial and error experiments where each failure created a dialectical tension: \"We thought this, but it is that. Could it be this, now that we now that?\" "
+      },
+      "date": 1557764558060
+    },
+    {
+      "type": "remove",
+      "id": "9cce4b3d87820b42",
+      "date": 1557764579960
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "The concept of Dialectical Synthesis is derived from, what is known as the Hegelian dialectic."
+      },
+      "date": 1562689099081
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "The concept of Dialectical Synthesis is derived from, what is known as, the Hegelian dialectic."
+      },
+      "date": 1562689110145
+    },
+    {
+      "type": "edit",
+      "id": "f0c78bac26a77ce0",
+      "item": {
+        "type": "paragraph",
+        "id": "f0c78bac26a77ce0",
+        "text": "One could argue, we have [[Alan Kay]] and the experience of programming in his [[Smalltalk]] language partially to thank. For it was in this experience that the seeds were planted for what was to become [[Agile Movement]]. "
+      },
+      "date": 1562690129973
+    },
+    {
+      "type": "edit",
+      "id": "f0c78bac26a77ce0",
+      "item": {
+        "type": "paragraph",
+        "id": "f0c78bac26a77ce0",
+        "text": "One could argue, we have [[Alan Kay]] and the experience of programming in his [[Smalltalk]] language partially to thank. For it was in this experience that important seeds were planted for what was to become [[Agile Movement]]. "
+      },
+      "date": 1562690157926
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a \"Just In Time Compiler\",  allowed programmers to creatively code through quick trial and error experiments where each failure created a dialectical tension: \"We thought this, but it is that. Could it be this, now that we now that?\" "
+      },
+      "date": 1562690199849
+    },
+    {
+      "type": "edit",
+      "id": "f0c78bac26a77ce0",
+      "item": {
+        "type": "paragraph",
+        "id": "f0c78bac26a77ce0",
+        "text": "One could argue, we have [[Alan Kay]] and the experience of programming in his [[Smalltalk]] language partially to thank. For it was in this experience that important seeds were planted for what was to become Agile Movement. "
+      },
+      "date": 1562690309959
+    },
+    {
+      "type": "edit",
+      "id": "f0c78bac26a77ce0",
+      "item": {
+        "type": "paragraph",
+        "id": "f0c78bac26a77ce0",
+        "text": "One could argue, we have Alan Kay and the experience of programming in his [[Smalltalk]] language partially to thank. For it was in this experience that important seeds were planted for what was to become Agile Movement. "
+      },
+      "date": 1562690338564
+    },
+    {
+      "type": "edit",
+      "id": "1760b80ae5b6a902",
+      "item": {
+        "type": "paragraph",
+        "id": "1760b80ae5b6a902",
+        "text": "One of the magical pieces of Smalltalk was the ability for developers to code in rapid, iterative hacks. Small changes could be made to the program and, almost instantly, those changes could be tested in the program. "
+      },
+      "date": 1562780553152
+    },
+    {
+      "type": "edit",
+      "id": "a8ed0cf48af41c1a",
+      "item": {
+        "type": "paragraph",
+        "id": "a8ed0cf48af41c1a",
+        "text": "This process involves taking diverse and seemingly conflicting concepts that become fused together a new understanding that incorporates the original concepts. "
+      },
+      "date": 1562780757705
+    },
+    {
+      "type": "edit",
+      "id": "3faf6447ecdd7c24",
+      "item": {
+        "type": "paragraph",
+        "id": "3faf6447ecdd7c24",
+        "text": "The process can feel, quite frankly, mysterious and almost magical. Where does that insight come from to generate that new understanding? "
+      },
+      "date": 1562780770930
+    },
+    {
+      "type": "edit",
+      "id": "3faf6447ecdd7c24",
+      "item": {
+        "type": "paragraph",
+        "id": "3faf6447ecdd7c24",
+        "text": "The process can often feel mysterious and almost magical. Where does that insight come from to generate that new understanding? "
+      },
+      "date": 1562780926300
+    },
+    {
+      "type": "edit",
+      "id": "3faf6447ecdd7c24",
+      "item": {
+        "type": "paragraph",
+        "id": "3faf6447ecdd7c24",
+        "text": "The process can often feel mysterious and almost magical. Where does that insight come from that provides that new understanding? "
+      },
+      "date": 1562780950929
+    },
+    {
+      "type": "edit",
+      "id": "f0c78bac26a77ce0",
+      "item": {
+        "type": "paragraph",
+        "id": "f0c78bac26a77ce0",
+        "text": "One could argue, we have Alan Kay and the experience of programming in his [[Smalltalk]] language partially to thank. For it was in this experience that important seeds were planted for what was to become Agile. "
+      },
+      "date": 1562781005078
+    },
+    {
+      "type": "edit",
+      "id": "82b1defcbc323994",
+      "item": {
+        "type": "paragraph",
+        "id": "82b1defcbc323994",
+        "text": "By iterating over and over again, a deeper understanding of the problem was quickly developed. This understanding would then lead to moments where solutions were realized in [[Eureka Moments]] when the problem was finally truly known and a solution found. "
+      },
+      "date": 1562781059269
+    },
+    {
+      "type": "edit",
+      "id": "a8ed0cf48af41c1a",
+      "item": {
+        "type": "paragraph",
+        "id": "a8ed0cf48af41c1a",
+        "text": "This process involves taking diverse and seemingly conflicting concepts that become fused together into a new understanding that incorporates the original concepts. "
+      },
+      "date": 1562781076457
+    },
+    {
+      "type": "edit",
+      "id": "3faf6447ecdd7c24",
+      "item": {
+        "type": "paragraph",
+        "id": "3faf6447ecdd7c24",
+        "text": "The process can often feel mysterious and almost magical. Where does that insight come from that provides that new embracing understanding? "
+      },
+      "date": 1562781114474
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a \"Just-in-Time Compiler\",  allowed programmers to creatively code through quick trial and error experiments where each failure created a dialectical tension: \"We thought this, but it is that. Could it be this, now that we now that?\" "
+      },
+      "date": 1562781165382
+    },
+    {
+      "type": "edit",
+      "id": "1760b80ae5b6a902",
+      "item": {
+        "type": "paragraph",
+        "id": "1760b80ae5b6a902",
+        "text": "One of the powerful characteristics of Smalltalk was the ability for developers to code in rapid, iterative hacks. Small changes could be made to the program and, almost instantly, those changes could be tested in the program. "
+      },
+      "date": 1562781213372
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "The concept of Dialectical Synthesis is derived from, what is known as the Hegelian dialectic."
+      },
+      "date": 1562781400636
+    },
+    {
+      "type": "edit",
+      "id": "33769b0d29006ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "33769b0d29006ab0",
+        "text": "The concept of Dialectical Synthesis is derived from the Hegelian dialectic."
+      },
+      "date": 1562781445925
+    },
+    {
+      "type": "edit",
+      "id": "f0c78bac26a77ce0",
+      "item": {
+        "type": "paragraph",
+        "id": "f0c78bac26a77ce0",
+        "text": "One could argue, we have Alan Kay and the experience of programming in his [[Smalltalk]] language partially to thank. For it was this experience that important seeds were planted for what was to become Agile. "
+      },
+      "date": 1562781546138
+    },
+    {
+      "type": "edit",
+      "id": "ac092ead02af04ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ac092ead02af04ac",
+        "text": "This ability, using what was called a \"Just-in-Time compiler\",  allowed programmers to creatively code through quick trial and error experiments where each failure created a dialectical tension: \"We thought this, but it is that. Could it be this, now that we now that?\" "
+      },
+      "date": 1562781594439
+    },
+    {
+      "type": "fork",
+      "site": "dev2.wiki.innovateoregon.org",
+      "date": 1563356959059
+    }
+  ]
+}

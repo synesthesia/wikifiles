@@ -109,6 +109,10 @@
     <lastmod>2015-02-07</lastmod>
   </url>
   <url>
+    <loc>http://wiki.synesthesia.co.uk/david-ronfeldt.html</loc>
+    <lastmod>2019-07-15</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/delete-pages.html</loc>
     <lastmod>2015-08-02</lastmod>
   </url>
@@ -265,6 +269,10 @@
     <lastmod>2018-03-26</lastmod>
   </url>
   <url>
+    <loc>http://wiki.synesthesia.co.uk/installing-fedwiki.html</loc>
+    <lastmod>2019-07-16</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/interface-names.html</loc>
     <lastmod>2017-05-16</lastmod>
   </url>
@@ -331,6 +339,10 @@
   <url>
     <loc>http://wiki.synesthesia.co.uk/make-your-bio-page.html</loc>
     <lastmod>2015-02-05</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/models-of-society.html</loc>
+    <lastmod>2019-07-16</lastmod>
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/molecular-paragraphs.html</loc>
@@ -449,6 +461,10 @@
     <lastmod>2015-06-12</lastmod>
   </url>
   <url>
+    <loc>http://wiki.synesthesia.co.uk/social-evolution.html</loc>
+    <lastmod>2019-07-16</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/special-interest-groups.html</loc>
     <lastmod>2018-10-05</lastmod>
   </url>
@@ -459,6 +475,10 @@
   <url>
     <loc>http://wiki.synesthesia.co.uk/split.html</loc>
     <lastmod>2015-02-13</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/starting-fedwiki.html</loc>
+    <lastmod>2019-07-16</lastmod>
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/statemode.html</loc>
@@ -499,6 +519,10 @@
   <url>
     <loc>http://wiki.synesthesia.co.uk/thinking-vs-writing.html</loc>
     <lastmod>2015-01-04</lastmod>
+  </url>
+  <url>
+    <loc>http://wiki.synesthesia.co.uk/timn.html</loc>
+    <lastmod>2019-07-16</lastmod>
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/tips-for-administrators.html</loc>
@@ -569,35 +593,11 @@
     <lastmod>2015-01-04</lastmod>
   </url>
   <url>
-    <loc>http://wiki.synesthesia.co.uk/wiki-page.html</loc>
-    <lastmod>2015-08-31</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/models-of-society.html</loc>
-    <lastmod>2019-07-16</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/social-evolution.html</loc>
-    <lastmod>2019-07-16</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/david-ronfeldt.html</loc>
-    <lastmod>2019-07-15</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/timn.html</loc>
-    <lastmod>2019-07-16</lastmod>
-  </url>
-  <url>
     <loc>http://wiki.synesthesia.co.uk/wiki-launch-codes.html</loc>
     <lastmod>2019-07-16</lastmod>
   </url>
   <url>
-    <loc>http://wiki.synesthesia.co.uk/starting-fedwiki.html</loc>
-    <lastmod>2019-07-16</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/installing-fedwiki.html</loc>
-    <lastmod>2019-07-16</lastmod>
+    <loc>http://wiki.synesthesia.co.uk/wiki-page.html</loc>
+    <lastmod>2015-08-31</lastmod>
   </url>
 </urlset>

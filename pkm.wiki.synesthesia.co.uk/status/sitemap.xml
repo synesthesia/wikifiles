@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/a-fedwiki-style-sheet.html</loc>
+    <lastmod>2015-11-01</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/about-federated-wiki.html</loc>
     <lastmod>2016-07-22</lastmod>
   </url>
@@ -53,8 +57,32 @@
     <lastmod>2015-02-19</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/attributing-catalysts.html</loc>
+    <lastmod>2019-07-17</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/attributing-sources.html</loc>
+    <lastmod>2019-07-17</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/attribution-in-pkm.html</loc>
+    <lastmod>2019-07-17</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/authority-from-trail-climbing.html</loc>
     <lastmod>2014-10-24</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/barriers-to-effective-pkm.html</loc>
+    <lastmod>2019-07-16</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/beyond-personal-attribution.html</loc>
+    <lastmod>2015-02-16</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/blue-plane.html</loc>
+    <lastmod>2019-07-04</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/bookmark-key-pages.html</loc>
@@ -77,6 +105,14 @@
     <lastmod>2014-12-28</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/claim-the-joy.html</loc>
+    <lastmod>2019-07-16</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/claiming-authorship.html</loc>
+    <lastmod>2019-07-17</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/clean-up-welcome-visitors.html</loc>
     <lastmod>2015-02-09</lastmod>
   </url>
@@ -85,16 +121,40 @@
     <lastmod>2018-03-25</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/comfortable-being-uncomfortable.html</loc>
+    <lastmod>2019-07-13</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/commenting.html</loc>
     <lastmod>2015-02-12</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/commonplace-book.html</loc>
+    <lastmod>2019-04-05</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/community-documentation-of-federated-wiki.html</loc>
     <lastmod>2015-01-17</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/composing-across-pages-or-cross-page-refactoring.html</loc>
+    <lastmod>2015-02-17</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/composing-and-editing-in-federated-wiki.html</loc>
     <lastmod>2015-01-05</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/composing-lineups.html</loc>
+    <lastmod>2014-12-28</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/composing-on-fedwiki-m-c-morgan.html</loc>
+    <lastmod>2016-02-23</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/constellate-dissertation-pages.html</loc>
+    <lastmod>2015-06-09</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/create-and-claim-a-site.html</loc>
@@ -105,12 +165,48 @@
     <lastmod>2014-10-24</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/creative-confidence.html</loc>
+    <lastmod>2019-07-10</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/curator.html</loc>
+    <lastmod>2019-07-17</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/curiosity.html</loc>
+    <lastmod>2019-07-03</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/cyberyota.html</loc>
     <lastmod>2014-10-22</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/david-ronfeldt.html</loc>
+    <lastmod>2019-07-15</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/deleting-me-softly.html</loc>
     <lastmod>2014-12-22</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/dialectic-mode.html</loc>
+    <lastmod>2006-07-05</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/dialectical-synthesis.html</loc>
+    <lastmod>2019-07-10</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/discoverable-but-not-obvious.html</loc>
+    <lastmod>2015-02-12</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/dissertation-over-discourse.html</loc>
+    <lastmod>2014-12-22</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/dissertation-over-discourse-in-fedwiki.html</loc>
+    <lastmod>2015-06-09</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/diversity-in-service.html</loc>
@@ -137,6 +233,10 @@
     <lastmod>2016-02-11</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/eureka-moments.html</loc>
+    <lastmod>2019-07-09</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/execute-a-cross-page-move.html</loc>
     <lastmod>2015-02-10</lastmod>
   </url>
@@ -161,6 +261,10 @@
     <lastmod>2016-02-04</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/fedwiki-isnt-designed-for-discussion.html</loc>
+    <lastmod>2015-06-09</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/fedwiki-the-big-picture.html</loc>
     <lastmod>2014-10-14</lastmod>
   </url>
@@ -177,6 +281,10 @@
     <lastmod>2015-01-03</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/flow.html</loc>
+    <lastmod>2019-07-02</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/folk-memory.html</loc>
     <lastmod>2015-01-06</lastmod>
   </url>
@@ -191,6 +299,10 @@
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/high-awareness-in-foraging.html</loc>
     <lastmod>2015-01-22</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/hospitable-hypertext.html</loc>
+    <lastmod>2015-02-19</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/how-federated-wiki-neighborhoods-grow-and-change.html</loc>
@@ -309,12 +421,28 @@
     <lastmod>2015-02-05</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/markets-and-networks.html</loc>
+    <lastmod>2019-07-16</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/meaning-makers.html</loc>
+    <lastmod>2019-07-10</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/meaning-matrix.html</loc>
+    <lastmod>2019-07-05</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/messaging.html</loc>
     <lastmod>2014-10-22</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/mixed-content.html</loc>
     <lastmod>2017-05-26</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/models-of-society.html</loc>
+    <lastmod>2019-07-16</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/mutable-linear-form.html</loc>
@@ -333,6 +461,10 @@
     <lastmod>2018-03-26</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/paradigm-shift.html</loc>
+    <lastmod>2019-05-15</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/personal-dynamic-media.html</loc>
     <lastmod>2015-02-02</lastmod>
   </url>
@@ -347,6 +479,10 @@
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/profligate-copying.html</loc>
     <lastmod>2016-07-23</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/radical-discourse.html</loc>
+    <lastmod>2015-06-09</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/read-a-journal-history.html</loc>
@@ -373,8 +509,24 @@
     <lastmod>2014-12-18</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/rethinking-composing-in-fedwiki.html</loc>
+    <lastmod>2015-06-08</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/rethinking-documentmode.html</loc>
+    <lastmod>2015-03-13</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/rethinking-threadmode.html</loc>
+    <lastmod>2015-06-09</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/roles-in-pkm.html</loc>
     <lastmod>2019-07-17</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/schema.html</loc>
+    <lastmod>2019-07-09</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/seek.html</loc>
@@ -391,6 +543,10 @@
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/serendipitous-namespace-collisions.html</loc>
     <lastmod>2014-10-23</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/shallow-knowledge.html</loc>
+    <lastmod>2019-07-15</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/signed-versions.html</loc>
@@ -433,8 +589,16 @@
     <lastmod>2016-07-25</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/tell-people-what-you-did.html</loc>
+    <lastmod>2015-02-10</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/test-multi-word-page-name.html</loc>
     <lastmod>2018-03-28</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/the-garden-and-the-stream.html</loc>
+    <lastmod>2019-07-16</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/the-hidden-history-of-online-learning.html</loc>
@@ -447,6 +611,10 @@
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/thinking-vs-writing.html</loc>
     <lastmod>2015-01-22</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/timn.html</loc>
+    <lastmod>2019-07-15</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/topic-split-workflow.html</loc>
@@ -485,12 +653,28 @@
     <lastmod>2015-02-12</lastmod>
   </url>
   <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/using-federated-wiki-for-pkm.html</loc>
+    <lastmod>2019-07-17</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/via-attribution.html</loc>
+    <lastmod>2015-06-19</lastmod>
+  </url>
+  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/view-remote-pages.html</loc>
     <lastmod>2015-02-09</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/welcome-visitors.html</loc>
     <lastmod>2018-10-05</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/what-has-changed-in-fedwiki.html</loc>
+    <lastmod>2015-06-13</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/wiki-multipage-editing.html</loc>
+    <lastmod>2013-02-14</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/wiki-vandalism-solutions.html</loc>
@@ -507,141 +691,5 @@
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/writing-with-strangers.html</loc>
     <lastmod>2015-04-17</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/markets-and-networks.html</loc>
-    <lastmod>2019-07-16</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/timn.html</loc>
-    <lastmod>2019-07-15</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/david-ronfeldt.html</loc>
-    <lastmod>2019-07-15</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/shallow-knowledge.html</loc>
-    <lastmod>2019-07-15</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/models-of-society.html</loc>
-    <lastmod>2019-07-16</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/the-garden-and-the-stream.html</loc>
-    <lastmod>2019-07-16</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/commonplace-book.html</loc>
-    <lastmod>2019-04-05</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/barriers-to-effective-pkm.html</loc>
-    <lastmod>2019-07-16</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/using-federated-wiki-for-pkm.html</loc>
-    <lastmod>2019-07-17</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/composing-on-fedwiki-m-c-morgan.html</loc>
-    <lastmod>2016-02-23</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/a-fedwiki-style-sheet.html</loc>
-    <lastmod>2015-11-01</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/rethinking-composing-in-fedwiki.html</loc>
-    <lastmod>2015-06-08</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/constellate-dissertation-pages.html</loc>
-    <lastmod>2015-06-09</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/rethinking-threadmode.html</loc>
-    <lastmod>2015-06-09</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/rethinking-documentmode.html</loc>
-    <lastmod>2015-03-13</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/radical-discourse.html</loc>
-    <lastmod>2015-06-09</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/dissertation-over-discourse-in-fedwiki.html</loc>
-    <lastmod>2015-06-09</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/what-has-changed-in-fedwiki.html</loc>
-    <lastmod>2015-06-13</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/fedwiki-isnt-designed-for-discussion.html</loc>
-    <lastmod>2015-06-09</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/hospitable-hypertext.html</loc>
-    <lastmod>2015-02-19</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/dissertation-over-discourse.html</loc>
-    <lastmod>2014-12-22</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/dialectic-mode.html</loc>
-    <lastmod>2006-07-05</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/composing-across-pages-or-cross-page-refactoring.html</loc>
-    <lastmod>2015-02-17</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/composing-lineups.html</loc>
-    <lastmod>2014-12-28</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/wiki-multipage-editing.html</loc>
-    <lastmod>2013-02-14</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/attribution-in-pkm.html</loc>
-    <lastmod>2019-07-17</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/curator.html</loc>
-    <lastmod>2019-07-17</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/attributing-catalysts.html</loc>
-    <lastmod>2019-07-17</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/via-attribution.html</loc>
-    <lastmod>2015-06-19</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/attributing-sources.html</loc>
-    <lastmod>2019-07-17</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/claiming-authorship.html</loc>
-    <lastmod>2019-07-17</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/tell-people-what-you-did.html</loc>
-    <lastmod>2015-02-10</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/beyond-personal-attribution.html</loc>
-    <lastmod>2015-02-16</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/discoverable-but-not-obvious.html</loc>
-    <lastmod>2015-02-12</lastmod>
   </url>
 </urlset>

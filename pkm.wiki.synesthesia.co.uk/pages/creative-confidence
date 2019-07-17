@@ -1,0 +1,554 @@
+{
+  "title": "Creative Confidence",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1c4a51c4b34424f9",
+      "text": "Creative confidence is critical for the learning process. For [[Deeper Learning]]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "c519b7dedbd0342e",
+      "text": "It is the confidence by which we walk into the unknown. To be [[Comfortable being Uncomfortable]]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "42922e0ed38a698b",
+      "text": "It is with [[Courage]] that we walk into the unknown. For in that unknown, we struggle, we fail, and we illuminate - a process that allows us to better understand  the true nature of the problem. An understanding that ultimately, empowers us to find the solution we seek. "
+    },
+    {
+      "type": "paragraph",
+      "id": "230eb55723e6f06e",
+      "text": "Creative confidence turns us into lifelong learners. "
+    },
+    {
+      "type": "paragraph",
+      "id": "ce02eea82ddaf1c1",
+      "text": "The concept  of creative confidence was identified by David Kelley, the founder of IDEO, as they developed the vision for [[Design Thinking]]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "0ae26ef6f1166c64",
+      "text": "Here is David Kelley giving a TED talk about Creative Confidence:"
+    },
+    {
+      "type": "video",
+      "id": "09d011139fd31d8f",
+      "text": "TED david_kelley_how_to_build_your_creative_confidence\n"
+    },
+    {
+      "type": "graphviz",
+      "id": "ab67fa877465c8e0",
+      "text": "DOT FROM preview-next-diagram"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Creative Confidence",
+        "story": []
+      },
+      "date": 1520708013955
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0ae26ef6f1166c64"
+      },
+      "id": "0ae26ef6f1166c64",
+      "type": "add",
+      "date": 1520708028977
+    },
+    {
+      "type": "edit",
+      "id": "0ae26ef6f1166c64",
+      "item": {
+        "type": "paragraph",
+        "id": "0ae26ef6f1166c64",
+        "text": "Here is David Kelley talking about Creative Confidence:"
+      },
+      "date": 1520708032780
+    },
+    {
+      "type": "fork",
+      "date": 1520708486437
+    },
+    {
+      "type": "edit",
+      "id": "0ae26ef6f1166c64",
+      "item": {
+        "type": "paragraph",
+        "id": "0ae26ef6f1166c64",
+        "text": "Here is David Kelley talking about Creative Confidence:"
+      },
+      "date": 1520708495285
+    },
+    {
+      "type": "fork",
+      "date": 1520708499600
+    },
+    {
+      "type": "fork",
+      "date": 1520708576568
+    },
+    {
+      "item": {
+        "type": "video",
+        "id": "09d011139fd31d8f",
+        "text": "TED david_kelley_how_to_build_your_creative_confidence\n"
+      },
+      "id": "09d011139fd31d8f",
+      "type": "add",
+      "after": "0ae26ef6f1166c64",
+      "date": 1520708584583
+    },
+    {
+      "type": "edit",
+      "id": "09d011139fd31d8f",
+      "item": {
+        "type": "video",
+        "id": "09d011139fd31d8f",
+        "text": "TED david_kelley_how_to_build_your_creative_confidence\n"
+      },
+      "date": 1520708592238
+    },
+    {
+      "type": "edit",
+      "id": "09d011139fd31d8f",
+      "item": {
+        "type": "video",
+        "id": "09d011139fd31d8f",
+        "text": "TED david_kelley_how_to_build_your_creative_confidence\n"
+      },
+      "date": 1520708614692
+    },
+    {
+      "type": "fork",
+      "date": 1520708621837
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "51ebf76dcadaa2ec"
+      },
+      "id": "51ebf76dcadaa2ec",
+      "type": "add",
+      "after": "09d011139fd31d8f",
+      "date": 1520708642266
+    },
+    {
+      "type": "edit",
+      "id": "51ebf76dcadaa2ec",
+      "item": {
+        "type": "paragraph",
+        "id": "51ebf76dcadaa2ec",
+        "text": "Others speak of this concept as [[Creative Courage]]."
+      },
+      "date": 1520708693830
+    },
+    {
+      "type": "edit",
+      "id": "0ae26ef6f1166c64",
+      "item": {
+        "type": "paragraph",
+        "id": "0ae26ef6f1166c64",
+        "text": "Here is David Kelley giving a TED talk about Creative Confidence:"
+      },
+      "date": 1535387121877
+    },
+    {
+      "type": "add",
+      "id": "ce02eea82ddaf1c1",
+      "item": {
+        "type": "paragraph",
+        "id": "ce02eea82ddaf1c1",
+        "text": "The term \"creative confidence\" has been promoted by David Kelley. Kelly is the founder of IDEO and the visionary around the development of [[Design Thinking]]. "
+      },
+      "after": "0ae26ef6f1166c64",
+      "date": 1535387200840
+    },
+    {
+      "type": "edit",
+      "id": "ce02eea82ddaf1c1",
+      "item": {
+        "type": "paragraph",
+        "id": "ce02eea82ddaf1c1",
+        "text": "The concept  of \"creative confidence\" has been promoted by David Kelley. Kelly is the founder of IDEO and the visionary around the development of [[Design Thinking]]. Working with Stanford's d.school, he has been instrumental with introducing this concept to the learning community, one outcome being the [[School Retool]] program that we are using here in Oregon. "
+      },
+      "date": 1535387315705
+    },
+    {
+      "type": "edit",
+      "id": "ce02eea82ddaf1c1",
+      "item": {
+        "type": "paragraph",
+        "id": "ce02eea82ddaf1c1",
+        "text": "The concept  of \"creative confidence\" has been promoted by David Kelley. Kelly is the founder of IDEO and the visionary around the development of [https://www.ideou.com/blogs/inspiration/david-kelley-on-design-thinking Design Thinking]. Working with Stanford's d.school, he has been instrumental with introducing this concept to the learning community, one outcome being the [[School Retool]] program that we are using here in Oregon. "
+      },
+      "date": 1535387346185
+    },
+    {
+      "type": "move",
+      "order": [
+        "ce02eea82ddaf1c1",
+        "0ae26ef6f1166c64",
+        "09d011139fd31d8f",
+        "51ebf76dcadaa2ec"
+      ],
+      "id": "0ae26ef6f1166c64",
+      "date": 1535387351151
+    },
+    {
+      "type": "edit",
+      "id": "ce02eea82ddaf1c1",
+      "item": {
+        "type": "paragraph",
+        "id": "ce02eea82ddaf1c1",
+        "text": "The concept  of Creative Confidence\" has been promoted by David Kelley. Kelly is the founder of IDEO and the visionary around the development of [https://www.ideou.com/blogs/inspiration/david-kelley-on-design-thinking Design Thinking]. Working with Stanford's d.school, he has been instrumental with introducing this concept to the learning community, one outcome being the [[School Retool]] program that we are using here in Oregon. "
+      },
+      "date": 1536117751002
+    },
+    {
+      "type": "edit",
+      "id": "ce02eea82ddaf1c1",
+      "item": {
+        "type": "paragraph",
+        "id": "ce02eea82ddaf1c1",
+        "text": "The concept  of Creative Confidence\" has been promoted by David Kelley. Kelly is the founder of IDEO and the visionary around the development of [https://www.ideou.com/blogs/inspiration/david-kelley-on-design-thinking Design Thinking]. "
+      },
+      "date": 1536117758643
+    },
+    {
+      "type": "add",
+      "id": "d7cd91373563e617",
+      "item": {
+        "type": "paragraph",
+        "id": "d7cd91373563e617",
+        "text": "Working with Stanford's d.school, he has been instrumental with introducing this concept to the learning community, one outcome being the [[School Retool]] program that we are using here in Oregon. "
+      },
+      "after": "ce02eea82ddaf1c1",
+      "date": 1536117759815
+    },
+    {
+      "type": "edit",
+      "id": "ce02eea82ddaf1c1",
+      "item": {
+        "type": "paragraph",
+        "id": "ce02eea82ddaf1c1",
+        "text": "The concept  of Creative Confidence\" was originally defined by David Kelley. Kelly is the founder of IDEO and the visionary around the development of [https://www.ideou.com/blogs/inspiration/david-kelley-on-design-thinking Design Thinking]. "
+      },
+      "date": 1538537365152
+    },
+    {
+      "type": "fork",
+      "site": "thompson.wiki.innovateoregon.org",
+      "date": 1552518618761
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ab67fa877465c8e0"
+      },
+      "id": "ab67fa877465c8e0",
+      "type": "add",
+      "after": "51ebf76dcadaa2ec",
+      "date": 1552518627956
+    },
+    {
+      "type": "edit",
+      "id": "ab67fa877465c8e0",
+      "item": {
+        "type": "graphviz",
+        "id": "ab67fa877465c8e0",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552518634621
+    },
+    {
+      "type": "edit",
+      "id": "ab67fa877465c8e0",
+      "item": {
+        "type": "graphviz",
+        "id": "ab67fa877465c8e0",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552518648235
+    },
+    {
+      "type": "add",
+      "id": "2bc1aeebad1af8db",
+      "item": {
+        "type": "paragraph",
+        "id": "2bc1aeebad1af8db",
+        "text": "[[Agile Mindset]]"
+      },
+      "after": "51ebf76dcadaa2ec",
+      "date": 1552518678264
+    },
+    {
+      "type": "remove",
+      "id": "2bc1aeebad1af8db",
+      "date": 1552518703464
+    },
+    {
+      "type": "edit",
+      "id": "51ebf76dcadaa2ec",
+      "item": {
+        "type": "paragraph",
+        "id": "51ebf76dcadaa2ec",
+        "text": "Others speak of this concept as [[Creative Courage]] and having an [[Agile Mindset]]"
+      },
+      "date": 1552518708230
+    },
+    {
+      "type": "edit",
+      "id": "ce02eea82ddaf1c1",
+      "item": {
+        "type": "paragraph",
+        "id": "ce02eea82ddaf1c1",
+        "text": "The concept  of Creative Confidence was originally defined by David Kelley. Kelly is the founder of IDEO and the visionary around the development of [https://www.ideou.com/blogs/inspiration/david-kelley-on-design-thinking Design Thinking]. "
+      },
+      "date": 1560275910097
+    },
+    {
+      "type": "add",
+      "id": "1c4a51c4b34424f9",
+      "item": {
+        "type": "paragraph",
+        "id": "1c4a51c4b34424f9",
+        "text": "Creative "
+      },
+      "after": "ce02eea82ddaf1c1",
+      "date": 1560275922281
+    },
+    {
+      "type": "edit",
+      "id": "1c4a51c4b34424f9",
+      "item": {
+        "type": "paragraph",
+        "id": "1c4a51c4b34424f9",
+        "text": "Creative confidence "
+      },
+      "date": 1560276065454
+    },
+    {
+      "type": "edit",
+      "id": "1c4a51c4b34424f9",
+      "item": {
+        "type": "paragraph",
+        "id": "1c4a51c4b34424f9",
+        "text": "Creative confidence is critical for the learn process. For Deep Learning. "
+      },
+      "date": 1560276298652
+    },
+    {
+      "type": "add",
+      "id": "c519b7dedbd0342e",
+      "item": {
+        "type": "paragraph",
+        "id": "c519b7dedbd0342e",
+        "text": "It is the confidence to walk into the unknown. To be [[Comfortable being Uncomfortable]]. "
+      },
+      "after": "1c4a51c4b34424f9",
+      "date": 1560276326067
+    },
+    {
+      "type": "edit",
+      "id": "1c4a51c4b34424f9",
+      "item": {
+        "type": "paragraph",
+        "id": "1c4a51c4b34424f9",
+        "text": "Creative confidence is critical for the learn process. For [[Deep Learning]]. "
+      },
+      "date": 1560276333579
+    },
+    {
+      "type": "move",
+      "order": [
+        "1c4a51c4b34424f9",
+        "ce02eea82ddaf1c1",
+        "c519b7dedbd0342e",
+        "d7cd91373563e617",
+        "0ae26ef6f1166c64",
+        "09d011139fd31d8f",
+        "51ebf76dcadaa2ec",
+        "ab67fa877465c8e0"
+      ],
+      "id": "1c4a51c4b34424f9",
+      "date": 1560276336681
+    },
+    {
+      "type": "move",
+      "order": [
+        "1c4a51c4b34424f9",
+        "c519b7dedbd0342e",
+        "ce02eea82ddaf1c1",
+        "d7cd91373563e617",
+        "0ae26ef6f1166c64",
+        "09d011139fd31d8f",
+        "51ebf76dcadaa2ec",
+        "ab67fa877465c8e0"
+      ],
+      "id": "c519b7dedbd0342e",
+      "date": 1560276338823
+    },
+    {
+      "type": "add",
+      "id": "42922e0ed38a698b",
+      "item": {
+        "type": "paragraph",
+        "id": "42922e0ed38a698b",
+        "text": "It is with [[Courage]] that we walk into the unknown. For in that unknown, we struggle, we fail, and we illuminate the true nature of the problem. And in that illumination, we understand, empowering us to find the solution we seek. "
+      },
+      "after": "c519b7dedbd0342e",
+      "date": 1560276495614
+    },
+    {
+      "type": "edit",
+      "id": "42922e0ed38a698b",
+      "item": {
+        "type": "paragraph",
+        "id": "42922e0ed38a698b",
+        "text": "It is with [[Courage]] that we walk into the unknown. For in that unknown, we struggle, we fail, and we illuminate the true nature of the problem. And, in that illumination, we understand, empowering us to find the solution we seek. "
+      },
+      "date": 1560276513546
+    },
+    {
+      "type": "add",
+      "id": "230eb55723e6f06e",
+      "item": {
+        "type": "paragraph",
+        "id": "230eb55723e6f06e",
+        "text": "Creative confidence turns us into lifelong learners. "
+      },
+      "after": "42922e0ed38a698b",
+      "date": 1560276557538
+    },
+    {
+      "type": "edit",
+      "id": "ce02eea82ddaf1c1",
+      "item": {
+        "type": "paragraph",
+        "id": "ce02eea82ddaf1c1",
+        "text": "The concept  of Creative Confidence was identified by David Kelley, the founder of IDEO, as they developed their vision for [[Design Thinking]]. "
+      },
+      "date": 1560276627444
+    },
+    {
+      "type": "edit",
+      "id": "ce02eea82ddaf1c1",
+      "item": {
+        "type": "paragraph",
+        "id": "ce02eea82ddaf1c1",
+        "text": "The concept  of creative confidence was identified by David Kelley, the founder of IDEO, as they developed their vision for [[Design Thinking]]. "
+      },
+      "date": 1560276634665
+    },
+    {
+      "type": "edit",
+      "id": "d7cd91373563e617",
+      "item": {
+        "type": "paragraph",
+        "id": "d7cd91373563e617",
+        "text": "Working with Stanford's d.school, he has been instrumental with introducing this concept into the education community, through programs such as [[School Retool]]."
+      },
+      "date": 1560276685310
+    },
+    {
+      "type": "remove",
+      "id": "51ebf76dcadaa2ec",
+      "date": 1560276693060
+    },
+    {
+      "type": "edit",
+      "id": "1c4a51c4b34424f9",
+      "item": {
+        "type": "paragraph",
+        "id": "1c4a51c4b34424f9",
+        "text": "Creative confidence is critical for the learn process. For [[Deeper Learning]]. "
+      },
+      "date": 1560276739775
+    },
+    {
+      "type": "edit",
+      "id": "1c4a51c4b34424f9",
+      "item": {
+        "type": "paragraph",
+        "id": "1c4a51c4b34424f9",
+        "text": "Creative confidence is critical for the learning process. For [[Deeper Learning]]. "
+      },
+      "date": 1560277055081
+    },
+    {
+      "type": "edit",
+      "id": "c519b7dedbd0342e",
+      "item": {
+        "type": "paragraph",
+        "id": "c519b7dedbd0342e",
+        "text": "It is the confidence by which we walk into the unknown. To be [[Comfortable being Uncomfortable]]. "
+      },
+      "date": 1560277071250
+    },
+    {
+      "type": "edit",
+      "id": "42922e0ed38a698b",
+      "item": {
+        "type": "paragraph",
+        "id": "42922e0ed38a698b",
+        "text": "It is with [[Courage]] that we walk into the unknown. For in that unknown, we struggle, we fail, and we illuminate, a process that allows us to better understanding  the true nature of the problem. And, in that illumination, we understand, empowering us to find the solution we seek. "
+      },
+      "date": 1560277144759
+    },
+    {
+      "type": "edit",
+      "id": "42922e0ed38a698b",
+      "item": {
+        "type": "paragraph",
+        "id": "42922e0ed38a698b",
+        "text": "It is with [[Courage]] that we walk into the unknown. For in that unknown, we struggle, we fail, and we illuminate, a process that allows us to better understand  the true nature of the problem. And, in that illumination, we understand, empowering us to find the solution we seek. "
+      },
+      "date": 1560277151670
+    },
+    {
+      "type": "edit",
+      "id": "42922e0ed38a698b",
+      "item": {
+        "type": "paragraph",
+        "id": "42922e0ed38a698b",
+        "text": "It is with [[Courage]] that we walk into the unknown. For in that unknown, we struggle, we fail, and we illuminate, a process that allows us to better understand  the true nature of the problem. An understanding that ultimately, empowers us to find the solution we seek. "
+      },
+      "date": 1560277177454
+    },
+    {
+      "type": "edit",
+      "id": "42922e0ed38a698b",
+      "item": {
+        "type": "paragraph",
+        "id": "42922e0ed38a698b",
+        "text": "It is with [[Courage]] that we walk into the unknown. For in that unknown, we struggle, we fail, and we illuminate - a process that allows us to better understand  the true nature of the problem. An understanding that ultimately, empowers us to find the solution we seek. "
+      },
+      "date": 1560277210166
+    },
+    {
+      "type": "edit",
+      "id": "ce02eea82ddaf1c1",
+      "item": {
+        "type": "paragraph",
+        "id": "ce02eea82ddaf1c1",
+        "text": "The concept  of creative confidence was identified by David Kelley, the founder of IDEO, as they developed the vision for [[Design Thinking]]. "
+      },
+      "date": 1560277232407
+    },
+    {
+      "type": "remove",
+      "id": "d7cd91373563e617",
+      "date": 1562782937495
+    },
+    {
+      "type": "fork",
+      "site": "dev2.wiki.innovateoregon.org",
+      "date": 1563357080419
+    }
+  ]
+}

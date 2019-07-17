@@ -1,0 +1,214 @@
+{
+  "title": "Paradigm Shift",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "f6dd20d06707efb0",
+      "text": "We use the term paradigm shift all the time. But it is actually a fairly recent concept, one that dates back to the publication of [https://en.wikipedia.org/wiki/Thomas_Kuhn Thomas Kuhn]'s book _The Structure of Scientific Revolutions_ in 1962. \n"
+    },
+    {
+      "type": "paragraph",
+      "id": "3b2cc6f8153adbda",
+      "text": "The book itself represented a paradigm shift.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "17ec9ea2b3f8b0ef",
+      "text": "Kuhn was exploring how our scientific understanding evolved. He found that that there were moments in time when new concepts forced radically new models. "
+    },
+    {
+      "type": "paragraph",
+      "id": "fca7b28e1c4b144a",
+      "text": "Existing models of understanding would incrementally evolve until new understanding began to emerge that didn't fit. This path would continue until a radical restructuring of the model appeared that integrated these new concepts.  "
+    },
+    {
+      "type": "paragraph",
+      "id": "86be3004624ffbf1",
+      "text": "A struggle between adherents of the old and new models would then erupt, until there was a [[Tipping Point]] and the new model became the dominant one.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "0b67a4fcc24a3830",
+      "text": "[[Agile]] is a paradigm shift that underpins our transition from an industrial economy to a creative economy. It is transforming how we create value, how we run our companies, and how we teach.\n\n"
+    },
+    {
+      "type": "graphviz",
+      "id": "9b52bb735ddd0225",
+      "text": "DOT FROM preview-next-diagram"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Paradigm Shift",
+        "story": []
+      },
+      "date": 1546750457191
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f6dd20d06707efb0"
+      },
+      "id": "f6dd20d06707efb0",
+      "type": "add",
+      "date": 1546750458963
+    },
+    {
+      "type": "edit",
+      "id": "f6dd20d06707efb0",
+      "item": {
+        "type": "paragraph",
+        "id": "f6dd20d06707efb0",
+        "text": "We use the term paradigm shift all the time. But it is actually a fairly recent concept, one that dates back to the publication of [https://en.wikipedia.org/wiki/Thomas_Kuhn Thomas Kuhn]'s book _The Structure of Scientific Revolutions_ in 1962. \n\nThe book itself represented a paradigm shift.\n\nKuhn was exploring how our scientific understanding evolved. He found that that there were moments in time when new concepts forced radically new models. Existing models of understanding would incrementally evolve until new understanding began to emerge that didn't fit. This path would continue until a radical restructuring of the model appeared to that integrated these new concepts.  A struggle between adherents of the old and new models would then erupt, until there was a [[Tipping Point]] and the new model became the dominant one.\n\n[[Agile]] is a paradigm shift that underpins our transition from an industrial economy to a creative economy. It is transforming how we create value, how we run our companies, and how we teach.\n\n"
+      },
+      "date": 1546750467948
+    },
+    {
+      "type": "edit",
+      "id": "f6dd20d06707efb0",
+      "item": {
+        "type": "paragraph",
+        "id": "f6dd20d06707efb0",
+        "text": "We use the term paradigm shift all the time. But it is actually a fairly recent concept, one that dates back to the publication of [https://en.wikipedia.org/wiki/Thomas_Kuhn Thomas Kuhn]'s book _The Structure of Scientific Revolutions_ in 1962. \n"
+      },
+      "date": 1546750475219
+    },
+    {
+      "type": "add",
+      "id": "3b2cc6f8153adbda",
+      "item": {
+        "type": "paragraph",
+        "id": "3b2cc6f8153adbda",
+        "text": "The book itself represented a paradigm shift.\n"
+      },
+      "after": "f6dd20d06707efb0",
+      "date": 1546750478078
+    },
+    {
+      "type": "add",
+      "id": "17ec9ea2b3f8b0ef",
+      "item": {
+        "type": "paragraph",
+        "id": "17ec9ea2b3f8b0ef",
+        "text": "Kuhn was exploring how our scientific understanding evolved. He found that that there were moments in time when new concepts forced radically new models. Existing models of understanding would incrementally evolve until new understanding began to emerge that didn't fit. This path would continue until a radical restructuring of the model appeared to that integrated these new concepts.  A struggle between adherents of the old and new models would then erupt, until there was a [[Tipping Point]] and the new model became the dominant one.\n"
+      },
+      "after": "3b2cc6f8153adbda",
+      "date": 1546750481687
+    },
+    {
+      "type": "add",
+      "id": "0b67a4fcc24a3830",
+      "item": {
+        "type": "paragraph",
+        "id": "0b67a4fcc24a3830",
+        "text": "[[Agile]] is a paradigm shift that underpins our transition from an industrial economy to a creative economy. It is transforming how we create value, how we run our companies, and how we teach.\n\n"
+      },
+      "after": "17ec9ea2b3f8b0ef",
+      "date": 1546750485596
+    },
+    {
+      "type": "fork",
+      "site": "thompson.wiki.innovateoregon.org",
+      "date": 1552408164318
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9b52bb735ddd0225"
+      },
+      "id": "9b52bb735ddd0225",
+      "type": "add",
+      "after": "0b67a4fcc24a3830",
+      "date": 1554313558538
+    },
+    {
+      "type": "edit",
+      "id": "9b52bb735ddd0225",
+      "item": {
+        "type": "graphviz",
+        "id": "9b52bb735ddd0225",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1554313562357
+    },
+    {
+      "type": "edit",
+      "id": "f6dd20d06707efb0",
+      "item": {
+        "type": "factory",
+        "id": "f6dd20d06707efb0",
+        "text": "We use the term paradigm shift all the time. But it is actually a fairly recent concept, one that dates back to the publication of [https://en.wikipedia.org/wiki/Thomas_Kuhn Thomas Kuhn]'s book _The Structure of Scientific Revolutions_ in 1962. \n "
+      },
+      "date": 1557945639198
+    },
+    {
+      "type": "edit",
+      "id": "f6dd20d06707efb0",
+      "item": {
+        "type": "markdown",
+        "id": "f6dd20d06707efb0",
+        "text": "We use the term paradigm shift all the time. But it is actually a fairly recent concept, one that dates back to the publication of [https://en.wikipedia.org/wiki/Thomas_Kuhn Thomas Kuhn]'s book _The Structure of Scientific Revolutions_ in 1962. \n"
+      },
+      "date": 1557945645378
+    },
+    {
+      "type": "edit",
+      "id": "17ec9ea2b3f8b0ef",
+      "item": {
+        "type": "paragraph",
+        "id": "17ec9ea2b3f8b0ef",
+        "text": "Kuhn was exploring how our scientific understanding evolved. He found that that there were moments in time when new concepts forced radically new models. Existing models of understanding would incrementally evolve until new understanding began to emerge that didn't fit. This path would continue until a radical restructuring of the model appeared to that integrated these new concepts.  "
+      },
+      "date": 1557945667076
+    },
+    {
+      "type": "add",
+      "id": "86be3004624ffbf1",
+      "item": {
+        "type": "paragraph",
+        "id": "86be3004624ffbf1",
+        "text": "A struggle between adherents of the old and new models would then erupt, until there was a [[Tipping Point]] and the new model became the dominant one.\n"
+      },
+      "after": "17ec9ea2b3f8b0ef",
+      "date": 1557945668205
+    },
+    {
+      "type": "edit",
+      "id": "17ec9ea2b3f8b0ef",
+      "item": {
+        "type": "paragraph",
+        "id": "17ec9ea2b3f8b0ef",
+        "text": "Kuhn was exploring how our scientific understanding evolved. He found that that there were moments in time when new concepts forced radically new models. "
+      },
+      "date": 1557945786321
+    },
+    {
+      "type": "add",
+      "id": "fca7b28e1c4b144a",
+      "item": {
+        "type": "paragraph",
+        "id": "fca7b28e1c4b144a",
+        "text": "Existing models of understanding would incrementally evolve until new understanding began to emerge that didn't fit. This path would continue until a radical restructuring of the model appeared to that integrated these new concepts.  "
+      },
+      "after": "17ec9ea2b3f8b0ef",
+      "date": 1557945787777
+    },
+    {
+      "type": "edit",
+      "id": "fca7b28e1c4b144a",
+      "item": {
+        "type": "paragraph",
+        "id": "fca7b28e1c4b144a",
+        "text": "Existing models of understanding would incrementally evolve until new understanding began to emerge that didn't fit. This path would continue until a radical restructuring of the model appeared that integrated these new concepts.  "
+      },
+      "date": 1557945828693
+    },
+    {
+      "type": "fork",
+      "site": "dev2.wiki.innovateoregon.org",
+      "date": 1563357172416
+    }
+  ]
+}

@@ -1,0 +1,908 @@
+{
+  "title": "Eureka Moments",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d942f10bbd6b0a3a",
+      "text": "The Eureka Moments when and individual or a team has a sudden rush of insight that lays clear the solution to a complex problem  or the answer to a perplexing question."
+    },
+    {
+      "type": "markdown",
+      "id": "2bd3b7ae50d46890",
+      "text": "Eureka:\n>a cry of joy or satisfaction when one finds or discovers something."
+    },
+    {
+      "type": "paragraph",
+      "id": "68f8bc7a5a901926",
+      "text": "This moment is called by several names. Some call it an  Aha! Moment."
+    },
+    {
+      "type": "paragraph",
+      "id": "54f48168dc17751b",
+      "text": "These Eureka Moments feel magical - it is when genius mysteriously manifests. There is no predicting when this moment might happen, but it is often in the midst of a dark, confusing struggle. There is no rational explanation for these moments, just a clarity of insight that seems almost supernatural. "
+    },
+    {
+      "type": "paragraph",
+      "id": "0fbb54e40ebc8eba",
+      "text": "There are many theories around why these moments are so powerful. One of the most likely ties back to the cognition theories of Jean Piaget. Piaget postulated that we live and learn using intellectual frameworks that have been based on our past learning experiences. He called these frameworks \"schemas\". "
+    },
+    {
+      "type": "paragraph",
+      "id": "a1137b5940df9243",
+      "text": "Many problems can be solved within an existing schema. By so doing, they strengthen the schema. There are times, however, when problems defy answers within the current framework. As a result, we are forced into deep discomfort as we struggle with questions that are beyond this framework - where we must \"think outside the box\". "
+    },
+    {
+      "type": "paragraph",
+      "id": "b997a4536b33f5ab",
+      "text": "The Eureka moment happens when a new pattern of meaning suddenly comes together that reshapes the architecture of our existing schema. "
+    },
+    {
+      "type": "markdown",
+      "id": "fc34154dccbddfa7",
+      "text": ">No problem can be solved from the same level of consciousness that created it.\n>\n_Albert Einstein_"
+    },
+    {
+      "type": "paragraph",
+      "id": "677b6c6d40541bcb",
+      "text": "There is a huge dopamine rush during these moments as neural patterns in our mind are being rewired into a new pattern. What we see and now know, cannot be unseen and unknown. We [[Claim the Joy]] and are forever changed by this [[Paradigm Shift]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "f61b7585627766a2",
+      "text": "Having experienced these moments gives us courage to venture again, armed with new [[Creative Confidence]], into the wild wilderness of the unknown. "
+    },
+    {
+      "type": "graphviz",
+      "id": "2887a77c01ad6ac9",
+      "text": "DOT FROM preview-next-diagram"
+    }
+  ],
+  "journal": [
+    {
+      "type": "edit",
+      "id": "2d22adc8b34c2873",
+      "item": {
+        "type": "paragraph",
+        "id": "2d22adc8b34c2873",
+        "text": "But then, often in an unplanned inspired moment, there is a radical re-alignment of our understanding, a rewiring of our pattern of meaning that illuminates a new understanding that creates a [[Paradigm Shift]]. We call this experience a [[Dialectical Synthesis]]."
+      },
+      "date": 1557173924908,
+      "error": {
+        "type": "error",
+        "msg": ""
+      }
+    },
+    {
+      "type": "remove",
+      "id": "ef3e03cc7ab1e736",
+      "date": 1552933384571
+    },
+    {
+      "type": "edit",
+      "id": "52036d0061e7ee43",
+      "item": {
+        "type": "paragraph",
+        "id": "52036d0061e7ee43",
+        "text": "We try to gather more information and to [[Think Outside the Box]] to try to understand. But as long as we are stuck with our existing model of understanding, we are in the dark."
+      },
+      "date": 1552930874260
+    },
+    {
+      "type": "edit",
+      "id": "2887a77c01ad6ac9",
+      "item": {
+        "type": "graphviz",
+        "id": "2887a77c01ad6ac9",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552579360342
+    },
+    {
+      "type": "edit",
+      "id": "2887a77c01ad6ac9",
+      "item": {
+        "type": "graphviz",
+        "id": "2887a77c01ad6ac9",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552579353287
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2887a77c01ad6ac9"
+      },
+      "id": "2887a77c01ad6ac9",
+      "type": "add",
+      "after": "ef3e03cc7ab1e736",
+      "date": 1552579347278
+    },
+    {
+      "type": "remove",
+      "id": "c39712d84eaf5360",
+      "date": 1552579344491
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c39712d84eaf5360"
+      },
+      "id": "c39712d84eaf5360",
+      "type": "add",
+      "after": "ef3e03cc7ab1e736",
+      "date": 1552579340575
+    },
+    {
+      "type": "edit",
+      "id": "a76a6994ef7b6625",
+      "item": {
+        "type": "paragraph",
+        "id": "a76a6994ef7b6625",
+        "text": "[https://en.wikipedia.org/wiki/Eureka_effect Eureka Moments] are those moments when our consciousness, or [[Schema]], gets rewired. We also can call them [[Aha! Moment]]s"
+      },
+      "date": 1552416182302
+    },
+    {
+      "type": "edit",
+      "id": "a76a6994ef7b6625",
+      "item": {
+        "type": "paragraph",
+        "id": "a76a6994ef7b6625",
+        "text": "[https://en.wikipedia.org/wiki/Eureka_effect Eureka Moments] are those moments when our consciousness, or [[Schema]], gets rewired. We also can call them an [[Aha! Moment]]"
+      },
+      "date": 1552416175092
+    },
+    {
+      "type": "edit",
+      "id": "a76a6994ef7b6625",
+      "item": {
+        "type": "paragraph",
+        "id": "a76a6994ef7b6625",
+        "text": "[https://en.wikipedia.org/wiki/Eureka_effect Eureka Moments] are those moments when our consciousness, or [[Schema]], gets rewired. We also can call them [[Aha! Moment]]"
+      },
+      "date": 1552416159122
+    },
+    {
+      "type": "fork",
+      "date": 1552416146592
+    },
+    {
+      "type": "edit",
+      "id": "a76a6994ef7b6625",
+      "item": {
+        "type": "paragraph",
+        "id": "a76a6994ef7b6625",
+        "text": "[https://en.wikipedia.org/wiki/Eureka_effect Eureka Moments] are those moments when our consciousness, or [[Schema]], gets rewired. We also can call them [[Aha! Moments]]"
+      },
+      "date": 1552416137299,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": "502 Bad Gateway\n"
+      }
+    },
+    {
+      "type": "fork",
+      "site": "thompson.wiki.innovateoregon.org",
+      "date": 1552416137611
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "2bd3b7ae50d46890",
+        "text": "Eureka:\n>a cry of joy or satisfaction when one finds or discovers something."
+      },
+      "after": "a76a6994ef7b6625",
+      "id": "2bd3b7ae50d46890",
+      "date": 1544310177580
+    },
+    {
+      "type": "add",
+      "id": "ef3e03cc7ab1e736",
+      "item": {
+        "type": "paragraph",
+        "id": "ef3e03cc7ab1e736",
+        "text": "[[Birthing Eureka Moments]]"
+      },
+      "after": "8eca3bef68c5ef43",
+      "date": 1539880109907
+    },
+    {
+      "type": "edit",
+      "id": "4f474ff34b4e0530",
+      "item": {
+        "type": "paragraph",
+        "id": "4f474ff34b4e0530",
+        "text": "We understand the world by making patterns of meaning. These patterns link our memories and experiences together in a way that enables us to explain our current perceptions."
+      },
+      "date": 1539880012241
+    },
+    {
+      "type": "edit",
+      "id": "8eca3bef68c5ef43",
+      "item": {
+        "type": "paragraph",
+        "id": "8eca3bef68c5ef43",
+        "text": "In that moment, carried on a surge of dopamines, there is a rush of joy through our body -  a Eureka Moment. This  moment forever changes how we understand an important part of our world. "
+      },
+      "date": 1539659452076
+    },
+    {
+      "type": "edit",
+      "id": "8eca3bef68c5ef43",
+      "item": {
+        "type": "paragraph",
+        "id": "8eca3bef68c5ef43",
+        "text": "In that moment, carried on a surge of dopamines, there is a rush of joy through our body -  a Eureka Moment. This  moment forever changes how we understand a part of our world. "
+      },
+      "date": 1539659436291
+    },
+    {
+      "type": "edit",
+      "id": "2d22adc8b34c2873",
+      "item": {
+        "type": "paragraph",
+        "id": "2d22adc8b34c2873",
+        "text": "But then, often in an unplanned inspired moment, there is a radical re-alignment of our understanding, a rewiring of our pattern of meaning that illuminates a new understanding. We call repatterning a [[Dialectical Synthesis]]"
+      },
+      "date": 1539659403618
+    },
+    {
+      "type": "edit",
+      "id": "2d22adc8b34c2873",
+      "item": {
+        "type": "paragraph",
+        "id": "2d22adc8b34c2873",
+        "text": "But then, often in an unplanned inspired moment, there is a radical re-alignment of our understanding, a rewiring of a new pattern of meaning that illuminates a new understanding. We call repatterning a [[Dialectical Synthesis]]"
+      },
+      "date": 1539659363276
+    },
+    {
+      "type": "edit",
+      "id": "80a3ca40d7b31648",
+      "item": {
+        "type": "paragraph",
+        "id": "80a3ca40d7b31648",
+        "text": "Sometimes the patterns by which we understand the world don't explain the world. These are times of conflict and confusion. "
+      },
+      "date": 1539659324490
+    },
+    {
+      "type": "edit",
+      "id": "4f474ff34b4e0530",
+      "item": {
+        "type": "paragraph",
+        "id": "4f474ff34b4e0530",
+        "text": "We understand the world by making patterns of meaning. These patterns link our memories together in a way that enables us to explain our experiences."
+      },
+      "date": 1539659312000
+    },
+    {
+      "type": "edit",
+      "id": "a76a6994ef7b6625",
+      "item": {
+        "type": "paragraph",
+        "id": "a76a6994ef7b6625",
+        "text": "[https://en.wikipedia.org/wiki/Eureka_effect Eureka Moments] are those moments when our consciousness, or [[Schema]], gets rewired. "
+      },
+      "date": 1539659298220
+    },
+    {
+      "type": "edit",
+      "id": "a76a6994ef7b6625",
+      "item": {
+        "type": "paragraph",
+        "id": "a76a6994ef7b6625",
+        "text": "[https://en.wikipedia.org/wiki/Eureka_effect Eureka Moments] are those moment when our consciousness, or [[Schema]], gets rewired. "
+      },
+      "date": 1539659286353
+    },
+    {
+      "type": "edit",
+      "id": "a76a6994ef7b6625",
+      "item": {
+        "type": "paragraph",
+        "id": "a76a6994ef7b6625",
+        "text": "[https://en.wikipedia.org/wiki/Eureka_effect Eureka Moment] are those moment when our consciousness, or [[Schema]], gets rewired. "
+      },
+      "date": 1539659275399
+    },
+    {
+      "type": "edit",
+      "id": "8eca3bef68c5ef43",
+      "item": {
+        "type": "paragraph",
+        "id": "8eca3bef68c5ef43",
+        "text": "In that moment, carried on a surge of dopamines, there is a rush of joy through our body -  a Eureka Moment that forever changes how we understand a part of our world. "
+      },
+      "date": 1539659023777
+    },
+    {
+      "type": "edit",
+      "id": "8eca3bef68c5ef43",
+      "item": {
+        "type": "paragraph",
+        "id": "8eca3bef68c5ef43",
+        "text": "In that moment, carried on a surge of dopamines, there is a rush of joy through our body -  a Eureka Moment that forever changes how we understand a part of the world. "
+      },
+      "date": 1539658996360
+    },
+    {
+      "type": "edit",
+      "id": "8eca3bef68c5ef43",
+      "item": {
+        "type": "paragraph",
+        "id": "8eca3bef68c5ef43",
+        "text": "In that moment, there, carried on a surge of dopamines, a rush of joy through our body -  a Eureka Moment that forever changes how we understand a part of the world. "
+      },
+      "date": 1539658972812
+    },
+    {
+      "type": "edit",
+      "id": "8eca3bef68c5ef43",
+      "item": {
+        "type": "paragraph",
+        "id": "8eca3bef68c5ef43",
+        "text": "In that moment, there, carried on a surge of dopamines, a rush of joy through our body -  a Eureka Moment. "
+      },
+      "date": 1539658944716
+    },
+    {
+      "type": "edit",
+      "id": "8eca3bef68c5ef43",
+      "item": {
+        "type": "paragraph",
+        "id": "8eca3bef68c5ef43",
+        "text": "In that moment, there is a rush of joy through our body, carried on a surge of dopamines, a Eureka Moment. "
+      },
+      "date": 1539658908791
+    },
+    {
+      "type": "edit",
+      "id": "2d22adc8b34c2873",
+      "item": {
+        "type": "paragraph",
+        "id": "2d22adc8b34c2873",
+        "text": "But then, in an unplanned inspired moment, there is a radical re-alignment of our understanding, a rewiring of a new pattern of meaning that illuminates a new understanding. We call repatterning a [[Dialectical Synthesis]]"
+      },
+      "date": 1539658888756
+    },
+    {
+      "type": "edit",
+      "id": "2d22adc8b34c2873",
+      "item": {
+        "type": "paragraph",
+        "id": "2d22adc8b34c2873",
+        "text": "But then, in an unplanned inspired moment, there is a radical re-alignment of our understanding, a rewiring of a new pattern of meaning that illuminates a new understanding. We call rewiring a [[Dialectical Synthesis]]"
+      },
+      "date": 1539658880207
+    },
+    {
+      "type": "edit",
+      "id": "2d22adc8b34c2873",
+      "item": {
+        "type": "paragraph",
+        "id": "2d22adc8b34c2873",
+        "text": "But then, in an unplanned inspired moment, there is a radical re-alignment of our understanding, a rewiring of a new pattern of meaning that illuminates a new understanding. We call this a [[Dialectical Synthesis]]"
+      },
+      "date": 1539658853046
+    },
+    {
+      "type": "edit",
+      "id": "2d22adc8b34c2873",
+      "item": {
+        "type": "paragraph",
+        "id": "2d22adc8b34c2873",
+        "text": "But then, in an inspired moment, there is a radical re-alignment of our understanding, a rewiring of a new pattern of meaning that illuminates a new understanding. We call this a [[Dialectical Synthesis]]"
+      },
+      "date": 1539658830304
+    },
+    {
+      "type": "edit",
+      "id": "52036d0061e7ee43",
+      "item": {
+        "type": "paragraph",
+        "id": "52036d0061e7ee43",
+        "text": "We try to gather more information and to [https://en.wikipedia.org/wiki/Thinking_outside_the_box think outside the box] to try to understand. But as long as we are stuck with our existing model of understanding, we are in the dark."
+      },
+      "date": 1539658822337
+    },
+    {
+      "type": "edit",
+      "id": "52036d0061e7ee43",
+      "item": {
+        "type": "paragraph",
+        "id": "52036d0061e7ee43",
+        "text": "We try to gather more information and to [https://en.wikipedia.org/wiki/Thinking_outside_the_box think outside the box] to try to understand. But as long as we are using our existing model of understanding, we are in the dark."
+      },
+      "date": 1539658792292
+    },
+    {
+      "type": "edit",
+      "id": "52036d0061e7ee43",
+      "item": {
+        "type": "paragraph",
+        "id": "52036d0061e7ee43",
+        "text": "We try to gather more information and to continue to a process of discovery to try to understand. But as long as we are using our existing model of understanding, we are in the dark."
+      },
+      "date": 1539658750326
+    },
+    {
+      "type": "edit",
+      "id": "80a3ca40d7b31648",
+      "item": {
+        "type": "paragraph",
+        "id": "80a3ca40d7b31648",
+        "text": "Sometimes these patterns by which we understand the world don't explain the world. These are times of conflict and confusion. "
+      },
+      "date": 1539658713456
+    },
+    {
+      "type": "edit",
+      "id": "4f474ff34b4e0530",
+      "item": {
+        "type": "paragraph",
+        "id": "4f474ff34b4e0530",
+        "text": "We understand the word by making patterns of meaning. These patterns link our memories together in a way that enables us to explain our experiences."
+      },
+      "date": 1539658683506
+    },
+    {
+      "type": "edit",
+      "id": "4f474ff34b4e0530",
+      "item": {
+        "type": "paragraph",
+        "id": "4f474ff34b4e0530",
+        "text": "We understand the word by making patterns of meaning. These patterns take our memories and link them together in a way the enables us to explain our experiences."
+      },
+      "date": 1539658659528
+    },
+    {
+      "type": "edit",
+      "id": "a76a6994ef7b6625",
+      "item": {
+        "type": "paragraph",
+        "id": "a76a6994ef7b6625",
+        "text": "Eureka Moments are those moment when our consciousness, or [[Schema]], gets rewired. "
+      },
+      "date": 1539658556516
+    },
+    {
+      "type": "edit",
+      "id": "a76a6994ef7b6625",
+      "item": {
+        "type": "paragraph",
+        "id": "a76a6994ef7b6625",
+        "text": "Eureka Moments are those moment when your consciousness, [[Schema]], gets rewired. "
+      },
+      "date": 1539658546276
+    },
+    {
+      "type": "edit",
+      "id": "8eca3bef68c5ef43",
+      "item": {
+        "type": "paragraph",
+        "id": "8eca3bef68c5ef43",
+        "text": "In that moment, there is a rush of joy through our body, a surge of dopamines, a Eureka Moment. "
+      },
+      "date": 1539658396395
+    },
+    {
+      "type": "edit",
+      "id": "8eca3bef68c5ef43",
+      "item": {
+        "type": "paragraph",
+        "id": "8eca3bef68c5ef43",
+        "text": "In that moment, there is a rush of joy through our body, a rush of dopamines Eureka Moment. This rush of dopamines "
+      },
+      "date": 1539658345775
+    },
+    {
+      "type": "add",
+      "id": "8eca3bef68c5ef43",
+      "item": {
+        "type": "paragraph",
+        "id": "8eca3bef68c5ef43",
+        "text": "In that moment, there is a rush of joy through our body, a Eureka Moment. This rush of dopamines "
+      },
+      "after": "2d22adc8b34c2873",
+      "date": 1539658298816
+    },
+    {
+      "type": "edit",
+      "id": "2d22adc8b34c2873",
+      "item": {
+        "type": "paragraph",
+        "id": "2d22adc8b34c2873",
+        "text": "But then, in a moment, there is a radical re-alignment of our understanding, a rewiring of a new pattern of meaning that illuminates a new understanding. We call this a [[Dialectical Synthesis]]"
+      },
+      "date": 1539658211214
+    },
+    {
+      "type": "add",
+      "id": "2d22adc8b34c2873",
+      "item": {
+        "type": "paragraph",
+        "id": "2d22adc8b34c2873",
+        "text": "But then, in a moment, there is a radical re-alignment of our understanding, a rewiring of a new pattern of meaning that illuminates a new understanding. We call this a [[Dialolectical Synthesis]]"
+      },
+      "after": "52036d0061e7ee43",
+      "date": 1539658203415
+    },
+    {
+      "type": "add",
+      "id": "52036d0061e7ee43",
+      "item": {
+        "type": "paragraph",
+        "id": "52036d0061e7ee43",
+        "text": "We continue to a process of discovery to try to understand. But as long as we are using our existing model of understanding, we are in the dark."
+      },
+      "after": "80a3ca40d7b31648",
+      "date": 1539658091439
+    },
+    {
+      "type": "add",
+      "id": "80a3ca40d7b31648",
+      "item": {
+        "type": "paragraph",
+        "id": "80a3ca40d7b31648",
+        "text": "Sometimes, our patterns by which we understand the world don't explain the world. These are times of conflict and confusion. "
+      },
+      "after": "4f474ff34b4e0530",
+      "date": 1539658046481
+    },
+    {
+      "type": "edit",
+      "id": "4f474ff34b4e0530",
+      "item": {
+        "type": "paragraph",
+        "id": "4f474ff34b4e0530",
+        "text": "We understand the word by making patterns of meaning. These patterns take our memories and link them together in a way the allows us to explain our experiences."
+      },
+      "date": 1539657969360
+    },
+    {
+      "type": "add",
+      "id": "4f474ff34b4e0530",
+      "item": {
+        "type": "paragraph",
+        "id": "4f474ff34b4e0530",
+        "text": "We understand the word by making patterns of meaning. These patterns take our memories, link them together, in a way the allows us to explain our experiences."
+      },
+      "after": "a76a6994ef7b6625",
+      "date": 1539657942170
+    },
+    {
+      "type": "edit",
+      "id": "a76a6994ef7b6625",
+      "item": {
+        "type": "paragraph",
+        "id": "a76a6994ef7b6625",
+        "text": "Eureka Moments are those moment when your consciousness gets rewired. "
+      },
+      "date": 1539657838018
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a76a6994ef7b6625"
+      },
+      "id": "a76a6994ef7b6625",
+      "type": "add",
+      "date": 1539657744935
+    },
+    {
+      "type": "create",
+      "item": {
+        "title": "Eureka Moments",
+        "story": []
+      },
+      "date": 1539657741085
+    },
+    {
+      "type": "fork",
+      "date": 1557173949623
+    },
+    {
+      "type": "edit",
+      "id": "a76a6994ef7b6625",
+      "item": {
+        "type": "paragraph",
+        "id": "a76a6994ef7b6625",
+        "text": "Eureka Moments are those moments when our consciousness, or [[Schema]], gets rewired. We also can call them [[Aha! Moment]]s"
+      },
+      "date": 1557859557604
+    },
+    {
+      "type": "edit",
+      "id": "a76a6994ef7b6625",
+      "item": {
+        "type": "paragraph",
+        "id": "a76a6994ef7b6625",
+        "text": "Eureka Moments are those moments when our consciousness, or [[Schema]], gets reconfigured. We also can call them [[Aha! Moment]]s"
+      },
+      "date": 1557859617053
+    },
+    {
+      "type": "edit",
+      "id": "52036d0061e7ee43",
+      "item": {
+        "type": "paragraph",
+        "id": "52036d0061e7ee43",
+        "text": "We try to gather more information and to \"think outside the Box\" to try to understand. But as long as we are stuck with our existing paradigm of understanding, we are in the dark."
+      },
+      "date": 1558044048879
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d942f10bbd6b0a3a",
+        "text": "The Aha! Moment when and individual or a team has a sudden rush of insight that lays clear the solution to a complex problem  or the answer to a perplexing question."
+      },
+      "id": "d942f10bbd6b0a3a",
+      "date": 1562691210394
+    },
+    {
+      "type": "edit",
+      "id": "d942f10bbd6b0a3a",
+      "item": {
+        "type": "paragraph",
+        "id": "d942f10bbd6b0a3a",
+        "text": "The Eureka Moments when and individual or a team has a sudden rush of insight that lays clear the solution to a complex problem  or the answer to a perplexing question."
+      },
+      "date": 1562691232855
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "68f8bc7a5a901926",
+        "text": "This moment is called by several names. Some call it the  eureka effect, others call it the magic moment."
+      },
+      "after": "d942f10bbd6b0a3a",
+      "id": "68f8bc7a5a901926",
+      "date": 1562691253071
+    },
+    {
+      "type": "edit",
+      "id": "68f8bc7a5a901926",
+      "item": {
+        "type": "paragraph",
+        "id": "68f8bc7a5a901926",
+        "text": "This moment is called by several names. Some call it an  Aha! Moment."
+      },
+      "date": 1562691279240
+    },
+    {
+      "type": "move",
+      "order": [
+        "d942f10bbd6b0a3a",
+        "2bd3b7ae50d46890",
+        "68f8bc7a5a901926",
+        "a76a6994ef7b6625",
+        "4f474ff34b4e0530",
+        "80a3ca40d7b31648",
+        "52036d0061e7ee43",
+        "2d22adc8b34c2873",
+        "8eca3bef68c5ef43",
+        "2887a77c01ad6ac9"
+      ],
+      "id": "2bd3b7ae50d46890",
+      "date": 1562691312644
+    },
+    {
+      "type": "remove",
+      "id": "a76a6994ef7b6625",
+      "date": 1562691324943
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "54f48168dc17751b",
+        "text": "The Aha! Moment feels magical - it is when genius mysteriously manifests. There is no predicting when this moment might happen, but it is often in the midst of a dark, confusing struggle. There is no rational explanation for these moments, just a clarity of insight that seems almost supernatural. "
+      },
+      "after": "68f8bc7a5a901926",
+      "id": "54f48168dc17751b",
+      "date": 1562691336608
+    },
+    {
+      "type": "edit",
+      "id": "54f48168dc17751b",
+      "item": {
+        "type": "paragraph",
+        "id": "54f48168dc17751b",
+        "text": "These Eureka Moments feels magical - it is when genius mysteriously manifests. There is no predicting when this moment might happen, but it is often in the midst of a dark, confusing struggle. There is no rational explanation for these moments, just a clarity of insight that seems almost supernatural. "
+      },
+      "date": 1562691367862
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "0fbb54e40ebc8eba",
+        "text": "There are many theories around why these moments are so powerful. One of the most likely ties back to the cognition theories of Piaget. Piaget postulated that we live and learn using intellectual frameworks that have been based on our past learning experiences. He called these frameworks \"schemas\". "
+      },
+      "after": "54f48168dc17751b",
+      "id": "0fbb54e40ebc8eba",
+      "date": 1562691377050
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a1137b5940df9243",
+        "text": "Many problems can be solved within an existing schema. By so doing, they strengthen the schema. There are times, however, when problems defy answers within the current framework. As a result, we are forced into deep discomfort as we struggle with questions that are beyond this framework - where we must \"think outside the box\". "
+      },
+      "after": "0fbb54e40ebc8eba",
+      "id": "a1137b5940df9243",
+      "date": 1562691388966
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "b997a4536b33f5ab",
+        "text": "The Aha! moment happens when a new pattern of meaning suddenly comes together that reshapes the architecture of our existing schema. "
+      },
+      "after": "a1137b5940df9243",
+      "id": "b997a4536b33f5ab",
+      "date": 1562691400432
+    },
+    {
+      "type": "edit",
+      "id": "b997a4536b33f5ab",
+      "item": {
+        "type": "paragraph",
+        "id": "b997a4536b33f5ab",
+        "text": "The Eureka moment happens when a new pattern of meaning suddenly comes together that reshapes the architecture of our existing schema. "
+      },
+      "date": 1562691413358
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "fc34154dccbddfa7",
+        "text": ">No problem can be solved from the same level of consciousness that created it.\n>\n_Albert Einstein_"
+      },
+      "after": "b997a4536b33f5ab",
+      "id": "fc34154dccbddfa7",
+      "date": 1562691417606
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "677b6c6d40541bcb",
+        "text": "There is a huge dopamine rush during these moments as neural patterns in our mind are being rewired into a new pattern. What we see and now know, cannot be unseen and unknown. We are forever changed by these [[Transmutational Experiences]] where one can [[Claim the Joy]]."
+      },
+      "after": "fc34154dccbddfa7",
+      "id": "677b6c6d40541bcb",
+      "date": 1562691428316
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "f61b7585627766a2",
+        "text": "Having experienced these moments gives us courage to venture again, armed with our curiosity, into the wild wilderness of the unknown. "
+      },
+      "after": "677b6c6d40541bcb",
+      "id": "f61b7585627766a2",
+      "date": 1562691440645
+    },
+    {
+      "type": "remove",
+      "id": "4f474ff34b4e0530",
+      "date": 1562691453113
+    },
+    {
+      "type": "remove",
+      "id": "80a3ca40d7b31648",
+      "date": 1562691457009
+    },
+    {
+      "type": "remove",
+      "id": "8eca3bef68c5ef43",
+      "date": 1562691487540
+    },
+    {
+      "type": "edit",
+      "id": "677b6c6d40541bcb",
+      "item": {
+        "type": "paragraph",
+        "id": "677b6c6d40541bcb",
+        "text": "There is a huge dopamine rush during these moments as neural patterns in our mind are being rewired into a new pattern. What we see and now know, cannot be unseen and unknown. We are forever changed by these [[Paradigm Shift]] where one can [[Claim the Joy]]."
+      },
+      "date": 1562691518582
+    },
+    {
+      "type": "edit",
+      "id": "677b6c6d40541bcb",
+      "item": {
+        "type": "paragraph",
+        "id": "677b6c6d40541bcb",
+        "text": "There is a huge dopamine rush during these moments as neural patterns in our mind are being rewired into a new pattern. What we see and now know, cannot be unseen and unknown. We are forever changed by this [[Paradigm Shift]] where we [[Claim the Joy]]."
+      },
+      "date": 1562691550614
+    },
+    {
+      "type": "remove",
+      "id": "2d22adc8b34c2873",
+      "date": 1562691567465
+    },
+    {
+      "type": "remove",
+      "id": "52036d0061e7ee43",
+      "date": 1562691570657
+    },
+    {
+      "type": "edit",
+      "id": "f61b7585627766a2",
+      "item": {
+        "type": "paragraph",
+        "id": "f61b7585627766a2",
+        "text": "Having experienced these moments gives us courage to venture again, armed with new [[Creative Confidence], into the wild wilderness of the unknown. "
+      },
+      "date": 1562691622998
+    },
+    {
+      "type": "edit",
+      "id": "f61b7585627766a2",
+      "item": {
+        "type": "paragraph",
+        "id": "f61b7585627766a2",
+        "text": "Having experienced these moments gives us courage to venture again, armed with new [[Creative Confidence]], into the wild wilderness of the unknown. "
+      },
+      "date": 1562691627598
+    },
+    {
+      "type": "edit",
+      "id": "677b6c6d40541bcb",
+      "item": {
+        "type": "paragraph",
+        "id": "677b6c6d40541bcb",
+        "text": "There is a huge dopamine rush during these moments as neural patterns in our mind are being rewired into a new pattern. What we see and now know, cannot be unseen and unknown. We are forever changed by this [[Paradigm Shift]] and [[Claim the Joy]]."
+      },
+      "date": 1562691711618
+    },
+    {
+      "type": "edit",
+      "id": "677b6c6d40541bcb",
+      "item": {
+        "type": "paragraph",
+        "id": "677b6c6d40541bcb",
+        "text": "There is a huge dopamine rush during these moments as neural patterns in our mind are being rewired into a new pattern. What we see and now know, cannot be unseen and unknown. We [[Claim the Joy]] and are forever changed by this [[Paradigm Shift]]."
+      },
+      "date": 1562691755091
+    },
+    {
+      "type": "edit",
+      "id": "0fbb54e40ebc8eba",
+      "item": {
+        "type": "paragraph",
+        "id": "0fbb54e40ebc8eba",
+        "text": "There are many theories around why these moments are so powerful. One of the most likely ties back to the cognition theories of Jean Piaget. Piaget postulated that we live and learn using intellectual frameworks that have been based on our past learning experiences. He called these frameworks \"schemas\". "
+      },
+      "date": 1562692230945
+    },
+    {
+      "type": "edit",
+      "id": "54f48168dc17751b",
+      "item": {
+        "type": "paragraph",
+        "id": "54f48168dc17751b",
+        "text": "These Eureka Moments feel magical - it is when genius mysteriously manifests. There is no predicting when this moment might happen, but it is often in the midst of a dark, confusing struggle. There is no rational explanation for these moments, just a clarity of insight that seems almost supernatural. "
+      },
+      "date": 1562692924017
+    },
+    {
+      "type": "fork",
+      "site": "dev2.wiki.innovateoregon.org",
+      "date": 1563356988326
+    }
+  ]
+}

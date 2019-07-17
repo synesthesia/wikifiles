@@ -1,0 +1,626 @@
+{
+  "title": "Curiosity",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "51359d5bcf6cfca2",
+      "text": "[[Deeper Learning]] begins with curiosity. When our curiosity is ignited, our minds are literally transformed, as neurotransmitters activate key parts of our brain's analytical and memory areas. We are able to learn faster and retain better what we are learning. "
+    },
+    {
+      "type": "paragraph",
+      "id": "88aedbc8ba38b9fe",
+      "text": "According to a [https://www.eurekalert.org/pub_releases/2014-10/cp-hcc092514.php study] by researchers at UC Davis, when we are curious, a reward system is created in our minds by the release of neurotransmitter called [https://en.wikipedia.org/wiki/Dopamine dopamine]. With its release we feel more energized and joyful and that joy flows over to other areas of learning."
+    },
+    {
+      "type": "markdown",
+      "id": "9887ad00f834cea6",
+      "text": ">The study revealed three major findings. First, as expected, when people were highly curious to find out the answer to a question, they were better at learning that information. \n\n>More surprising, however, was that once their curiosity was aroused, they showed better learning of entirely unrelated information that they encountered but were not necessarily curious about. People were also better able to retain the information learned during a curious state across a 24-hour delay. \n\n>\"Curiosity may put the brain in a state that allows it to learn and retain any kind of information, like a vortex that sucks in what you are motivated to learn, and also everything around it,\" explains Dr. Gruber.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "aa2083e6fedf6028",
+      "text": "As the lead author, Dr. Matthias Gruber, of the University of California at Davis, described it:"
+    },
+    {
+      "type": "markdown",
+      "id": "65efed62eae42ef8",
+      "text": ">Curiosity may put the brain in a state that allows it to learn and retain any kind of information, like a vortex that sucks in what you are motivated to learn, and also everything around it."
+    },
+    {
+      "type": "paragraph",
+      "id": "247f5d632e7bf994",
+      "text": "Curiosity empowers our [[Creative Confidence]] by igniting the [[Flow]] within each one of us. It allows for us to creatively solve problems faster."
+    },
+    {
+      "type": "graphviz",
+      "id": "6d5c9ecf2fa32e7c",
+      "text": "DOT FROM preview-next-diagram"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Curiosity",
+        "story": []
+      },
+      "date": 1519597694458
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b0a843aaecac2de2"
+      },
+      "id": "b0a843aaecac2de2",
+      "type": "add",
+      "date": 1519597697361
+    },
+    {
+      "type": "edit",
+      "id": "b0a843aaecac2de2",
+      "item": {
+        "type": "paragraph",
+        "id": "b0a843aaecac2de2",
+        "text": "Recent research has identified that there is a direct correlation between curiosity and our ability more deeply know and remember, that is have [[Deeper Learning]]. "
+      },
+      "date": 1519597701782
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "88aedbc8ba38b9fe"
+      },
+      "id": "88aedbc8ba38b9fe",
+      "type": "add",
+      "after": "b0a843aaecac2de2",
+      "date": 1519597711732
+    },
+    {
+      "type": "edit",
+      "id": "88aedbc8ba38b9fe",
+      "item": {
+        "type": "paragraph",
+        "id": "88aedbc8ba38b9fe",
+        "text": "According to a study published in 2014, a state of curiosity releases dopamine, a neural transmitter that allows us to better retain information. "
+      },
+      "date": 1519597714534
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aa2083e6fedf6028"
+      },
+      "id": "aa2083e6fedf6028",
+      "type": "add",
+      "after": "88aedbc8ba38b9fe",
+      "date": 1519597722600
+    },
+    {
+      "type": "edit",
+      "id": "aa2083e6fedf6028",
+      "item": {
+        "type": "paragraph",
+        "id": "aa2083e6fedf6028",
+        "text": "According to the lead author, Dr. Matthias Gruber, of University of California at Davis, \"Curiosity may put the brain in a state that allows it to learn and retain any kind of information, like a vortex that sucks in what you are motivated to learn, and also everything around it.\" "
+      },
+      "date": 1519597731455
+    },
+    {
+      "type": "edit",
+      "id": "88aedbc8ba38b9fe",
+      "item": {
+        "type": "paragraph",
+        "id": "88aedbc8ba38b9fe",
+        "text": "According to a [https://www.eurekalert.org/pub_releases/2014-10/cp-hcc092514.php study] published in 2014, a state of curiosity releases dopamine, a neural transmitter that allows us to better retain information. "
+      },
+      "date": 1519597782642
+    },
+    {
+      "type": "edit",
+      "id": "aa2083e6fedf6028",
+      "item": {
+        "type": "paragraph",
+        "id": "aa2083e6fedf6028",
+        "text": "As the lead author, Dr. Matthias Gruber, of University of California at Davis, described it, \"Curiosity may put the brain in a state that allows it to learn and retain any kind of information, like a vortex that sucks in what you are motivated to learn, and also everything around it.\" "
+      },
+      "date": 1519597829787
+    },
+    {
+      "type": "edit",
+      "id": "b0a843aaecac2de2",
+      "item": {
+        "type": "paragraph",
+        "id": "b0a843aaecac2de2",
+        "text": "Recent research has identified that there is a direct correlation between curiosity and our ability more deeply know and remember, that is to have [[Deeper Learning]]. "
+      },
+      "date": 1519597861915
+    },
+    {
+      "type": "add",
+      "id": "ea6417b2cc90ea29",
+      "item": {
+        "type": "paragraph",
+        "id": "ea6417b2cc90ea29",
+        "text": "Related thoughts here: [[Curiosity and the Genius Hour]]"
+      },
+      "after": "aa2083e6fedf6028",
+      "date": 1535395323709
+    },
+    {
+      "type": "edit",
+      "id": "aa2083e6fedf6028",
+      "item": {
+        "type": "paragraph",
+        "id": "aa2083e6fedf6028",
+        "text": "As the lead author, Dr. Matthias Gruber, of University of California at Davis, described it:"
+      },
+      "date": 1537755427530
+    },
+    {
+      "type": "add",
+      "id": "65efed62eae42ef8",
+      "item": {
+        "type": "factory",
+        "id": "65efed62eae42ef8",
+        "text": "Curiosity may put the brain in a state that allows it to learn and retain any kind of information, like a vortex that sucks in what you are motivated to learn, and also everything around it."
+      },
+      "after": "aa2083e6fedf6028",
+      "date": 1537755435198
+    },
+    {
+      "type": "edit",
+      "id": "65efed62eae42ef8",
+      "item": {
+        "type": "markdown",
+        "id": "65efed62eae42ef8",
+        "text": ">Curiosity may put the brain in a state that allows it to learn and retain any kind of information, like a vortex that sucks in what you are motivated to learn, and also everything around it."
+      },
+      "date": 1537755444736
+    },
+    {
+      "type": "edit",
+      "id": "b0a843aaecac2de2",
+      "item": {
+        "type": "paragraph",
+        "id": "b0a843aaecac2de2",
+        "text": "Recent research has identified that there is a direct correlation between curiosity and our ability more deeply know and remember, that is to have [https://en.wikipedia.org/wiki/Deeper_learning Deeper Learning]. "
+      },
+      "date": 1538537023754
+    },
+    {
+      "type": "edit",
+      "id": "ea6417b2cc90ea29",
+      "item": {
+        "type": "paragraph",
+        "id": "ea6417b2cc90ea29",
+        "text": "More thoughts here: [[Curiosity and the Genius Hour]]"
+      },
+      "date": 1538537104574
+    },
+    {
+      "type": "edit",
+      "id": "ea6417b2cc90ea29",
+      "item": {
+        "type": "paragraph",
+        "id": "ea6417b2cc90ea29",
+        "text": "[[Curiosity and the Genius Hour]]"
+      },
+      "date": 1538537127821
+    },
+    {
+      "type": "edit",
+      "id": "88aedbc8ba38b9fe",
+      "item": {
+        "type": "paragraph",
+        "id": "88aedbc8ba38b9fe",
+        "text": "According to a [https://www.eurekalert.org/pub_releases/2014-10/cp-hcc092514.php study] published in 2014, a state of curiosity also releases dopamine, a neural transmitter that allows us to better retain information. "
+      },
+      "date": 1546104830806
+    },
+    {
+      "type": "add",
+      "id": "71b95aa771a936b1",
+      "item": {
+        "type": "paragraph",
+        "id": "71b95aa771a936b1",
+        "text": "Curiosity, then, is how we all learn, really learn. "
+      },
+      "after": "ea6417b2cc90ea29",
+      "date": 1546104864905
+    },
+    {
+      "type": "move",
+      "order": [
+        "b0a843aaecac2de2",
+        "88aedbc8ba38b9fe",
+        "aa2083e6fedf6028",
+        "65efed62eae42ef8",
+        "71b95aa771a936b1",
+        "ea6417b2cc90ea29"
+      ],
+      "id": "71b95aa771a936b1",
+      "date": 1546104867338
+    },
+    {
+      "type": "fork",
+      "site": "thompson.wiki.innovateoregon.org",
+      "date": 1552415256374
+    },
+    {
+      "type": "edit",
+      "id": "b0a843aaecac2de2",
+      "item": {
+        "type": "paragraph",
+        "id": "b0a843aaecac2de2",
+        "text": "Recent research has identified that there is a direct correlation between curiosity and our ability more deeply know and remember, that is to have [[Deeper Learning]]. "
+      },
+      "date": 1552508958024
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6d5c9ecf2fa32e7c"
+      },
+      "id": "6d5c9ecf2fa32e7c",
+      "type": "add",
+      "after": "ea6417b2cc90ea29",
+      "date": 1552508968401
+    },
+    {
+      "type": "edit",
+      "id": "6d5c9ecf2fa32e7c",
+      "item": {
+        "type": "graphviz",
+        "id": "6d5c9ecf2fa32e7c",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552508977460
+    },
+    {
+      "type": "edit",
+      "id": "6d5c9ecf2fa32e7c",
+      "item": {
+        "type": "graphviz",
+        "id": "6d5c9ecf2fa32e7c",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1552508985741
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "51359d5bcf6cfca2",
+        "text": "All meaningful learning begins with curiosity. When our is curiosity ignited, our minds are literally transformed, as neurotransmitters active key parts of our brain's analytical and memory areas. We are able to learn faster and retain better what we are learning. "
+      },
+      "id": "51359d5bcf6cfca2",
+      "date": 1553444670275
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "247f5d632e7bf994",
+        "text": "Curiosity ignites our [[Creative Courage]]."
+      },
+      "after": "71b95aa771a936b1",
+      "id": "247f5d632e7bf994",
+      "date": 1553444709953
+    },
+    {
+      "type": "remove",
+      "id": "71b95aa771a936b1",
+      "date": 1553444724897
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "51d73d9ceeb4f102",
+        "text": "Curiosity ignites [[The Flow]] within each one of us. Communally, it allows for us to creatively solve problems faster. "
+      },
+      "after": "51359d5bcf6cfca2",
+      "id": "51d73d9ceeb4f102",
+      "date": 1553444735287
+    },
+    {
+      "type": "move",
+      "order": [
+        "51359d5bcf6cfca2",
+        "b0a843aaecac2de2",
+        "88aedbc8ba38b9fe",
+        "aa2083e6fedf6028",
+        "65efed62eae42ef8",
+        "247f5d632e7bf994",
+        "51d73d9ceeb4f102",
+        "ea6417b2cc90ea29",
+        "6d5c9ecf2fa32e7c"
+      ],
+      "id": "51d73d9ceeb4f102",
+      "date": 1553444750542
+    },
+    {
+      "type": "remove",
+      "id": "51d73d9ceeb4f102",
+      "date": 1553444758770
+    },
+    {
+      "type": "edit",
+      "id": "247f5d632e7bf994",
+      "item": {
+        "type": "paragraph",
+        "id": "247f5d632e7bf994",
+        "text": "Curiosity ignites our [[Creative Courage]] and ignites [[The Flow]] within each one of us. It allows for us to creatively solve problems faster. "
+      },
+      "date": 1553444762160
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "b8b82dfcd449560a",
+        "text": "Turns out that there is. Back in 2014 [https://www.eurekalert.org/pub_releases/2014-10/cp-hcc092514.php a study was released] by a team from UC Davis:"
+      },
+      "after": "65efed62eae42ef8",
+      "id": "b8b82dfcd449560a",
+      "date": 1553444870198,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": "502 Bad Gateway\n"
+      }
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "9887ad00f834cea6",
+        "text": ">The study revealed three major findings. First, as expected, when people were highly curious to find out the answer to a question, they were better at learning that information. \n\n>More surprising, however, was that once their curiosity was aroused, they showed better learning of entirely unrelated information that they encountered but were not necessarily curious about. People were also better able to retain the information learned during a curious state across a 24-hour delay. \n\n>\"Curiosity may put the brain in a state that allows it to learn and retain any kind of information, like a vortex that sucks in what you are motivated to learn, and also everything around it,\" explains Dr. Gruber.\n"
+      },
+      "after": "b8b82dfcd449560a",
+      "id": "9887ad00f834cea6",
+      "date": 1553444874750
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "beb69c1af5767be7",
+        "text": "It turns out that when we are curious, a reward system is created in our minds by the release of neurotransmitter called [https://en.wikipedia.org/wiki/Dopamine dopamine]. With its release we feel more energized and joyful and that joy flows over to other areas of learning."
+      },
+      "after": "b8b82dfcd449560a",
+      "id": "beb69c1af5767be7",
+      "date": 1553444882340
+    },
+    {
+      "type": "edit",
+      "id": "beb69c1af5767be7",
+      "item": {
+        "type": "paragraph",
+        "id": "beb69c1af5767be7",
+        "text": ""
+      },
+      "date": 1553444892108
+    },
+    {
+      "type": "remove",
+      "id": "b8b82dfcd449560a",
+      "date": 1553444901188
+    },
+    {
+      "type": "move",
+      "order": [
+        "51359d5bcf6cfca2",
+        "b0a843aaecac2de2",
+        "88aedbc8ba38b9fe",
+        "aa2083e6fedf6028",
+        "beb69c1af5767be7",
+        "65efed62eae42ef8",
+        "9887ad00f834cea6",
+        "247f5d632e7bf994",
+        "ea6417b2cc90ea29",
+        "6d5c9ecf2fa32e7c"
+      ],
+      "id": "beb69c1af5767be7",
+      "date": 1553444905639
+    },
+    {
+      "type": "move",
+      "order": [
+        "51359d5bcf6cfca2",
+        "b0a843aaecac2de2",
+        "88aedbc8ba38b9fe",
+        "beb69c1af5767be7",
+        "aa2083e6fedf6028",
+        "65efed62eae42ef8",
+        "9887ad00f834cea6",
+        "247f5d632e7bf994",
+        "ea6417b2cc90ea29",
+        "6d5c9ecf2fa32e7c"
+      ],
+      "id": "beb69c1af5767be7",
+      "date": 1553444915771
+    },
+    {
+      "type": "move",
+      "order": [
+        "51359d5bcf6cfca2",
+        "b0a843aaecac2de2",
+        "88aedbc8ba38b9fe",
+        "beb69c1af5767be7",
+        "9887ad00f834cea6",
+        "aa2083e6fedf6028",
+        "65efed62eae42ef8",
+        "247f5d632e7bf994",
+        "ea6417b2cc90ea29",
+        "6d5c9ecf2fa32e7c"
+      ],
+      "id": "9887ad00f834cea6",
+      "date": 1553444925127
+    },
+    {
+      "type": "edit",
+      "id": "51359d5bcf6cfca2",
+      "item": {
+        "type": "paragraph",
+        "id": "51359d5bcf6cfca2",
+        "text": "[[Deep Learning]] begins with curiosity. When our curiosity is ignited, our minds are literally transformed, as neurotransmitters active key parts of our brain's analytical and memory areas. We are able to learn faster and retain better what we are learning. "
+      },
+      "date": 1553444980386
+    },
+    {
+      "type": "edit",
+      "id": "51359d5bcf6cfca2",
+      "item": {
+        "type": "paragraph",
+        "id": "51359d5bcf6cfca2",
+        "text": "[[Deep Learning]] begins with curiosity. When our curiosity is ignited, our minds are literally transformed, as neurotransmitters active key parts of our brain's analytical and memory areas. We are able to learn faster and retain better what we are learning. "
+      },
+      "date": 1553444998050
+    },
+    {
+      "type": "remove",
+      "id": "b0a843aaecac2de2",
+      "date": 1553445017782
+    },
+    {
+      "type": "remove",
+      "id": "beb69c1af5767be7",
+      "date": 1553445072875
+    },
+    {
+      "type": "edit",
+      "id": "88aedbc8ba38b9fe",
+      "item": {
+        "type": "paragraph",
+        "id": "88aedbc8ba38b9fe",
+        "text": "According to a [https://www.eurekalert.org/pub_releases/2014-10/cp-hcc092514.php study] published in 2014 by researchers at UC Davis, when we are curious, a reward system is created in our minds by the release of neurotransmitter called [https://en.wikipedia.org/wiki/Dopamine dopamine]. With its release we feel more energized and joyful and that joy flows over to other areas of learning."
+      },
+      "date": 1553445081945
+    },
+    {
+      "type": "edit",
+      "id": "88aedbc8ba38b9fe",
+      "item": {
+        "type": "paragraph",
+        "id": "88aedbc8ba38b9fe",
+        "text": "According to a [https://www.eurekalert.org/pub_releases/2014-10/cp-hcc092514.php study] published in 2014 by researchers at UC Davis, when we are curious, a reward system is created in our minds by the release of neurotransmitter called [https://en.wikipedia.org/wiki/Dopamine dopamine]. With its release we feel more energized and joyful and that joy flows over to other areas of learning."
+      },
+      "date": 1553445112682
+    },
+    {
+      "type": "edit",
+      "id": "88aedbc8ba38b9fe",
+      "item": {
+        "type": "paragraph",
+        "id": "88aedbc8ba38b9fe",
+        "text": "According to a [https://www.eurekalert.org/pub_releases/2014-10/cp-hcc092514.php study] published in 2014 by researchers at UC Davis, when we are curious, a reward system is created in our minds by the release of neurotransmitter called [https://en.wikipedia.org/wiki/Dopamine dopamine]. With its release we feel more energized and joyful and that joy flows over to other areas of learning."
+      },
+      "date": 1553445130761
+    },
+    {
+      "type": "edit",
+      "id": "247f5d632e7bf994",
+      "item": {
+        "type": "paragraph",
+        "id": "247f5d632e7bf994",
+        "text": "Curiosity ignites our [[Creative Courage]] and ignites [[The Flow]] within each one of us. It allows for us to creatively solve problems faster. "
+      },
+      "date": 1553445180563
+    },
+    {
+      "type": "fork",
+      "date": 1553445186309
+    },
+    {
+      "type": "edit",
+      "id": "88aedbc8ba38b9fe",
+      "item": {
+        "type": "paragraph",
+        "id": "88aedbc8ba38b9fe",
+        "text": "According to a [https://www.eurekalert.org/pub_releases/2014-10/cp-hcc092514.php study] by researchers at UC Davis, when we are curious, a reward system is created in our minds by the release of neurotransmitter called [https://en.wikipedia.org/wiki/Dopamine dopamine]. With its release we feel more energized and joyful and that joy flows over to other areas of learning."
+      },
+      "date": 1553445218596
+    },
+    {
+      "type": "edit",
+      "id": "247f5d632e7bf994",
+      "item": {
+        "type": "paragraph",
+        "id": "247f5d632e7bf994",
+        "text": "Curiosity empowers our [[Creative Courage]] by igniting [[The Flow]] within each one of us. It allows for us to creatively solve problems faster. "
+      },
+      "date": 1553445281524
+    },
+    {
+      "type": "remove",
+      "id": "ea6417b2cc90ea29",
+      "date": 1553445293825
+    },
+    {
+      "type": "edit",
+      "id": "247f5d632e7bf994",
+      "item": {
+        "type": "paragraph",
+        "id": "247f5d632e7bf994",
+        "text": "Curiosity empowers our [[Creative Courage]] by igniting [[The Flow]] within each one of us. It allows for us to creatively solve problems faster."
+      },
+      "date": 1553445294835
+    },
+    {
+      "type": "edit",
+      "id": "51359d5bcf6cfca2",
+      "item": {
+        "type": "paragraph",
+        "id": "51359d5bcf6cfca2",
+        "text": "[[Deeper Learning]] begins with curiosity. When our curiosity is ignited, our minds are literally transformed, as neurotransmitters active key parts of our brain's analytical and memory areas. We are able to learn faster and retain better what we are learning. "
+      },
+      "date": 1553445398345
+    },
+    {
+      "type": "edit",
+      "id": "51359d5bcf6cfca2",
+      "item": {
+        "type": "paragraph",
+        "id": "51359d5bcf6cfca2",
+        "text": "[[Deeper Learning]] begins with curiosity. When our curiosity is ignited, our minds are literally transformed, as neurotransmitters activate key parts of our brain's analytical and memory areas. We are able to learn faster and retain better what we are learning. "
+      },
+      "date": 1557174681845
+    },
+    {
+      "type": "edit",
+      "id": "247f5d632e7bf994",
+      "item": {
+        "type": "paragraph",
+        "id": "247f5d632e7bf994",
+        "text": "Curiosity empowers our [[Creative Courage]] by igniting the [[Flow]] within each one of us. It allows for us to creatively solve problems faster."
+      },
+      "date": 1562173347737
+    },
+    {
+      "type": "edit",
+      "id": "247f5d632e7bf994",
+      "item": {
+        "type": "paragraph",
+        "id": "247f5d632e7bf994",
+        "text": "Curiosity empowers our [[Creative Confidence]] by igniting the [[Flow]] within each one of us. It allows for us to creatively solve problems faster."
+      },
+      "date": 1562173371545
+    },
+    {
+      "type": "edit",
+      "id": "aa2083e6fedf6028",
+      "item": {
+        "type": "paragraph",
+        "id": "aa2083e6fedf6028",
+        "text": "As the lead author, Dr. Matthias Gruber, of the University of California at Davis, described it:"
+      },
+      "date": 1562173960952
+    },
+    {
+      "type": "fork",
+      "site": "dev2.wiki.innovateoregon.org",
+      "date": 1563357118580
+    }
+  ]
+}
