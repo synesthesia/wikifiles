@@ -1,0 +1,124 @@
+{
+  "title": "Innovation",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "a780785eefb5d667",
+      "text": ">The process of translating an idea or invention into a good or service that creates value or for which customers will pay.\n\n[http://www.businessdictionary.com/definition/innovation.html page]"
+    },
+    {
+      "type": "pagefold",
+      "id": "fb218ec5f4cffda8",
+      "text": "interesting innovation projects"
+    },
+    {
+      "id": "b3eab5ea019af938",
+      "type": "reference",
+      "site": "dev2.wiki.innovateoregon.org",
+      "slug": "innovate-oregon",
+      "title": "Innovate Oregon",
+      "text": "Innovate Oregon was launched in 2015 as the north star to align shared passions for a transformation vision, that of creating an inclusive, innovation economy in Oregon - one that could become a global model."
+    },
+    {
+      "type": "pagefold",
+      "id": "d0ce6d8880df1e26",
+      "text": "models of product adoption\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Innovation",
+        "story": []
+      },
+      "date": 1563375493081
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a780785eefb5d667"
+      },
+      "id": "a780785eefb5d667",
+      "type": "add",
+      "date": 1563375495360
+    },
+    {
+      "type": "edit",
+      "id": "a780785eefb5d667",
+      "item": {
+        "type": "markdown",
+        "id": "a780785eefb5d667",
+        "text": ">The process of translating an idea or invention into a good or service that creates value or for which customers will pay.\n\n[http://www.businessdictionary.com/definition/innovation.html page]"
+      },
+      "date": 1563375514176
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fb218ec5f4cffda8"
+      },
+      "id": "fb218ec5f4cffda8",
+      "type": "add",
+      "after": "a780785eefb5d667",
+      "date": 1563375617358
+    },
+    {
+      "type": "edit",
+      "id": "fb218ec5f4cffda8",
+      "item": {
+        "type": "pagefold",
+        "id": "fb218ec5f4cffda8",
+        "text": "interesting innovation projects"
+      },
+      "date": 1563375627868
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d0ce6d8880df1e26"
+      },
+      "id": "d0ce6d8880df1e26",
+      "type": "add",
+      "after": "fb218ec5f4cffda8",
+      "date": 1563375678554
+    },
+    {
+      "id": "b3eab5ea019af938",
+      "type": "add",
+      "item": {
+        "id": "b3eab5ea019af938",
+        "type": "reference",
+        "site": "dev2.wiki.innovateoregon.org",
+        "slug": "innovate-oregon",
+        "title": "Innovate Oregon",
+        "text": "We launched Innovate Oregon in 2015 as the north star to align shared passions for a transformation vision, that of creating an inclusive, innovation economy in Oregon - one that could become a global model."
+      },
+      "after": "fb218ec5f4cffda8",
+      "date": 1563375685036
+    },
+    {
+      "type": "edit",
+      "id": "d0ce6d8880df1e26",
+      "item": {
+        "type": "pagefold",
+        "id": "d0ce6d8880df1e26",
+        "text": "models of product adoption\n"
+      },
+      "date": 1563375717311
+    },
+    {
+      "type": "edit",
+      "id": "b3eab5ea019af938",
+      "item": {
+        "id": "b3eab5ea019af938",
+        "type": "reference",
+        "site": "dev2.wiki.innovateoregon.org",
+        "slug": "innovate-oregon",
+        "title": "Innovate Oregon",
+        "text": "Innovate Oregon was launched in 2015 as the north star to align shared passions for a transformation vision, that of creating an inclusive, innovation economy in Oregon - one that could become a global model."
+      },
+      "date": 1563375777369
+    }
+  ]
+}

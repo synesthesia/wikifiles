@@ -1,0 +1,39 @@
+{
+  "title": "Value Proposition Design ",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "bfc67cf7741c7863",
+      "text": "Value Proposition Design [https://www.strategyzer.com/books/value-proposition-design book]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Value Proposition Design ",
+        "story": []
+      },
+      "date": 1563376320519
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bfc67cf7741c7863"
+      },
+      "id": "bfc67cf7741c7863",
+      "type": "add",
+      "date": 1563376322099
+    },
+    {
+      "type": "edit",
+      "id": "bfc67cf7741c7863",
+      "item": {
+        "type": "markdown",
+        "id": "bfc67cf7741c7863",
+        "text": "Value Proposition Design [https://www.strategyzer.com/books/value-proposition-design book]"
+      },
+      "date": 1563376325939
+    }
+  ]
+}

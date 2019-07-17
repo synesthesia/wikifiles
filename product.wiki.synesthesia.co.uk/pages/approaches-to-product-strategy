@@ -1,0 +1,169 @@
+{
+  "title": "Approaches to Product Strategy",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "fabac08286ef5494",
+      "text": "The enquiry at hand is how successful organisations explore and exploit  [[Product Strategy]]."
+    },
+    {
+      "type": "markdown",
+      "id": "fa3de6b7d878f9c1",
+      "text": "Closely related to this are the theories and practice of [[Innovation]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "aea0297e17152689",
+      "text": "models of product strategy"
+    },
+    {
+      "type": "markdown",
+      "id": "e1c0c6990be25904",
+      "text": "[[Value Proposition Design ]]"
+    },
+    {
+      "type": "markdown",
+      "id": "ef6711d1ca025206",
+      "text": "[[Wardley Maps]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Approaches to Product Strategy",
+        "story": []
+      },
+      "date": 1563374809194
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fabac08286ef5494"
+      },
+      "id": "fabac08286ef5494",
+      "type": "add",
+      "date": 1563375139970
+    },
+    {
+      "type": "edit",
+      "id": "fabac08286ef5494",
+      "item": {
+        "type": "markdown",
+        "id": "fabac08286ef5494",
+        "text": "The enquiry at hand is how successful organisations explore [[Product Strategy]]."
+      },
+      "date": 1563375197626
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fa3de6b7d878f9c1"
+      },
+      "id": "fa3de6b7d878f9c1",
+      "type": "add",
+      "after": "fabac08286ef5494",
+      "date": 1563375220497
+    },
+    {
+      "type": "edit",
+      "id": "fa3de6b7d878f9c1",
+      "item": {
+        "type": "markdown",
+        "id": "fa3de6b7d878f9c1",
+        "text": "Closely related to this are the theories and practice of [[Innovation]]"
+      },
+      "date": 1563375241918
+    },
+    {
+      "type": "edit",
+      "id": "fabac08286ef5494",
+      "item": {
+        "type": "markdown",
+        "id": "fabac08286ef5494",
+        "text": "The enquiry at hand is how successful organisations explore and exploit  [[Product Strategy]]."
+      },
+      "date": 1563375565221
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aea0297e17152689"
+      },
+      "id": "aea0297e17152689",
+      "type": "add",
+      "after": "fa3de6b7d878f9c1",
+      "date": 1563376184600
+    },
+    {
+      "type": "edit",
+      "id": "aea0297e17152689",
+      "item": {
+        "type": "pagefold",
+        "id": "aea0297e17152689",
+        "text": "models of product strategy"
+      },
+      "date": 1563376204650
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e1c0c6990be25904"
+      },
+      "id": "e1c0c6990be25904",
+      "type": "add",
+      "after": "aea0297e17152689",
+      "date": 1563376244450
+    },
+    {
+      "type": "edit",
+      "id": "e1c0c6990be25904",
+      "item": {
+        "type": "markdown",
+        "id": "e1c0c6990be25904",
+        "text": "Value Proposition Design [https://www.strategyzer.com/books/value-proposition-design bookk]"
+      },
+      "date": 1563376281246
+    },
+    {
+      "type": "edit",
+      "id": "e1c0c6990be25904",
+      "item": {
+        "type": "markdown",
+        "id": "e1c0c6990be25904",
+        "text": "Value Proposition Design [https://www.strategyzer.com/books/value-proposition-design book]"
+      },
+      "date": 1563376285923
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ef6711d1ca025206"
+      },
+      "id": "ef6711d1ca025206",
+      "type": "add",
+      "after": "e1c0c6990be25904",
+      "date": 1563376288441
+    },
+    {
+      "type": "edit",
+      "id": "ef6711d1ca025206",
+      "item": {
+        "type": "markdown",
+        "id": "ef6711d1ca025206",
+        "text": "[[Wardley Maps]]"
+      },
+      "date": 1563376298603
+    },
+    {
+      "type": "edit",
+      "id": "e1c0c6990be25904",
+      "item": {
+        "type": "markdown",
+        "id": "e1c0c6990be25904",
+        "text": "[[Value Proposition Design ]]"
+      },
+      "date": 1563376315713
+    }
+  ]
+}

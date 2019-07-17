@@ -13,9 +13,16 @@
     },
     {
       "type": "paragraph",
-      "id": "05e2fa92643677ca",
-      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
-      "text": "[[Approaches to Product Strategy]]"
+      "id": "841998e21b947613",
+      "text": "[[Other FedWiki sites hosted by Julian Elve]]"
+    },
+    {
+      "type": "reference",
+      "id": "d6bcf163592cd499",
+      "site": "product.wiki.synesthesia.co.uk",
+      "slug": "approaches-to-product-strategy",
+      "title": "Approaches to Product Strategy",
+      "text": "The enquiry at hand is how successful organisations explore and exploit [[Product Strategy]]."
     },
     {
       "type": "paragraph",
@@ -30,7 +37,7 @@
     {
       "type": "roster",
       "id": "112d911ccca4ae39",
-      "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors"
+      "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors\n\nInnovate Oregon\n\ndev2.wiki.innovateoregon.org\n"
     }
   ],
   "journal": [
@@ -242,6 +249,115 @@
       },
       "after": "7b56f22a4b9ee974",
       "date": 1563373721217
+    },
+    {
+      "type": "edit",
+      "id": "112d911ccca4ae39",
+      "item": {
+        "type": "roster",
+        "id": "112d911ccca4ae39",
+        "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors\n\nInnovate Oregon\n\ndev2.wiki.innovateoregon.org\n"
+      },
+      "date": 1563374954363
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d6bcf163592cd499"
+      },
+      "id": "d6bcf163592cd499",
+      "type": "add",
+      "after": "112d911ccca4ae39",
+      "date": 1563375200847
+    },
+    {
+      "type": "edit",
+      "id": "d6bcf163592cd499",
+      "item": {
+        "type": "reference",
+        "id": "d6bcf163592cd499",
+        "site": "product.wiki.synesthesia.co.uk",
+        "slug": "approaches-to-product-strategy",
+        "title": "Approaches to Product Strategy",
+        "text": "The enquiry at hand is how successful organisations explore [[Product Strategy]]."
+      },
+      "date": 1563375207932
+    },
+    {
+      "id": "d6bcf163592cd499",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "dac66041ccc5e100",
+        "05e2fa92643677ca",
+        "d6bcf163592cd499",
+        "ee416d431ebf4fb4",
+        "b4c6cd3efab6b224",
+        "112d911ccca4ae39"
+      ],
+      "date": 1563375210749
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1563375214550
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "841998e21b947613"
+      },
+      "id": "841998e21b947613",
+      "type": "add",
+      "after": "112d911ccca4ae39",
+      "date": 1563375278443
+    },
+    {
+      "type": "edit",
+      "id": "841998e21b947613",
+      "item": {
+        "type": "paragraph",
+        "id": "841998e21b947613",
+        "text": "[[Other sites hosted by Julian Elve]]"
+      },
+      "date": 1563375294543
+    },
+    {
+      "id": "841998e21b947613",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "dac66041ccc5e100",
+        "841998e21b947613",
+        "d6bcf163592cd499",
+        "ee416d431ebf4fb4",
+        "b4c6cd3efab6b224",
+        "112d911ccca4ae39"
+      ],
+      "date": 1563375298691
+    },
+    {
+      "type": "edit",
+      "id": "841998e21b947613",
+      "item": {
+        "type": "paragraph",
+        "id": "841998e21b947613",
+        "text": "[[Other FedWiki sites hosted by Julian Elve]]"
+      },
+      "date": 1563375304463
+    },
+    {
+      "type": "edit",
+      "id": "d6bcf163592cd499",
+      "item": {
+        "type": "reference",
+        "id": "d6bcf163592cd499",
+        "site": "product.wiki.synesthesia.co.uk",
+        "slug": "approaches-to-product-strategy",
+        "title": "Approaches to Product Strategy",
+        "text": "The enquiry at hand is how successful organisations explore and exploit [[Product Strategy]]."
+      },
+      "date": 1563375558478
     }
   ]
 }

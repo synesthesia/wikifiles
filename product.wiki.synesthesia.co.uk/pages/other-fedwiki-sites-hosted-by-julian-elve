@@ -1,0 +1,134 @@
+{
+  "title": "Other FedWiki sites hosted by Julian Elve",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b5082aebf35cb96f",
+      "text": "[https://wiki.synesthesia.co.uk main wiki]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d7ce94712eb319a8",
+      "text": "[https://pkm.wiki.synesthesia.co.uk Personal Knowledge Management]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c781175691d24909",
+      "text": "[https://code.wiki.synesthesia.co.uk code notes]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3bfb2a9131c1ea87",
+      "text": "[https://forage.wiki.synesthesia.co.uk Finds & Notes]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Other FedWiki sites hosted by Julian Elve",
+        "story": []
+      },
+      "date": 1563375317192
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b5082aebf35cb96f"
+      },
+      "id": "b5082aebf35cb96f",
+      "type": "add",
+      "date": 1563375318516
+    },
+    {
+      "type": "edit",
+      "id": "b5082aebf35cb96f",
+      "item": {
+        "type": "paragraph",
+        "id": "b5082aebf35cb96f",
+        "text": "[https://wiki.synesthesia.co.uk main wiki]"
+      },
+      "date": 1563375332060
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d7ce94712eb319a8"
+      },
+      "id": "d7ce94712eb319a8",
+      "type": "add",
+      "after": "b5082aebf35cb96f",
+      "date": 1563375345175
+    },
+    {
+      "type": "edit",
+      "id": "d7ce94712eb319a8",
+      "item": {
+        "type": "paragraph",
+        "id": "d7ce94712eb319a8",
+        "text": "[https://pkm.synesthesia.co.uk Personal KNowledge Management]"
+      },
+      "date": 1563375364778
+    },
+    {
+      "type": "edit",
+      "id": "d7ce94712eb319a8",
+      "item": {
+        "type": "paragraph",
+        "id": "d7ce94712eb319a8",
+        "text": "[https://pkm.synesthesia.co.uk Personal Knowledge Management]"
+      },
+      "date": 1563375370590
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c781175691d24909"
+      },
+      "id": "c781175691d24909",
+      "type": "add",
+      "after": "d7ce94712eb319a8",
+      "date": 1563375371951
+    },
+    {
+      "type": "edit",
+      "id": "c781175691d24909",
+      "item": {
+        "type": "paragraph",
+        "id": "c781175691d24909",
+        "text": "[https://code.wiki.synesthesia.co.uk code notes]"
+      },
+      "date": 1563375393034
+    },
+    {
+      "type": "edit",
+      "id": "d7ce94712eb319a8",
+      "item": {
+        "type": "paragraph",
+        "id": "d7ce94712eb319a8",
+        "text": "[https://pkm.wiki.synesthesia.co.uk Personal Knowledge Management]"
+      },
+      "date": 1563375398869
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3bfb2a9131c1ea87"
+      },
+      "id": "3bfb2a9131c1ea87",
+      "type": "add",
+      "after": "c781175691d24909",
+      "date": 1563375414887
+    },
+    {
+      "type": "edit",
+      "id": "3bfb2a9131c1ea87",
+      "item": {
+        "type": "paragraph",
+        "id": "3bfb2a9131c1ea87",
+        "text": "[https://forage.wiki.synesthesia.co.uk Finds & Notes]"
+      },
+      "date": 1563375433620
+    }
+  ]
+}
