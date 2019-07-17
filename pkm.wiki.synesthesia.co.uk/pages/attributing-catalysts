@@ -9,7 +9,7 @@
     {
       "type": "markdown",
       "id": "59dc67b063b8707b",
-      "text": "The classic way to acknowledge these "
+      "text": "The classic way to acknowledge these nodes in the network is through [[Via Attribution]]"
     }
   ],
   "journal": [
@@ -59,6 +59,16 @@
         "text": "The classic way to acknowledge these "
       },
       "date": 1563348335812
+    },
+    {
+      "type": "edit",
+      "id": "59dc67b063b8707b",
+      "item": {
+        "type": "markdown",
+        "id": "59dc67b063b8707b",
+        "text": "The classic way to acknowledge these nodes in the network is through [[Via Attribution]]"
+      },
+      "date": 1563350057843
     }
   ]
 }

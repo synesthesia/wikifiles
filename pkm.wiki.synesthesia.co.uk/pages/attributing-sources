@@ -1,0 +1,109 @@
+{
+  "title": "Attributing Sources",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "8c42887c7603cfc5",
+      "text": "Where did this idea originate? Attribution of source is both good practice, but reinforces the network as it rewards the creators of information."
+    },
+    {
+      "type": "markdown",
+      "id": "18e52e60f13f0070",
+      "text": "Related to this, [[Claiming Authorship]] for our own work - [[Tell People What You Did]]"
+    },
+    {
+      "type": "markdown",
+      "id": "b1922a09f593a9ea",
+      "text": "Contrast in [[Federated Wiki]] credit goes [[Beyond Personal Attribution]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Attributing Sources",
+        "story": []
+      },
+      "date": 1563350560691
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8c42887c7603cfc5"
+      },
+      "id": "8c42887c7603cfc5",
+      "type": "add",
+      "date": 1563350562036
+    },
+    {
+      "type": "edit",
+      "id": "8c42887c7603cfc5",
+      "item": {
+        "type": "markdown",
+        "id": "8c42887c7603cfc5",
+        "text": "Where did this idea originate? Attribution of source is both good practice, but reinforces the network as it rewards the creators of information."
+      },
+      "date": 1563350652201
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "18e52e60f13f0070"
+      },
+      "id": "18e52e60f13f0070",
+      "type": "add",
+      "after": "8c42887c7603cfc5",
+      "date": 1563350665684
+    },
+    {
+      "type": "edit",
+      "id": "18e52e60f13f0070",
+      "item": {
+        "type": "markdown",
+        "id": "18e52e60f13f0070",
+        "text": "Related to this, [[Claiming Authorship]] for our own work"
+      },
+      "date": 1563350705522
+    },
+    {
+      "type": "edit",
+      "id": "18e52e60f13f0070",
+      "item": {
+        "type": "markdown",
+        "id": "18e52e60f13f0070",
+        "text": "Related to this, [[Claiming Authorship]] for our own work - [[Tell People What You Did]]"
+      },
+      "date": 1563350807659
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b1922a09f593a9ea"
+      },
+      "id": "b1922a09f593a9ea",
+      "type": "add",
+      "after": "18e52e60f13f0070",
+      "date": 1563350852402
+    },
+    {
+      "type": "edit",
+      "id": "b1922a09f593a9ea",
+      "item": {
+        "type": "markdown",
+        "id": "b1922a09f593a9ea",
+        "text": "Contrast in [{Federated Wiki]] credit goes [[Beyond Personal Attribution]]"
+      },
+      "date": 1563350883590
+    },
+    {
+      "type": "edit",
+      "id": "b1922a09f593a9ea",
+      "item": {
+        "type": "markdown",
+        "id": "b1922a09f593a9ea",
+        "text": "Contrast in [[Federated Wiki]] credit goes [[Beyond Personal Attribution]]"
+      },
+      "date": 1563350888929
+    }
+  ]
+}

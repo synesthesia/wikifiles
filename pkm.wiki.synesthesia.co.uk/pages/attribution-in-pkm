@@ -15,9 +15,12 @@
       "text": "In the face of the [[Information Torrent]], [[Knowledge Catalysts]]  / [[Curators]] play an essential role in [[Knowledge Network]]s"
     },
     {
-      "type": "paragraph",
-      "id": "29ced125e371d126",
-      "text": "[[Attributing Sources]]"
+      "type": "reference",
+      "id": "c7f00792538abf37",
+      "site": "pkm.wiki.synesthesia.co.uk",
+      "slug": "attributing-sources",
+      "title": "Attributing Sources",
+      "text": "Where did this idea originate? Attribution of source is both good practice, but reinforces the network as it rewards the creators of information."
     }
   ],
   "journal": [
@@ -142,6 +145,34 @@
       "type": "remove",
       "id": "61e247b99b2bb0ce",
       "date": 1563348299186
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c7f00792538abf37"
+      },
+      "id": "c7f00792538abf37",
+      "type": "add",
+      "after": "29ced125e371d126",
+      "date": 1563350653356
+    },
+    {
+      "type": "edit",
+      "id": "c7f00792538abf37",
+      "item": {
+        "type": "reference",
+        "id": "c7f00792538abf37",
+        "site": "pkm.wiki.synesthesia.co.uk",
+        "slug": "attributing-sources",
+        "title": "Attributing Sources",
+        "text": "Where did this idea originate? Attribution of source is both good practice, but reinforces the network as it rewards the creators of information."
+      },
+      "date": 1563350654606
+    },
+    {
+      "type": "remove",
+      "id": "29ced125e371d126",
+      "date": 1563350657905
     }
   ]
 }

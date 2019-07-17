@@ -1,0 +1,49 @@
+{
+  "title": "Claiming Authorship",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "0972f09877b106c6",
+      "text": "At a basic level, [[Tell People What You Did]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Claiming Authorship",
+        "story": []
+      },
+      "date": 1563350710485
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0972f09877b106c6"
+      },
+      "id": "0972f09877b106c6",
+      "type": "add",
+      "date": 1563350715274
+    },
+    {
+      "type": "edit",
+      "id": "0972f09877b106c6",
+      "item": {
+        "type": "markdown",
+        "id": "0972f09877b106c6",
+        "text": "At a basic level, [[Tell People What You did]]"
+      },
+      "date": 1563350731435
+    },
+    {
+      "type": "edit",
+      "id": "0972f09877b106c6",
+      "item": {
+        "type": "markdown",
+        "id": "0972f09877b106c6",
+        "text": "At a basic level, [[Tell People What You Did]]"
+      },
+      "date": 1563350768500
+    }
+  ]
+}

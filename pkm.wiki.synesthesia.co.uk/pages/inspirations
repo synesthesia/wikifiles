@@ -9,7 +9,7 @@
     {
       "type": "roster",
       "id": "42b5dfae7c6f3cbc",
-      "text": "Mike Caulfield\n\n(most of Mike's fedwikis seem to be down now except)\n\nhhol.mike.fed.wiki.org\n\n\n\n\nWard Cunningham\n\n\nROSTER ward.bay.wiki.org/welcome-visitors"
+      "text": "Mike Caulfield\n\n(most of Mike's fedwikis seem to be down now except)\n\nhhol.mike.fed.wiki.org\n\n\nWard Cunningham\n\n\nROSTER ward.bay.wiki.org/welcome-visitors\n\n\nJon Richter\n\njon.2019.federated.wiki\njon.2018.federated.wiki\njon.2017.federated.wiki"
     }
   ],
   "journal": [
@@ -158,6 +158,46 @@
       ],
       "id": "72ac91e56a111dd2",
       "date": 1522228931635
+    },
+    {
+      "type": "edit",
+      "id": "42b5dfae7c6f3cbc",
+      "item": {
+        "type": "roster",
+        "id": "42b5dfae7c6f3cbc",
+        "text": "Mike Caulfield\n\n(most of Mike's fedwikis seem to be down now except)\n\nhhol.mike.fed.wiki.org\n\n\nWard Cunningham\n\n\nROSTER ward.bay.wiki.org/welcome-visitors\n\nJon Udell\n\njon.2018.federated.wiki"
+      },
+      "date": 1563350997849
+    },
+    {
+      "type": "edit",
+      "id": "42b5dfae7c6f3cbc",
+      "item": {
+        "type": "roster",
+        "id": "42b5dfae7c6f3cbc",
+        "text": "Mike Caulfield\n\n(most of Mike's fedwikis seem to be down now except)\n\nhhol.mike.fed.wiki.org\n\n\nWard Cunningham\n\n\nROSTER ward.bay.wiki.org/welcome-visitors\n\n\nJon Richter\n\njon.2018.federated.wiki"
+      },
+      "date": 1563351179834
+    },
+    {
+      "type": "edit",
+      "id": "42b5dfae7c6f3cbc",
+      "item": {
+        "type": "roster",
+        "id": "42b5dfae7c6f3cbc",
+        "text": "Mike Caulfield\n\n(most of Mike's fedwikis seem to be down now except)\n\nhhol.mike.fed.wiki.org\n\n\nWard Cunningham\n\n\nROSTER ward.bay.wiki.org/welcome-visitors\n\n\nJon Richter\n\njon.2019.federated.wiki\njon.2018.federated.wiki"
+      },
+      "date": 1563351284160
+    },
+    {
+      "type": "edit",
+      "id": "42b5dfae7c6f3cbc",
+      "item": {
+        "type": "roster",
+        "id": "42b5dfae7c6f3cbc",
+        "text": "Mike Caulfield\n\n(most of Mike's fedwikis seem to be down now except)\n\nhhol.mike.fed.wiki.org\n\n\nWard Cunningham\n\n\nROSTER ward.bay.wiki.org/welcome-visitors\n\n\nJon Richter\n\njon.2019.federated.wiki\njon.2018.federated.wiki\njon.2017.federated.wiki"
+      },
+      "date": 1563351298840
     }
   ]
 }
