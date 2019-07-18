@@ -3,13 +3,13 @@
   "story": [
     {
       "type": "paragraph",
-      "id": "c3e41550f2b94423",
-      "text": "Applying a conscious process to the development of new, personally-applicable knowledge"
+      "id": "1296c1b075e76f7e",
+      "text": "I want to explore [[Federated Wiki]] as a tool for supporting PKM, especially Harold Jarche's [http://jarche.com/2014/02/the-seek-sense-share-framework/ Seek Sense Share Framework]"
     },
     {
       "type": "paragraph",
-      "id": "1296c1b075e76f7e",
-      "text": "I want to explore [[Federated Wiki]] as a tool for supporting PKM, especially Harold Jarche's [http://jarche.com/2014/02/the-seek-sense-share-framework/ Seek Sense Share Framework]"
+      "id": "c3e41550f2b94423",
+      "text": "Applying a conscious process to the development of new, personally-applicable knowledge"
     },
     {
       "type": "paragraph",
@@ -30,6 +30,11 @@
       "type": "paragraph",
       "id": "16b78d91a1ab74ba",
       "text": "[[Categorising  Things]]"
+    },
+    {
+      "type": "markdown",
+      "id": "22115c95cb352c59",
+      "text": "[[Connectivism]]"
     }
   ],
   "journal": [
@@ -189,6 +194,40 @@
       ],
       "id": "c3e41550f2b94423",
       "date": 1522228559685
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "22115c95cb352c59"
+      },
+      "id": "22115c95cb352c59",
+      "type": "add",
+      "after": "16b78d91a1ab74ba",
+      "date": 1563480745454
+    },
+    {
+      "id": "1296c1b075e76f7e",
+      "type": "move",
+      "order": [
+        "1296c1b075e76f7e",
+        "c3e41550f2b94423",
+        "7d8eeb736556f1f9",
+        "e32498b6c5b3d186",
+        "32885f18c4e42a3e",
+        "16b78d91a1ab74ba",
+        "22115c95cb352c59"
+      ],
+      "date": 1563480759958
+    },
+    {
+      "type": "edit",
+      "id": "22115c95cb352c59",
+      "item": {
+        "type": "markdown",
+        "id": "22115c95cb352c59",
+        "text": "[[Connectivism]]"
+      },
+      "date": 1563480779132
     }
   ]
 }

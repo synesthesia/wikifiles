@@ -1,0 +1,39 @@
+{
+  "title": "Connectivism",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "4adb9ee6c5e8d214",
+      "text": "— [ wikipedia]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Connectivism",
+        "story": []
+      },
+      "date": 1563480782141
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4adb9ee6c5e8d214"
+      },
+      "id": "4adb9ee6c5e8d214",
+      "type": "add",
+      "date": 1563480784004
+    },
+    {
+      "type": "edit",
+      "id": "4adb9ee6c5e8d214",
+      "item": {
+        "type": "markdown",
+        "id": "4adb9ee6c5e8d214",
+        "text": "— [ wikipedia]"
+      },
+      "date": 1563480819014
+    }
+  ]
+}
