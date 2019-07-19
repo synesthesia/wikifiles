@@ -1,0 +1,49 @@
+{
+  "title": "Knowledge",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1c920eecade36ba4",
+      "text": "For the purposes of [[Personal Knowledge Management]], Knowledge can be defined as \"actionable information\""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Knowledge",
+        "story": []
+      },
+      "date": 1563519460946
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1c920eecade36ba4"
+      },
+      "id": "1c920eecade36ba4",
+      "type": "add",
+      "date": 1563519462744
+    },
+    {
+      "type": "edit",
+      "id": "1c920eecade36ba4",
+      "item": {
+        "type": "paragraph",
+        "id": "1c920eecade36ba4",
+        "text": "For the purposes of [[Personal Knowledge Management]] can be defined as \"actionable information\""
+      },
+      "date": 1563519495878
+    },
+    {
+      "type": "edit",
+      "id": "1c920eecade36ba4",
+      "item": {
+        "type": "paragraph",
+        "id": "1c920eecade36ba4",
+        "text": "For the purposes of [[Personal Knowledge Management]], Knowledge can be defined as \"actionable information\""
+      },
+      "date": 1563519509033
+    }
+  ]
+}

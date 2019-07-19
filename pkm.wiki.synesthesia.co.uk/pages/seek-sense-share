@@ -4,7 +4,7 @@
     {
       "type": "markdown",
       "id": "86266fa548b03c71",
-      "text": ">Simple standards facilitated with\n>a light touch, enables knowledge\n>workers to capture, interpret, \n>and share their knowledge.\n\nHarold Jarche 2014 [http://jarche.com/2014/02/the-seek-sense-share-framework/ blogpost]"
+      "text": ">Simple standards facilitated with\n>a light touch, enables knowledge\n>workers to capture, interpret, \n>and share their knowledge.\n\nHarold Jarche 2014 [http://jarche.com/2014/02/the-seek-sense-share-framework/ blog]"
     },
     {
       "type": "paragraph",
@@ -111,6 +111,16 @@
       },
       "after": "d7f788a16329ab42",
       "date": 1522223472637
+    },
+    {
+      "type": "edit",
+      "id": "86266fa548b03c71",
+      "item": {
+        "type": "markdown",
+        "id": "86266fa548b03c71",
+        "text": ">Simple standards facilitated with\n>a light touch, enables knowledge\n>workers to capture, interpret, \n>and share their knowledge.\n\nHarold Jarche 2014 [http://jarche.com/2014/02/the-seek-sense-share-framework/ blog]"
+      },
+      "date": 1563520316433
     }
   ]
 }

@@ -4,12 +4,12 @@
     {
       "type": "paragraph",
       "id": "6fc1d6c22c853e16",
-      "text": "Ontology deals with questions concerning what entities exist or may be said to exist and how such entities may be grouped, related within a hierarchy, and subdivided according to similarities and differences. [https://en.wikipedia.org/wiki/Ontology wikipedia]"
+      "text": "[[Ontology]] deals with questions concerning what entities exist or may be said to exist and how such entities may be grouped, related within a hierarchy, and subdivided according to similarities and differences. [https://en.wikipedia.org/wiki/Ontology wikipedia]"
     },
     {
       "type": "paragraph",
       "id": "3ce756e0a9f4bc2f",
-      "text": "Stigmergy is a consensus social network mechanism of indirect coordination, through the environment, between agents or actions. The principle is that the trace left in the environment by an action stimulates the performance of a next action, by the same or a different agent. [https://en.wikipedia.org/wiki/Stigmergy wikipedia]"
+      "text": "[[Stigmergy]] is a consensus social network mechanism of indirect coordination, through the environment, between agents or actions. The principle is that the trace left in the environment by an action stimulates the performance of a next action, by the same or a different agent. [https://en.wikipedia.org/wiki/Stigmergy wikipedia]"
     }
   ],
   "journal": [
@@ -583,6 +583,26 @@
       "type": "remove",
       "id": "7f71e3b888c3d2bb",
       "date": 1522067159482
+    },
+    {
+      "type": "edit",
+      "id": "3ce756e0a9f4bc2f",
+      "item": {
+        "type": "paragraph",
+        "id": "3ce756e0a9f4bc2f",
+        "text": "[[Stigmergy]] is a consensus social network mechanism of indirect coordination, through the environment, between agents or actions. The principle is that the trace left in the environment by an action stimulates the performance of a next action, by the same or a different agent. [https://en.wikipedia.org/wiki/Stigmergy wikipedia]"
+      },
+      "date": 1563521224912
+    },
+    {
+      "type": "edit",
+      "id": "6fc1d6c22c853e16",
+      "item": {
+        "type": "paragraph",
+        "id": "6fc1d6c22c853e16",
+        "text": "[[Ontology]] deals with questions concerning what entities exist or may be said to exist and how such entities may be grouped, related within a hierarchy, and subdivided according to similarities and differences. [https://en.wikipedia.org/wiki/Ontology wikipedia]"
+      },
+      "date": 1563521230911
     }
   ]
 }

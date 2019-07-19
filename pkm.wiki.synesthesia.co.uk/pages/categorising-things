@@ -14,7 +14,7 @@
     {
       "type": "markdown",
       "id": "7cef90bb141c7a58",
-      "text": "The power of folksonomy"
+      "text": "The power of [[Folksonomy]]"
     },
     {
       "type": "paragraph",
@@ -257,6 +257,26 @@
         "text": "[[Ontology v. Stigmergy]]"
       },
       "date": 1522067178174
+    },
+    {
+      "type": "edit",
+      "id": "7cef90bb141c7a58",
+      "item": {
+        "type": "markdown",
+        "id": "7cef90bb141c7a58",
+        "text": "The power of [[folksonomy"
+      },
+      "date": 1563521256715
+    },
+    {
+      "type": "edit",
+      "id": "7cef90bb141c7a58",
+      "item": {
+        "type": "markdown",
+        "id": "7cef90bb141c7a58",
+        "text": "The power of [[Folksonomy]]"
+      },
+      "date": 1563521266804
     }
   ]
 }

@@ -7,6 +7,41 @@
       "text": "Applying a conscious set of processes to the acquisition, classification, development, repurposing and sharing of new, personally-applicable [[knowledge]]."
     },
     {
+      "type": "paragraph",
+      "id": "e5245c2df3cbfb6b",
+      "text": "A collection of processes used by an individual to find, store, reclassify, access, repurpose and share [[Knowledge]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1296c1b075e76f7e",
+      "text": "I want to explore [[Federated Wiki]] as a tool for supporting PKM, especially Harold Jarche's [http://jarche.com/2014/02/the-seek-sense-share-framework/ Seek Sense Share Framework]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7d8eeb736556f1f9",
+      "text": "Examples of [[Federated Wiki knowledge cycle]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e32498b6c5b3d186",
+      "text": "[[Using Federated Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "32885f18c4e42a3e",
+      "text": "[[Escaping StreamMode]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "16b78d91a1ab74ba",
+      "text": "[[Categorising  Things]]"
+    },
+    {
+      "type": "markdown",
+      "id": "22115c95cb352c59",
+      "text": "[[Connectivism]]"
+    },
+    {
       "type": "pagefold",
       "id": "14df08f61f6121d1",
       "text": "Grundspenkis 2007"
@@ -22,24 +57,9 @@
       "text": "--"
     },
     {
-      "type": "paragraph",
-      "id": "1296c1b075e76f7e",
-      "text": "One of the leading proponents of PKM is [[Harold Jarche]] through his [[Seek Sense Share]] framework."
-    },
-    {
-      "type": "paragraph",
-      "id": "909fff30f37a7b6c",
-      "text": "PKM as commonly discussed is intrinsically about the use of internet-enabled [[Tools for Personal Knowledge Management]], and is therefore an aspect of [[Connectivism]]. "
-    },
-    {
-      "type": "paragraph",
-      "id": "969038deff8c02df",
-      "text": "Different tools favour different modalities, called out by various writers as the difference between [[the Garden and the Stream]]."
-    },
-    {
-      "type": "paragraph",
-      "id": "16b78d91a1ab74ba",
-      "text": "A common challenge for all forms of knowledge management, including PKM, is how to go about [[Categorising Things]]"
+      "type": "markdown",
+      "id": "a6319c2c4073529f",
+      "text": "https://en.wikipedia.org/wiki/Personal_knowledge_management"
     }
   ],
   "journal": [
@@ -572,15 +592,6 @@
       "date": 1563519933565
     },
     {
-      "type": "fork",
-      "date": 1563520170769
-    },
-    {
-      "type": "remove",
-      "id": "a6319c2c4073529f",
-      "date": 1563520187897
-    },
-    {
       "id": "bb04da584ad511db",
       "type": "move",
       "order": [
@@ -592,257 +603,12 @@
         "32885f18c4e42a3e",
         "16b78d91a1ab74ba",
         "22115c95cb352c59",
-        "bb04da584ad511db",
-        "14df08f61f6121d1",
-        "5005303dcc9b399f"
-      ],
-      "date": 1563520190436
-    },
-    {
-      "id": "14df08f61f6121d1",
-      "type": "move",
-      "order": [
-        "c3e41550f2b94423",
-        "e5245c2df3cbfb6b",
-        "1296c1b075e76f7e",
-        "7d8eeb736556f1f9",
-        "e32498b6c5b3d186",
-        "32885f18c4e42a3e",
-        "16b78d91a1ab74ba",
-        "22115c95cb352c59",
-        "14df08f61f6121d1",
-        "bb04da584ad511db",
-        "5005303dcc9b399f"
-      ],
-      "date": 1563520195189
-    },
-    {
-      "type": "remove",
-      "id": "e5245c2df3cbfb6b",
-      "date": 1563520209943
-    },
-    {
-      "type": "edit",
-      "id": "1296c1b075e76f7e",
-      "item": {
-        "type": "paragraph",
-        "id": "1296c1b075e76f7e",
-        "text": "One of the leading proponents of PKM is [[Harold Jarche]][http://jarche.com/2014/02/the-seek-sense-share-framework/ Seek Sense Share Framework]"
-      },
-      "date": 1563520280439
-    },
-    {
-      "type": "edit",
-      "id": "1296c1b075e76f7e",
-      "item": {
-        "type": "paragraph",
-        "id": "1296c1b075e76f7e",
-        "text": "One of the leading proponents of PKM is [[Harold Jarche]] through his [[Seek Sense Share]] framework."
-      },
-      "date": 1563520304395
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "909fff30f37a7b6c"
-      },
-      "id": "909fff30f37a7b6c",
-      "type": "add",
-      "after": "5005303dcc9b399f",
-      "date": 1563520397272
-    },
-    {
-      "type": "edit",
-      "id": "909fff30f37a7b6c",
-      "item": {
-        "type": "paragraph",
-        "id": "909fff30f37a7b6c",
-        "text": "PKM as commonly discussed is intrinsically about the use of internet-enabled tools, and is therefore a "
-      },
-      "date": 1563520451103
-    },
-    {
-      "type": "edit",
-      "id": "909fff30f37a7b6c",
-      "item": {
-        "type": "paragraph",
-        "id": "909fff30f37a7b6c",
-        "text": "PKM as commonly discussed is intrinsically about the use of internet-enabled tools, and is therefore an aspect of [[Conenctivism]]"
-      },
-      "date": 1563520472097
-    },
-    {
-      "type": "edit",
-      "id": "909fff30f37a7b6c",
-      "item": {
-        "type": "paragraph",
-        "id": "909fff30f37a7b6c",
-        "text": "PKM as commonly discussed is intrinsically about the use of internet-enabled tools, and is therefore an aspect of [[Connectivism]]"
-      },
-      "date": 1563520479594
-    },
-    {
-      "id": "909fff30f37a7b6c",
-      "type": "move",
-      "order": [
-        "c3e41550f2b94423",
-        "1296c1b075e76f7e",
-        "909fff30f37a7b6c",
-        "7d8eeb736556f1f9",
-        "e32498b6c5b3d186",
-        "32885f18c4e42a3e",
-        "16b78d91a1ab74ba",
-        "22115c95cb352c59",
-        "14df08f61f6121d1",
-        "bb04da584ad511db",
-        "5005303dcc9b399f"
-      ],
-      "date": 1563520485646
-    },
-    {
-      "id": "14df08f61f6121d1",
-      "type": "move",
-      "order": [
-        "c3e41550f2b94423",
-        "14df08f61f6121d1",
-        "1296c1b075e76f7e",
-        "909fff30f37a7b6c",
-        "7d8eeb736556f1f9",
-        "e32498b6c5b3d186",
-        "32885f18c4e42a3e",
-        "16b78d91a1ab74ba",
-        "22115c95cb352c59",
-        "bb04da584ad511db",
-        "5005303dcc9b399f"
-      ],
-      "date": 1563520494158
-    },
-    {
-      "id": "bb04da584ad511db",
-      "type": "move",
-      "order": [
-        "c3e41550f2b94423",
-        "14df08f61f6121d1",
-        "bb04da584ad511db",
-        "1296c1b075e76f7e",
-        "909fff30f37a7b6c",
-        "7d8eeb736556f1f9",
-        "e32498b6c5b3d186",
-        "32885f18c4e42a3e",
-        "16b78d91a1ab74ba",
-        "22115c95cb352c59",
-        "5005303dcc9b399f"
-      ],
-      "date": 1563520497011
-    },
-    {
-      "id": "5005303dcc9b399f",
-      "type": "move",
-      "order": [
-        "c3e41550f2b94423",
         "14df08f61f6121d1",
         "bb04da584ad511db",
         "5005303dcc9b399f",
-        "1296c1b075e76f7e",
-        "909fff30f37a7b6c",
-        "7d8eeb736556f1f9",
-        "e32498b6c5b3d186",
-        "32885f18c4e42a3e",
-        "16b78d91a1ab74ba",
-        "22115c95cb352c59"
+        "a6319c2c4073529f"
       ],
-      "date": 1563520500658
-    },
-    {
-      "type": "edit",
-      "id": "909fff30f37a7b6c",
-      "item": {
-        "type": "paragraph",
-        "id": "909fff30f37a7b6c",
-        "text": "PKM as commonly discussed is intrinsically about the use of internet-enabled [[Tools for Personal Knowledge Management]], and is therefore an aspect of [[Connectivism]]. "
-      },
-      "date": 1563520652204
-    },
-    {
-      "id": "7d8eeb736556f1f9",
-      "type": "remove",
-      "date": 1563520668868
-    },
-    {
-      "id": "e32498b6c5b3d186",
-      "type": "remove",
-      "date": 1563520671559
-    },
-    {
-      "type": "remove",
-      "id": "22115c95cb352c59",
-      "date": 1563520679458
-    },
-    {
-      "type": "add",
-      "id": "969038deff8c02df",
-      "item": {
-        "type": "paragraph",
-        "id": "969038deff8c02df",
-        "text": "Different tools favour different modalities, called out by various writers as the difference "
-      },
-      "after": "909fff30f37a7b6c",
-      "date": 1563520954363
-    },
-    {
-      "type": "edit",
-      "id": "969038deff8c02df",
-      "item": {
-        "type": "paragraph",
-        "id": "969038deff8c02df",
-        "text": "Different tools favour different modalities, called out by various writers as the difference between [[the Garden and the Stream]]"
-      },
-      "date": 1563520973709
-    },
-    {
-      "type": "remove",
-      "id": "32885f18c4e42a3e",
-      "date": 1563521009572
-    },
-    {
-      "type": "edit",
-      "id": "969038deff8c02df",
-      "item": {
-        "type": "paragraph",
-        "id": "969038deff8c02df",
-        "text": "Different tools favour different modalities, called out by various writers as the difference between [[the Garden and the Stream]]."
-      },
-      "date": 1563521032453
-    },
-    {
-      "type": "edit",
-      "id": "16b78d91a1ab74ba",
-      "item": {
-        "type": "paragraph",
-        "id": "16b78d91a1ab74ba",
-        "text": "A common challenge for all forms of knowledge management, including PKM, is how to go about [[Categorising Things]]"
-      },
-      "date": 1563521124842
-    },
-    {
-      "type": "edit",
-      "id": "16b78d91a1ab74ba",
-      "item": {
-        "type": "paragraph",
-        "id": "16b78d91a1ab74ba",
-        "text": "A common challenge for all forms of knowledge management, including PKM, is how to go about [[Categorising  Things]]"
-      },
-      "date": 1563521138680
-    },
-    {
-      "type": "edit",
-      "id": "16b78d91a1ab74ba",
-      "item": {
-        "type": "paragraph",
-        "id": "16b78d91a1ab74ba",
-        "text": "A common challenge for all forms of knowledge management, including PKM, is how to go about [[Categorising Things]]"
-      },
-      "date": 1563521192291
+      "date": 1563519951290
     }
   ]
 }

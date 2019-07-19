@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "f0177fdf76e50ab8",
-      "text": "This site serves to pull together ideas about [[Personal Knowledge Management]]"
+      "text": "This site serves to pull together ideas about [[Personal Knowledge Management]] (PKM)"
     },
     {
       "type": "html",
@@ -1265,6 +1265,16 @@
       "type": "remove",
       "id": "d1cce29f23e280b0",
       "date": 1563347824445
+    },
+    {
+      "type": "edit",
+      "id": "f0177fdf76e50ab8",
+      "item": {
+        "type": "paragraph",
+        "id": "f0177fdf76e50ab8",
+        "text": "This site serves to pull together ideas about [[Personal Knowledge Management]] (PKM)"
+      },
+      "date": 1563519285170
     }
   ]
 }

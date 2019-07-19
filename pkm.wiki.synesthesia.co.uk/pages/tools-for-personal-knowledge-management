@@ -1,0 +1,46 @@
+{
+  "title": "Tools for Personal Knowledge Management",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7d8eeb736556f1f9",
+      "text": "Examples of [[Federated Wiki knowledge cycle]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e32498b6c5b3d186",
+      "text": "[[Using Federated Wiki]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Tools for Personal Knowledge Management",
+        "story": []
+      },
+      "date": 1563520655520
+    },
+    {
+      "id": "7d8eeb736556f1f9",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "7d8eeb736556f1f9",
+        "text": "Examples of [[Federated Wiki knowledge cycle]]"
+      },
+      "date": 1563520668872
+    },
+    {
+      "id": "e32498b6c5b3d186",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e32498b6c5b3d186",
+        "text": "[[Using Federated Wiki]]"
+      },
+      "after": "7d8eeb736556f1f9",
+      "date": 1563520671562
+    }
+  ]
+}
