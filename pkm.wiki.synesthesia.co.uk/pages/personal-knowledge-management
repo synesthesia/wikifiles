@@ -29,12 +29,17 @@
     {
       "type": "paragraph",
       "id": "909fff30f37a7b6c",
-      "text": "PKM as commonly discussed is intrinsically about the use of internet-enabled [[Tools for Personal Knowledge Management]], and is therefore an aspect of [[Connectivism]]. "
+      "text": "PKM as commonly discussed is intrinsically about the use of internet-enabled [[Tools for Personal Knowledge Management]], and the connection of ideas from different sources, so is therefore an aspect of [[Connectivism]]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "9e98c8c6b4a4a72d",
+      "text": "Many practitioners draw from multiple sources and disciplines, so PKM is also often an example of [[Integrative Learning]]. "
     },
     {
       "type": "paragraph",
       "id": "969038deff8c02df",
-      "text": "Different tools favour different modalities, called out by various writers as the difference between [[the Garden and the Stream]]."
+      "text": "Different tools favour different modalities, called out by various writers as the difference between \"[[Garden]]\" (aka [[State Mode]]) and \"[[Stream]]\" (aka [[Stream Mode]])."
     },
     {
       "type": "paragraph",
@@ -843,6 +848,107 @@
         "text": "A common challenge for all forms of knowledge management, including PKM, is how to go about [[Categorising Things]]"
       },
       "date": 1563521192291
+    },
+    {
+      "type": "edit",
+      "id": "969038deff8c02df",
+      "item": {
+        "type": "paragraph",
+        "id": "969038deff8c02df",
+        "text": "Different tools favour different modalities, called out by various writers as the difference between [[Garden]] and the [[Stream]]."
+      },
+      "date": 1563521759519
+    },
+    {
+      "type": "edit",
+      "id": "969038deff8c02df",
+      "item": {
+        "type": "paragraph",
+        "id": "969038deff8c02df",
+        "text": "Different tools favour different modalities, called out by various writers as the difference between [[Garden]] and the [[Stream]] / [[Stream Mode]]."
+      },
+      "date": 1563521874911
+    },
+    {
+      "type": "edit",
+      "id": "969038deff8c02df",
+      "item": {
+        "type": "paragraph",
+        "id": "969038deff8c02df",
+        "text": "Different tools favour different modalities, called out by various writers as the difference between [[Garden]] (aka [[State Mode]]) and the [[Stream]] (aka [[Stream Mode]])."
+      },
+      "date": 1563521937092
+    },
+    {
+      "type": "edit",
+      "id": "909fff30f37a7b6c",
+      "item": {
+        "type": "paragraph",
+        "id": "909fff30f37a7b6c",
+        "text": "PKM as commonly discussed is intrinsically about the use of internet-enabled [[Tools for Personal Knowledge Management]], and is therefore an aspect of [[Connectivism]] and an example of [[Integrative Learning]]. "
+      },
+      "date": 1563523803491
+    },
+    {
+      "type": "edit",
+      "id": "909fff30f37a7b6c",
+      "item": {
+        "type": "paragraph",
+        "id": "909fff30f37a7b6c",
+        "text": "PKM as commonly discussed is intrinsically about the use of internet-enabled [[Tools for Personal Knowledge Management]], and is therefore both an aspect of [[Connectivism]] and an example of [[Integrative Learning]]. "
+      },
+      "date": 1563524015948
+    },
+    {
+      "type": "edit",
+      "id": "909fff30f37a7b6c",
+      "item": {
+        "type": "paragraph",
+        "id": "909fff30f37a7b6c",
+        "text": "PKM as commonly discussed is intrinsically about the use of internet-enabled [[Tools for Personal Knowledge Management]], and is therefore an aspect of [[Connectivism]]. "
+      },
+      "date": 1563524070427
+    },
+    {
+      "type": "add",
+      "id": "9e98c8c6b4a4a72d",
+      "item": {
+        "type": "paragraph",
+        "id": "9e98c8c6b4a4a72d",
+        "text": "Many practitioners draw from multiple sources and disciplines, so PKM is also often an example of [[Integrative Learning]]. "
+      },
+      "after": "909fff30f37a7b6c",
+      "date": 1563524071641
+    },
+    {
+      "type": "edit",
+      "id": "969038deff8c02df",
+      "item": {
+        "type": "paragraph",
+        "id": "969038deff8c02df",
+        "text": "Different tools favour different modalities, called out by various writers as the difference between \"[[Garden]]\" (aka [[State Mode]]) and \"[[Stream]]\" (aka [[Stream Mode]])."
+      },
+      "date": 1563524112939
+    },
+    {
+      "type": "edit",
+      "id": "909fff30f37a7b6c",
+      "item": {
+        "type": "paragraph",
+        "id": "909fff30f37a7b6c",
+        "text": "PKM as commonly discussed is intrinsically about the use of internet-enabled [[Tools for Personal Knowledge Management]], and the connection of ideas from different sources, is therefore an aspect of [[Connectivism]]. "
+      },
+      "date": 1563524426665
+    },
+    {
+      "type": "edit",
+      "id": "909fff30f37a7b6c",
+      "item": {
+        "type": "paragraph",
+        "id": "909fff30f37a7b6c",
+        "text": "PKM as commonly discussed is intrinsically about the use of internet-enabled [[Tools for Personal Knowledge Management]], and the connection of ideas from different sources, so is therefore an aspect of [[Connectivism]]. "
+      },
+      "date": 1563524443429
     }
   ]
 }

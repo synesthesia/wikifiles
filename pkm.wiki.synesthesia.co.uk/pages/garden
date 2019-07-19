@@ -1,0 +1,119 @@
+{
+  "title": "Garden",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5d7756e8f3b21bcb",
+      "text": "<< find other uses of Garden metaphor >>"
+    },
+    {
+      "type": "paragraph",
+      "id": "0527fa38e5731a2e",
+      "text": "see [[State Mode]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "bf2ec014361c861a",
+      "text": "[[Frank McPherson]] has contrasted [[The Garden and the Stream]] to surface his internal reaction to [[Stream Mode]] and [[State Mode]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Garden",
+        "story": []
+      },
+      "date": 1563522974627
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5d7756e8f3b21bcb"
+      },
+      "id": "5d7756e8f3b21bcb",
+      "type": "add",
+      "date": 1563522979610
+    },
+    {
+      "type": "edit",
+      "id": "5d7756e8f3b21bcb",
+      "item": {
+        "type": "paragraph",
+        "id": "5d7756e8f3b21bcb",
+        "text": "<< find other uses of Garden metaphor >>"
+      },
+      "date": 1563522995230
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0527fa38e5731a2e"
+      },
+      "id": "0527fa38e5731a2e",
+      "type": "add",
+      "after": "5d7756e8f3b21bcb",
+      "date": 1563522997119
+    },
+    {
+      "type": "edit",
+      "id": "0527fa38e5731a2e",
+      "item": {
+        "type": "paragraph",
+        "id": "0527fa38e5731a2e",
+        "text": "see [[State Mode]]"
+      },
+      "date": 1563523003790
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bf2ec014361c861a"
+      },
+      "id": "bf2ec014361c861a",
+      "type": "add",
+      "after": "0527fa38e5731a2e",
+      "date": 1563523030971
+    },
+    {
+      "type": "edit",
+      "id": "bf2ec014361c861a",
+      "item": {
+        "type": "paragraph",
+        "id": "bf2ec014361c861a",
+        "text": "[[Frank McPherson]] has contrasted [[The g"
+      },
+      "date": 1563523065325
+    },
+    {
+      "type": "edit",
+      "id": "bf2ec014361c861a",
+      "item": {
+        "type": "paragraph",
+        "id": "bf2ec014361c861a",
+        "text": "[[Frank McPherson]] has contrasted [[The Garden and the Stream]] to surface his internal reaction to [[Stream mOde]] and [{State Mode]]"
+      },
+      "date": 1563523122519
+    },
+    {
+      "type": "edit",
+      "id": "bf2ec014361c861a",
+      "item": {
+        "type": "paragraph",
+        "id": "bf2ec014361c861a",
+        "text": "[[Frank McPherson]] has contrasted [[The Garden and the Stream]] to surface his internal reaction to [[Stream mOde]] and [[State Mode]]"
+      },
+      "date": 1563523130999
+    },
+    {
+      "type": "edit",
+      "id": "bf2ec014361c861a",
+      "item": {
+        "type": "paragraph",
+        "id": "bf2ec014361c861a",
+        "text": "[[Frank McPherson]] has contrasted [[The Garden and the Stream]] to surface his internal reaction to [[Stream Mode]] and [[State Mode]]"
+      },
+      "date": 1563523140151
+    }
+  ]
+}

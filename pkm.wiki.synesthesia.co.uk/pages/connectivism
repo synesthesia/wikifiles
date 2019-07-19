@@ -4,7 +4,12 @@
     {
       "type": "markdown",
       "id": "4adb9ee6c5e8d214",
-      "text": "— [ wikipedia]"
+      "text": "<< expand this>>\n"
+    },
+    {
+      "type": "markdown",
+      "id": "01a81a899a042e60",
+      "text": "Collecting links in [https://www.diigo.com/user/synesthesia?query=%23connectivism diigo]"
     }
   ],
   "journal": [
@@ -34,6 +39,37 @@
         "text": "— [ wikipedia]"
       },
       "date": 1563480819014
+    },
+    {
+      "type": "edit",
+      "id": "4adb9ee6c5e8d214",
+      "item": {
+        "type": "markdown",
+        "id": "4adb9ee6c5e8d214",
+        "text": "<< expand this>>"
+      },
+      "date": 1563524380354
+    },
+    {
+      "type": "edit",
+      "id": "4adb9ee6c5e8d214",
+      "item": {
+        "type": "markdown",
+        "id": "4adb9ee6c5e8d214",
+        "text": "<< expand this>>\n"
+      },
+      "date": 1563525099831
+    },
+    {
+      "type": "add",
+      "id": "01a81a899a042e60",
+      "item": {
+        "type": "markdown",
+        "id": "01a81a899a042e60",
+        "text": "Collecting links in [https://www.diigo.com/user/synesthesia?query=%23connectivism diigo]"
+      },
+      "after": "4adb9ee6c5e8d214",
+      "date": 1563525116046
     }
   ]
 }

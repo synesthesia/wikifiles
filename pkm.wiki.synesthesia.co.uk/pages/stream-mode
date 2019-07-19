@@ -14,7 +14,12 @@
     {
       "type": "markdown",
       "id": "2c6397e550e82c62",
-      "text": "cf [[StateMode]]"
+      "text": "cf [[State Mode]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "071d2c86e4993085",
+      "text": "[[Frank McPherson]] has contrasted [[The Garden and the Stream]] to surface his internal reaction to [[Stream Mode]] and [[State Mode]]"
     }
   ],
   "journal": [
@@ -188,6 +193,36 @@
         "text": "cf [[StateMode]]"
       },
       "date": 1455176995976
+    },
+    {
+      "type": "edit",
+      "id": "2c6397e550e82c62",
+      "item": {
+        "type": "markdown",
+        "id": "2c6397e550e82c62",
+        "text": "cf [[State Mode]]"
+      },
+      "date": 1563522078617
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "071d2c86e4993085"
+      },
+      "id": "071d2c86e4993085",
+      "type": "add",
+      "after": "2c6397e550e82c62",
+      "date": 1563523159102
+    },
+    {
+      "type": "edit",
+      "id": "071d2c86e4993085",
+      "item": {
+        "type": "paragraph",
+        "id": "071d2c86e4993085",
+        "text": "[[Frank McPherson]] has contrasted [[The Garden and the Stream]] to surface his internal reaction to [[Stream Mode]] and [[State Mode]]"
+      },
+      "date": 1563523164283
     }
   ]
 }

@@ -46,10 +46,6 @@
       "type": "markdown",
       "id": "b8d81c060d223a68",
       "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!*"
-    },
-    {
-      "type": "factory",
-      "id": "c1168d143b9dccf2"
     }
   ],
   "journal": [
@@ -567,6 +563,11 @@
       "type": "add",
       "after": "b8d81c060d223a68",
       "date": 1538751816502
+    },
+    {
+      "type": "remove",
+      "id": "c1168d143b9dccf2",
+      "date": 1563522200964
     }
   ]
 }

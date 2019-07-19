@@ -8,31 +8,6 @@
     },
     {
       "type": "html",
-      "id": "5bfa322e150bcc02",
-      "text": "<h4>Approaches</h4>"
-    },
-    {
-      "type": "paragraph",
-      "id": "3b8007e0b419e558",
-      "text": "[[Seek Sense Share]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "8c8c02d9c97b7aac",
-      "text": "Understanding [[Roles in PKM]]"
-    },
-    {
-      "type": "markdown",
-      "id": "0a7fc31d5b812eff",
-      "text": "[[The Garden and the Stream]]"
-    },
-    {
-      "type": "markdown",
-      "id": "ca68053d22785b23",
-      "text": "[[Using Federated Wiki for PKM]]"
-    },
-    {
-      "type": "html",
       "id": "f910a7b287be78e3",
       "text": "<h4>Explorations</h4>\n\n\n\n\n\n"
     },
@@ -50,6 +25,11 @@
       "text": "[[Barriers to Effective PKM]]"
     },
     {
+      "type": "paragraph",
+      "id": "8c8c02d9c97b7aac",
+      "text": "Understanding [[Roles in PKM]]"
+    },
+    {
       "type": "markdown",
       "id": "19750f7866ed4bc0",
       "text": "#### Other people"
@@ -63,14 +43,6 @@
       "type": "paragraph",
       "id": "b2d06700b1ceb755",
       "text": "[[Fedwiki: The Big Picture]]"
-    },
-    {
-      "type": "reference",
-      "id": "bb529c10c542e1d8",
-      "site": "about.fed.wiki",
-      "slug": "about-federated-wiki",
-      "title": "About Federated Wiki",
-      "text": "We remain excited about this platform and have become increasingly confident that it embodies important new ideas. We will explain."
     },
     {
       "type": "markdown",
@@ -91,6 +63,14 @@
       "type": "paragraph",
       "id": "d82343789c3e5127",
       "text": "[[Federated Wiki Design Principles]]"
+    },
+    {
+      "type": "reference",
+      "id": "bb529c10c542e1d8",
+      "site": "about.fed.wiki",
+      "slug": "about-federated-wiki",
+      "title": "About Federated Wiki",
+      "text": "We remain excited about this platform and have become increasingly confident that it embodies important new ideas. We will explain."
     }
   ],
   "journal": [
@@ -1275,6 +1255,67 @@
         "text": "This site serves to pull together ideas about [[Personal Knowledge Management]] (PKM)"
       },
       "date": 1563519285170
+    },
+    {
+      "type": "remove",
+      "id": "3b8007e0b419e558",
+      "date": 1563523194072
+    },
+    {
+      "type": "remove",
+      "id": "0a7fc31d5b812eff",
+      "date": 1563523198765
+    },
+    {
+      "type": "remove",
+      "id": "ca68053d22785b23",
+      "date": 1563523202563
+    },
+    {
+      "id": "8c8c02d9c97b7aac",
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "5bfa322e150bcc02",
+        "f910a7b287be78e3",
+        "0488509b4da7a5a9",
+        "996c1ba6f19b2394",
+        "8c8c02d9c97b7aac",
+        "19750f7866ed4bc0",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "bb529c10c542e1d8",
+        "effcf15a08723ec0",
+        "a3bc6c94042c3a43",
+        "86f65943f11bda8a",
+        "d82343789c3e5127"
+      ],
+      "date": 1563523206015
+    },
+    {
+      "type": "remove",
+      "id": "5bfa322e150bcc02",
+      "date": 1563523210938
+    },
+    {
+      "id": "bb529c10c542e1d8",
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "f910a7b287be78e3",
+        "0488509b4da7a5a9",
+        "996c1ba6f19b2394",
+        "8c8c02d9c97b7aac",
+        "19750f7866ed4bc0",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "effcf15a08723ec0",
+        "a3bc6c94042c3a43",
+        "86f65943f11bda8a",
+        "d82343789c3e5127",
+        "bb529c10c542e1d8"
+      ],
+      "date": 1563523682568
     }
   ]
 }

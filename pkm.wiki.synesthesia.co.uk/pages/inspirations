@@ -9,7 +9,7 @@
     {
       "type": "roster",
       "id": "42b5dfae7c6f3cbc",
-      "text": "Mike Caulfield\n\n(most of Mike's fedwikis seem to be down now except)\n\nhhol.mike.fed.wiki.org\n\n\nWard Cunningham\n\n\nROSTER ward.bay.wiki.org/welcome-visitors\n\n\nJon Richter\n\njon.2019.federated.wiki\njon.2018.federated.wiki\njon.2017.federated.wiki"
+      "text": "Mike Caulfield\n\n(most of Mike's fedwikis seem to be down now except)\n\nhhol.mike.fed.wiki.org\n\n\nWard Cunningham\n\nward.bay.wiki.org\n\n\nJon Richter\n\njon.2019.federated.wiki\njon.2018.federated.wiki\njon.2017.federated.wiki"
     }
   ],
   "journal": [
@@ -198,6 +198,36 @@
         "text": "Mike Caulfield\n\n(most of Mike's fedwikis seem to be down now except)\n\nhhol.mike.fed.wiki.org\n\n\nWard Cunningham\n\n\nROSTER ward.bay.wiki.org/welcome-visitors\n\n\nJon Richter\n\njon.2019.federated.wiki\njon.2018.federated.wiki\njon.2017.federated.wiki"
       },
       "date": 1563351298840
+    },
+    {
+      "type": "edit",
+      "id": "42b5dfae7c6f3cbc",
+      "item": {
+        "type": "roster",
+        "id": "42b5dfae7c6f3cbc",
+        "text": "Mike Caulfield\n\n(most of Mike's fedwikis seem to be down now except)\n\nhhol.mike.fed.wiki.org\n\n\nWard Cunningham\n\nward.bay.wiki.org/welcome-visitors\n\n\nJon Richter\n\njon.2019.federated.wiki\njon.2018.federated.wiki\njon.2017.federated.wiki"
+      },
+      "date": 1563522374302
+    },
+    {
+      "type": "edit",
+      "id": "42b5dfae7c6f3cbc",
+      "item": {
+        "type": "roster",
+        "id": "42b5dfae7c6f3cbc",
+        "text": "Mike Caulfield\n\n(most of Mike's fedwikis seem to be down now except)\n\nhhol.mike.fed.wiki.org\n\n\nWard Cunningham\n\n\nward.bay.wiki.org/welcome-visitors\n\n\nJon Richter\n\njon.2019.federated.wiki\njon.2018.federated.wiki\njon.2017.federated.wiki"
+      },
+      "date": 1563522380116
+    },
+    {
+      "type": "edit",
+      "id": "42b5dfae7c6f3cbc",
+      "item": {
+        "type": "roster",
+        "id": "42b5dfae7c6f3cbc",
+        "text": "Mike Caulfield\n\n(most of Mike's fedwikis seem to be down now except)\n\nhhol.mike.fed.wiki.org\n\n\nWard Cunningham\n\nward.bay.wiki.org\n\n\nJon Richter\n\njon.2019.federated.wiki\njon.2018.federated.wiki\njon.2017.federated.wiki"
+      },
+      "date": 1563522394553
     }
   ]
 }

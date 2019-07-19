@@ -1,0 +1,165 @@
+{
+  "title": "Integrative Learning",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "db4eac5a76bd6c88",
+      "text": "wikipedia\n"
+    },
+    {
+      "type": "markdown",
+      "id": "4d69b4f658f4006e",
+      "text": "Integrative learning is a learning theory describing a movement toward integrated lessons helping students make connections across curricula. This higher education concept is distinct from the elementary and high school \"integrated curriculum\" movement.\n-- [https://en.wikipedia.org/wiki/Integrative_learning wikipedia]"
+    },
+    {
+      "type": "pagefold",
+      "id": "eeae25370dcab716",
+      "text": "--"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Integrative Learning",
+        "story": []
+      },
+      "date": 1563523806366
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "db4eac5a76bd6c88"
+      },
+      "id": "db4eac5a76bd6c88",
+      "type": "add",
+      "date": 1563523812152
+    },
+    {
+      "type": "edit",
+      "id": "db4eac5a76bd6c88",
+      "item": {
+        "type": "pagefold",
+        "id": "db4eac5a76bd6c88",
+        "text": "wikipedia\n"
+      },
+      "date": 1563523825207
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "22c9170f0fe9c66d"
+      },
+      "id": "22c9170f0fe9c66d",
+      "type": "add",
+      "after": "db4eac5a76bd6c88",
+      "date": 1563523826987
+    },
+    {
+      "type": "remove",
+      "id": "22c9170f0fe9c66d",
+      "date": 1563523833379
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4d69b4f658f4006e"
+      },
+      "id": "4d69b4f658f4006e",
+      "type": "add",
+      "after": "db4eac5a76bd6c88",
+      "date": 1563523834716
+    },
+    {
+      "type": "edit",
+      "id": "4d69b4f658f4006e",
+      "item": {
+        "type": "markdown",
+        "id": "4d69b4f658f4006e",
+        "text": "-- [https://en.wikipedia.org/wiki/Integrative_learning wikipedia]"
+      },
+      "date": 1563523843844
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "18316aa87cf0e427"
+      },
+      "id": "18316aa87cf0e427",
+      "type": "add",
+      "after": "4d69b4f658f4006e",
+      "date": 1563523846470
+    },
+    {
+      "type": "remove",
+      "id": "18316aa87cf0e427",
+      "date": 1563523851108
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eeae25370dcab716"
+      },
+      "id": "eeae25370dcab716",
+      "type": "add",
+      "after": "4d69b4f658f4006e",
+      "date": 1563523852380
+    },
+    {
+      "type": "edit",
+      "id": "eeae25370dcab716",
+      "item": {
+        "type": "pagefold",
+        "id": "eeae25370dcab716",
+        "text": "--"
+      },
+      "date": 1563523859720
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f6caa9cd330f890d"
+      },
+      "id": "f6caa9cd330f890d",
+      "type": "add",
+      "after": "eeae25370dcab716",
+      "date": 1563523885802
+    },
+    {
+      "type": "edit",
+      "id": "f6caa9cd330f890d",
+      "item": {
+        "type": "paragraph",
+        "id": "f6caa9cd330f890d",
+        "text": "Integrative learning is a learning theory describing a movement toward integrated lessons helping students make connections across curricula. This higher education concept is distinct from the elementary and high school \"integrated curriculum\" movement."
+      },
+      "date": 1563523890303
+    },
+    {
+      "id": "f6caa9cd330f890d",
+      "type": "move",
+      "order": [
+        "f6caa9cd330f890d",
+        "db4eac5a76bd6c88",
+        "4d69b4f658f4006e",
+        "eeae25370dcab716"
+      ],
+      "date": 1563523893916
+    },
+    {
+      "type": "remove",
+      "id": "f6caa9cd330f890d",
+      "date": 1563523971355
+    },
+    {
+      "type": "edit",
+      "id": "4d69b4f658f4006e",
+      "item": {
+        "type": "markdown",
+        "id": "4d69b4f658f4006e",
+        "text": "Integrative learning is a learning theory describing a movement toward integrated lessons helping students make connections across curricula. This higher education concept is distinct from the elementary and high school \"integrated curriculum\" movement.\n-- [https://en.wikipedia.org/wiki/Integrative_learning wikipedia]"
+      },
+      "date": 1563523976959
+    }
+  ]
+}

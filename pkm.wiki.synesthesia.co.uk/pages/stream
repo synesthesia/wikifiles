@@ -1,0 +1,39 @@
+{
+  "title": "Stream",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "925aecbd2f9547cf",
+      "text": "see [[Stream Mode]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Stream",
+        "story": []
+      },
+      "date": 1563522952243
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "925aecbd2f9547cf"
+      },
+      "id": "925aecbd2f9547cf",
+      "type": "add",
+      "date": 1563522954219
+    },
+    {
+      "type": "edit",
+      "id": "925aecbd2f9547cf",
+      "item": {
+        "type": "paragraph",
+        "id": "925aecbd2f9547cf",
+        "text": "see [[Stream Mode]]"
+      },
+      "date": 1563522965586
+    }
+  ]
+}
