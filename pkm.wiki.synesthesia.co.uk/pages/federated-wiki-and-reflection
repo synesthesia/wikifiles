@@ -1,0 +1,625 @@
+{
+  "title": "Federated Wiki and Reflection",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "14670063090d584e",
+      "text": "In [[Reflections]], the wiki is discussed as a form of personal reflection. I've got a good decade and a half thinking about  net-enabled reflection in education, so I thought I'd add my two cents. "
+    },
+    {
+      "type": "paragraph",
+      "id": "2bd71dc9e4589383",
+      "text": "Reflection is one of the more studied elements of learning. \"Summarize the idea in your own words,\" is one of the first and best assignments a student can do."
+    },
+    {
+      "type": "paragraph",
+      "id": "733b67cf12395ff3",
+      "text": "Knowledge, of course, is not transmitted from one person to another. The person who learns something from an article or person does not receive knowledge, but reconstructs it based on clues in the text or conversation they are attending to."
+    },
+    {
+      "type": "paragraph",
+      "id": "5fcb227c53e5fe16",
+      "text": "Summary and reflection force us into reconstructive modes. "
+    },
+    {
+      "type": "paragraph",
+      "id": "15499075ae1f1db2",
+      "text": "In [[EDUPUNK]], a form of [[Open Education]], the idea has been to use social media to provide a platform for that reflection. Students reflect more deeply when they imagine someone might read their work -- even a potential audience creates a better work product. A facile idea a student might comfortably jot down in a personal journal is rejected as lacking nuance or depth when put on a blog. [[Public Writing is Better Writing]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "1c45c92731db3233",
+      "text": "We use similar conversational gambits in the classroom. Studies on techniques such as Peer Instruction have repeatedly shown that it is the process of explaining an idea to other students that has the biggest educational impact. [http://en.wikipedia.org/wiki/Peer_Instruction wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2767f3434476767d",
+      "text": "Teaching is the best learning, because it pushes your to see something from an external perspective."
+    },
+    {
+      "type": "paragraph",
+      "id": "6961e780b53a25a1",
+      "text": "<h3>So Why Not Blog? "
+    },
+    {
+      "type": "paragraph",
+      "id": "e3f63e9ae84115e4",
+      "text": "Student blogging as a technique for reflection has a good track record. So why do we need federated wiki?"
+    },
+    {
+      "type": "paragraph",
+      "id": "dd2df6959a564f74",
+      "text": "Ward gets at it with the idea of writing and its similarities to agile development."
+    },
+    {
+      "type": "paragraph",
+      "id": "7e0b9e0ca836ca06",
+      "text": "[More to follow here]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2f4737b6116fe39b",
+      "text": "<h3>So Why Not Social Bookmarking?"
+    },
+    {
+      "type": "paragraph",
+      "id": "1c13d2b38a96a0ec",
+      "text": "I have had great success with students writing summaries of articles in Pinboard. Summary focuses the mind. "
+    },
+    {
+      "type": "paragraph",
+      "id": "6e7bdfb44a4a0a3a",
+      "text": "I do not think this is because people write fluff and we have to remove it. I think it is because the process of having to remove words forces us to deconstruct and reconstruct the ideas behind those words. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Federated Wiki and Reflection",
+        "story": []
+      },
+      "date": 1401417591807
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "14670063090d584e"
+      },
+      "id": "14670063090d584e",
+      "type": "add",
+      "date": 1401417594547
+    },
+    {
+      "type": "edit",
+      "id": "14670063090d584e",
+      "item": {
+        "type": "paragraph",
+        "id": "14670063090d584e",
+        "text": "In [[Reflections]], Ward talks about the Wiki as a form of personal reflection. I've got a good decade and a half thinking about  net-enabled reflection in education, so I thought I'd add my two cents. "
+      },
+      "date": 1401417723147
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d2e9579af2b349d7",
+        "text": ""
+      },
+      "id": "d2e9579af2b349d7",
+      "type": "add",
+      "after": "14670063090d584e",
+      "date": 1401417723651
+    },
+    {
+      "type": "remove",
+      "id": "d2e9579af2b349d7",
+      "date": 1401417741238
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2bd71dc9e4589383"
+      },
+      "id": "2bd71dc9e4589383",
+      "type": "add",
+      "after": "14670063090d584e",
+      "date": 1401417809916
+    },
+    {
+      "type": "edit",
+      "id": "2bd71dc9e4589383",
+      "item": {
+        "type": "paragraph",
+        "id": "2bd71dc9e4589383",
+        "text": "Reflection is one of the more studied elements of learning. \"Summarize the idea in your own words,\" is one of the first and best assignments a student can do."
+      },
+      "date": 1401418105763
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "15499075ae1f1db2",
+        "text": ""
+      },
+      "id": "15499075ae1f1db2",
+      "type": "add",
+      "after": "2bd71dc9e4589383",
+      "date": 1401418106266
+    },
+    {
+      "type": "edit",
+      "id": "15499075ae1f1db2",
+      "item": {
+        "type": "paragraph",
+        "id": "15499075ae1f1db2",
+        "text": "In [[EDUPUNK]], a form of [[Open Education]] the idea has been to use social media to provide a platform for that reflection. Students reflect more deeply when they imagine someone might read their work -- even a potential audience creates a better work product. An idea a student might comfortably jot down in a journal is rejected as lacking nuance or depth when put on a blog. [[Public Writing is Better Writing]]."
+      },
+      "date": 1401418356473
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e8b66711206f6375",
+        "text": ""
+      },
+      "id": "e8b66711206f6375",
+      "type": "add",
+      "after": "15499075ae1f1db2",
+      "date": 1401418356976
+    },
+    {
+      "type": "remove",
+      "id": "e8b66711206f6375",
+      "date": 1401418372074
+    },
+    {
+      "type": "edit",
+      "id": "15499075ae1f1db2",
+      "item": {
+        "type": "paragraph",
+        "id": "15499075ae1f1db2",
+        "text": "In [[EDUPUNK]], a form of [[Open Education]] the idea has been to use social media to provide a platform for that reflection. Students reflect more deeply when they imagine someone might read their work -- even a potential audience creates a better work product. A facile idea a student might comfortably jot down in a personal journal is rejected as lacking nuance or depth when put on a blog. [[Public Writing is Better Writing]]."
+      },
+      "date": 1401418391102
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0dd9259ea5b84335",
+        "text": ""
+      },
+      "id": "0dd9259ea5b84335",
+      "type": "add",
+      "after": "15499075ae1f1db2",
+      "date": 1401418408240
+    },
+    {
+      "type": "remove",
+      "id": "0dd9259ea5b84335",
+      "date": 1401418482178
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1c45c92731db3233",
+        "text": ""
+      },
+      "id": "1c45c92731db3233",
+      "type": "add",
+      "after": "15499075ae1f1db2",
+      "date": 1401418522685
+    },
+    {
+      "type": "edit",
+      "id": "1c45c92731db3233",
+      "item": {
+        "type": "paragraph",
+        "id": "1c45c92731db3233",
+        "text": "We use similar conversational gambits in the classroom. Studies on techniques such as Peer Instruction have repeatedly shown that it is the process of explaining an idea to other students that has the biggest educational impact. Teaching is the best learning, because it pushes your to see something from an external perspective."
+      },
+      "date": 1401418822951
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "33e1870ed237f05b",
+        "text": ""
+      },
+      "id": "33e1870ed237f05b",
+      "type": "add",
+      "after": "1c45c92731db3233",
+      "date": 1401418823457
+    },
+    {
+      "type": "remove",
+      "id": "33e1870ed237f05b",
+      "date": 1401418925217
+    },
+    {
+      "type": "edit",
+      "id": "1c45c92731db3233",
+      "item": {
+        "type": "paragraph",
+        "id": "1c45c92731db3233",
+        "text": "We use similar conversational gambits in the classroom. Studies on techniques such as Peer Instruction have repeatedly shown that it is the process of explaining an idea to other students that has the biggest educational impact. "
+      },
+      "date": 1401419060411
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2767f3434476767d",
+        "text": "Teaching is the best learning, because it pushes your to see something from an external perspective."
+      },
+      "id": "2767f3434476767d",
+      "type": "add",
+      "after": "1c45c92731db3233",
+      "date": 1401419060915
+    },
+    {
+      "type": "edit",
+      "id": "1c45c92731db3233",
+      "item": {
+        "type": "paragraph",
+        "id": "1c45c92731db3233",
+        "text": "We use similar conversational gambits in the classroom. Studies on techniques such as Peer Instruction have repeatedly shown that it is the process of explaining an idea to other students that has the biggest educational impact. [http://en.wikipedia.org/wiki/Peer_Instruction wikipedia]"
+      },
+      "date": 1401419104038
+    },
+    {
+      "type": "edit",
+      "id": "14670063090d584e",
+      "item": {
+        "type": "paragraph",
+        "id": "14670063090d584e",
+        "text": "In [[Reflections]], the wiki is discussed as a form of personal reflection. I've got a good decade and a half thinking about  net-enabled reflection in education, so I thought I'd add my two cents. "
+      },
+      "date": 1401419197947
+    },
+    {
+      "type": "edit",
+      "id": "15499075ae1f1db2",
+      "item": {
+        "type": "paragraph",
+        "id": "15499075ae1f1db2",
+        "text": "In [[EDUPUNK]], a form of [[Open Education]], the idea has been to use social media to provide a platform for that reflection. Students reflect more deeply when they imagine someone might read their work -- even a potential audience creates a better work product. A facile idea a student might comfortably jot down in a personal journal is rejected as lacking nuance or depth when put on a blog. [[Public Writing is Better Writing]]."
+      },
+      "date": 1401419231630
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6961e780b53a25a1",
+        "text": ""
+      },
+      "id": "6961e780b53a25a1",
+      "type": "add",
+      "after": "2767f3434476767d",
+      "date": 1401419482591
+    },
+    {
+      "type": "edit",
+      "id": "6961e780b53a25a1",
+      "item": {
+        "type": "paragraph",
+        "id": "6961e780b53a25a1",
+        "text": "<h3>So Why Not Blog? "
+      },
+      "date": 1401419501239
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e3f63e9ae84115e4",
+        "text": ""
+      },
+      "id": "e3f63e9ae84115e4",
+      "type": "add",
+      "after": "6961e780b53a25a1",
+      "date": 1401419501741
+    },
+    {
+      "type": "edit",
+      "id": "e3f63e9ae84115e4",
+      "item": {
+        "type": "paragraph",
+        "id": "e3f63e9ae84115e4",
+        "text": "Student blogging as a technique for reflection has a good track record. So why do we need federated wiki?"
+      },
+      "date": 1401419543490
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dd2df6959a564f74",
+        "text": ""
+      },
+      "id": "dd2df6959a564f74",
+      "type": "add",
+      "after": "e3f63e9ae84115e4",
+      "date": 1401419543993
+    },
+    {
+      "type": "edit",
+      "id": "dd2df6959a564f74",
+      "item": {
+        "type": "paragraph",
+        "id": "dd2df6959a564f74",
+        "text": "Ward gets at it with the idea of writing and its similarities to agile development. "
+      },
+      "date": 1401419592466
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "76c282d59f2021f3",
+        "text": ""
+      },
+      "id": "76c282d59f2021f3",
+      "type": "add",
+      "after": "dd2df6959a564f74",
+      "date": 1401419592967
+    },
+    {
+      "type": "remove",
+      "id": "76c282d59f2021f3",
+      "date": 1401419598051
+    },
+    {
+      "type": "edit",
+      "id": "dd2df6959a564f74",
+      "item": {
+        "type": "paragraph",
+        "id": "dd2df6959a564f74",
+        "text": "Ward gets at it with the idea of writing and its similarities to agile development."
+      },
+      "date": 1401419850285
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2f4737b6116fe39b",
+        "text": " "
+      },
+      "id": "2f4737b6116fe39b",
+      "type": "add",
+      "after": "dd2df6959a564f74",
+      "date": 1401419850786
+    },
+    {
+      "type": "edit",
+      "id": "2f4737b6116fe39b",
+      "item": {
+        "type": "paragraph",
+        "id": "2f4737b6116fe39b",
+        "text": "<h3>So Why Not Social Bookmarking>"
+      },
+      "date": 1401419878542
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c335caf55bda90ee",
+        "text": " "
+      },
+      "id": "c335caf55bda90ee",
+      "type": "add",
+      "after": "2f4737b6116fe39b",
+      "date": 1401419879045
+    },
+    {
+      "type": "remove",
+      "id": "c335caf55bda90ee",
+      "date": 1401419879307
+    },
+    {
+      "type": "edit",
+      "id": "2f4737b6116fe39b",
+      "item": {
+        "type": "paragraph",
+        "id": "2f4737b6116fe39b",
+        "text": "<h3>So Why Not Social Bookmarking?"
+      },
+      "date": 1401419881922
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1c13d2b38a96a0ec",
+        "text": " "
+      },
+      "id": "1c13d2b38a96a0ec",
+      "type": "add",
+      "after": "2f4737b6116fe39b",
+      "date": 1401419882425
+    },
+    {
+      "type": "edit",
+      "id": "1c13d2b38a96a0ec",
+      "item": {
+        "type": "paragraph",
+        "id": "1c13d2b38a96a0ec",
+        "text": "I have had great success with students writing summaries of articles in Pinboard. Summary focuses the mind. "
+      },
+      "date": 1401420016216
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6e7bdfb44a4a0a3a",
+        "text": "I do not think this is because people write fluff and we have to remove it. I think it is because the process of having to remove words forces us to deconstruct and reconstruct the ideas behind those words. "
+      },
+      "id": "6e7bdfb44a4a0a3a",
+      "type": "add",
+      "after": "1c13d2b38a96a0ec",
+      "date": 1401420016718
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7e0b9e0ca836ca06",
+        "text": ""
+      },
+      "id": "7e0b9e0ca836ca06",
+      "type": "add",
+      "after": "dd2df6959a564f74",
+      "date": 1401420031930
+    },
+    {
+      "type": "edit",
+      "id": "7e0b9e0ca836ca06",
+      "item": {
+        "type": "paragraph",
+        "id": "7e0b9e0ca836ca06",
+        "text": "[More to follow here]"
+      },
+      "date": 1401420043415
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "733b67cf12395ff3",
+        "text": ""
+      },
+      "id": "733b67cf12395ff3",
+      "type": "add",
+      "after": "6e7bdfb44a4a0a3a",
+      "date": 1401420052642
+    },
+    {
+      "type": "edit",
+      "id": "733b67cf12395ff3",
+      "item": {
+        "type": "paragraph",
+        "id": "733b67cf12395ff3",
+        "text": "Knowledge, of course, is not transmitted from one person to another. The person who learns something from an article or person does not receive knowledge, but reconstructs based on clues in the text or conversation they are attending to."
+      },
+      "date": 1401420208372
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fd5d0a19d50b385c",
+        "text": ""
+      },
+      "id": "fd5d0a19d50b385c",
+      "type": "add",
+      "after": "733b67cf12395ff3",
+      "date": 1401420208875
+    },
+    {
+      "type": "remove",
+      "id": "fd5d0a19d50b385c",
+      "date": 1401420217862
+    },
+    {
+      "type": "edit",
+      "id": "733b67cf12395ff3",
+      "item": {
+        "type": "paragraph",
+        "id": "733b67cf12395ff3",
+        "text": "Knowledge, of course, is not transmitted from one person to another. The person who learns something from an article or person does not receive knowledge, but reconstructs it based on clues in the text or conversation they are attending to."
+      },
+      "date": 1401420852231
+    },
+    {
+      "type": "move",
+      "order": [
+        "14670063090d584e",
+        "733b67cf12395ff3",
+        "2bd71dc9e4589383",
+        "15499075ae1f1db2",
+        "1c45c92731db3233",
+        "2767f3434476767d",
+        "6961e780b53a25a1",
+        "e3f63e9ae84115e4",
+        "dd2df6959a564f74",
+        "7e0b9e0ca836ca06",
+        "2f4737b6116fe39b",
+        "1c13d2b38a96a0ec",
+        "6e7bdfb44a4a0a3a"
+      ],
+      "id": "733b67cf12395ff3",
+      "date": 1401420909840
+    },
+    {
+      "type": "move",
+      "order": [
+        "14670063090d584e",
+        "2bd71dc9e4589383",
+        "733b67cf12395ff3",
+        "15499075ae1f1db2",
+        "1c45c92731db3233",
+        "2767f3434476767d",
+        "6961e780b53a25a1",
+        "e3f63e9ae84115e4",
+        "dd2df6959a564f74",
+        "7e0b9e0ca836ca06",
+        "2f4737b6116fe39b",
+        "1c13d2b38a96a0ec",
+        "6e7bdfb44a4a0a3a"
+      ],
+      "id": "2bd71dc9e4589383",
+      "date": 1401420917134
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a2f691e413967ac7",
+        "text": ""
+      },
+      "id": "a2f691e413967ac7",
+      "type": "add",
+      "after": "733b67cf12395ff3",
+      "date": 1401420924669
+    },
+    {
+      "type": "remove",
+      "id": "a2f691e413967ac7",
+      "date": 1401420931075
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5fcb227c53e5fe16",
+        "text": ""
+      },
+      "id": "5fcb227c53e5fe16",
+      "type": "add",
+      "after": "733b67cf12395ff3",
+      "date": 1401421090787
+    },
+    {
+      "type": "edit",
+      "id": "5fcb227c53e5fe16",
+      "item": {
+        "type": "paragraph",
+        "id": "5fcb227c53e5fe16",
+        "text": "Summary and reflection force us into reconstructive modes. "
+      },
+      "date": 1401421130896
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "efae883d0e803eec",
+        "text": ""
+      },
+      "id": "efae883d0e803eec",
+      "type": "add",
+      "after": "5fcb227c53e5fe16",
+      "date": 1401421131399
+    },
+    {
+      "type": "remove",
+      "id": "efae883d0e803eec",
+      "date": 1401421133471
+    },
+    {
+      "type": "fork",
+      "site": "fwthoughts.mike.fed.wiki.org",
+      "date": 1563811850834
+    }
+  ]
+}

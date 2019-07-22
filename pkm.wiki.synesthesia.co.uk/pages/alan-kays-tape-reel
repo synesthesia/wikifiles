@@ -1,0 +1,1159 @@
+{
+  "title": "Alan Kay's Tape Reel",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a2d93e0290b40875",
+      "text": "Federated Wiki implements an idea similar to that expressed by Alan Kay at OOPSLA '97: the Internet as a version of the 1961 B220 file format he observed in the Air Force in 1961."
+    },
+    {
+      "type": "paragraph",
+      "id": "9999f9eab3e00023",
+      "text": "In his 1997 OOPSLA keynote, Alan Kay identified what he believed to be the fatal flaw of the web -- it didn't follow a simple data processing architecture that had been known for decades."
+    },
+    {
+      "type": "paragraph",
+      "id": "9a94c5eefd483c99",
+      "text": "While Kay is talking about the structure of the web, he is also discussing the larger meaning of object-oriented approaches. Elsewhere, Kay cites the B220 file format as one of the inspirations for Smalltalk. [http://www.smalltalk.org/smalltalk/TheEarlyHistoryOfSmalltalk_I.html html]"
+    },
+    {
+      "type": "pagefold",
+      "id": "4996272cc874ab37",
+      "text": "Quoted Text: Alan Kay"
+    },
+    {
+      "type": "paragraph",
+      "id": "4e460403cd81c514",
+      "text": "I saw it in 1961. Back then they didn't really have operating systems; Air Training command had to send tapes of many kind of records around from Air Force base to Air Force base."
+    },
+    {
+      "type": "paragraph",
+      "id": "97ae3e529655b762",
+      "text": "And there was this question of how you could deal with all of these things that used to be card images: because tape had come in and there were starting to be more and more formats."
+    },
+    {
+      "type": "paragraph",
+      "id": "593ba1c6f2efb675",
+      "text": "And somebody...came up with the following idea."
+    },
+    {
+      "type": "image",
+      "id": "1be082076538b1ac",
+      "url": "data:image/jpeg;base64,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",
+      "caption": "Uploaded image",
+      "text": "Uploaded image"
+    },
+    {
+      "type": "paragraph",
+      "id": "9d9bcbd31701e85d",
+      "text": "This person said: On the third part of this tape we'll put all of the records of this particular type. On the second part we'll put the procedures that know how to deal with all the formats on this third part of the tape. And in the first part we'll put pointers to all the procedures, and then in fact let's make the first ten or so pointers standard. Like reading and writing things, printing, and get to the idiosyncratic ones later on. "
+    },
+    {
+      "type": "paragraph",
+      "id": "18b3e915ac0a9e15",
+      "text": "So all you had to do to read a tape in 1961 was read the front part of one of these records into core storage and start jumping indirect through the pointers and the procedures were there."
+    },
+    {
+      "type": "paragraph",
+      "id": "5b97e329f44153d2",
+      "text": "Now I would really like you to contrast that with what you have to do with HTML on the Internet."
+    },
+    {
+      "type": "paragraph",
+      "id": "96debfb793fe755d",
+      "text": "HTML on the Internet has gone back to the dark ages, because it presupposes that there should be a browser that understands its formats..."
+    },
+    {
+      "type": "paragraph",
+      "id": "6c5510893b6ce166",
+      "text": "The browser wars are irrelevant...you don't NEED a browser, if you follow what this staff sargeant figured out how to do in 1961."
+    },
+    {
+      "type": "paragraph",
+      "id": "ae5b4dfcdd60fc11",
+      "text": "You should just read [the data] in, it travels with everything it needs, and you don't need anything more complex than X-Windows."
+    },
+    {
+      "type": "pagefold",
+      "id": "ad65be96efa97e7c",
+      "text": ".."
+    },
+    {
+      "type": "paragraph",
+      "id": "287f9dd4e9e0d18d",
+      "text": "This strikes me as similar to federated wiki. you make a request to the server for a piece of data and it sends you basic UI architecture and some standard plugins as part of the request response, as well as any idiosyncratic plugins you need to interpret/use the data. The client side processes, but the server provides the code the client side needs. "
+    },
+    {
+      "type": "paragraph",
+      "id": "6d54f1f37f151cdb",
+      "text": "This allows you to include any data format you want, as long as you send the code along with it that will interpret it."
+    },
+    {
+      "type": "paragraph",
+      "id": "473144139ee9bed7",
+      "text": "It is different than server-side solutions as well. Server-side solutions do not deliver the data to you, but rather the interface results of the data. In federated wiki, nothing precludes you from writing additional client side code to parse the data -- in fact, browsing data from a different origin site does just that."
+    },
+    {
+      "type": "paragraph",
+      "id": "8b47e612288f3c79",
+      "text": "At least part of Kay's point is that this structure allows individuals to innovate around browser function, rather than relying browser companies to do so. "
+    },
+    {
+      "type": "paragraph",
+      "id": "0a68f99db89e9c1d",
+      "text": "At the same time, it preserves the flexibility of client-side computing."
+    },
+    {
+      "type": "paragraph",
+      "id": "cd5c604cda50475a",
+      "text": "The segment begins at about 22 minutes in."
+    },
+    {
+      "type": "video",
+      "id": "f6fbeea2f02f8616",
+      "text": "YOUTUBE oKg1hTOQXoY\n(double-click to edit caption)\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Alan Kay's Tape Reel",
+        "story": [
+          {
+            "type": "paragraph",
+            "id": "a2d93e0290b40875",
+            "text": "Federated Wiki implements an idea similar to that expressed by Alan Kay at OOPSLA '97: the Internet as a version of the 1961 B220 file format he observed in the Air Force in 1961."
+          },
+          {
+            "type": "paragraph",
+            "id": "9999f9eab3e00023",
+            "text": "In his 1997 OOPSLA keynote, Alan Kay identified what he believed to be the fatal flaw of the web:"
+          },
+          {
+            "type": "pagefold",
+            "id": "4996272cc874ab37",
+            "text": "Quoted Text: Alan Kay"
+          },
+          {
+            "type": "paragraph",
+            "id": "4e460403cd81c514",
+            "text": "I saw it in 1961. Back then they didn't really have operating systems; Air Training command had to send tapes of many kind of records around from Air Force base to Air Force base."
+          },
+          {
+            "type": "paragraph",
+            "id": "c3317825028dcf24",
+            "text": ""
+          }
+        ]
+      },
+      "date": 1412360872238
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a2d93e0290b40875",
+        "text": "Federated Wiki implements an idea similar to that expressed by Alan Kay at OOPSLA '97: the Internet as a version of the 1961 B220 file format he observed in the Air Force in 1961."
+      },
+      "id": "a2d93e0290b40875",
+      "type": "add",
+      "date": 1412360873576
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9999f9eab3e00023",
+        "text": "In his 1997 OOPSLA keynote, Alan Kay identified what he believed to be the fatal flaw of the web:"
+      },
+      "id": "9999f9eab3e00023",
+      "type": "add",
+      "after": "a2d93e0290b40875",
+      "date": 1412360975044
+    },
+    {
+      "type": "edit",
+      "id": "a2d93e0290b40875",
+      "item": {
+        "type": "paragraph",
+        "id": "a2d93e0290b40875",
+        "text": "Federated Wiki implements an idea similar to that expressed by Alan Kay at OOPSLA '97: the Internet as a version of the 1961 B220 file format he observed in the Air Force in 1961."
+      },
+      "date": 1412360975035
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6ad1b34c30dcba03",
+        "text": ""
+      },
+      "id": "6ad1b34c30dcba03",
+      "type": "add",
+      "after": "9999f9eab3e00023",
+      "date": 1412361052175
+    },
+    {
+      "type": "edit",
+      "id": "9999f9eab3e00023",
+      "item": {
+        "type": "paragraph",
+        "id": "9999f9eab3e00023",
+        "text": "In his 1997 OOPSLA keynote, Alan Kay identified what he believed to be the fatal flaw of the web:"
+      },
+      "date": 1412361052168
+    },
+    {
+      "type": "remove",
+      "id": "6ad1b34c30dcba03",
+      "date": 1412361059329
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b072a34552d57ec0",
+        "text": ""
+      },
+      "id": "b072a34552d57ec0",
+      "type": "add",
+      "after": "9999f9eab3e00023",
+      "date": 1412361081329
+    },
+    {
+      "type": "remove",
+      "id": "b072a34552d57ec0",
+      "date": 1412361100644
+    },
+    {
+      "type": "edit",
+      "id": "a2d93e0290b40875",
+      "item": {
+        "type": "paragraph",
+        "id": "a2d93e0290b40875",
+        "text": "Federated Wiki implements an idea similar to that expressed by Alan Kay at OOPSLA '97: the Internet as a version of the 1961 B220 file format he observed in the Air Force in 1961."
+      },
+      "date": 1412361117497
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "be9ab53f9144bf18",
+        "text": ""
+      },
+      "id": "be9ab53f9144bf18",
+      "type": "add",
+      "after": "9999f9eab3e00023",
+      "date": 1412361137068
+    },
+    {
+      "item": {
+        "type": "pagefold",
+        "id": "4996272cc874ab37",
+        "text": "Quoted Text: Alan Kay"
+      },
+      "id": "4996272cc874ab37",
+      "type": "add",
+      "after": "be9ab53f9144bf18",
+      "date": 1412361142615
+    },
+    {
+      "type": "remove",
+      "id": "be9ab53f9144bf18",
+      "date": 1412361143986
+    },
+    {
+      "type": "edit",
+      "id": "4996272cc874ab37",
+      "item": {
+        "type": "pagefold",
+        "id": "4996272cc874ab37",
+        "text": "Quoted Text: Alan Kay"
+      },
+      "date": 1412361165622
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4e460403cd81c514",
+        "text": "I saw it in 1961. Back then they didn't really have operating systems; Air Training command had to send tapes of many kind of records around from Air Force base to Air Force base."
+      },
+      "id": "4e460403cd81c514",
+      "type": "add",
+      "after": "4996272cc874ab37",
+      "date": 1412361169226
+    },
+    {
+      "type": "edit",
+      "id": "4e460403cd81c514",
+      "item": {
+        "type": "paragraph",
+        "id": "4e460403cd81c514",
+        "text": "I saw it in 1961. Back then they didn't really have operating systems; Air Training command had to send tapes of many kind of records around from Air Force base to Air Force base."
+      },
+      "date": 1412361181122
+    },
+    {
+      "type": "edit",
+      "id": "4e460403cd81c514",
+      "item": {
+        "type": "paragraph",
+        "id": "4e460403cd81c514",
+        "text": "I saw it in 1961. Back then they didn't really have operating systems; Air Training command had to send tapes of many kind of records around from Air Force base to Air Force base."
+      },
+      "date": 1412361213889
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c3317825028dcf24",
+        "text": ""
+      },
+      "id": "c3317825028dcf24",
+      "type": "add",
+      "after": "4e460403cd81c514",
+      "date": 1412361249182
+    },
+    {
+      "type": "edit",
+      "id": "4e460403cd81c514",
+      "item": {
+        "type": "paragraph",
+        "id": "4e460403cd81c514",
+        "text": "I saw it in 1961. Back then they didn't really have operating systems; Air Training command had to send tapes of many kind of records around from Air Force base to Air Force base."
+      },
+      "date": 1412361249170
+    },
+    {
+      "type": "remove",
+      "id": "c3317825028dcf24",
+      "date": 1412361254321,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1412361293781
+    },
+    {
+      "type": "edit",
+      "id": "97ae3e529655b762",
+      "item": {
+        "type": "paragraph",
+        "id": "97ae3e529655b762",
+        "text": "And there was this question of how you could deal with all of these things that used to be card images: because tape had come in and there were starting to be more and more formats."
+      },
+      "date": 1412361347112,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1412361388531
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "593ba1c6f2efb675",
+        "text": "And somebody...came up with the following idea."
+      },
+      "id": "593ba1c6f2efb675",
+      "type": "add",
+      "after": "97ae3e529655b762",
+      "date": 1412361409911
+    },
+    {
+      "type": "edit",
+      "id": "593ba1c6f2efb675",
+      "item": {
+        "type": "paragraph",
+        "id": "593ba1c6f2efb675",
+        "text": "And somebody...came up with the following idea."
+      },
+      "date": 1412361421879
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "761b85099ecca549",
+        "text": ""
+      },
+      "id": "761b85099ecca549",
+      "type": "add",
+      "after": "593ba1c6f2efb675",
+      "date": 1412361421890
+    },
+    {
+      "type": "remove",
+      "id": "761b85099ecca549",
+      "date": 1412361425076
+    },
+    {
+      "item": {
+        "type": "image",
+        "id": "1be082076538b1ac",
+        "url": "data:image/jpeg;base64,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",
+        "caption": "Uploaded image",
+        "text": "Uploaded image"
+      },
+      "id": "1be082076538b1ac",
+      "type": "add",
+      "after": "593ba1c6f2efb675",
+      "date": 1412361434853
+    },
+    {
+      "type": "edit",
+      "id": "1be082076538b1ac",
+      "item": {
+        "type": "image",
+        "id": "1be082076538b1ac",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4QCqRXhpZgAATU0AKgAAAAgACQEaAAUAAAABAAAAegEbAAUAAAABAAAAggEoAAMAAAABAAIAAAExAAIAAAAQAAAAigMBAAUAAAABAAAAmgMDAAEAAAABAAAAAFEQAAEAAAABAQAAAFERAAQAAAABAAAOw1ESAAQAAAABAAAOwwAAAAAAAXbyAAAD6AABdvIAAAPocGFpbnQubmV0IDQuMC4zAAABhqAAALGP/9sAQwAeFBYaFhMeGhgaIR8eIyxKMCwpKSxbQUQ2SmtecW9pXmhmdoWqkHZ+oYBmaJTKlqGwtb/Av3OO0eDPud6qu7+3/9sAQwEfISEsJyxXMDBXt3poere3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3/8AAEQgBgAGzAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A6Kqk+pW8ExidjvHUAVbrBlh3eIsOMqQD+FAGidUth/E3/fNKdUtQMlm/75qc20J6xr+VU7Rra5uJ4hEMxHBzQBJ/alr/AHm/75NH9q2v95v++TUUogj1GGBY+WBNRykS3UsVvCpMQ5oAsNq1qoyCxPptqL+24Mfcf8qNOaC53o8O2ROoIqDUbi1s7yKLygS/XHagCc65ABny5Pyph1+3Az5cn5VLqYgtLNpvKBIwBVK3iu5YVkFsgVucE0AT/wDCQ2/aKU/hQPEEBGfJl/KrqWUBjG+FAxHNZuszW+nqixxKWJ5FAEo8QQn/AJYS/kKT/hIoM48iX9KkKrcabHPbwgswBxjmswz3S3a2zW8fmt0yKAL/APwkVv8A88ZfypH8QxgfLbyk9s9KfMI7CyM11GhkzgADvVZftQj+0SWyiPrjHOKAHf8ACQsckWpIHvQfELcf6KfzrRtEtrmBZUiAB7YrL1iT7LdRQW8SlpPWgB58QsP+XU/nSf8ACQv/AM+h/OorkXOnhJriKNoycHb2rXb7GsKSyBFDDI96AM3/AISGT/n0P50f8JDL/wA+h/OtWIWkyF4wjKOpHaozJYAj5o+elAGb/wAJDN/z5/rR/wAJDNux9j/WtWcWlum+UIinvVBbuFtZS3jVXRlyCPpQBEPEExOBac/Won8QXZbC2oX2PNa7yWCT7HaISZxiqV9LHBqkEHljbJ1OKAKf9vXxHywL+VA13UP+fdfyrVe50yFyrPEGHBFVtXvI7eG3eHYUduo9KAKJ8QX4P+oX/vk0n/CQX56QL/3ya2Y7mwmnEKFGkx0xU7W0AOfLFAHPHX9RH/LFB/wA0v8Abupn/lin/fBpNZvzFeiOEKFT73HWtTUJU/sc3MSrllHOKAMz+3dT/wCeK8f7Bo/t3U/+eSf98GnWFhe3VkJhOqhumeuKbqq3NrJBbiQbn7igBRreqEZ8lP8Avn/69L/bOq4/1Cf98025W70uWJpZEkDkDArpFRGVW2DkZ6UAc8uuX4uYopI413sB09TXS1yurf8AIcgUAAB1x+ddVQAUUUUAFFFFABRRVDVdTjsI8D55m+4goAvEhRkkAe9V/wC0LPOPtMX/AH1WDLDJOn2nVrlokbkRL1P4VVc2ohaSKzcxjgO3egDrIriGb/VSo/0NPMiKcF1B9zXGWVpcX0ubVfLC9WBwBW7H4ehwDPLJI3c5oA1fNj/vr+dPrIk8PW5H7t3U+5zUayXmkkCb99b9z1IoA26KjhmjniWSJgyN0IqSgAooooAKKKKACsYuW8Q49ABWzWIhz4icen+FAG3WRpBP2+9Vhht2a16pGxK3j3ET7WYcigCtdlf+EgtME7thB/WlWC4ivriW1KurnLA+tWrey2Tm4lbfJjAPpUIsJ4ppHgn2hznBoANOuxLJOJFCypy3FZAzcpd3EiFmB+RsdK2odO8sSsz5kk4LCprW0jt7byAMrzn3oAx7yf7V4ZWQnLAgN9Qat6f9uNnblSu3aMg+lSLpSiymtyww7ZHtV6GMRRJGOiqBQA/tzXMX8qXesSJsLxouOPXFdMwypHqKp6fp62gkJwzu2SaAKPhm4LwSwPwY2yB7Ul02PFFvnumP0NXotOEWpNdIcBhgqKWawEmpxXf9xcUAUPEf+stN33PM5q7qT3SRj7KqlNpzmpr+zS9tzE/HOQfQ1T/sy5ZPLe6JjxjFADtAujdWbZUKVbHFZ/iMMuo2jR53np9c1sadYJp8JjjJOTkk0y90/wC1XdvMWwIjmgDI14332dBcY8ncM49al1QxPeWUQBKeXwBWrqdmL60aEnHIINVptIEk1tIJCDCu00AZFgzI9/GhIUKeM1HDYxnQpLtmJkDfL7dq2o9ESOSZ/MJMoxUyaYiaY1lnhu9AGNM5v59PgmY7GHPvRMi2Ovt5APypkD8K1Z9HSS3gRHKPD0YUsGkRx3huZJGkcjBzQBkR2UMujXF67EzbiQ2enPSmSytPPYSSZLEAfWtM6EDvjErCF23FQamutLjaaB0GBCOBQBkaXYwXct+bjnZnHPTk8/pVFtz6YgP3VlIU/UVp6LYtcNeM7MiuSvHfmtNtHh+xRWw6I+7NAGVqVvFY3+ntAu0nG735FdFcyLDA8jdFGar3lhHdTwO4z5XSrFzCLiB4m6MMUAclaxTXhu5lhMgZTyexq3ZzeZ4cu4Gzvi5wfTIrfsbVLS2EUa4A/WqyaTEpucdLhcEDtQBmadpcl1pcLrctHlicDp1pniKDbc2iF+Su0t6c9a37S2W1tY4F5Vf/ANdQ6jpkWoNGZCRs9KAMLV7H7LsnF15u0jg101tIZbeOQjG5QcVQGh25kDyMz47GtMAKAAMAcAUAcvq3/Ieiyf4l/nXU1y2sf8h6If7a/wA66mgAooooAKKKKAKuo3i2No0zcnoo9TWBETCP7SvB5k8p/dIanvnGo6vszm3thl/TPenaXG2p3pu5l/cxfLGvbigCW00trpzeamSzHkIegFQXMsmsXX2K1AW2Q/Mw6cVd8QXrW1sIoz+8l4AHpU2jWQsrJVI/eN8zn3oAtW1vHawrFEoVR+tS0UUAFNkRZEKOMg9adRQBiOH0S4DJlrRz8w/un1raRg6hlOQRkGmXEKzwtG4yGFZujStDJLYSn5ozlM+lAGtRRRQAUUUUAFY0aAeIZD6j+lbNY8Iz4hl9h/SgDYqA3kCyFDINw61PXP6dNCLy6MsZdgewzQBuRTRzLujYEUhuYQ4TzF3HpzWRoredNdhCUBGAD2qO/gitdOWNH33JYcg5NAG7LMkK7pGAFEUqSrujYMKz5LN5ntpbmQBEX5geOapW8pS6vJICRAo49KANk3cAk2GQbqnrAS1X+xnuc/vDlg341qaXMZ9PhkY5JXBoAJ9StoJTE7/OOoFOivoJgxR/u+tYccscfiG686LzBggADOOlXpbuH+zJ547cpg4IIxQBom6hDxru5k+7U1cutwJLzT5DwByaszarcSy3EsDqsMHGD1NAG/VS51K3tZlikY726AU7T7sXtokwGM9R71h6q6p4jhZ03KAvHrQBtw6hDNII1zuPtVqsyC8iaaQi18vyxndis5b/AFC6jmuoiBFEenrQB0lFc/f6tcmC1a3IDSnB470lxeaimoR2asN7jNAHQ0Vy8U+p3FxPa7/miBJ9sVYttRnbRppC372M4zQB0FMSZHdkVgWXqK5i21K7iubYPLuWTGR9TU2iiX+3bgMxIAbd+fFAHSUVna3evZWoaI4kc4FVbUarDJG8rB0flh6UAbKokeQoC554p1cve3lw93OPtAQRAkCtfQbp7rTw8hywYqaANGq13fQWi5lcDParB6Vz3iW1xAk+7+LGKANqW8ihthOx+Q1Vj1q2d1U5XecAmqWrhm0C3KdMLn8qzdRureS1s0toysiDJOO9AHRX2qw2UoibliM4FT2l5Fdw+ZGw4+8PSuXgM15qrEL5jhe4rS8PukguoGXZITzQBox6nDLfG1Q5Ydau1zVjB9m8SmPdu4Jz+FdLQBy2rj/ifQ/76/zrqa5XWB/xPYgehZf511Q4FABRRRQAVW1G5+yWMs3GVX5c+varNY3iZybaGBSMyyAEetAGWA8GlKo5mvn/ABIrpbC2FpZxQj+Ec/XvWM0fm+Iba3X7tsg4+nP+Fbd3IIbaWXP3ENAGGi/2j4kbf80cHT8P/r10VYXhaLMU9ww+Z2xmt2gAooooAKKKKACsXWQbS/tr5RwDtf6VtVT1a3FxYSL3AyKALYIYAjoeaWqmlTefp8TZJIG0k+o4q3QAUUUUAFZMH/Iem+n9K1qyYf8AkPS/T+lAGtWLpgltJrkPbudz5BA5raooAyY47lbi4vBEVJUhU9ai03McQnuLdmmZvTla26KAMbUxc3F3EgR/s+MsB3qygEtvLax2zRLtIB9a0KKAMFEu/wCzHsPKO77ob2zWvZW/2W0ih/uLg/Wp6KAMmxtnXXbyZl+Uj5T+VWNZiaXTZUjHzHtV7FIQCMGgDAisJWexDIQFXDHFRw2v2b7bDJbu5dvkI7iukooAq6bB9ns0TbtPUj0qhcWsj+JIJtuYwmc/TNbNJgZzjmgBk8XmwunALKRmufhF3a6fPp/kkyE4Vh0wa6SkwM5oAwJNNlhOmx/e2vlyO3NWWt5W8SpNtPlrH1/A1r0UAZFjayJq1/IwwsgwprMOn3SaZOgU/NJkj1FdVijGRigDl30+dprJ44iAgAb8Ku6fBNDrtyzqdki9fyrbooAy9ftJLq1QxDLI2cVXSe/vZVi2GJVXkjua3KQADoKAOWgsZkmvI5YDJI6kK1W9K+02GmN+5O9pOAe1b2BnOOaXGetACISUBPUiszxDBJcWIWMZIYHFalIcd6AMy5tpf7HiijGXUDg/Ss46fd3s8CyW4hSMjcfWuk60UAc+9rd6fqry2ib0kX0q1omnTW8s1zckeZIen41rUGgDKWxkGvfasfJtNa1JketG5fUfnQBzOtYOt259WX+ddPXLeIvl1GJ1PPUY+tdQnKA+1AC0UUUAFYWp5n8Q2cBHyoN38z/St2sSbnxVD7Rf0NADNDzNqt9O3UHbn8f/AK1W9fk8vSpsfxEL+dVvDXJvW9Zf8ak8TnGm49XFAFjQYxHpMGP4huP41oVV0sbdNth/0zH8qtUAITgEnoKz0eW+lYo5SJeM+tWr1itpKR1C1Hpa7bGP3GTQAm+S1kQSPujbjJq5VXUU3WjH+78wqa3bfBGx7qKAJKRhuUqe4xS0UAZHh75FuoSeUmPHtWvWPpa7Na1Ff901sUAFFFFABWRLDdpqMk8UZIzwa16KAMp7rUt+1IBx7UjT6r2gFa1FAGM1xqygkwcVH9u1P/nkf++a3aKAMNbzUyQBEefakN3qpziHp14rdooA583WrADMR59qPtmq4/1TflXQUUAc99r1cg7YW49qQ3OshtvlNnr0roqKAOb+2av/AM83/I05LrV2yBG/5V0VFAHNG91cf8s3P/AaaL3WTn90/wD3zXT0UAcv9s1kj7j/AJUn2rWc/ck/KupooA5ZrrWiMbJB/wABpPtGtY+7J+VdVRQBypl1xVB2yYPTik+0a2R0k/75rq6KAOUE2sk9JPyqXOusAV34PvXTUUAc1jX8fx/nTB/bjKWw5A9a6iigDlVGuOMqsmPwFMf+2gcMJQR6V1tFAHJmLW+CRLzz1FRsNYbqJvyrsKKAORFvrR6Cb86d9m1sjpL+YrrKKAOT+y636S/99Cj7HrR6+b/31XWUUAcl9h1n0k/76oOn6wTyH/76rraKAOSOkajLJH5qE4PLE9K6xRtUD0GKWigAooooAKxJTjxVH/1x/oa26w7vMfii2dhhXTAP4GgBPC3+ruv+ugp/in/jwT/fpnh0+XdX0BGCHz+pqfxLGX0wsP4WBoAv2OPsUGOnlr/Kp6qaU2/TLY/9MxVugCG8TzLWRR3FM085sox6DBqz1rPCzWbsIxvRjnFAE+otts5BnlhgVJaqUto1PUKKqCKa8kRphtRTnFaFABRRRQBkac27XNQI9FFa9YuigtqWoSfwlgM1tUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFYfiMeXNZXOcbJMf1/pW5VDW7b7TpsqgZZRvXA5yKAKEJ+zeJnXOFuFyPf/OK09Ui87Tp077CRWDcTNLp1lfp/rYG2uR7V0kUiXNurqQVdaAM/wANzeZpaqTzGxX+tatc/oLfZdSurJuMncv+fpXQUAFFFFABRRRQAUyZtkLt6KTT6ztduPs+nPzy/wAooAi8NofsckxOfNlLf0rWqtpsJg0+CMgAhBnHrVmgAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigApCAQQehpaKAOZtoRbX9zpkvEc4ynp7VY0Cdra4l0+fO5T8man8QWTzQrdQf62DnjqRVKQtqNul9acXUQ+dR3oAl11Gsr+DUIh0OH9/8it2N1kjV1OVYZFZVtdRaxYPbzYWbGCp459qj0K6aB2065ysiE7M9xQBt0UUUAFFFFABWJfn+0dYhtF5jhO9z/Sr2p3y2cBwcyNwq+9M0eya1haSYgzTNvb29qANCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoopryJGMuyqPc0AOorNm16wiyBKXYdlGc/jWfP4lJOIIx178mgDoqQso6kD6msUxaveBSxWFWGfvYx+Apw0J5dpubx2Yf3R/jQBqSXMEf35UH41Tm1u0ibbu3e4oTRrJHG4M+f4XckH8KUHT7W5js1iRZH5ChM/r+FAEf8AbSvIqRWs0m70Ws60s9QXUmuIITAhOWVzgEelaltPenVZYZIsWwBKNtx+tXpJUiXdI6qB3JoAxNQ0i6nnE9sEifqcNiq9xpWqzOkrshlQcMG5rXk1i0VikbNM/wDdjXdTfO1K4/1VvHboT96U5bH0H+NAEdlqwUi3v/3M68Enoa1AQwBBBB7isS50MzGSe7ui74zkDAFV9Lsr25gLx3RjiBwueSaAOkqle6nDaKRnfJ0Cr61T/si8Y/Pfkj2FW7XSra3fzCDJJ/efmgCrp1lPcXTXt+vzf8s0Pb3rYoooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoqOaeK3XdNIsa+rHFZrarNdSeXptuZB/z1fhR/jQBqkgDJOBVG71i0tW2l975xtTk1CumXN0d2oXTEZ/1URwuKt2unWlp/qYVB/vHk/nQBU+06jeL/o9v9nQn78p5/Ko00AStvvbmSY+gOBWzRQBnDQtPEezyPfO45/OoJPDtu5ws0qL2XggfnWxRQBiJo15Bn7PqDL7EU8jXIlyGt5cDGCK12ZUUsxAA7msyfWUaQw2UbXEv+z0FAGPfyXv9oQz3sRVYiDhORjPOK0H1rTpLlZBA8kqjCtt5/CnDTLu+O+/lEYP8CcmtC1061tMeTCob+8eT+dAFBLjVb0kwxJbxHozjnHrT4dDQuJL2Z7h/QnC1rUUARwwRQKFijVABj5RipKKKAM3W5mFuLaLmW4OwD271dtYBbW0cK9EUCsqyH9oazNdE7ooPlj+v+c1tUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUyWVIYzJIwVR1JrK1DU7sW5ksrdtnTzHXk/RaANG6vLezTfPIqDsO5/Cs9tRvL3K6dAVTp50gx+Qqjpxsd3m6kzGdj1lBx/hW3Hf2RAWO4ix0ADUAVINFRn86+ka5l/2jwPwrUVVRQqgKB2FIHVujA/Q06gAooooAKKQkAZJwKz5tWQuYrKJrqUf3Puj6mgDQZlRSzEADuayptbRn8qxie5l6cDgfjS/2dc3pD6jPlOvkx8KPr61pRQxwoEiRUUdAoxQBlLpl1ekPqU5C9fJjOB+JrTt7aG1j2QRqi+w61LRQAUUUUAFFFFABVHWboWtg5Bw7jauPWr1Ys+NR11IcZithub0JoAvaVaCzsY4/4iNzfU1coooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKZNMkKF5GCgfrQA+qzXitI0UA82UA8D7o+pqFPtV78zZt4DggD77D39KuQwxwRhIkCKOwoAgSzMhV7xhM6nIAGFX6CrVFFADXjR/vorY9Rmq8mm2Ur73toy3rirVFAGadDtNzNGZYmPTY5GKRdNuooyIdRlz2DgEVp0yWaOFd0jhR796AKJXVo0BD28x9MFf1qvcavd206wPZq0jDIVH3VdzcXYIXdbR54Y/fb6elR3M0GkwLsjLOxwBnLMfrQBXWxvb9t2oy+XD18lD1+prShSC3jEcQRFHYVDe2Rv448zSwYHIQ9c+tUv+Eej73Ux/KgDX8xP76/nR5if31/Os/+wrP1l/77pP7Cs/WX/vugC+08SDLSKB9aZ9ttv+e8f/fVU/7Bs/WX/vs0n9gWX/TX/vs0AXfttt/z3j/Oj7bbf894/wA6pf2BZf8ATX/v4aP7AsvSX/v4aALv222/57x/nSfbrX/nvH+dVP7BsfSX/v4aX+wbHGNsn/fw0APvtUggtZHjlRnxhQD3qPQLcx2fnSf6yc7iT1I7Usmh2hg8tEIOQdxYk1oqAqhQMADAFAC0UUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUVSNxJdnbZkCMNh5iOP+A+v1oAkubvymWKFPNmY8KDwPcntRDbtkSXLCWUHIwMKv0FSW1tHbIVjB5OWYnJY+pNS0AFN8xN+zeu7+7nmq13qNvZyxxTFt0n3cDNJ9gX+0/t287tu3bjigB1jPcTeb9og8ra2F/wBoetWqKKACio5p44FBc9eAAMkn2FQtDJdj98WjiIB8tTgn6n/CgAa8EkhitR5jg/M38K/U/wBKfDbBG8yVjLL/AHm7fQdqlRFjUKihVHQAU6gArDuR/aGvxQ4zHbDc+R3/AM4rZmkWGF5GICqCSTWX4ehYxTXkg+edyR9KANeiiigAooooAKKKKACq95ew2YQzFvnOFCrkk1YrO1P/AI/NP/67H+VAE0GpW0zBA5Rj0DqVz+dW6o6zGr6bMzAbkXcp7ginQSSz6dDJ5vksyAsxGe3vQBcpokQyGMMu8DJXPIFZ8FxJFqMdt9pFyjoWycZUj6VBDBP/AG9cYumyI1J+Ucj0oA2aKrXauxH+l/Z1PTAGT+JqLTLmSdriORxJ5L7Q4GNwxQBeooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKbJIkSF5GCqOSTVe9v4bNRvy0jcLGvLNUEdnNdyLNqGMKcpAv3V+vqaAIP7TtryTElwkUAOPLPDP9fatSOSE4SN09gpFOMaEcov5VXbTrRmLfZ0DHqyjB/SgC1RVEaYkakQXFxFk9RJn+eaU296iKsV4Djr5kYJP5UAWmijc5dFYjuRmn1T8zUFkO6CF0H9xyCfzpINRDyvFPE1u6ruw5ByPbFAF2q73Jd/LtlEjAjc38K/U/0qMGS9GRvityO4wz/4CrSIsaBEUKo6AUARxQBG3uxkk5+Y9h6D0qaiigAooooAy/EEpFmsCH553CD6VoW8K29vHEoACKBxWWR9u18EN+7s19OrGtigAooooAKKKKACiiigAqhqcFxK9tJbIrtC+4hmxnir9FAGZNBf3yiKcRQQk5cIxZmHpTtWspbiGFbcKRE4JjY4DD0rRooAyreynGpR3bwwwoEKeXGenufWpZYLqLU2uYI0kSRArAtgritCigDKu7Kc6oLpYYrhDHt2yNjafWpdKspbN7nzNn71942DA+mK0KKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACqV7fiE+Tbr51y3AQfw+59BVW71XzrkWVk4ErHDSHon+NXrGyjs4yFJeRuXkbqxoAisdOEL/AGi4bzrpvvOeg9hV6iigAooooAKKRiFBLHAHUmsue6uL+Qw6edsQ+/Oen4etAEl/qgicW9qBNcscBR2+tJp+mtHKbq9YS3Lfkn0qzZWEFkhES5Y8s7ckmrNABRRRQAUUUUAFRXMwt7eSVuiKTUtZOvuXihs0+/cOBx1x3NADvD8LrZtPIcvcOXNalNjQRxqijAUACnUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUU2SRIkLyMFUdSaAFJAGScCsuaebUpjBaFkt1P7yccZ9loZJdWdfvRWXfnBk/wDrVpoixoERQqqMADtQBROiWBjCeQOP4snd+dRvoiFsx3d1GPQSZrUooAy/7Ovo8CDUn2jtIgal/wCJyj/8usqg+6k1p0UAZi32oq2JdNbb6pIDUTeIYY22zW88bejAVdv9QisgoILyNwsa9TVS20x7ic3WoqpY8rEOi/X1NACAXGskeYrQWXXGcNJ/gK1Y0WJFRAFVRgAU6igAooooAKKKKACiiigArHg/07XZJusVquxf97vWleTfZrSWbrsUmqegQNDp4kfPmTEuxPfNAGlRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFQ3VwlrA0shAA6Z70AOnnit4y8zhFHc1nRxPq0izzZW0BzHH/AH/c+1RNpsur/v7yR4UP+riXsPU1YawvY1jS2vyqIMYaMHNAGiAAMAYApazQdYjflbWVPYlSab/al1CP9J02YehjIagDUorNGuWW4LI0kTHs6EYqddTsW6XUX/fVAFus+/v2U/Z7JDNcHjjov1NRz3j37Nbac44/1k3ZR7epq7aWsdpD5cY92Y9WPqaAK9jpogf7RcN510w5c9B7Cr9FFABRRRQAUUUUAFFFNZ1X7zAfU0AOoqhcazZQfemDH0Xmqy61POxFtYSuMZ54oAdrz+YLeyXlp5BuA67RWqqhVCjoBgVk2Frc3GotfXsQjwNsaZ5Fa9ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUVBd3UdrHuc5J+6o6mgBLy7js4TJIfoPWqtpbS3ci3d8MEcxRdl9z7063smmmW7vOXHKRnonv9f5VoUAFFFFABRRUVxcR20RkmYKooAdIIwpaQLgDJJFYctjDrE4e3jEMCn5pQuC59v8atRJLqz+bMCloPuR9DJ7n2rTRFRQqKFUDAAHAoAjtLWKzgWGFcKPzJ9TU1FISAMkgfWgBaKpT6tZQffnUn0Xmq7ay0h22lnPMT0JXANAGrSEgDJIH1rKZdYuGHzQ2ydeDuIoTRN+Dd3c03qoOBQBbn1Ozt8+ZOmR1AOTVJtdMrbbK0ln5xnGBVy30qytuY4F3f3m5P61bChRhQAPagDII1m7GP3Voje+WFEegI4zeXMs7Y/vYFbFFAFaDT7W3XEUCD1yM5qwSFXJwAB+VLUdz/AMe0v+4f5UAQpqVlIwVbqIk9Buq1WFbzWP8AYMay+WzFCu0DLFvp1qybibTdFt2aPfINqlSfWgDUoqn9omgtJLm8RVCruCIckexNQS3V/Dam7aOEoFDGMZ3AfWgDToqnc33lxQGFQ8lwQIwTxyM8mpIDcoGN00RUAncgIx+dAFiis+O6up4TdReSIcEqpySwHfPaln1IJp0d1Em4ykBFJxyaALVzcR2yB5M4LBRgdzUtYmqNfLFAlwkTK0ykvHkbeemD/OtKS5ZNQhtgo2yIzE9xigCzRVWS6ZNRitgo2uhYnuMVFLdXL3ktpbIm5VVvMc8AH270AX6KpS3cn2uOzi8vzjGXdmzhR9PrTra5ka7ltZlXfGoYMvQg+1AFuis+zubm7dpFaFY1cqYyCWwD1Jz/AErQoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooqG5uEtoyznnsPWgBt9dC1gLgBn/hXPU1nWbXbXJnv7OQn/lmVwQv4Z61ctrd3k+03X3/4EP8AB/8AXq7QBTXU7baWkLxAdfMQrUsV5bTLujnjYezCpiARgjIpjW8LghokOeuVFAD1YMMqQfoaWqLaRaZzGjRf9c3K5/KqmqJPZxB7e+lBOAsbYYn6UAad1dRWkLSzMFA/M1nQWramyXl5kRdY4e2PU1XbTLm78g39w3msDtG0YU9eatJo7uqi6vZpAONqnapFAFya/tLf5ZJ41IH3c81T/tyOVttpbz3B7FVwM1attLs7b/VQLn+83J/WrQUL0AH0oAyy+sXQAWOK0U8EsdzD3oXRmmyb67lnJ7A7V/KtWigCtBYWtuuIoEHvjJqz0oooAKKKKACiiigAooooAKjnBaCQAZJUgD8KkooApaVbCGwgEkKrKq85XkGk1iKSa1RYkLESqcD0Bq9RQBW1G2N3YywLjcy8Z9aqXElxcWH2VbSVZZF2MWxtX1Oa1KKAMy+tJY4LRrZBIbVgdnTcMY4qzDM92ro9tLCpXGXxk59KtUUAZFlbrawfZ57FmKkjei7g49am1CzM1lD9niCNC6yJH06dq0aKAMi+e7vYYlSzkjVZVLbyM8HsBU2oJPHeW93DCZggZHQdcHuK0aKAMtBczavBcPbmKIRsBk5I+vpU8MTrqtzKVIRo0AbsSM1dooAzbu126it2YPPRk2MB1X3FWbVYvMZo7UxEjBZlAJ9qs0UAZV3bmeZJLaCSG4DgtJjaCO+fWtWiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKhubmK1iMkzbR296AEvLqO0hMkhwO3vVWxt5ppftd4MMf9XGf4B6n3/lRbW8l3Mt5drgDmGI/w+59/5Vo0AFQXd3FaKjTEjewVcDOTUshKxsVGWAJA9TVS2Vr61U39sEdWyFPbHegC7RRVa8vI7SPLfM54RByWPpQAXt4lnEGYFmY4VB1Y1BZWTmX7XendOfur2jHoPelsrOTzPtV4d1wfur1EY9B7+9X6AMzVneC7sp97CJZNrge9adVNVgNxYSoudwG5cHuORUtnMLi0ilBJ3qDzQBNRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRSMyopZiFUDJJ7UAMuJkt4WlkOFUVixzTTXYutQtZREozCiruAPqRTjfS3d2sj2jtZxEkEDlj2bB6j2rSg1C1n4SZQ2MlW+Uj8DQAkep2cjBfPVXP8L/ACn9aso6uMowYeoOaRoo3BDorA9cioRp1ov3IETP93j+VAAsM4vnlM2YCuBH6H1qzVN7KTcDDeTxgfw8MP1qpqF/eWDKg8qcueCAQw9sUAXr+8W0h3fekbhEHJY1X0+wdHN1eHfct0HUIPQe9Lp9k4f7VeHfcN0B6Rj0HvWhQAUUUUAIRkEHvWfopZIprVs5t5Coyc8dRWjWWCLbXyMALdR5+rD/AOtQBqUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVkC8i1K6aJwy20bcE5xKR79MVclb7ZI9uh/dLxKw7/AOyP61NHbxRReVEgRPReKAJFKlRtwVxxjpUctrBMMSwo49CtQf2dGnNvJJA3H3Dxx7dKchvYjiQRzr/eX5D+XSgBi6bHE263lliPoGyPpg0SJqKEmKWGVR0Vl2k/jTn1CGNgswkiz3dCB+fSnPf2yIWEqtgZwpzQBTudYa1Gye1eOTHByCp+hqTT7J/M+13fzTtyqn+Af40ltbvdzi9ulwB/qoz29z71pUAFFFFABRRRQAVmayBCbW84/cygEn+6eDWkzKoyxCj1JrJ1fUbJ9PmiE6SOy4VV55oA1gcjI6GlqvYSmaxgkYYLICRVea9uvt721tBG+xAxLvjrQBoUVUs71p5pIJoTFNGASucgg9watZA6nrQAtFMmMgibyQpkx8obpmnLnaN2N2OcdM0ALRRVd7uNL2O1Od8ilh6cUAWKKKAcjI5oAKKCcdaQkDqQKAFooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACqs8zPN9mhJD4y74+4P8TVqkAx9T1oAqCw8lT9kleJz/eO5T9QaeslyhImiV1A+9GeT+BqzRQBEtxExxvAI4w3B/WpQcjIpksMc6FJY1dT2YZqo9iYVLWtxJDgfdJ3L9Oen4UAW5mRImaTG0DnPSsewsFubxr0x+XCTlU7OfXHpRZx3eokC6f8AdI3z4/iP90e3r+VaUk1wCyQWuduAGZgqmgCzRVcLdOg3yRxt/sLn+dNexWVcSzTOO434B/KgCWW5ghBMkyLt65YcVWbVYM4iSabjgxxkg/jU8dnbxElIUBPJOOTU4GBgUAZzXWoynENkIxj70r/4Ui2uozbfPvRGO4hTB/M1pUUAZ0ejWw5maWc5z+8ckflV2O3hjUKkSKB2CipKKACsgvMmvXHkxCT9yuQW249K16rpahL2S63El0C7cdMUAQW8E0T3F7c7POdOEXooHaobCzhvLFJ7gGSWXL7iTlc+npWqeRg1RXTmjR4oLmSOJznaADt9cHtQBSWaV/Ds5dyzx7kDdzg8U7VWcW2nBJGQtKgyp56VfksYmsGs0+SMrtyKS5sFuEt1ZyPIdWGB1xQBUurdLW/spINytJJsf5idwx3ptzaQPr0G6MHfGzN7kd60bm1FxLA5YgwvvAx1qO8sftE0c0czwyxggMoByD25oArX7Z1C1tWV3hKMxRe+OmfanWsMkWonyIHhtSnzBiMbvYZ4qxcWXnGKQStHNGMCRQMn1yKlijlRiZJvM44G0CgDMs7ZbnUb1pmd0jlwse47QcdcU69jEV3JPd232i3IGGAyY8deP61etrUW808gYsZn3EY6Uk9tLKHUXLIj8EBQSPXBoAlgeOSFHiOYyoKn2qSmQxJBCkUYwiDAFPoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAD+lFFFABRRRQAVnXRmvLgQQSFI1wXkU8j2+v/660DyCAeelR28CW8QjT1JJ9SepoAdFEkMSxxrtRRgCn0UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAJkZI9KWk7mloAKQ8ggHHvS0UAIBgYFLRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAf/Z",
+        "caption": "Uploaded image",
+        "text": "Uploaded image"
+      },
+      "date": 1412361454905
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9d9bcbd31701e85d",
+        "text": "This person said: On the third part of this tape we'll put all of the records of this particular type. On the second part we'll put the procedures that know how to deal with all the formats on this third part of the tape. And in the first part we'll put pointers to all the procedures, and then in fact let's make the first ten or so pointers standard. Like reading and writing things, printing, and get to the idiosyncratic ones later on. "
+      },
+      "id": "9d9bcbd31701e85d",
+      "type": "add",
+      "after": "1be082076538b1ac",
+      "date": 1412361459919
+    },
+    {
+      "type": "edit",
+      "id": "9d9bcbd31701e85d",
+      "item": {
+        "type": "paragraph",
+        "id": "9d9bcbd31701e85d",
+        "text": "This person said: On the third part of this tape we'll put all of the records of this particular type. On the second part we'll put the procedures that know how to deal with all the formats on this third part of the tape. And in the first part we'll put pointers to all the procedures, and then in fact let's make the first ten or so pointers standard. Like reading and writing things, printing, and get to the idiosyncratic ones later on. "
+      },
+      "date": 1412361473079
+    },
+    {
+      "type": "edit",
+      "id": "9d9bcbd31701e85d",
+      "item": {
+        "type": "paragraph",
+        "id": "9d9bcbd31701e85d",
+        "text": "This person said: On the third part of this tape we'll put all of the records of this particular type. On the second part we'll put the procedures that know how to deal with all the formats on this third part of the tape. And in the first part we'll put pointers to all the procedures, and then in fact let's make the first ten or so pointers standard. Like reading and writing things, printing, and get to the idiosyncratic ones later on. "
+      },
+      "date": 1412361513754
+    },
+    {
+      "type": "edit",
+      "id": "9d9bcbd31701e85d",
+      "item": {
+        "type": "paragraph",
+        "id": "9d9bcbd31701e85d",
+        "text": "This person said: On the third part of this tape we'll put all of the records of this particular type. On the second part we'll put the procedures that know how to deal with all the formats on this third part of the tape. And in the first part we'll put pointers to all the procedures, and then in fact let's make the first ten or so pointers standard. Like reading and writing things, printing, and get to the idiosyncratic ones later on. "
+      },
+      "date": 1412361577037
+    },
+    {
+      "type": "edit",
+      "id": "9d9bcbd31701e85d",
+      "item": {
+        "type": "paragraph",
+        "id": "9d9bcbd31701e85d",
+        "text": "This person said: On the third part of this tape we'll put all of the records of this particular type. On the second part we'll put the procedures that know how to deal with all the formats on this third part of the tape. And in the first part we'll put pointers to all the procedures, and then in fact let's make the first ten or so pointers standard. Like reading and writing things, printing, and get to the idiosyncratic ones later on. "
+      },
+      "date": 1412361602126
+    },
+    {
+      "type": "edit",
+      "id": "9d9bcbd31701e85d",
+      "item": {
+        "type": "paragraph",
+        "id": "9d9bcbd31701e85d",
+        "text": "This person said: On the third part of this tape we'll put all of the records of this particular type. On the second part we'll put the procedures that know how to deal with all the formats on this third part of the tape. And in the first part we'll put pointers to all the procedures, and then in fact let's make the first ten or so pointers standard. Like reading and writing things, printing, and get to the idiosyncratic ones later on. "
+      },
+      "date": 1412361614995
+    },
+    {
+      "type": "edit",
+      "id": "9d9bcbd31701e85d",
+      "item": {
+        "type": "paragraph",
+        "id": "9d9bcbd31701e85d",
+        "text": "This person said: On the third part of this tape we'll put all of the records of this particular type. On the second part we'll put the procedures that know how to deal with all the formats on this third part of the tape. And in the first part we'll put pointers to all the procedures, and then in fact let's make the first ten or so pointers standard. Like reading and writing things, printing, and get to the idiosyncratic ones later on. "
+      },
+      "date": 1412361705933
+    },
+    {
+      "type": "edit",
+      "id": "9d9bcbd31701e85d",
+      "item": {
+        "type": "paragraph",
+        "id": "9d9bcbd31701e85d",
+        "text": "This person said: On the third part of this tape we'll put all of the records of this particular type. On the second part we'll put the procedures that know how to deal with all the formats on this third part of the tape. And in the first part we'll put pointers to all the procedures, and then in fact let's make the first ten or so pointers standard. Like reading and writing things, printing, and get to the idiosyncratic ones later on. "
+      },
+      "date": 1412361764897
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "18b3e915ac0a9e15",
+        "text": "So all you had to do to read a tape in 1961 was read the front part of one of these records into core storage and start jumping indirect through the pointers and the procedures were there."
+      },
+      "id": "18b3e915ac0a9e15",
+      "type": "add",
+      "after": "9d9bcbd31701e85d",
+      "date": 1412361764908
+    },
+    {
+      "type": "edit",
+      "id": "18b3e915ac0a9e15",
+      "item": {
+        "type": "paragraph",
+        "id": "18b3e915ac0a9e15",
+        "text": "So all you had to do to read a tape in 1961 was read the front part of one of these records into core storage and start jumping indirect through the pointers and the procedures were there."
+      },
+      "date": 1412361779682,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1412361824802
+    },
+    {
+      "type": "edit",
+      "id": "18b3e915ac0a9e15",
+      "item": {
+        "type": "paragraph",
+        "id": "18b3e915ac0a9e15",
+        "text": "So all you had to do to read a tape in 1961 was read the front part of one of these records into core storage and start jumping indirect through the pointers and the procedures were there."
+      },
+      "date": 1412361862143
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5b97e329f44153d2",
+        "text": "Now I would really like you to contrast that with what you have to do with HTML on the Internet."
+      },
+      "id": "5b97e329f44153d2",
+      "type": "add",
+      "after": "18b3e915ac0a9e15",
+      "date": 1412361883860
+    },
+    {
+      "type": "edit",
+      "id": "5b97e329f44153d2",
+      "item": {
+        "type": "paragraph",
+        "id": "5b97e329f44153d2",
+        "text": "Now I would really like you to contrast that with what you have to do with HTML on the Internet."
+      },
+      "date": 1412361908319
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f4c66b8e92672a46",
+        "text": ""
+      },
+      "id": "f4c66b8e92672a46",
+      "type": "add",
+      "after": "5b97e329f44153d2",
+      "date": 1412361914757
+    },
+    {
+      "type": "remove",
+      "id": "f4c66b8e92672a46",
+      "date": 1412361915615
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "96debfb793fe755d",
+        "text": "HTML on the Internet has gone back to the dark ages, because it presupposes that there should be a browser that understands its formats..."
+      },
+      "id": "96debfb793fe755d",
+      "type": "add",
+      "after": "5b97e329f44153d2",
+      "date": 1412361929972
+    },
+    {
+      "type": "edit",
+      "id": "96debfb793fe755d",
+      "item": {
+        "type": "paragraph",
+        "id": "96debfb793fe755d",
+        "text": "HTML on the Internet has gone back to the dark ages, because it presupposes that there should be a browser that understands its formats..."
+      },
+      "date": 1412361943496
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "664dd9c88ed4f1f5",
+        "text": ""
+      },
+      "id": "664dd9c88ed4f1f5",
+      "type": "add",
+      "after": "96debfb793fe755d",
+      "date": 1412361943502
+    },
+    {
+      "type": "remove",
+      "id": "664dd9c88ed4f1f5",
+      "date": 1412361945778
+    },
+    {
+      "type": "edit",
+      "id": "96debfb793fe755d",
+      "item": {
+        "type": "paragraph",
+        "id": "96debfb793fe755d",
+        "text": "HTML on the Internet has gone back to the dark ages, because it presupposes that there should be a browser that understands its formats..."
+      },
+      "date": 1412361983534
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "20594a7aa2cbc8ae",
+        "text": ""
+      },
+      "id": "20594a7aa2cbc8ae",
+      "type": "add",
+      "after": "96debfb793fe755d",
+      "date": 1412361983546
+    },
+    {
+      "type": "remove",
+      "id": "20594a7aa2cbc8ae",
+      "date": 1412361988208
+    },
+    {
+      "type": "edit",
+      "id": "96debfb793fe755d",
+      "item": {
+        "type": "paragraph",
+        "id": "96debfb793fe755d",
+        "text": "HTML on the Internet has gone back to the dark ages, because it presupposes that there should be a browser that understands its formats..."
+      },
+      "date": 1412362008746
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "11ed0f0e4791c5f3",
+        "text": ""
+      },
+      "id": "11ed0f0e4791c5f3",
+      "type": "add",
+      "after": "96debfb793fe755d",
+      "date": 1412362008759
+    },
+    {
+      "type": "remove",
+      "id": "11ed0f0e4791c5f3",
+      "date": 1412362013994
+    },
+    {
+      "type": "edit",
+      "id": "96debfb793fe755d",
+      "item": {
+        "type": "paragraph",
+        "id": "96debfb793fe755d",
+        "text": "HTML on the Internet has gone back to the dark ages, because it presupposes that there should be a browser that understands its formats..."
+      },
+      "date": 1412362018374
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "698086015216f856",
+        "text": ""
+      },
+      "id": "698086015216f856",
+      "type": "add",
+      "after": "96debfb793fe755d",
+      "date": 1412362018380
+    },
+    {
+      "type": "remove",
+      "id": "698086015216f856",
+      "date": 1412362021801
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6c5510893b6ce166",
+        "text": "The browser wars are irrelevant...you don't NEED a browser, if you follow what this staff sargeant figured out how to do in 1961."
+      },
+      "id": "6c5510893b6ce166",
+      "type": "add",
+      "after": "96debfb793fe755d",
+      "date": 1412362091320
+    },
+    {
+      "type": "edit",
+      "id": "6c5510893b6ce166",
+      "item": {
+        "type": "paragraph",
+        "id": "6c5510893b6ce166",
+        "text": "The browser wars are irrelevant...you don't NEED a browser, if you follow what this staff sargeant figured out how to do in 1961."
+      },
+      "date": 1412362139543
+    },
+    {
+      "type": "edit",
+      "id": "6c5510893b6ce166",
+      "item": {
+        "type": "paragraph",
+        "id": "6c5510893b6ce166",
+        "text": "The browser wars are irrelevant...you don't NEED a browser, if you follow what this staff sargeant figured out how to do in 1961."
+      },
+      "date": 1412362160339
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6ca8efe766c5f008",
+        "text": ""
+      },
+      "id": "6ca8efe766c5f008",
+      "type": "add",
+      "after": "6c5510893b6ce166",
+      "date": 1412362160352
+    },
+    {
+      "type": "remove",
+      "id": "6ca8efe766c5f008",
+      "date": 1412362182981
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ae5b4dfcdd60fc11",
+        "text": "You should just read [the data] in, it travels with everything it needs, and you don't need anything more complex than X-Windows."
+      },
+      "id": "ae5b4dfcdd60fc11",
+      "type": "add",
+      "after": "6c5510893b6ce166",
+      "date": 1412362202263
+    },
+    {
+      "type": "edit",
+      "id": "ae5b4dfcdd60fc11",
+      "item": {
+        "type": "paragraph",
+        "id": "ae5b4dfcdd60fc11",
+        "text": "You should just read [the data] in, it travels with everything it needs, and you don't need anything more complex than X-Windows."
+      },
+      "date": 1412362236098
+    },
+    {
+      "type": "edit",
+      "id": "ae5b4dfcdd60fc11",
+      "item": {
+        "type": "paragraph",
+        "id": "ae5b4dfcdd60fc11",
+        "text": "You should just read [the data] in, it travels with everything it needs, and you don't need anything more complex than X-Windows."
+      },
+      "date": 1412362289653
+    },
+    {
+      "item": {
+        "type": "pagefold",
+        "id": "ad65be96efa97e7c",
+        "text": ".."
+      },
+      "id": "ad65be96efa97e7c",
+      "type": "add",
+      "after": "ae5b4dfcdd60fc11",
+      "date": 1412362311729
+    },
+    {
+      "type": "edit",
+      "id": "ad65be96efa97e7c",
+      "item": {
+        "type": "pagefold",
+        "id": "ad65be96efa97e7c",
+        "text": ".."
+      },
+      "date": 1412362317038
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "287f9dd4e9e0d18d",
+        "text": "This strikes me as similar to federated wiki. you make a request to the server for a piece of data and it sends you basic UI architecture and some standard plugins, as well as any idiosyncratic plugins you need to interpret/use the data. The client side processes, but the server provides the code the client side needs. "
+      },
+      "id": "287f9dd4e9e0d18d",
+      "type": "add",
+      "after": "ad65be96efa97e7c",
+      "date": 1412362321363
+    },
+    {
+      "type": "edit",
+      "id": "287f9dd4e9e0d18d",
+      "item": {
+        "type": "paragraph",
+        "id": "287f9dd4e9e0d18d",
+        "text": "This strikes me as similar to federated wiki. you make a request to the server for a piece of data and it sends you basic UI architecture and some standard plugins, as well as any idiosyncratic plugins you need to interpret/use the data. The client side processes, but the server provides the code the client side needs. "
+      },
+      "date": 1412362544616
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8b47e612288f3c79",
+        "text": "Kay's point is partially that this structure allows individuals to innovate around browser function, rather than relying browser companies to do so. At the same time, it preserves the flexibility of client-side computing. "
+      },
+      "id": "8b47e612288f3c79",
+      "type": "add",
+      "after": "287f9dd4e9e0d18d",
+      "date": 1412362544632
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cd5c604cda50475a",
+        "text": ""
+      },
+      "id": "cd5c604cda50475a",
+      "type": "add",
+      "after": "8b47e612288f3c79",
+      "date": 1412362654234,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1412362658231
+    },
+    {
+      "type": "edit",
+      "id": "cd5c604cda50475a",
+      "item": {
+        "type": "paragraph",
+        "id": "cd5c604cda50475a",
+        "text": "The segment begins at "
+      },
+      "date": 1412362668257
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f6fbeea2f02f8616"
+      },
+      "id": "f6fbeea2f02f8616",
+      "type": "add",
+      "after": "cd5c604cda50475a",
+      "date": 1412362694081
+    },
+    {
+      "type": "edit",
+      "id": "f6fbeea2f02f8616",
+      "item": {
+        "type": "video",
+        "id": "f6fbeea2f02f8616",
+        "text": "YOUTUBE oKg1hTOQXoY\n(double-click to edit caption)\n"
+      },
+      "date": 1412362706522
+    },
+    {
+      "type": "edit",
+      "id": "cd5c604cda50475a",
+      "item": {
+        "type": "paragraph",
+        "id": "cd5c604cda50475a",
+        "text": "The segment begins at about 22 minutes in."
+      },
+      "date": 1412362716462
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "df0e0337b31dc9dc",
+        "text": ""
+      },
+      "id": "df0e0337b31dc9dc",
+      "type": "add",
+      "after": "8b47e612288f3c79",
+      "date": 1412362727052
+    },
+    {
+      "type": "remove",
+      "id": "df0e0337b31dc9dc",
+      "date": 1412362768893
+    },
+    {
+      "type": "edit",
+      "id": "287f9dd4e9e0d18d",
+      "item": {
+        "type": "paragraph",
+        "id": "287f9dd4e9e0d18d",
+        "text": "This strikes me as similar to federated wiki. you make a request to the server for a piece of data and it sends you basic UI architecture and some standard plugins as part of the request response, as well as any idiosyncratic plugins you need to interpret/use the data. The client side processes, but the server provides the code the client side needs. "
+      },
+      "date": 1412362875152
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "473144139ee9bed7",
+        "text": ""
+      },
+      "id": "473144139ee9bed7",
+      "type": "add",
+      "after": "287f9dd4e9e0d18d",
+      "date": 1412362981930
+    },
+    {
+      "type": "edit",
+      "id": "473144139ee9bed7",
+      "item": {
+        "type": "paragraph",
+        "id": "473144139ee9bed7",
+        "text": "It is different than server-side solutions as well. Server-side solution do not deliver the data to you, but rather the interface results of the data."
+      },
+      "date": 1412363047575
+    },
+    {
+      "type": "edit",
+      "id": "473144139ee9bed7",
+      "item": {
+        "type": "paragraph",
+        "id": "473144139ee9bed7",
+        "text": "It is different than server-side solutions as well. Server-side solutions do not deliver the data to you, but rather the interface results of the data. "
+      },
+      "date": 1412363333011
+    },
+    {
+      "type": "edit",
+      "id": "473144139ee9bed7",
+      "item": {
+        "type": "paragraph",
+        "id": "473144139ee9bed7",
+        "text": "It is different than server-side solutions as well. Server-side solutions do not deliver the data to you, but rather the interface results of the data. Nothing precludes you from writing additional client side code to parse the data -- in fact, browsing data from a different origin site does just that."
+      },
+      "date": 1412363398863
+    },
+    {
+      "type": "edit",
+      "id": "8b47e612288f3c79",
+      "item": {
+        "type": "paragraph",
+        "id": "8b47e612288f3c79",
+        "text": "Kay's point is partially that this structure allows individuals to innovate around browser function, rather than relying browser companies to do so. At the same time, it preserves the flexibility of client-side computing."
+      },
+      "date": 1412363434792
+    },
+    {
+      "type": "edit",
+      "id": "473144139ee9bed7",
+      "item": {
+        "type": "paragraph",
+        "id": "473144139ee9bed7",
+        "text": "It is different than server-side solutions as well. Server-side solutions do not deliver the data to you, but rather the interface results of the data. In federated wiki, nothing precludes you from writing additional client side code to parse the data -- in fact, browsing data from a different origin site does just that."
+      },
+      "date": 1412363449118
+    },
+    {
+      "type": "edit",
+      "id": "9999f9eab3e00023",
+      "item": {
+        "type": "paragraph",
+        "id": "9999f9eab3e00023",
+        "text": "In his 1997 OOPSLA keynote, Alan Kay identified what he believed to be the fatal flaw of the web -- it didn't follow a simple data processing architecture that had been known for decades."
+      },
+      "date": 1412363566026
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6d54f1f37f151cdb",
+        "text": ""
+      },
+      "id": "6d54f1f37f151cdb",
+      "type": "add",
+      "after": "287f9dd4e9e0d18d",
+      "date": 1412363942219
+    },
+    {
+      "type": "edit",
+      "id": "6d54f1f37f151cdb",
+      "item": {
+        "type": "paragraph",
+        "id": "6d54f1f37f151cdb",
+        "text": "This allows you to include any data format you want, as long as you send the code along with it that will interpret it."
+      },
+      "date": 1412363989118
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9a94c5eefd483c99",
+        "text": ""
+      },
+      "id": "9a94c5eefd483c99",
+      "type": "add",
+      "after": "9999f9eab3e00023",
+      "date": 1412365302794
+    },
+    {
+      "type": "edit",
+      "id": "9a94c5eefd483c99",
+      "item": {
+        "type": "paragraph",
+        "id": "9a94c5eefd483c99",
+        "text": "In other places, Kay cites the B22o file format as one of the inspirations for OO programming. "
+      },
+      "date": 1412365351031
+    },
+    {
+      "type": "move",
+      "order": [
+        "a2d93e0290b40875",
+        "9999f9eab3e00023",
+        "4996272cc874ab37",
+        "9a94c5eefd483c99",
+        "4e460403cd81c514",
+        "97ae3e529655b762",
+        "593ba1c6f2efb675",
+        "1be082076538b1ac",
+        "9d9bcbd31701e85d",
+        "18b3e915ac0a9e15",
+        "5b97e329f44153d2",
+        "96debfb793fe755d",
+        "6c5510893b6ce166",
+        "ae5b4dfcdd60fc11",
+        "ad65be96efa97e7c",
+        "287f9dd4e9e0d18d",
+        "6d54f1f37f151cdb",
+        "473144139ee9bed7",
+        "8b47e612288f3c79",
+        "cd5c604cda50475a",
+        "f6fbeea2f02f8616"
+      ],
+      "id": "9a94c5eefd483c99",
+      "date": 1412365382970
+    },
+    {
+      "type": "move",
+      "order": [
+        "a2d93e0290b40875",
+        "9999f9eab3e00023",
+        "9a94c5eefd483c99",
+        "4996272cc874ab37",
+        "4e460403cd81c514",
+        "97ae3e529655b762",
+        "593ba1c6f2efb675",
+        "1be082076538b1ac",
+        "9d9bcbd31701e85d",
+        "18b3e915ac0a9e15",
+        "5b97e329f44153d2",
+        "96debfb793fe755d",
+        "6c5510893b6ce166",
+        "ae5b4dfcdd60fc11",
+        "ad65be96efa97e7c",
+        "287f9dd4e9e0d18d",
+        "6d54f1f37f151cdb",
+        "473144139ee9bed7",
+        "8b47e612288f3c79",
+        "cd5c604cda50475a",
+        "f6fbeea2f02f8616"
+      ],
+      "id": "9a94c5eefd483c99",
+      "date": 1412365385595
+    },
+    {
+      "type": "edit",
+      "id": "9a94c5eefd483c99",
+      "item": {
+        "type": "paragraph",
+        "id": "9a94c5eefd483c99",
+        "text": "In other places, Kay cites the B22o file format as one of the inspirations for Smalltalk. [http://www.smalltalk.org/smalltalk/TheEarlyHistoryOfSmalltalk_I.html html]"
+      },
+      "date": 1412365399300
+    },
+    {
+      "type": "edit",
+      "id": "9a94c5eefd483c99",
+      "item": {
+        "type": "paragraph",
+        "id": "9a94c5eefd483c99",
+        "text": "Elsewhere, Kay cites the B220 file format as one of the inspirations for Smalltalk. [http://www.smalltalk.org/smalltalk/TheEarlyHistoryOfSmalltalk_I.html html]"
+      },
+      "date": 1412365418465
+    },
+    {
+      "type": "edit",
+      "id": "9a94c5eefd483c99",
+      "item": {
+        "type": "paragraph",
+        "id": "9a94c5eefd483c99",
+        "text": "While Kay is talking about the structure of the web, he is also discussing the larger meaning of \"object-oriented\" approaches. Elsewhere, Kay cites the B220 file format as one of the inspirations for Smalltalk. [http://www.smalltalk.org/smalltalk/TheEarlyHistoryOfSmalltalk_I.html html]"
+      },
+      "date": 1413311673252
+    },
+    {
+      "type": "edit",
+      "id": "9a94c5eefd483c99",
+      "item": {
+        "type": "paragraph",
+        "id": "9a94c5eefd483c99",
+        "text": "While Kay is talking about the structure of the web, he is also discussing the larger meaning of object-oriented approaches. Elsewhere, Kay cites the B220 file format as one of the inspirations for Smalltalk. [http://www.smalltalk.org/smalltalk/TheEarlyHistoryOfSmalltalk_I.html html]"
+      },
+      "date": 1413381287898
+    },
+    {
+      "type": "edit",
+      "id": "8b47e612288f3c79",
+      "item": {
+        "type": "paragraph",
+        "id": "8b47e612288f3c79",
+        "text": "At least part of Kay's point is that this structure allows individuals to innovate around browser function, rather than relying browser companies to do so. "
+      },
+      "date": 1413381352708
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0a68f99db89e9c1d",
+        "text": "At the same time, it preserves the flexibility of client-side computing."
+      },
+      "id": "0a68f99db89e9c1d",
+      "type": "add",
+      "after": "8b47e612288f3c79",
+      "date": 1413381352723,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "8b47e612288f3c79",
+      "item": {
+        "type": "paragraph",
+        "id": "8b47e612288f3c79",
+        "text": "At least part of Kay's point is that this structure allows individuals to innovate around browser function, rather than relying browser companies to do so. "
+      },
+      "date": 1413381371459
+    },
+    {
+      "type": "fork",
+      "date": 1413381408578
+    },
+    {
+      "type": "fork",
+      "site": "fwthoughts.mike.fed.wiki.org",
+      "date": 1563812191855
+    }
+  ]
+}

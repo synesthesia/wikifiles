@@ -3,16 +3,6 @@
   "story": [
     {
       "type": "paragraph",
-      "id": "3c7846fb44ccaf6c",
-      "text": "Mike Caulfield's thoughts, large and small, about fedwiki especially in blended learning."
-    },
-    {
-      "type": "pagefold",
-      "id": "07b155634def52fb",
-      "text": ".."
-    },
-    {
-      "type": "paragraph",
       "id": "ac2cf4d4c58cb5d9",
       "text": "[[Federated Wiki Is an Application]]. It is not a web page or series of web pages. This has some implications on interface and use."
     },
@@ -75,6 +65,10 @@
       "type": "paragraph",
       "id": "3c87b7ef61efda67",
       "text": "[[Namespace Collisions]] are more fun in federated wiki. "
+    },
+    {
+      "type": "factory",
+      "id": "07b155634def52fb"
     }
   ],
   "journal": [
@@ -561,103 +555,7 @@
     {
       "type": "fork",
       "site": "fwthoughts.mike.fed.wiki.org",
-      "date": 1563811751970
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "3c7846fb44ccaf6c"
-      },
-      "id": "3c7846fb44ccaf6c",
-      "type": "add",
-      "after": "07b155634def52fb",
-      "date": 1563811815639
-    },
-    {
-      "type": "edit",
-      "id": "3c7846fb44ccaf6c",
-      "item": {
-        "type": "paragraph",
-        "id": "3c7846fb44ccaf6c",
-        "text": "Mike Caulfield's thoughts, large and small, about fedwiki especially in blended learning."
-      },
-      "date": 1563811818297
-    },
-    {
-      "id": "3c7846fb44ccaf6c",
-      "type": "move",
-      "order": [
-        "3c7846fb44ccaf6c",
-        "ac2cf4d4c58cb5d9",
-        "5f619a5e78cd9352",
-        "cbd10150d9b136b3",
-        "3b4ced6ede720a70",
-        "420041ec0de0db6e",
-        "5a46e30c4d4b4cfd",
-        "d18c8a15ec4239b0",
-        "bccd94a7060d8e8b",
-        "76ae8bc73c952e5b",
-        "ca3e1d902433245b",
-        "ebc1c7ada6c66edb",
-        "a0f0d20375e9067c",
-        "3c87b7ef61efda67",
-        "07b155634def52fb"
-      ],
-      "date": 1563811823152
-    },
-    {
-      "type": "edit",
-      "id": "07b155634def52fb",
-      "item": {
-        "type": "pagefold",
-        "id": "07b155634def52fb",
-        "text": ".."
-      },
-      "date": 1563811829652
-    },
-    {
-      "id": "07b155634def52fb",
-      "type": "move",
-      "order": [
-        "3c7846fb44ccaf6c",
-        "ac2cf4d4c58cb5d9",
-        "5f619a5e78cd9352",
-        "07b155634def52fb",
-        "cbd10150d9b136b3",
-        "3b4ced6ede720a70",
-        "420041ec0de0db6e",
-        "5a46e30c4d4b4cfd",
-        "d18c8a15ec4239b0",
-        "bccd94a7060d8e8b",
-        "76ae8bc73c952e5b",
-        "ca3e1d902433245b",
-        "ebc1c7ada6c66edb",
-        "a0f0d20375e9067c",
-        "3c87b7ef61efda67"
-      ],
-      "date": 1563811834831
-    },
-    {
-      "id": "07b155634def52fb",
-      "type": "move",
-      "order": [
-        "3c7846fb44ccaf6c",
-        "07b155634def52fb",
-        "ac2cf4d4c58cb5d9",
-        "5f619a5e78cd9352",
-        "cbd10150d9b136b3",
-        "3b4ced6ede720a70",
-        "420041ec0de0db6e",
-        "5a46e30c4d4b4cfd",
-        "d18c8a15ec4239b0",
-        "bccd94a7060d8e8b",
-        "76ae8bc73c952e5b",
-        "ca3e1d902433245b",
-        "ebc1c7ada6c66edb",
-        "a0f0d20375e9067c",
-        "3c87b7ef61efda67"
-      ],
-      "date": 1563811837982
+      "date": 1486642267913
     }
   ]
 }

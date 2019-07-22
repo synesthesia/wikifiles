@@ -1,0 +1,282 @@
+{
+  "title": "Federated Wiki is an Application",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3e70e0bafdba7d12",
+      "text": "Federated Wiki exists within the browser (for the time being) but subverts certain notions of the web. It should not be judged as a series of web pages, but as a new breed of application."
+    },
+    {
+      "type": "paragraph",
+      "id": "ac789b7122fdd4c4",
+      "text": "In a conversation with Ward he expressed a bit of frustration with current \"Don't make me think\" web design. \"Don't make me think\" is appropriate to the ephemeral encounter with a soon-to-be-forgotten website. But it may not be appropriate for a tool or application designed for mastery."
+    },
+    {
+      "type": "paragraph",
+      "id": "2ba33f413e92d47c",
+      "text": "You are going to have to think a bit to get the hang of SFW, or any implementation of Federated Wiki. You are going to have to think, because you are dong new things, and new things require thinking."
+    },
+    {
+      "type": "paragraph",
+      "id": "7df76e127cb040b6",
+      "text": "Rather thinking of SFW/Federated Wiki as a set of web pages, think of it as an application to do things you generally don't do. "
+    },
+    {
+      "type": "paragraph",
+      "id": "253708ea0276d5ad",
+      "text": "Imagine you have decided you are going to learn to edit images. You open up Photoshop for the first time. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7be620c1c4c19e06",
+      "text": "Now, is Photoshop organized to \"not make you think\"? Or rather, is Photoshop organized to flow with the good practice of a halfway competent designer? "
+    },
+    {
+      "type": "paragraph",
+      "id": "b5b5c3e5e122536f",
+      "text": "The design decisions made in SFW or any Federated Wiki app are confusing at first. A number of them are likely wrong. But many of the decisions will make more sense  a few hours into using the application. "
+    },
+    {
+      "type": "paragraph",
+      "id": "d70be8c4d4319f1c",
+      "text": "Suspend your disbelief. Assume decisions were made for a reason. And if after a week or two those decisions still look bonkers, complain loudly. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Federated Wiki is an Application",
+        "story": []
+      },
+      "date": 1401031075085
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3e70e0bafdba7d12"
+      },
+      "id": "3e70e0bafdba7d12",
+      "type": "add",
+      "date": 1401031081219
+    },
+    {
+      "type": "edit",
+      "id": "3e70e0bafdba7d12",
+      "item": {
+        "type": "paragraph",
+        "id": "3e70e0bafdba7d12",
+        "text": "Federated Wiki exists within the browser (for the time being) but subverts certain notions of the web. "
+      },
+      "date": 1401031259365
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ac789b7122fdd4c4",
+        "text": ""
+      },
+      "id": "ac789b7122fdd4c4",
+      "type": "add",
+      "after": "3e70e0bafdba7d12",
+      "date": 1401031259871
+    },
+    {
+      "type": "edit",
+      "id": "ac789b7122fdd4c4",
+      "item": {
+        "type": "paragraph",
+        "id": "ac789b7122fdd4c4",
+        "text": "In a conversation with Ward he expressed a bit of frustration with current \"Don't make me think\" web design. \"Don't make me think\" is appropriate to the ephemeral "
+      },
+      "date": 1401031375344
+    },
+    {
+      "type": "edit",
+      "id": "ac789b7122fdd4c4",
+      "item": {
+        "type": "paragraph",
+        "id": "ac789b7122fdd4c4",
+        "text": "In a conversation with Ward he expressed a bit of frustration with current \"Don't make me think\" web design. \"Don't make me think\" is appropriate to the ephemeral encounter with a soon to be forgotten website. But it may not be appropriate for a tool or application designed for mastery."
+      },
+      "date": 1401031545962
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2ba33f413e92d47c",
+        "text": ""
+      },
+      "id": "2ba33f413e92d47c",
+      "type": "add",
+      "after": "ac789b7122fdd4c4",
+      "date": 1401031546464
+    },
+    {
+      "type": "edit",
+      "id": "2ba33f413e92d47c",
+      "item": {
+        "type": "paragraph",
+        "id": "2ba33f413e92d47c",
+        "text": "You are going to have to think a bit to get the hang of SFW, or any implementation of Federated Wiki. You are going to have to think, because you are dong new things, and new things require thinking."
+      },
+      "date": 1401031640111
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7df76e127cb040b6",
+        "text": ""
+      },
+      "id": "7df76e127cb040b6",
+      "type": "add",
+      "after": "2ba33f413e92d47c",
+      "date": 1401031640613
+    },
+    {
+      "type": "edit",
+      "id": "7df76e127cb040b6",
+      "item": {
+        "type": "paragraph",
+        "id": "7df76e127cb040b6",
+        "text": "Rather thinking of SFW/Federated Wiki as "
+      },
+      "date": 1401031682031
+    },
+    {
+      "type": "edit",
+      "id": "3e70e0bafdba7d12",
+      "item": {
+        "type": "paragraph",
+        "id": "3e70e0bafdba7d12",
+        "text": "Federated Wiki exists within the browser (for the time being) but subverts certain notions of the web. It should not be judged as a series of web pages, but as a new breed of application."
+      },
+      "date": 1401031710645
+    },
+    {
+      "type": "edit",
+      "id": "7df76e127cb040b6",
+      "item": {
+        "type": "paragraph",
+        "id": "7df76e127cb040b6",
+        "text": "Rather thinking of SFW/Federated Wiki as a set of web pages, think of it as an application to do things you generally don't do. "
+      },
+      "date": 1401031807504
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "253708ea0276d5ad",
+        "text": "Imagine you have decided you are going to learn to edit images. "
+      },
+      "id": "253708ea0276d5ad",
+      "type": "add",
+      "after": "7df76e127cb040b6",
+      "date": 1401031808007
+    },
+    {
+      "type": "edit",
+      "id": "253708ea0276d5ad",
+      "item": {
+        "type": "paragraph",
+        "id": "253708ea0276d5ad",
+        "text": "Imagine you have decided you are going to learn to edit images. You open up Photoshop for the first time. "
+      },
+      "date": 1401031840753
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7be620c1c4c19e06",
+        "text": ""
+      },
+      "id": "7be620c1c4c19e06",
+      "type": "add",
+      "after": "253708ea0276d5ad",
+      "date": 1401031841256
+    },
+    {
+      "type": "edit",
+      "id": "7be620c1c4c19e06",
+      "item": {
+        "type": "paragraph",
+        "id": "7be620c1c4c19e06",
+        "text": "Now, is Photoshop organized to \"not make you think\"? Or rather, is Photoshop organized to flow with the good practice of a halfway competent designer? "
+      },
+      "date": 1401031935080
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b5b5c3e5e122536f",
+        "text": ""
+      },
+      "id": "b5b5c3e5e122536f",
+      "type": "add",
+      "after": "7be620c1c4c19e06",
+      "date": 1401031935581
+    },
+    {
+      "type": "edit",
+      "id": "b5b5c3e5e122536f",
+      "item": {
+        "type": "paragraph",
+        "id": "b5b5c3e5e122536f",
+        "text": "The design decisions made in SFW or any Federated Wiki app are confusing at first. A number of them are likely wrong. But many of the decisions will make more sense  a few hours into using the application. "
+      },
+      "date": 1401032116596
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d70be8c4d4319f1c",
+        "text": "Suspend your disbelief."
+      },
+      "id": "d70be8c4d4319f1c",
+      "type": "add",
+      "after": "b5b5c3e5e122536f",
+      "date": 1401032117104
+    },
+    {
+      "type": "edit",
+      "id": "d70be8c4d4319f1c",
+      "item": {
+        "type": "paragraph",
+        "id": "d70be8c4d4319f1c",
+        "text": "Suspend your disbelief. Assume decisions were made for a reason. And if after a week or two those decisions still look bonkers, complain loudly. "
+      },
+      "date": 1401032208391
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bb71e680768f98f9",
+        "text": ""
+      },
+      "id": "bb71e680768f98f9",
+      "type": "add",
+      "after": "d70be8c4d4319f1c",
+      "date": 1401032208895
+    },
+    {
+      "type": "remove",
+      "id": "bb71e680768f98f9",
+      "date": 1401032212018
+    },
+    {
+      "type": "edit",
+      "id": "ac789b7122fdd4c4",
+      "item": {
+        "type": "paragraph",
+        "id": "ac789b7122fdd4c4",
+        "text": "In a conversation with Ward he expressed a bit of frustration with current \"Don't make me think\" web design. \"Don't make me think\" is appropriate to the ephemeral encounter with a soon-to-be-forgotten website. But it may not be appropriate for a tool or application designed for mastery."
+      },
+      "date": 1401032236864
+    },
+    {
+      "type": "fork",
+      "site": "fwthoughts.mike.fed.wiki.org",
+      "date": 1563811767465
+    }
+  ]
+}

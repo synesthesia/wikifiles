@@ -1,0 +1,329 @@
+{
+  "title": "Federated Wikis, the Universal Canvas, and Ben's Five Star Plugin",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3616bf501d52f00b",
+      "text": "I’ve borrowed Jon Udell’s term (“universal canvas”) for talking about SFW (a term that was initially coined by Microsoft). In this video I talk about a plugin my brother Ben wrote for SFW earlier this week, and try to show what that means in semi-mechanical terms."
+    },
+    {
+      "type": "paragraph",
+      "id": "ab8bdf1377593249",
+      "text": "<iframe width=\"400\" height=\"280\" src=\"//www.youtube.com/embed/l99bcrx2BEs\" frameborder=\"0\" allowfullscreen></iframe>"
+    },
+    {
+      "type": "paragraph",
+      "id": "d720bb9e807400a9",
+      "text": "One of the things I think it starts to show is how much of a construction kit SFW is. As Jon Udell noted when discussing the concept of the universal canvas (in 2006!!), most of our days are spent in a world semi-structured data, yet most of the products we have access to either have no affordances for structured data at all, or are engineered to a level of precision appropriate to accounting systems."
+    },
+    {
+      "type": "paragraph",
+      "id": "d8d717fe70ee1379",
+      "text": "Over-engineering data collection is not just a waste of resources. It’s a dangerous practice where data is concerned. Most times we start collecting data or sharing it, we’re not even really certain what we want to collect — yet modern practice forces us to design tables and subroutines before we collect *anything*. How the heck can lead users move things forward in such an environment?"
+    },
+    {
+      "type": "paragraph",
+      "id": "94d5f4bb636e1f2a",
+      "text": "In practice, of course, no one moves forward at all. Most information that could help us is never logged anywhere, or it is logged in inaccessible, unparseable formats such as Word XML. We it comes to data, we have access to pea-shooters and inter-continental missiles, and little in-between.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "0392fea8df1bc2bb",
+      "text": "A better approach is to create semi-structured data environments that rely more on conventions and culturally adopted techniques to add meaning to data. The data won’t be perfect, but because convention is more fluid than backend schemas, practice can evolve. Despite what a database admin will tell you, the biggest problem we face is not lack of data consistency. The biggest problem we face is the amount of information captured in no way at all. Using flexible JSON documents with front-end plugins starts to address that issue — and we know from history it’s a lot easier to clean up data we have retrospectively than capture data after the fact."
+    },
+    {
+      "type": "paragraph",
+      "id": "08af78cf0149ff5c",
+      "text": "In the example I show here — how would we know that the fivestar plug-in is showing your overall movie rating, and not, for instance, the rough quality of cinematography in the film? Convention. We agree that the first rating is always your overall rating. We agree that unseen films should be rated as “0″."
+    },
+    {
+      "type": "paragraph",
+      "id": "d74df53487f71ba6",
+      "text": "As that convention solidifies, it gets encoded in a template. Now the template generates these objects with template-determined IDs. So now we don’t need to look for the first “fivestar” to get the rating — we look for object ‘bd3b3ea18244c038′, which is what the template called that top fivestar interface. We walk through the sitemaps in the neighborhood and find all pages named “Pulp Fiction” and average their values, exclusive of the zeros we decided would mean “not rated”.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "ef3d15852030f6e0",
+      "text": "Is this more laborious than a join? More error-prone than a SQL Stored Procedure? Well, yeah. You’re never going to get a scientific level of precision from this."
+    },
+    {
+      "type": "paragraph",
+      "id": "d1f1b8773c2052fa",
+      "text": "But you don’t need it. If your process to find the best movies misses a film because you filled it out pre-template and it didn’t have the right object ID you will still receive more films in your search results than if you had entered no films at all. Those are the problems we tend to have in life and work, and it’s time for a process and software approach that addresses them."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Federated Wikis, the Universal Canvas, and Ben's Five Star Plugin",
+        "story": []
+      },
+      "date": 1405112694761
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5da20694770e3851"
+      },
+      "id": "5da20694770e3851",
+      "type": "add",
+      "date": 1405112698939
+    },
+    {
+      "type": "remove",
+      "id": "5da20694770e3851",
+      "date": 1405112702898
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dd57182f6605c016"
+      },
+      "id": "dd57182f6605c016",
+      "type": "add",
+      "date": 1405112717675
+    },
+    {
+      "type": "edit",
+      "id": "dd57182f6605c016",
+      "item": {
+        "type": "factory",
+        "id": "dd57182f6605c016",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "userAgent": "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+        }
+      },
+      "date": 1405112726695
+    },
+    {
+      "type": "remove",
+      "id": "dd57182f6605c016",
+      "date": 1405112731825
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3616bf501d52f00b"
+      },
+      "id": "3616bf501d52f00b",
+      "type": "add",
+      "date": 1405112740487
+    },
+    {
+      "type": "edit",
+      "id": "3616bf501d52f00b",
+      "item": {
+        "type": "paragraph",
+        "id": "3616bf501d52f00b",
+        "text": "I’ve borrowed Jon Udell’s term (“universal canvas”) for talking about SFW. In this video I talk about a plugin my brother Ben wrote for SFW earlier this week, and try to show what that means in semi-mechanical terms.\n\n\nOne of the things I think it starts to show is how much of a construction kit SFW is. As Jon Udell noted when discussing the concept of the universal canvas (in 2006!!), most of days are spent in a world semi-structured data, yet most of the products we have access to either have no affordances for structured data at all, or are engineered to a level of precision appropriate to accounting systems.\n\nOver-engineering data collection is not just a waste of resources. It’s a dangerous practice where data is concerned Most times we start collecting data or sharing it, we’re not even really certain what we want to collect — yet modern practice forces us to design tables and subroutines before we collect *anything*. How the heck can lead users move things forward in such an environment?\n\nIn practice, of course, no one moves forward at all. Most information that could help us is never logged anywhere, or it is logged in inaccessible, unparseable formats such as Word XML. We it comes to data, we have access to pea-shooters and inter-continental missiles, and little in-between.\n\nA better approach is to create semi-structured data environments that rely more on conventions and culturally adopted techniques to add meaning to data. The data won’t be perfect, but because convention is more fluid than backend schemas, practice can evolve. Despite what a database admin will tell you, the biggest problem we face is not lack of data consistency. The biggest problem we face is the amount of information captured in no way at all. Using flexible JSON documents with front-end plugins starts to address that issue — and we know from history it’s a lot easier to clean up data we have retrospectively than capture data after the fact.\n\nIn the example I show here — how would we know that the fivestar plug-in is showing your overall movie rating, and not, for instance, the rough quality of cinematography in the film? Convention. We agree that the first rating is always your overall rating. We agree that unseen films should be rated as “0″.\n\nAs that convention solidifies, it gets encoded in a template. Now the template generates these objects with template-determined IDs. So now we don’t need to look for the first “fivestar” to get the rating — we look for object ‘bd3b3ea18244c038′, which is what the template called that top fivestar interface. We walk through the sitemaps in the neighborhood and find all pages named “Pulp Fiction” and average their values, exclusive of the zeros we decided would mean “not rated”.\n\nIs this more laborious than a join? More error-prone than a SQL Stored Procedure? Well, yeah. You’re never going to get a scientific level of precision from this.\n\nBut you don’t need it. If your process to find the best movies misses a film because you filled it out pre-template and it didn’t have the right object ID you will still receive more films in your search results than if you had entered no films at all. Those are the problems we tend to have in life and work, and it’s time for a process and software approach that addresses them."
+      },
+      "date": 1405112751087
+    },
+    {
+      "type": "edit",
+      "id": "3616bf501d52f00b",
+      "item": {
+        "type": "paragraph",
+        "id": "3616bf501d52f00b",
+        "text": "I’ve borrowed Jon Udell’s term (“universal canvas”) for talking about SFW. In this video I talk about a plugin my brother Ben wrote for SFW earlier this week, and try to show what that means in semi-mechanical terms."
+      },
+      "date": 1405112797297
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d720bb9e807400a9",
+        "text": "One of the things I think it starts to show is how much of a construction kit SFW is. As Jon Udell noted when discussing the concept of the universal canvas (in 2006!!), most of days are spent in a world semi-structured data, yet most of the products we have access to either have no affordances for structured data at all, or are engineered to a level of precision appropriate to accounting systems.\n\nOver-engineering data collection is not just a waste of resources. It’s a dangerous practice where data is concerned Most times we start collecting data or sharing it, we’re not even really certain what we want to collect — yet modern practice forces us to design tables and subroutines before we collect *anything*. How the heck can lead users move things forward in such an environment?\n\nIn practice, of course, no one moves forward at all. Most information that could help us is never logged anywhere, or it is logged in inaccessible, unparseable formats such as Word XML. We it comes to data, we have access to pea-shooters and inter-continental missiles, and little in-between.\n\nA better approach is to create semi-structured data environments that rely more on conventions and culturally adopted techniques to add meaning to data. The data won’t be perfect, but because convention is more fluid than backend schemas, practice can evolve. Despite what a database admin will tell you, the biggest problem we face is not lack of data consistency. The biggest problem we face is the amount of information captured in no way at all. Using flexible JSON documents with front-end plugins starts to address that issue — and we know from history it’s a lot easier to clean up data we have retrospectively than capture data after the fact.\n\nIn the example I show here — how would we know that the fivestar plug-in is showing your overall movie rating, and not, for instance, the rough quality of cinematography in the film? Convention. We agree that the first rating is always your overall rating. We agree that unseen films should be rated as “0″.\n\nAs that convention solidifies, it gets encoded in a template. Now the template generates these objects with template-determined IDs. So now we don’t need to look for the first “fivestar” to get the rating — we look for object ‘bd3b3ea18244c038′, which is what the template called that top fivestar interface. We walk through the sitemaps in the neighborhood and find all pages named “Pulp Fiction” and average their values, exclusive of the zeros we decided would mean “not rated”.\n\nIs this more laborious than a join? More error-prone than a SQL Stored Procedure? Well, yeah. You’re never going to get a scientific level of precision from this.\n\nBut you don’t need it. If your process to find the best movies misses a film because you filled it out pre-template and it didn’t have the right object ID you will still receive more films in your search results than if you had entered no films at all. Those are the problems we tend to have in life and work, and it’s time for a process and software approach that addresses them."
+      },
+      "id": "d720bb9e807400a9",
+      "type": "add",
+      "after": "3616bf501d52f00b",
+      "date": 1405112797314
+    },
+    {
+      "type": "edit",
+      "id": "3616bf501d52f00b",
+      "item": {
+        "type": "paragraph",
+        "id": "3616bf501d52f00b",
+        "text": "I’ve borrowed Jon Udell’s term (“universal canvas”) for talking about SFW (a term that was initially coined by Microsoft). In this video I talk about a plugin my brother Ben wrote for SFW earlier this week, and try to show what that means in semi-mechanical terms."
+      },
+      "date": 1405112824326
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ab8bdf1377593249",
+        "text": ""
+      },
+      "id": "ab8bdf1377593249",
+      "type": "add",
+      "after": "3616bf501d52f00b",
+      "date": 1405112841311
+    },
+    {
+      "type": "edit",
+      "id": "ab8bdf1377593249",
+      "item": {
+        "type": "paragraph",
+        "id": "ab8bdf1377593249",
+        "text": "<iframe width=\"400\" height=\"280\" src=\"//www.youtube.com/embed/l99bcrx2BEs\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      "date": 1405112863304
+    },
+    {
+      "type": "edit",
+      "id": "d720bb9e807400a9",
+      "item": {
+        "type": "paragraph",
+        "id": "d720bb9e807400a9",
+        "text": "One of the things I think it starts to show is how much of a construction kit SFW is. As Jon Udell noted when discussing the concept of the universal canvas (in 2006!!), most of our days are spent in a world semi-structured data, yet most of the products we have access to either have no affordances for structured data at all, or are engineered to a level of precision appropriate to accounting systems."
+      },
+      "date": 1405112889130
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d8d717fe70ee1379",
+        "text": "Over-engineering data collection is not just a waste of resources. It’s a dangerous practice where data is concerned Most times we start collecting data or sharing it, we’re not even really certain what we want to collect — yet modern practice forces us to design tables and subroutines before we collect *anything*. How the heck can lead users move things forward in such an environment?\n\nIn practice, of course, no one moves forward at all. Most information that could help us is never logged anywhere, or it is logged in inaccessible, unparseable formats such as Word XML. We it comes to data, we have access to pea-shooters and inter-continental missiles, and little in-between.\n\nA better approach is to create semi-structured data environments that rely more on conventions and culturally adopted techniques to add meaning to data. The data won’t be perfect, but because convention is more fluid than backend schemas, practice can evolve. Despite what a database admin will tell you, the biggest problem we face is not lack of data consistency. The biggest problem we face is the amount of information captured in no way at all. Using flexible JSON documents with front-end plugins starts to address that issue — and we know from history it’s a lot easier to clean up data we have retrospectively than capture data after the fact.\n\nIn the example I show here — how would we know that the fivestar plug-in is showing your overall movie rating, and not, for instance, the rough quality of cinematography in the film? Convention. We agree that the first rating is always your overall rating. We agree that unseen films should be rated as “0″.\n\nAs that convention solidifies, it gets encoded in a template. Now the template generates these objects with template-determined IDs. So now we don’t need to look for the first “fivestar” to get the rating — we look for object ‘bd3b3ea18244c038′, which is what the template called that top fivestar interface. We walk through the sitemaps in the neighborhood and find all pages named “Pulp Fiction” and average their values, exclusive of the zeros we decided would mean “not rated”.\n\nIs this more laborious than a join? More error-prone than a SQL Stored Procedure? Well, yeah. You’re never going to get a scientific level of precision from this.\n\nBut you don’t need it. If your process to find the best movies misses a film because you filled it out pre-template and it didn’t have the right object ID you will still receive more films in your search results than if you had entered no films at all. Those are the problems we tend to have in life and work, and it’s time for a process and software approach that addresses them."
+      },
+      "id": "d8d717fe70ee1379",
+      "type": "add",
+      "after": "d720bb9e807400a9",
+      "date": 1405112889146
+    },
+    {
+      "type": "edit",
+      "id": "d8d717fe70ee1379",
+      "item": {
+        "type": "paragraph",
+        "id": "d8d717fe70ee1379",
+        "text": "Over-engineering data collection is not just a waste of resources. It’s a dangerous practice where data is concerned. Most times we start collecting data or sharing it, we’re not even really certain what we want to collect — yet modern practice forces us to design tables and subroutines before we collect *anything*. How the heck can lead users move things forward in such an environment?"
+      },
+      "date": 1405112908351
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "94d5f4bb636e1f2a",
+        "text": "\n\nIn practice, of course, no one moves forward at all. Most information that could help us is never logged anywhere, or it is logged in inaccessible, unparseable formats such as Word XML. We it comes to data, we have access to pea-shooters and inter-continental missiles, and little in-between.\n\nA better approach is to create semi-structured data environments that rely more on conventions and culturally adopted techniques to add meaning to data. The data won’t be perfect, but because convention is more fluid than backend schemas, practice can evolve. Despite what a database admin will tell you, the biggest problem we face is not lack of data consistency. The biggest problem we face is the amount of information captured in no way at all. Using flexible JSON documents with front-end plugins starts to address that issue — and we know from history it’s a lot easier to clean up data we have retrospectively than capture data after the fact.\n\nIn the example I show here — how would we know that the fivestar plug-in is showing your overall movie rating, and not, for instance, the rough quality of cinematography in the film? Convention. We agree that the first rating is always your overall rating. We agree that unseen films should be rated as “0″.\n\nAs that convention solidifies, it gets encoded in a template. Now the template generates these objects with template-determined IDs. So now we don’t need to look for the first “fivestar” to get the rating — we look for object ‘bd3b3ea18244c038′, which is what the template called that top fivestar interface. We walk through the sitemaps in the neighborhood and find all pages named “Pulp Fiction” and average their values, exclusive of the zeros we decided would mean “not rated”.\n\nIs this more laborious than a join? More error-prone than a SQL Stored Procedure? Well, yeah. You’re never going to get a scientific level of precision from this.\n\nBut you don’t need it. If your process to find the best movies misses a film because you filled it out pre-template and it didn’t have the right object ID you will still receive more films in your search results than if you had entered no films at all. Those are the problems we tend to have in life and work, and it’s time for a process and software approach that addresses them."
+      },
+      "id": "94d5f4bb636e1f2a",
+      "type": "add",
+      "after": "d8d717fe70ee1379",
+      "date": 1405112908366
+    },
+    {
+      "type": "edit",
+      "id": "94d5f4bb636e1f2a",
+      "item": {
+        "type": "paragraph",
+        "id": "94d5f4bb636e1f2a",
+        "text": "In practice, of course, no one moves forward at all. Most information that could help us is never logged anywhere, or it is logged in inaccessible, unparseable formats such as Word XML. We it comes to data, we have access to pea-shooters and inter-continental missiles, and little in-between.\n"
+      },
+      "date": 1405112915086
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0392fea8df1bc2bb",
+        "text": "A better approach is to create semi-structured data environments that rely more on conventions and culturally adopted techniques to add meaning to data. The data won’t be perfect, but because convention is more fluid than backend schemas, practice can evolve. Despite what a database admin will tell you, the biggest problem we face is not lack of data consistency. The biggest problem we face is the amount of information captured in no way at all. Using flexible JSON documents with front-end plugins starts to address that issue — and we know from history it’s a lot easier to clean up data we have retrospectively than capture data after the fact.\n\nIn the example I show here — how would we know that the fivestar plug-in is showing your overall movie rating, and not, for instance, the rough quality of cinematography in the film? Convention. We agree that the first rating is always your overall rating. We agree that unseen films should be rated as “0″.\n\nAs that convention solidifies, it gets encoded in a template. Now the template generates these objects with template-determined IDs. So now we don’t need to look for the first “fivestar” to get the rating — we look for object ‘bd3b3ea18244c038′, which is what the template called that top fivestar interface. We walk through the sitemaps in the neighborhood and find all pages named “Pulp Fiction” and average their values, exclusive of the zeros we decided would mean “not rated”.\n\nIs this more laborious than a join? More error-prone than a SQL Stored Procedure? Well, yeah. You’re never going to get a scientific level of precision from this.\n\nBut you don’t need it. If your process to find the best movies misses a film because you filled it out pre-template and it didn’t have the right object ID you will still receive more films in your search results than if you had entered no films at all. Those are the problems we tend to have in life and work, and it’s time for a process and software approach that addresses them."
+      },
+      "id": "0392fea8df1bc2bb",
+      "type": "add",
+      "after": "94d5f4bb636e1f2a",
+      "date": 1405112915100
+    },
+    {
+      "type": "edit",
+      "id": "0392fea8df1bc2bb",
+      "item": {
+        "type": "paragraph",
+        "id": "0392fea8df1bc2bb",
+        "text": "A better approach is to create semi-structured data environments that rely more on conventions and culturally adopted techniques to add meaning to data. The data won’t be perfect, but because convention is more fluid than backend schemas, practice can evolve. Despite what a database admin will tell you, the biggest problem we face is not lack of data consistency. The biggest problem we face is the amount of information captured in no way at all. Using flexible JSON documents with front-end plugins starts to address that issue — and we know from history it’s a lot easier to clean up data we have retrospectively than capture data after the fact."
+      },
+      "date": 1405112922137
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "08af78cf0149ff5c",
+        "text": "In the example I show here — how would we know that the fivestar plug-in is showing your overall movie rating, and not, for instance, the rough quality of cinematography in the film? Convention. We agree that the first rating is always your overall rating. We agree that unseen films should be rated as “0″.\n\nAs that convention solidifies, it gets encoded in a template. Now the template generates these objects with template-determined IDs. So now we don’t need to look for the first “fivestar” to get the rating — we look for object ‘bd3b3ea18244c038′, which is what the template called that top fivestar interface. We walk through the sitemaps in the neighborhood and find all pages named “Pulp Fiction” and average their values, exclusive of the zeros we decided would mean “not rated”.\n\nIs this more laborious than a join? More error-prone than a SQL Stored Procedure? Well, yeah. You’re never going to get a scientific level of precision from this.\n\nBut you don’t need it. If your process to find the best movies misses a film because you filled it out pre-template and it didn’t have the right object ID you will still receive more films in your search results than if you had entered no films at all. Those are the problems we tend to have in life and work, and it’s time for a process and software approach that addresses them."
+      },
+      "id": "08af78cf0149ff5c",
+      "type": "add",
+      "after": "0392fea8df1bc2bb",
+      "date": 1405112922151
+    },
+    {
+      "type": "edit",
+      "id": "08af78cf0149ff5c",
+      "item": {
+        "type": "paragraph",
+        "id": "08af78cf0149ff5c",
+        "text": "In the example I show here — how would we know that the fivestar plug-in is showing your overall movie rating, and not, for instance, the rough quality of cinematography in the film? Convention. We agree that the first rating is always your overall rating. We agree that unseen films should be rated as “0″."
+      },
+      "date": 1405112926678
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d74df53487f71ba6",
+        "text": "As that convention solidifies, it gets encoded in a template. Now the template generates these objects with template-determined IDs. So now we don’t need to look for the first “fivestar” to get the rating — we look for object ‘bd3b3ea18244c038′, which is what the template called that top fivestar interface. We walk through the sitemaps in the neighborhood and find all pages named “Pulp Fiction” and average their values, exclusive of the zeros we decided would mean “not rated”.\n\nIs this more laborious than a join? More error-prone than a SQL Stored Procedure? Well, yeah. You’re never going to get a scientific level of precision from this.\n\nBut you don’t need it. If your process to find the best movies misses a film because you filled it out pre-template and it didn’t have the right object ID you will still receive more films in your search results than if you had entered no films at all. Those are the problems we tend to have in life and work, and it’s time for a process and software approach that addresses them."
+      },
+      "id": "d74df53487f71ba6",
+      "type": "add",
+      "after": "08af78cf0149ff5c",
+      "date": 1405112926689
+    },
+    {
+      "type": "edit",
+      "id": "d74df53487f71ba6",
+      "item": {
+        "type": "paragraph",
+        "id": "d74df53487f71ba6",
+        "text": "As that convention solidifies, it gets encoded in a template. Now the template generates these objects with template-determined IDs. So now we don’t need to look for the first “fivestar” to get the rating — we look for object ‘bd3b3ea18244c038′, which is what the template called that top fivestar interface. We walk through the sitemaps in the neighborhood and find all pages named “Pulp Fiction” and average their values, exclusive of the zeros we decided would mean “not rated”.\n"
+      },
+      "date": 1405112930899
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ef3d15852030f6e0",
+        "text": "Is this more laborious than a join? More error-prone than a SQL Stored Procedure? Well, yeah. You’re never going to get a scientific level of precision from this.\n\nBut you don’t need it. If your process to find the best movies misses a film because you filled it out pre-template and it didn’t have the right object ID you will still receive more films in your search results than if you had entered no films at all. Those are the problems we tend to have in life and work, and it’s time for a process and software approach that addresses them."
+      },
+      "id": "ef3d15852030f6e0",
+      "type": "add",
+      "after": "d74df53487f71ba6",
+      "date": 1405112930912
+    },
+    {
+      "type": "edit",
+      "id": "ef3d15852030f6e0",
+      "item": {
+        "type": "paragraph",
+        "id": "ef3d15852030f6e0",
+        "text": "Is this more laborious than a join? More error-prone than a SQL Stored Procedure? Well, yeah. You’re never going to get a scientific level of precision from this."
+      },
+      "date": 1405112934691
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d1f1b8773c2052fa",
+        "text": "But you don’t need it. If your process to find the best movies misses a film because you filled it out pre-template and it didn’t have the right object ID you will still receive more films in your search results than if you had entered no films at all. Those are the problems we tend to have in life and work, and it’s time for a process and software approach that addresses them."
+      },
+      "id": "d1f1b8773c2052fa",
+      "type": "add",
+      "after": "ef3d15852030f6e0",
+      "date": 1405112934702
+    },
+    {
+      "type": "fork",
+      "site": "fwthoughts.mike.fed.wiki.org",
+      "date": 1563811991269
+    }
+  ]
+}

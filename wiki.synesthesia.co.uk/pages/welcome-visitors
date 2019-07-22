@@ -49,7 +49,7 @@
     {
       "type": "roster",
       "id": "5f2ada1338df24e3",
-      "text": "Julian Elve\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\nproduct.wiki.synesthesia.co.uk\n\n"
+      "text": "Julian Elve\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\nproduct.wiki.synesthesia.co.uk\nsynesthesia.fed.wiki.org\n\n"
     },
     {
       "type": "markdown",
@@ -69,10 +69,6 @@
     {
       "type": "changes",
       "id": "55b26a986bb8be6f"
-    },
-    {
-      "type": "factory",
-      "id": "75c6dfd07f1fea9a"
     }
   ],
   "journal": [
@@ -1138,6 +1134,21 @@
       },
       "after": "e6f9f58b25d02c1d",
       "date": 1563373455547
+    },
+    {
+      "type": "edit",
+      "id": "5f2ada1338df24e3",
+      "item": {
+        "type": "roster",
+        "id": "5f2ada1338df24e3",
+        "text": "Julian Elve\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\nproduct.wiki.synesthesia.co.uk\nsynesthesia.fed.wiki.org\n\n"
+      },
+      "date": 1563810506805
+    },
+    {
+      "type": "remove",
+      "id": "75c6dfd07f1fea9a",
+      "date": 1563811490004
     }
   ]
 }

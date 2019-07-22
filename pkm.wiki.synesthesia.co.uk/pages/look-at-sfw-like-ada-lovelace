@@ -1,0 +1,366 @@
+{
+  "title": "Look at SFW like Ada Lovelace",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d1369b9f4a1a5cf4",
+      "text": "In a presentation at New Relic, [[Ward Cunningham]] breaks into the middle of the talk to explain why Ada Lovelace was the first programmer. "
+    },
+    {
+      "type": "paragraph",
+      "id": "a0b4da8445ee0c12",
+      "text": "The story is that Ada was translating somethng on Babbage's Difference Engine from German. But she felt it missed the point, so she attached notes."
+    },
+    {
+      "type": "paragraph",
+      "id": "b9a474c14484e460",
+      "text": "The notes were actually the genius part, because it was in the noted that Lovelace made the point that the real relevance of the machine was that the numbers could represent ANYTHING. "
+    },
+    {
+      "type": "paragraph",
+      "id": "a6b2ce11f5b62198",
+      "text": "In other words, with the numbers as only numbers, it was a mechanical abacus. But with the numbers as symbols (if I understand this right) this was a general purpose platform."
+    },
+    {
+      "type": "paragraph",
+      "id": "2ac42f8c85d8210d",
+      "text": "That's a great story for a lot of reasons. The first, obvious point is that one of the greatest insights in the history of computing came to be captured by someone copying someone else's work and annotating it. That has obvious parallels to federation as a model of collaboration. "
+    },
+    {
+      "type": "paragraph",
+      "id": "f0c4d7e8267a5f79",
+      "text": "The second is that it's easy to look at federated wiki and SFW and say -- \"Federated wiki? I didn't even want a regular wiki.\""
+    },
+    {
+      "type": "paragraph",
+      "id": "58b93101e9b47e46",
+      "text": "Just as you could look at the first computer and say -- I can add just as fast on my abacus. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7c6405e0caa76bbf",
+      "text": "But it's not a calculator. It's a method of abstraction that allows new ways of doing things. Lots of things. "
+    },
+    {
+      "type": "paragraph",
+      "id": "fee3bf4e195ff114",
+      "text": "And it's not really a wiki. It's a model for distributing anything through a diffuse cooperative network. It's almost like email."
+    },
+    {
+      "type": "paragraph",
+      "id": "3cefd0ab788935fc",
+      "text": "I think there's possibilities to use this as an opening story maybe when talking to the code-inclined about this. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Look at SFW like Ada Lovelace",
+        "story": []
+      },
+      "date": 1403653998048
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d1369b9f4a1a5cf4"
+      },
+      "id": "d1369b9f4a1a5cf4",
+      "type": "add",
+      "date": 1403654000271
+    },
+    {
+      "type": "edit",
+      "id": "d1369b9f4a1a5cf4",
+      "item": {
+        "type": "paragraph",
+        "id": "d1369b9f4a1a5cf4",
+        "text": "In a presentation at New Relic, [[Ward Cunningham]] breaks into the middle of the talk to explain why Ada Lovelace was the first programmer. "
+      },
+      "date": 1403654087243
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a0b4da8445ee0c12",
+        "text": ""
+      },
+      "id": "a0b4da8445ee0c12",
+      "type": "add",
+      "after": "d1369b9f4a1a5cf4",
+      "date": 1403654087748
+    },
+    {
+      "type": "edit",
+      "id": "a0b4da8445ee0c12",
+      "item": {
+        "type": "paragraph",
+        "id": "a0b4da8445ee0c12",
+        "text": "The story is that Ada was translating somethng on Babbage's Difference Engine from German. But she felt it missed the point, so she attached notes."
+      },
+      "date": 1403654151108
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b9a474c14484e460",
+        "text": ""
+      },
+      "id": "b9a474c14484e460",
+      "type": "add",
+      "after": "a0b4da8445ee0c12",
+      "date": 1403654151616
+    },
+    {
+      "type": "edit",
+      "id": "b9a474c14484e460",
+      "item": {
+        "type": "paragraph",
+        "id": "b9a474c14484e460",
+        "text": "The notes were actually the genious part, because it was in the noted that Lovelace "
+      },
+      "date": 1403654200448
+    },
+    {
+      "type": "edit",
+      "id": "b9a474c14484e460",
+      "item": {
+        "type": "paragraph",
+        "id": "b9a474c14484e460",
+        "text": "The notes were actually the genius part, because it was in the noted that Lovelace made the point that the real relevance of the machine was that the numbers could represent ANYTHING. "
+      },
+      "date": 1403654278678
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a6b2ce11f5b62198",
+        "text": ""
+      },
+      "id": "a6b2ce11f5b62198",
+      "type": "add",
+      "after": "b9a474c14484e460",
+      "date": 1403654279181
+    },
+    {
+      "type": "edit",
+      "id": "a6b2ce11f5b62198",
+      "item": {
+        "type": "paragraph",
+        "id": "a6b2ce11f5b62198",
+        "text": "In other words, with the numbers as only numbers, it was a mechanical abacus. But with the numbers as symbols (if I understand this right) this was a platform."
+      },
+      "date": 1403654358851
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5e97f542543e3993",
+        "text": ""
+      },
+      "id": "5e97f542543e3993",
+      "type": "add",
+      "after": "a6b2ce11f5b62198",
+      "date": 1403654359353
+    },
+    {
+      "type": "remove",
+      "id": "5e97f542543e3993",
+      "date": 1403654364191
+    },
+    {
+      "type": "edit",
+      "id": "a6b2ce11f5b62198",
+      "item": {
+        "type": "paragraph",
+        "id": "a6b2ce11f5b62198",
+        "text": "In other words, with the numbers as only numbers, it was a mechanical abacus. But with the numbers as symbols (if I understand this right) this was a general purpose platform."
+      },
+      "date": 1403654373866
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2ac42f8c85d8210d",
+        "text": ""
+      },
+      "id": "2ac42f8c85d8210d",
+      "type": "add",
+      "after": "a6b2ce11f5b62198",
+      "date": 1403654374368
+    },
+    {
+      "type": "edit",
+      "id": "2ac42f8c85d8210d",
+      "item": {
+        "type": "paragraph",
+        "id": "2ac42f8c85d8210d",
+        "text": "That's a great story for a lot of reasons. The first, obvious point is that one of the greatest insights in the history of computing came to be captured by someone copying someone else's work and annotating it. That has obvious parallels to federation as a model of collaboration. "
+      },
+      "date": 1403654505880
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f0c4d7e8267a5f79",
+        "text": ""
+      },
+      "id": "f0c4d7e8267a5f79",
+      "type": "add",
+      "after": "2ac42f8c85d8210d",
+      "date": 1403654506384
+    },
+    {
+      "type": "edit",
+      "id": "f0c4d7e8267a5f79",
+      "item": {
+        "type": "paragraph",
+        "id": "f0c4d7e8267a5f79",
+        "text": "The second is that it's easy to look at federated wiki and SFW and say -- \"Federated wiki? I didn't even want a regular wiki.\""
+      },
+      "date": 1403654626792
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "58b93101e9b47e46",
+        "text": ""
+      },
+      "id": "58b93101e9b47e46",
+      "type": "add",
+      "after": "f0c4d7e8267a5f79",
+      "date": 1403654627302
+    },
+    {
+      "type": "edit",
+      "id": "58b93101e9b47e46",
+      "item": {
+        "type": "paragraph",
+        "id": "58b93101e9b47e46",
+        "text": "Just as you could look at the first computer and say -- I can add just as fast on my abacus. "
+      },
+      "date": 1403654656718
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7c6405e0caa76bbf",
+        "text": ""
+      },
+      "id": "7c6405e0caa76bbf",
+      "type": "add",
+      "after": "58b93101e9b47e46",
+      "date": 1403654657221
+    },
+    {
+      "type": "edit",
+      "id": "7c6405e0caa76bbf",
+      "item": {
+        "type": "paragraph",
+        "id": "7c6405e0caa76bbf",
+        "text": "But it's not really a wiki. It's a model for distributing anything. "
+      },
+      "date": 1403654729313
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6762d1b9c3bf1191",
+        "text": ""
+      },
+      "id": "6762d1b9c3bf1191",
+      "type": "add",
+      "after": "7c6405e0caa76bbf",
+      "date": 1403654729818
+    },
+    {
+      "type": "remove",
+      "id": "6762d1b9c3bf1191",
+      "date": 1403654734011
+    },
+    {
+      "type": "edit",
+      "id": "7c6405e0caa76bbf",
+      "item": {
+        "type": "paragraph",
+        "id": "7c6405e0caa76bbf",
+        "text": "But it's not really a wiki. It's a model for distributing anything. It's almost like email."
+      },
+      "date": 1403654745861
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3cefd0ab788935fc",
+        "text": ""
+      },
+      "id": "3cefd0ab788935fc",
+      "type": "add",
+      "after": "7c6405e0caa76bbf",
+      "date": 1403654831124
+    },
+    {
+      "type": "edit",
+      "id": "3cefd0ab788935fc",
+      "item": {
+        "type": "paragraph",
+        "id": "3cefd0ab788935fc",
+        "text": "I think there's possibilities to use this as an opening story maybe when talking to the code-inclined about this. "
+      },
+      "date": 1403654857905
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9bc7078dcc5528d4",
+        "text": ""
+      },
+      "id": "9bc7078dcc5528d4",
+      "type": "add",
+      "after": "3cefd0ab788935fc",
+      "date": 1403654858408
+    },
+    {
+      "type": "remove",
+      "id": "9bc7078dcc5528d4",
+      "date": 1403654860815
+    },
+    {
+      "type": "edit",
+      "id": "7c6405e0caa76bbf",
+      "item": {
+        "type": "paragraph",
+        "id": "7c6405e0caa76bbf",
+        "text": "But it's not a calculator. It's a method of abstraction that allows new ways of doing things. Lots of things. "
+      },
+      "date": 1403654937011
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fee3bf4e195ff114",
+        "text": "And it's not really a wiki. It's a model for distributing anything. It's almost like email."
+      },
+      "id": "fee3bf4e195ff114",
+      "type": "add",
+      "after": "7c6405e0caa76bbf",
+      "date": 1403654937517
+    },
+    {
+      "type": "edit",
+      "id": "fee3bf4e195ff114",
+      "item": {
+        "type": "paragraph",
+        "id": "fee3bf4e195ff114",
+        "text": "And it's not really a wiki. It's a model for distributing anything through a diffuse cooperative network. It's almost like email."
+      },
+      "date": 1403654966378
+    },
+    {
+      "type": "fork",
+      "site": "fwthoughts.mike.fed.wiki.org",
+      "date": 1563811979593
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "title": "open education",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3538d42eaa979a45",
+      "text": "The term Open Education is an umbrella term for many things, most of which are related to the idea of creating more flexible and net-enabled learning experiences. "
+    },
+    {
+      "type": "paragraph",
+      "id": "c0652d55caaa3321",
+      "text": "It does not generally refer to the Open Education movement of the 60s associated with student-led learning though many in the movement would see those experiments as one of many precedents."
+    },
+    {
+      "type": "paragraph",
+      "id": "5fccca441726faa5",
+      "text": "[[Open Education as Open Educational Resources]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "62121a60fa4a85d1",
+      "text": "[[Open Education as Networked Learning]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "687cd311a6e3064e",
+      "text": "[[Open Education as Open Access]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "open education",
+        "story": []
+      },
+      "date": 1400710576508
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3538d42eaa979a45"
+      },
+      "id": "3538d42eaa979a45",
+      "type": "add",
+      "date": 1400710582805
+    },
+    {
+      "type": "edit",
+      "id": "3538d42eaa979a45",
+      "item": {
+        "type": "paragraph",
+        "id": "3538d42eaa979a45",
+        "text": "This will give a thumbnail sketch of Open Ed, etc. Eventually."
+      },
+      "date": 1400710618839
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ad51b6b303b4a8a4",
+        "text": ""
+      },
+      "id": "ad51b6b303b4a8a4",
+      "type": "add",
+      "after": "3538d42eaa979a45",
+      "date": 1400710619353
+    },
+    {
+      "type": "remove",
+      "id": "ad51b6b303b4a8a4",
+      "date": 1400710621266
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5fccca441726faa5"
+      },
+      "id": "5fccca441726faa5",
+      "type": "add",
+      "after": "3538d42eaa979a45",
+      "date": 1400710777774
+    },
+    {
+      "type": "edit",
+      "id": "5fccca441726faa5",
+      "item": {
+        "type": "paragraph",
+        "id": "5fccca441726faa5",
+        "text": "Remember that the OpenCourseWare page links here. "
+      },
+      "date": 1400710797588
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8df49ad4156d94a4",
+        "text": ""
+      },
+      "id": "8df49ad4156d94a4",
+      "type": "add",
+      "after": "5fccca441726faa5",
+      "date": 1400710798097
+    },
+    {
+      "type": "remove",
+      "id": "8df49ad4156d94a4",
+      "date": 1400710802031
+    },
+    {
+      "type": "edit",
+      "id": "3538d42eaa979a45",
+      "item": {
+        "type": "paragraph",
+        "id": "3538d42eaa979a45",
+        "text": "The term Open Education is an umbrella term for many things, most of which are related to the idea of creating more flexible and connected learning experiences. "
+      },
+      "date": 1401405046503
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c0652d55caaa3321",
+        "text": ""
+      },
+      "id": "c0652d55caaa3321",
+      "type": "add",
+      "after": "3538d42eaa979a45",
+      "date": 1401405047008
+    },
+    {
+      "type": "edit",
+      "id": "c0652d55caaa3321",
+      "item": {
+        "type": "paragraph",
+        "id": "c0652d55caaa3321",
+        "text": "It does not generally refer to the Open Education movement of the 60s associated with student-led learning though many in the movement would see those experiments as one of many precedents."
+      },
+      "date": 1401405218881
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b86d216f1e050ee4",
+        "text": ""
+      },
+      "id": "b86d216f1e050ee4",
+      "type": "add",
+      "after": "c0652d55caaa3321",
+      "date": 1401405219385
+    },
+    {
+      "type": "remove",
+      "id": "b86d216f1e050ee4",
+      "date": 1401405227793
+    },
+    {
+      "type": "edit",
+      "id": "3538d42eaa979a45",
+      "item": {
+        "type": "paragraph",
+        "id": "3538d42eaa979a45",
+        "text": "The term Open Education is an umbrella term for many things, most of which are related to the idea of creating more flexible and net-enabled learning experiences. "
+      },
+      "date": 1401405255424
+    },
+    {
+      "type": "edit",
+      "id": "5fccca441726faa5",
+      "item": {
+        "type": "paragraph",
+        "id": "5fccca441726faa5",
+        "text": "[[Open Education as Open Educational Resources]]"
+      },
+      "date": 1401405291418
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "62121a60fa4a85d1",
+        "text": ""
+      },
+      "id": "62121a60fa4a85d1",
+      "type": "add",
+      "after": "5fccca441726faa5",
+      "date": 1401405291922
+    },
+    {
+      "type": "edit",
+      "id": "62121a60fa4a85d1",
+      "item": {
+        "type": "paragraph",
+        "id": "62121a60fa4a85d1",
+        "text": "[[Open Education as Networked Learning]]"
+      },
+      "date": 1401405313238
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "687cd311a6e3064e",
+        "text": ""
+      },
+      "id": "687cd311a6e3064e",
+      "type": "add",
+      "after": "62121a60fa4a85d1",
+      "date": 1401405313741
+    },
+    {
+      "type": "edit",
+      "id": "687cd311a6e3064e",
+      "item": {
+        "type": "paragraph",
+        "id": "687cd311a6e3064e",
+        "text": "[[Open Education as Open Access]]"
+      },
+      "date": 1401405335552
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6614e11e4c930ce3",
+        "text": ""
+      },
+      "id": "6614e11e4c930ce3",
+      "type": "add",
+      "after": "687cd311a6e3064e",
+      "date": 1401405336056
+    },
+    {
+      "type": "remove",
+      "id": "6614e11e4c930ce3",
+      "date": 1401405339058
+    },
+    {
+      "type": "fork",
+      "site": "mike.fed.wiki.org",
+      "date": 1401418489884
+    },
+    {
+      "type": "fork",
+      "site": "fwthoughts.mike.fed.wiki.org",
+      "date": 1563811883402
+    }
+  ]
+}
