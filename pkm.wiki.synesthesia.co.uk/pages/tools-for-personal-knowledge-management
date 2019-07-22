@@ -8,8 +8,31 @@
     },
     {
       "type": "paragraph",
+      "id": "a3bc6c94042c3a43",
+      "text": "[[Federated Wiki]]"
+    },
+    {
+      "type": "paragraph",
       "id": "e32498b6c5b3d186",
       "text": "[[Using Federated Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d82343789c3e5127",
+      "text": "[[Federated Wiki Design Principles]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "86f65943f11bda8a",
+      "text": "[[Getting Started with Federated Wiki]]"
+    },
+    {
+      "type": "reference",
+      "id": "bb529c10c542e1d8",
+      "site": "about.fed.wiki",
+      "slug": "about-federated-wiki",
+      "title": "About Federated Wiki",
+      "text": "We remain excited about this platform and have become increasingly confident that it embodies important new ideas. We will explain."
     }
   ],
   "journal": [
@@ -41,6 +64,53 @@
       },
       "after": "7d8eeb736556f1f9",
       "date": 1563520671562
+    },
+    {
+      "id": "d82343789c3e5127",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d82343789c3e5127",
+        "text": "[[Federated Wiki Design Principles]]"
+      },
+      "after": "e32498b6c5b3d186",
+      "date": 1563814817642
+    },
+    {
+      "id": "86f65943f11bda8a",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "86f65943f11bda8a",
+        "text": "[[Getting Started with Federated Wiki]]"
+      },
+      "after": "d82343789c3e5127",
+      "date": 1563814819896
+    },
+    {
+      "id": "bb529c10c542e1d8",
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "bb529c10c542e1d8",
+        "site": "about.fed.wiki",
+        "slug": "about-federated-wiki",
+        "title": "About Federated Wiki",
+        "text": "We remain excited about this platform and have become increasingly confident that it embodies important new ideas. We will explain."
+      },
+      "after": "86f65943f11bda8a",
+      "date": 1563814824698
+    },
+    {
+      "id": "a3bc6c94042c3a43",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a3bc6c94042c3a43",
+        "text": "[[Federated Wiki]]"
+      },
+      "after": "7d8eeb736556f1f9",
+      "date": 1563814831880
     }
   ]
 }

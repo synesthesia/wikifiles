@@ -2,11 +2,6 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "type": "paragraph",
-      "id": "e5d2b0d3d1e24051",
-      "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
-    },
-    {
       "text": "This  [[Federated Wiki]] site pulls together my notes on [[Personal Knowledge Management]]. See [[About this Site]] for jumping-off points into the content.",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
@@ -16,6 +11,14 @@
       "id": "63ad2e58eecdd9e5",
       "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
       "text": "[[Julian Elve]]"
+    },
+    {
+      "type": "reference",
+      "id": "351e58d819f708aa",
+      "site": "pkm.wiki.synesthesia.co.uk",
+      "slug": "about-this-site",
+      "title": "About This Site",
+      "text": "This site serves to pull together ideas about [[Personal Knowledge Management]] (PKM)"
     },
     {
       "type": "paragraph",
@@ -34,8 +37,8 @@
     },
     {
       "type": "paragraph",
-      "id": "a67f176000831d2d",
-      "text": "[[About This Site]]"
+      "id": "e5d2b0d3d1e24051",
+      "text": "You will need your own site to participate."
     },
     {
       "type": "paragraph",
@@ -568,6 +571,77 @@
       "type": "remove",
       "id": "c1168d143b9dccf2",
       "date": 1563522200964
+    },
+    {
+      "type": "edit",
+      "id": "e5d2b0d3d1e24051",
+      "item": {
+        "type": "paragraph",
+        "id": "e5d2b0d3d1e24051",
+        "text": "You will need your own site to participate."
+      },
+      "date": 1563814697430
+    },
+    {
+      "id": "e5d2b0d3d1e24051",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "63ad2e58eecdd9e5",
+        "821827c99b90cfd1",
+        "1d37e20209277a2d",
+        "aa5ebd0203376ad2",
+        "a67f176000831d2d",
+        "e5d2b0d3d1e24051",
+        "ee416d431ebf4fb4",
+        "b8d81c060d223a68"
+      ],
+      "date": 1563814704361
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "351e58d819f708aa"
+      },
+      "id": "351e58d819f708aa",
+      "type": "add",
+      "after": "b8d81c060d223a68",
+      "date": 1563814713183
+    },
+    {
+      "type": "edit",
+      "id": "351e58d819f708aa",
+      "item": {
+        "type": "reference",
+        "id": "351e58d819f708aa",
+        "site": "pkm.wiki.synesthesia.co.uk",
+        "slug": "about-this-site",
+        "title": "About This Site",
+        "text": "This site serves to pull together ideas about [[Personal Knowledge Management]] (PKM)"
+      },
+      "date": 1563814728438
+    },
+    {
+      "id": "351e58d819f708aa",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "63ad2e58eecdd9e5",
+        "351e58d819f708aa",
+        "821827c99b90cfd1",
+        "1d37e20209277a2d",
+        "aa5ebd0203376ad2",
+        "a67f176000831d2d",
+        "e5d2b0d3d1e24051",
+        "ee416d431ebf4fb4",
+        "b8d81c060d223a68"
+      ],
+      "date": 1563814733505
+    },
+    {
+      "type": "remove",
+      "id": "a67f176000831d2d",
+      "date": 1563814738396
     }
   ]
 }

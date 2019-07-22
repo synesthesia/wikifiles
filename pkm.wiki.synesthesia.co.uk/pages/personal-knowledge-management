@@ -13,8 +13,8 @@
     },
     {
       "type": "markdown",
-      "id": "bb04da584ad511db",
-      "text": "a collection of processes that a person uses to gather, classify, store, search, retrieve and share [[knowledge]] in their daily activities \n-- Grundspenkis, J. (2007), \"Agent based approach for organization and personal knowledge modelling: knowledge management perspective\", Journal of Intelligent Manufacturing, 18 (4): 451–457 [https://link.springer.com/article/10.1007%2Fs10845-007-0052-6 journal]\n-- via [https://en.wikipedia.org/wiki/Personal_knowledge_management wikipedia]  "
+      "id": "85d4858247b0f4bd",
+      "text": ">a collection of processes that a person uses to gather, classify, store, search, retrieve and share [[knowledge]] in their daily activities \n-- Grundspenkis, J. (2007), \"Agent based approach for organization and personal knowledge modelling: knowledge management perspective\", Journal of Intelligent Manufacturing, 18 (4): 451–457 [https://link.springer.com/article/10.1007%2Fs10845-007-0052-6 journal]\n-- via [https://en.wikipedia.org/wiki/Personal_knowledge_management wikipedia]  "
     },
     {
       "type": "pagefold",
@@ -29,7 +29,12 @@
     {
       "type": "paragraph",
       "id": "909fff30f37a7b6c",
-      "text": "PKM as commonly discussed is intrinsically about the use of internet-enabled [[Tools for Personal Knowledge Management]], and the connection of ideas from different sources, so is therefore an aspect of [[Connectivism]]. "
+      "text": "PKM as commonly discussed is intrinsically about the use of internet-enabled [[Tools for Personal Knowledge Management]], and the connection of ideas from different sources, so is therefore an instance of [[Connectivism]]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "08da329e7591207b",
+      "text": "The [[Sense]]-making aspect of PKM also involves elements of [[Constructivism]]"
     },
     {
       "type": "paragraph",
@@ -949,6 +954,116 @@
         "text": "PKM as commonly discussed is intrinsically about the use of internet-enabled [[Tools for Personal Knowledge Management]], and the connection of ideas from different sources, so is therefore an aspect of [[Connectivism]]. "
       },
       "date": 1563524443429
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "08da329e7591207b"
+      },
+      "id": "08da329e7591207b",
+      "type": "add",
+      "after": "16b78d91a1ab74ba",
+      "date": 1563814015418
+    },
+    {
+      "type": "edit",
+      "id": "08da329e7591207b",
+      "item": {
+        "type": "paragraph",
+        "id": "08da329e7591207b",
+        "text": "The [[Sense]]-making aspect "
+      },
+      "date": 1563814033199
+    },
+    {
+      "type": "edit",
+      "id": "08da329e7591207b",
+      "item": {
+        "type": "paragraph",
+        "id": "08da329e7591207b",
+        "text": "The [[Sense]]-making aspect of PKM also involves elements of [[Constructivism]]"
+      },
+      "date": 1563814182707
+    },
+    {
+      "id": "08da329e7591207b",
+      "type": "move",
+      "order": [
+        "c3e41550f2b94423",
+        "14df08f61f6121d1",
+        "bb04da584ad511db",
+        "5005303dcc9b399f",
+        "1296c1b075e76f7e",
+        "909fff30f37a7b6c",
+        "08da329e7591207b",
+        "9e98c8c6b4a4a72d",
+        "969038deff8c02df",
+        "16b78d91a1ab74ba"
+      ],
+      "date": 1563814186852
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "85d4858247b0f4bd"
+      },
+      "id": "85d4858247b0f4bd",
+      "type": "add",
+      "after": "16b78d91a1ab74ba",
+      "date": 1563814335282
+    },
+    {
+      "type": "edit",
+      "id": "85d4858247b0f4bd",
+      "item": {
+        "type": "markdown",
+        "id": "85d4858247b0f4bd",
+        "text": "a collection of processes that a person uses to gather, classify, store, search, retrieve and share [[knowledge]] in their daily activities \n-- Grundspenkis, J. (2007), \"Agent based approach for organization and personal knowledge modelling: knowledge management perspective\", Journal of Intelligent Manufacturing, 18 (4): 451–457 [https://link.springer.com/article/10.1007%2Fs10845-007-0052-6 journal]\n-- via [https://en.wikipedia.org/wiki/Personal_knowledge_management wikipedia]  "
+      },
+      "date": 1563814338571
+    },
+    {
+      "type": "edit",
+      "id": "85d4858247b0f4bd",
+      "item": {
+        "type": "markdown",
+        "id": "85d4858247b0f4bd",
+        "text": ">a collection of processes that a person uses to gather, classify, store, search, retrieve and share [[knowledge]] in their daily activities \n-- Grundspenkis, J. (2007), \"Agent based approach for organization and personal knowledge modelling: knowledge management perspective\", Journal of Intelligent Manufacturing, 18 (4): 451–457 [https://link.springer.com/article/10.1007%2Fs10845-007-0052-6 journal]\n-- via [https://en.wikipedia.org/wiki/Personal_knowledge_management wikipedia]  "
+      },
+      "date": 1563814345556
+    },
+    {
+      "id": "85d4858247b0f4bd",
+      "type": "move",
+      "order": [
+        "c3e41550f2b94423",
+        "14df08f61f6121d1",
+        "85d4858247b0f4bd",
+        "bb04da584ad511db",
+        "5005303dcc9b399f",
+        "1296c1b075e76f7e",
+        "909fff30f37a7b6c",
+        "08da329e7591207b",
+        "9e98c8c6b4a4a72d",
+        "969038deff8c02df",
+        "16b78d91a1ab74ba"
+      ],
+      "date": 1563814355570
+    },
+    {
+      "type": "remove",
+      "id": "bb04da584ad511db",
+      "date": 1563814359473
+    },
+    {
+      "type": "edit",
+      "id": "909fff30f37a7b6c",
+      "item": {
+        "type": "paragraph",
+        "id": "909fff30f37a7b6c",
+        "text": "PKM as commonly discussed is intrinsically about the use of internet-enabled [[Tools for Personal Knowledge Management]], and the connection of ideas from different sources, so is therefore an instance of [[Connectivism]]. "
+      },
+      "date": 1563814385363
     }
   ]
 }

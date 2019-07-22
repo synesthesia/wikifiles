@@ -1,0 +1,159 @@
+{
+  "title": "Constructivism",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "f8300172b9f0a844",
+      "text": "www.learning-theories.com"
+    },
+    {
+      "type": "markdown",
+      "id": "780a6d2d12cf39b1",
+      "text": ">Constructivism as a paradigm or worldview posits that learning is an active, constructive process. The learner is an information constructor. People actively construct or create their own subjective representations of objective reality. New information is linked to to prior knowledge, thus mental representations are subjective.\n-- [https://www.learning-theories.com/constructivism.html page]"
+    },
+    {
+      "type": "pagefold",
+      "id": "89949fedd9198eb4",
+      "text": "--"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Constructivism",
+        "story": []
+      },
+      "date": 1563814192318
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f8300172b9f0a844"
+      },
+      "id": "f8300172b9f0a844",
+      "type": "add",
+      "date": 1563814235749
+    },
+    {
+      "type": "edit",
+      "id": "f8300172b9f0a844",
+      "item": {
+        "type": "pagefold",
+        "id": "f8300172b9f0a844",
+        "text": "www.learning-theories.com"
+      },
+      "date": 1563814247220
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "780a6d2d12cf39b1"
+      },
+      "id": "780a6d2d12cf39b1",
+      "type": "add",
+      "after": "f8300172b9f0a844",
+      "date": 1563814249217
+    },
+    {
+      "type": "edit",
+      "id": "780a6d2d12cf39b1",
+      "item": {
+        "type": "markdown",
+        "id": "780a6d2d12cf39b1",
+        "text": ">Constructivism as a paradigm or worldview posits that learning is an active, constructive process. The learner is an information constructor. People actively construct or create their own subjective representations of objective reality. New information is linked to to prior knowledge, thus mental representations are subjective."
+      },
+      "date": 1563814257395
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0cd21badf8e31bfb"
+      },
+      "id": "0cd21badf8e31bfb",
+      "type": "add",
+      "after": "780a6d2d12cf39b1",
+      "date": 1563814261018
+    },
+    {
+      "type": "edit",
+      "id": "0cd21badf8e31bfb",
+      "item": {
+        "type": "paragraph",
+        "id": "0cd21badf8e31bfb",
+        "text": "> -- "
+      },
+      "date": 1563814268739
+    },
+    {
+      "type": "edit",
+      "id": "0cd21badf8e31bfb",
+      "item": {
+        "type": "paragraph",
+        "id": "0cd21badf8e31bfb",
+        "text": "> -- [https://www.learning-theories.com/constructivism.html page]"
+      },
+      "date": 1563814277614
+    },
+    {
+      "type": "remove",
+      "id": "0cd21badf8e31bfb",
+      "date": 1563814282561
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a7a834459061f763"
+      },
+      "id": "a7a834459061f763",
+      "type": "add",
+      "after": "780a6d2d12cf39b1",
+      "date": 1563814283866
+    },
+    {
+      "type": "edit",
+      "id": "a7a834459061f763",
+      "item": {
+        "type": "markdown",
+        "id": "a7a834459061f763",
+        "text": "> -- [https://www.learning-theories.com/constructivism.html page]"
+      },
+      "date": 1563814290797
+    },
+    {
+      "type": "remove",
+      "id": "a7a834459061f763",
+      "date": 1563814296317
+    },
+    {
+      "type": "edit",
+      "id": "780a6d2d12cf39b1",
+      "item": {
+        "type": "markdown",
+        "id": "780a6d2d12cf39b1",
+        "text": ">Constructivism as a paradigm or worldview posits that learning is an active, constructive process. The learner is an information constructor. People actively construct or create their own subjective representations of objective reality. New information is linked to to prior knowledge, thus mental representations are subjective.\n-- [https://www.learning-theories.com/constructivism.html page]"
+      },
+      "date": 1563814302150
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "89949fedd9198eb4"
+      },
+      "id": "89949fedd9198eb4",
+      "type": "add",
+      "after": "780a6d2d12cf39b1",
+      "date": 1563814304402
+    },
+    {
+      "type": "edit",
+      "id": "89949fedd9198eb4",
+      "item": {
+        "type": "pagefold",
+        "id": "89949fedd9198eb4",
+        "text": "--"
+      },
+      "date": 1563814310539
+    }
+  ]
+}

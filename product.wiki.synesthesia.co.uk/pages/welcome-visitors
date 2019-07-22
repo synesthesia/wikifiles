@@ -7,9 +7,12 @@
       "type": "paragraph"
     },
     {
-      "type": "paragraph",
-      "id": "dac66041ccc5e100",
-      "text": "You will need your own site to participate."
+      "type": "reference",
+      "id": "d6bcf163592cd499",
+      "site": "product.wiki.synesthesia.co.uk",
+      "slug": "approaches-to-product-strategy",
+      "title": "Approaches to Product Strategy",
+      "text": "The enquiry at hand is how successful organisations explore and exploit [[Product Strategy]]."
     },
     {
       "type": "paragraph",
@@ -17,12 +20,9 @@
       "text": "[[Other FedWiki sites hosted by Julian Elve]]"
     },
     {
-      "type": "reference",
-      "id": "d6bcf163592cd499",
-      "site": "product.wiki.synesthesia.co.uk",
-      "slug": "approaches-to-product-strategy",
-      "title": "Approaches to Product Strategy",
-      "text": "The enquiry at hand is how successful organisations explore and exploit [[Product Strategy]]."
+      "type": "paragraph",
+      "id": "dac66041ccc5e100",
+      "text": "You will need your own site to participate."
     },
     {
       "type": "paragraph",
@@ -358,6 +358,34 @@
         "text": "The enquiry at hand is how successful organisations explore and exploit [[Product Strategy]]."
       },
       "date": 1563375558478
+    },
+    {
+      "id": "dac66041ccc5e100",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "841998e21b947613",
+        "d6bcf163592cd499",
+        "dac66041ccc5e100",
+        "ee416d431ebf4fb4",
+        "b4c6cd3efab6b224",
+        "112d911ccca4ae39"
+      ],
+      "date": 1563814676273
+    },
+    {
+      "id": "d6bcf163592cd499",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "d6bcf163592cd499",
+        "841998e21b947613",
+        "dac66041ccc5e100",
+        "ee416d431ebf4fb4",
+        "b4c6cd3efab6b224",
+        "112d911ccca4ae39"
+      ],
+      "date": 1563814678528
     }
   ]
 }

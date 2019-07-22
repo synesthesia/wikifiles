@@ -9,7 +9,12 @@
     {
       "type": "html",
       "id": "f910a7b287be78e3",
-      "text": "<h4>Explorations</h4>\n\n\n\n\n\n"
+      "text": "\n\n\n\n\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "3a04c8f88303a3e1",
+      "text": "#### Explorations"
     },
     {
       "type": "reference",
@@ -30,9 +35,19 @@
       "text": "Understanding [[Roles in PKM]]"
     },
     {
+      "type": "paragraph",
+      "id": "787d3d0b47ad613a",
+      "text": "[[Tools for Personal Knowledge Management]]"
+    },
+    {
       "type": "markdown",
       "id": "19750f7866ed4bc0",
       "text": "#### Other people"
+    },
+    {
+      "type": "paragraph",
+      "id": "73ef283b36c7c8dc",
+      "text": "[[Inspirations]]"
     },
     {
       "type": "paragraph",
@@ -47,30 +62,7 @@
     {
       "type": "markdown",
       "id": "effcf15a08723ec0",
-      "text": "**Tools**\n\n\n\n"
-    },
-    {
-      "type": "paragraph",
-      "id": "a3bc6c94042c3a43",
-      "text": "[[Federated Wiki]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "86f65943f11bda8a",
-      "text": "[[Getting Started with Federated Wiki]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "d82343789c3e5127",
-      "text": "[[Federated Wiki Design Principles]]"
-    },
-    {
-      "type": "reference",
-      "id": "bb529c10c542e1d8",
-      "site": "about.fed.wiki",
-      "slug": "about-federated-wiki",
-      "title": "About Federated Wiki",
-      "text": "We remain excited about this platform and have become increasingly confident that it embodies important new ideas. We will explain."
+      "text": "\n\n\n\n"
     }
   ],
   "journal": [
@@ -1316,6 +1308,188 @@
         "bb529c10c542e1d8"
       ],
       "date": 1563523682568
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "73ef283b36c7c8dc"
+      },
+      "id": "73ef283b36c7c8dc",
+      "type": "add",
+      "after": "bb529c10c542e1d8",
+      "date": 1563814756968
+    },
+    {
+      "type": "edit",
+      "id": "73ef283b36c7c8dc",
+      "item": {
+        "type": "paragraph",
+        "id": "73ef283b36c7c8dc",
+        "text": "[[Inspirations]]"
+      },
+      "date": 1563814763619
+    },
+    {
+      "id": "73ef283b36c7c8dc",
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "f910a7b287be78e3",
+        "0488509b4da7a5a9",
+        "996c1ba6f19b2394",
+        "8c8c02d9c97b7aac",
+        "19750f7866ed4bc0",
+        "73ef283b36c7c8dc",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "effcf15a08723ec0",
+        "a3bc6c94042c3a43",
+        "86f65943f11bda8a",
+        "d82343789c3e5127",
+        "bb529c10c542e1d8"
+      ],
+      "date": 1563814767575
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "787d3d0b47ad613a"
+      },
+      "id": "787d3d0b47ad613a",
+      "type": "add",
+      "after": "bb529c10c542e1d8",
+      "date": 1563814788950
+    },
+    {
+      "type": "edit",
+      "id": "787d3d0b47ad613a",
+      "item": {
+        "type": "paragraph",
+        "id": "787d3d0b47ad613a",
+        "text": "[[Tools for Personal Knowledge Management]]"
+      },
+      "date": 1563814803244
+    },
+    {
+      "id": "787d3d0b47ad613a",
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "f910a7b287be78e3",
+        "0488509b4da7a5a9",
+        "996c1ba6f19b2394",
+        "8c8c02d9c97b7aac",
+        "787d3d0b47ad613a",
+        "19750f7866ed4bc0",
+        "73ef283b36c7c8dc",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "effcf15a08723ec0",
+        "a3bc6c94042c3a43",
+        "86f65943f11bda8a",
+        "d82343789c3e5127",
+        "bb529c10c542e1d8"
+      ],
+      "date": 1563814808855
+    },
+    {
+      "id": "d82343789c3e5127",
+      "type": "remove",
+      "date": 1563814817640
+    },
+    {
+      "id": "86f65943f11bda8a",
+      "type": "remove",
+      "date": 1563814819895
+    },
+    {
+      "id": "bb529c10c542e1d8",
+      "type": "remove",
+      "date": 1563814824680
+    },
+    {
+      "id": "a3bc6c94042c3a43",
+      "type": "remove",
+      "date": 1563814831879
+    },
+    {
+      "type": "edit",
+      "id": "effcf15a08723ec0",
+      "item": {
+        "type": "markdown",
+        "id": "effcf15a08723ec0",
+        "text": "\n\n\n\n"
+      },
+      "date": 1563814840607
+    },
+    {
+      "type": "edit",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "####Explorations\n\n\n\n\n\n"
+      },
+      "date": 1563814859317
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3a04c8f88303a3e1"
+      },
+      "id": "3a04c8f88303a3e1",
+      "type": "add",
+      "after": "effcf15a08723ec0",
+      "date": 1563814861518
+    },
+    {
+      "type": "edit",
+      "id": "3a04c8f88303a3e1",
+      "item": {
+        "type": "markdown",
+        "id": "3a04c8f88303a3e1",
+        "text": "####Explorations"
+      },
+      "date": 1563814869104
+    },
+    {
+      "type": "edit",
+      "id": "3a04c8f88303a3e1",
+      "item": {
+        "type": "markdown",
+        "id": "3a04c8f88303a3e1",
+        "text": "#### Explorations"
+      },
+      "date": 1563814872243
+    },
+    {
+      "id": "3a04c8f88303a3e1",
+      "type": "move",
+      "order": [
+        "f0177fdf76e50ab8",
+        "f910a7b287be78e3",
+        "3a04c8f88303a3e1",
+        "0488509b4da7a5a9",
+        "996c1ba6f19b2394",
+        "8c8c02d9c97b7aac",
+        "787d3d0b47ad613a",
+        "19750f7866ed4bc0",
+        "73ef283b36c7c8dc",
+        "2bbd646ff3f44b51",
+        "b2d06700b1ceb755",
+        "effcf15a08723ec0"
+      ],
+      "date": 1563814874470
+    },
+    {
+      "type": "edit",
+      "id": "f910a7b287be78e3",
+      "item": {
+        "type": "html",
+        "id": "f910a7b287be78e3",
+        "text": "\n\n\n\n\n\n"
+      },
+      "date": 1563814878346
     }
   ]
 }
