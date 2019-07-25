@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://product.wiki.synesthesia.co.uk/welcome-visitors.html</loc>
-    <lastmod>2019-07-22</lastmod>
+    <loc>http://product.wiki.synesthesia.co.uk/approaches-to-product-strategy.html</loc>
+    <lastmod>2019-07-17</lastmod>
+  </url>
+  <url>
+    <loc>http://product.wiki.synesthesia.co.uk/innovation.html</loc>
+    <lastmod>2019-07-17</lastmod>
   </url>
   <url>
     <loc>http://product.wiki.synesthesia.co.uk/julian-elve.html</loc>
     <lastmod>2019-07-17</lastmod>
   </url>
   <url>
-    <loc>http://product.wiki.synesthesia.co.uk/approaches-to-product-strategy.html</loc>
-    <lastmod>2019-07-17</lastmod>
-  </url>
-  <url>
     <loc>http://product.wiki.synesthesia.co.uk/other-fedwiki-sites-hosted-by-julian-elve.html</loc>
-    <lastmod>2019-07-17</lastmod>
-  </url>
-  <url>
-    <loc>http://product.wiki.synesthesia.co.uk/innovation.html</loc>
     <lastmod>2019-07-17</lastmod>
   </url>
   <url>
@@ -27,5 +23,9 @@
   <url>
     <loc>http://product.wiki.synesthesia.co.uk/wardley-maps.html</loc>
     <lastmod>2019-07-17</lastmod>
+  </url>
+  <url>
+    <loc>http://product.wiki.synesthesia.co.uk/welcome-visitors.html</loc>
+    <lastmod>2019-07-22</lastmod>
   </url>
 </urlset>
