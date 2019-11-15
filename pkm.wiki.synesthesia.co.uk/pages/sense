@@ -17,6 +17,11 @@
       "text": "<i>Reflection</i> / [[Reflection Workflow]]\n"
     },
     {
+      "type": "paragraph",
+      "id": "40f6ab7c289098fb",
+      "text": "[[Katas for slow sense-making]]"
+    },
+    {
       "type": "html",
       "id": "7f8b493d83edec66",
       "text": "<i>Utilising knowledge</i>"
@@ -180,6 +185,58 @@
         "text": "<i>Reflection</i> / [[Reflection Workflow]]\n"
       },
       "date": 1522323320704
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "40f6ab7c289098fb"
+      },
+      "id": "40f6ab7c289098fb",
+      "type": "add",
+      "after": "7f8b493d83edec66",
+      "date": 1573826294075
+    },
+    {
+      "type": "edit",
+      "id": "40f6ab7c289098fb",
+      "item": {
+        "type": "paragraph",
+        "id": "40f6ab7c289098fb",
+        "text": "katas "
+      },
+      "date": 1573826316782
+    },
+    {
+      "type": "edit",
+      "id": "40f6ab7c289098fb",
+      "item": {
+        "type": "paragraph",
+        "id": "40f6ab7c289098fb",
+        "text": "[Katas for slow sense-making]"
+      },
+      "date": 1573826340975
+    },
+    {
+      "type": "edit",
+      "id": "40f6ab7c289098fb",
+      "item": {
+        "type": "paragraph",
+        "id": "40f6ab7c289098fb",
+        "text": "[[Katas for slow sense-making]]"
+      },
+      "date": 1573826345694
+    },
+    {
+      "id": "40f6ab7c289098fb",
+      "type": "move",
+      "order": [
+        "77f882a26f37fd58",
+        "83b4793c529d9b3b",
+        "824a9599f53fa64e",
+        "40f6ab7c289098fb",
+        "7f8b493d83edec66"
+      ],
+      "date": 1573826348943
     }
   ]
 }
