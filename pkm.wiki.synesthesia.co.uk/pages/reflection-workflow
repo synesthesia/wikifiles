@@ -43,13 +43,13 @@
     },
     {
       "type": "paragraph",
-      "id": "c386623efd497ba4",
-      "text": "Find reflections by searching for 'reflect'."
+      "id": "43648c447d3128f2",
+      "text": "You may find it useful to lightly edit so that the insight and tone of the original makes sense within the context of your present self. Dramatic shifts or refutations are best written elsewhere and linked."
     },
     {
       "type": "paragraph",
-      "id": "43648c447d3128f2",
-      "text": "You may find it useful to lightly edit so that the insight and tone of the original makes sense within the context of your present self. Dramatic shifts or refutations are best written elsewhere and linked."
+      "id": "c386623efd497ba4",
+      "text": "Find reflections by searching for 'reflect'."
     },
     {
       "type": "paragraph",
@@ -433,6 +433,78 @@
       "type": "fork",
       "site": "forage.ward.fed.wiki.org",
       "date": 1522320940347
+    },
+    {
+      "id": "43648c447d3128f2",
+      "type": "move",
+      "order": [
+        "6ed08ea5ee69ea6c",
+        "d4b747ad9ef29ad3",
+        "18efe60a26e3140f",
+        "108e947f5e65c09d",
+        "23381c9e25c3aae7",
+        "11f6a92a49437cb0",
+        "858c424da884e410",
+        "7e1de2660b5d280f",
+        "43648c447d3128f2",
+        "c386623efd497ba4",
+        "2bea9f85f8c45f88",
+        "ad83c95c422694df",
+        "c9a3afcccd792fa8",
+        "cdb5b0c7dc03330c",
+        "8db3a5aca8cf6b7d",
+        "7ad64101b05736b9",
+        "118cebf1b0ad6192"
+      ],
+      "date": 1574015803267
+    },
+    {
+      "id": "7ad64101b05736b9",
+      "type": "move",
+      "order": [
+        "6ed08ea5ee69ea6c",
+        "d4b747ad9ef29ad3",
+        "18efe60a26e3140f",
+        "108e947f5e65c09d",
+        "23381c9e25c3aae7",
+        "11f6a92a49437cb0",
+        "858c424da884e410",
+        "7e1de2660b5d280f",
+        "43648c447d3128f2",
+        "c386623efd497ba4",
+        "2bea9f85f8c45f88",
+        "ad83c95c422694df",
+        "c9a3afcccd792fa8",
+        "cdb5b0c7dc03330c",
+        "7ad64101b05736b9",
+        "8db3a5aca8cf6b7d",
+        "118cebf1b0ad6192"
+      ],
+      "date": 1574015815033
+    },
+    {
+      "id": "8db3a5aca8cf6b7d",
+      "type": "move",
+      "order": [
+        "6ed08ea5ee69ea6c",
+        "d4b747ad9ef29ad3",
+        "18efe60a26e3140f",
+        "108e947f5e65c09d",
+        "23381c9e25c3aae7",
+        "11f6a92a49437cb0",
+        "858c424da884e410",
+        "7e1de2660b5d280f",
+        "43648c447d3128f2",
+        "c386623efd497ba4",
+        "2bea9f85f8c45f88",
+        "ad83c95c422694df",
+        "c9a3afcccd792fa8",
+        "cdb5b0c7dc03330c",
+        "8db3a5aca8cf6b7d",
+        "7ad64101b05736b9",
+        "118cebf1b0ad6192"
+      ],
+      "date": 1574015820751
     }
   ]
 }
