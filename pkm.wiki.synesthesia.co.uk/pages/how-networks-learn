@@ -1,0 +1,413 @@
+{
+  "title": "How Networks Learn",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8237f0e1df27b803",
+      "text": "Stephen Downes explains Connectivism as Learning Theory. [http://halfanhour.blogspot.ca/2014/04/connectivism-as-learning-theory.html post]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c1f07068348eecc9",
+      "text": "Explaining why learning occurs has two parts: first, describing what learning is, and second, describing how it happens. Both parts are important."
+    },
+    {
+      "type": "paragraph",
+      "id": "12656be0d5547485",
+      "text": "According to connectivism, learning is the formation of connections in a network. The learning theory, therefore, in the first instance, explains how connections are formed."
+    },
+    {
+      "type": "paragraph",
+      "id": "5a4b31dae3b46567",
+      "text": "The literature describes either actual networks of neurons ('neural networks', such as human or animal brains) or simulations of these networks ('artificial neural networks'), which are created using computers. In both cases, these networks 'learn' by automatically adjusting the set of connections between individual neurons or nodes."
+    },
+    {
+      "type": "paragraph",
+      "id": "43f65c02b4c02b5a",
+      "text": "I've presented four major categories of learning theory which describe, specifically and without black boxes, how connections are formed between entities in a network. "
+    },
+    {
+      "type": "paragraph",
+      "id": "ffaf42a68fc0acdf",
+      "text": "The actual physical descriptions of these theories vary from network to network - in human neurons, it's a set of electrical-chemical reactions, in social networks, it's communications between individual people, on computer networks it's variable values sent to logical objects."
+    },
+    {
+      "type": "pagefold",
+      "id": "c6c8a8168e474311",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "ffd8fad943146df6",
+      "text": "Downs goes on to compare learning theories at their foundation rather than at some measure of, say, efficiency, acknowledging incommensurability from the [[Kuhn Cycle]]. This leads him to several likeable but still judgement laden observations."
+    },
+    {
+      "type": "pagefold",
+      "id": "99bca7daba4ead75",
+      "text": "quote"
+    },
+    {
+      "type": "paragraph",
+      "id": "7f98339cbf5d144e",
+      "text": "Connectivists see a person learning as a self-managed and autonomous seeker of opportunities to create, interact and have new experiences, where learning is not the accumulation of more and more facts or memories, but the ongoing development of a richer and richer neural tapestry.\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "99ea3de004ca76cc",
+      "text": "Connectivists understand that the essential purpose of education and teaching is not to produce some set of core knowledge in a person, but rather to create the conditions in which a person can become an accomplished and motivated learner in their own right."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "How Networks Learn",
+        "story": []
+      },
+      "date": 1430679559730
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8237f0e1df27b803"
+      },
+      "id": "8237f0e1df27b803",
+      "type": "add",
+      "date": 1430679568904
+    },
+    {
+      "type": "edit",
+      "id": "8237f0e1df27b803",
+      "item": {
+        "type": "paragraph",
+        "id": "8237f0e1df27b803",
+        "text": "[http://halfanhour.blogspot.ca/2014/04/connectivism-as-learning-theory.html post]"
+      },
+      "date": 1430679577117
+    },
+    {
+      "type": "edit",
+      "id": "8237f0e1df27b803",
+      "item": {
+        "type": "paragraph",
+        "id": "8237f0e1df27b803",
+        "text": "Connectivism as Learning Theory. [http://halfanhour.blogspot.ca/2014/04/connectivism-as-learning-theory.html post]"
+      },
+      "date": 1430679613064
+    },
+    {
+      "type": "edit",
+      "id": "8237f0e1df27b803",
+      "item": {
+        "type": "paragraph",
+        "id": "8237f0e1df27b803",
+        "text": "Stephen Downes explains Connectivism as Learning Theory. [http://halfanhour.blogspot.ca/2014/04/connectivism-as-learning-theory.html post]"
+      },
+      "date": 1430679637203
+    },
+    {
+      "type": "edit",
+      "id": "8237f0e1df27b803",
+      "item": {
+        "type": "paragraph",
+        "id": "8237f0e1df27b803",
+        "text": "Stephen Downes explains Connectivism as Learning Theory. Explaining why learning occurs has two parts: first, describing what learning is, and second, describing how it happens (or what causes it to happen). Both parts are important.[http://halfanhour.blogspot.ca/2014/04/connectivism-as-learning-theory.html post]"
+      },
+      "date": 1430679721251
+    },
+    {
+      "type": "edit",
+      "id": "8237f0e1df27b803",
+      "item": {
+        "type": "paragraph",
+        "id": "8237f0e1df27b803",
+        "text": "Stephen Downes explains Connectivism as Learning Theory. [http://halfanhour.blogspot.ca/2014/04/connectivism-as-learning-theory.html post]"
+      },
+      "date": 1430679734828
+    },
+    {
+      "type": "add",
+      "id": "c1f07068348eecc9",
+      "item": {
+        "type": "paragraph",
+        "id": "c1f07068348eecc9",
+        "text": "Explaining why learning occurs has two parts: first, describing what learning is, and second, describing how it happens (or what causes it to happen). Both parts are important."
+      },
+      "after": "8237f0e1df27b803",
+      "date": 1430679740963
+    },
+    {
+      "type": "add",
+      "id": "12656be0d5547485",
+      "item": {
+        "type": "paragraph",
+        "id": "12656be0d5547485",
+        "text": "According to connectivism, learning is the formation of connections in a network. The learning theory, therefore, in the first instance, explains how connections are formed in a network."
+      },
+      "after": "c1f07068348eecc9",
+      "date": 1430679773584
+    },
+    {
+      "type": "add",
+      "id": "5a4b31dae3b46567",
+      "item": {
+        "type": "paragraph",
+        "id": "5a4b31dae3b46567",
+        "text": "The literature describes either actual networks of neurons ('neural networks', such as human or animal brains) or simulations of these networks ('artificial neural networks'), which are created using computers. In both cases, these networks 'learn' by automatically adjusting the set of connections between individual neurons or nodes."
+      },
+      "after": "12656be0d5547485",
+      "date": 1430679882693
+    },
+    {
+      "type": "edit",
+      "id": "12656be0d5547485",
+      "item": {
+        "type": "paragraph",
+        "id": "12656be0d5547485",
+        "text": "According to connectivism, learning is the formation of connections in a network. The learning theory, therefore, in the first instance, explains how connections are formed."
+      },
+      "date": 1430679894697
+    },
+    {
+      "type": "edit",
+      "id": "c1f07068348eecc9",
+      "item": {
+        "type": "paragraph",
+        "id": "c1f07068348eecc9",
+        "text": "Explaining why learning occurs has two parts: first, describing what learning is, and second, describing how it happens. Both parts are important."
+      },
+      "date": 1430679907578
+    },
+    {
+      "type": "add",
+      "id": "43f65c02b4c02b5a",
+      "item": {
+        "type": "paragraph",
+        "id": "43f65c02b4c02b5a",
+        "text": "I've presented four major categories of learning theory which describe, specifically and without black boxes, how connections are formed between entities in a network. \nThe actual physical descriptions of these theories vary from network to network - in human neurons, it's a set of electrical-chemical reactions, in social networks, it's communications between individual people, on computer networks it's variable values sent to logical objects."
+      },
+      "after": "5a4b31dae3b46567",
+      "date": 1430680013913
+    },
+    {
+      "type": "edit",
+      "id": "43f65c02b4c02b5a",
+      "item": {
+        "type": "paragraph",
+        "id": "43f65c02b4c02b5a",
+        "text": "I've presented four major categories of learning theory which describe, specifically and without black boxes, how connections are formed between entities in a network. "
+      },
+      "date": 1430680040535
+    },
+    {
+      "type": "add",
+      "id": "ffaf42a68fc0acdf",
+      "item": {
+        "type": "paragraph",
+        "id": "ffaf42a68fc0acdf",
+        "text": "The actual physical descriptions of these theories vary from network to network - in human neurons, it's a set of electrical-chemical reactions, in social networks, it's communications between individual people, on computer networks it's variable values sent to logical objects."
+      },
+      "after": "43f65c02b4c02b5a",
+      "date": 1430680041381
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c6c8a8168e474311"
+      },
+      "id": "c6c8a8168e474311",
+      "type": "add",
+      "after": "ffaf42a68fc0acdf",
+      "date": 1430680047672
+    },
+    {
+      "type": "edit",
+      "id": "c6c8a8168e474311",
+      "item": {
+        "type": "pagefold",
+        "id": "c6c8a8168e474311",
+        "text": "."
+      },
+      "date": 1430680051495
+    },
+    {
+      "type": "add",
+      "id": "7f98339cbf5d144e",
+      "item": {
+        "type": "paragraph",
+        "id": "7f98339cbf5d144e",
+        "text": "Connectivists see a person learning as a self-managed and autonomous seeker of opportunities to create, interact and have new experiences, where learning is not the accumulation of more and more facts or memories, but the ongoing development of a richer and richer neural tapestry.\n\n"
+      },
+      "after": "ffaf42a68fc0acdf",
+      "date": 1430680200415
+    },
+    {
+      "type": "add",
+      "id": "99ea3de004ca76cc",
+      "item": {
+        "type": "paragraph",
+        "id": "99ea3de004ca76cc",
+        "text": "Connectivists understand that the essential purpose of education and teaching is not to produce some set of core knowledge in a person, but rather to create the conditions in which a person can become an accomplished and motivated learner in their own right."
+      },
+      "after": "7f98339cbf5d144e",
+      "date": 1430680210976
+    },
+    {
+      "type": "move",
+      "order": [
+        "8237f0e1df27b803",
+        "c1f07068348eecc9",
+        "12656be0d5547485",
+        "5a4b31dae3b46567",
+        "43f65c02b4c02b5a",
+        "ffaf42a68fc0acdf",
+        "c6c8a8168e474311",
+        "7f98339cbf5d144e",
+        "99ea3de004ca76cc"
+      ],
+      "id": "c6c8a8168e474311",
+      "date": 1430680235449
+    },
+    {
+      "type": "add",
+      "id": "ffd8fad943146df6",
+      "item": {
+        "type": "paragraph",
+        "id": "ffd8fad943146df6",
+        "text": "Downs goes on to compare learning theories at their foundation rather than at some measure of, say, efficiency. "
+      },
+      "after": "7f98339cbf5d144e",
+      "date": 1430680355217
+    },
+    {
+      "type": "move",
+      "order": [
+        "8237f0e1df27b803",
+        "c1f07068348eecc9",
+        "12656be0d5547485",
+        "5a4b31dae3b46567",
+        "43f65c02b4c02b5a",
+        "ffaf42a68fc0acdf",
+        "c6c8a8168e474311",
+        "ffd8fad943146df6",
+        "7f98339cbf5d144e",
+        "99ea3de004ca76cc"
+      ],
+      "id": "ffd8fad943146df6",
+      "date": 1430680677391
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "99bca7daba4ead75"
+      },
+      "id": "99bca7daba4ead75",
+      "type": "add",
+      "after": "99ea3de004ca76cc",
+      "date": 1430680686779
+    },
+    {
+      "type": "edit",
+      "id": "99bca7daba4ead75",
+      "item": {
+        "type": "pagefold",
+        "id": "99bca7daba4ead75",
+        "text": "quote"
+      },
+      "date": 1430680697685
+    },
+    {
+      "type": "move",
+      "order": [
+        "8237f0e1df27b803",
+        "c1f07068348eecc9",
+        "12656be0d5547485",
+        "5a4b31dae3b46567",
+        "43f65c02b4c02b5a",
+        "ffaf42a68fc0acdf",
+        "c6c8a8168e474311",
+        "ffd8fad943146df6",
+        "99bca7daba4ead75",
+        "7f98339cbf5d144e",
+        "99ea3de004ca76cc"
+      ],
+      "id": "99bca7daba4ead75",
+      "date": 1430680701122
+    },
+    {
+      "type": "edit",
+      "id": "ffd8fad943146df6",
+      "item": {
+        "type": "paragraph",
+        "id": "ffd8fad943146df6",
+        "text": "Downs goes on to compare learning theories at their foundation rather than at some measure of, say, efficiency, acknowledging Kuhn's notion of incommensurability."
+      },
+      "date": 1430681002997
+    },
+    {
+      "type": "edit",
+      "id": "ffd8fad943146df6",
+      "item": {
+        "type": "paragraph",
+        "id": "ffd8fad943146df6",
+        "text": "Downs goes on to compare learning theories at their foundation rather than at some measure of, say, efficiency, acknowledging Kuhn's notion of incommensurability. This leads to likeable, but still judgement laden observations."
+      },
+      "date": 1430681130024
+    },
+    {
+      "type": "edit",
+      "id": "ffd8fad943146df6",
+      "item": {
+        "type": "paragraph",
+        "id": "ffd8fad943146df6",
+        "text": "Downs goes on to compare learning theories at their foundation rather than at some measure of, say, efficiency, acknowledging Kuhn's notion of incommensurability. This leads to likeable but still judgement laden observations."
+      },
+      "date": 1430681156264
+    },
+    {
+      "type": "edit",
+      "id": "ffd8fad943146df6",
+      "item": {
+        "type": "paragraph",
+        "id": "ffd8fad943146df6",
+        "text": "Downs goes on to compare learning theories at their foundation rather than at some measure of, say, efficiency, acknowledging the [[Kuhn Cycle]] notion of incommensurability. This leads to likeable but still judgement laden observations."
+      },
+      "date": 1430757537205
+    },
+    {
+      "type": "edit",
+      "id": "ffd8fad943146df6",
+      "item": {
+        "type": "paragraph",
+        "id": "ffd8fad943146df6",
+        "text": "Downs goes on to compare learning theories at their foundation rather than at some measure of, say, efficiency, acknowledging the [[Kuhn Cycle]] notion of incommensurability. This leads to his likeable but still judgement laden observations."
+      },
+      "date": 1430757563372
+    },
+    {
+      "type": "edit",
+      "id": "ffd8fad943146df6",
+      "item": {
+        "type": "paragraph",
+        "id": "ffd8fad943146df6",
+        "text": "Downs goes on to compare learning theories at their foundation rather than at some measure of, say, efficiency, acknowledging incommensurability from the [[Kuhn Cycle]]. This leads to his likeable but still judgement laden observations."
+      },
+      "date": 1430757623028
+    },
+    {
+      "type": "edit",
+      "id": "ffd8fad943146df6",
+      "item": {
+        "type": "paragraph",
+        "id": "ffd8fad943146df6",
+        "text": "Downs goes on to compare learning theories at their foundation rather than at some measure of, say, efficiency, acknowledging incommensurability from the [[Kuhn Cycle]]. This leads him to several likeable but still judgement laden observations."
+      },
+      "date": 1430757656805
+    },
+    {
+      "type": "fork",
+      "site": "forage.ward.fed.wiki.org",
+      "date": 1574061996462
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Sense-Making",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fbcd8f1f33894135",
+      "text": "Synonym for [[Sense]] in the context of [[Personal Knowledge Management]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Sense-Making",
+        "story": []
+      },
+      "date": 1574059407098
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fbcd8f1f33894135"
+      },
+      "id": "fbcd8f1f33894135",
+      "type": "add",
+      "date": 1574059408797
+    },
+    {
+      "type": "edit",
+      "id": "fbcd8f1f33894135",
+      "item": {
+        "type": "paragraph",
+        "id": "fbcd8f1f33894135",
+        "text": "Synonym for [[Sense]] in the context of [[Personal Knowledge Management]]"
+      },
+      "date": 1574059435780
+    }
+  ]
+}

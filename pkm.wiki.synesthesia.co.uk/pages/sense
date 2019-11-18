@@ -4,7 +4,12 @@
     {
       "type": "paragraph",
       "id": "77f882a26f37fd58",
-      "text": "In terms of [[Personal Knowledge Management]]"
+      "text": "In terms of [[Personal Knowledge Management]], aka [[Sense-Making]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "315eff131fd66cb9",
+      "text": "The [[Personal Knowledge Management]] approach to Sense-Making is a practical application of [[Connectivism]]"
     },
     {
       "type": "html",
@@ -14,17 +19,43 @@
     {
       "type": "html",
       "id": "824a9599f53fa64e",
-      "text": "<i>Reflection</i> / [[Reflection Workflow]]\n"
-    },
-    {
-      "type": "paragraph",
-      "id": "40f6ab7c289098fb",
-      "text": "[[Katas for slow sense-making]]"
+      "text": "<i>Reflective Practices</i>\n\n"
     },
     {
       "type": "html",
       "id": "7f8b493d83edec66",
       "text": "<i>Utilising knowledge</i>"
+    },
+    {
+      "type": "pagefold",
+      "id": "ae650455573caa3e",
+      "text": "scratchpad"
+    },
+    {
+      "type": "reference",
+      "id": "e72dc3e89287978e",
+      "site": "wiki.mmelcher.org",
+      "slug": "reflection",
+      "title": "Reflection",
+      "text": "\"Knowledge in the mind is not a matter of mere numbers of neurons being activated by a certain phenomenon; it is an ocean of competing and conflicting possible organizations, each ebbing and subsiding ([[ebb and flow]]) with any new input (or even upon <b>reflection</b>).\""
+    },
+    {
+      "type": "reference",
+      "id": "39d99b20a7418c11",
+      "site": "forage.ward.fed.wiki.org",
+      "slug": "how-networks-learn",
+      "title": "How Networks Learn",
+      "text": "Stephen Downes explains Connectivism as Learning Theory. [http://halfanhour.blogspot.ca/2014/04/connectivism-as-learning-theory.html post]"
+    },
+    {
+      "type": "markdown",
+      "id": "f7508575c1bda9b4",
+      "text": "[[Reflection Workflow]] with wiki"
+    },
+    {
+      "type": "paragraph",
+      "id": "40f6ab7c289098fb",
+      "text": "[[Katas for slow sense-making]]"
     }
   ],
   "journal": [
@@ -237,6 +268,257 @@
         "7f8b493d83edec66"
       ],
       "date": 1573826348943
+    },
+    {
+      "type": "edit",
+      "id": "824a9599f53fa64e",
+      "item": {
+        "type": "html",
+        "id": "824a9599f53fa64e",
+        "text": "<i>Reflective Practices</i>\n\n"
+      },
+      "date": 1574059337824
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f7508575c1bda9b4"
+      },
+      "id": "f7508575c1bda9b4",
+      "type": "add",
+      "after": "7f8b493d83edec66",
+      "date": 1574059340725
+    },
+    {
+      "type": "edit",
+      "id": "f7508575c1bda9b4",
+      "item": {
+        "type": "markdown",
+        "id": "f7508575c1bda9b4",
+        "text": "[[Reflection Workflow]] with wiki"
+      },
+      "date": 1574059369422
+    },
+    {
+      "id": "f7508575c1bda9b4",
+      "type": "move",
+      "order": [
+        "77f882a26f37fd58",
+        "83b4793c529d9b3b",
+        "824a9599f53fa64e",
+        "40f6ab7c289098fb",
+        "f7508575c1bda9b4",
+        "7f8b493d83edec66"
+      ],
+      "date": 1574059372086
+    },
+    {
+      "id": "f7508575c1bda9b4",
+      "type": "move",
+      "order": [
+        "77f882a26f37fd58",
+        "83b4793c529d9b3b",
+        "824a9599f53fa64e",
+        "f7508575c1bda9b4",
+        "40f6ab7c289098fb",
+        "7f8b493d83edec66"
+      ],
+      "date": 1574059375551
+    },
+    {
+      "type": "edit",
+      "id": "77f882a26f37fd58",
+      "item": {
+        "type": "paragraph",
+        "id": "77f882a26f37fd58",
+        "text": "In terms of [[Personal Knowledge Management]], aka Sense-Making"
+      },
+      "date": 1574059395377
+    },
+    {
+      "type": "edit",
+      "id": "77f882a26f37fd58",
+      "item": {
+        "type": "paragraph",
+        "id": "77f882a26f37fd58",
+        "text": "In terms of [[Personal Knowledge Management]], aka [[Sense-Making]]"
+      },
+      "date": 1574059404244
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e72dc3e89287978e"
+      },
+      "id": "e72dc3e89287978e",
+      "type": "add",
+      "after": "7f8b493d83edec66",
+      "date": 1574059448602
+    },
+    {
+      "type": "edit",
+      "id": "e72dc3e89287978e",
+      "item": {
+        "type": "reference",
+        "id": "e72dc3e89287978e",
+        "site": "wiki.mmelcher.org",
+        "slug": "reflection",
+        "title": "Reflection",
+        "text": "\"Knowledge in the mind is not a matter of mere numbers of neurons being activated by a certain phenomenon; it is an ocean of competing and conflicting possible organizations, each ebbing and subsiding ([[ebb and flow]]) with any new input (or even upon <b>reflection</b>).\""
+      },
+      "date": 1574059476078
+    },
+    {
+      "id": "e72dc3e89287978e",
+      "type": "move",
+      "order": [
+        "77f882a26f37fd58",
+        "83b4793c529d9b3b",
+        "824a9599f53fa64e",
+        "e72dc3e89287978e",
+        "f7508575c1bda9b4",
+        "40f6ab7c289098fb",
+        "7f8b493d83edec66"
+      ],
+      "date": 1574059482622
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "39d99b20a7418c11"
+      },
+      "id": "39d99b20a7418c11",
+      "type": "add",
+      "after": "7f8b493d83edec66",
+      "date": 1574061964844
+    },
+    {
+      "type": "edit",
+      "id": "39d99b20a7418c11",
+      "item": {
+        "type": "reference",
+        "id": "39d99b20a7418c11",
+        "site": "forage.ward.fed.wiki.org",
+        "slug": "how-networks-learn",
+        "title": "How Networks Learn",
+        "text": "Stephen Downes explains Connectivism as Learning Theory. [http://halfanhour.blogspot.ca/2014/04/connectivism-as-learning-theory.html post]"
+      },
+      "date": 1574061980738
+    },
+    {
+      "id": "39d99b20a7418c11",
+      "type": "move",
+      "order": [
+        "77f882a26f37fd58",
+        "83b4793c529d9b3b",
+        "824a9599f53fa64e",
+        "e72dc3e89287978e",
+        "39d99b20a7418c11",
+        "f7508575c1bda9b4",
+        "40f6ab7c289098fb",
+        "7f8b493d83edec66"
+      ],
+      "date": 1574061986867
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "315eff131fd66cb9"
+      },
+      "id": "315eff131fd66cb9",
+      "type": "add",
+      "after": "7f8b493d83edec66",
+      "date": 1574062040950
+    },
+    {
+      "type": "edit",
+      "id": "315eff131fd66cb9",
+      "item": {
+        "type": "paragraph",
+        "id": "315eff131fd66cb9",
+        "text": "The [[Personal KNowledge Management]] approach to Sense-Making is a practical application of [[Connectivism]]"
+      },
+      "date": 1574062101588
+    },
+    {
+      "type": "edit",
+      "id": "315eff131fd66cb9",
+      "item": {
+        "type": "paragraph",
+        "id": "315eff131fd66cb9",
+        "text": "The [[Personal Knowledge Management]] approach to Sense-Making is a practical application of [[Connectivism]]"
+      },
+      "date": 1574062108787
+    },
+    {
+      "id": "315eff131fd66cb9",
+      "type": "move",
+      "order": [
+        "77f882a26f37fd58",
+        "315eff131fd66cb9",
+        "83b4793c529d9b3b",
+        "824a9599f53fa64e",
+        "e72dc3e89287978e",
+        "39d99b20a7418c11",
+        "f7508575c1bda9b4",
+        "40f6ab7c289098fb",
+        "7f8b493d83edec66"
+      ],
+      "date": 1574062112342
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ae650455573caa3e"
+      },
+      "id": "ae650455573caa3e",
+      "type": "add",
+      "after": "7f8b493d83edec66",
+      "date": 1574062116734
+    },
+    {
+      "id": "7f8b493d83edec66",
+      "type": "move",
+      "order": [
+        "77f882a26f37fd58",
+        "315eff131fd66cb9",
+        "83b4793c529d9b3b",
+        "824a9599f53fa64e",
+        "7f8b493d83edec66",
+        "e72dc3e89287978e",
+        "39d99b20a7418c11",
+        "f7508575c1bda9b4",
+        "40f6ab7c289098fb",
+        "ae650455573caa3e"
+      ],
+      "date": 1574062132983
+    },
+    {
+      "type": "edit",
+      "id": "ae650455573caa3e",
+      "item": {
+        "type": "pagefold",
+        "id": "ae650455573caa3e",
+        "text": "scratchpad"
+      },
+      "date": 1574062144827
+    },
+    {
+      "id": "ae650455573caa3e",
+      "type": "move",
+      "order": [
+        "77f882a26f37fd58",
+        "315eff131fd66cb9",
+        "83b4793c529d9b3b",
+        "824a9599f53fa64e",
+        "7f8b493d83edec66",
+        "ae650455573caa3e",
+        "e72dc3e89287978e",
+        "39d99b20a7418c11",
+        "f7508575c1bda9b4",
+        "40f6ab7c289098fb"
+      ],
+      "date": 1574062147246
     }
   ]
 }
