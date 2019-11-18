@@ -1,0 +1,159 @@
+{
+  "title": "Infer",
+  "story": [
+    {
+      "type": "html",
+      "id": "561fea81b3c41ab8",
+      "text": "\"The creation of scepticism creates the requirement that we <b>infer</b> from the mental to the physical\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Scepticism')"
+    },
+    {
+      "type": "html",
+      "id": "76920a4dd12d4125",
+      "text": "\"The problem of <em>qualia</em> (ie., subjective experience) arises only when I am making <b>inferences</b> about the external world.\"\n..."
+    },
+    {
+      "type": "html",
+      "id": "902f3ccbdc7bea93",
+      "text": "\"a presumption that our thoughts and beliefs about objects and principles and the world at large are the result of a <em>logical <b>inference</b></em> from sensations to beliefs. \nWe now know that there is no such inference.\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Intentionality')"
+    },
+    {
+      "type": "html",
+      "id": "0ce75a781fc63154",
+      "text": "\"There is no principle of logic or reason that will allow an <b>inference</b> from concrete experience to [[abstract]] [[universal]]. \" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Mind')"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Infer",
+        "story": []
+      },
+      "date": 1573476970878
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "561fea81b3c41ab8"
+      },
+      "id": "561fea81b3c41ab8",
+      "type": "add",
+      "date": 1573476972663
+    },
+    {
+      "type": "edit",
+      "id": "561fea81b3c41ab8",
+      "item": {
+        "type": "html",
+        "id": "561fea81b3c41ab8",
+        "text": "\"The creation of scepticism creates the requirement that we <b>infer</b> from the mental to the physical\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Scepticism')"
+      },
+      "date": 1573476983563
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "76920a4dd12d4125"
+      },
+      "id": "76920a4dd12d4125",
+      "type": "add",
+      "after": "561fea81b3c41ab8",
+      "date": 1573476990192
+    },
+    {
+      "type": "edit",
+      "id": "76920a4dd12d4125",
+      "item": {
+        "type": "html",
+        "id": "76920a4dd12d4125",
+        "text": "\"The problem of <em>qualia</em> (ie., subjective experience) arises only when I am making <b>inferences</b> about the external world.\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Intentionality')"
+      },
+      "date": 1573476999755
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "902f3ccbdc7bea93"
+      },
+      "id": "902f3ccbdc7bea93",
+      "type": "add",
+      "after": "76920a4dd12d4125",
+      "date": 1573477007247
+    },
+    {
+      "type": "edit",
+      "id": "902f3ccbdc7bea93",
+      "item": {
+        "type": "html",
+        "id": "902f3ccbdc7bea93",
+        "text": "\"a presumption that our thoughts and beliefs about objects and principles and the world at large are the result of a <em>logical <b>inference</b></em> from sensations to beliefs. \nWe now know that there is no such inference.\" ..."
+      },
+      "date": 1573477011984
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0ce75a781fc63154"
+      },
+      "id": "0ce75a781fc63154",
+      "type": "add",
+      "after": "902f3ccbdc7bea93",
+      "date": 1573477021871
+    },
+    {
+      "type": "edit",
+      "id": "0ce75a781fc63154",
+      "item": {
+        "type": "html",
+        "id": "0ce75a781fc63154",
+        "text": "\"There is no principle of logic or reason that will allow an <b>inference</b> from concrete experience to abstract universal. \" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Mind')"
+      },
+      "date": 1573477026210
+    },
+    {
+      "type": "edit",
+      "id": "0ce75a781fc63154",
+      "item": {
+        "type": "html",
+        "id": "0ce75a781fc63154",
+        "text": "\"There is no principle of logic or reason that will allow an <b>inference</b> from concrete experience to [[Abstract]] [[Universal]]. \" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Mind')"
+      },
+      "date": 1573478043687
+    },
+    {
+      "type": "edit",
+      "id": "0ce75a781fc63154",
+      "item": {
+        "type": "html",
+        "id": "0ce75a781fc63154",
+        "text": "\"There is no principle of logic or reason that will allow an <b>inference</b> from concrete experience to [[abstract]] [[universal]]. \" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Mind')"
+      },
+      "date": 1573479118217
+    },
+    {
+      "type": "edit",
+      "id": "76920a4dd12d4125",
+      "item": {
+        "type": "html",
+        "id": "76920a4dd12d4125",
+        "text": "\"The problem of <em>qualia</em> (ie., subjective experience) arises only when I am making <b>inferences</b> about the external world.\"\n..."
+      },
+      "date": 1573561044124
+    },
+    {
+      "type": "edit",
+      "id": "902f3ccbdc7bea93",
+      "item": {
+        "type": "html",
+        "id": "902f3ccbdc7bea93",
+        "text": "\"a presumption that our thoughts and beliefs about objects and principles and the world at large are the result of a <em>logical <b>inference</b></em> from sensations to beliefs. \nWe now know that there is no such inference.\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Intentionality')"
+      },
+      "date": 1573561055181
+    },
+    {
+      "type": "fork",
+      "site": "wiki.mmelcher.org",
+      "date": 1574062905899
+    }
+  ]
+}

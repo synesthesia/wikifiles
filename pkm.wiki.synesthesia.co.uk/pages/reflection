@@ -1,0 +1,149 @@
+{
+  "title": "Reflection",
+  "story": [
+    {
+      "type": "html",
+      "id": "451e271806ee83f2",
+      "text": "\"Knowledge in the mind is not a matter of mere numbers of neurons being activated by a certain phenomenon; it is an ocean of competing and conflicting possible organizations, each ebbing and subsiding ([[ebb and flow]]) with any new input (or even upon <b>reflection</b>).\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Truth')"
+    },
+    {
+      "type": "html",
+      "id": "0cc7b3db0d439ce5",
+      "text": "\"There is no 'magic' to obtaining knowledge, no secret short-cut, save for practice and <b>reflection</b> - Hebbian and [[Boltzmann]] connectivism.\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Reflection",
+        "story": []
+      },
+      "date": 1573406237311
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "451e271806ee83f2"
+      },
+      "id": "451e271806ee83f2",
+      "type": "add",
+      "date": 1573406239172
+    },
+    {
+      "type": "edit",
+      "id": "451e271806ee83f2",
+      "item": {
+        "type": "html",
+        "id": "451e271806ee83f2",
+        "text": "\"Knowledge in the mind is not a matter of mere numbers of neurons being activated by a certain phenomenon; it is an ocean of competing and conflicting possible organizations, each ebbing and subsiding with any new input (or even upon <b>reflection</b>).\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Truth')\n"
+      },
+      "date": 1573406259552
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0cc7b3db0d439ce5"
+      },
+      "id": "0cc7b3db0d439ce5",
+      "type": "add",
+      "after": "451e271806ee83f2",
+      "date": 1573406307284
+    },
+    {
+      "type": "edit",
+      "id": "0cc7b3db0d439ce5",
+      "item": {
+        "type": "html",
+        "id": "0cc7b3db0d439ce5",
+        "text": "\"There is no 'magic' to obtaining knowledge, no secret short-cut, save for practice and reflection - Hebbian and Boltzman connectivism.\""
+      },
+      "date": 1573406321296
+    },
+    {
+      "type": "edit",
+      "id": "0cc7b3db0d439ce5",
+      "item": {
+        "type": "html",
+        "id": "0cc7b3db0d439ce5",
+        "text": "\"There is no 'magic' to obtaining knowledge, no secret short-cut, save for practice and reflection - Hebbian and Boltzman connectivism.\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')\n"
+      },
+      "date": 1573406348033
+    },
+    {
+      "type": "edit",
+      "id": "0cc7b3db0d439ce5",
+      "item": {
+        "type": "html",
+        "id": "0cc7b3db0d439ce5",
+        "text": "\"There is no 'magic' to obtaining knowledge, no secret short-cut, save for practice and <b>reflection</b> - Hebbian and [[Boltzman]] connectivism.\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')\n"
+      },
+      "date": 1573406409398
+    },
+    {
+      "type": "edit",
+      "id": "0cc7b3db0d439ce5",
+      "item": {
+        "type": "html",
+        "id": "0cc7b3db0d439ce5",
+        "text": "\"There is no 'magic' to obtaining knowledge, no secret short-cut, save for practice and <b>reflection</b> - Hebbian and [[Boltzmann]] connectivism.\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')\n"
+      },
+      "date": 1573406501610
+    },
+    {
+      "type": "edit",
+      "id": "451e271806ee83f2",
+      "item": {
+        "type": "html",
+        "id": "451e271806ee83f2",
+        "text": "\"Knowledge in the mind is not a matter of mere numbers of neurons being activated by a certain phenomenon; it is an ocean of competing and conflicting possible organizations, each [[ebb]]ing and subsiding with any new input (or even upon <b>reflection</b>).\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Truth')\n"
+      },
+      "date": 1573407726349
+    },
+    {
+      "type": "edit",
+      "id": "451e271806ee83f2",
+      "item": {
+        "type": "html",
+        "id": "451e271806ee83f2",
+        "text": "\"Knowledge in the mind is not a matter of mere numbers of neurons being activated by a certain phenomenon; it is an ocean of competing and conflicting possible organizations, each ebbing and subsiding ([[ebb and floe]]) with any new input (or even upon <b>reflection</b>).\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Truth')\n"
+      },
+      "date": 1573415216064
+    },
+    {
+      "type": "edit",
+      "id": "451e271806ee83f2",
+      "item": {
+        "type": "html",
+        "id": "451e271806ee83f2",
+        "text": "\"Knowledge in the mind is not a matter of mere numbers of neurons being activated by a certain phenomenon; it is an ocean of competing and conflicting possible organizations, each ebbing and subsiding ([[ebb and flow]]) with any new input (or even upon <b>reflection</b>).\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Truth')\n"
+      },
+      "date": 1573415224545
+    },
+    {
+      "type": "edit",
+      "id": "451e271806ee83f2",
+      "item": {
+        "type": "html",
+        "id": "451e271806ee83f2",
+        "text": "\"Knowledge in the mind is not a matter of mere numbers of neurons being activated by a certain phenomenon; it is an ocean of competing and conflicting possible organizations, each ebbing and subsiding ([[ebb and flow]]) with any new input (or even upon <b>reflection</b>).\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Truth')"
+      },
+      "date": 1573470548142
+    },
+    {
+      "type": "edit",
+      "id": "0cc7b3db0d439ce5",
+      "item": {
+        "type": "html",
+        "id": "0cc7b3db0d439ce5",
+        "text": "\"There is no 'magic' to obtaining knowledge, no secret short-cut, save for practice and <b>reflection</b> - Hebbian and [[Boltzmann]] connectivism.\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')"
+      },
+      "date": 1573470555449
+    },
+    {
+      "type": "fork",
+      "site": "wiki.mmelcher.org",
+      "date": 1574062896224
+    }
+  ]
+}

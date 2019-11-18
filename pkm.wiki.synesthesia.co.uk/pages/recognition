@@ -1,0 +1,113 @@
+{
+  "title": "Recognition",
+  "story": [
+    {
+      "type": "html",
+      "id": "dbc88f99896028b2",
+      "text": "\"Knowledge is <b>recognition</b>\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Knowledge')"
+    },
+    {
+      "type": "html",
+      "id": "8c04c8107b684caf",
+      "text": "See also: [[Practice]]"
+    },
+    {
+      "type": "html",
+      "id": "0533cc47f85db477",
+      "text": "See also: [[Emergence and recognition]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Recognition",
+        "story": []
+      },
+      "date": 1573477416776
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0533cc47f85db477"
+      },
+      "id": "0533cc47f85db477",
+      "type": "add",
+      "date": 1573477418303
+    },
+    {
+      "type": "edit",
+      "id": "0533cc47f85db477",
+      "item": {
+        "type": "html",
+        "id": "0533cc47f85db477",
+        "text": "See also: [[Emergence and recognition]]"
+      },
+      "date": 1573477426527
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dbc88f99896028b2"
+      },
+      "id": "dbc88f99896028b2",
+      "type": "add",
+      "after": "0533cc47f85db477",
+      "date": 1573477432871
+    },
+    {
+      "type": "edit",
+      "id": "dbc88f99896028b2",
+      "item": {
+        "type": "html",
+        "id": "dbc88f99896028b2",
+        "text": "\"Knowledge is <b>recognition</b>\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Knowledge')"
+      },
+      "date": 1573477437819
+    },
+    {
+      "id": "dbc88f99896028b2",
+      "type": "move",
+      "order": [
+        "dbc88f99896028b2",
+        "0533cc47f85db477"
+      ],
+      "date": 1573477440320
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8c04c8107b684caf"
+      },
+      "id": "8c04c8107b684caf",
+      "type": "add",
+      "after": "0533cc47f85db477",
+      "date": 1573479475635
+    },
+    {
+      "type": "edit",
+      "id": "8c04c8107b684caf",
+      "item": {
+        "type": "html",
+        "id": "8c04c8107b684caf",
+        "text": "See also: [[Practice]]"
+      },
+      "date": 1573479493993
+    },
+    {
+      "id": "8c04c8107b684caf",
+      "type": "move",
+      "order": [
+        "dbc88f99896028b2",
+        "8c04c8107b684caf",
+        "0533cc47f85db477"
+      ],
+      "date": 1573479496646
+    },
+    {
+      "type": "fork",
+      "site": "wiki.mmelcher.org",
+      "date": 1574062852118
+    }
+  ]
+}

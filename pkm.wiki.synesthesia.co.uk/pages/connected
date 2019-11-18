@@ -1,0 +1,78 @@
+{
+  "title": "Connected",
+  "story": [
+    {
+      "type": "html",
+      "id": "8621311f487de862",
+      "text": "\"two major types of knowledge: qualitative and quantitative. [[Distributed]] knowledge adds a third major category to this domain, knowledge that could be described as <b>connective</b>.\" ... \n"
+    },
+    {
+      "type": "html",
+      "id": "8bbc9d7d0873610b",
+      "text": "\"Connective knowledge is [[emergent]].\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Knowledge')"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Connected",
+        "story": []
+      },
+      "date": 1573476557838
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8bbc9d7d0873610b"
+      },
+      "id": "8bbc9d7d0873610b",
+      "type": "add",
+      "date": 1573476563368
+    },
+    {
+      "type": "edit",
+      "id": "8bbc9d7d0873610b",
+      "item": {
+        "type": "html",
+        "id": "8bbc9d7d0873610b",
+        "text": "\"Connective knowledge is [[emergent]].\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Knowledge')"
+      },
+      "date": 1573476570260
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8621311f487de862"
+      },
+      "id": "8621311f487de862",
+      "type": "add",
+      "after": "8bbc9d7d0873610b",
+      "date": 1573476579870
+    },
+    {
+      "type": "edit",
+      "id": "8621311f487de862",
+      "item": {
+        "type": "html",
+        "id": "8621311f487de862",
+        "text": "\"two major types of knowledge: qualitative and quantitative. [[Distributed]] knowledge adds a third major category to this domain, knowledge that could be described as <b>connective</b>.\" ... \n"
+      },
+      "date": 1573476589491
+    },
+    {
+      "id": "8621311f487de862",
+      "type": "move",
+      "order": [
+        "8621311f487de862",
+        "8bbc9d7d0873610b"
+      ],
+      "date": 1573476592204
+    },
+    {
+      "type": "fork",
+      "site": "wiki.mmelcher.org",
+      "date": 1574062838522
+    }
+  ]
+}

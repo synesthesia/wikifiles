@@ -1,0 +1,114 @@
+{
+  "title": "Distributed",
+  "story": [
+    {
+      "type": "html",
+      "id": "8e2b4fb53d951de3",
+      "text": "\"The concept of 'redness' is an example of <b>distributed</b> meaning. There is no particular place we could point to where the 'meaning' of 'redness' is located. (We could say ‘meaning’ = ‘connective similarity’?)\"\n"
+    },
+    {
+      "type": "html",
+      "id": "755b2ee4dda80984",
+      "text": "\n\"When the meanings of words are distributed, the basis of their meanings - the smaller [[subsymbolic]] entities that make up the meanings - are intermingled.\"\n"
+    },
+    {
+      "type": "html",
+      "id": "9cdfec0ab74bf1da",
+      "text": "([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Meaning')"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Distributed",
+        "story": []
+      },
+      "date": 1573413070566
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8e2b4fb53d951de3"
+      },
+      "id": "8e2b4fb53d951de3",
+      "type": "add",
+      "date": 1573413071768
+    },
+    {
+      "type": "edit",
+      "id": "8e2b4fb53d951de3",
+      "item": {
+        "type": "html",
+        "id": "8e2b4fb53d951de3",
+        "text": "\"The concept of 'redness' is an example of <b>distributed</b> meaning. There is no particular place we could point to where the 'meaning' of 'redness' is located. (We could say ‘meaning’ = ‘connective similarity’?)\"\n\n\"When the meanings of words are distributed, the basis of their meanings - the smaller [[subsymbolic]] entities that make up the meanings - are intermingled.\""
+      },
+      "date": 1573413155285
+    },
+    {
+      "type": "edit",
+      "id": "8e2b4fb53d951de3",
+      "item": {
+        "type": "html",
+        "id": "8e2b4fb53d951de3",
+        "text": "\"The concept of 'redness' is an example of <b>distributed</b> meaning. There is no particular place we could point to where the 'meaning' of 'redness' is located. (We could say ‘meaning’ = ‘connective similarity’?)\"\n\n\"When the meanings of words are distributed, the basis of their meanings - the smaller [[subsymbolic]] entities that make up the meanings - are intermingled.\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Meaning')"
+      },
+      "date": 1573413200451
+    },
+    {
+      "type": "edit",
+      "id": "8e2b4fb53d951de3",
+      "item": {
+        "type": "html",
+        "id": "8e2b4fb53d951de3",
+        "text": "\"The concept of 'redness' is an example of <b>distributed</b> meaning. There is no particular place we could point to where the 'meaning' of 'redness' is located. (We could say ‘meaning’ = ‘connective similarity’?)\"\n"
+      },
+      "date": 1573413211003
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "755b2ee4dda80984"
+      },
+      "id": "755b2ee4dda80984",
+      "type": "add",
+      "after": "8e2b4fb53d951de3",
+      "date": 1573413212191
+    },
+    {
+      "type": "edit",
+      "id": "755b2ee4dda80984",
+      "item": {
+        "type": "html",
+        "id": "755b2ee4dda80984",
+        "text": "\n\"When the meanings of words are distributed, the basis of their meanings - the smaller [[subsymbolic]] entities that make up the meanings - are intermingled.\"\n"
+      },
+      "date": 1573413223386
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9cdfec0ab74bf1da"
+      },
+      "id": "9cdfec0ab74bf1da",
+      "type": "add",
+      "after": "755b2ee4dda80984",
+      "date": 1573413226166
+    },
+    {
+      "type": "edit",
+      "id": "9cdfec0ab74bf1da",
+      "item": {
+        "type": "html",
+        "id": "9cdfec0ab74bf1da",
+        "text": "([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Meaning')"
+      },
+      "date": 1573413230174
+    },
+    {
+      "type": "fork",
+      "site": "wiki.mmelcher.org",
+      "date": 1574062871918
+    }
+  ]
+}

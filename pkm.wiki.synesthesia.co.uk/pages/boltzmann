@@ -1,0 +1,99 @@
+{
+  "title": "Boltzmann",
+  "story": [
+    {
+      "type": "html",
+      "id": "372e5f6d66ed5877",
+      "text": "\"[[Association]] mechanisms: Hebbian, back propagation, <b>Boltzman</b>, contiguity\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')"
+    },
+    {
+      "type": "html",
+      "id": "1de30cfd9597eef3",
+      "text": "See also [[reflection]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Boltzmann",
+        "story": []
+      },
+      "date": 1573406629043
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "372e5f6d66ed5877"
+      },
+      "id": "372e5f6d66ed5877",
+      "type": "add",
+      "date": 1573406656059
+    },
+    {
+      "type": "edit",
+      "id": "372e5f6d66ed5877",
+      "item": {
+        "type": "html",
+        "id": "372e5f6d66ed5877",
+        "text": "\"Association mechanisms: Hebbian, back propagation, Boltzman, contiguity\" \n"
+      },
+      "date": 1573406667839
+    },
+    {
+      "type": "edit",
+      "id": "372e5f6d66ed5877",
+      "item": {
+        "type": "html",
+        "id": "372e5f6d66ed5877",
+        "text": "\"Association mechanisms: Hebbian, back propagation, <b>Boltzman</b>, contiguity\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')\n"
+      },
+      "date": 1573406696744
+    },
+    {
+      "type": "edit",
+      "id": "372e5f6d66ed5877",
+      "item": {
+        "type": "html",
+        "id": "372e5f6d66ed5877",
+        "text": "\"[[Association]] mechanisms: Hebbian, back propagation, <b>Boltzman</b>, contiguity\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')\n"
+      },
+      "date": 1573406785859
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1de30cfd9597eef3"
+      },
+      "id": "1de30cfd9597eef3",
+      "type": "add",
+      "after": "372e5f6d66ed5877",
+      "date": 1573422490523
+    },
+    {
+      "type": "edit",
+      "id": "1de30cfd9597eef3",
+      "item": {
+        "type": "html",
+        "id": "1de30cfd9597eef3",
+        "text": "See also [[reflection]]"
+      },
+      "date": 1573422509795
+    },
+    {
+      "type": "edit",
+      "id": "372e5f6d66ed5877",
+      "item": {
+        "type": "html",
+        "id": "372e5f6d66ed5877",
+        "text": "\"[[Association]] mechanisms: Hebbian, back propagation, <b>Boltzman</b>, contiguity\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')"
+      },
+      "date": 1573467751069
+    },
+    {
+      "type": "fork",
+      "site": "wiki.mmelcher.org",
+      "date": 1574062900597
+    }
+  ]
+}

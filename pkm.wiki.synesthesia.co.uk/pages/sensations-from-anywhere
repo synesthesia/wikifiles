@@ -1,0 +1,469 @@
+{
+  "title": "Sensations from anywhere",
+  "story": [
+    {
+      "type": "html",
+      "id": "178ddaf2733291b2",
+      "text": "\"We don't just sense what we see, feel, touch, etc.; our <b>sensations</b> might arise out of interactions among neurons <b>anywhere</b> in the brain.\"  ... \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Mind')"
+    },
+    {
+      "type": "html",
+      "id": "eb87c650501860f9",
+      "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way [[we experience]]  sensations\" ([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Intentionality')"
+    },
+    {
+      "type": "html",
+      "id": "ff065cbdc0566eaa",
+      "text": "\"Why would the brain feed us sensory images that are 'not real' (that is, not caused directly by external sensations)?\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Mind')"
+    },
+    {
+      "type": "html",
+      "id": "35d232d186b65b67",
+      "text": "<em>[[Reflection]]s also feed such images.</em>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Sensations from anywhere",
+        "story": []
+      },
+      "date": 1573314044642
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6f4659d4212511b4"
+      },
+      "id": "6f4659d4212511b4",
+      "type": "add",
+      "date": 1573314057967
+    },
+    {
+      "type": "remove",
+      "id": "6f4659d4212511b4",
+      "date": 1573314066667
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eb87c650501860f9"
+      },
+      "id": "eb87c650501860f9",
+      "type": "add",
+      "date": 1573314084822
+    },
+    {
+      "type": "edit",
+      "id": "eb87c650501860f9",
+      "item": {
+        "type": "html",
+        "id": "eb87c650501860f9",
+        "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way we experience sensations\" [[x | source]]"
+      },
+      "date": 1573314140538
+    },
+    {
+      "type": "edit",
+      "id": "eb87c650501860f9",
+      "item": {
+        "type": "html",
+        "id": "eb87c650501860f9",
+        "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way we experience sensations\" [[https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit | source]] section Intentionality"
+      },
+      "date": 1573314198646
+    },
+    {
+      "type": "edit",
+      "id": "eb87c650501860f9",
+      "item": {
+        "type": "html",
+        "id": "eb87c650501860f9",
+        "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way we experience sensations\" [[https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source]] section Intentionality"
+      },
+      "date": 1573314211919
+    },
+    {
+      "type": "edit",
+      "id": "eb87c650501860f9",
+      "item": {
+        "type": "html",
+        "id": "eb87c650501860f9",
+        "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way we experience sensations\" [https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section Intentionality"
+      },
+      "date": 1573314224400
+    },
+    {
+      "type": "edit",
+      "id": "eb87c650501860f9",
+      "item": {
+        "type": "html",
+        "id": "eb87c650501860f9",
+        "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way we experience sensations\" ([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section Intentionality)\n"
+      },
+      "date": 1573314242922
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "73b3227ac57ce0fe"
+      },
+      "id": "73b3227ac57ce0fe",
+      "type": "add",
+      "after": "eb87c650501860f9",
+      "date": 1573314253948
+    },
+    {
+      "type": "remove",
+      "id": "73b3227ac57ce0fe",
+      "date": 1573314262724
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "178ddaf2733291b2"
+      },
+      "id": "178ddaf2733291b2",
+      "type": "add",
+      "after": "eb87c650501860f9",
+      "date": 1573314280139
+    },
+    {
+      "type": "edit",
+      "id": "178ddaf2733291b2",
+      "item": {
+        "type": "html",
+        "id": "178ddaf2733291b2",
+        "text": "\"We don't just sense what we see, feel, touch, etc.; our sensations might arise out of interactions among neurons anywhere in the brain.  [...] Why would the brain feed us sensory images that are 'not real' (that is, not caused directly by external sensations)?\""
+      },
+      "date": 1573314311288
+    },
+    {
+      "type": "edit",
+      "id": "178ddaf2733291b2",
+      "item": {
+        "type": "html",
+        "id": "178ddaf2733291b2",
+        "text": "\"We don't just sense what we see, feel, touch, etc.; our sensations might arise out of interactions among neurons anywhere in the brain.  [...] Why would the brain feed us sensory images that are 'not real' (that is, not caused directly by external sensations)?\" ([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section Mind)\n"
+      },
+      "date": 1573314390807
+    },
+    {
+      "type": "edit",
+      "id": "eb87c650501860f9",
+      "item": {
+        "type": "html",
+        "id": "eb87c650501860f9",
+        "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way we experience sensations\" ([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Intentionality')\n"
+      },
+      "date": 1573314403782
+    },
+    {
+      "type": "edit",
+      "id": "178ddaf2733291b2",
+      "item": {
+        "type": "html",
+        "id": "178ddaf2733291b2",
+        "text": "\"We don't just sense what we see, feel, touch, etc.; our sensations might arise out of interactions among neurons anywhere in the brain.  [...] Why would the brain feed us sensory images that are 'not real' (that is, not caused directly by external sensations)?\" ([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Mind')\n"
+      },
+      "date": 1573314414221
+    },
+    {
+      "type": "edit",
+      "id": "eb87c650501860f9",
+      "item": {
+        "type": "html",
+        "id": "eb87c650501860f9",
+        "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way we [[experience]] sensations\" ([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Intentionality')\n"
+      },
+      "date": 1573314494279
+    },
+    {
+      "type": "edit",
+      "id": "eb87c650501860f9",
+      "item": {
+        "type": "html",
+        "id": "eb87c650501860f9",
+        "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way we experience ([[experience 2]]) sensations\" ([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Intentionality')\n"
+      },
+      "date": 1573314735536
+    },
+    {
+      "type": "edit",
+      "id": "178ddaf2733291b2",
+      "item": {
+        "type": "html",
+        "id": "178ddaf2733291b2",
+        "text": "\"We don't just sense what we see, feel, touch, etc.; our sensations might arise out of interactions among neurons anywhere in the brain.  [...] \n"
+      },
+      "date": 1573314989727
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ff065cbdc0566eaa"
+      },
+      "id": "ff065cbdc0566eaa",
+      "type": "add",
+      "after": "178ddaf2733291b2",
+      "date": 1573314993627
+    },
+    {
+      "type": "edit",
+      "id": "ff065cbdc0566eaa",
+      "item": {
+        "type": "html",
+        "id": "ff065cbdc0566eaa",
+        "text": "Why would the brain feed us sensory images that are 'not real' (that is, not caused directly by external sensations)?\" ([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Mind')"
+      },
+      "date": 1573314998953
+    },
+    {
+      "type": "edit",
+      "id": "178ddaf2733291b2",
+      "item": {
+        "type": "html",
+        "id": "178ddaf2733291b2",
+        "text": "\"We don't just sense what we see, feel, touch, etc.; our sensations might arise out of interactions among neurons anywhere in the brain.\"  [...] \n"
+      },
+      "date": 1573315017326
+    },
+    {
+      "type": "edit",
+      "id": "ff065cbdc0566eaa",
+      "item": {
+        "type": "html",
+        "id": "ff065cbdc0566eaa",
+        "text": "\"Why would the brain feed us sensory images that are 'not real' (that is, not caused directly by external sensations)?\" ([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Mind')"
+      },
+      "date": 1573315034135
+    },
+    {
+      "type": "edit",
+      "id": "178ddaf2733291b2",
+      "item": {
+        "type": "html",
+        "id": "178ddaf2733291b2",
+        "text": "\"We don't just sense what we see, feel, touch, etc.; our sensations might arise out of interactions among neurons anywhere in the brain.\"  ... \n"
+      },
+      "date": 1573315048026
+    },
+    {
+      "type": "edit",
+      "id": "eb87c650501860f9",
+      "item": {
+        "type": "html",
+        "id": "eb87c650501860f9",
+        "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way [[we experience]]  sensations\" ([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Intentionality')\n"
+      },
+      "date": 1573316247802
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "35d232d186b65b67"
+      },
+      "id": "35d232d186b65b67",
+      "type": "add",
+      "after": "ff065cbdc0566eaa",
+      "date": 1573405815813
+    },
+    {
+      "type": "edit",
+      "id": "35d232d186b65b67",
+      "item": {
+        "type": "html",
+        "id": "35d232d186b65b67",
+        "text": "[[Reflections]] also feed such images."
+      },
+      "date": 1573405864536
+    },
+    {
+      "type": "edit",
+      "id": "ff065cbdc0566eaa",
+      "item": {
+        "type": "html",
+        "id": "ff065cbdc0566eaa",
+        "text": "\"Why would the brain feed us sensory images that are 'not real' (that is, not caused directly by external sensations)?\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Mind')"
+      },
+      "date": 1573406109195
+    },
+    {
+      "type": "edit",
+      "id": "35d232d186b65b67",
+      "item": {
+        "type": "html",
+        "id": "35d232d186b65b67",
+        "text": "[[Reflection]]s also feed such images."
+      },
+      "date": 1573406195896
+    },
+    {
+      "type": "edit",
+      "id": "eb87c650501860f9",
+      "item": {
+        "type": "html",
+        "id": "eb87c650501860f9",
+        "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way [[we experience]]  sensations\" ([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0 source] section 'Intentionality')\n"
+      },
+      "date": 1573417403333
+    },
+    {
+      "type": "edit",
+      "id": "ff065cbdc0566eaa",
+      "item": {
+        "type": "html",
+        "id": "ff065cbdc0566eaa",
+        "text": "\"Why would the brain feed us sensory images that are 'not real' (that is, not caused directly by external sensations)?\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0 source] section 'Mind')"
+      },
+      "date": 1573417420957
+    },
+    {
+      "type": "edit",
+      "id": "eb87c650501860f9",
+      "item": {
+        "type": "html",
+        "id": "eb87c650501860f9",
+        "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way [[we experience]]  sensations\" ([http://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0 source] section 'Intentionality')\n"
+      },
+      "date": 1573417967571
+    },
+    {
+      "type": "edit",
+      "id": "eb87c650501860f9",
+      "item": {
+        "type": "html",
+        "id": "eb87c650501860f9",
+        "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way [[we experience]]  sensations\" \n([http://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0 source] section 'Intentionality')\n"
+      },
+      "date": 1573418765920
+    },
+    {
+      "type": "edit",
+      "id": "eb87c650501860f9",
+      "item": {
+        "type": "html",
+        "id": "eb87c650501860f9",
+        "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way [[we experience]]  sensations\" \n\n"
+      },
+      "date": 1573420921494
+    },
+    {
+      "type": "edit",
+      "id": "ff065cbdc0566eaa",
+      "item": {
+        "type": "html",
+        "id": "ff065cbdc0566eaa",
+        "text": "\"Why would the brain feed us sensory images that are 'not real' (that is, not caused directly by external sensations)?\" \n(ibid. section 'Mind')"
+      },
+      "date": 1573421262465
+    },
+    {
+      "type": "edit",
+      "id": "178ddaf2733291b2",
+      "item": {
+        "type": "html",
+        "id": "178ddaf2733291b2",
+        "text": "\"We don't just sense what we see, feel, touch, etc.; our <b>sensations</b> might arise out of interactions among neurons <b>anywhere</b> in the brain.\"  ... \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Intentionality')"
+      },
+      "date": 1573468129540
+    },
+    {
+      "id": "178ddaf2733291b2",
+      "type": "move",
+      "order": [
+        "178ddaf2733291b2",
+        "eb87c650501860f9",
+        "ff065cbdc0566eaa",
+        "35d232d186b65b67"
+      ],
+      "date": 1573468162487
+    },
+    {
+      "type": "edit",
+      "id": "178ddaf2733291b2",
+      "item": {
+        "type": "html",
+        "id": "178ddaf2733291b2",
+        "text": "\"We don't just sense what we see, feel, touch, etc.; our <b>sensations</b> might arise out of interactions among neurons <b>anywhere</b> in the brain.\"  ... \n"
+      },
+      "date": 1573468188599
+    },
+    {
+      "type": "edit",
+      "id": "eb87c650501860f9",
+      "item": {
+        "type": "html",
+        "id": "eb87c650501860f9",
+        "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way [[we experience]]  sensations\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Intentionality')\n\n"
+      },
+      "date": 1573468197119
+    },
+    {
+      "type": "edit",
+      "id": "178ddaf2733291b2",
+      "item": {
+        "type": "html",
+        "id": "178ddaf2733291b2",
+        "text": "\"We don't just sense what we see, feel, touch, etc.; our <b>sensations</b> might arise out of interactions among neurons <b>anywhere</b> in the brain.\"  ... \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Mind')"
+      },
+      "date": 1573468351600
+    },
+    {
+      "type": "edit",
+      "id": "ff065cbdc0566eaa",
+      "item": {
+        "type": "html",
+        "id": "ff065cbdc0566eaa",
+        "text": "\"Why would the brain feed us sensory images that are 'not real' (that is, not caused directly by external sensations)?\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Mind')"
+      },
+      "date": 1573468361174
+    },
+    {
+      "type": "edit",
+      "id": "eb87c650501860f9",
+      "item": {
+        "type": "html",
+        "id": "eb87c650501860f9",
+        "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way [[we experience]]  sensations\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Intentionality')\n"
+      },
+      "date": 1573468388326
+    },
+    {
+      "type": "edit",
+      "id": "eb87c650501860f9",
+      "item": {
+        "type": "html",
+        "id": "eb87c650501860f9",
+        "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way [[we experience]]  sensations\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Intentionality')"
+      },
+      "date": 1573469349697
+    },
+    {
+      "type": "edit",
+      "id": "eb87c650501860f9",
+      "item": {
+        "type": "html",
+        "id": "eb87c650501860f9",
+        "text": "\"we <em>experience</em> our thoughts about objects and the like in the same way [[we experience]]  sensations\" ([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Intentionality')"
+      },
+      "date": 1573469362862
+    },
+    {
+      "type": "edit",
+      "id": "35d232d186b65b67",
+      "item": {
+        "type": "html",
+        "id": "35d232d186b65b67",
+        "text": "<em>[[Reflection]]s also feed such images.</em>"
+      },
+      "date": 1573499639741
+    },
+    {
+      "type": "fork",
+      "site": "wiki.mmelcher.org",
+      "date": 1574062833680
+    }
+  ]
+}

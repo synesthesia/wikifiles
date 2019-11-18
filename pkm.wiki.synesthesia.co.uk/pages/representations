@@ -1,0 +1,44 @@
+{
+  "title": "Representations",
+  "story": [
+    {
+      "type": "html",
+      "id": "e161a37890583f1e",
+      "text": "\"Consider a hockey game. We have memories of hockey, thoughts of hockey, but we don't actually have a hockey game in our head.\nA cognitivist would say we create a [[semantic]] <b>representation</b> of hockey in our mind,\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Meaning')"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Representations",
+        "story": []
+      },
+      "date": 1573477052172
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e161a37890583f1e"
+      },
+      "id": "e161a37890583f1e",
+      "type": "add",
+      "date": 1573477053855
+    },
+    {
+      "type": "edit",
+      "id": "e161a37890583f1e",
+      "item": {
+        "type": "html",
+        "id": "e161a37890583f1e",
+        "text": "\"Consider a hockey game. We have memories of hockey, thoughts of hockey, but we don't actually have a hockey game in our head.\nA cognitivist would say we create a [[semantic]] <b>representation</b> of hockey in our mind,\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Meaning')"
+      },
+      "date": 1573477058227
+    },
+    {
+      "type": "fork",
+      "site": "wiki.mmelcher.org",
+      "date": 1574062912658
+    }
+  ]
+}

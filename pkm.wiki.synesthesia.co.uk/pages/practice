@@ -1,0 +1,144 @@
+{
+  "title": "Practice",
+  "story": [
+    {
+      "type": "html",
+      "id": "47307f50b0fc5bab",
+      "text": "\"<b>Over time</b>, if we see something that is [[similar]], like we see a cat every day, a characteristic set of connections between neurons will form. Makes sense? See a cat, get a certain pattern of connections. \nOver time. Doesn't happen after the first cat. It takes maybe, I don't know, a hundred cats, to meet the same cat, meet different cats.\nYou have this pattern of connectivity in the mind.\""
+    },
+    {
+      "type": "html",
+      "id": "9111040217469fdb",
+      "text": "\"Such that, the next time you see a cat,  that same pattern of neurons is activated.\""
+    },
+    {
+      "type": "html",
+      "id": "9120f89a5255dce3",
+      "text": "\"Even better, the next time you see <em>part</em> of a cat, the patterns of neurons for the <em>whole</em> cat are fired.\"\n(See [[Recognition]])"
+    },
+    {
+      "type": "html",
+      "id": "c1a5906a4182c59e",
+      "text": "([https://www.downes.ca/cgi-bin/page.cgi?presentation=512 audio], 33:50)"
+    },
+    {
+      "type": "html",
+      "id": "6444eee78e8ecf06",
+      "text": "\"There is no 'magic' to obtaining knowledge, no secret short-cut, save for <b>practice</b> and reflection - [[Hebb]]ian and Boltzmann connectivism.\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Practice",
+        "story": []
+      },
+      "date": 1573477162695
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "47307f50b0fc5bab"
+      },
+      "id": "47307f50b0fc5bab",
+      "type": "add",
+      "date": 1573477164792
+    },
+    {
+      "type": "edit",
+      "id": "47307f50b0fc5bab",
+      "item": {
+        "type": "html",
+        "id": "47307f50b0fc5bab",
+        "text": "\"<b>Over time</b>, if we see something that is [[similar]], like we see a cat every day, a characteristic set of connections between neurons will form. Makes sense? See a cat, get a certain pattern of connections. \nOver time. Doesn't happen after the first cat. It takes maybe, I don't know, a hundred cats, to meet the same cat, meet different cats.\nYou have this pattern of connectivity in the mind.\""
+      },
+      "date": 1573477180200
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9111040217469fdb"
+      },
+      "id": "9111040217469fdb",
+      "type": "add",
+      "after": "47307f50b0fc5bab",
+      "date": 1573477184071
+    },
+    {
+      "type": "edit",
+      "id": "9111040217469fdb",
+      "item": {
+        "type": "html",
+        "id": "9111040217469fdb",
+        "text": "\"Such that, the next time you see a cat,  that same pattern of neurons is activated.\""
+      },
+      "date": 1573477194341
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9120f89a5255dce3"
+      },
+      "id": "9120f89a5255dce3",
+      "type": "add",
+      "after": "9111040217469fdb",
+      "date": 1573477199520
+    },
+    {
+      "type": "edit",
+      "id": "9120f89a5255dce3",
+      "item": {
+        "type": "html",
+        "id": "9120f89a5255dce3",
+        "text": "\"Even better, the next time you see <em>part</em> of a cat, the patterns of neurons for the <em>whole</em> cat are fired.\"\n(See [[Recognition]])"
+      },
+      "date": 1573477213011
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c1a5906a4182c59e"
+      },
+      "id": "c1a5906a4182c59e",
+      "type": "add",
+      "after": "9120f89a5255dce3",
+      "date": 1573477228997
+    },
+    {
+      "type": "edit",
+      "id": "c1a5906a4182c59e",
+      "item": {
+        "type": "html",
+        "id": "c1a5906a4182c59e",
+        "text": "([https://www.downes.ca/cgi-bin/page.cgi?presentation=512 audio], 33:50)"
+      },
+      "date": 1573477233394
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6444eee78e8ecf06"
+      },
+      "id": "6444eee78e8ecf06",
+      "type": "add",
+      "after": "c1a5906a4182c59e",
+      "date": 1573477244151
+    },
+    {
+      "type": "edit",
+      "id": "6444eee78e8ecf06",
+      "item": {
+        "type": "html",
+        "id": "6444eee78e8ecf06",
+        "text": "\"There is no 'magic' to obtaining knowledge, no secret short-cut, save for <b>practice</b> and reflection - [[Hebb]]ian and Boltzmann connectivism.\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')"
+      },
+      "date": 1573477248939
+    },
+    {
+      "type": "fork",
+      "site": "wiki.mmelcher.org",
+      "date": 1574062864069
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "title": "Association",
+  "story": [
+    {
+      "type": "html",
+      "id": "fd5e6cde8497d3ef",
+      "text": "\"The central idea of <b>association</b>ism is this: two things that are relevantly [[similar]] become connected in the mind.\"\n"
+    },
+    {
+      "type": "html",
+      "id": "0c9e6dcc925511bc",
+      "text": "\"Association mechanisms: [[Hebb]]ian, back propagation, [[Boltzmann]], contiguity\" \n"
+    },
+    {
+      "type": "html",
+      "id": "1ca7c9f4f6e28688",
+      "text": "([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Association",
+        "story": []
+      },
+      "date": 1573406816310
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9a3fb92fb3ab127c"
+      },
+      "id": "9a3fb92fb3ab127c",
+      "type": "add",
+      "date": 1573406817811
+    },
+    {
+      "type": "edit",
+      "id": "9a3fb92fb3ab127c",
+      "item": {
+        "type": "html",
+        "id": "9a3fb92fb3ab127c",
+        "text": "The central idea of associationism is this: two things that are relevantly similar become connected in the mind."
+      },
+      "date": 1573406829806
+    },
+    {
+      "type": "edit",
+      "id": "9a3fb92fb3ab127c",
+      "item": {
+        "type": "html",
+        "id": "9a3fb92fb3ab127c",
+        "text": "The central idea of <b>association</b>ism is this: two things that are relevantly [[similar]] become connected in the mind.\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')\n"
+      },
+      "date": 1573406865782
+    },
+    {
+      "type": "edit",
+      "id": "9a3fb92fb3ab127c",
+      "item": {
+        "type": "html",
+        "id": "9a3fb92fb3ab127c",
+        "text": "The central idea of <b>association</b>ism is this: two things that are relevantly [[similar]] become connected in the mind.\"\n\"Association mechanisms: Hebbian, back propagation, <b>Boltzman</b>, contiguity\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')\n"
+      },
+      "date": 1573406984174
+    },
+    {
+      "type": "edit",
+      "id": "9a3fb92fb3ab127c",
+      "item": {
+        "type": "html",
+        "id": "9a3fb92fb3ab127c",
+        "text": "The central idea of <b>association</b>ism is this: two things that are relevantly [[similar]] become connected in the mind.\"\n"
+      },
+      "date": 1573406993670
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "041a5ce4f7d38a9a"
+      },
+      "id": "041a5ce4f7d38a9a",
+      "type": "add",
+      "after": "9a3fb92fb3ab127c",
+      "date": 1573406995986
+    },
+    {
+      "type": "edit",
+      "id": "041a5ce4f7d38a9a",
+      "item": {
+        "type": "html",
+        "id": "041a5ce4f7d38a9a",
+        "text": "\"Association mechanisms: [[Hebb]]ian, back propagation, [[Boltzmann]], contiguity\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')\n"
+      },
+      "date": 1573407037273
+    },
+    {
+      "type": "edit",
+      "id": "041a5ce4f7d38a9a",
+      "item": {
+        "type": "html",
+        "id": "041a5ce4f7d38a9a",
+        "text": "\"Association mechanisms: [[Hebb]]ian, back propagation, [[Boltzmann]], contiguity\" \n"
+      },
+      "date": 1573407072572
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8ef0ca836d989df4"
+      },
+      "id": "8ef0ca836d989df4",
+      "type": "add",
+      "after": "041a5ce4f7d38a9a",
+      "date": 1573407075889
+    },
+    {
+      "type": "edit",
+      "id": "8ef0ca836d989df4",
+      "item": {
+        "type": "html",
+        "id": "8ef0ca836d989df4",
+        "text": "([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')\n"
+      },
+      "date": 1573407081063
+    },
+    {
+      "type": "edit",
+      "id": "9a3fb92fb3ab127c",
+      "item": {
+        "type": "html",
+        "id": "9a3fb92fb3ab127c",
+        "text": "\"The central idea of <b>association</b>ism is this: two things that are relevantly [[similar]] become connected in the mind.\"\n"
+      },
+      "date": 1573407263325
+    },
+    {
+      "type": "remove",
+      "id": "9a3fb92fb3ab127c",
+      "date": 1573409986795
+    },
+    {
+      "type": "edit",
+      "id": "041a5ce4f7d38a9a",
+      "item": {
+        "type": "html",
+        "id": "041a5ce4f7d38a9a",
+        "text": "\"<b>Association</b> mechanisms: [[Hebb]]ian, back propagation, [[Boltzmann]], contiguity\" \n"
+      },
+      "date": 1573410006979
+    },
+    {
+      "type": "remove",
+      "id": "041a5ce4f7d38a9a",
+      "date": 1573410113823
+    },
+    {
+      "type": "remove",
+      "id": "8ef0ca836d989df4",
+      "date": 1573410163002
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0c9e6dcc925511bc"
+      },
+      "id": "0c9e6dcc925511bc",
+      "type": "add",
+      "date": 1573410641367
+    },
+    {
+      "type": "edit",
+      "id": "0c9e6dcc925511bc",
+      "item": {
+        "type": "html",
+        "id": "0c9e6dcc925511bc",
+        "text": "\"<b>Association</b> mechanisms: [[Hebb]]ian, back propagation, [[Boltzmann]], contiguity\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')"
+      },
+      "date": 1573410656074
+    },
+    {
+      "type": "edit",
+      "id": "0c9e6dcc925511bc",
+      "item": {
+        "type": "html",
+        "id": "0c9e6dcc925511bc",
+        "text": "\"<b>Association</b> mechanisms: [[Hebb]]ian, back propagation, [[Boltzmann]], contiguity\" \n"
+      },
+      "date": 1573410700219
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fd5e6cde8497d3ef"
+      },
+      "id": "fd5e6cde8497d3ef",
+      "type": "add",
+      "after": "0c9e6dcc925511bc",
+      "date": 1573410705312
+    },
+    {
+      "type": "edit",
+      "id": "fd5e6cde8497d3ef",
+      "item": {
+        "type": "html",
+        "id": "fd5e6cde8497d3ef",
+        "text": "\"The central idea of <b>association</b>ism is this: two things that are relevantly [[similar]] become connected in the mind.\"\n"
+      },
+      "date": 1573410753324
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1ca7c9f4f6e28688"
+      },
+      "id": "1ca7c9f4f6e28688",
+      "type": "add",
+      "after": "fd5e6cde8497d3ef",
+      "date": 1573410754968
+    },
+    {
+      "type": "edit",
+      "id": "1ca7c9f4f6e28688",
+      "item": {
+        "type": "html",
+        "id": "1ca7c9f4f6e28688",
+        "text": "([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')"
+      },
+      "date": 1573410759643
+    },
+    {
+      "id": "0c9e6dcc925511bc",
+      "type": "move",
+      "order": [
+        "fd5e6cde8497d3ef",
+        "0c9e6dcc925511bc",
+        "1ca7c9f4f6e28688"
+      ],
+      "date": 1573410960722
+    },
+    {
+      "type": "edit",
+      "id": "0c9e6dcc925511bc",
+      "item": {
+        "type": "html",
+        "id": "0c9e6dcc925511bc",
+        "text": "\"Association mechanisms: [[Hebb]]ian, back propagation, [[Boltzmann]], contiguity\" \n"
+      },
+      "date": 1573410974282
+    },
+    {
+      "type": "fork",
+      "site": "wiki.mmelcher.org",
+      "date": 1574062923031
+    }
+  ]
+}

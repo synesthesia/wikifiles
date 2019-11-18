@@ -1,0 +1,69 @@
+{
+  "title": "Similar",
+  "story": [
+    {
+      "type": "html",
+      "id": "b940f83e29678a30",
+      "text": "\"The central idea of [[association]] is this: two things that are relevantly <b>similar</b> become connected in the mind.\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')"
+    },
+    {
+      "type": "html",
+      "id": "723cda44f9b9d87f",
+      "text": "See also: [[practice]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Similar",
+        "story": []
+      },
+      "date": 1573477324367
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b940f83e29678a30"
+      },
+      "id": "b940f83e29678a30",
+      "type": "add",
+      "date": 1573477333958
+    },
+    {
+      "type": "edit",
+      "id": "b940f83e29678a30",
+      "item": {
+        "type": "html",
+        "id": "b940f83e29678a30",
+        "text": "\"The central idea of [[association]] is this: two things that are relevantly <b>similar</b> become connected in the mind.\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')"
+      },
+      "date": 1573477338220
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "723cda44f9b9d87f"
+      },
+      "id": "723cda44f9b9d87f",
+      "type": "add",
+      "after": "b940f83e29678a30",
+      "date": 1573477349758
+    },
+    {
+      "type": "edit",
+      "id": "723cda44f9b9d87f",
+      "item": {
+        "type": "html",
+        "id": "723cda44f9b9d87f",
+        "text": "See also: [[practice]]"
+      },
+      "date": 1573477353958
+    },
+    {
+      "type": "fork",
+      "site": "wiki.mmelcher.org",
+      "date": 1574062919594
+    }
+  ]
+}

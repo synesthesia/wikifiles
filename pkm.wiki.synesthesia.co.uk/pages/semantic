@@ -1,0 +1,54 @@
+{
+  "title": "Semantic",
+  "story": [
+    {
+      "type": "html",
+      "id": "b085aafe25854b91",
+      "text": "\"Connectivism attempts to describe what is *actually* happening in thought and consciousness (because it's not a <b>semantically</b> based language of thought).\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Meaning')"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Semantic",
+        "story": []
+      },
+      "date": 1573477078215
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b085aafe25854b91"
+      },
+      "id": "b085aafe25854b91",
+      "type": "add",
+      "date": 1573477080039
+    },
+    {
+      "type": "edit",
+      "id": "b085aafe25854b91",
+      "item": {
+        "type": "html",
+        "id": "b085aafe25854b91",
+        "text": "Connectivism attempts to describe what is *actually* happening in thought and consciousness (because it's not a <b>semantically</b> based language of thought).\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Meaning')"
+      },
+      "date": 1573477084443
+    },
+    {
+      "type": "edit",
+      "id": "b085aafe25854b91",
+      "item": {
+        "type": "html",
+        "id": "b085aafe25854b91",
+        "text": "\"Connectivism attempts to describe what is *actually* happening in thought and consciousness (because it's not a <b>semantically</b> based language of thought).\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Meaning')"
+      },
+      "date": 1573499658546
+    },
+    {
+      "type": "fork",
+      "site": "wiki.mmelcher.org",
+      "date": 1574062914920
+    }
+  ]
+}

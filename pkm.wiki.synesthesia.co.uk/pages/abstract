@@ -1,0 +1,64 @@
+{
+  "title": "Abstract",
+  "story": [
+    {
+      "type": "html",
+      "id": "100bab8e3e5860d9",
+      "text": "\"And there is not, in human nature, a separate mental realm that reasons <b>abstract</b>ly about the physical realm.\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Scepticism')"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Abstract",
+        "story": []
+      },
+      "date": 1573478335830
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "100bab8e3e5860d9"
+      },
+      "id": "100bab8e3e5860d9",
+      "type": "add",
+      "date": 1573478337529
+    },
+    {
+      "type": "edit",
+      "id": "100bab8e3e5860d9",
+      "item": {
+        "type": "html",
+        "id": "100bab8e3e5860d9",
+        "text": "And there is not, in human nature, a separate mental realm that reasons <b>abstract</b>ly about the physical realm."
+      },
+      "date": 1573478362803
+    },
+    {
+      "type": "edit",
+      "id": "100bab8e3e5860d9",
+      "item": {
+        "type": "html",
+        "id": "100bab8e3e5860d9",
+        "text": "And there is not, in human nature, a separate mental realm that reasons <b>abstract</b>ly about the physical realm.\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Scepticism')"
+      },
+      "date": 1573478421521
+    },
+    {
+      "type": "edit",
+      "id": "100bab8e3e5860d9",
+      "item": {
+        "type": "html",
+        "id": "100bab8e3e5860d9",
+        "text": "\"And there is not, in human nature, a separate mental realm that reasons <b>abstract</b>ly about the physical realm.\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Scepticism')"
+      },
+      "date": 1573503466159
+    },
+    {
+      "type": "fork",
+      "site": "wiki.mmelcher.org",
+      "date": 1574062908247
+    }
+  ]
+}

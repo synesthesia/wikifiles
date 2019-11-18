@@ -1,0 +1,89 @@
+{
+  "title": "Hebb",
+  "story": [
+    {
+      "type": "html",
+      "id": "a91fdbb15fb6267c",
+      "text": "\"[[Association]] mechanisms: <b>Hebbian</b>, back propagation, Boltzman, contiguity\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')"
+    },
+    {
+      "type": "html",
+      "id": "366fefc677da15ac",
+      "text": "See also [[Practice]]\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Hebb",
+        "story": []
+      },
+      "date": 1573411403789
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a91fdbb15fb6267c"
+      },
+      "id": "a91fdbb15fb6267c",
+      "type": "add",
+      "date": 1573411405175
+    },
+    {
+      "type": "edit",
+      "id": "a91fdbb15fb6267c",
+      "item": {
+        "type": "html",
+        "id": "a91fdbb15fb6267c",
+        "text": "\"[[Association]] mechanisms: <b>Hebbian</b>, back propagation, Boltzman, contiguity\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')\n"
+      },
+      "date": 1573411434862
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "366fefc677da15ac"
+      },
+      "id": "366fefc677da15ac",
+      "type": "add",
+      "after": "a91fdbb15fb6267c",
+      "date": 1573422441093
+    },
+    {
+      "type": "edit",
+      "id": "366fefc677da15ac",
+      "item": {
+        "type": "html",
+        "id": "366fefc677da15ac",
+        "text": "See also [[practice]]\n"
+      },
+      "date": 1573422471554
+    },
+    {
+      "type": "edit",
+      "id": "a91fdbb15fb6267c",
+      "item": {
+        "type": "html",
+        "id": "a91fdbb15fb6267c",
+        "text": "\"[[Association]] mechanisms: <b>Hebbian</b>, back propagation, Boltzman, contiguity\" \n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Learning')"
+      },
+      "date": 1573470797380
+    },
+    {
+      "type": "edit",
+      "id": "366fefc677da15ac",
+      "item": {
+        "type": "html",
+        "id": "366fefc677da15ac",
+        "text": "See also [[Practice]]\n"
+      },
+      "date": 1573470811972
+    },
+    {
+      "type": "fork",
+      "site": "wiki.mmelcher.org",
+      "date": 1574062869235
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Universal",
+  "story": [
+    {
+      "type": "html",
+      "id": "e76b324ecab71287",
+      "text": "\"The Cartesian view - the nature of, and the behaviour of things (language, logic, mathematics, physics) was explained by <b>universals</b>. This fails (cf Hume).\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Mind')"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Universal",
+        "story": []
+      },
+      "date": 1573478051038
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e76b324ecab71287"
+      },
+      "id": "e76b324ecab71287",
+      "type": "add",
+      "date": 1573478052621
+    },
+    {
+      "type": "edit",
+      "id": "e76b324ecab71287",
+      "item": {
+        "type": "html",
+        "id": "e76b324ecab71287",
+        "text": "\"The Cartesian view - the nature of, and the behaviour of things (language, logic, mathematics, physics) was explained by universals. This fails (cf Hume).\"\n"
+      },
+      "date": 1573478073642
+    },
+    {
+      "type": "edit",
+      "id": "e76b324ecab71287",
+      "item": {
+        "type": "html",
+        "id": "e76b324ecab71287",
+        "text": "\"The Cartesian view - the nature of, and the behaviour of things (language, logic, mathematics, physics) was explained by universals. This fails (cf Hume).\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Mind')\n"
+      },
+      "date": 1573478193378
+    },
+    {
+      "type": "edit",
+      "id": "e76b324ecab71287",
+      "item": {
+        "type": "html",
+        "id": "e76b324ecab71287",
+        "text": "\"The Cartesian view - the nature of, and the behaviour of things (language, logic, mathematics, physics) was explained by <b>universals</b>. This fails (cf Hume).\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Mind')\n"
+      },
+      "date": 1573478217894
+    },
+    {
+      "type": "edit",
+      "id": "e76b324ecab71287",
+      "item": {
+        "type": "html",
+        "id": "e76b324ecab71287",
+        "text": "\"The Cartesian view - the nature of, and the behaviour of things (language, logic, mathematics, physics) was explained by <b>universals</b>. This fails (cf Hume).\"\n([https://docs.google.com/document/d/1AE6GtL5SRT6Pj6pRvyFwhEe9BApGzCZ6r4BKNOWeqv0/edit source] section 'Mind')"
+      },
+      "date": 1573482493178
+    },
+    {
+      "type": "fork",
+      "site": "wiki.mmelcher.org",
+      "date": 1574062910486
+    }
+  ]
+}
