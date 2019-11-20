@@ -9,12 +9,17 @@
     {
       "type": "roster",
       "id": "3b6126ff71f45ccb",
-      "text": "Thompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.bay.wiki.org\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors"
+      "text": "Frank McPherson\n\nfedwiki.frankmcpherson.net\n\nThompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.bay.wiki.org\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\n\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors\n\n"
     },
     {
       "type": "roster",
       "id": "ad7d0b8a0974c823",
       "text": "ROSTER sites.fed.wiki/federation-directory"
+    },
+    {
+      "type": "roster",
+      "id": "d0951c2f5017b3cc",
+      "text": "ROSTER permanent.wiki/permanent-web-sites"
     },
     {
       "type": "paragraph",
@@ -328,6 +333,98 @@
         "text": "Thompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.bay.wiki.org\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors"
       },
       "date": 1563814541682
+    },
+    {
+      "type": "edit",
+      "id": "3b6126ff71f45ccb",
+      "item": {
+        "type": "roster",
+        "id": "3b6126ff71f45ccb",
+        "text": "Frank McPherson\n\n\n\nThompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.bay.wiki.org\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors"
+      },
+      "date": 1574236687333
+    },
+    {
+      "type": "edit",
+      "id": "3b6126ff71f45ccb",
+      "item": {
+        "type": "roster",
+        "id": "3b6126ff71f45ccb",
+        "text": "Frank McPherson\n\nfedwiki.frankmcpherson.net\n\nThompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.bay.wiki.org\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors"
+      },
+      "date": 1574236699207
+    },
+    {
+      "type": "edit",
+      "id": "3b6126ff71f45ccb",
+      "item": {
+        "type": "roster",
+        "id": "3b6126ff71f45ccb",
+        "text": "Frank McPherson\n\nfedwiki.frankmcpherson.net\n\nThompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.bay.wiki.org\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\n\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors"
+      },
+      "date": 1574236790089
+    },
+    {
+      "type": "edit",
+      "id": "3b6126ff71f45ccb",
+      "item": {
+        "type": "roster",
+        "id": "3b6126ff71f45ccb",
+        "text": "Frank McPherson\n\nfedwiki.frankmcpherson.net\n\nThompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.bay.wiki.org\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\n\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors\n\n"
+      },
+      "date": 1574236817804
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d0951c2f5017b3cc"
+      },
+      "id": "d0951c2f5017b3cc",
+      "type": "add",
+      "after": "a7cdd673bb128976",
+      "date": 1574236832364
+    },
+    {
+      "type": "edit",
+      "id": "d0951c2f5017b3cc",
+      "item": {
+        "type": "roster",
+        "id": "d0951c2f5017b3cc",
+        "text": "ROSTER permanent.wiki/view/welcome-visitors"
+      },
+      "date": 1574236845987
+    },
+    {
+      "type": "edit",
+      "id": "d0951c2f5017b3cc",
+      "item": {
+        "type": "roster",
+        "id": "d0951c2f5017b3cc",
+        "text": "ROSTER permanent.wiki/welcome-visitors"
+      },
+      "date": 1574236859666
+    },
+    {
+      "type": "edit",
+      "id": "d0951c2f5017b3cc",
+      "item": {
+        "type": "roster",
+        "id": "d0951c2f5017b3cc",
+        "text": "ROSTER permanent.wiki/permanent-web-sites"
+      },
+      "date": 1574236893887
+    },
+    {
+      "id": "d0951c2f5017b3cc",
+      "type": "move",
+      "order": [
+        "cf0a9490f85d3c9a",
+        "3b6126ff71f45ccb",
+        "ad7d0b8a0974c823",
+        "d0951c2f5017b3cc",
+        "a7cdd673bb128976"
+      ],
+      "date": 1574236896182
     }
   ]
 }

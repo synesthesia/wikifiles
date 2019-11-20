@@ -1,0 +1,99 @@
+{
+  "title": "Dynamics 365",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "bbcda81e9cf77df1",
+      "text": "Microsoft CRM application, now re-branded and re-architected as a Microsoft application sitting on the Microsoft [[Power Platform]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d6dcb656bd4da9d3",
+      "text": "We begin to write in a public form about a significant re-engineering of a Dynamics 365 implementation."
+    },
+    {
+      "type": "factory",
+      "id": "538f72edd44bc574"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Dynamics 365",
+        "story": []
+      },
+      "date": 1574235679239
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bbcda81e9cf77df1"
+      },
+      "id": "bbcda81e9cf77df1",
+      "type": "add",
+      "date": 1574235680886
+    },
+    {
+      "type": "edit",
+      "id": "bbcda81e9cf77df1",
+      "item": {
+        "type": "paragraph",
+        "id": "bbcda81e9cf77df1",
+        "text": "Microsoft CRM application, now re-branded and re-architected as a Microsoft application sitting on the Microsoft [[Power Platform]]"
+      },
+      "date": 1574235722896
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d6dcb656bd4da9d3",
+        "text": "We begin to write in a public form about a significant re-engineering of a Dynamics 365 implementation."
+      },
+      "id": "d6dcb656bd4da9d3",
+      "type": "add",
+      "after": "bbcda81e9cf77df1",
+      "date": 1574235754509
+    },
+    {
+      "type": "edit",
+      "id": "d6dcb656bd4da9d3",
+      "item": {
+        "type": "paragraph",
+        "id": "d6dcb656bd4da9d3",
+        "text": "We begin to write in a public form about a significant re-engineering of a Dynamics 365 implementation."
+      },
+      "date": 1574235806104
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9de2bd70cde706e7",
+        "text": ""
+      },
+      "id": "9de2bd70cde706e7",
+      "type": "add",
+      "after": "d6dcb656bd4da9d3",
+      "date": 1574235809857
+    },
+    {
+      "type": "remove",
+      "id": "9de2bd70cde706e7",
+      "date": 1574235826545
+    },
+    {
+      "type": "fork",
+      "date": 1574235833598
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "538f72edd44bc574"
+      },
+      "id": "538f72edd44bc574",
+      "type": "add",
+      "after": "d6dcb656bd4da9d3",
+      "date": 1574235837428
+    }
+  ]
+}

@@ -33,6 +33,11 @@
     },
     {
       "type": "paragraph",
+      "id": "4514132a08fe48c4",
+      "text": "[[Dynamics 365]] / [[Power Platform]]"
+    },
+    {
+      "type": "paragraph",
       "id": "5cfeeecb2ddc82be",
       "text": "[[Domain Driven Design]]"
     },
@@ -528,6 +533,45 @@
       ],
       "id": "ae1740e5140ced00",
       "date": 1560197461661
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4514132a08fe48c4"
+      },
+      "id": "4514132a08fe48c4",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1574235644850
+    },
+    {
+      "id": "4514132a08fe48c4",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2ac11f8df56b47d7",
+        "b1bea368697866f0",
+        "798a3a9b67a723c7",
+        "ae893789a3a1f3fc",
+        "c40a1f63eb57e676",
+        "4514132a08fe48c4",
+        "5cfeeecb2ddc82be",
+        "af1945546f160590",
+        "d71c87c252ae2bb8",
+        "ae1740e5140ced00",
+        "ee416d431ebf4fb4"
+      ],
+      "date": 1574235649671
+    },
+    {
+      "type": "edit",
+      "id": "4514132a08fe48c4",
+      "item": {
+        "type": "paragraph",
+        "id": "4514132a08fe48c4",
+        "text": "[[Dynamics 365]] / [[Power Platform]]"
+      },
+      "date": 1574235675133
     }
   ]
 }
