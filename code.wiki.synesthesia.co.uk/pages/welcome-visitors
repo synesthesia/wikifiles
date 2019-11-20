@@ -13,12 +13,11 @@
     },
     {
       "type": "reference",
-      "id": "63ad2e58eecdd9e5",
-      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
-      "site": "localhost:3333",
+      "id": "fa2a5b8eaba0a20e",
+      "site": "code.wiki.synesthesia.co.uk",
       "slug": "projects",
       "title": "Projects",
-      "text": "[[Projects]]"
+      "text": "Where we list significant strands of work"
     },
     {
       "type": "paragraph",
@@ -30,11 +29,6 @@
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
-    },
-    {
-      "type": "roster",
-      "id": "049de7fae6d7a1db",
-      "text": "ROSTER localhost:3333/welcome-visitors"
     }
   ],
   "journal": [
@@ -232,6 +226,94 @@
         "text": "[[Projects]]"
       },
       "date": 1574234484337
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d95d9ff7b0b5315c"
+      },
+      "id": "d95d9ff7b0b5315c",
+      "type": "add",
+      "after": "049de7fae6d7a1db",
+      "date": 1574273836324
+    },
+    {
+      "type": "edit",
+      "id": "d95d9ff7b0b5315c",
+      "item": {
+        "type": "reference",
+        "id": "d95d9ff7b0b5315c",
+        "site": "code.wiki.synesthesia.co.uk",
+        "slug": "projects",
+        "title": "Projects",
+        "text": "Re-designing our Dynamics 365 experience based on the Unified Interface, and on top of refactored solution stack"
+      },
+      "date": 1574273838140
+    },
+    {
+      "id": "d95d9ff7b0b5315c",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2bbd646ff3f44b51",
+        "d95d9ff7b0b5315c",
+        "63ad2e58eecdd9e5",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4",
+        "049de7fae6d7a1db"
+      ],
+      "date": 1574273840489
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1574273851802
+    },
+    {
+      "type": "remove",
+      "id": "d95d9ff7b0b5315c",
+      "date": 1574273883570
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fa2a5b8eaba0a20e"
+      },
+      "id": "fa2a5b8eaba0a20e",
+      "type": "add",
+      "after": "049de7fae6d7a1db",
+      "date": 1574273885108
+    },
+    {
+      "type": "edit",
+      "id": "fa2a5b8eaba0a20e",
+      "item": {
+        "type": "reference",
+        "id": "fa2a5b8eaba0a20e",
+        "site": "code.wiki.synesthesia.co.uk",
+        "slug": "projects",
+        "title": "Projects",
+        "text": "Where we list significant strands of work"
+      },
+      "date": 1574273886809
+    },
+    {
+      "id": "fa2a5b8eaba0a20e",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2bbd646ff3f44b51",
+        "fa2a5b8eaba0a20e",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4",
+        "049de7fae6d7a1db"
+      ],
+      "date": 1574273890000
+    },
+    {
+      "type": "remove",
+      "id": "049de7fae6d7a1db",
+      "date": 1574273906793
     }
   ]
 }

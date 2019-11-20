@@ -114,7 +114,7 @@
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/projects.html</loc>
-    <lastmod>2019-11-19</lastmod>
+    <lastmod>2019-11-20</lastmod>
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/sed.html</loc>
@@ -126,6 +126,26 @@
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/welcome-visitors.html</loc>
+    <lastmod>2019-11-20</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/dynamics-technical-debt.html</loc>
+    <lastmod>2019-11-20</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/dynamics-solutions.html</loc>
+    <lastmod>2019-11-20</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/technical-debt.html</loc>
+    <lastmod>2019-11-20</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/poor-development-practices.html</loc>
+    <lastmod>2019-11-20</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/only-have-one-unmanaged-solution.html</loc>
     <lastmod>2019-11-20</lastmod>
   </url>
 </urlset>

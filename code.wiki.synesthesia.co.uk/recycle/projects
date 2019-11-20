@@ -2,17 +2,17 @@
   "title": "Projects",
   "story": [
     {
-      "type": "paragraph",
-      "id": "e98166719221d51e",
-      "text": "Where we list significant strands of work"
-    },
-    {
       "type": "reference",
       "id": "78a0716865dffdd7",
       "site": "localhost:3333",
       "slug": "crm-reboot",
       "title": "CRM Reboot",
       "text": "Re-designing our Dynamics 365 experience based on the Unified Interface, and on top of refactored solution stack"
+    },
+    {
+      "type": "paragraph",
+      "id": "e98166719221d51e",
+      "text": "Where we list significant strands of work"
     }
   ],
   "journal": [
@@ -78,9 +78,8 @@
     },
     {
       "item": {
-        "type": "paragraph",
-        "id": "e98166719221d51e",
-        "text": "Where we list significant strands of work"
+        "type": "factory",
+        "id": "e98166719221d51e"
       },
       "id": "e98166719221d51e",
       "type": "add",
@@ -96,25 +95,6 @@
         "text": "Where we list significant strands of work"
       },
       "date": 1574273869383
-    },
-    {
-      "id": "e98166719221d51e",
-      "type": "move",
-      "order": [
-        "e98166719221d51e",
-        "78a0716865dffdd7",
-        "835a4ce3e544a04e"
-      ],
-      "date": 1574273871340,
-      "error": {
-        "type": "error",
-        "msg": "Internal Server Error",
-        "response": "Server Ignoring move. Try reload."
-      }
-    },
-    {
-      "type": "fork",
-      "date": 1574273875361
     }
   ]
 }

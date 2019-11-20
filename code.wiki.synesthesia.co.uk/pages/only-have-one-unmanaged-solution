@@ -1,0 +1,49 @@
+{
+  "title": "Only Have One Unmanaged Solution",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "507c909fbeb02603",
+      "text": "A pattern for safe development of [[Dynamics 365]] customisations."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Only Have One Unmanaged Solution",
+        "story": []
+      },
+      "date": 1574274687708
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "507c909fbeb02603"
+      },
+      "id": "507c909fbeb02603",
+      "type": "add",
+      "date": 1574274689213
+    },
+    {
+      "type": "edit",
+      "id": "507c909fbeb02603",
+      "item": {
+        "type": "paragraph",
+        "id": "507c909fbeb02603",
+        "text": "A pattern for safe development of [{Dynamics 365]] customisations."
+      },
+      "date": 1574274718643
+    },
+    {
+      "type": "edit",
+      "id": "507c909fbeb02603",
+      "item": {
+        "type": "paragraph",
+        "id": "507c909fbeb02603",
+        "text": "A pattern for safe development of [[Dynamics 365]] customisations."
+      },
+      "date": 1574274726116
+    }
+  ]
+}

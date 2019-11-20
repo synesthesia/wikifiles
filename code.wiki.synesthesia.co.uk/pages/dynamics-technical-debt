@@ -1,0 +1,80 @@
+{
+  "title": "Dynamics Technical Debt",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5e1c47a9b1625b3f",
+      "text": "We find that a significant form of [[Technical Debt]] arises from the nature of  [[Dynamics Solutions]] combined with historical [[Poor Development Practices]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "218f75e7615040de",
+      "text": "Typically this presents in the form of complex or failing solution export / import due to circular dependencies."
+    },
+    {
+      "type": "paragraph",
+      "id": "c37f01932e674775",
+      "text": "Following the guidance of others (add links) we find that the solution is to [[Only Have One Unmanaged Solution]] at any one time."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Dynamics Technical Debt",
+        "story": []
+      },
+      "date": 1574274328980
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5e1c47a9b1625b3f"
+      },
+      "id": "5e1c47a9b1625b3f",
+      "type": "add",
+      "date": 1574274402907
+    },
+    {
+      "type": "edit",
+      "id": "5e1c47a9b1625b3f",
+      "item": {
+        "type": "paragraph",
+        "id": "5e1c47a9b1625b3f",
+        "text": "We find that a significant form of [[Technical Debt]] arises from the nature of  [[Dynamics Solutions]] combined with historical [[Poor Development Practices]]"
+      },
+      "date": 1574274507318
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "218f75e7615040de"
+      },
+      "id": "218f75e7615040de",
+      "type": "add",
+      "after": "5e1c47a9b1625b3f",
+      "date": 1574274578957
+    },
+    {
+      "type": "edit",
+      "id": "218f75e7615040de",
+      "item": {
+        "type": "paragraph",
+        "id": "218f75e7615040de",
+        "text": "Typically this presents in the form of complex or failing solution export / import due to circular dependencies."
+      },
+      "date": 1574274608934
+    },
+    {
+      "type": "add",
+      "id": "c37f01932e674775",
+      "item": {
+        "type": "paragraph",
+        "id": "c37f01932e674775",
+        "text": "Following the guidance of others (add links) we find that the solution is to [[Only Have One Unmanaged Solution]] at any one time."
+      },
+      "after": "218f75e7615040de",
+      "date": 1574274684548
+    }
+  ]
+}
