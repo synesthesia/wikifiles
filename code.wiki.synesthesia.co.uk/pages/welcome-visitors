@@ -19,7 +19,7 @@
     {
       "type": "roster",
       "id": "798a3a9b67a723c7",
-      "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors"
+      "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors\n\n\n\n"
     },
     {
       "type": "paragraph",
@@ -572,6 +572,36 @@
         "text": "[[Dynamics 365]] / [[Power Platform]]"
       },
       "date": 1574235675133
+    },
+    {
+      "type": "edit",
+      "id": "798a3a9b67a723c7",
+      "item": {
+        "type": "roster",
+        "id": "798a3a9b67a723c7",
+        "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors\n\n"
+      },
+      "date": 1574239507616
+    },
+    {
+      "type": "edit",
+      "id": "798a3a9b67a723c7",
+      "item": {
+        "type": "roster",
+        "id": "798a3a9b67a723c7",
+        "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors\n\nLocalhost\n\ntech.localhost:3333\n\n"
+      },
+      "date": 1574239529653
+    },
+    {
+      "type": "edit",
+      "id": "798a3a9b67a723c7",
+      "item": {
+        "type": "roster",
+        "id": "798a3a9b67a723c7",
+        "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors\n\n\n\n"
+      },
+      "date": 1574239545987
     }
   ]
 }
