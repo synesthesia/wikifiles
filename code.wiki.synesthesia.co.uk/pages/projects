@@ -1,0 +1,75 @@
+{
+  "title": "Projects",
+  "story": [
+    {
+      "type": "reference",
+      "id": "78a0716865dffdd7",
+      "site": "localhost:3333",
+      "slug": "crm-reboot",
+      "title": "CRM Reboot",
+      "text": "Re-designing our Dynamics 365 experience based on the Unified Interface, and on top of refactored solution stack"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Projects",
+        "story": []
+      },
+      "date": 1574188505407
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e4ef3a41768af592"
+      },
+      "id": "e4ef3a41768af592",
+      "type": "add",
+      "date": 1574188507926
+    },
+    {
+      "type": "edit",
+      "id": "e4ef3a41768af592",
+      "item": {
+        "type": "paragraph",
+        "id": "e4ef3a41768af592",
+        "text": "[[CRM Reboot]]"
+      },
+      "date": 1574188519430
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "78a0716865dffdd7"
+      },
+      "id": "78a0716865dffdd7",
+      "type": "add",
+      "after": "e4ef3a41768af592",
+      "date": 1574188571044
+    },
+    {
+      "type": "edit",
+      "id": "78a0716865dffdd7",
+      "item": {
+        "type": "reference",
+        "id": "78a0716865dffdd7",
+        "site": "localhost:3333",
+        "slug": "crm-reboot",
+        "title": "CRM Reboot",
+        "text": "Re-designing our Dynamics 365 experience based on the Unified Interface, and on top of refactored solution stack"
+      },
+      "date": 1574188573130
+    },
+    {
+      "type": "remove",
+      "id": "e4ef3a41768af592",
+      "date": 1574188577974
+    },
+    {
+      "type": "fork",
+      "site": "localhost:3333",
+      "date": 1574234467676
+    }
+  ]
+}

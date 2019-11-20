@@ -1,0 +1,118 @@
+{
+  "title": "FedWiki Plugins",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "30d496d9f08fb295",
+      "text": "[[About Plugins]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "870a8eaae0c8b7bb",
+      "text": "[[About Graphviz Plugin]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "FedWiki Plugins",
+        "story": []
+      },
+      "date": 1563358142171
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "870a8eaae0c8b7bb"
+      },
+      "id": "870a8eaae0c8b7bb",
+      "type": "add",
+      "date": 1563358143579
+    },
+    {
+      "type": "edit",
+      "id": "870a8eaae0c8b7bb",
+      "item": {
+        "type": "paragraph",
+        "id": "870a8eaae0c8b7bb",
+        "text": "[[About Graphviz PLugin]]"
+      },
+      "date": 1563358157556
+    },
+    {
+      "type": "edit",
+      "id": "870a8eaae0c8b7bb",
+      "item": {
+        "type": "paragraph",
+        "id": "870a8eaae0c8b7bb",
+        "text": "[[About Graphviz Plugin]]"
+      },
+      "date": 1563358166211
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "df883a2a0c77253a"
+      },
+      "id": "df883a2a0c77253a",
+      "type": "add",
+      "after": "870a8eaae0c8b7bb",
+      "date": 1563358204843
+    },
+    {
+      "type": "edit",
+      "id": "df883a2a0c77253a",
+      "item": {
+        "type": "graphviz",
+        "id": "df883a2a0c77253a",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "date": 1563358209318
+    },
+    {
+      "type": "remove",
+      "id": "df883a2a0c77253a",
+      "date": 1563358217896
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "30d496d9f08fb295"
+      },
+      "id": "30d496d9f08fb295",
+      "type": "add",
+      "after": "870a8eaae0c8b7bb",
+      "date": 1563358786068
+    },
+    {
+      "type": "edit",
+      "id": "30d496d9f08fb295",
+      "item": {
+        "type": "paragraph",
+        "id": "30d496d9f08fb295",
+        "text": "[[About PLugins]]"
+      },
+      "date": 1563358793608
+    },
+    {
+      "type": "edit",
+      "id": "30d496d9f08fb295",
+      "item": {
+        "type": "paragraph",
+        "id": "30d496d9f08fb295",
+        "text": "[[About Plugins]]"
+      },
+      "date": 1563358797988
+    },
+    {
+      "id": "30d496d9f08fb295",
+      "type": "move",
+      "order": [
+        "30d496d9f08fb295",
+        "870a8eaae0c8b7bb"
+      ],
+      "date": 1563358799653
+    }
+  ]
+}

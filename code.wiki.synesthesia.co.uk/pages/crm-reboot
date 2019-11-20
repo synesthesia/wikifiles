@@ -1,0 +1,176 @@
+{
+  "title": "CRM Reboot",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "08be14b10c8d6782",
+      "text": "We write about re-designing a major set of customisations on Dynamics 365, basing the new experience on the [[Dynamics Unified Interface]], and on top of a refactored solution stack"
+    },
+    {
+      "type": "pagefold",
+      "id": "d5069ed2dbd7eeff",
+      "text": "Objectives"
+    },
+    {
+      "type": "paragraph",
+      "id": "61d6747457b5b467",
+      "text": "Improve [[Dynamics user experience]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a9a11cf7a07ea100",
+      "text": "Remove barriers to [[Fast iteration - Dynamics]] features"
+    },
+    {
+      "type": "paragraph",
+      "id": "4af0fe7bbca3539d",
+      "text": "Comply with Microsoft [[Deprecations of Dynamics Features]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "CRM Reboot",
+        "story": []
+      },
+      "date": 1574188523497
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "08be14b10c8d6782"
+      },
+      "id": "08be14b10c8d6782",
+      "type": "add",
+      "date": 1574188526474
+    },
+    {
+      "type": "edit",
+      "id": "08be14b10c8d6782",
+      "item": {
+        "type": "paragraph",
+        "id": "08be14b10c8d6782",
+        "text": "Re-designing our Dynamics 365 experience based on the Unified Interface, and on top of refactored solution stack"
+      },
+      "date": 1574188568979
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d5069ed2dbd7eeff"
+      },
+      "id": "d5069ed2dbd7eeff",
+      "type": "add",
+      "after": "08be14b10c8d6782",
+      "date": 1574188972296
+    },
+    {
+      "type": "edit",
+      "id": "d5069ed2dbd7eeff",
+      "item": {
+        "type": "pagefold",
+        "id": "d5069ed2dbd7eeff",
+        "text": "Objectives"
+      },
+      "date": 1574188980961
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "61d6747457b5b467"
+      },
+      "id": "61d6747457b5b467",
+      "type": "add",
+      "after": "d5069ed2dbd7eeff",
+      "date": 1574188982506
+    },
+    {
+      "type": "edit",
+      "id": "61d6747457b5b467",
+      "item": {
+        "type": "paragraph",
+        "id": "61d6747457b5b467",
+        "text": "[[CRM user experience benefits]]"
+      },
+      "date": 1574189014683
+    },
+    {
+      "type": "add",
+      "id": "a9a11cf7a07ea100",
+      "item": {
+        "type": "paragraph",
+        "id": "a9a11cf7a07ea100",
+        "text": "[[Remove barriers to fast iteration of CRM features]]"
+      },
+      "after": "61d6747457b5b467",
+      "date": 1574189038361
+    },
+    {
+      "type": "add",
+      "id": "4af0fe7bbca3539d",
+      "item": {
+        "type": "paragraph",
+        "id": "4af0fe7bbca3539d",
+        "text": "Comply with Microsoft [[Deprecations of Dynamics Features]]"
+      },
+      "after": "a9a11cf7a07ea100",
+      "date": 1574189080096
+    },
+    {
+      "type": "edit",
+      "id": "a9a11cf7a07ea100",
+      "item": {
+        "type": "paragraph",
+        "id": "a9a11cf7a07ea100",
+        "text": "Remove barriers to [[Fast iteration - Dynamics]] features"
+      },
+      "date": 1574189113183
+    },
+    {
+      "type": "edit",
+      "id": "61d6747457b5b467",
+      "item": {
+        "type": "paragraph",
+        "id": "61d6747457b5b467",
+        "text": "Improve [[Dynamics user experience]]"
+      },
+      "date": 1574189129952
+    },
+    {
+      "type": "fork",
+      "site": "localhost:3333",
+      "date": 1574234501152
+    },
+    {
+      "type": "edit",
+      "id": "08be14b10c8d6782",
+      "item": {
+        "type": "paragraph",
+        "id": "08be14b10c8d6782",
+        "text": "We write about re-designing a major set of customisations on Dynamics 365, basing the new experience on the Unified Interface, and on top of refactored solution stack"
+      },
+      "date": 1574273691283
+    },
+    {
+      "type": "edit",
+      "id": "08be14b10c8d6782",
+      "item": {
+        "type": "paragraph",
+        "id": "08be14b10c8d6782",
+        "text": "We write about re-designing a major set of customisations on Dynamics 365, basing the new experience on the [[Dynamics Unified Interface]], and on top of refactored solution stack"
+      },
+      "date": 1574273710930
+    },
+    {
+      "type": "edit",
+      "id": "08be14b10c8d6782",
+      "item": {
+        "type": "paragraph",
+        "id": "08be14b10c8d6782",
+        "text": "We write about re-designing a major set of customisations on Dynamics 365, basing the new experience on the [[Dynamics Unified Interface]], and on top of a refactored solution stack"
+      },
+      "date": 1574273720276
+    }
+  ]
+}

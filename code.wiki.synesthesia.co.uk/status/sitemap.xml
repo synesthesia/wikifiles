@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://code.wiki.synesthesia.co.uk/about-plugins.html</loc>
+    <lastmod>2019-05-30</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/abstraction-of-method.html</loc>
+    <lastmod>2014-12-14</lastmod>
+  </url>
+  <url>
     <loc>http://code.wiki.synesthesia.co.uk/azure.html</loc>
     <lastmod>2018-10-10</lastmod>
   </url>
@@ -13,12 +21,44 @@
     <lastmod>2018-04-04</lastmod>
   </url>
   <url>
+    <loc>http://code.wiki.synesthesia.co.uk/core-plugins.html</loc>
+    <lastmod>2014-12-14</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/crm-reboot.html</loc>
+    <lastmod>2019-11-20</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/deprecations-of-dynamics-features.html</loc>
+    <lastmod>2019-11-20</lastmod>
+  </url>
+  <url>
     <loc>http://code.wiki.synesthesia.co.uk/domain-driven-design.html</loc>
     <lastmod>2017-02-09</lastmod>
   </url>
   <url>
+    <loc>http://code.wiki.synesthesia.co.uk/dynamics-365.html</loc>
+    <lastmod>2019-11-20</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/dynamics-unified-interface.html</loc>
+    <lastmod>2019-11-20</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/dynamics-user-experience.html</loc>
+    <lastmod>2019-11-20</lastmod>
+  </url>
+  <url>
     <loc>http://code.wiki.synesthesia.co.uk/extreme-programming.html</loc>
     <lastmod>2017-02-09</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/fast-iteration---dynamics.html</loc>
+    <lastmod>2019-11-20</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/fedwiki-plugins.html</loc>
+    <lastmod>2019-07-17</lastmod>
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/flow---check-for-null.html</loc>
@@ -27,6 +67,14 @@
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/flow---content-types.html</loc>
     <lastmod>2018-10-15</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/hacking-wikis-methods.html</loc>
+    <lastmod>2014-12-14</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/how-to-add-plugins.html</loc>
+    <lastmod>2014-12-14</lastmod>
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/how-to-wiki.html</loc>
@@ -57,6 +105,18 @@
     <lastmod>2017-02-09</lastmod>
   </url>
   <url>
+    <loc>http://code.wiki.synesthesia.co.uk/plugin-lifecycle.html</loc>
+    <lastmod>2014-12-14</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/power-platform.html</loc>
+    <lastmod>2019-11-20</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/projects.html</loc>
+    <lastmod>2019-11-19</lastmod>
+  </url>
+  <url>
     <loc>http://code.wiki.synesthesia.co.uk/sed.html</loc>
     <lastmod>2019-06-11</lastmod>
   </url>
@@ -66,14 +126,6 @@
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/welcome-visitors.html</loc>
-    <lastmod>2019-11-20</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/dynamics-365.html</loc>
-    <lastmod>2019-11-20</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/power-platform.html</loc>
     <lastmod>2019-11-20</lastmod>
   </url>
 </urlset>

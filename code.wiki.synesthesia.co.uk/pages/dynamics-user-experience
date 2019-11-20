@@ -1,0 +1,105 @@
+{
+  "title": "Dynamics user experience",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "551ad87bc2386390",
+      "text": "We expect two main improvements from the transition to [[Dynamics Unified Interface]] and [[Model Driven Apps]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "bf719b26e7cf656d",
+      "text": "The new interface is designed to provide higher usability, and is fully responsive for use across multiple devices and form factors [https://docs.microsoft.com/en-us/powerapps/user/unified-interface page]"
+    },
+    {
+      "type": "paragraph",
+      "id": "15c6de3bf15ebe07",
+      "text": "[[Model Driven Apps]] enable better segmentation of the Dynamics experience through their support for role-focused mini-applications on a common platform and dataset."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Dynamics user experience",
+        "story": []
+      },
+      "date": 1574189136817
+    },
+    {
+      "type": "fork",
+      "site": "localhost:3333",
+      "date": 1574234505380
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "551ad87bc2386390"
+      },
+      "id": "551ad87bc2386390",
+      "type": "add",
+      "date": 1574235278142
+    },
+    {
+      "type": "edit",
+      "id": "551ad87bc2386390",
+      "item": {
+        "type": "paragraph",
+        "id": "551ad87bc2386390",
+        "text": "We expect two main improvements from the transition to [[Dynamics Unified Interface]] and [[Model Driven Apps]]"
+      },
+      "date": 1574235310596
+    },
+    {
+      "type": "add",
+      "id": "bf719b26e7cf656d",
+      "item": {
+        "type": "paragraph",
+        "id": "bf719b26e7cf656d",
+        "text": "The new interfaeFirstly, the interface is designed to "
+      },
+      "after": "551ad87bc2386390",
+      "date": 1574235330287
+    },
+    {
+      "type": "edit",
+      "id": "bf719b26e7cf656d",
+      "item": {
+        "type": "paragraph",
+        "id": "bf719b26e7cf656d",
+        "text": "The new interface is designed to provide higher usability, and is fully responsive for use across multiple devices and form factors "
+      },
+      "date": 1574235474741
+    },
+    {
+      "type": "edit",
+      "id": "bf719b26e7cf656d",
+      "item": {
+        "type": "paragraph",
+        "id": "bf719b26e7cf656d",
+        "text": "The new interface is designed to provide higher usability, and is fully responsive for use across multiple devices and form factors [https://docs.microsoft.com/en-us/powerapps/user/unified-interface page]"
+      },
+      "date": 1574235493555
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "15c6de3bf15ebe07"
+      },
+      "id": "15c6de3bf15ebe07",
+      "type": "add",
+      "after": "bf719b26e7cf656d",
+      "date": 1574235516185
+    },
+    {
+      "type": "edit",
+      "id": "15c6de3bf15ebe07",
+      "item": {
+        "type": "paragraph",
+        "id": "15c6de3bf15ebe07",
+        "text": "[[Model Driven Apps]] enable better segmentation of the Dynamics experience through their support for role-focused mini-applications on a common platform and dataset."
+      },
+      "date": 1574235560400
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "title": "Deprecations of Dynamics Features",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "87cb26cd6f5ebebf",
+      "text": "There are two key Microsoft announcements that impact how we use the platform."
+    },
+    {
+      "type": "paragraph",
+      "id": "d003461a82e88ae4",
+      "text": "The \"Classic\" web UI will be removed in October 2020 [https://docs.microsoft.com/en-us/power-platform/important-changes-coming#legacy-web-client-is-deprecated page]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f882af3115ed9b2a",
+      "text": "We have made extensive use of ILMerge to allow us to break our plugin and workflow solutions into multiple assemblies to promote code-reuse [https://www.inogic.com/blog/2018/06/automate-ilmerge-for-workflowsplugins-to-merge-multiple-assemblies-into-one-in-dynamics-365/ example]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a63a802ed498e810",
+      "text": "Microsoft have now stated that such use is unsupported, and in any support case they will require use of ILMerge to be removed before they will investigate issues [https://cloudblogs.microsoft.com/dynamics365/no-audience/2010/11/09/how-to-reference-assemblies-from-plug-ins/?source=crm source]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Deprecations of Dynamics Features",
+        "story": []
+      },
+      "date": 1574189144139
+    },
+    {
+      "type": "fork",
+      "site": "localhost:3333",
+      "date": 1574234510662
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "87cb26cd6f5ebebf"
+      },
+      "id": "87cb26cd6f5ebebf",
+      "type": "add",
+      "date": 1574234760816
+    },
+    {
+      "type": "edit",
+      "id": "87cb26cd6f5ebebf",
+      "item": {
+        "type": "paragraph",
+        "id": "87cb26cd6f5ebebf",
+        "text": "There are two key Microsoft announcements that impact how we use the platform."
+      },
+      "date": 1574234789547
+    },
+    {
+      "type": "add",
+      "id": "d003461a82e88ae4",
+      "item": {
+        "type": "paragraph",
+        "id": "d003461a82e88ae4",
+        "text": "The \"Classic\" web UI will be removed in October 2020"
+      },
+      "after": "87cb26cd6f5ebebf",
+      "date": 1574234808552
+    },
+    {
+      "type": "edit",
+      "id": "d003461a82e88ae4",
+      "item": {
+        "type": "paragraph",
+        "id": "d003461a82e88ae4",
+        "text": "The \"Classic\" web UI will be removed in October 2020 [https://docs.microsoft.com/en-us/power-platform/important-changes-coming#legacy-web-client-is-deprecated page]"
+      },
+      "date": 1574234875286
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8041d6e3e5eae7bd"
+      },
+      "id": "8041d6e3e5eae7bd",
+      "type": "add",
+      "after": "d003461a82e88ae4",
+      "date": 1574234884907
+    },
+    {
+      "type": "remove",
+      "id": "8041d6e3e5eae7bd",
+      "date": 1574234890508
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f882af3115ed9b2a"
+      },
+      "id": "f882af3115ed9b2a",
+      "type": "add",
+      "after": "d003461a82e88ae4",
+      "date": 1574234916431
+    },
+    {
+      "type": "edit",
+      "id": "f882af3115ed9b2a",
+      "item": {
+        "type": "paragraph",
+        "id": "f882af3115ed9b2a",
+        "text": "We have made extensive use of ILMerge to allow us to break our plugin and workflow solutions into multiple assemblies to promote code-reuse [https://www.inogic.com/blog/2018/06/automate-ilmerge-for-workflowsplugins-to-merge-multiple-assemblies-into-one-in-dynamics-365/ example]"
+      },
+      "date": 1574234963426
+    },
+    {
+      "type": "add",
+      "id": "a63a802ed498e810",
+      "item": {
+        "type": "paragraph",
+        "id": "a63a802ed498e810",
+        "text": "Microsoft have now stated that such use is unsupported, and in any support case they will require use of ILmerge to be removed before they"
+      },
+      "after": "f882af3115ed9b2a",
+      "date": 1574235010388
+    },
+    {
+      "type": "edit",
+      "id": "a63a802ed498e810",
+      "item": {
+        "type": "paragraph",
+        "id": "a63a802ed498e810",
+        "text": "Microsoft have now stated that such use is unsupported, and in any support case they will require use of ILmerge to be removed before they will investigate issues [https://cloudblogs.microsoft.com/dynamics365/no-audience/2010/11/09/how-to-reference-assemblies-from-plug-ins/?source=crm source]"
+      },
+      "date": 1574235083660
+    },
+    {
+      "type": "edit",
+      "id": "a63a802ed498e810",
+      "item": {
+        "type": "paragraph",
+        "id": "a63a802ed498e810",
+        "text": "Microsoft have now stated that such use is unsupported, and in any support case they will require use of ILMerge to be removed before they will investigate issues [https://cloudblogs.microsoft.com/dynamics365/no-audience/2010/11/09/how-to-reference-assemblies-from-plug-ins/?source=crm source]"
+      },
+      "date": 1574235150506
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Dynamics Unified Interface",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "876f630717112092",
+      "text": "Microsoft are standardising on a new User Interface framework across multiple applications [https://docs.microsoft.com/en-us/power-platform/admin/about-unified-interface page]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Dynamics Unified Interface",
+        "story": []
+      },
+      "date": 1574235338973
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "876f630717112092"
+      },
+      "id": "876f630717112092",
+      "type": "add",
+      "date": 1574235387324
+    },
+    {
+      "type": "edit",
+      "id": "876f630717112092",
+      "item": {
+        "type": "paragraph",
+        "id": "876f630717112092",
+        "text": "Microsoft are standardising on a new User Interface framework across multiple applications [https://docs.microsoft.com/en-us/power-platform/admin/about-unified-interface page]"
+      },
+      "date": 1574235423380
+    }
+  ]
+}

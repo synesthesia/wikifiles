@@ -2,64 +2,39 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to this [[Federated Wiki]] site. ",
+      "text": "Local [[Federated Wiki]] for tech notes.",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
     {
       "type": "paragraph",
-      "id": "2ac11f8df56b47d7",
-      "text": "This is where I keep code and coding-related notes."
+      "id": "2bbd646ff3f44b51",
+      "text": "Pages where we do and share."
     },
     {
-      "type": "markdown",
-      "id": "b1bea368697866f0",
-      "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!*\n"
-    },
-    {
-      "type": "roster",
-      "id": "798a3a9b67a723c7",
-      "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors\n\n\n\n"
-    },
-    {
-      "type": "paragraph",
-      "id": "ae893789a3a1f3fc",
-      "text": "[[IdentityServer]]"
+      "type": "reference",
+      "id": "63ad2e58eecdd9e5",
+      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+      "site": "localhost:3333",
+      "slug": "projects",
+      "title": "Projects",
+      "text": "[[Projects]]"
     },
     {
       "type": "paragraph",
-      "id": "c40a1f63eb57e676",
-      "text": "[[Azure]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "4514132a08fe48c4",
-      "text": "[[Dynamics 365]] / [[Power Platform]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "5cfeeecb2ddc82be",
-      "text": "[[Domain Driven Design]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "af1945546f160590",
-      "text": "[[JavaScript]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "d71c87c252ae2bb8",
-      "text": "[[Extreme Programming]]"
-    },
-    {
-      "type": "markdown",
-      "id": "ae1740e5140ced00",
-      "text": "[[UnixTools]]"
+      "id": "05e2fa92643677ca",
+      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+      "text": "[[FedWiki Plugins]]"
     },
     {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    },
+    {
+      "type": "roster",
+      "id": "049de7fae6d7a1db",
+      "text": "ROSTER localhost:3333/welcome-visitors"
     }
   ],
   "journal": [
@@ -137,471 +112,126 @@
       "date": 1420938220851
     },
     {
-      "type": "remove",
-      "id": "63ad2e58eecdd9e5",
-      "date": 1486640071681,
-      "error": {
-        "type": "error",
-        "msg": "Forbidden",
-        "response": "Forbidden"
-      }
-    },
-    {
-      "type": "remove",
-      "id": "05e2fa92643677ca",
-      "date": 1486640090782,
-      "error": {
-        "type": "error",
-        "msg": "Forbidden",
-        "response": "Forbidden"
-      }
-    },
-    {
       "type": "edit",
       "id": "7b56f22a4b9ee974",
       "item": {
-        "text": "Welcome to this [[Federated Wiki]] site. ",
+        "text": "Local [[Federated Wiki]] for tech notes.",
         "id": "7b56f22a4b9ee974",
         "type": "paragraph"
       },
-      "date": 1486641113223
-    },
-    {
-      "type": "add",
-      "id": "2ac11f8df56b47d7",
-      "item": {
-        "type": "paragraph",
-        "id": "2ac11f8df56b47d7",
-        "text": "This is where I keep code and coding-related notes"
-      },
-      "after": "7b56f22a4b9ee974",
-      "date": 1486641124138
-    },
-    {
-      "type": "add",
-      "id": "3c76fcc1548f5758",
-      "item": {
-        "type": "paragraph",
-        "id": "3c76fcc1548f5758",
-        "text": "[[My Wikis]]"
-      },
-      "after": "2ac11f8df56b47d7",
-      "date": 1486641128764
-    },
-    {
-      "type": "add",
-      "id": "5cfeeecb2ddc82be",
-      "item": {
-        "type": "paragraph",
-        "id": "5cfeeecb2ddc82be",
-        "text": "[[Domain Driven Design]]"
-      },
-      "after": "3c76fcc1548f5758",
-      "date": 1486641137183
+      "date": 1563344727780
     },
     {
       "item": {
         "type": "factory",
-        "id": "b1bea368697866f0"
+        "id": "049de7fae6d7a1db"
       },
-      "id": "b1bea368697866f0",
+      "id": "049de7fae6d7a1db",
       "type": "add",
       "after": "ee416d431ebf4fb4",
-      "date": 1486641195323
+      "date": 1563345109507
     },
     {
-      "type": "fork",
-      "date": 1486641197109
+      "type": "edit",
+      "id": "049de7fae6d7a1db",
+      "item": {
+        "type": "roster",
+        "id": "049de7fae6d7a1db",
+        "text": "localhost:3333"
+      },
+      "date": 1563345113264
+    },
+    {
+      "type": "edit",
+      "id": "049de7fae6d7a1db",
+      "item": {
+        "type": "roster",
+        "id": "049de7fae6d7a1db",
+        "text": "ROSTER: localhost:3333/welcome-visitors"
+      },
+      "date": 1563345126925
+    },
+    {
+      "type": "edit",
+      "id": "049de7fae6d7a1db",
+      "item": {
+        "type": "roster",
+        "id": "049de7fae6d7a1db",
+        "text": "ROSTER localhost:3333/welcome-visitors"
+      },
+      "date": 1563345150783
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "[[FedWiki Plugins]]"
+      },
+      "date": 1563358139417
+    },
+    {
+      "id": "2bbd646ff3f44b51",
+      "type": "move",
+      "order": [
+        "2bbd646ff3f44b51",
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4",
+        "049de7fae6d7a1db"
+      ],
+      "date": 1574234328018
+    },
+    {
+      "id": "2bbd646ff3f44b51",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2bbd646ff3f44b51",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4",
+        "049de7fae6d7a1db"
+      ],
+      "date": 1574234330036
     },
     {
       "type": "remove",
       "id": "821827c99b90cfd1",
-      "date": 1486641210206
-    },
-    {
-      "type": "remove",
-      "id": "2bbd646ff3f44b51",
-      "date": 1486641214183
-    },
-    {
-      "type": "add",
-      "id": "af1945546f160590",
-      "item": {
-        "type": "paragraph",
-        "id": "af1945546f160590",
-        "text": "[[JavaScript]]"
-      },
-      "after": "5cfeeecb2ddc82be",
-      "date": 1486641259164
-    },
-    {
-      "type": "add",
-      "id": "d71c87c252ae2bb8",
-      "item": {
-        "type": "paragraph",
-        "id": "d71c87c252ae2bb8",
-        "text": "[[Extreme Programming]]"
-      },
-      "after": "af1945546f160590",
-      "date": 1486641531822
+      "date": 1574234340906
     },
     {
       "type": "edit",
-      "id": "2ac11f8df56b47d7",
+      "id": "63ad2e58eecdd9e5",
       "item": {
-        "type": "paragraph",
-        "id": "2ac11f8df56b47d7",
-        "text": "This is where I keep code and coding-related notes."
+        "type": "reference",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+        "site": "localhost:3333",
+        "slug": "projects",
+        "title": "Projects",
+        "text": "Re-designing our Dynamics 365 experience based on the Unified Interface, and on top of refactored solution stack"
       },
-      "date": 1486641829263
-    },
-    {
-      "type": "add",
-      "id": "1908c09c2063c273",
-      "item": {
-        "type": "paragraph",
-        "id": "1908c09c2063c273",
-        "text": "*NB because this is [{Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!"
-      },
-      "after": "2ac11f8df56b47d7",
-      "date": 1486641876122
+      "date": 1574234421839
     },
     {
       "type": "edit",
-      "id": "1908c09c2063c273",
+      "id": "63ad2e58eecdd9e5",
       "item": {
-        "type": "paragraph",
-        "id": "1908c09c2063c273",
-        "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!*"
+        "type": "reference",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+        "site": "localhost:3333",
+        "slug": "projects",
+        "title": "Projects",
+        "text": "[[Projects]]"
       },
-      "date": 1486641911323
-    },
-    {
-      "type": "edit",
-      "id": "b1bea368697866f0",
-      "item": {
-        "type": "markdown",
-        "id": "b1bea368697866f0",
-        "text": "*NB because *\n"
-      },
-      "date": 1486641926689
-    },
-    {
-      "type": "edit",
-      "id": "b1bea368697866f0",
-      "item": {
-        "type": "markdown",
-        "id": "b1bea368697866f0",
-        "text": "* NB because *\n"
-      },
-      "date": 1486641939544
-    },
-    {
-      "type": "edit",
-      "id": "b1bea368697866f0",
-      "item": {
-        "type": "markdown",
-        "id": "b1bea368697866f0",
-        "text": "*NB because*\n"
-      },
-      "date": 1486641948623
-    },
-    {
-      "type": "move",
-      "order": [
-        "7b56f22a4b9ee974",
-        "2ac11f8df56b47d7",
-        "b1bea368697866f0",
-        "1908c09c2063c273",
-        "3c76fcc1548f5758",
-        "5cfeeecb2ddc82be",
-        "af1945546f160590",
-        "d71c87c252ae2bb8",
-        "ee416d431ebf4fb4"
-      ],
-      "id": "b1bea368697866f0",
-      "date": 1486641960755
-    },
-    {
-      "type": "edit",
-      "id": "b1bea368697866f0",
-      "item": {
-        "type": "markdown",
-        "id": "b1bea368697866f0",
-        "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!*\n"
-      },
-      "date": 1486641975775
-    },
-    {
-      "type": "remove",
-      "id": "1908c09c2063c273",
-      "date": 1486641978826
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "798a3a9b67a723c7"
-      },
-      "id": "798a3a9b67a723c7",
-      "type": "add",
-      "after": "ee416d431ebf4fb4",
-      "date": 1522066345655
-    },
-    {
-      "type": "edit",
-      "id": "798a3a9b67a723c7",
-      "item": {
-        "type": "roster",
-        "id": "798a3a9b67a723c7",
-        "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors"
-      },
-      "date": 1522066359555
-    },
-    {
-      "type": "move",
-      "order": [
-        "7b56f22a4b9ee974",
-        "2ac11f8df56b47d7",
-        "b1bea368697866f0",
-        "798a3a9b67a723c7",
-        "3c76fcc1548f5758",
-        "5cfeeecb2ddc82be",
-        "af1945546f160590",
-        "d71c87c252ae2bb8",
-        "ee416d431ebf4fb4"
-      ],
-      "id": "798a3a9b67a723c7",
-      "date": 1522066362547
-    },
-    {
-      "type": "remove",
-      "id": "3c76fcc1548f5758",
-      "date": 1522066366943
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "c40a1f63eb57e676"
-      },
-      "id": "c40a1f63eb57e676",
-      "type": "add",
-      "after": "ee416d431ebf4fb4",
-      "date": 1522844046075
-    },
-    {
-      "type": "edit",
-      "id": "c40a1f63eb57e676",
-      "item": {
-        "type": "paragraph",
-        "id": "c40a1f63eb57e676",
-        "text": "Azure"
-      },
-      "date": 1522844053132
-    },
-    {
-      "type": "move",
-      "order": [
-        "7b56f22a4b9ee974",
-        "2ac11f8df56b47d7",
-        "b1bea368697866f0",
-        "798a3a9b67a723c7",
-        "c40a1f63eb57e676",
-        "5cfeeecb2ddc82be",
-        "af1945546f160590",
-        "d71c87c252ae2bb8",
-        "ee416d431ebf4fb4"
-      ],
-      "id": "c40a1f63eb57e676",
-      "date": 1522844055604
-    },
-    {
-      "type": "edit",
-      "id": "c40a1f63eb57e676",
-      "item": {
-        "type": "paragraph",
-        "id": "c40a1f63eb57e676",
-        "text": "[[Azure]]"
-      },
-      "date": 1522844059404
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "ae893789a3a1f3fc"
-      },
-      "id": "ae893789a3a1f3fc",
-      "type": "add",
-      "after": "ee416d431ebf4fb4",
-      "date": 1538752416862
-    },
-    {
-      "type": "edit",
-      "id": "ae893789a3a1f3fc",
-      "item": {
-        "type": "paragraph",
-        "id": "ae893789a3a1f3fc",
-        "text": "IdentityServer"
-      },
-      "date": 1538752425193
-    },
-    {
-      "type": "move",
-      "order": [
-        "7b56f22a4b9ee974",
-        "2ac11f8df56b47d7",
-        "b1bea368697866f0",
-        "798a3a9b67a723c7",
-        "c40a1f63eb57e676",
-        "5cfeeecb2ddc82be",
-        "af1945546f160590",
-        "d71c87c252ae2bb8",
-        "ae893789a3a1f3fc",
-        "ee416d431ebf4fb4"
-      ],
-      "id": "ae893789a3a1f3fc",
-      "date": 1538752428299
-    },
-    {
-      "type": "edit",
-      "id": "ae893789a3a1f3fc",
-      "item": {
-        "type": "paragraph",
-        "id": "ae893789a3a1f3fc",
-        "text": "[[IdentityServer]]"
-      },
-      "date": 1538752432894
-    },
-    {
-      "type": "move",
-      "order": [
-        "7b56f22a4b9ee974",
-        "2ac11f8df56b47d7",
-        "b1bea368697866f0",
-        "798a3a9b67a723c7",
-        "ae893789a3a1f3fc",
-        "c40a1f63eb57e676",
-        "5cfeeecb2ddc82be",
-        "af1945546f160590",
-        "d71c87c252ae2bb8",
-        "ee416d431ebf4fb4"
-      ],
-      "id": "ae893789a3a1f3fc",
-      "date": 1560197202771
-    },
-    {
-      "type": "fork",
-      "date": 1560197387297
-    },
-    {
-      "type": "fork",
-      "date": 1560197444019
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "ae1740e5140ced00"
-      },
-      "id": "ae1740e5140ced00",
-      "type": "add",
-      "after": "ee416d431ebf4fb4",
-      "date": 1560197446021
-    },
-    {
-      "type": "edit",
-      "id": "ae1740e5140ced00",
-      "item": {
-        "type": "markdown",
-        "id": "ae1740e5140ced00",
-        "text": "[[UnixTools]]"
-      },
-      "date": 1560197459313
-    },
-    {
-      "type": "move",
-      "order": [
-        "7b56f22a4b9ee974",
-        "2ac11f8df56b47d7",
-        "b1bea368697866f0",
-        "798a3a9b67a723c7",
-        "ae893789a3a1f3fc",
-        "c40a1f63eb57e676",
-        "5cfeeecb2ddc82be",
-        "af1945546f160590",
-        "d71c87c252ae2bb8",
-        "ae1740e5140ced00",
-        "ee416d431ebf4fb4"
-      ],
-      "id": "ae1740e5140ced00",
-      "date": 1560197461661
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "4514132a08fe48c4"
-      },
-      "id": "4514132a08fe48c4",
-      "type": "add",
-      "after": "ee416d431ebf4fb4",
-      "date": 1574235644850
-    },
-    {
-      "id": "4514132a08fe48c4",
-      "type": "move",
-      "order": [
-        "7b56f22a4b9ee974",
-        "2ac11f8df56b47d7",
-        "b1bea368697866f0",
-        "798a3a9b67a723c7",
-        "ae893789a3a1f3fc",
-        "c40a1f63eb57e676",
-        "4514132a08fe48c4",
-        "5cfeeecb2ddc82be",
-        "af1945546f160590",
-        "d71c87c252ae2bb8",
-        "ae1740e5140ced00",
-        "ee416d431ebf4fb4"
-      ],
-      "date": 1574235649671
-    },
-    {
-      "type": "edit",
-      "id": "4514132a08fe48c4",
-      "item": {
-        "type": "paragraph",
-        "id": "4514132a08fe48c4",
-        "text": "[[Dynamics 365]] / [[Power Platform]]"
-      },
-      "date": 1574235675133
-    },
-    {
-      "type": "edit",
-      "id": "798a3a9b67a723c7",
-      "item": {
-        "type": "roster",
-        "id": "798a3a9b67a723c7",
-        "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors\n\n"
-      },
-      "date": 1574239507616
-    },
-    {
-      "type": "edit",
-      "id": "798a3a9b67a723c7",
-      "item": {
-        "type": "roster",
-        "id": "798a3a9b67a723c7",
-        "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors\n\nLocalhost\n\ntech.localhost:3333\n\n"
-      },
-      "date": 1574239529653
-    },
-    {
-      "type": "edit",
-      "id": "798a3a9b67a723c7",
-      "item": {
-        "type": "roster",
-        "id": "798a3a9b67a723c7",
-        "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors\n\n\n\n"
-      },
-      "date": 1574239545987
+      "date": 1574234484337
     }
   ]
 }

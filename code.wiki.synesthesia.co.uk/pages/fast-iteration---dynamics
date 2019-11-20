@@ -1,0 +1,85 @@
+{
+  "title": "Fast iteration - Dynamics",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "53de6c5ea1803969",
+      "text": "Fast iteration of feature development is highly desirable to reduce time to value."
+    },
+    {
+      "type": "paragraph",
+      "id": "43054abd4c1fee55",
+      "text": "The main barriers for Dynamics are in many ways similar to the [[Barriers to Agility]] for any other software development."
+    },
+    {
+      "type": "paragraph",
+      "id": "44c0c1ab9eb3d76f",
+      "text": "In addition there are specific aspects of [[Dynamics Technical Debt]] that need to be addressed."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Fast iteration - Dynamics",
+        "story": []
+      },
+      "date": 1574189140041
+    },
+    {
+      "type": "fork",
+      "site": "localhost:3333",
+      "date": 1574234507772
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "53de6c5ea1803969"
+      },
+      "id": "53de6c5ea1803969",
+      "type": "add",
+      "date": 1574270954894
+    },
+    {
+      "type": "edit",
+      "id": "53de6c5ea1803969",
+      "item": {
+        "type": "paragraph",
+        "id": "53de6c5ea1803969",
+        "text": "Fast iteration of feature development is highly desirable to reduce time to value."
+      },
+      "date": 1574270985313
+    },
+    {
+      "type": "add",
+      "id": "43054abd4c1fee55",
+      "item": {
+        "type": "paragraph",
+        "id": "43054abd4c1fee55",
+        "text": "The main barriers for Dynamics are in many ways similar to the [[Barriers to Agility]] for any other software development."
+      },
+      "after": "53de6c5ea1803969",
+      "date": 1574271064815
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "44c0c1ab9eb3d76f"
+      },
+      "id": "44c0c1ab9eb3d76f",
+      "type": "add",
+      "after": "43054abd4c1fee55",
+      "date": 1574271149454
+    },
+    {
+      "type": "edit",
+      "id": "44c0c1ab9eb3d76f",
+      "item": {
+        "type": "paragraph",
+        "id": "44c0c1ab9eb3d76f",
+        "text": "In addition there are specific aspects of [[Dynamics Technical Debt]] that need to be addressed."
+      },
+      "date": 1574271193962
+    }
+  ]
+}
