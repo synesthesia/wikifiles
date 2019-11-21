@@ -14,7 +14,7 @@
     {
       "type": "paragraph",
       "id": "c37f01932e674775",
-      "text": "Following the guidance of others (add links) we find that the solution is to [[Only Have One Unmanaged Solution]] at any one time."
+      "text": "Following the guidance of others [https://novacontext.com/solution-lifecycle-management-for-dynamics-365/#developing-multiple-solutions-in-a-single-development-instance page] we find that the solution is to [[Only Have One Unmanaged Solution]] at any one time."
     }
   ],
   "journal": [
@@ -75,6 +75,26 @@
       },
       "after": "218f75e7615040de",
       "date": 1574274684548
+    },
+    {
+      "type": "edit",
+      "id": "c37f01932e674775",
+      "item": {
+        "type": "paragraph",
+        "id": "c37f01932e674775",
+        "text": "Following the guidance of others ([https://novacontext.com/solution-lifecycle-management-for-dynamics-365/#developing-multiple-solutions-in-a-single-development-instance page] we find that the solution is to [[Only Have One Unmanaged Solution]] at any one time."
+      },
+      "date": 1574321171416
+    },
+    {
+      "type": "edit",
+      "id": "c37f01932e674775",
+      "item": {
+        "type": "paragraph",
+        "id": "c37f01932e674775",
+        "text": "Following the guidance of others [https://novacontext.com/solution-lifecycle-management-for-dynamics-365/#developing-multiple-solutions-in-a-single-development-instance page] we find that the solution is to [[Only Have One Unmanaged Solution]] at any one time."
+      },
+      "date": 1574321178567
     }
   ]
 }

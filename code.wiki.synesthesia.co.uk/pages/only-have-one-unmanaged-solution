@@ -5,6 +5,16 @@
       "type": "paragraph",
       "id": "507c909fbeb02603",
       "text": "A pattern for safe development of [[Dynamics 365]] customisations."
+    },
+    {
+      "type": "paragraph",
+      "id": "ced1f6ded7a17ec0",
+      "text": "When multiple unmanaged [[Dynamics Solutions]] exist within a Dynamics instance, all change exists in the unmanaged layer."
+    },
+    {
+      "type": "paragraph",
+      "id": "ffc12eb9e86b0e7c",
+      "text": "The notion of being grouped into a solution only applies when the solution container that is used to logically group a set of unmanaged changes is exported.\n\nThere is no isolation between the unmanaged components and therefore it is easy for one or more components to be changed and included in more than one solution container. When deploying to downstream environments, change in application behavior may not be predictable because it will be based on the order of solution import or the layering order for solutions present in the system.\n\nIt is also possible to inadvertently create cyclic dependencies that prevent solutions importing. [https://novacontext.com/solution-lifecycle-management-for-dynamics-365/#developing-multiple-solutions-in-a-single-development-instance page]"
     }
   ],
   "journal": [
@@ -44,6 +54,125 @@
         "text": "A pattern for safe development of [[Dynamics 365]] customisations."
       },
       "date": 1574274726116
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cd7534065cd869b1"
+      },
+      "id": "cd7534065cd869b1",
+      "type": "add",
+      "after": "507c909fbeb02603",
+      "date": 1574319564400
+    },
+    {
+      "type": "edit",
+      "id": "cd7534065cd869b1",
+      "item": {
+        "type": "factory",
+        "id": "cd7534065cd869b1",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "https://novacontext.com/solution-lifecycle-management-for-dynamics-365/#developing-multiple-solutions-in-a-single-development-instance",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36"
+        }
+      },
+      "date": 1574319572029
+    },
+    {
+      "type": "remove",
+      "id": "cd7534065cd869b1",
+      "date": 1574320963333
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bc50239e3dcd21ba"
+      },
+      "id": "bc50239e3dcd21ba",
+      "type": "add",
+      "after": "507c909fbeb02603",
+      "date": 1574320965307
+    },
+    {
+      "type": "remove",
+      "id": "bc50239e3dcd21ba",
+      "date": 1574320997923
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "81a1ffc5626168e8"
+      },
+      "id": "81a1ffc5626168e8",
+      "type": "add",
+      "after": "507c909fbeb02603",
+      "date": 1574321001256
+    },
+    {
+      "type": "remove",
+      "id": "81a1ffc5626168e8",
+      "date": 1574321007974
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ced1f6ded7a17ec0"
+      },
+      "id": "ced1f6ded7a17ec0",
+      "type": "add",
+      "after": "507c909fbeb02603",
+      "date": 1574321012472
+    },
+    {
+      "type": "edit",
+      "id": "ced1f6ded7a17ec0",
+      "item": {
+        "type": "paragraph",
+        "id": "ced1f6ded7a17ec0",
+        "text": "When multiple unmanaged [[Dynamics Solutions]] exist within a Dynamics instance, all change exists in the unmanaged layer"
+      },
+      "date": 1574321079641
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ffc12eb9e86b0e7c"
+      },
+      "id": "ffc12eb9e86b0e7c",
+      "type": "add",
+      "after": "ced1f6ded7a17ec0",
+      "date": 1574321087343
+    },
+    {
+      "type": "edit",
+      "id": "ced1f6ded7a17ec0",
+      "item": {
+        "type": "paragraph",
+        "id": "ced1f6ded7a17ec0",
+        "text": "When multiple unmanaged [[Dynamics Solutions]] exist within a Dynamics instance, all change exists in the unmanaged layer."
+      },
+      "date": 1574321088451
+    },
+    {
+      "type": "edit",
+      "id": "ffc12eb9e86b0e7c",
+      "item": {
+        "type": "paragraph",
+        "id": "ffc12eb9e86b0e7c",
+        "text": "The notion of being grouped into a solution only applies when the solution container that is used to logically group a set of unmanaged changes is exported.\n\nThere is no isolation between the unmanaged components and therefore it is easy for one or more components to be changed and included in more than one solution container. When deploying to downstream environments, change in application behavior may not be predictable because it will be based on the order of solution import or the layering order for solutions present in the system.\n\nIt is also possible to inadvertently create cyclic dependencies that prevent solutions importing."
+      },
+      "date": 1574321091270
+    },
+    {
+      "type": "edit",
+      "id": "ffc12eb9e86b0e7c",
+      "item": {
+        "type": "paragraph",
+        "id": "ffc12eb9e86b0e7c",
+        "text": "The notion of being grouped into a solution only applies when the solution container that is used to logically group a set of unmanaged changes is exported.\n\nThere is no isolation between the unmanaged components and therefore it is easy for one or more components to be changed and included in more than one solution container. When deploying to downstream environments, change in application behavior may not be predictable because it will be based on the order of solution import or the layering order for solutions present in the system.\n\nIt is also possible to inadvertently create cyclic dependencies that prevent solutions importing. [https://novacontext.com/solution-lifecycle-management-for-dynamics-365/#developing-multiple-solutions-in-a-single-development-instance page]"
+      },
+      "date": 1574321128907
     }
   ]
 }
