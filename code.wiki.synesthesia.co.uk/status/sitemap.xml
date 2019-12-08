@@ -41,6 +41,14 @@
     <lastmod>2019-11-20</lastmod>
   </url>
   <url>
+    <loc>http://code.wiki.synesthesia.co.uk/dynamics-solutions.html</loc>
+    <lastmod>2019-11-20</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/dynamics-technical-debt.html</loc>
+    <lastmod>2019-11-21</lastmod>
+  </url>
+  <url>
     <loc>http://code.wiki.synesthesia.co.uk/dynamics-unified-interface.html</loc>
     <lastmod>2019-11-20</lastmod>
   </url>
@@ -101,12 +109,20 @@
     <lastmod>2016-02-02</lastmod>
   </url>
   <url>
+    <loc>http://code.wiki.synesthesia.co.uk/only-have-one-unmanaged-solution.html</loc>
+    <lastmod>2019-11-21</lastmod>
+  </url>
+  <url>
     <loc>http://code.wiki.synesthesia.co.uk/original-ddd-preface.html</loc>
     <lastmod>2017-02-09</lastmod>
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/plugin-lifecycle.html</loc>
     <lastmod>2014-12-14</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/poor-development-practices.html</loc>
+    <lastmod>2019-11-20</lastmod>
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/power-platform.html</loc>
@@ -121,31 +137,15 @@
     <lastmod>2019-06-11</lastmod>
   </url>
   <url>
+    <loc>http://code.wiki.synesthesia.co.uk/technical-debt.html</loc>
+    <lastmod>2019-11-20</lastmod>
+  </url>
+  <url>
     <loc>http://code.wiki.synesthesia.co.uk/unixtools.html</loc>
     <lastmod>2019-06-11</lastmod>
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/welcome-visitors.html</loc>
     <lastmod>2019-11-20</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/dynamics-technical-debt.html</loc>
-    <lastmod>2019-11-21</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/dynamics-solutions.html</loc>
-    <lastmod>2019-11-20</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/technical-debt.html</loc>
-    <lastmod>2019-11-20</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/poor-development-practices.html</loc>
-    <lastmod>2019-11-20</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/only-have-one-unmanaged-solution.html</loc>
-    <lastmod>2019-11-21</lastmod>
   </url>
 </urlset>
