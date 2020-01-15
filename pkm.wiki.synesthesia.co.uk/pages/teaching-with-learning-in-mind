@@ -3,11 +3,6 @@
   "story": [
     {
       "type": "markdown",
-      "id": "ea36e5cf2d350119",
-      "text": "* [[Building pyramids]]\n* [[Meaning first]]\n"
-    },
-    {
-      "type": "markdown",
       "id": "c138906954f24e83",
       "text": "A series of notes and presentations from [[Efrat Furst]]\n"
     },
@@ -37,9 +32,14 @@
       "text": "Exploring the neuroscientific basis of learning:"
     },
     {
+      "type": "paragraph",
+      "id": "6d914ba8a5abfd8e",
+      "text": "[[Learning in the Brain]] - the relationship between [[Working Memory]] and [[Long Term Memory]], the importance of first [[Making Meaning]] to create connections to existing knowledge, followed by effective [[Retrieval Practice]] to reinforce access pathways for effective use of the learning. [https://sites.google.com/view/efratfurst/learning-in-the-brain page]"
+    },
+    {
       "type": "markdown",
       "id": "3526b1d730d89433",
-      "text": "* [[Learning in the Brain]]\n* [[Understanding understanding]]\n* [[Reconsolidation]]\n* [[The power of prediction]]\n* [[Retrieval practice]]\n* [[Successive relearning]]"
+      "text": "\n* \n* [[Reconsolidation]]\n* [[The power of prediction]]\n* [[Successive relearning]]"
     },
     {
       "type": "paragraph",
@@ -54,7 +54,12 @@
     {
       "type": "markdown",
       "id": "e782d48f6d0428c2",
-      "text": "* [[Building pyramids]]\n* [[Meaning first]]"
+      "text": "* [[Understanding understanding]]\n* [[Building pyramids]]\n* [[Meaning first]]"
+    },
+    {
+      "type": "markdown",
+      "id": "6a474f97b0f3b137",
+      "text": "The importance of [[Retrieval Practice]] to reinforce not just a piece of knowledge, but the neurological pathway used to retrieve that knowledge. A typical practical example might be\n>  “The Testing Effect” – an established series of findings from cognitive psychology that shows enhancement of long-term memory performance after practicing by using retrieval as compared to rote rehearsal.\n> [https://sites.google.com/view/efratfurst/retrieval-practice page]"
     }
   ],
   "journal": [
@@ -513,6 +518,259 @@
         "text": "* [[Building pyramids]]\n* [[Meaning first]]"
       },
       "date": 1579097203038
+    },
+    {
+      "type": "remove",
+      "id": "ea36e5cf2d350119",
+      "date": 1579111511315
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a474f97b0f3b137"
+      },
+      "id": "6a474f97b0f3b137",
+      "type": "add",
+      "after": "e782d48f6d0428c2",
+      "date": 1579111519170
+    },
+    {
+      "type": "edit",
+      "id": "6a474f97b0f3b137",
+      "item": {
+        "type": "markdown",
+        "id": "6a474f97b0f3b137",
+        "text": "The importance of [{Retrieval Practice]] to reinforce not just a piece of knowledge, but the "
+      },
+      "date": 1579111558070
+    },
+    {
+      "type": "edit",
+      "id": "6a474f97b0f3b137",
+      "item": {
+        "type": "markdown",
+        "id": "6a474f97b0f3b137",
+        "text": "The importance of [[Retrieval Practice]] to reinforce not just a piece of knowledge, but the neurological pathway used to retrieve that knowledge. A typical practical example might be\n>"
+      },
+      "date": 1579111622255
+    },
+    {
+      "type": "edit",
+      "id": "6a474f97b0f3b137",
+      "item": {
+        "type": "markdown",
+        "id": "6a474f97b0f3b137",
+        "text": "The importance of [[Retrieval Practice]] to reinforce not just a piece of knowledge, but the neurological pathway used to retrieve that knowledge. A typical practical example might be\n>  “The Testing Effect” – an established series of findings from cognitive psychology that shows enhancement of long-term memory performance after practicing by using retrieval as compared to rote rehearsal.\n> "
+      },
+      "date": 1579111639261
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6d914ba8a5abfd8e"
+      },
+      "id": "6d914ba8a5abfd8e",
+      "type": "add",
+      "after": "6a474f97b0f3b137",
+      "date": 1579111645046
+    },
+    {
+      "type": "edit",
+      "id": "6a474f97b0f3b137",
+      "item": {
+        "type": "markdown",
+        "id": "6a474f97b0f3b137",
+        "text": "The importance of [[Retrieval Practice]] to reinforce not just a piece of knowledge, but the neurological pathway used to retrieve that knowledge. A typical practical example might be\n>  “The Testing Effect” – an established series of findings from cognitive psychology that shows enhancement of long-term memory performance after practicing by using retrieval as compared to rote rehearsal.\n> (https://sites.google.com/view/efratfurst/retrieval-practice page)"
+      },
+      "date": 1579111654768
+    },
+    {
+      "type": "edit",
+      "id": "6a474f97b0f3b137",
+      "item": {
+        "type": "markdown",
+        "id": "6a474f97b0f3b137",
+        "text": "The importance of [[Retrieval Practice]] to reinforce not just a piece of knowledge, but the neurological pathway used to retrieve that knowledge. A typical practical example might be\n>  “The Testing Effect” – an established series of findings from cognitive psychology that shows enhancement of long-term memory performance after practicing by using retrieval as compared to rote rehearsal.\n(https://sites.google.com/view/efratfurst/retrieval-practice page)"
+      },
+      "date": 1579111663160
+    },
+    {
+      "type": "edit",
+      "id": "6a474f97b0f3b137",
+      "item": {
+        "type": "markdown",
+        "id": "6a474f97b0f3b137",
+        "text": "The importance of [[Retrieval Practice]] to reinforce not just a piece of knowledge, but the neurological pathway used to retrieve that knowledge. A typical practical example might be\n>  “The Testing Effect” – an established series of findings from cognitive psychology that shows enhancement of long-term memory performance after practicing by using retrieval as compared to rote rehearsal.\n\n(https://sites.google.com/view/efratfurst/retrieval-practice page)"
+      },
+      "date": 1579111669059
+    },
+    {
+      "type": "edit",
+      "id": "6a474f97b0f3b137",
+      "item": {
+        "type": "markdown",
+        "id": "6a474f97b0f3b137",
+        "text": "The importance of [[Retrieval Practice]] to reinforce not just a piece of knowledge, but the neurological pathway used to retrieve that knowledge. A typical practical example might be\n>  “The Testing Effect” – an established series of findings from cognitive psychology that shows enhancement of long-term memory performance after practicing by using retrieval as compared to rote rehearsal.\n\n[https://sites.google.com/view/efratfurst/retrieval-practice page]"
+      },
+      "date": 1579111694371
+    },
+    {
+      "type": "edit",
+      "id": "6a474f97b0f3b137",
+      "item": {
+        "type": "markdown",
+        "id": "6a474f97b0f3b137",
+        "text": "The importance of [[Retrieval Practice]] to reinforce not just a piece of knowledge, but the neurological pathway used to retrieve that knowledge. A typical practical example might be\n>  “The Testing Effect” – an established series of findings from cognitive psychology that shows enhancement of long-term memory performance after practicing by using retrieval as compared to rote rehearsal.\n> [https://sites.google.com/view/efratfurst/retrieval-practice page]"
+      },
+      "date": 1579111700680
+    },
+    {
+      "type": "edit",
+      "id": "3526b1d730d89433",
+      "item": {
+        "type": "markdown",
+        "id": "3526b1d730d89433",
+        "text": "* [[Learning in the Brain]]\n* [[Understanding understanding]]\n* [[Reconsolidation]]\n* [[The power of prediction]]\n* [[Successive relearning]]"
+      },
+      "date": 1579111717003
+    },
+    {
+      "type": "edit",
+      "id": "3526b1d730d89433",
+      "item": {
+        "type": "markdown",
+        "id": "3526b1d730d89433",
+        "text": "* [[Learning in the Brain]]\n\n* [[Understanding understanding]]\n* [[Reconsolidation]]\n* [[The power of prediction]]\n* [[Successive relearning]]"
+      },
+      "date": 1579111798098
+    },
+    {
+      "type": "edit",
+      "id": "3526b1d730d89433",
+      "item": {
+        "type": "markdown",
+        "id": "3526b1d730d89433",
+        "text": "\n\n* [[Understanding understanding]]\n* [[Reconsolidation]]\n* [[The power of prediction]]\n* [[Successive relearning]]"
+      },
+      "date": 1579111804238
+    },
+    {
+      "type": "edit",
+      "id": "6d914ba8a5abfd8e",
+      "item": {
+        "type": "paragraph",
+        "id": "6d914ba8a5abfd8e",
+        "text": "[[Learning in the Brain]] - the relationship between [[Working Memory]] and [[Long Term Memory]]"
+      },
+      "date": 1579111844574
+    },
+    {
+      "type": "edit",
+      "id": "6d914ba8a5abfd8e",
+      "item": {
+        "type": "paragraph",
+        "id": "6d914ba8a5abfd8e",
+        "text": "[[Learning in the Brain]] - the relationship between [[Working Memory]] and [[Long Term Memory]], the importance of first "
+      },
+      "date": 1579111914574
+    },
+    {
+      "type": "edit",
+      "id": "6d914ba8a5abfd8e",
+      "item": {
+        "type": "paragraph",
+        "id": "6d914ba8a5abfd8e",
+        "text": "[[Learning in the Brain]] - the relationship between [[Working Memory]] and [[Long Term Memory]], the importance of first [[Making Meaning]] to "
+      },
+      "date": 1579111934172
+    },
+    {
+      "type": "edit",
+      "id": "6d914ba8a5abfd8e",
+      "item": {
+        "type": "paragraph",
+        "id": "6d914ba8a5abfd8e",
+        "text": "[[Learning in the Brain]] - the relationship between [[Working Memory]] and [[Long Term Memory]], the importance of first [[Making Meaning]] to create connections to existing knowledge, followed by effective [{Retrieval Practice]] to reinforce access pathways for effective use of the learning."
+      },
+      "date": 1579112020553
+    },
+    {
+      "type": "edit",
+      "id": "6d914ba8a5abfd8e",
+      "item": {
+        "type": "paragraph",
+        "id": "6d914ba8a5abfd8e",
+        "text": "[[Learning in the Brain]] - the relationship between [[Working Memory]] and [[Long Term Memory]], the importance of first [[Making Meaning]] to create connections to existing knowledge, followed by effective [{Retrieval Practice]] to reinforce access pathways for effective use of the learning. [https://sites.google.com/view/efratfurst/learning-in-the-brain page]"
+      },
+      "date": 1579112035798
+    },
+    {
+      "id": "6d914ba8a5abfd8e",
+      "type": "move",
+      "order": [
+        "c138906954f24e83",
+        "af37e15fd7278f8a",
+        "7837bd833a1fd9d4",
+        "72e83ee3f2d8b854",
+        "be04c00e5cb86ba5",
+        "5fcf7aa961fa849c",
+        "3526b1d730d89433",
+        "6d914ba8a5abfd8e",
+        "e3a1756829da0ced",
+        "060412bb5c712a84",
+        "e782d48f6d0428c2",
+        "6a474f97b0f3b137"
+      ],
+      "date": 1579112047592
+    },
+    {
+      "type": "edit",
+      "id": "3526b1d730d89433",
+      "item": {
+        "type": "markdown",
+        "id": "3526b1d730d89433",
+        "text": "\n* \n* [[Reconsolidation]]\n* [[The power of prediction]]\n* [[Successive relearning]]"
+      },
+      "date": 1579112136124
+    },
+    {
+      "type": "edit",
+      "id": "e782d48f6d0428c2",
+      "item": {
+        "type": "markdown",
+        "id": "e782d48f6d0428c2",
+        "text": "* [[Understanding understanding]]\n* [[Building pyramids]]\n* [[Meaning first]]"
+      },
+      "date": 1579112141533
+    },
+    {
+      "id": "6d914ba8a5abfd8e",
+      "type": "move",
+      "order": [
+        "c138906954f24e83",
+        "af37e15fd7278f8a",
+        "7837bd833a1fd9d4",
+        "72e83ee3f2d8b854",
+        "be04c00e5cb86ba5",
+        "5fcf7aa961fa849c",
+        "6d914ba8a5abfd8e",
+        "3526b1d730d89433",
+        "e3a1756829da0ced",
+        "060412bb5c712a84",
+        "e782d48f6d0428c2",
+        "6a474f97b0f3b137"
+      ],
+      "date": 1579112158270
+    },
+    {
+      "type": "edit",
+      "id": "6d914ba8a5abfd8e",
+      "item": {
+        "type": "paragraph",
+        "id": "6d914ba8a5abfd8e",
+        "text": "[[Learning in the Brain]] - the relationship between [[Working Memory]] and [[Long Term Memory]], the importance of first [[Making Meaning]] to create connections to existing knowledge, followed by effective [[Retrieval Practice]] to reinforce access pathways for effective use of the learning. [https://sites.google.com/view/efratfurst/learning-in-the-brain page]"
+      },
+      "date": 1579112165008
     }
   ]
 }
