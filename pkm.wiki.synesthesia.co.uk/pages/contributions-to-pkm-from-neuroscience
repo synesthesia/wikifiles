@@ -1,0 +1,39 @@
+{
+  "title": "Contributions to PKM from NeuroScience",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "055df4bd983418ad",
+      "text": "For example consider work of [[Efrat Furst]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Contributions to PKM from NeuroScience",
+        "story": []
+      },
+      "date": 1579096201961
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "055df4bd983418ad"
+      },
+      "id": "055df4bd983418ad",
+      "type": "add",
+      "date": 1579096205364
+    },
+    {
+      "type": "edit",
+      "id": "055df4bd983418ad",
+      "item": {
+        "type": "markdown",
+        "id": "055df4bd983418ad",
+        "text": "For example consider work of [[Efrat Furst]]"
+      },
+      "date": 1579096226780
+    }
+  ]
+}

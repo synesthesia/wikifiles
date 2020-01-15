@@ -50,6 +50,11 @@
       "type": "paragraph",
       "id": "16b78d91a1ab74ba",
       "text": "A common challenge for all forms of knowledge management, including PKM, is how to go about [[Categorising Things]]"
+    },
+    {
+      "type": "markdown",
+      "id": "3357230f892a92b2",
+      "text": "As well as relating theories of learning to PKM, we might also consider [[Contributions to PKM from NeuroScience]]."
     }
   ],
   "journal": [
@@ -1064,6 +1069,26 @@
         "text": "PKM as commonly discussed is intrinsically about the use of internet-enabled [[Tools for Personal Knowledge Management]], and the connection of ideas from different sources, so is therefore an instance of [[Connectivism]]. "
       },
       "date": 1563814385363
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3357230f892a92b2"
+      },
+      "id": "3357230f892a92b2",
+      "type": "add",
+      "after": "16b78d91a1ab74ba",
+      "date": 1579096102283
+    },
+    {
+      "type": "edit",
+      "id": "3357230f892a92b2",
+      "item": {
+        "type": "markdown",
+        "id": "3357230f892a92b2",
+        "text": "As well as relating theories of learning to PKM, we might also consider [[Contributions to PKM from NeuroScience]]."
+      },
+      "date": 1579096197849
     }
   ]
 }

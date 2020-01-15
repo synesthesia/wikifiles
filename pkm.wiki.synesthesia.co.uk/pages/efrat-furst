@@ -1,0 +1,244 @@
+{
+  "title": "Efrat Furst",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "e8f8dbbc44c0d371",
+      "text": "Efrat Furst"
+    },
+    {
+      "type": "markdown",
+      "id": "0a58945e156164ef",
+      "text": ">My background is in cognitive-neuroscientific research (human learning and memory), and my expertise is in bridging the sciences of learning with teaching and learning in classrooms. I design, teach facilitate workshops and work with educators to redesign classes, courses and programs.  I support educators with evidence-informed  classroom-oriented contents and research-projects."
+    },
+    {
+      "type": "markdown",
+      "id": "7d3af431c497316d",
+      "text": "[https://sites.google.com/view/efratfurst/home site]\n"
+    },
+    {
+      "type": "pagefold",
+      "id": "aa0fc7d5bbc0f420",
+      "text": " \n"
+    },
+    {
+      "type": "markdown",
+      "id": "533b40d3ccbdc6d3",
+      "text": "In relation to [[Personal Knowledge Management]] we explore Furst's notes on [[Teaching with Learning in Mind]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Efrat Furst",
+        "story": []
+      },
+      "date": 1579096244714
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d5e45c615e97f56b"
+      },
+      "id": "d5e45c615e97f56b",
+      "type": "add",
+      "date": 1579096246498
+    },
+    {
+      "type": "edit",
+      "id": "d5e45c615e97f56b",
+      "item": {
+        "type": "markdown",
+        "id": "d5e45c615e97f56b",
+        "text": "Dr Efrat Furst works to "
+      },
+      "date": 1579096260342
+    },
+    {
+      "type": "edit",
+      "id": "d5e45c615e97f56b",
+      "item": {
+        "type": "markdown",
+        "id": "d5e45c615e97f56b",
+        "text": "Dr Efrat Furst says:\n"
+      },
+      "date": 1579096278649
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e8f8dbbc44c0d371"
+      },
+      "id": "e8f8dbbc44c0d371",
+      "type": "add",
+      "after": "373351fc887d46f3",
+      "date": 1579096284154
+    },
+    {
+      "type": "edit",
+      "id": "e8f8dbbc44c0d371",
+      "item": {
+        "type": "pagefold",
+        "id": "e8f8dbbc44c0d371",
+        "text": "Efrat Furst"
+      },
+      "date": 1579096300936
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0a58945e156164ef"
+      },
+      "id": "0a58945e156164ef",
+      "type": "add",
+      "after": "e8f8dbbc44c0d371",
+      "date": 1579096305026
+    },
+    {
+      "type": "edit",
+      "id": "0a58945e156164ef",
+      "item": {
+        "type": "markdown",
+        "id": "0a58945e156164ef",
+        "text": "My background is in cognitive-neuroscientific research (human learning and memory), and my expertise is in bridging the sciences of learning with teaching and learning in classrooms. I design, teach facilitate workshops and work with educators to redesign classes, courses and programs.  I support educators with evidence-informed  classroom-oriented contents and research-projects."
+      },
+      "date": 1579096309656
+    },
+    {
+      "type": "edit",
+      "id": "0a58945e156164ef",
+      "item": {
+        "type": "markdown",
+        "id": "0a58945e156164ef",
+        "text": ">My background is in cognitive-neuroscientific research (human learning and memory), and my expertise is in bridging the sciences of learning with teaching and learning in classrooms. I design, teach facilitate workshops and work with educators to redesign classes, courses and programs.  I support educators with evidence-informed  classroom-oriented contents and research-projects."
+      },
+      "date": 1579096316098
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1ea8ee01f70debae"
+      },
+      "id": "1ea8ee01f70debae",
+      "type": "add",
+      "after": "0a58945e156164ef",
+      "date": 1579096324129
+    },
+    {
+      "type": "remove",
+      "id": "1ea8ee01f70debae",
+      "date": 1579096330981
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7d3af431c497316d"
+      },
+      "id": "7d3af431c497316d",
+      "type": "add",
+      "after": "0a58945e156164ef",
+      "date": 1579096353650
+    },
+    {
+      "type": "edit",
+      "id": "7d3af431c497316d",
+      "item": {
+        "type": "markdown",
+        "id": "7d3af431c497316d",
+        "text": "["
+      },
+      "date": 1579096361051
+    },
+    {
+      "type": "edit",
+      "id": "7d3af431c497316d",
+      "item": {
+        "type": "markdown",
+        "id": "7d3af431c497316d",
+        "text": "[https://sites.google.com/view/efratfurst/home site]\n"
+      },
+      "date": 1579096378257
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a7cabb2b870dd0b"
+      },
+      "id": "2a7cabb2b870dd0b",
+      "type": "add",
+      "after": "7d3af431c497316d",
+      "date": 1579096382174
+    },
+    {
+      "type": "remove",
+      "id": "2a7cabb2b870dd0b",
+      "date": 1579096387903
+    },
+    {
+      "type": "remove",
+      "id": "d5e45c615e97f56b",
+      "date": 1579096402182
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aa0fc7d5bbc0f420"
+      },
+      "id": "aa0fc7d5bbc0f420",
+      "type": "add",
+      "after": "7d3af431c497316d",
+      "date": 1579096427790
+    },
+    {
+      "type": "edit",
+      "id": "aa0fc7d5bbc0f420",
+      "item": {
+        "type": "pagefold",
+        "id": "aa0fc7d5bbc0f420",
+        "text": " \n"
+      },
+      "date": 1579096436335
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "533b40d3ccbdc6d3"
+      },
+      "id": "533b40d3ccbdc6d3",
+      "type": "add",
+      "after": "aa0fc7d5bbc0f420",
+      "date": 1579096439266
+    },
+    {
+      "type": "edit",
+      "id": "533b40d3ccbdc6d3",
+      "item": {
+        "type": "markdown",
+        "id": "533b40d3ccbdc6d3",
+        "text": "In relation to [Personal Knowledge Management] we explore Furst's notes on "
+      },
+      "date": 1579096481093
+    },
+    {
+      "type": "edit",
+      "id": "533b40d3ccbdc6d3",
+      "item": {
+        "type": "markdown",
+        "id": "533b40d3ccbdc6d3",
+        "text": "In relation to [Personal Knowledge Management] we explore Furst's notes on [Teaching with Learning in Mind]"
+      },
+      "date": 1579096494620
+    },
+    {
+      "type": "edit",
+      "id": "533b40d3ccbdc6d3",
+      "item": {
+        "type": "markdown",
+        "id": "533b40d3ccbdc6d3",
+        "text": "In relation to [[Personal Knowledge Management]] we explore Furst's notes on [[Teaching with Learning in Mind]]"
+      },
+      "date": 1579096505188
+    }
+  ]
+}
