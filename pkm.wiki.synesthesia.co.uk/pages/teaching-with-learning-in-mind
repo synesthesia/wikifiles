@@ -33,6 +33,16 @@
     },
     {
       "type": "markdown",
+      "id": "ada4901c78ae237a",
+      "text": "Presents a practical model of how memory works, seperated into [[Working Memory]] (processing) and [[Long Term Memory]] (storage).\n"
+    },
+    {
+      "type": "markdown",
+      "id": "7918e12384f793e8",
+      "text": "\n"
+    },
+    {
+      "type": "markdown",
       "id": "3526b1d730d89433",
       "text": "\n* \n* [[Reconsolidation]]\n* [[The power of prediction]]\n* [[Successive relearning]]"
     },
@@ -45,11 +55,6 @@
       "type": "markdown",
       "id": "6a474f97b0f3b137",
       "text": "The importance of [[Retrieval Practice]] to reinforce not just a piece of knowledge, but the neurological pathway used to retrieve that knowledge. A typical practical example might be\n>  “The Testing Effect” – an established series of findings from cognitive psychology that shows enhancement of long-term memory performance after practicing by using retrieval as compared to rote rehearsal.\n> [https://sites.google.com/view/efratfurst/retrieval-practice page]"
-    },
-    {
-      "type": "markdown",
-      "id": "ada4901c78ae237a",
-      "text": "Simplified model of how memory works, seperated into [[Working Memory]] and [[Long term Memory]].\n"
     }
   ],
   "journal": [
@@ -862,6 +867,81 @@
         "text": "Simplified model of how memory works, seperated into [[Working Memory]] and [[Long term Memory]].\n"
       },
       "date": 1579192452083
+    },
+    {
+      "id": "ada4901c78ae237a",
+      "type": "move",
+      "order": [
+        "c138906954f24e83",
+        "af37e15fd7278f8a",
+        "7837bd833a1fd9d4",
+        "be04c00e5cb86ba5",
+        "5fcf7aa961fa849c",
+        "ada4901c78ae237a",
+        "6d914ba8a5abfd8e",
+        "3526b1d730d89433",
+        "e3a1756829da0ced",
+        "6a474f97b0f3b137"
+      ],
+      "date": 1579192525081
+    },
+    {
+      "id": "ada4901c78ae237a",
+      "type": "move",
+      "order": [
+        "c138906954f24e83",
+        "af37e15fd7278f8a",
+        "7837bd833a1fd9d4",
+        "be04c00e5cb86ba5",
+        "5fcf7aa961fa849c",
+        "6d914ba8a5abfd8e",
+        "ada4901c78ae237a",
+        "3526b1d730d89433",
+        "e3a1756829da0ced",
+        "6a474f97b0f3b137"
+      ],
+      "date": 1579192527545
+    },
+    {
+      "type": "edit",
+      "id": "ada4901c78ae237a",
+      "item": {
+        "type": "markdown",
+        "id": "ada4901c78ae237a",
+        "text": "Presents a practical model of how memory works, seperated into [[Working Memory]] and [[Long term Memory]].\n\n"
+      },
+      "date": 1579192540988
+    },
+    {
+      "type": "edit",
+      "id": "ada4901c78ae237a",
+      "item": {
+        "type": "markdown",
+        "id": "ada4901c78ae237a",
+        "text": "Presents a practical model of how memory works, seperated into [[Working Memory]] and [[Long Term Memory]].\n"
+      },
+      "date": 1579192595421
+    },
+    {
+      "type": "add",
+      "id": "7918e12384f793e8",
+      "item": {
+        "type": "markdown",
+        "id": "7918e12384f793e8",
+        "text": "\n"
+      },
+      "after": "ada4901c78ae237a",
+      "date": 1579192597867
+    },
+    {
+      "type": "edit",
+      "id": "ada4901c78ae237a",
+      "item": {
+        "type": "markdown",
+        "id": "ada4901c78ae237a",
+        "text": "Presents a practical model of how memory works, seperated into [[Working Memory]] (processing) and [[Long Term Memory]] (storage).\n"
+      },
+      "date": 1579192630130
     }
   ]
 }
