@@ -45,6 +45,11 @@
       "type": "markdown",
       "id": "6a474f97b0f3b137",
       "text": "The importance of [[Retrieval Practice]] to reinforce not just a piece of knowledge, but the neurological pathway used to retrieve that knowledge. A typical practical example might be\n>  “The Testing Effect” – an established series of findings from cognitive psychology that shows enhancement of long-term memory performance after practicing by using retrieval as compared to rote rehearsal.\n> [https://sites.google.com/view/efratfurst/retrieval-practice page]"
+    },
+    {
+      "type": "markdown",
+      "id": "ada4901c78ae237a",
+      "text": "Simplified model of how memory works, seperated into [[Working Memory]] and [[Long term Memory]].\n"
     }
   ],
   "journal": [
@@ -837,6 +842,26 @@
         "text": ">Explore the science of learning, with explanations, illustrated models and concrete examples, references to scientific literature, popular literature and blogs, [https://sites.google.com/view/efratfurst/teaching-with-learning-in-mind site]\n"
       },
       "date": 1579157147928
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ada4901c78ae237a"
+      },
+      "id": "ada4901c78ae237a",
+      "type": "add",
+      "after": "6a474f97b0f3b137",
+      "date": 1579192416136
+    },
+    {
+      "type": "edit",
+      "id": "ada4901c78ae237a",
+      "item": {
+        "type": "markdown",
+        "id": "ada4901c78ae237a",
+        "text": "Simplified model of how memory works, seperated into [[Working Memory]] and [[Long term Memory]].\n"
+      },
+      "date": 1579192452083
     }
   ]
 }
