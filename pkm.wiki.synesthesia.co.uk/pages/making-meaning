@@ -1,0 +1,214 @@
+{
+  "title": "Making Meaning",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "060412bb5c712a84",
+      "text": "The role of meaning-making in establishing links between new concepts and existing knowledge."
+    },
+    {
+      "type": "paragraph",
+      "id": "4fbb45ef01615ef7",
+      "text": "See [[Efrat Furst]] - [[Teaching with Learning in Mind]]"
+    },
+    {
+      "type": "markdown",
+      "id": "e782d48f6d0428c2",
+      "text": "* [[Understanding understanding]]\n* [[Building pyramids]]\n* [[Meaning first]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "6cb9ad6a74518c1e",
+      "text": "TODO"
+    },
+    {
+      "type": "markdown",
+      "id": "6a10fe34052a3226",
+      "text": "Explore relationship to [[Sense]]-Making in [[Personal Knowledge Management]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Making Meaning",
+        "story": []
+      },
+      "date": 1579156733576
+    },
+    {
+      "id": "060412bb5c712a84",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "060412bb5c712a84",
+        "text": "The role of meaning-making:"
+      },
+      "date": 1579156749111
+    },
+    {
+      "id": "e782d48f6d0428c2",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "e782d48f6d0428c2",
+        "text": "* [[Understanding understanding]]\n* [[Building pyramids]]\n* [[Meaning first]]"
+      },
+      "date": 1579156755461
+    },
+    {
+      "id": "060412bb5c712a84",
+      "type": "move",
+      "order": [
+        "060412bb5c712a84",
+        "e782d48f6d0428c2"
+      ],
+      "date": 1579156759712
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4fbb45ef01615ef7"
+      },
+      "id": "4fbb45ef01615ef7",
+      "type": "add",
+      "after": "e782d48f6d0428c2",
+      "date": 1579156766196
+    },
+    {
+      "type": "edit",
+      "id": "4fbb45ef01615ef7",
+      "item": {
+        "type": "paragraph",
+        "id": "4fbb45ef01615ef7",
+        "text": "See [[Efrat furst]] [[Teaching with Learning in Mind]]"
+      },
+      "date": 1579156782755
+    },
+    {
+      "type": "edit",
+      "id": "4fbb45ef01615ef7",
+      "item": {
+        "type": "paragraph",
+        "id": "4fbb45ef01615ef7",
+        "text": "See [[Efrat Furst]] [[Teaching with Learning in Mind]]"
+      },
+      "date": 1579156788904
+    },
+    {
+      "id": "4fbb45ef01615ef7",
+      "type": "move",
+      "order": [
+        "4fbb45ef01615ef7",
+        "060412bb5c712a84",
+        "e782d48f6d0428c2"
+      ],
+      "date": 1579156792361
+    },
+    {
+      "id": "4fbb45ef01615ef7",
+      "type": "move",
+      "order": [
+        "060412bb5c712a84",
+        "4fbb45ef01615ef7",
+        "e782d48f6d0428c2"
+      ],
+      "date": 1579156803257
+    },
+    {
+      "type": "edit",
+      "id": "060412bb5c712a84",
+      "item": {
+        "type": "paragraph",
+        "id": "060412bb5c712a84",
+        "text": "The role of meaning-making in establishing links between new concepts and existing knowledge."
+      },
+      "date": 1579156824593
+    },
+    {
+      "type": "edit",
+      "id": "4fbb45ef01615ef7",
+      "item": {
+        "type": "paragraph",
+        "id": "4fbb45ef01615ef7",
+        "text": "See [[Efrat Furst]] - [[Teaching with Learning in Mind]]"
+      },
+      "date": 1579156886991
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "15e7d0f157721ee6"
+      },
+      "id": "15e7d0f157721ee6",
+      "type": "add",
+      "after": "e782d48f6d0428c2",
+      "date": 1579156920157
+    },
+    {
+      "type": "remove",
+      "id": "15e7d0f157721ee6",
+      "date": 1579156924759
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6cb9ad6a74518c1e"
+      },
+      "id": "6cb9ad6a74518c1e",
+      "type": "add",
+      "after": "e782d48f6d0428c2",
+      "date": 1579156926286
+    },
+    {
+      "type": "edit",
+      "id": "6cb9ad6a74518c1e",
+      "item": {
+        "type": "pagefold",
+        "id": "6cb9ad6a74518c1e",
+        "text": "-"
+      },
+      "date": 1579156930367
+    },
+    {
+      "type": "edit",
+      "id": "6cb9ad6a74518c1e",
+      "item": {
+        "type": "pagefold",
+        "id": "6cb9ad6a74518c1e",
+        "text": "TODO"
+      },
+      "date": 1579156940038
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a10fe34052a3226"
+      },
+      "id": "6a10fe34052a3226",
+      "type": "add",
+      "after": "6cb9ad6a74518c1e",
+      "date": 1579156941871
+    },
+    {
+      "type": "edit",
+      "id": "6a10fe34052a3226",
+      "item": {
+        "type": "markdown",
+        "id": "6a10fe34052a3226",
+        "text": "Explore relationship to [[SenseMaking]]"
+      },
+      "date": 1579156955518
+    },
+    {
+      "type": "edit",
+      "id": "6a10fe34052a3226",
+      "item": {
+        "type": "markdown",
+        "id": "6a10fe34052a3226",
+        "text": "Explore relationship to [[Sense]]-Making in [[Personal Knowledge Management]]"
+      },
+      "date": 1579157015185
+    }
+  ]
+}

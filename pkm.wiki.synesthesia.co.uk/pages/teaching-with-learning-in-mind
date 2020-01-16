@@ -9,17 +9,12 @@
     {
       "type": "pagefold",
       "id": "af37e15fd7278f8a",
-      "text": "  "
+      "text": "Efrat Furst  "
     },
     {
       "type": "markdown",
       "id": "7837bd833a1fd9d4",
-      "text": ">Explore the science of learning, with explanations, illustrated models and concrete examples, references to scientific literature, popular literature and blogs."
-    },
-    {
-      "type": "markdown",
-      "id": "72e83ee3f2d8b854",
-      "text": "[https://sites.google.com/view/efratfurst/teaching-with-learning-in-mind site]"
+      "text": ">Explore the science of learning, with explanations, illustrated models and concrete examples, references to scientific literature, popular literature and blogs, [https://sites.google.com/view/efratfurst/teaching-with-learning-in-mind site]\n"
     },
     {
       "type": "pagefold",
@@ -45,16 +40,6 @@
       "type": "paragraph",
       "id": "e3a1756829da0ced",
       "text": " "
-    },
-    {
-      "type": "paragraph",
-      "id": "060412bb5c712a84",
-      "text": "The role of meaning-making:"
-    },
-    {
-      "type": "markdown",
-      "id": "e782d48f6d0428c2",
-      "text": "* [[Understanding understanding]]\n* [[Building pyramids]]\n* [[Meaning first]]"
     },
     {
       "type": "markdown",
@@ -771,6 +756,87 @@
         "text": "[[Learning in the Brain]] - the relationship between [[Working Memory]] and [[Long Term Memory]], the importance of first [[Making Meaning]] to create connections to existing knowledge, followed by effective [[Retrieval Practice]] to reinforce access pathways for effective use of the learning. [https://sites.google.com/view/efratfurst/learning-in-the-brain page]"
       },
       "date": 1579112165008
+    },
+    {
+      "id": "060412bb5c712a84",
+      "type": "remove",
+      "date": 1579156749104
+    },
+    {
+      "id": "e782d48f6d0428c2",
+      "type": "remove",
+      "date": 1579156755457
+    },
+    {
+      "type": "edit",
+      "id": "af37e15fd7278f8a",
+      "item": {
+        "type": "pagefold",
+        "id": "af37e15fd7278f8a",
+        "text": "Efrat Furst  "
+      },
+      "date": 1579157073176
+    },
+    {
+      "type": "remove",
+      "id": "72e83ee3f2d8b854",
+      "date": 1579157097719
+    },
+    {
+      "type": "edit",
+      "id": "7837bd833a1fd9d4",
+      "item": {
+        "type": "markdown",
+        "id": "7837bd833a1fd9d4",
+        "text": ">Explore the science of learning, with explanations, illustrated models and concrete examples, references to scientific literature, popular literature and blogs. [https://sites.google.com/view/efratfurst/teaching-with-learning-in-mind site]"
+      },
+      "date": 1579157100587
+    },
+    {
+      "type": "edit",
+      "id": "7837bd833a1fd9d4",
+      "item": {
+        "type": "markdown",
+        "id": "7837bd833a1fd9d4",
+        "text": ">Explore the science of learning, with explanations, illustrated models and concrete examples, references to scientific literature, popular literature and blogs. \n"
+      },
+      "date": 1579157109967
+    },
+    {
+      "type": "add",
+      "id": "65df824d7beccefe",
+      "item": {
+        "type": "markdown",
+        "id": "65df824d7beccefe",
+        "text": "[https://sites.google.com/view/efratfurst/teaching-with-learning-in-mind site]"
+      },
+      "after": "7837bd833a1fd9d4",
+      "date": 1579157112290
+    },
+    {
+      "type": "remove",
+      "id": "65df824d7beccefe",
+      "date": 1579157122592
+    },
+    {
+      "type": "edit",
+      "id": "7837bd833a1fd9d4",
+      "item": {
+        "type": "markdown",
+        "id": "7837bd833a1fd9d4",
+        "text": ">Explore the science of learning, with explanations, illustrated models and concrete examples, references to scientific literature, popular literature and blogs.     [https://sites.google.com/view/efratfurst/teaching-with-learning-in-mind site]\n"
+      },
+      "date": 1579157126515
+    },
+    {
+      "type": "edit",
+      "id": "7837bd833a1fd9d4",
+      "item": {
+        "type": "markdown",
+        "id": "7837bd833a1fd9d4",
+        "text": ">Explore the science of learning, with explanations, illustrated models and concrete examples, references to scientific literature, popular literature and blogs, [https://sites.google.com/view/efratfurst/teaching-with-learning-in-mind site]\n"
+      },
+      "date": 1579157147928
     }
   ]
 }
