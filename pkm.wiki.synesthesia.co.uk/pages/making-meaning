@@ -13,8 +13,18 @@
     },
     {
       "type": "markdown",
-      "id": "e782d48f6d0428c2",
-      "text": "* [[Understanding understanding]]\n* [[Building pyramids]]\n* [[Meaning first]]"
+      "id": "3e4860e861f12206",
+      "text": "Furst proposes a simplified lifecycle model of a \"piece of knowledge\" in [[Long Term Memory]] as:\n* Know\n* Understand\n* Use\n* Master\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "f720f5b78e950b1c",
+      "text": "Based on [[Engram Theory]] and ideas of  [[NeuroPlasticity]] it is proposed that environmental sensations and perceptions interact with, and reshape, neuronal representations that encode memories. Reshaped representations can influence behaviour and thus future memory. \n[https://sites.google.com/view/efratfurst/understanding-understanding page]"
+    },
+    {
+      "type": "markdown",
+      "id": "10bc39877b939c6d",
+      "text": "The term **Consolidation** describes the biological process of creating new associations. Furst identifies the following three elements that must be **active** in the brain simultaneously for effective learning:\n1. the new concept\n2.  the existing knowledge to be associated with the new concept\n3. meaningful associations between 1 and 2"
     },
     {
       "type": "pagefold",
@@ -25,6 +35,16 @@
       "type": "markdown",
       "id": "6a10fe34052a3226",
       "text": "Explore relationship to [[Sense]]-Making in [[Personal Knowledge Management]]"
+    },
+    {
+      "type": "markdown",
+      "id": "3526b1d730d89433",
+      "text": "\n* \n* [[Reconsolidation]]\n* [[The power of prediction]]\n* [[Successive relearning]]"
+    },
+    {
+      "type": "markdown",
+      "id": "fba87bf6863b6a6d",
+      "text": " "
     }
   ],
   "journal": [
@@ -209,6 +229,266 @@
         "text": "Explore relationship to [[Sense]]-Making in [[Personal Knowledge Management]]"
       },
       "date": 1579157015185
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3e4860e861f12206"
+      },
+      "id": "3e4860e861f12206",
+      "type": "add",
+      "after": "6a10fe34052a3226",
+      "date": 1579527525112
+    },
+    {
+      "type": "edit",
+      "id": "3e4860e861f12206",
+      "item": {
+        "type": "markdown",
+        "id": "3e4860e861f12206",
+        "text": "Furst proposes a simplified lifecycle model of a \"piece of knowledge\" as:\n* Know\n* Understand\n* Use\n* master\n"
+      },
+      "date": 1579527600935
+    },
+    {
+      "type": "edit",
+      "id": "3e4860e861f12206",
+      "item": {
+        "type": "markdown",
+        "id": "3e4860e861f12206",
+        "text": "Furst proposes [https://sites.google.com/view/efratfurst/understanding-understanding page]a simplified lifecycle model of a \"piece of knowledge\" as:\n* Know\n* Understand\n* Use\n* master\n"
+      },
+      "date": 1579527618708
+    },
+    {
+      "type": "edit",
+      "id": "3e4860e861f12206",
+      "item": {
+        "type": "markdown",
+        "id": "3e4860e861f12206",
+        "text": "Furst proposes a simplified lifecycle model of a \"piece of knowledge\" as:\n* Know\n* Understand\n* Use\n* master\n[https://sites.google.com/view/efratfurst/learning-in-the-brain page]\n"
+      },
+      "date": 1579527650631
+    },
+    {
+      "type": "edit",
+      "id": "3e4860e861f12206",
+      "item": {
+        "type": "markdown",
+        "id": "3e4860e861f12206",
+        "text": "Furst proposes a simplified lifecycle model of a \"piece of knowledge\" as:\n* Know\n* Understand\n* Use\n* Master\n[https://sites.google.com/view/efratfurst/learning-in-the-brain page]\n"
+      },
+      "date": 1579527664832
+    },
+    {
+      "type": "edit",
+      "id": "3e4860e861f12206",
+      "item": {
+        "type": "markdown",
+        "id": "3e4860e861f12206",
+        "text": "Furst proposes a simplified lifecycle model of a \"piece of knowledge\" in [[Long Term Memory]] as:\n* Know\n* Understand\n* Use\n* Master\n[https://sites.google.com/view/efratfurst/learning-in-the-brain page]\n"
+      },
+      "date": 1579527687320
+    },
+    {
+      "id": "3e4860e861f12206",
+      "type": "move",
+      "order": [
+        "060412bb5c712a84",
+        "4fbb45ef01615ef7",
+        "e782d48f6d0428c2",
+        "3e4860e861f12206",
+        "6cb9ad6a74518c1e",
+        "6a10fe34052a3226"
+      ],
+      "date": 1579527718112
+    },
+    {
+      "type": "edit",
+      "id": "3e4860e861f12206",
+      "item": {
+        "type": "markdown",
+        "id": "3e4860e861f12206",
+        "text": "Furst proposes a simplified lifecycle model of a \"piece of knowledge\" in [[Long Term Memory]] as:\n* Know\n* Understand\n* Use\n* Master\n\n[https://sites.google.com/view/efratfurst/learning-in-the-brain page]\n"
+      },
+      "date": 1579527732368
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f720f5b78e950b1c"
+      },
+      "id": "f720f5b78e950b1c",
+      "type": "add",
+      "after": "6a10fe34052a3226",
+      "date": 1579527827901
+    },
+    {
+      "type": "edit",
+      "id": "f720f5b78e950b1c",
+      "item": {
+        "type": "markdown",
+        "id": "f720f5b78e950b1c",
+        "text": "Basing her explanation on [[Engram Theory]] Furst "
+      },
+      "date": 1579527857091
+    },
+    {
+      "id": "f720f5b78e950b1c",
+      "type": "move",
+      "order": [
+        "060412bb5c712a84",
+        "4fbb45ef01615ef7",
+        "e782d48f6d0428c2",
+        "3e4860e861f12206",
+        "f720f5b78e950b1c",
+        "6cb9ad6a74518c1e",
+        "6a10fe34052a3226"
+      ],
+      "date": 1579527872848
+    },
+    {
+      "type": "edit",
+      "id": "f720f5b78e950b1c",
+      "item": {
+        "type": "markdown",
+        "id": "f720f5b78e950b1c",
+        "text": "Based on [[Engram Theory]] and [[NeuroPlasticity]] environmental sensations and perceptionws interact with, and reshape, neuronal representations that encode memories. Reshaped representations can influence behaviour and thus future memory."
+      },
+      "date": 1579527988052
+    },
+    {
+      "type": "edit",
+      "id": "3e4860e861f12206",
+      "item": {
+        "type": "markdown",
+        "id": "3e4860e861f12206",
+        "text": "Furst proposes a simplified lifecycle model of a \"piece of knowledge\" in [[Long Term Memory]] as:\n* Know\n* Understand\n* Use\n* Master\n\n"
+      },
+      "date": 1579527995416
+    },
+    {
+      "type": "edit",
+      "id": "f720f5b78e950b1c",
+      "item": {
+        "type": "markdown",
+        "id": "f720f5b78e950b1c",
+        "text": "Based on [[Engram Theory]] and [[NeuroPlasticity]] environmental sensations and perceptionws interact with, and reshape, neuronal representations that encode memories. Reshaped representations can influence behaviour and thus future memory. \n[https://sites.google.com/view/efratfurst/learning-in-the-brain page]"
+      },
+      "date": 1579528001130
+    },
+    {
+      "type": "edit",
+      "id": "f720f5b78e950b1c",
+      "item": {
+        "type": "markdown",
+        "id": "f720f5b78e950b1c",
+        "text": "Based on [[Engram Theory]] and [[NeuroPlasticity]] environmental sensations and perceptions interact with, and reshape, neuronal representations that encode memories. Reshaped representations can influence behaviour and thus future memory. \n[https://sites.google.com/view/efratfurst/learning-in-the-brain page]"
+      },
+      "date": 1579528023078
+    },
+    {
+      "type": "edit",
+      "id": "f720f5b78e950b1c",
+      "item": {
+        "type": "markdown",
+        "id": "f720f5b78e950b1c",
+        "text": "Based on [[Engram Theory]] and [[NeuroPlasticity]] environmental sensations and perceptions interact with, and reshape, neuronal representations that encode memories. Reshaped representations can influence behaviour and thus future memory. \n[https://sites.google.com/view/efratfurst/understanding-understanding page]"
+      },
+      "date": 1579528055976
+    },
+    {
+      "type": "edit",
+      "id": "f720f5b78e950b1c",
+      "item": {
+        "type": "markdown",
+        "id": "f720f5b78e950b1c",
+        "text": "Based on [[Engram Theory]] and ideas of  [[NeuroPlasticity]] it is proposed that environmental sensations and perceptions interact with, and reshape, neuronal representations that encode memories. Reshaped representations can influence behaviour and thus future memory. \n[https://sites.google.com/view/efratfurst/understanding-understanding page]"
+      },
+      "date": 1579528126293
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "10bc39877b939c6d"
+      },
+      "id": "10bc39877b939c6d",
+      "type": "add",
+      "after": "6a10fe34052a3226",
+      "date": 1579528216545
+    },
+    {
+      "type": "edit",
+      "id": "10bc39877b939c6d",
+      "item": {
+        "type": "markdown",
+        "id": "10bc39877b939c6d",
+        "text": "The term **Consolidation** describes the biological process of creating new associations. Furst identifies the following three elements that must be active in the brain simultaneously for effective learning:\n"
+      },
+      "date": 1579528291823
+    },
+    {
+      "type": "add",
+      "id": "fba87bf6863b6a6d",
+      "item": {
+        "type": "markdown",
+        "id": "fba87bf6863b6a6d",
+        "text": " "
+      },
+      "after": "10bc39877b939c6d",
+      "date": 1579528295559
+    },
+    {
+      "type": "edit",
+      "id": "10bc39877b939c6d",
+      "item": {
+        "type": "markdown",
+        "id": "10bc39877b939c6d",
+        "text": "The term **Consolidation** describes the biological process of creating new associations. Furst identifies the following three elements that must be active in the brain simultaneously for effective learning:\n1. the new concept\n2.  the existing knowledge to be associated with the new concept\n3. meaningful associations between 1 and 2"
+      },
+      "date": 1579528344996
+    },
+    {
+      "id": "10bc39877b939c6d",
+      "type": "move",
+      "order": [
+        "060412bb5c712a84",
+        "4fbb45ef01615ef7",
+        "e782d48f6d0428c2",
+        "3e4860e861f12206",
+        "f720f5b78e950b1c",
+        "10bc39877b939c6d",
+        "6cb9ad6a74518c1e",
+        "6a10fe34052a3226",
+        "fba87bf6863b6a6d"
+      ],
+      "date": 1579528349423
+    },
+    {
+      "type": "remove",
+      "id": "e782d48f6d0428c2",
+      "date": 1579528430003
+    },
+    {
+      "type": "edit",
+      "id": "10bc39877b939c6d",
+      "item": {
+        "type": "markdown",
+        "id": "10bc39877b939c6d",
+        "text": "The term **Consolidation** describes the biological process of creating new associations. Furst identifies the following three elements that must be **active** in the brain simultaneously for effective learning:\n1. the new concept\n2.  the existing knowledge to be associated with the new concept\n3. meaningful associations between 1 and 2"
+      },
+      "date": 1579528478395
+    },
+    {
+      "id": "3526b1d730d89433",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "3526b1d730d89433",
+        "text": "\n* \n* [[Reconsolidation]]\n* [[The power of prediction]]\n* [[Successive relearning]]"
+      },
+      "after": "6a10fe34052a3226",
+      "date": 1579528683391
     }
   ]
 }

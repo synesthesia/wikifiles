@@ -4,7 +4,7 @@
     {
       "type": "markdown",
       "id": "c138906954f24e83",
-      "text": "A series of notes and presentations from [[Efrat Furst]]\n"
+      "text": "A series of notes and presentations from [[Efrat Furst]] exploring the neuroscientific basis of learning:\n"
     },
     {
       "type": "pagefold",
@@ -20,11 +20,6 @@
       "type": "pagefold",
       "id": "be04c00e5cb86ba5",
       "text": " "
-    },
-    {
-      "type": "paragraph",
-      "id": "5fcf7aa961fa849c",
-      "text": "Exploring the neuroscientific basis of learning:"
     },
     {
       "type": "paragraph",
@@ -50,11 +45,6 @@
       "type": "markdown",
       "id": "7918e12384f793e8",
       "text": "\n"
-    },
-    {
-      "type": "markdown",
-      "id": "3526b1d730d89433",
-      "text": "\n* \n* [[Reconsolidation]]\n* [[The power of prediction]]\n* [[Successive relearning]]"
     },
     {
       "type": "paragraph",
@@ -1026,6 +1016,26 @@
         "e3a1756829da0ced"
       ],
       "date": 1579527200769
+    },
+    {
+      "type": "remove",
+      "id": "5fcf7aa961fa849c",
+      "date": 1579528654051
+    },
+    {
+      "type": "edit",
+      "id": "c138906954f24e83",
+      "item": {
+        "type": "markdown",
+        "id": "c138906954f24e83",
+        "text": "A series of notes and presentations from [[Efrat Furst]] exploring the neuroscientific basis of learning:\n"
+      },
+      "date": 1579528662421
+    },
+    {
+      "id": "3526b1d730d89433",
+      "type": "remove",
+      "date": 1579528683384
     }
   ]
 }
