@@ -27,21 +27,6 @@
       "text": "The term **Consolidation** describes the biological process of creating new associations. Furst identifies the following three elements that must be **active** in the brain simultaneously for effective learning:\n1. the new concept\n2.  the existing knowledge to be associated with the new concept\n3. meaningful associations between 1 and 2"
     },
     {
-      "type": "markdown",
-      "id": "2cfaea93eab07fbc",
-      "text": "Initial Consolidation is insufficient, rather [[retrieval practice]] is considered essential to connect concepts into new networks. The more access pathways there are to a concept the more accessible and useful it is in different contexts.\n\n"
-    },
-    {
-      "type": "markdown",
-      "id": "ded8bbb71e8e5087",
-      "text": "Furst adopts / adapts [[George Lakoff]]'s definition of usefulness from The Neural Theory of Metaphor [https://poseidon01.ssrn.com/delivery.php?ID=450091020087107088095068073102103112059038009000020002096087031066103095094006113027119013052038049022008095066116115003126021024091008040092093005112112019096070072086019086120011092117098092085080093084002104030024023080102116005112077088002101092126&EXT=pdf pdf]  / [https://www.youtube.com/watch?v=JJP-rkilz40&feature=youtu.be youtube] as \"we can use the new concept to interact with the environment or to simulate such an interaction\""
-    },
-    {
-      "type": "paragraph",
-      "id": "eaab9cddaeadd945",
-      "text": "Meaning can be changed, or reinforced, by the process of [[Reconsolidation]] during retrieval."
-    },
-    {
       "type": "pagefold",
       "id": "6cb9ad6a74518c1e",
       "text": "TODO"
@@ -53,8 +38,18 @@
     },
     {
       "type": "markdown",
+      "id": "3526b1d730d89433",
+      "text": "\n* \n* [[Reconsolidation]]\n* [[The power of prediction]]\n* [[Successive relearning]]"
+    },
+    {
+      "type": "markdown",
       "id": "fba87bf6863b6a6d",
       "text": " "
+    },
+    {
+      "type": "markdown",
+      "id": "2cfaea93eab07fbc",
+      "text": "Initial Consolidation is insufficient, rather [[retrieval practice]] is considered essential to connect concepts into new networks. The more access pathways there are to a concept the more accessible and useful it is in different contexts.\n"
     }
   ],
   "journal": [
@@ -502,9 +497,8 @@
     },
     {
       "item": {
-        "type": "markdown",
-        "id": "10e1ec34e1a9eeda",
-        "text": ""
+        "type": "factory",
+        "id": "10e1ec34e1a9eeda"
       },
       "id": "10e1ec34e1a9eeda",
       "type": "add",
@@ -518,9 +512,8 @@
     },
     {
       "item": {
-        "type": "markdown",
-        "id": "2cfaea93eab07fbc",
-        "text": "Initial Consolidation is insufficient, rather [[retrieval practice]] is considered essential to connect concepts into new networks. The more access pathways there are to a concept the more accessible and useful it is in different contexts.\n"
+        "type": "factory",
+        "id": "2cfaea93eab07fbc"
       },
       "id": "2cfaea93eab07fbc",
       "type": "add",
@@ -536,162 +529,6 @@
         "text": "Initial Consolidation is insufficient, rather [[retrieval practice]] is considered essential to connect concepts into new networks. The more access pathways there are to a concept the more accessible and useful it is in different contexts.\n"
       },
       "date": 1580233216341
-    },
-    {
-      "id": "2cfaea93eab07fbc",
-      "type": "move",
-      "order": [
-        "060412bb5c712a84",
-        "4fbb45ef01615ef7",
-        "3e4860e861f12206",
-        "f720f5b78e950b1c",
-        "10bc39877b939c6d",
-        "2cfaea93eab07fbc",
-        "6cb9ad6a74518c1e",
-        "6a10fe34052a3226",
-        "3526b1d730d89433",
-        "fba87bf6863b6a6d",
-        "6ececa1c0a6d0867"
-      ],
-      "date": 1580233222056,
-      "error": {
-        "type": "error",
-        "msg": "Internal Server Error",
-        "response": "Server Ignoring move. Try reload."
-      }
-    },
-    {
-      "type": "fork",
-      "date": 1580233225463
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "6313ee6574bb5965"
-      },
-      "id": "6313ee6574bb5965",
-      "type": "add",
-      "after": "fba87bf6863b6a6d",
-      "date": 1580233339475
-    },
-    {
-      "type": "edit",
-      "id": "2cfaea93eab07fbc",
-      "item": {
-        "type": "markdown",
-        "id": "2cfaea93eab07fbc",
-        "text": "Initial Consolidation is insufficient, rather [[retrieval practice]] is considered essential to connect concepts into new networks. The more access pathways there are to a concept the more accessible and useful it is in different contexts.\n\n"
-      },
-      "date": 1580233348583
-    },
-    {
-      "type": "add",
-      "id": "ded8bbb71e8e5087",
-      "item": {
-        "type": "markdown",
-        "id": "ded8bbb71e8e5087",
-        "text": "Furst adopts [[George Lakoff]]'s definition of usefulness "
-      },
-      "after": "2cfaea93eab07fbc",
-      "date": 1580233391323
-    },
-    {
-      "type": "edit",
-      "id": "ded8bbb71e8e5087",
-      "item": {
-        "type": "markdown",
-        "id": "ded8bbb71e8e5087",
-        "text": "Furst adopts / adapts [[George Lakoff]]'s definition of usefulness from The Neural Theory of Metaphor [ pdf]"
-      },
-      "date": 1580233996829
-    },
-    {
-      "type": "edit",
-      "id": "ded8bbb71e8e5087",
-      "item": {
-        "type": "markdown",
-        "id": "ded8bbb71e8e5087",
-        "text": "Furst adopts / adapts [[George Lakoff]]'s definition of usefulness from The Neural Theory of Metaphor [https://poseidon01.ssrn.com/delivery.php?ID=450091020087107088095068073102103112059038009000020002096087031066103095094006113027119013052038049022008095066116115003126021024091008040092093005112112019096070072086019086120011092117098092085080093084002104030024023080102116005112077088002101092126&EXT=pdf pdf]"
-      },
-      "date": 1580234008479
-    },
-    {
-      "type": "edit",
-      "id": "ded8bbb71e8e5087",
-      "item": {
-        "type": "markdown",
-        "id": "ded8bbb71e8e5087",
-        "text": "Furst adopts / adapts [[George Lakoff]]'s definition of usefulness from The Neural Theory of Metaphor [https://poseidon01.ssrn.com/delivery.php?ID=450091020087107088095068073102103112059038009000020002096087031066103095094006113027119013052038049022008095066116115003126021024091008040092093005112112019096070072086019086120011092117098092085080093084002104030024023080102116005112077088002101092126&EXT=pdf pdf] as \"we can use the new concept to interact with the environment or to simulate such an interaction\""
-      },
-      "date": 1580234237535
-    },
-    {
-      "type": "edit",
-      "id": "ded8bbb71e8e5087",
-      "item": {
-        "type": "markdown",
-        "id": "ded8bbb71e8e5087",
-        "text": "Furst adopts / adapts [[George Lakoff]]'s definition of usefulness from The Neural Theory of Metaphor [https://poseidon01.ssrn.com/delivery.php?ID=450091020087107088095068073102103112059038009000020002096087031066103095094006113027119013052038049022008095066116115003126021024091008040092093005112112019096070072086019086120011092117098092085080093084002104030024023080102116005112077088002101092126&EXT=pdf pdf]  / [https://www.youtube.com/watch?v=JJP-rkilz40&feature=youtu.be youtube] as \"we can use the new concept to interact with the environment or to simulate such an interaction\""
-      },
-      "date": 1580234741653
-    },
-    {
-      "type": "edit",
-      "id": "3526b1d730d89433",
-      "item": {
-        "type": "markdown",
-        "id": "3526b1d730d89433",
-        "text": "* \n* [[Reconsolidation]]\n* [[The power of prediction]]\n* [[Successive relearning]]"
-      },
-      "date": 1580235318955
-    },
-    {
-      "type": "remove",
-      "id": "3526b1d730d89433",
-      "date": 1580235350391
-    },
-    {
-      "type": "remove",
-      "id": "6313ee6574bb5965",
-      "date": 1580235421430
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "eaab9cddaeadd945"
-      },
-      "id": "eaab9cddaeadd945",
-      "type": "add",
-      "after": "fba87bf6863b6a6d",
-      "date": 1580236081621
-    },
-    {
-      "type": "edit",
-      "id": "eaab9cddaeadd945",
-      "item": {
-        "type": "paragraph",
-        "id": "eaab9cddaeadd945",
-        "text": "Meaning can be changed, or reinforced, by the process of [[Reconsolidation]] during retrieval."
-      },
-      "date": 1580236117692
-    },
-    {
-      "id": "eaab9cddaeadd945",
-      "type": "move",
-      "order": [
-        "060412bb5c712a84",
-        "4fbb45ef01615ef7",
-        "3e4860e861f12206",
-        "f720f5b78e950b1c",
-        "10bc39877b939c6d",
-        "2cfaea93eab07fbc",
-        "ded8bbb71e8e5087",
-        "eaab9cddaeadd945",
-        "6cb9ad6a74518c1e",
-        "6a10fe34052a3226",
-        "fba87bf6863b6a6d"
-      ],
-      "date": 1580236119845
     }
   ]
 }

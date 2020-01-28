@@ -1,0 +1,115 @@
+{
+  "title": "Reconsolidation",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "56eb7b4a41d33151",
+      "text": "\n"
+    },
+    {
+      "type": "markdown",
+      "id": "2bbde4e3cf6a6535",
+      "text": "* [[Reconsolidation]]\n* [[The power of prediction]]\n* [[Successive relearning]]"
+    },
+    {
+      "type": "markdown",
+      "id": "6fb37999e6dd6bf6",
+      "text": "When a concept is retrieved the memory trace becomes plastic again. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Reconsolidation",
+        "story": []
+      },
+      "date": 1580235321722
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "825c956ca735b1bd"
+      },
+      "id": "825c956ca735b1bd",
+      "type": "add",
+      "date": 1580235324651
+    },
+    {
+      "type": "edit",
+      "id": "825c956ca735b1bd",
+      "item": {
+        "type": "paragraph",
+        "id": "825c956ca735b1bd",
+        "text": "* [[Reconsolidation]]\n* [[The power of prediction]]\n* [[Successive relearning]]"
+      },
+      "date": 1580235329694
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "56eb7b4a41d33151"
+      },
+      "id": "56eb7b4a41d33151",
+      "type": "add",
+      "after": "825c956ca735b1bd",
+      "date": 1580235337232
+    },
+    {
+      "type": "remove",
+      "id": "825c956ca735b1bd",
+      "date": 1580235338649
+    },
+    {
+      "type": "edit",
+      "id": "56eb7b4a41d33151",
+      "item": {
+        "type": "markdown",
+        "id": "56eb7b4a41d33151",
+        "text": "\n"
+      },
+      "date": 1580235342507
+    },
+    {
+      "type": "add",
+      "id": "2bbde4e3cf6a6535",
+      "item": {
+        "type": "markdown",
+        "id": "2bbde4e3cf6a6535",
+        "text": "* [[Reconsolidation]]\n* [[The power of prediction]]\n* [[Successive relearning]]"
+      },
+      "after": "56eb7b4a41d33151",
+      "date": 1580235344124
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6fb37999e6dd6bf6"
+      },
+      "id": "6fb37999e6dd6bf6",
+      "type": "add",
+      "after": "2bbde4e3cf6a6535",
+      "date": 1580236221855
+    },
+    {
+      "type": "edit",
+      "id": "6fb37999e6dd6bf6",
+      "item": {
+        "type": "markdown",
+        "id": "6fb37999e6dd6bf6",
+        "text": "When a concept is retrieved "
+      },
+      "date": 1580236328155
+    },
+    {
+      "type": "edit",
+      "id": "6fb37999e6dd6bf6",
+      "item": {
+        "type": "markdown",
+        "id": "6fb37999e6dd6bf6",
+        "text": "When a concept is retrieved the memory trace becomes plastic again. "
+      },
+      "date": 1580236498113
+    }
+  ]
+}
