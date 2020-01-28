@@ -8,13 +8,28 @@
     },
     {
       "type": "markdown",
-      "id": "2bbde4e3cf6a6535",
-      "text": "* [[Reconsolidation]]\n* [[The power of prediction]]\n* [[Successive relearning]]"
+      "id": "6fb37999e6dd6bf6",
+      "text": "When a concept is retrieved the memory trace becomes plastic again. If the conditions are right the concept can be changed or updated, potentially being linked into new networks, or even unlinked. [https://sites.google.com/view/efratfurst/reconsolidation  page]"
     },
     {
       "type": "markdown",
-      "id": "6fb37999e6dd6bf6",
-      "text": "When a concept is retrieved the memory trace becomes plastic again. "
+      "id": "4486566f70b7ee1d",
+      "text": "[[Efrat Furst]] references work of Jonathan Lee ([https://twitter.com/DrJLCLee profile] ) in Lee, J.L. (2009). Reconsolidation: maintaining memory relevance. Trends in neurosciences, 32(8), 413-420.‏ "
+    },
+    {
+      "type": "markdown",
+      "id": "f85a24a6ccec32f7",
+      "text": ">Reconsolidation does not necessarily take place after every reactivation of any memory.\nThe evidence may suggest that reconsolidation occurs when the new experience is likely to update the existing one (rather then adding no new information or encoded separately).\nIt is suggested that a mismatch between a prediction that is based on the existing knowledge and the new experience (i.e. prediction error) triggers the reconsolidation of the former.\nThis interpretation of the evidence points to a role of reconsolidation in updating memories \"to maintain their predictive and adaptive relevance\"."
+    },
+    {
+      "type": "paragraph",
+      "id": "fe348f82d0de51d0",
+      "text": "Furst suggests that for practical application to acquiring new knowledge the following steps are required:"
+    },
+    {
+      "type": "markdown",
+      "id": "68d7a5461eafce2f",
+      "text": "1. Prior knowledge exists\n2. Prior knowledge is active\n3. Trigger predictions - while retrieving new knowledge think about how it can be used and what predictions can be made (see also [[Question Formulation Technique]])\n4. Make meaningful connections to new information\n5. Allow time for (re) consolidation\n[https://sites.google.com/view/efratfurst/powerofprediction page]"
     }
   ],
   "journal": [
@@ -110,6 +125,222 @@
         "text": "When a concept is retrieved the memory trace becomes plastic again. "
       },
       "date": 1580236498113
+    },
+    {
+      "type": "edit",
+      "id": "6fb37999e6dd6bf6",
+      "item": {
+        "type": "markdown",
+        "id": "6fb37999e6dd6bf6",
+        "text": "When a concept is retrieved the memory trace becomes plastic again. If the conditions are right "
+      },
+      "date": 1580236798712
+    },
+    {
+      "type": "edit",
+      "id": "6fb37999e6dd6bf6",
+      "item": {
+        "type": "markdown",
+        "id": "6fb37999e6dd6bf6",
+        "text": "When a concept is retrieved the memory trace becomes plastic again. If the conditions are right the concept can be changed or updated, potentially being linked into new networks, or even unlinked. [  page]"
+      },
+      "date": 1580237044020
+    },
+    {
+      "type": "edit",
+      "id": "6fb37999e6dd6bf6",
+      "item": {
+        "type": "markdown",
+        "id": "6fb37999e6dd6bf6",
+        "text": "When a concept is retrieved the memory trace becomes plastic again. If the conditions are right the concept can be changed or updated, potentially being linked into new networks, or even unlinked. [https://sites.google.com/view/efratfurst/reconsolidation  page]"
+      },
+      "date": 1580237048855
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4486566f70b7ee1d"
+      },
+      "id": "4486566f70b7ee1d",
+      "type": "add",
+      "after": "6fb37999e6dd6bf6",
+      "date": 1580237060146
+    },
+    {
+      "type": "edit",
+      "id": "4486566f70b7ee1d",
+      "item": {
+        "type": "markdown",
+        "id": "4486566f70b7ee1d",
+        "text": "[{Efrat Furst]] references work of [Jonathan Lee ]"
+      },
+      "date": 1580237260503
+    },
+    {
+      "type": "edit",
+      "id": "4486566f70b7ee1d",
+      "item": {
+        "type": "markdown",
+        "id": "4486566f70b7ee1d",
+        "text": "[[Efrat Furst]] references work of Jonathan Lee [https://twitter.com/DrJLCLee profile] "
+      },
+      "date": 1580237296201
+    },
+    {
+      "type": "edit",
+      "id": "4486566f70b7ee1d",
+      "item": {
+        "type": "markdown",
+        "id": "4486566f70b7ee1d",
+        "text": "[[Efrat Furst]] references work of Jonathan Lee ([https://twitter.com/DrJLCLee profile] ) in Lee, J.L. (2009)"
+      },
+      "date": 1580237325197
+    },
+    {
+      "type": "edit",
+      "id": "4486566f70b7ee1d",
+      "item": {
+        "type": "markdown",
+        "id": "4486566f70b7ee1d",
+        "text": "[[Efrat Furst]] references work of Jonathan Lee ([https://twitter.com/DrJLCLee profile] ) in Lee, J.L. (2009) . Reconsolidation: maintaining memory relevance. Trends in neurosciences, 32(8), 413-420.‏ "
+      },
+      "date": 1580237332994
+    },
+    {
+      "type": "edit",
+      "id": "4486566f70b7ee1d",
+      "item": {
+        "type": "markdown",
+        "id": "4486566f70b7ee1d",
+        "text": "[[Efrat Furst]] references work of Jonathan Lee ([https://twitter.com/DrJLCLee profile] ) in Lee, J.L. (2009). Reconsolidation: maintaining memory relevance. Trends in neurosciences, 32(8), 413-420.‏ "
+      },
+      "date": 1580237346847
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2ef4649574db97d2"
+      },
+      "id": "2ef4649574db97d2",
+      "type": "add",
+      "after": "4486566f70b7ee1d",
+      "date": 1580237353571
+    },
+    {
+      "type": "remove",
+      "id": "2ef4649574db97d2",
+      "date": 1580237370988
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f85a24a6ccec32f7"
+      },
+      "id": "f85a24a6ccec32f7",
+      "type": "add",
+      "after": "4486566f70b7ee1d",
+      "date": 1580237375274
+    },
+    {
+      "type": "edit",
+      "id": "f85a24a6ccec32f7",
+      "item": {
+        "type": "markdown",
+        "id": "f85a24a6ccec32f7",
+        "text": ">Reconsolidation does not necessarily take place after every reactivation of any memory.\nThe evidence may suggest that reconsolidation occurs when the new experience is likely to update the existing one (rather then adding no new information or encoded separately).\nIt is suggested that a mismatch between a prediction that is based on the existing knowledge and the new experience (i.e. prediction error) triggers the reconsolidation of the former.\nThis interpretation of the evidence points to a role of reconsolidation in updating memories \"to maintain their predictive and adaptive relevance\"."
+      },
+      "date": 1580237384068
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fe348f82d0de51d0"
+      },
+      "id": "fe348f82d0de51d0",
+      "type": "add",
+      "after": "f85a24a6ccec32f7",
+      "date": 1580237446819
+    },
+    {
+      "type": "edit",
+      "id": "fe348f82d0de51d0",
+      "item": {
+        "type": "paragraph",
+        "id": "fe348f82d0de51d0",
+        "text": "Furst suggests that for practical application to acquiring new knowledge the following steps are required:"
+      },
+      "date": 1580237482826
+    },
+    {
+      "type": "remove",
+      "id": "2bbde4e3cf6a6535",
+      "date": 1580237496248
+    },
+    {
+      "type": "add",
+      "id": "59dced4eb5460d05",
+      "item": {
+        "type": "paragraph",
+        "id": "59dced4eb5460d05",
+        "text": "1. Prior knowledge exists"
+      },
+      "after": "fe348f82d0de51d0",
+      "date": 1580237519567
+    },
+    {
+      "type": "remove",
+      "id": "59dced4eb5460d05",
+      "date": 1580237525801
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "68d7a5461eafce2f"
+      },
+      "id": "68d7a5461eafce2f",
+      "type": "add",
+      "after": "fe348f82d0de51d0",
+      "date": 1580237526893
+    },
+    {
+      "type": "edit",
+      "id": "68d7a5461eafce2f",
+      "item": {
+        "type": "markdown",
+        "id": "68d7a5461eafce2f",
+        "text": "1. Prior knowledge exists\n2. Prior knowledge is active\n3. Trigger predictions - while retrieving new knowledge think about how it can be used and what predictions can be made\n4. Make meaningful connections to new information\n5. Allow time for (re) consolidation"
+      },
+      "date": 1580237610530
+    },
+    {
+      "type": "edit",
+      "id": "68d7a5461eafce2f",
+      "item": {
+        "type": "markdown",
+        "id": "68d7a5461eafce2f",
+        "text": "1. Prior knowledge exists\n2. Prior knowledge is active\n3. Trigger predictions - while retrieving new knowledge think about how it can be used and what predictions can be made\n4. Make meaningful connections to new information\n5. Allow time for (re) consolidation\n[https://sites.google.com/view/efratfurst/powerofprediction page]"
+      },
+      "date": 1580237632649
+    },
+    {
+      "type": "edit",
+      "id": "68d7a5461eafce2f",
+      "item": {
+        "type": "markdown",
+        "id": "68d7a5461eafce2f",
+        "text": "1. Prior knowledge exists\n2. Prior knowledge is active\n3. Trigger predictions - while retrieving new knowledge think about how it can be used and what predictions can be made (see also [[Question Formulation Technique]]\n4. Make meaningful connections to new information\n5. Allow time for (re) consolidation\n[https://sites.google.com/view/efratfurst/powerofprediction page]"
+      },
+      "date": 1580237856660
+    },
+    {
+      "type": "edit",
+      "id": "68d7a5461eafce2f",
+      "item": {
+        "type": "markdown",
+        "id": "68d7a5461eafce2f",
+        "text": "1. Prior knowledge exists\n2. Prior knowledge is active\n3. Trigger predictions - while retrieving new knowledge think about how it can be used and what predictions can be made (see also [[Question Formulation Technique]])\n4. Make meaningful connections to new information\n5. Allow time for (re) consolidation\n[https://sites.google.com/view/efratfurst/powerofprediction page]"
+      },
+      "date": 1580237895810
     }
   ]
 }

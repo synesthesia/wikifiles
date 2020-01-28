@@ -1,0 +1,39 @@
+{
+  "title": "Question Formulation Technique",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "59e3f6521096547a",
+      "text": "See Right Question Institute [https://rightquestion.org/what-is-the-qft/ site]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Question Formulation Technique",
+        "story": []
+      },
+      "date": 1580237862739
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "59e3f6521096547a"
+      },
+      "id": "59e3f6521096547a",
+      "type": "add",
+      "date": 1580237864936
+    },
+    {
+      "type": "edit",
+      "id": "59e3f6521096547a",
+      "item": {
+        "type": "paragraph",
+        "id": "59e3f6521096547a",
+        "text": "See Right Question Institute [https://rightquestion.org/what-is-the-qft/ site]"
+      },
+      "date": 1580237887371
+    }
+  ]
+}
