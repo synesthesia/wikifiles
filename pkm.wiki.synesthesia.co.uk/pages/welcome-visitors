@@ -32,13 +32,13 @@
     },
     {
       "type": "paragraph",
-      "id": "aa5ebd0203376ad2",
-      "text": "[[Inspirations]]"
+      "id": "e5d2b0d3d1e24051",
+      "text": "You will need your own site to participate."
     },
     {
       "type": "paragraph",
-      "id": "e5d2b0d3d1e24051",
-      "text": "You will need your own site to participate."
+      "id": "aa5ebd0203376ad2",
+      "text": "[[Inspirations]]"
     },
     {
       "type": "paragraph",
@@ -642,6 +642,38 @@
       "type": "remove",
       "id": "a67f176000831d2d",
       "date": 1563814738396
+    },
+    {
+      "id": "e5d2b0d3d1e24051",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "63ad2e58eecdd9e5",
+        "351e58d819f708aa",
+        "821827c99b90cfd1",
+        "e5d2b0d3d1e24051",
+        "1d37e20209277a2d",
+        "aa5ebd0203376ad2",
+        "ee416d431ebf4fb4",
+        "b8d81c060d223a68"
+      ],
+      "date": 1581524197128
+    },
+    {
+      "id": "1d37e20209277a2d",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "63ad2e58eecdd9e5",
+        "351e58d819f708aa",
+        "821827c99b90cfd1",
+        "1d37e20209277a2d",
+        "e5d2b0d3d1e24051",
+        "aa5ebd0203376ad2",
+        "ee416d431ebf4fb4",
+        "b8d81c060d223a68"
+      ],
+      "date": 1581524200090
     }
   ]
 }

@@ -17,14 +17,14 @@
       "text": "It's not clear to me what this top level wiki wants to be, so I have created a separate wiki for unstructured notes and journalling:"
     },
     {
-      "type": "markdown",
-      "id": "48492be542716aa8",
-      "text": "Search works in a particular way in [[Federated Wiki]], specifically it looks in sites that are in the current [[Neighborhood]] (_sorry, it's American English_). To add further sites to the Neighborhood, click the blue chevrons to the right of a list of site flags in one of the boxes below"
-    },
-    {
       "type": "paragraph",
       "id": "ea8d6652fc10bff1",
       "text": "[https://forage.wiki.synesthesia.co.uk Finds and Notes]"
+    },
+    {
+      "type": "markdown",
+      "id": "48492be542716aa8",
+      "text": "Search works in a particular way in [[Federated Wiki]], specifically it looks in sites that are in the current [[Neighborhood]] (_sorry, it's American English_). To add further sites to the Neighborhood, click the blue chevrons to the right of a list of site flags in one of the boxes below"
     },
     {
       "type": "paragraph",
@@ -1191,6 +1191,27 @@
         "55b26a986bb8be6f"
       ],
       "date": 1574003192395
+    },
+    {
+      "id": "48492be542716aa8",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "9444a258b0bddc8a",
+        "79c7b614f39532d7",
+        "ea8d6652fc10bff1",
+        "48492be542716aa8",
+        "903c0a7f34744b9e",
+        "0328c7ca9941cd51",
+        "e6f9f58b25d02c1d",
+        "caeafe4b294d6287",
+        "5f2ada1338df24e3",
+        "26dec414348466ce",
+        "97358d64ee1fe4d8",
+        "ee416d431ebf4fb4",
+        "55b26a986bb8be6f"
+      ],
+      "date": 1581525250637
     }
   ]
 }
