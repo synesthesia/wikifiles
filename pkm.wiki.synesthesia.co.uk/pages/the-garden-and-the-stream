@@ -4,12 +4,22 @@
     {
       "type": "markdown",
       "id": "901854de5f2104b2",
-      "text": "I found the commentary below from  [[Frank McPherson]] resonated with my own emerging sense of practice"
+      "text": "Metaphor applied by Mike Caulfield to contrast the serial nature of much social media with the cyclical growth and nurture that is possible with more personal platforms such as [[Federated Wiki]] [https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/ blog]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "e9f84c053db0de4e",
+      "text": "Caulfield clarifies the distinction as being between [[Serial Media]] and [[Networked Media]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "50fd7512645edf36",
+      "text": "I found the commentary below from  [[Frank McPherson]] on Mike's post resonated with my own emerging sense of practice"
     },
     {
       "type": "pagefold",
       "id": "366a510faaf5c955",
-      "text": " "
+      "text": "Frank McPherson "
     },
     {
       "type": "paragraph",
@@ -155,6 +165,11 @@
       "type": "paragraph",
       "id": "df8c9a305f215ec2",
       "text": "Wiki's unique concept of internal linking is the key ingredient to it being a knowledge platform. As I write I can easily relate something new to something I have already written. Or, I can easily create a stub to a new page to be completed in the future. See [[Wiki As A Knowledge Platform]].  "
+    },
+    {
+      "type": "pagefold",
+      "id": "d0e7bd6d6d9fffe5",
+      "text": "-\n"
     }
   ],
   "journal": [
@@ -1188,6 +1203,128 @@
         "df8c9a305f215ec2"
       ],
       "date": 1563259641462
+    },
+    {
+      "type": "edit",
+      "id": "901854de5f2104b2",
+      "item": {
+        "type": "markdown",
+        "id": "901854de5f2104b2",
+        "text": "MEtaphor applied by Mike Caulfield to contrast the ephemeral nature of much social media with the cyclical growth and nurture that is possible with more personal platforms such as [{Federated Wiki]] \nI found the commentary below from  [[Frank McPherson]] resonated with my own emerging sense of practice"
+      },
+      "date": 1581492424659
+    },
+    {
+      "type": "edit",
+      "id": "901854de5f2104b2",
+      "item": {
+        "type": "markdown",
+        "id": "901854de5f2104b2",
+        "text": "MEtaphor applied by Mike Caulfield to contrast the ephemeral nature of much social media with the cyclical growth and nurture that is possible with more personal platforms such as [[Federated Wiki]] \n"
+      },
+      "date": 1581492433511
+    },
+    {
+      "type": "add",
+      "id": "50fd7512645edf36",
+      "item": {
+        "type": "markdown",
+        "id": "50fd7512645edf36",
+        "text": "I found the commentary below from  [[Frank McPherson]] resonated with my own emerging sense of practice"
+      },
+      "after": "901854de5f2104b2",
+      "date": 1581492436088
+    },
+    {
+      "type": "edit",
+      "id": "901854de5f2104b2",
+      "item": {
+        "type": "markdown",
+        "id": "901854de5f2104b2",
+        "text": "Metaphor applied by Mike Caulfield to contrast the ephemeral nature of much social media with the cyclical growth and nurture that is possible with more personal platforms such as [[Federated Wiki]] [https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/ blog]\n\n"
+      },
+      "date": 1581492451817
+    },
+    {
+      "type": "edit",
+      "id": "50fd7512645edf36",
+      "item": {
+        "type": "markdown",
+        "id": "50fd7512645edf36",
+        "text": "I found the commentary below from  [[Frank McPherson]] \n on Mike's post resonated with my own emerging sense of practice"
+      },
+      "date": 1581492477308
+    },
+    {
+      "type": "edit",
+      "id": "366a510faaf5c955",
+      "item": {
+        "type": "pagefold",
+        "id": "366a510faaf5c955",
+        "text": "Frank McPherson "
+      },
+      "date": 1581492486296
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d0e7bd6d6d9fffe5"
+      },
+      "id": "d0e7bd6d6d9fffe5",
+      "type": "add",
+      "after": "df8c9a305f215ec2",
+      "date": 1581492492047
+    },
+    {
+      "type": "edit",
+      "id": "d0e7bd6d6d9fffe5",
+      "item": {
+        "type": "pagefold",
+        "id": "d0e7bd6d6d9fffe5",
+        "text": "-\n"
+      },
+      "date": 1581492498378
+    },
+    {
+      "type": "edit",
+      "id": "50fd7512645edf36",
+      "item": {
+        "type": "markdown",
+        "id": "50fd7512645edf36",
+        "text": "I found the commentary below from  [[Frank McPherson]] on Mike's post resonated with my own emerging sense of practice"
+      },
+      "date": 1581492533912
+    },
+    {
+      "type": "edit",
+      "id": "901854de5f2104b2",
+      "item": {
+        "type": "markdown",
+        "id": "901854de5f2104b2",
+        "text": "Metaphor applied by Mike Caulfield to contrast the serial nature of much social media with the cyclical growth and nurture that is possible with more personal platforms such as [[Federated Wiki]] [https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/ blog]\n\n"
+      },
+      "date": 1581492755993
+    },
+    {
+      "type": "edit",
+      "id": "901854de5f2104b2",
+      "item": {
+        "type": "markdown",
+        "id": "901854de5f2104b2",
+        "text": "Metaphor applied by Mike Caulfield to contrast the serial nature of much social media with the cyclical growth and nurture that is possible with more personal platforms such as [[Federated Wiki]] [https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/ blog]\n"
+      },
+      "date": 1581492774624
+    },
+    {
+      "type": "add",
+      "id": "e9f84c053db0de4e",
+      "item": {
+        "type": "markdown",
+        "id": "e9f84c053db0de4e",
+        "text": "Caulfield clarifies the distinction as being between [[Serial Media]] and [[Networked Media]]\n"
+      },
+      "after": "901854de5f2104b2",
+      "date": 1581492836316
     }
   ]
 }
