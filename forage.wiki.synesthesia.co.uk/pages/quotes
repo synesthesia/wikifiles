@@ -1,0 +1,49 @@
+{
+  "title": "Quotes",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "83f9ee3b828303c2",
+      "text": "[[We are all authors of each other]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Quotes",
+        "story": []
+      },
+      "date": 1581611325758
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "83f9ee3b828303c2"
+      },
+      "id": "83f9ee3b828303c2",
+      "type": "add",
+      "date": 1581611327355
+    },
+    {
+      "type": "edit",
+      "id": "83f9ee3b828303c2",
+      "item": {
+        "type": "paragraph",
+        "id": "83f9ee3b828303c2",
+        "text": "[[We are all authors "
+      },
+      "date": 1581611343466
+    },
+    {
+      "type": "edit",
+      "id": "83f9ee3b828303c2",
+      "item": {
+        "type": "paragraph",
+        "id": "83f9ee3b828303c2",
+        "text": "[[We are all authors of each other]]"
+      },
+      "date": 1581611375422
+    }
+  ]
+}

@@ -45,7 +45,7 @@
     {
       "type": "markdown",
       "id": "138e17329c0e674c",
-      "text": " ..."
+      "text": "[[Quotes]]"
     }
   ],
   "journal": [
@@ -989,6 +989,16 @@
         "text": " ..."
       },
       "date": 1581526835086
+    },
+    {
+      "type": "edit",
+      "id": "138e17329c0e674c",
+      "item": {
+        "type": "markdown",
+        "id": "138e17329c0e674c",
+        "text": "[[Quotes]]"
+      },
+      "date": 1581611322872
     }
   ]
 }
