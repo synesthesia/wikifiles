@@ -56,6 +56,11 @@
       "type": "paragraph",
       "id": "40f6ab7c289098fb",
       "text": "[[Katas for slow sense-making]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a1bdbf9bc67a701d",
+      "text": "The importance of [[Half Baked Ideas]]"
     }
   ],
   "journal": [
@@ -519,6 +524,26 @@
         "40f6ab7c289098fb"
       ],
       "date": 1574062147246
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a1bdbf9bc67a701d"
+      },
+      "id": "a1bdbf9bc67a701d",
+      "type": "add",
+      "after": "40f6ab7c289098fb",
+      "date": 1581590052880
+    },
+    {
+      "type": "edit",
+      "id": "a1bdbf9bc67a701d",
+      "item": {
+        "type": "paragraph",
+        "id": "a1bdbf9bc67a701d",
+        "text": "The importance of [[Half Baked Ideas]]"
+      },
+      "date": 1581590075595
     }
   ]
 }
