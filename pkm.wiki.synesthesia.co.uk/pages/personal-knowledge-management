@@ -24,7 +24,7 @@
     {
       "type": "paragraph",
       "id": "1296c1b075e76f7e",
-      "text": "One of the leading proponents of PKM is [[Harold Jarche]] through his [[Seek Sense Share]] framework."
+      "text": "One of the leading proponents of PKM is [[Harold Jarche]] through his [[Seek Sense Share]] framework.."
     },
     {
       "type": "paragraph",
@@ -1089,6 +1089,16 @@
         "text": "As well as relating theories of learning to PKM, we might also consider [[Contributions to PKM from NeuroScience]]."
       },
       "date": 1579096197849
+    },
+    {
+      "type": "edit",
+      "id": "1296c1b075e76f7e",
+      "item": {
+        "type": "paragraph",
+        "id": "1296c1b075e76f7e",
+        "text": "One of the leading proponents of PKM is [[Harold Jarche]] through his [[Seek Sense Share]] framework.."
+      },
+      "date": 1581607291906
     }
   ]
 }
