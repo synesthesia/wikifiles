@@ -7,14 +7,19 @@
       "type": "paragraph"
     },
     {
+      "type": "paragraph",
+      "id": "6a99b6059c70a5a2",
+      "text": "[[Recent Changes]] here and elsewhere in the neighbourhood"
+    },
+    {
       "type": "roster",
       "id": "536f6e1bd20f2d5e",
       "text": "ROSTER wiki.synesthesia.co.uk/julian-elve"
     },
     {
-      "type": "paragraph",
-      "id": "821827c99b90cfd1",
-      "text": "Pages about me"
+      "type": "markdown",
+      "id": "138e17329c0e674c",
+      "text": "[[Quotes]]"
     },
     {
       "type": "paragraph",
@@ -41,11 +46,6 @@
       "type": "mathjax",
       "id": "1befbacfd4bae661",
       "text": "[[Journal 2019]]"
-    },
-    {
-      "type": "markdown",
-      "id": "138e17329c0e674c",
-      "text": "[[Quotes]]"
     }
   ],
   "journal": [
@@ -999,6 +999,75 @@
         "text": "[[Quotes]]"
       },
       "date": 1581611322872
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a99b6059c70a5a2"
+      },
+      "id": "6a99b6059c70a5a2",
+      "type": "add",
+      "after": "138e17329c0e674c",
+      "date": 1581611904118
+    },
+    {
+      "type": "edit",
+      "id": "6a99b6059c70a5a2",
+      "item": {
+        "type": "paragraph",
+        "id": "6a99b6059c70a5a2",
+        "text": "[{Recent Changes]] here and elsewhere in the neighbourhood"
+      },
+      "date": 1581611920324
+    },
+    {
+      "type": "edit",
+      "id": "6a99b6059c70a5a2",
+      "item": {
+        "type": "paragraph",
+        "id": "6a99b6059c70a5a2",
+        "text": "[[Recent Changes]] here and elsewhere in the neighbourhood"
+      },
+      "date": 1581611925682
+    },
+    {
+      "id": "6a99b6059c70a5a2",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "6a99b6059c70a5a2",
+        "536f6e1bd20f2d5e",
+        "821827c99b90cfd1",
+        "4aa2a2fea8e349dc",
+        "63ad2e58eecdd9e5",
+        "27504524edc46225",
+        "bfd30f39150e3cc4",
+        "1befbacfd4bae661",
+        "138e17329c0e674c"
+      ],
+      "date": 1581611937516
+    },
+    {
+      "id": "138e17329c0e674c",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "6a99b6059c70a5a2",
+        "536f6e1bd20f2d5e",
+        "821827c99b90cfd1",
+        "138e17329c0e674c",
+        "4aa2a2fea8e349dc",
+        "63ad2e58eecdd9e5",
+        "27504524edc46225",
+        "bfd30f39150e3cc4",
+        "1befbacfd4bae661"
+      ],
+      "date": 1581611954486
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1581611957795
     }
   ]
 }
