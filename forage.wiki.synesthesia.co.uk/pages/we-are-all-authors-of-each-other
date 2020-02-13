@@ -1,6 +1,27 @@
 {
   "title": "We are all authors of each other",
-  "story": [],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "126d72df8a0482bb",
+      "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+      "punt": {
+        "url": "https://blogs.harvard.edu/doc/2020/02/10/commons/",
+        "userAgent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"
+      },
+      "text": "[[Doc Searls]]"
+    },
+    {
+      "type": "markdown",
+      "id": "45e9c1f0cba6279e",
+      "text": ">When you tell me something I don’t know, you don’t just deliver a sum of information to me. You form me. As a walking sum of all I know, I am changed by that.\n\n>This means we are all authors of each other.\nIn that sense, the word authority belongs to the right we give others to author us: to form us."
+    },
+    {
+      "type": "paragraph",
+      "id": "2a4cf35cd3c85428",
+      "text": "[https://blogs.harvard.edu/doc/2020/02/10/commons/ blog]"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +30,100 @@
         "story": []
       },
       "date": 1581611378537
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "126d72df8a0482bb"
+      },
+      "id": "126d72df8a0482bb",
+      "type": "add",
+      "date": 1581611453543
+    },
+    {
+      "type": "edit",
+      "id": "126d72df8a0482bb",
+      "item": {
+        "type": "factory",
+        "id": "126d72df8a0482bb",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "https://blogs.harvard.edu/doc/2020/02/10/commons/",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"
+        }
+      },
+      "date": 1581611456210
+    },
+    {
+      "type": "edit",
+      "id": "126d72df8a0482bb",
+      "item": {
+        "type": "paragraph",
+        "id": "126d72df8a0482bb",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "https://blogs.harvard.edu/doc/2020/02/10/commons/",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"
+        },
+        "text": "[[Doc Searls]]"
+      },
+      "date": 1581611519484
+    },
+    {
+      "type": "add",
+      "id": "a5d3a242fab222b8",
+      "item": {
+        "type": "paragraph",
+        "id": "a5d3a242fab222b8",
+        "text": ">When you tell me something I don’t know, you don’t just deliver a sum of information to me. You form me. As a walking sum of all I know, I am changed by that.\n\nThis means we are all authors of each other.\nIn that sense, the word authority belongs to the right we give others to author us: to form us."
+      },
+      "after": "126d72df8a0482bb",
+      "date": 1581611523593
+    },
+    {
+      "type": "remove",
+      "id": "a5d3a242fab222b8",
+      "date": 1581611529794
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "45e9c1f0cba6279e"
+      },
+      "id": "45e9c1f0cba6279e",
+      "type": "add",
+      "after": "126d72df8a0482bb",
+      "date": 1581611532324
+    },
+    {
+      "type": "edit",
+      "id": "45e9c1f0cba6279e",
+      "item": {
+        "type": "markdown",
+        "id": "45e9c1f0cba6279e",
+        "text": ">When you tell me something I don’t know, you don’t just deliver a sum of information to me. You form me. As a walking sum of all I know, I am changed by that.\n\n>This means we are all authors of each other.\nIn that sense, the word authority belongs to the right we give others to author us: to form us."
+      },
+      "date": 1581611545291
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a4cf35cd3c85428"
+      },
+      "id": "2a4cf35cd3c85428",
+      "type": "add",
+      "after": "45e9c1f0cba6279e",
+      "date": 1581611551078
+    },
+    {
+      "type": "edit",
+      "id": "2a4cf35cd3c85428",
+      "item": {
+        "type": "paragraph",
+        "id": "2a4cf35cd3c85428",
+        "text": "[https://blogs.harvard.edu/doc/2020/02/10/commons/ blog]"
+      },
+      "date": 1581611562155
     }
   ]
 }

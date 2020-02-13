@@ -1,0 +1,49 @@
+{
+  "title": "Doc Searls",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "2d38cda48f07457f",
+      "text": "See [https://blogs.harvard.edu/doc/about/ about page]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Doc Searls",
+        "story": []
+      },
+      "date": 1581611645171
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2d38cda48f07457f"
+      },
+      "id": "2d38cda48f07457f",
+      "type": "add",
+      "date": 1581611647707
+    },
+    {
+      "type": "edit",
+      "id": "2d38cda48f07457f",
+      "item": {
+        "type": "markdown",
+        "id": "2d38cda48f07457f",
+        "text": "See ["
+      },
+      "date": 1581611672037
+    },
+    {
+      "type": "edit",
+      "id": "2d38cda48f07457f",
+      "item": {
+        "type": "markdown",
+        "id": "2d38cda48f07457f",
+        "text": "See [https://blogs.harvard.edu/doc/about/ about page]"
+      },
+      "date": 1581611683940
+    }
+  ]
+}
