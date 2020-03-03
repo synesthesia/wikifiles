@@ -4,27 +4,27 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "3b9823cf191b2a92"
+      "id": "75a4e3fb033ded39"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "aca5be1b4a3dc2a0"
+      "id": "a46e92ae662435cd"
     },
     {
-      "date": 1583243397000,
+      "date": 1583252411000,
       "site": "wiki.synesthesia.co.uk",
-      "slug": "move-fedwiki-to-another-server",
-      "title": "Move Fedwiki to another server",
-      "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 154 pages.",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 155 pages.",
       "type": "reference",
-      "id": "cf7b9ba608027ab0"
+      "id": "72ad3caca3c8b77b"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "fa78121c1b160ea9",
+      "id": "0e45cc10ec6c4f1a",
       "item": {
         "title": "Recent Farm Activity"
       },
@@ -34,37 +34,37 @@
     },
     {
       "type": "add",
-      "id": "3b9823cf191b2a92",
+      "id": "75a4e3fb033ded39",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "3b9823cf191b2a92"
+        "id": "75a4e3fb033ded39"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "aca5be1b4a3dc2a0",
+      "id": "a46e92ae662435cd",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "aca5be1b4a3dc2a0"
+        "id": "a46e92ae662435cd"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "cf7b9ba608027ab0",
+      "id": "72ad3caca3c8b77b",
       "item": {
-        "date": 1583243397000,
+        "date": 1583252411000,
         "site": "wiki.synesthesia.co.uk",
-        "slug": "move-fedwiki-to-another-server",
-        "title": "Move Fedwiki to another server",
-        "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 154 pages.",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 155 pages.",
         "type": "reference",
-        "id": "cf7b9ba608027ab0"
+        "id": "72ad3caca3c8b77b"
       },
-      "date": 1583243397000
+      "date": 1583252411000
     }
   ]
 }
