@@ -64,7 +64,7 @@
     {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
-      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby. Se also [[Recent Farm Activity]]"
     },
     {
       "type": "changes",
@@ -1226,6 +1226,16 @@
       "type": "add",
       "after": "55b26a986bb8be6f",
       "date": 1583252390840
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby. Se also [[Recent Farm Activity]]"
+      },
+      "date": 1583252407291
     }
   ]
 }
