@@ -55,7 +55,12 @@
     {
       "type": "paragraph",
       "id": "a8c82a11390f1ffc",
-      "text": "How to install Fedwiki on Ububtu 64 bit "
+      "text": "[[Install FedWiki on Ubuntu 64 bit]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "917ed7281a719230",
+      "text": "[[Move Fedwiki to another server]]"
     }
   ],
   "journal": [
@@ -389,6 +394,36 @@
         "text": "How to install Fedwiki on Ububtu 64 bit "
       },
       "date": 1583243254618
+    },
+    {
+      "type": "edit",
+      "id": "a8c82a11390f1ffc",
+      "item": {
+        "type": "paragraph",
+        "id": "a8c82a11390f1ffc",
+        "text": "[[Install FedWiki on Ubuntu 64 bit]]"
+      },
+      "date": 1583243297828
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "917ed7281a719230"
+      },
+      "id": "917ed7281a719230",
+      "type": "add",
+      "after": "a8c82a11390f1ffc",
+      "date": 1583243344191
+    },
+    {
+      "type": "edit",
+      "id": "917ed7281a719230",
+      "item": {
+        "type": "paragraph",
+        "id": "917ed7281a719230",
+        "text": "[[Move Fedwiki to another server]]"
+      },
+      "date": 1583243357569
     }
   ]
 }

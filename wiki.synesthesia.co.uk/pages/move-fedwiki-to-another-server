@@ -1,0 +1,39 @@
+{
+  "title": "Move Fedwiki to another server",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "858deab62445f28e",
+      "text": "See Move a Wiki [https://www.synesthesia.co.uk/note/2020/03/03/move-a-wiki/ post]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Move Fedwiki to another server",
+        "story": []
+      },
+      "date": 1583243368323
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "858deab62445f28e"
+      },
+      "id": "858deab62445f28e",
+      "type": "add",
+      "date": 1583243372203
+    },
+    {
+      "type": "edit",
+      "id": "858deab62445f28e",
+      "item": {
+        "type": "paragraph",
+        "id": "858deab62445f28e",
+        "text": "See Move a Wiki [https://www.synesthesia.co.uk/note/2020/03/03/move-a-wiki/ post]"
+      },
+      "date": 1583243394052
+    }
+  ]
+}
