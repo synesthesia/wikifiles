@@ -69,6 +69,10 @@
     {
       "type": "changes",
       "id": "55b26a986bb8be6f"
+    },
+    {
+      "type": "factory",
+      "id": "7869c783bde35d19"
     }
   ],
   "journal": [
@@ -1212,6 +1216,16 @@
         "55b26a986bb8be6f"
       ],
       "date": 1581525250637
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7869c783bde35d19"
+      },
+      "id": "7869c783bde35d19",
+      "type": "add",
+      "after": "55b26a986bb8be6f",
+      "date": 1583252390840
     }
   ]
 }

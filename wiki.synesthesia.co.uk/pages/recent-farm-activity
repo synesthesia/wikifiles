@@ -1,0 +1,70 @@
+{
+  "title": "Recent Farm Activity",
+  "story": [
+    {
+      "text": "Sites hosted by this farm with activity in the last 10 days.",
+      "type": "paragraph",
+      "id": "3b9823cf191b2a92"
+    },
+    {
+      "text": "See also [[About Activity Plugin]].",
+      "type": "paragraph",
+      "id": "aca5be1b4a3dc2a0"
+    },
+    {
+      "date": 1583243397000,
+      "site": "wiki.synesthesia.co.uk",
+      "slug": "move-fedwiki-to-another-server",
+      "title": "Move Fedwiki to another server",
+      "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 154 pages.",
+      "type": "reference",
+      "id": "cf7b9ba608027ab0"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "fa78121c1b160ea9",
+      "item": {
+        "title": "Recent Farm Activity"
+      },
+      "date": 1583252176000,
+      "script": "wiki3:/home/wiki/.wiki/data/wiki.synesthesia.co.uk/scripts/build.rb",
+      "repo": "git@github.com:WardCunningham/farm-scripts.git"
+    },
+    {
+      "type": "add",
+      "id": "3b9823cf191b2a92",
+      "item": {
+        "text": "Sites hosted by this farm with activity in the last 10 days.",
+        "type": "paragraph",
+        "id": "3b9823cf191b2a92"
+      },
+      "date": 1583252176000
+    },
+    {
+      "type": "add",
+      "id": "aca5be1b4a3dc2a0",
+      "item": {
+        "text": "See also [[About Activity Plugin]].",
+        "type": "paragraph",
+        "id": "aca5be1b4a3dc2a0"
+      },
+      "date": 1583252176000
+    },
+    {
+      "type": "add",
+      "id": "cf7b9ba608027ab0",
+      "item": {
+        "date": 1583243397000,
+        "site": "wiki.synesthesia.co.uk",
+        "slug": "move-fedwiki-to-another-server",
+        "title": "Move Fedwiki to another server",
+        "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 154 pages.",
+        "type": "reference",
+        "id": "cf7b9ba608027ab0"
+      },
+      "date": 1583243397000
+    }
+  ]
+}
