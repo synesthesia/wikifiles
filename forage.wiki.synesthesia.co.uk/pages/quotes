@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "83f9ee3b828303c2",
       "text": "[[We are all authors of each other]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0a43488c97ff5fe9",
+      "text": "[[Imagine all these companies]]"
     }
   ],
   "journal": [
@@ -44,6 +49,26 @@
         "text": "[[We are all authors of each other]]"
       },
       "date": 1581611375422
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0a43488c97ff5fe9"
+      },
+      "id": "0a43488c97ff5fe9",
+      "type": "add",
+      "after": "83f9ee3b828303c2",
+      "date": 1583253695639
+    },
+    {
+      "type": "edit",
+      "id": "0a43488c97ff5fe9",
+      "item": {
+        "type": "paragraph",
+        "id": "0a43488c97ff5fe9",
+        "text": "[[Imagine all these companies]]"
+      },
+      "date": 1583253708356
     }
   ]
 }

@@ -1,0 +1,74 @@
+{
+  "title": "Imagine all these companies",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "ffee6f16aa63364b",
+      "text": ">Imagine all of these companies asking employees to work remotely for 2+ weeks to prevent the spread of illness only to learn the companies are continuing to function just fine with a remote workforce and everyone is content."
+    },
+    {
+      "type": "paragraph",
+      "id": "6bf72c7461d27931",
+      "text": "Kelly Vaughan [https://mobile.twitter.com/kvlly/status/1234305903647690753 tweet]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Imagine all these companies",
+        "story": []
+      },
+      "date": 1583253711602
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ffee6f16aa63364b"
+      },
+      "id": "ffee6f16aa63364b",
+      "type": "add",
+      "date": 1583253713765
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6bf72c7461d27931"
+      },
+      "id": "6bf72c7461d27931",
+      "type": "add",
+      "after": "ffee6f16aa63364b",
+      "date": 1583253725367
+    },
+    {
+      "type": "edit",
+      "id": "ffee6f16aa63364b",
+      "item": {
+        "type": "markdown",
+        "id": "ffee6f16aa63364b",
+        "text": ">Imagine all of these companies asking employees to work remotely for 2+ weeks to prevent the spread of illness only to learn the companies are continuing to function just fine with a remote workforce and everyone is content."
+      },
+      "date": 1583253727821
+    },
+    {
+      "type": "edit",
+      "id": "6bf72c7461d27931",
+      "item": {
+        "type": "paragraph",
+        "id": "6bf72c7461d27931",
+        "text": "Kelly Vaughan ["
+      },
+      "date": 1583253745971
+    },
+    {
+      "type": "edit",
+      "id": "6bf72c7461d27931",
+      "item": {
+        "type": "paragraph",
+        "id": "6bf72c7461d27931",
+        "text": "Kelly Vaughan [https://mobile.twitter.com/kvlly/status/1234305903647690753 tweet]"
+      },
+      "date": 1583253758511
+    }
+  ]
+}
