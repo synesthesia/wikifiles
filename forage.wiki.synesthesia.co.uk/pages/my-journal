@@ -8,6 +8,11 @@
     },
     {
       "type": "paragraph",
+      "id": "81109eccd86561f8",
+      "text": "[[Journal 2020]]"
+    },
+    {
+      "type": "paragraph",
       "id": "696a42150633f53b",
       "text": "[[Journal 2018]]"
     }
@@ -146,6 +151,36 @@
       "type": "remove",
       "id": "3d3ac729b6055684",
       "date": 1522745670533
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "81109eccd86561f8"
+      },
+      "id": "81109eccd86561f8",
+      "type": "add",
+      "after": "696a42150633f53b",
+      "date": 1583303954560
+    },
+    {
+      "type": "edit",
+      "id": "81109eccd86561f8",
+      "item": {
+        "type": "paragraph",
+        "id": "81109eccd86561f8",
+        "text": "[[Journal 2020]]"
+      },
+      "date": 1583303966021
+    },
+    {
+      "id": "81109eccd86561f8",
+      "type": "move",
+      "order": [
+        "38c3927480a055f6",
+        "81109eccd86561f8",
+        "696a42150633f53b"
+      ],
+      "date": 1583303969996
     }
   ]
 }

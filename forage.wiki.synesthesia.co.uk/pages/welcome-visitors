@@ -39,13 +39,18 @@
     },
     {
       "type": "paragraph",
-      "id": "bfd30f39150e3cc4",
-      "text": "[[Journal 2018]]"
+      "id": "ea362ff0ac7c7e07",
+      "text": "[[Journal 2020]]"
     },
     {
       "type": "mathjax",
       "id": "1befbacfd4bae661",
       "text": "[[Journal 2019]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "bfd30f39150e3cc4",
+      "text": "[[Journal 2018]]"
     }
   ],
   "journal": [
@@ -1068,6 +1073,60 @@
       "type": "remove",
       "id": "821827c99b90cfd1",
       "date": 1581611957795
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ea362ff0ac7c7e07"
+      },
+      "id": "ea362ff0ac7c7e07",
+      "type": "add",
+      "after": "1befbacfd4bae661",
+      "date": 1583303976732
+    },
+    {
+      "type": "edit",
+      "id": "ea362ff0ac7c7e07",
+      "item": {
+        "type": "paragraph",
+        "id": "ea362ff0ac7c7e07",
+        "text": "[[Journal 2020]]"
+      },
+      "date": 1583303985836
+    },
+    {
+      "id": "ea362ff0ac7c7e07",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "6a99b6059c70a5a2",
+        "536f6e1bd20f2d5e",
+        "138e17329c0e674c",
+        "4aa2a2fea8e349dc",
+        "63ad2e58eecdd9e5",
+        "27504524edc46225",
+        "ea362ff0ac7c7e07",
+        "bfd30f39150e3cc4",
+        "1befbacfd4bae661"
+      ],
+      "date": 1583303987436
+    },
+    {
+      "id": "1befbacfd4bae661",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "6a99b6059c70a5a2",
+        "536f6e1bd20f2d5e",
+        "138e17329c0e674c",
+        "4aa2a2fea8e349dc",
+        "63ad2e58eecdd9e5",
+        "27504524edc46225",
+        "ea362ff0ac7c7e07",
+        "1befbacfd4bae661",
+        "bfd30f39150e3cc4"
+      ],
+      "date": 1583303989030
     }
   ]
 }
