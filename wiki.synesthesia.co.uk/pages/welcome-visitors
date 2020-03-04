@@ -64,7 +64,12 @@
     {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
-      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby. Se also [[Recent Farm Activity]]"
+      "text": "If you have a wiki you can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7869c783bde35d19",
+      "text": "Follow [[Recent Changes]] here and nearby. See also [[Recent Farm Activity]]"
     },
     {
       "type": "changes",
@@ -72,7 +77,7 @@
     },
     {
       "type": "factory",
-      "id": "7869c783bde35d19"
+      "id": "a2455761ef2f8208"
     }
   ],
   "journal": [
@@ -1236,6 +1241,59 @@
         "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby. Se also [[Recent Farm Activity]]"
       },
       "date": 1583252407291
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "If you have a wiki you can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. "
+      },
+      "date": 1583315648271
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a2455761ef2f8208"
+      },
+      "id": "a2455761ef2f8208",
+      "type": "add",
+      "after": "7869c783bde35d19",
+      "date": 1583315651383
+    },
+    {
+      "type": "edit",
+      "id": "7869c783bde35d19",
+      "item": {
+        "type": "paragraph",
+        "id": "7869c783bde35d19",
+        "text": "Follow [[Recent Changes]] here and nearby. See also [[Recent Farm Activity]]"
+      },
+      "date": 1583315655112
+    },
+    {
+      "id": "7869c783bde35d19",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "9444a258b0bddc8a",
+        "79c7b614f39532d7",
+        "ea8d6652fc10bff1",
+        "48492be542716aa8",
+        "903c0a7f34744b9e",
+        "0328c7ca9941cd51",
+        "e6f9f58b25d02c1d",
+        "caeafe4b294d6287",
+        "5f2ada1338df24e3",
+        "26dec414348466ce",
+        "97358d64ee1fe4d8",
+        "ee416d431ebf4fb4",
+        "7869c783bde35d19",
+        "55b26a986bb8be6f",
+        "a2455761ef2f8208"
+      ],
+      "date": 1583315661664
     }
   ]
 }
