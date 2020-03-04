@@ -1,0 +1,114 @@
+{
+  "title": "Journal 2020",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "875e15e9db8e139e",
+      "text": "Feb 2020"
+    },
+    {
+      "type": "paragraph",
+      "id": "a0d43c04b779387e",
+      "text": "[[We are all authors of each other]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "62e89928e724df5b",
+      "text": "Mar 2020"
+    },
+    {
+      "type": "paragraph",
+      "id": "d58bfe24bf0a6e9e",
+      "text": "[[Imagine all these companies]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Journal 2020",
+        "story": []
+      },
+      "date": 1583304012034
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "875e15e9db8e139e"
+      },
+      "id": "875e15e9db8e139e",
+      "type": "add",
+      "date": 1583304016213
+    },
+    {
+      "type": "edit",
+      "id": "875e15e9db8e139e",
+      "item": {
+        "type": "pagefold",
+        "id": "875e15e9db8e139e",
+        "text": "Feb 2020"
+      },
+      "date": 1583304025008
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a0d43c04b779387e"
+      },
+      "id": "a0d43c04b779387e",
+      "type": "add",
+      "after": "875e15e9db8e139e",
+      "date": 1583304026510
+    },
+    {
+      "type": "edit",
+      "id": "a0d43c04b779387e",
+      "item": {
+        "type": "paragraph",
+        "id": "a0d43c04b779387e",
+        "text": "[[We are all authors of each other]]"
+      },
+      "date": 1583304037877
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "62e89928e724df5b"
+      },
+      "id": "62e89928e724df5b",
+      "type": "add",
+      "after": "a0d43c04b779387e",
+      "date": 1583304043323
+    },
+    {
+      "type": "edit",
+      "id": "62e89928e724df5b",
+      "item": {
+        "type": "pagefold",
+        "id": "62e89928e724df5b",
+        "text": "Mar 2020"
+      },
+      "date": 1583304055209
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d58bfe24bf0a6e9e"
+      },
+      "id": "d58bfe24bf0a6e9e",
+      "type": "add",
+      "after": "62e89928e724df5b",
+      "date": 1583304057353
+    },
+    {
+      "type": "edit",
+      "id": "d58bfe24bf0a6e9e",
+      "item": {
+        "type": "paragraph",
+        "id": "d58bfe24bf0a6e9e",
+        "text": "[[Imagine all these companies]]"
+      },
+      "date": 1583304065120
+    }
+  ]
+}
