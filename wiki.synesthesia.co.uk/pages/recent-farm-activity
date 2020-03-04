@@ -4,21 +4,12 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "c9beb36bad7e5f81"
+      "id": "cca670ac8aec93cb"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "510ba9e21212d669"
-    },
-    {
-      "date": 1583253842000,
-      "site": "wiki.synesthesia.co.uk",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 155 pages.",
-      "type": "reference",
-      "id": "51e026cae9620108"
+      "id": "6a42962280a19531"
     },
     {
       "date": 1583304068000,
@@ -27,13 +18,22 @@
       "title": "Journal 2020",
       "text": "In [http://forage.wiki.synesthesia.co.uk forage.wiki.synesthesia.co.uk] with 15 pages.",
       "type": "reference",
-      "id": "a274e69cc055537b"
+      "id": "6aa9557184d092db"
+    },
+    {
+      "date": 1583315664000,
+      "site": "wiki.synesthesia.co.uk",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 155 pages.",
+      "type": "reference",
+      "id": "e245021c6c3b8024"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "74fb1b8969f3edde",
+      "id": "bd34a1c5d5709ae0",
       "item": {
         "title": "Recent Farm Activity"
       },
@@ -43,41 +43,27 @@
     },
     {
       "type": "add",
-      "id": "c9beb36bad7e5f81",
+      "id": "cca670ac8aec93cb",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "c9beb36bad7e5f81"
+        "id": "cca670ac8aec93cb"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "510ba9e21212d669",
+      "id": "6a42962280a19531",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "510ba9e21212d669"
+        "id": "6a42962280a19531"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "51e026cae9620108",
-      "item": {
-        "date": 1583253842000,
-        "site": "wiki.synesthesia.co.uk",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 155 pages.",
-        "type": "reference",
-        "id": "51e026cae9620108"
-      },
-      "date": 1583253842000
-    },
-    {
-      "type": "add",
-      "id": "a274e69cc055537b",
+      "id": "6aa9557184d092db",
       "item": {
         "date": 1583304068000,
         "site": "forage.wiki.synesthesia.co.uk",
@@ -85,9 +71,23 @@
         "title": "Journal 2020",
         "text": "In [http://forage.wiki.synesthesia.co.uk forage.wiki.synesthesia.co.uk] with 15 pages.",
         "type": "reference",
-        "id": "a274e69cc055537b"
+        "id": "6aa9557184d092db"
       },
       "date": 1583304068000
+    },
+    {
+      "type": "add",
+      "id": "e245021c6c3b8024",
+      "item": {
+        "date": 1583315664000,
+        "site": "wiki.synesthesia.co.uk",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 155 pages.",
+        "type": "reference",
+        "id": "e245021c6c3b8024"
+      },
+      "date": 1583315664000
     }
   ]
 }
