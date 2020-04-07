@@ -1,0 +1,99 @@
+{
+  "title": "Half Baked Ideas",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "74c8da4e5c78ecae",
+      "text": "Harold Jarche"
+    },
+    {
+      "type": "paragraph",
+      "id": "7d4b3d72ab42c7dc",
+      "text": "Practising PKM as a flowing series of half-baked ideas can encourage innovation and reduce the feeling that our exposed knowledge has to be ‘executive presentation perfect’ [http://jarche.com/2015/03/innovation-means-learning-at-work/ blog]"
+    },
+    {
+      "type": "pagefold",
+      "id": "f935dcd9467a6194",
+      "text": " "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Half Baked Ideas",
+        "story": []
+      },
+      "date": 1586269605584
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "74c8da4e5c78ecae"
+      },
+      "id": "74c8da4e5c78ecae",
+      "type": "add",
+      "date": 1586269621106
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7d4b3d72ab42c7dc"
+      },
+      "id": "7d4b3d72ab42c7dc",
+      "type": "add",
+      "after": "74c8da4e5c78ecae",
+      "date": 1586269632033
+    },
+    {
+      "type": "edit",
+      "id": "74c8da4e5c78ecae",
+      "item": {
+        "type": "pagefold",
+        "id": "74c8da4e5c78ecae",
+        "text": "Harold Jarche"
+      },
+      "date": 1586269635444
+    },
+    {
+      "type": "edit",
+      "id": "7d4b3d72ab42c7dc",
+      "item": {
+        "type": "paragraph",
+        "id": "7d4b3d72ab42c7dc",
+        "text": "Practising PKM as a flowing series of half-baked ideas can encourage innovation and reduce the feeling that our exposed knowledge has to be ‘executive presentation perfect’ "
+      },
+      "date": 1586269644835
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f935dcd9467a6194"
+      },
+      "id": "f935dcd9467a6194",
+      "type": "add",
+      "after": "7d4b3d72ab42c7dc",
+      "date": 1586269655335
+    },
+    {
+      "type": "edit",
+      "id": "7d4b3d72ab42c7dc",
+      "item": {
+        "type": "paragraph",
+        "id": "7d4b3d72ab42c7dc",
+        "text": "Practising PKM as a flowing series of half-baked ideas can encourage innovation and reduce the feeling that our exposed knowledge has to be ‘executive presentation perfect’ [http://jarche.com/2015/03/innovation-means-learning-at-work/ blog]"
+      },
+      "date": 1586269657280
+    },
+    {
+      "type": "edit",
+      "id": "f935dcd9467a6194",
+      "item": {
+        "type": "pagefold",
+        "id": "f935dcd9467a6194",
+        "text": " "
+      },
+      "date": 1586269674904
+    }
+  ]
+}
