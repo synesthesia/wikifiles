@@ -10,6 +10,11 @@
       "type": "paragraph",
       "id": "0a43488c97ff5fe9",
       "text": "[[Imagine all these companies]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "03e9b9d6079c4944",
+      "text": "[[We should strive to design practice systems which yield compounding returns on our efforts as they accumulate over time.]]"
     }
   ],
   "journal": [
@@ -69,6 +74,26 @@
         "text": "[[Imagine all these companies]]"
       },
       "date": 1583253708356
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "03e9b9d6079c4944"
+      },
+      "id": "03e9b9d6079c4944",
+      "type": "add",
+      "after": "0a43488c97ff5fe9",
+      "date": 1586264081851
+    },
+    {
+      "type": "edit",
+      "id": "03e9b9d6079c4944",
+      "item": {
+        "type": "paragraph",
+        "id": "03e9b9d6079c4944",
+        "text": "[[We should strive to design practice systems which yield compounding returns on our efforts as they accumulate over time.]]"
+      },
+      "date": 1586264091053
     }
   ]
 }
