@@ -61,6 +61,10 @@
       "type": "paragraph",
       "id": "a1bdbf9bc67a701d",
       "text": "The importance of [[Half Baked Ideas]]"
+    },
+    {
+      "type": "factory",
+      "id": "317c8c02bc45d2d4"
     }
   ],
   "journal": [
@@ -544,6 +548,16 @@
         "text": "The importance of [[Half Baked Ideas]]"
       },
       "date": 1581590075595
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "317c8c02bc45d2d4"
+      },
+      "id": "317c8c02bc45d2d4",
+      "type": "add",
+      "after": "a1bdbf9bc67a701d",
+      "date": 1586249992015
     }
   ]
 }
