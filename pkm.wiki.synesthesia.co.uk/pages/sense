@@ -71,6 +71,14 @@
       "type": "markdown",
       "id": "3d0a7ae0f89c5e42",
       "text": "[[Zettelkasten]]"
+    },
+    {
+      "type": "reference",
+      "id": "0588d436ea18e29b",
+      "site": "forage.wiki.synesthesia.co.uk",
+      "slug": "knowledge-work-should-accrete",
+      "title": "Knowledge work should accrete",
+      "text": "Many activities in Knowledge work seem to be ephemeral efforts, their outputs mostly discarded after they’re completed [...]"
     }
   ],
   "journal": [
@@ -594,6 +602,29 @@
         "text": "[[Zettelkasten]]"
       },
       "date": 1586250441235
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0588d436ea18e29b"
+      },
+      "id": "0588d436ea18e29b",
+      "type": "add",
+      "after": "3d0a7ae0f89c5e42",
+      "date": 1586269185473
+    },
+    {
+      "type": "edit",
+      "id": "0588d436ea18e29b",
+      "item": {
+        "type": "reference",
+        "id": "0588d436ea18e29b",
+        "site": "forage.wiki.synesthesia.co.uk",
+        "slug": "knowledge-work-should-accrete",
+        "title": "Knowledge work should accrete",
+        "text": "Many activities in Knowledge work seem to be ephemeral efforts, their outputs mostly discarded after they’re completed [...]"
+      },
+      "date": 1586269189034
     }
   ]
 }
