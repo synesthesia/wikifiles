@@ -1,0 +1,89 @@
+{
+  "title": "Zettelkasten",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "3ca79c365fd47de1",
+      "text": "The 20th-century German sociologist [[Niklas Luhmann]] managed to publish 70 books. He credits much of his success to his Zettelkasten, or \"slip box.\""
+    },
+    {
+      "type": "markdown",
+      "id": "9e5f6d877d87c893",
+      "text": "_Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), Universität als Milieu: Kleine Schriften (pp. 53–61). [http://luhmann.surge.sh/communicating-with-slip-boxes page]_"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Zettelkasten",
+        "story": []
+      },
+      "date": 1586250463222
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3ca79c365fd47de1"
+      },
+      "id": "3ca79c365fd47de1",
+      "type": "add",
+      "date": 1586250465172
+    },
+    {
+      "type": "edit",
+      "id": "3ca79c365fd47de1",
+      "item": {
+        "type": "markdown",
+        "id": "3ca79c365fd47de1",
+        "text": "The 20th-century German sociologist [[Niklas Luhmann]] managed to publish 70 books. He credits much of his success to his Zettelkasten, or \"slip box.\""
+      },
+      "date": 1586250496037
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fbcc3f44453e55a6"
+      },
+      "id": "fbcc3f44453e55a6",
+      "type": "add",
+      "after": "3ca79c365fd47de1",
+      "date": 1586250502544
+    },
+    {
+      "type": "edit",
+      "id": "fbcc3f44453e55a6",
+      "item": {
+        "type": "paragraph",
+        "id": "fbcc3f44453e55a6",
+        "text": "Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), Universität als Milieu: Kleine Schriften (pp. 53–61). Retrieved from http://luhmann.surge.sh/communicating-with-slip-boxes"
+      },
+      "date": 1586250507146
+    },
+    {
+      "type": "remove",
+      "id": "fbcc3f44453e55a6",
+      "date": 1586250546078
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9e5f6d877d87c893"
+      },
+      "id": "9e5f6d877d87c893",
+      "type": "add",
+      "after": "3ca79c365fd47de1",
+      "date": 1586250549168
+    },
+    {
+      "type": "edit",
+      "id": "9e5f6d877d87c893",
+      "item": {
+        "type": "markdown",
+        "id": "9e5f6d877d87c893",
+        "text": "_Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), Universität als Milieu: Kleine Schriften (pp. 53–61). [http://luhmann.surge.sh/communicating-with-slip-boxes page]_"
+      },
+      "date": 1586250569579
+    }
+  ]
+}
