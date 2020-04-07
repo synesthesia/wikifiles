@@ -1,0 +1,78 @@
+{
+  "title": "Evergreen Notes",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "ef94fd7e06197bc4",
+      "text": "Andy Matuschak"
+    },
+    {
+      "type": "markdown",
+      "id": "f0eee59f413ac693",
+      "text": "[https://notes.andymatuschak.org/Evergreen_notes note]"
+    },
+    {
+      "type": "factory",
+      "id": "11fae017edd030d6"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Evergreen Notes",
+        "story": []
+      },
+      "date": 1586250253834
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ef94fd7e06197bc4"
+      },
+      "id": "ef94fd7e06197bc4",
+      "type": "add",
+      "date": 1586250258842
+    },
+    {
+      "type": "edit",
+      "id": "ef94fd7e06197bc4",
+      "item": {
+        "type": "pagefold",
+        "id": "ef94fd7e06197bc4",
+        "text": "Andy Matuschak"
+      },
+      "date": 1586250269215
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f0eee59f413ac693"
+      },
+      "id": "f0eee59f413ac693",
+      "type": "add",
+      "after": "ef94fd7e06197bc4",
+      "date": 1586250277758
+    },
+    {
+      "type": "edit",
+      "id": "f0eee59f413ac693",
+      "item": {
+        "type": "markdown",
+        "id": "f0eee59f413ac693",
+        "text": "[https://notes.andymatuschak.org/Evergreen_notes note]"
+      },
+      "date": 1586250287444
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "11fae017edd030d6"
+      },
+      "id": "11fae017edd030d6",
+      "type": "add",
+      "after": "f0eee59f413ac693",
+      "date": 1586250289403
+    }
+  ]
+}

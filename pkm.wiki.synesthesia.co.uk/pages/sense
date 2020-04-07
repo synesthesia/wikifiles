@@ -63,8 +63,9 @@
       "text": "The importance of [[Half Baked Ideas]]"
     },
     {
-      "type": "factory",
-      "id": "317c8c02bc45d2d4"
+      "type": "markdown",
+      "id": "317c8c02bc45d2d4",
+      "text": "[[Evergreen note-writing as a fundamental unit of knowledge work]]"
     }
   ],
   "journal": [
@@ -558,6 +559,16 @@
       "type": "add",
       "after": "a1bdbf9bc67a701d",
       "date": 1586249992015
+    },
+    {
+      "type": "edit",
+      "id": "317c8c02bc45d2d4",
+      "item": {
+        "type": "markdown",
+        "id": "317c8c02bc45d2d4",
+        "text": "[[Evergreen note-writing as a fundamental unit of knowledge work]]"
+      },
+      "date": 1586250029304
     }
   ]
 }

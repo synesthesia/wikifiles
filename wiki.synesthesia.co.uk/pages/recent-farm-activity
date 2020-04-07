@@ -4,36 +4,27 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "cca670ac8aec93cb"
+      "id": "9156afc2674dae20"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "6a42962280a19531"
+      "id": "9bc641f3f294c1f9"
     },
     {
-      "date": 1583304068000,
-      "site": "forage.wiki.synesthesia.co.uk",
-      "slug": "journal-2020",
-      "title": "Journal 2020",
-      "text": "In [http://forage.wiki.synesthesia.co.uk forage.wiki.synesthesia.co.uk] with 15 pages.",
+      "date": 1586250199000,
+      "site": "pkm.wiki.synesthesia.co.uk",
+      "slug": "evergreen-note-writing-as-a-fundamental-unit-of-knowledge-work",
+      "title": "Evergreen note-writing as a fundamental unit of knowledge work",
+      "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 222 pages.",
       "type": "reference",
-      "id": "6aa9557184d092db"
-    },
-    {
-      "date": 1583315664000,
-      "site": "wiki.synesthesia.co.uk",
-      "slug": "welcome-visitors",
-      "title": "Welcome Visitors",
-      "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 155 pages.",
-      "type": "reference",
-      "id": "e245021c6c3b8024"
+      "id": "44e0d6562b922f16"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "bd34a1c5d5709ae0",
+      "id": "dc31426e6f2ca452",
       "item": {
         "title": "Recent Farm Activity"
       },
@@ -43,51 +34,37 @@
     },
     {
       "type": "add",
-      "id": "cca670ac8aec93cb",
+      "id": "9156afc2674dae20",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "cca670ac8aec93cb"
+        "id": "9156afc2674dae20"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "6a42962280a19531",
+      "id": "9bc641f3f294c1f9",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "6a42962280a19531"
+        "id": "9bc641f3f294c1f9"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "6aa9557184d092db",
+      "id": "44e0d6562b922f16",
       "item": {
-        "date": 1583304068000,
-        "site": "forage.wiki.synesthesia.co.uk",
-        "slug": "journal-2020",
-        "title": "Journal 2020",
-        "text": "In [http://forage.wiki.synesthesia.co.uk forage.wiki.synesthesia.co.uk] with 15 pages.",
+        "date": 1586250199000,
+        "site": "pkm.wiki.synesthesia.co.uk",
+        "slug": "evergreen-note-writing-as-a-fundamental-unit-of-knowledge-work",
+        "title": "Evergreen note-writing as a fundamental unit of knowledge work",
+        "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 222 pages.",
         "type": "reference",
-        "id": "6aa9557184d092db"
+        "id": "44e0d6562b922f16"
       },
-      "date": 1583304068000
-    },
-    {
-      "type": "add",
-      "id": "e245021c6c3b8024",
-      "item": {
-        "date": 1583315664000,
-        "site": "wiki.synesthesia.co.uk",
-        "slug": "welcome-visitors",
-        "title": "Welcome Visitors",
-        "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 155 pages.",
-        "type": "reference",
-        "id": "e245021c6c3b8024"
-      },
-      "date": 1583315664000
+      "date": 1586250199000
     }
   ]
 }

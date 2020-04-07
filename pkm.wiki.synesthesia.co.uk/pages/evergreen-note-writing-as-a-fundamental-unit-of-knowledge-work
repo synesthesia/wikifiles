@@ -1,0 +1,154 @@
+{
+  "title": "Evergreen note-writing as a fundamental unit of knowledge work",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "780fc80ea8c9490b",
+      "text": "Andy Matuschak"
+    },
+    {
+      "type": "markdown",
+      "id": "f3cb5e2bd7ee80c7",
+      "text": ">If you had to set one metric to use as a leading indicator for yourself as a knowledge worker, the best I know might be the number of [[Evergreen Notes]] written per day"
+    },
+    {
+      "type": "markdown",
+      "id": "cf9e9d6ff8b83de1",
+      "text": "[https://notes.andymatuschak.org/Evergreen_note-writing_as_fundamental_unit_of_knowledge_work note]"
+    },
+    {
+      "type": "factory",
+      "id": "7cc5433cfc09bd26"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Evergreen note-writing as a fundamental unit of knowledge work",
+        "story": []
+      },
+      "date": 1586250034114
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "df89d30fec976f97"
+      },
+      "id": "df89d30fec976f97",
+      "type": "add",
+      "date": 1586250045382
+    },
+    {
+      "type": "edit",
+      "id": "df89d30fec976f97",
+      "item": {
+        "type": "paragraph",
+        "id": "df89d30fec976f97",
+        "text": "Andy atuschak:"
+      },
+      "date": 1586250057013
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "780fc80ea8c9490b"
+      },
+      "id": "780fc80ea8c9490b",
+      "type": "add",
+      "after": "df89d30fec976f97",
+      "date": 1586250062820
+    },
+    {
+      "type": "remove",
+      "id": "df89d30fec976f97",
+      "date": 1586250066201
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cf9e9d6ff8b83de1"
+      },
+      "id": "cf9e9d6ff8b83de1",
+      "type": "add",
+      "after": "780fc80ea8c9490b",
+      "date": 1586250081123
+    },
+    {
+      "type": "edit",
+      "id": "cf9e9d6ff8b83de1",
+      "item": {
+        "type": "markdown",
+        "id": "cf9e9d6ff8b83de1",
+        "text": "[https://notes.andymatuschak.org/Evergreen_note-writing_as_fundamental_unit_of_knowledge_work note]"
+      },
+      "date": 1586250092736
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0f4194f783e3b2e1"
+      },
+      "id": "0f4194f783e3b2e1",
+      "type": "add",
+      "after": "cf9e9d6ff8b83de1",
+      "date": 1586250131342
+    },
+    {
+      "type": "edit",
+      "id": "780fc80ea8c9490b",
+      "item": {
+        "type": "pagefold",
+        "id": "780fc80ea8c9490b",
+        "text": "Andy Matuschak"
+      },
+      "date": 1586250133648
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7cc5433cfc09bd26"
+      },
+      "id": "7cc5433cfc09bd26",
+      "type": "add",
+      "after": "0f4194f783e3b2e1",
+      "date": 1586250170128
+    },
+    {
+      "type": "remove",
+      "id": "0f4194f783e3b2e1",
+      "date": 1586250172380
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f3cb5e2bd7ee80c7"
+      },
+      "id": "f3cb5e2bd7ee80c7",
+      "type": "add",
+      "after": "7cc5433cfc09bd26",
+      "date": 1586250175497
+    },
+    {
+      "type": "edit",
+      "id": "f3cb5e2bd7ee80c7",
+      "item": {
+        "type": "markdown",
+        "id": "f3cb5e2bd7ee80c7",
+        "text": ">If you had to set one metric to use as a leading indicator for yourself as a knowledge worker, the best I know might be the number of [[Evergreen Notes]] written per day"
+      },
+      "date": 1586250192017
+    },
+    {
+      "id": "f3cb5e2bd7ee80c7",
+      "type": "move",
+      "order": [
+        "780fc80ea8c9490b",
+        "f3cb5e2bd7ee80c7",
+        "cf9e9d6ff8b83de1",
+        "7cc5433cfc09bd26"
+      ],
+      "date": 1586250194437
+    }
+  ]
+}
