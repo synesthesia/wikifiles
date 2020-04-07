@@ -78,7 +78,7 @@
       "site": "forage.wiki.synesthesia.co.uk",
       "slug": "knowledge-work-should-accrete",
       "title": "Knowledge work should accrete",
-      "text": "Many activities in Knowledge work seem to be ephemeral efforts, their outputs mostly discarded after they’re completed [...]"
+      "text": "We should strive to design practices and systems which yield compounding returns on our efforts as they accumulate over time."
     }
   ],
   "journal": [
@@ -625,6 +625,32 @@
         "text": "Many activities in Knowledge work seem to be ephemeral efforts, their outputs mostly discarded after they’re completed [...]"
       },
       "date": 1586269189034
+    },
+    {
+      "type": "edit",
+      "id": "0588d436ea18e29b",
+      "item": {
+        "type": "reference",
+        "id": "0588d436ea18e29b",
+        "site": "forage.wiki.synesthesia.co.uk",
+        "slug": "knowledge-work-should-accrete",
+        "title": "Knowledge work should accrete",
+        "text": "We should strive to design practices systems which yield compounding returns on our efforts as they accumulate over time."
+      },
+      "date": 1586269261187
+    },
+    {
+      "type": "edit",
+      "id": "0588d436ea18e29b",
+      "item": {
+        "type": "reference",
+        "id": "0588d436ea18e29b",
+        "site": "forage.wiki.synesthesia.co.uk",
+        "slug": "knowledge-work-should-accrete",
+        "title": "Knowledge work should accrete",
+        "text": "We should strive to design practices and systems which yield compounding returns on our efforts as they accumulate over time."
+      },
+      "date": 1586269267859
     }
   ]
 }
