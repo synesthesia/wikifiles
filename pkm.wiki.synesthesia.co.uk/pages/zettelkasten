@@ -10,6 +10,11 @@
       "type": "markdown",
       "id": "9e5f6d877d87c893",
       "text": "_Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), Universität als Milieu: Kleine Schriften (pp. 53–61). [http://luhmann.surge.sh/communicating-with-slip-boxes page]_"
+    },
+    {
+      "type": "paragraph",
+      "id": "25d474a626af2b16",
+      "text": "see also [[Zettelkasten project]]"
     }
   ],
   "journal": [
@@ -84,6 +89,36 @@
         "text": "_Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), Universität als Milieu: Kleine Schriften (pp. 53–61). [http://luhmann.surge.sh/communicating-with-slip-boxes page]_"
       },
       "date": 1586250569579
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "25d474a626af2b16"
+      },
+      "id": "25d474a626af2b16",
+      "type": "add",
+      "after": "9e5f6d877d87c893",
+      "date": 1586250619403
+    },
+    {
+      "type": "edit",
+      "id": "25d474a626af2b16",
+      "item": {
+        "type": "paragraph",
+        "id": "25d474a626af2b16",
+        "text": "[[Zettelkasten project]]"
+      },
+      "date": 1586250642725
+    },
+    {
+      "type": "edit",
+      "id": "25d474a626af2b16",
+      "item": {
+        "type": "paragraph",
+        "id": "25d474a626af2b16",
+        "text": "see also [[Zettelkasten project]]"
+      },
+      "date": 1586250648483
     }
   ]
 }

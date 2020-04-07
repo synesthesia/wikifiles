@@ -1,0 +1,125 @@
+{
+  "title": "Zettelkasten project",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "f87e6e1959345a5c",
+      "text": "Using a Zettelkasten is about optimizing a workflow of learning and producing knowledge. The products are texts, mostly. The categories we find fit the process well at the moment are the following:\n\n* Knowledge Management: general information about what it means to work and learn efficiently.\n\n* Writing: posts on the production of lasting knowledge, and about sharing it with others through your own texts.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "86c6a88aa6257027",
+      "text": "\n* Reading: posts about the process of acquisition of new things and the organization of sources."
+    },
+    {
+      "type": "markdown",
+      "id": "d401a2d0d6a8b53a",
+      "text": "\n"
+    },
+    {
+      "type": "markdown",
+      "id": "7570cee94032d0a4",
+      "text": "[https://zettelkasten.de/posts/overview/ page]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Zettelkasten project",
+        "story": []
+      },
+      "date": 1586250656608
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7570cee94032d0a4"
+      },
+      "id": "7570cee94032d0a4",
+      "type": "add",
+      "date": 1586250661039
+    },
+    {
+      "type": "edit",
+      "id": "7570cee94032d0a4",
+      "item": {
+        "type": "markdown",
+        "id": "7570cee94032d0a4",
+        "text": "[https://zettelkasten.de/ site]"
+      },
+      "date": 1586250668445
+    },
+    {
+      "type": "edit",
+      "id": "7570cee94032d0a4",
+      "item": {
+        "type": "markdown",
+        "id": "7570cee94032d0a4",
+        "text": "[https://zettelkasten.de/posts/overview/ page]"
+      },
+      "date": 1586250792612
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f87e6e1959345a5c"
+      },
+      "id": "f87e6e1959345a5c",
+      "type": "add",
+      "after": "7570cee94032d0a4",
+      "date": 1586250816429
+    },
+    {
+      "type": "edit",
+      "id": "f87e6e1959345a5c",
+      "item": {
+        "type": "markdown",
+        "id": "f87e6e1959345a5c",
+        "text": "Using a Zettelkasten is about optimizing a workflow of learning and producing knowledge. The products are texts, mostly. The categories we find fit the process well at the moment are the following:\n\n* Knowledge Management: general information about what it means to work and learn efficiently.\n\n* Writing: posts on the production of lasting knowledge, and about sharing it with others through your own texts.\n\n* Reading: posts about the process of acquisition of new things and the organization of sources.\n"
+      },
+      "date": 1586250846458
+    },
+    {
+      "id": "7570cee94032d0a4",
+      "type": "move",
+      "order": [
+        "f87e6e1959345a5c",
+        "7570cee94032d0a4"
+      ],
+      "date": 1586250852871
+    },
+    {
+      "type": "edit",
+      "id": "f87e6e1959345a5c",
+      "item": {
+        "type": "markdown",
+        "id": "f87e6e1959345a5c",
+        "text": "Using a Zettelkasten is about optimizing a workflow of learning and producing knowledge. The products are texts, mostly. The categories we find fit the process well at the moment are the following:\n\n* Knowledge Management: general information about what it means to work and learn efficiently.\n\n* Writing: posts on the production of lasting knowledge, and about sharing it with others through your own texts.\n"
+      },
+      "date": 1586250862198
+    },
+    {
+      "type": "add",
+      "id": "d401a2d0d6a8b53a",
+      "item": {
+        "type": "markdown",
+        "id": "d401a2d0d6a8b53a",
+        "text": "\n"
+      },
+      "after": "f87e6e1959345a5c",
+      "date": 1586250870927
+    },
+    {
+      "type": "add",
+      "id": "86c6a88aa6257027",
+      "item": {
+        "type": "markdown",
+        "id": "86c6a88aa6257027",
+        "text": "\n* Reading: posts about the process of acquisition of new things and the organization of sources."
+      },
+      "after": "f87e6e1959345a5c",
+      "date": 1586250877905
+    }
+  ]
+}
