@@ -1,0 +1,18 @@
+{
+  "title": "We should strive to design practice systems which yield compounding returns on our efforts as they accumulate over time.",
+  "story": [],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "We should strive to design practice systems which yield compounding returns on our efforts as they accumulate over time.",
+        "story": []
+      },
+      "date": 1586264099949
+    },
+    {
+      "type": "fork",
+      "date": 1586264120216
+    }
+  ]
+}

@@ -14,7 +14,7 @@
     {
       "type": "paragraph",
       "id": "03e9b9d6079c4944",
-      "text": "[[We should strive to design practice systems which yield compounding returns on our efforts as they accumulate over time.]]"
+      "text": "[[Knowledge work should accrete]]"
     }
   ],
   "journal": [
@@ -94,6 +94,16 @@
         "text": "[[We should strive to design practice systems which yield compounding returns on our efforts as they accumulate over time.]]"
       },
       "date": 1586264091053
+    },
+    {
+      "type": "edit",
+      "id": "03e9b9d6079c4944",
+      "item": {
+        "type": "paragraph",
+        "id": "03e9b9d6079c4944",
+        "text": "[[Knowledge work should accrete]]"
+      },
+      "date": 1586264170410
     }
   ]
 }

@@ -1,0 +1,169 @@
+{
+  "title": "Knowledge work should accrete",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "5b3f018a2b4bd7f0",
+      "text": "Andy Matuschack"
+    },
+    {
+      "type": "paragraph",
+      "id": "b56a9a0244672eb3",
+      "text": "Many activities in Knowledge work seem to be ephemeral efforts, their outputs mostly discarded after they’re completed [...] "
+    },
+    {
+      "type": "paragraph",
+      "id": "e9a4ced992d3d2a7",
+      "text": "We should strive to design practices systems which yield compounding returns on our efforts as they accumulate over time."
+    },
+    {
+      "type": "paragraph",
+      "id": "923fd70a9f21dcc7",
+      "text": "[https://notes.andymatuschak.org/Knowledge%20work%20should%20accrete note]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Knowledge work should accrete",
+        "story": []
+      },
+      "date": 1586264175818
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "923fd70a9f21dcc7"
+      },
+      "id": "923fd70a9f21dcc7",
+      "type": "add",
+      "date": 1586264184852
+    },
+    {
+      "type": "edit",
+      "id": "923fd70a9f21dcc7",
+      "item": {
+        "type": "paragraph",
+        "id": "923fd70a9f21dcc7",
+        "text": "[https://notes.andymatuschak.org/Knowledge%20work%20should%20accrete npte]"
+      },
+      "date": 1586264196605
+    },
+    {
+      "type": "edit",
+      "id": "923fd70a9f21dcc7",
+      "item": {
+        "type": "paragraph",
+        "id": "923fd70a9f21dcc7",
+        "text": "[https://notes.andymatuschak.org/Knowledge%20work%20should%20accrete note]"
+      },
+      "date": 1586264205732
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5b3f018a2b4bd7f0"
+      },
+      "id": "5b3f018a2b4bd7f0",
+      "type": "add",
+      "after": "923fd70a9f21dcc7",
+      "date": 1586264206979
+    },
+    {
+      "type": "edit",
+      "id": "5b3f018a2b4bd7f0",
+      "item": {
+        "type": "pagefold",
+        "id": "5b3f018a2b4bd7f0",
+        "text": "Andy Matuschack"
+      },
+      "date": 1586264217068
+    },
+    {
+      "id": "5b3f018a2b4bd7f0",
+      "type": "move",
+      "order": [
+        "5b3f018a2b4bd7f0",
+        "923fd70a9f21dcc7"
+      ],
+      "date": 1586264219423
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "35fb2ae66030a765"
+      },
+      "id": "35fb2ae66030a765",
+      "type": "add",
+      "after": "923fd70a9f21dcc7",
+      "date": 1586264234157
+    },
+    {
+      "type": "edit",
+      "id": "35fb2ae66030a765",
+      "item": {
+        "type": "paragraph",
+        "id": "35fb2ae66030a765",
+        "text": ">Many activities in Knowledge work seem to be ephemeral efforts, their outputs mostly discarded after they’re completed. [...]"
+      },
+      "date": 1586264242254
+    },
+    {
+      "type": "remove",
+      "id": "35fb2ae66030a765",
+      "date": 1586264256474
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b56a9a0244672eb3"
+      },
+      "id": "b56a9a0244672eb3",
+      "type": "add",
+      "after": "923fd70a9f21dcc7",
+      "date": 1586264259618
+    },
+    {
+      "type": "edit",
+      "id": "b56a9a0244672eb3",
+      "item": {
+        "type": "paragraph",
+        "id": "b56a9a0244672eb3",
+        "text": "Many activities in Knowledge work seem to be ephemeral efforts, their outputs mostly discarded after they’re completed [...] "
+      },
+      "date": 1586264275880
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e9a4ced992d3d2a7"
+      },
+      "id": "e9a4ced992d3d2a7",
+      "type": "add",
+      "after": "b56a9a0244672eb3",
+      "date": 1586264286444
+    },
+    {
+      "type": "edit",
+      "id": "e9a4ced992d3d2a7",
+      "item": {
+        "type": "paragraph",
+        "id": "e9a4ced992d3d2a7",
+        "text": "We should strive to design practices systems which yield compounding returns on our efforts as they accumulate over time."
+      },
+      "date": 1586264289665
+    },
+    {
+      "id": "923fd70a9f21dcc7",
+      "type": "move",
+      "order": [
+        "5b3f018a2b4bd7f0",
+        "b56a9a0244672eb3",
+        "e9a4ced992d3d2a7",
+        "923fd70a9f21dcc7"
+      ],
+      "date": 1586264294873
+    }
+  ]
+}
