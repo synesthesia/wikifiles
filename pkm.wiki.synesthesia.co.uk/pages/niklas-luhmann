@@ -1,0 +1,39 @@
+{
+  "title": "Niklas Luhmann",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "245bf1d5a8f5ada9",
+      "text": "[https://en.wikipedia.org/wiki/Niklas_Luhmann Wikipedia]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Niklas Luhmann",
+        "story": []
+      },
+      "date": 1586251036903
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "245bf1d5a8f5ada9"
+      },
+      "id": "245bf1d5a8f5ada9",
+      "type": "add",
+      "date": 1586251039248
+    },
+    {
+      "type": "edit",
+      "id": "245bf1d5a8f5ada9",
+      "item": {
+        "type": "paragraph",
+        "id": "245bf1d5a8f5ada9",
+        "text": "[https://en.wikipedia.org/wiki/Niklas_Luhmann Wikipedia]"
+      },
+      "date": 1586251050356
+    }
+  ]
+}

@@ -4,27 +4,36 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "9156afc2674dae20"
+      "id": "ed2a19a843fb6afb"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "9bc641f3f294c1f9"
+      "id": "e13345e51132a79e"
     },
     {
-      "date": 1586250199000,
-      "site": "pkm.wiki.synesthesia.co.uk",
-      "slug": "evergreen-note-writing-as-a-fundamental-unit-of-knowledge-work",
-      "title": "Evergreen note-writing as a fundamental unit of knowledge work",
-      "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 222 pages.",
+      "date": 1586250242000,
+      "site": "wiki.synesthesia.co.uk",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 155 pages.",
       "type": "reference",
-      "id": "44e0d6562b922f16"
+      "id": "49ba2f1834812036"
+    },
+    {
+      "date": 1586251055000,
+      "site": "pkm.wiki.synesthesia.co.uk",
+      "slug": "niklas-luhmann",
+      "title": "Niklas Luhmann",
+      "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 226 pages.",
+      "type": "reference",
+      "id": "15a326f24488bcf9"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "dc31426e6f2ca452",
+      "id": "c010bbbc69deb44b",
       "item": {
         "title": "Recent Farm Activity"
       },
@@ -34,37 +43,51 @@
     },
     {
       "type": "add",
-      "id": "9156afc2674dae20",
+      "id": "ed2a19a843fb6afb",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "9156afc2674dae20"
+        "id": "ed2a19a843fb6afb"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "9bc641f3f294c1f9",
+      "id": "e13345e51132a79e",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "9bc641f3f294c1f9"
+        "id": "e13345e51132a79e"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "44e0d6562b922f16",
+      "id": "49ba2f1834812036",
       "item": {
-        "date": 1586250199000,
-        "site": "pkm.wiki.synesthesia.co.uk",
-        "slug": "evergreen-note-writing-as-a-fundamental-unit-of-knowledge-work",
-        "title": "Evergreen note-writing as a fundamental unit of knowledge work",
-        "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 222 pages.",
+        "date": 1586250242000,
+        "site": "wiki.synesthesia.co.uk",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 155 pages.",
         "type": "reference",
-        "id": "44e0d6562b922f16"
+        "id": "49ba2f1834812036"
       },
-      "date": 1586250199000
+      "date": 1586250242000
+    },
+    {
+      "type": "add",
+      "id": "15a326f24488bcf9",
+      "item": {
+        "date": 1586251055000,
+        "site": "pkm.wiki.synesthesia.co.uk",
+        "slug": "niklas-luhmann",
+        "title": "Niklas Luhmann",
+        "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 226 pages.",
+        "type": "reference",
+        "id": "15a326f24488bcf9"
+      },
+      "date": 1586251055000
     }
   ]
 }
