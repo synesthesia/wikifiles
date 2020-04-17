@@ -29,6 +29,11 @@
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    },
+    {
+      "type": "roster",
+      "id": "3ee77225cf49833d",
+      "text": "Some FedWiki sources\n\nEric Dobbs\n\ncode.wiki.dbbs.co\ndobbs.fed.wiki.org\ngoals.pods.wiki.dbbs.co\nwiki-wiki.glitch.me\n"
     }
   ],
   "journal": [
@@ -314,6 +319,56 @@
       "type": "remove",
       "id": "049de7fae6d7a1db",
       "date": 1574273906793
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3ee77225cf49833d"
+      },
+      "id": "3ee77225cf49833d",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1587125885487
+    },
+    {
+      "type": "edit",
+      "id": "3ee77225cf49833d",
+      "item": {
+        "type": "roster",
+        "id": "3ee77225cf49833d",
+        "text": "ROSTER wiki.synesthesia.co.uk/view/welcome-visitors/view/people-i-read"
+      },
+      "date": 1587125901507
+    },
+    {
+      "type": "edit",
+      "id": "3ee77225cf49833d",
+      "item": {
+        "type": "roster",
+        "id": "3ee77225cf49833d",
+        "text": "Some sources\n\n"
+      },
+      "date": 1587125918119
+    },
+    {
+      "type": "edit",
+      "id": "3ee77225cf49833d",
+      "item": {
+        "type": "roster",
+        "id": "3ee77225cf49833d",
+        "text": "Some sources\n\nDobbs\ncode.wiki.dbbs.co\ndobbs.fed.wiki.org\ngoals.pods.wiki.dbbs.co\nwiki-wiki.glitch.me\n"
+      },
+      "date": 1587125942122
+    },
+    {
+      "type": "edit",
+      "id": "3ee77225cf49833d",
+      "item": {
+        "type": "roster",
+        "id": "3ee77225cf49833d",
+        "text": "Some FedWiki sources\n\nEric Dobbs\n\ncode.wiki.dbbs.co\ndobbs.fed.wiki.org\ngoals.pods.wiki.dbbs.co\nwiki-wiki.glitch.me\n"
+      },
+      "date": 1587125954911
     }
   ]
 }
