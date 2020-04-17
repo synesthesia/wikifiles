@@ -13,6 +13,14 @@
       "slug": "crm-reboot",
       "title": "CRM Reboot",
       "text": "Re-designing our Dynamics 365 experience based on the Unified Interface, and on top of refactored solution stack"
+    },
+    {
+      "type": "reference",
+      "id": "8315cb7c8d942afb",
+      "site": "code.wiki.synesthesia.co.uk",
+      "slug": "testing",
+      "title": "Testing",
+      "text": "Why we test, how we test, the design of tests."
     }
   ],
   "journal": [
@@ -115,6 +123,54 @@
     {
       "type": "fork",
       "date": 1574273875361
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bfe99f79ebe580ca"
+      },
+      "id": "bfe99f79ebe580ca",
+      "type": "add",
+      "after": "78a0716865dffdd7",
+      "date": 1587136229440
+    },
+    {
+      "type": "edit",
+      "id": "bfe99f79ebe580ca",
+      "item": {
+        "type": "paragraph",
+        "id": "bfe99f79ebe580ca",
+        "text": "[[Testing]]"
+      },
+      "date": 1587136251810
+    },
+    {
+      "type": "remove",
+      "id": "bfe99f79ebe580ca",
+      "date": 1587136284356
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8315cb7c8d942afb"
+      },
+      "id": "8315cb7c8d942afb",
+      "type": "add",
+      "after": "78a0716865dffdd7",
+      "date": 1587136285688
+    },
+    {
+      "type": "edit",
+      "id": "8315cb7c8d942afb",
+      "item": {
+        "type": "reference",
+        "id": "8315cb7c8d942afb",
+        "site": "code.wiki.synesthesia.co.uk",
+        "slug": "testing",
+        "title": "Testing",
+        "text": "Why we test, how we test, the design of tests."
+      },
+      "date": 1587136287363
     }
   ]
 }
