@@ -25,6 +25,10 @@
       "type": "paragraph",
       "id": "a7cdd673bb128976",
       "text": "Built using [[Rosters]]"
+    },
+    {
+      "type": "factory",
+      "id": "4f7936e6f834107d"
     }
   ],
   "journal": [
@@ -455,6 +459,16 @@
         "text": "Frank McPherson\n\nfedwiki.frankmcpherson.net\n\nThompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.bay.wiki.org\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\n\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors\n\n"
       },
       "date": 1587124448086
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4f7936e6f834107d"
+      },
+      "id": "4f7936e6f834107d",
+      "type": "add",
+      "after": "a7cdd673bb128976",
+      "date": 1587124503321
     }
   ]
 }

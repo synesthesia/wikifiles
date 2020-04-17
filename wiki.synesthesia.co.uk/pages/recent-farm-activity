@@ -4,12 +4,12 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "61379278f5cd8ed1"
+      "id": "cee2028767ff2d5e"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "aa9369aba889165f"
+      "id": "f5635414455439f4"
     },
     {
       "date": 1586264299000,
@@ -18,16 +18,7 @@
       "title": "Knowledge work should accrete",
       "text": "In [http://forage.wiki.synesthesia.co.uk forage.wiki.synesthesia.co.uk] with 17 pages.",
       "type": "reference",
-      "id": "5554c69bc21dd21f"
-    },
-    {
-      "date": 1586264341000,
-      "site": "wiki.synesthesia.co.uk",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 155 pages.",
-      "type": "reference",
-      "id": "4640d3b5afe44139"
+      "id": "ffd67d2f217d11da"
     },
     {
       "date": 1586269679000,
@@ -36,13 +27,22 @@
       "title": "Half Baked Ideas",
       "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 228 pages.",
       "type": "reference",
-      "id": "0af8dd54a5c77587"
+      "id": "7101048ab9dc3f78"
+    },
+    {
+      "date": 1587124503000,
+      "site": "wiki.synesthesia.co.uk",
+      "slug": "people-i-read",
+      "title": "People I read",
+      "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 155 pages.",
+      "type": "reference",
+      "id": "d787234e2d3d2aad"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "502e7348898fa8ed",
+      "id": "939e13b91172f3a2",
       "item": {
         "title": "Recent Farm Activity"
       },
@@ -52,27 +52,27 @@
     },
     {
       "type": "add",
-      "id": "61379278f5cd8ed1",
+      "id": "cee2028767ff2d5e",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "61379278f5cd8ed1"
+        "id": "cee2028767ff2d5e"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "aa9369aba889165f",
+      "id": "f5635414455439f4",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "aa9369aba889165f"
+        "id": "f5635414455439f4"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "5554c69bc21dd21f",
+      "id": "ffd67d2f217d11da",
       "item": {
         "date": 1586264299000,
         "site": "forage.wiki.synesthesia.co.uk",
@@ -80,27 +80,13 @@
         "title": "Knowledge work should accrete",
         "text": "In [http://forage.wiki.synesthesia.co.uk forage.wiki.synesthesia.co.uk] with 17 pages.",
         "type": "reference",
-        "id": "5554c69bc21dd21f"
+        "id": "ffd67d2f217d11da"
       },
       "date": 1586264299000
     },
     {
       "type": "add",
-      "id": "4640d3b5afe44139",
-      "item": {
-        "date": 1586264341000,
-        "site": "wiki.synesthesia.co.uk",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 155 pages.",
-        "type": "reference",
-        "id": "4640d3b5afe44139"
-      },
-      "date": 1586264341000
-    },
-    {
-      "type": "add",
-      "id": "0af8dd54a5c77587",
+      "id": "7101048ab9dc3f78",
       "item": {
         "date": 1586269679000,
         "site": "pkm.wiki.synesthesia.co.uk",
@@ -108,9 +94,23 @@
         "title": "Half Baked Ideas",
         "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 228 pages.",
         "type": "reference",
-        "id": "0af8dd54a5c77587"
+        "id": "7101048ab9dc3f78"
       },
       "date": 1586269679000
+    },
+    {
+      "type": "add",
+      "id": "d787234e2d3d2aad",
+      "item": {
+        "date": 1587124503000,
+        "site": "wiki.synesthesia.co.uk",
+        "slug": "people-i-read",
+        "title": "People I read",
+        "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 155 pages.",
+        "type": "reference",
+        "id": "d787234e2d3d2aad"
+      },
+      "date": 1587124503000
     }
   ]
 }
