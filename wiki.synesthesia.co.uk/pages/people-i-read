@@ -9,7 +9,7 @@
     {
       "type": "roster",
       "id": "3b6126ff71f45ccb",
-      "text": "Frank McPherson\n\nfedwiki.frankmcpherson.net\n\nThompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.bay.wiki.org\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\n\n\nROSTER forage.ward.fed.wiki.org/welcome-visitors\n\n"
+      "text": "Frank McPherson\n\nfedwiki.frankmcpherson.net\n\nThompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.bay.wiki.org\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nEric Dobbs\n\nwiki.dbbs.co\ntge.wiki.dbbs.co\ncode.wiki.dbbs.co\ndobbs.fed.wiki.org\n\n\n\n\n\n"
     },
     {
       "type": "roster",
@@ -17,18 +17,19 @@
       "text": "ROSTER sites.fed.wiki/federation-directory"
     },
     {
-      "type": "roster",
-      "id": "d0951c2f5017b3cc",
-      "text": "ROSTER permanent.wiki/permanent-web-sites"
-    },
-    {
       "type": "paragraph",
       "id": "a7cdd673bb128976",
       "text": "Built using [[Rosters]]"
     },
     {
-      "type": "factory",
-      "id": "4f7936e6f834107d"
+      "type": "pagefold",
+      "id": "4f7936e6f834107d",
+      "text": "note"
+    },
+    {
+      "type": "paragraph",
+      "id": "af890b82d12d71c6",
+      "text": "I was seeing failures to load transcluded Rosters which might be about accessing a non-SSL site from this one which is..."
     }
   ],
   "journal": [
@@ -469,6 +470,101 @@
       "type": "add",
       "after": "a7cdd673bb128976",
       "date": 1587124503321
+    },
+    {
+      "type": "edit",
+      "id": "4f7936e6f834107d",
+      "item": {
+        "type": "pagefold",
+        "id": "4f7936e6f834107d",
+        "text": "note"
+      },
+      "date": 1587125170050
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "af890b82d12d71c6"
+      },
+      "id": "af890b82d12d71c6",
+      "type": "add",
+      "after": "4f7936e6f834107d",
+      "date": 1587125176239
+    },
+    {
+      "type": "edit",
+      "id": "af890b82d12d71c6",
+      "item": {
+        "type": "paragraph",
+        "id": "af890b82d12d71c6",
+        "text": "I was seeing failures to load transcluded Rosters which might be about accessing a non-SSL site from this one which is..."
+      },
+      "date": 1587125216925
+    },
+    {
+      "type": "edit",
+      "id": "3b6126ff71f45ccb",
+      "item": {
+        "type": "roster",
+        "id": "3b6126ff71f45ccb",
+        "text": "Frank McPherson\n\nfedwiki.frankmcpherson.net\n\nThompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.bay.wiki.org\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\n\n\n\n"
+      },
+      "date": 1587125232457
+    },
+    {
+      "type": "edit",
+      "id": "3b6126ff71f45ccb",
+      "item": {
+        "type": "roster",
+        "id": "3b6126ff71f45ccb",
+        "text": "Frank McPherson\n\nfedwiki.frankmcpherson.net\n\nThompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.bay.wiki.org\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nEric Dobbs\n\n\n\n\n"
+      },
+      "date": 1587125253289
+    },
+    {
+      "type": "edit",
+      "id": "3b6126ff71f45ccb",
+      "item": {
+        "type": "roster",
+        "id": "3b6126ff71f45ccb",
+        "text": "Frank McPherson\n\nfedwiki.frankmcpherson.net\n\nThompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.bay.wiki.org\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nEric Dobbs\n\nwiki.dbbs.co\n\n\n\n"
+      },
+      "date": 1587125265373
+    },
+    {
+      "type": "edit",
+      "id": "3b6126ff71f45ccb",
+      "item": {
+        "type": "roster",
+        "id": "3b6126ff71f45ccb",
+        "text": "Frank McPherson\n\nfedwiki.frankmcpherson.net\n\nThompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.bay.wiki.org\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nEric Dobbs\n\nwiki.dbbs.co\ntge.wiki.dbbs.co\n\n\n\n\n"
+      },
+      "date": 1587125289795
+    },
+    {
+      "type": "edit",
+      "id": "3b6126ff71f45ccb",
+      "item": {
+        "type": "roster",
+        "id": "3b6126ff71f45ccb",
+        "text": "Frank McPherson\n\nfedwiki.frankmcpherson.net\n\nThompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.bay.wiki.org\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nEric Dobbs\n\nwiki.dbbs.co\ntge.wiki.dbbs.co\ncode.wiki.dbbs.co\n\n\n\n\n"
+      },
+      "date": 1587125300803
+    },
+    {
+      "type": "edit",
+      "id": "3b6126ff71f45ccb",
+      "item": {
+        "type": "roster",
+        "id": "3b6126ff71f45ccb",
+        "text": "Frank McPherson\n\nfedwiki.frankmcpherson.net\n\nThompson Morrison\n\nthompson.wiki.innovateoregon.org\n\nM C Morgan\n\njournal.mcmorgan.org\n\n\nMike Caulfield\n\njournal.hapgood.net\norientation.hapgood.net\nmachines.hapgood.net\neditor.hapgood.net\nschoolandsociety.hapgood.net\ndlm.hapgood.net\nhhol.mike.fed.wiki.org\n\nWard Cunningham\n\nward.bay.wiki.org\nward.fed.wiki.org\nward.asia.wiki.org\nforage.ward.fed.wiki.org\nh2.ward.asia.wiki.org\n\nPaul Rodwell\n\nrodwell.me\nfedwiki.rodwell.me\n\nEric Dobbs\n\nwiki.dbbs.co\ntge.wiki.dbbs.co\ncode.wiki.dbbs.co\ndobbs.fed.wiki.org\n\n\n\n\n\n"
+      },
+      "date": 1587125338696
+    },
+    {
+      "type": "remove",
+      "id": "d0951c2f5017b3cc",
+      "date": 1587125354480
     }
   ]
 }
