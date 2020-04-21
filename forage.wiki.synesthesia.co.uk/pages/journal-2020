@@ -20,6 +20,16 @@
       "type": "paragraph",
       "id": "d58bfe24bf0a6e9e",
       "text": "[[Imagine all these companies]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "70ff11041bc280b2",
+      "text": "Apr 2020"
+    },
+    {
+      "type": "paragraph",
+      "id": "9be7761a783228e9",
+      "text": "[[What is relevance of chunk size]]"
     }
   ],
   "journal": [
@@ -109,6 +119,46 @@
         "text": "[[Imagine all these companies]]"
       },
       "date": 1583304065120
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "70ff11041bc280b2"
+      },
+      "id": "70ff11041bc280b2",
+      "type": "add",
+      "after": "d58bfe24bf0a6e9e",
+      "date": 1587476483981
+    },
+    {
+      "type": "edit",
+      "id": "70ff11041bc280b2",
+      "item": {
+        "type": "pagefold",
+        "id": "70ff11041bc280b2",
+        "text": "Apr 2020"
+      },
+      "date": 1587476498525
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9be7761a783228e9"
+      },
+      "id": "9be7761a783228e9",
+      "type": "add",
+      "after": "70ff11041bc280b2",
+      "date": 1587476499852
+    },
+    {
+      "type": "edit",
+      "id": "9be7761a783228e9",
+      "item": {
+        "type": "paragraph",
+        "id": "9be7761a783228e9",
+        "text": "[[What is relevance of chunk size]]"
+      },
+      "date": 1587476511829
     }
   ]
 }

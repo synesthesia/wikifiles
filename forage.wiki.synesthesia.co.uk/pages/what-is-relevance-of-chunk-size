@@ -1,0 +1,65 @@
+{
+  "title": "what-is-relevance-of-chunk-size",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3c958e936515b7e2",
+      "text": "Learning increasingly complex ideas may amount to forming larger effective chunk sizes"
+    },
+    {
+      "type": "paragraph",
+      "id": "27e3fd3c399b98e4",
+      "text": "[https://notes.andymatuschak.org/z8VFVdTR19snWjFMxnyNabBCbmeoWrQ287TdT note]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "what-is-relevance-of-chunk-size",
+        "story": []
+      },
+      "date": 1587476514368
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3c958e936515b7e2"
+      },
+      "id": "3c958e936515b7e2",
+      "type": "add",
+      "date": 1587476515991
+    },
+    {
+      "type": "edit",
+      "id": "3c958e936515b7e2",
+      "item": {
+        "type": "paragraph",
+        "id": "3c958e936515b7e2",
+        "text": "https://notes.andymatuschak.org/z8VFVdTR19snWjFMxnyNabBCbmeoWrQ287TdT"
+      },
+      "date": 1587476522244
+    },
+    {
+      "type": "edit",
+      "id": "3c958e936515b7e2",
+      "item": {
+        "type": "paragraph",
+        "id": "3c958e936515b7e2",
+        "text": "Learning increasingly complex ideas may amount to forming larger effective chunk sizes"
+      },
+      "date": 1587476534407
+    },
+    {
+      "type": "add",
+      "id": "27e3fd3c399b98e4",
+      "item": {
+        "type": "paragraph",
+        "id": "27e3fd3c399b98e4",
+        "text": "[https://notes.andymatuschak.org/z8VFVdTR19snWjFMxnyNabBCbmeoWrQ287TdT note]"
+      },
+      "after": "3c958e936515b7e2",
+      "date": 1587476540674
+    }
+  ]
+}
