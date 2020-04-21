@@ -1,0 +1,39 @@
+{
+  "title": "Digital CPD",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9a91be10755b090a",
+      "text": "The delivery of [[Online Learning]] aimed at improving work-related / professional  skills and knowledge."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Digital CPD",
+        "story": []
+      },
+      "date": 1587473547659
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9a91be10755b090a"
+      },
+      "id": "9a91be10755b090a",
+      "type": "add",
+      "date": 1587473550943
+    },
+    {
+      "type": "edit",
+      "id": "9a91be10755b090a",
+      "item": {
+        "type": "paragraph",
+        "id": "9a91be10755b090a",
+        "text": "The delivery of [[Online Learning]] aimed at improving work-related / professional  skills and knowledge."
+      },
+      "date": 1587473604830
+    }
+  ]
+}

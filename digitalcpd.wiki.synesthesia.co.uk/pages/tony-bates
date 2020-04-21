@@ -68,6 +68,46 @@
         "cfb6b1c35d1fdec0"
       ],
       "date": 1587473390143
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cb963f4ae7d9e457"
+      },
+      "id": "cb963f4ae7d9e457",
+      "type": "add",
+      "after": "cfb6b1c35d1fdec0",
+      "date": 1587473425340
+    },
+    {
+      "type": "remove",
+      "id": "cb963f4ae7d9e457",
+      "date": 1587473428294
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "889183b5e8b98b9e"
+      },
+      "id": "889183b5e8b98b9e",
+      "type": "add",
+      "after": "cfb6b1c35d1fdec0",
+      "date": 1587473429527
+    },
+    {
+      "type": "edit",
+      "id": "889183b5e8b98b9e",
+      "item": {
+        "type": "paragraph",
+        "id": "889183b5e8b98b9e",
+        "text": "He is the author of twelve books, including\n\nhis latest, a free, open online textbook for faculty and instructors, called Teaching in a Digital Age, which has been downloaded over 200,000 times since its publication in April, 2015. It has been or is being translated into ten languages. \n‘Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning‘, co-authored with Albert Sangrà of the Open University of Catalonia, and published by Jossey-Bass/John Wiley in 2011,\n‘Technology, e-Learning and Distance Education‘, published in 2005 by Routledge, ‘\nManaging Technological Change: Strategies for College and Universities Leaders‘, (with Gary Poole)\n‘Effective Teaching with Technology in Higher Education‘, both published by Jossey-Bass, and\n‘National Strategies for e-Learning‘ published by UNESCO."
+      },
+      "date": 1587473432964
+    },
+    {
+      "type": "remove",
+      "id": "889183b5e8b98b9e",
+      "date": 1587473443808
     }
   ]
 }

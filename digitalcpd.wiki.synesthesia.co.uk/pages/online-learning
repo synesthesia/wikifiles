@@ -1,0 +1,85 @@
+{
+  "title": "Online Learning",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cd26ac22fcc93b13",
+      "text": "Online Learning is any form of learning conducted partly or wholly over the internet"
+    },
+    {
+      "type": "paragraph",
+      "id": "4da6433e4605cab1",
+      "text": "[[The 10 Principles of "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Online Learning",
+        "story": []
+      },
+      "date": 1587473635582
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cd26ac22fcc93b13"
+      },
+      "id": "cd26ac22fcc93b13",
+      "type": "add",
+      "date": 1587473637022
+    },
+    {
+      "type": "edit",
+      "id": "cd26ac22fcc93b13",
+      "item": {
+        "type": "paragraph",
+        "id": "cd26ac22fcc93b13",
+        "text": "Online Learning is "
+      },
+      "date": 1587473644514
+    },
+    {
+      "type": "edit",
+      "id": "cd26ac22fcc93b13",
+      "item": {
+        "type": "paragraph",
+        "id": "cd26ac22fcc93b13",
+        "text": "Online Learning is any form of "
+      },
+      "date": 1587473651188
+    },
+    {
+      "type": "edit",
+      "id": "cd26ac22fcc93b13",
+      "item": {
+        "type": "paragraph",
+        "id": "cd26ac22fcc93b13",
+        "text": "Online Learning is any form of learning conducted "
+      },
+      "date": 1587473658073
+    },
+    {
+      "type": "edit",
+      "id": "cd26ac22fcc93b13",
+      "item": {
+        "type": "paragraph",
+        "id": "cd26ac22fcc93b13",
+        "text": "Online Learning is any form of learning conducted partly or wholly over the internet"
+      },
+      "date": 1587473668559
+    },
+    {
+      "type": "add",
+      "id": "4da6433e4605cab1",
+      "item": {
+        "type": "paragraph",
+        "id": "4da6433e4605cab1",
+        "text": "[[The 10 Principles of "
+      },
+      "after": "cd26ac22fcc93b13",
+      "date": 1587473697592
+    }
+  ]
+}

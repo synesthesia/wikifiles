@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "fc4cf46b5c8efd61",
-      "text": "This site is where I explore thoughts about the successful delivery of online work-related learning to adults - i.e. Digital CPD."
+      "text": "This site is where I explore thoughts about the successful delivery of online work-related learning to adults - i.e. [[Digital CPD]]."
     },
     {
       "type": "paragraph",
@@ -59,6 +59,31 @@
         "text": "[[Bibliographic Notes]]"
       },
       "date": 1587473200088
+    },
+    {
+      "type": "edit",
+      "id": "fc4cf46b5c8efd61",
+      "item": {
+        "type": "paragraph",
+        "id": "fc4cf46b5c8efd61",
+        "text": "This site is where I explore thoughts about the successful delivery of online work-related learning to adults - i.e. [[Digital CPD]]."
+      },
+      "date": 1587473517710
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "376e700c961cd06d"
+      },
+      "id": "376e700c961cd06d",
+      "type": "add",
+      "after": "bf7cecb3a9a6a5da",
+      "date": 1587473607150
+    },
+    {
+      "type": "remove",
+      "id": "376e700c961cd06d",
+      "date": 1587473617725
     }
   ]
 }
