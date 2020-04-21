@@ -12,6 +12,11 @@
       "text": "[[Evergreen Notes Should Be Atomic]]"
     },
     {
+      "type": "paragraph",
+      "id": "646c3972258297d8",
+      "text": "[[Evergreen notes should be concept-based]]"
+    },
+    {
       "type": "pagefold",
       "id": "ef94fd7e06197bc4",
       "text": "Andy Matuschak"
@@ -20,10 +25,6 @@
       "type": "markdown",
       "id": "11fae017edd030d6",
       "text": ">Evergreen notes are written and organized to evolve, contribute, and accumulate over time, across projects.\n[https://notes.andymatuschak.org/Evergreen_notes note]"
-    },
-    {
-      "type": "factory",
-      "id": "646c3972258297d8"
     }
   ],
   "journal": [
@@ -247,6 +248,28 @@
       "type": "remove",
       "id": "f0eee59f413ac693",
       "date": 1587469490411
+    },
+    {
+      "type": "edit",
+      "id": "646c3972258297d8",
+      "item": {
+        "type": "paragraph",
+        "id": "646c3972258297d8",
+        "text": "[[Evergreen notes should be concept-based]]"
+      },
+      "date": 1587470372970
+    },
+    {
+      "id": "646c3972258297d8",
+      "type": "move",
+      "order": [
+        "0384d43236fdfbbb",
+        "411992cdb9b47dfb",
+        "646c3972258297d8",
+        "ef94fd7e06197bc4",
+        "11fae017edd030d6"
+      ],
+      "date": 1587470375458
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "title": "Evergreen notes should be concept-based",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3a8d31474583e29d",
+      "text": "It is better to "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Evergreen notes should be concept-based",
+        "story": []
+      },
+      "date": 1587470383461
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3a8d31474583e29d"
+      },
+      "id": "3a8d31474583e29d",
+      "type": "add",
+      "date": 1587470387326
+    },
+    {
+      "type": "edit",
+      "id": "3a8d31474583e29d",
+      "item": {
+        "type": "paragraph",
+        "id": "3a8d31474583e29d",
+        "text": "It is better to "
+      },
+      "date": 1587470398130
+    }
+  ]
+}
