@@ -9,7 +9,7 @@
     {
       "type": "paragraph",
       "id": "18f9d5fbe109d8c9",
-      "text": "[[Writing is core to Learning]]"
+      "text": "[[Writing is core to Learning]] but writing without system has limited value."
     }
   ],
   "journal": [
@@ -89,6 +89,16 @@
         "text": "[[Writing is core to Learning]]"
       },
       "date": 1587463353774
+    },
+    {
+      "type": "edit",
+      "id": "18f9d5fbe109d8c9",
+      "item": {
+        "type": "paragraph",
+        "id": "18f9d5fbe109d8c9",
+        "text": "[[Writing is core to Learning]] but writing without system has limited value."
+      },
+      "date": 1587463798458
     }
   ]
 }

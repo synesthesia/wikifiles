@@ -9,6 +9,11 @@
     {
       "type": "paragraph",
       "id": "80f0571871a103a6",
+      "text": "Documents a note-taking approach heavily based on [[Zettelkasten]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "d03559a9a6f47e3a",
       "text": "See also [https://takesmartnotes.com/ site]"
     }
   ],
@@ -89,6 +94,37 @@
         "text": "See also [https://takesmartnotes.com/ site]"
       },
       "date": 1587463479509
+    },
+    {
+      "type": "edit",
+      "id": "80f0571871a103a6",
+      "item": {
+        "type": "paragraph",
+        "id": "80f0571871a103a6",
+        "text": "Documents a note-taking approach heavily based on [{Zettelkasten]]."
+      },
+      "date": 1587463530174
+    },
+    {
+      "type": "add",
+      "id": "d03559a9a6f47e3a",
+      "item": {
+        "type": "paragraph",
+        "id": "d03559a9a6f47e3a",
+        "text": "See also [https://takesmartnotes.com/ site]"
+      },
+      "after": "80f0571871a103a6",
+      "date": 1587463533286
+    },
+    {
+      "type": "edit",
+      "id": "80f0571871a103a6",
+      "item": {
+        "type": "paragraph",
+        "id": "80f0571871a103a6",
+        "text": "Documents a note-taking approach heavily based on [[Zettelkasten]]."
+      },
+      "date": 1587463539114
     }
   ]
 }
