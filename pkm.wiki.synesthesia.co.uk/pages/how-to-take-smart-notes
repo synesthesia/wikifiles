@@ -2,19 +2,27 @@
   "title": "How to Take Smart Notes",
   "story": [
     {
-      "type": "paragraph",
-      "id": "c3dc2adf680ac1ec",
-      "text": "Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing,  Learning and Thinking – for Students, Academics and Nonfiction Book Writers (p. 2). "
+      "type": "markdown",
+      "id": "20b09bd7821c1562",
+      "text": "*Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing,  Learning and Thinking – for Students, Academics and Nonfiction Book Writers (p. 2)*"
     },
     {
       "type": "paragraph",
       "id": "80f0571871a103a6",
-      "text": "Documents a note-taking approach heavily based on [[Zettelkasten]]."
+      "text": "Documents a [[personal knowledge management]] approach heavily based on [[Zettelkasten]]."
     },
     {
       "type": "paragraph",
       "id": "d03559a9a6f47e3a",
       "text": "See also [https://takesmartnotes.com/ site]"
+    },
+    {
+      "type": "factory",
+      "id": "e8111c2e952ccd30"
+    },
+    {
+      "type": "factory",
+      "id": "8beec8db66c9d05e"
     }
   ],
   "journal": [
@@ -125,6 +133,118 @@
         "text": "Documents a note-taking approach heavily based on [[Zettelkasten]]."
       },
       "date": 1587463539114
+    },
+    {
+      "type": "edit",
+      "id": "80f0571871a103a6",
+      "item": {
+        "type": "paragraph",
+        "id": "80f0571871a103a6",
+        "text": "Documents a [[PKM]] approach heavily based on [[Zettelkasten]]."
+      },
+      "date": 1587463828313
+    },
+    {
+      "type": "edit",
+      "id": "80f0571871a103a6",
+      "item": {
+        "type": "paragraph",
+        "id": "80f0571871a103a6",
+        "text": "Documents a [[personal knowledge management]] approach heavily based on [[Zettelkasten]]."
+      },
+      "date": 1587463845810
+    },
+    {
+      "type": "edit",
+      "id": "c3dc2adf680ac1ec",
+      "item": {
+        "type": "markdown",
+        "id": "c3dc2adf680ac1ec",
+        "text": "Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing,  Learning and Thinking – for Students, Academics and Nonfiction Book Writers (p. 2). "
+      },
+      "date": 1587463882926
+    },
+    {
+      "type": "edit",
+      "id": "c3dc2adf680ac1ec",
+      "item": {
+        "type": "markdown",
+        "id": "c3dc2adf680ac1ec",
+        "text": "<em>Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing,  Learning and Thinking – for Students, Academics and Nonfiction Book Writers (p. 2). </em>"
+      },
+      "date": 1587463896027
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e8111c2e952ccd30"
+      },
+      "id": "e8111c2e952ccd30",
+      "type": "add",
+      "after": "d03559a9a6f47e3a",
+      "date": 1587463906837
+    },
+    {
+      "type": "remove",
+      "id": "c3dc2adf680ac1ec",
+      "date": 1587463908839
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e65242edcd1dd8a5"
+      },
+      "id": "e65242edcd1dd8a5",
+      "type": "add",
+      "after": "e8111c2e952ccd30",
+      "date": 1587463911003
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8beec8db66c9d05e"
+      },
+      "id": "8beec8db66c9d05e",
+      "type": "add",
+      "after": "e65242edcd1dd8a5",
+      "date": 1587463914006
+    },
+    {
+      "type": "remove",
+      "id": "e65242edcd1dd8a5",
+      "date": 1587463915544
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "20b09bd7821c1562"
+      },
+      "id": "20b09bd7821c1562",
+      "type": "add",
+      "after": "8beec8db66c9d05e",
+      "date": 1587463917053
+    },
+    {
+      "type": "edit",
+      "id": "20b09bd7821c1562",
+      "item": {
+        "type": "markdown",
+        "id": "20b09bd7821c1562",
+        "text": "*Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing,  Learning and Thinking – for Students, Academics and Nonfiction Book Writers (p. 2)*"
+      },
+      "date": 1587463926770
+    },
+    {
+      "id": "20b09bd7821c1562",
+      "type": "move",
+      "order": [
+        "20b09bd7821c1562",
+        "80f0571871a103a6",
+        "d03559a9a6f47e3a",
+        "e8111c2e952ccd30",
+        "8beec8db66c9d05e"
+      ],
+      "date": 1587463929293
     }
   ]
 }
