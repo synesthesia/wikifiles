@@ -2,6 +2,11 @@
   "title": "Collectors Fallacy",
   "story": [
     {
+      "type": "markdown",
+      "id": "2c2f8505347711ca",
+      "text": "The mis-guided belief that merely collecting reading material (or links to material) means that we have assimilated the knowledge in that material."
+    },
+    {
       "type": "pagefold",
       "id": "a1c50ad56072fecf",
       "text": "Christian Tietze\n"
@@ -13,7 +18,7 @@
     {
       "type": "markdown",
       "id": "92933941f61259a1",
-      "text": ">There’s a tendency in all of us to gather useful stuff and feel good about it. To collect is a reward in itself. As knowledge workers, we’re inclined to look for the next groundbreaking thought, for intellectual stimulation: we pile up promising books and articles, and we store half the internet as bookmarks, just so we get the feeling of being on the cutting edge.\n\n>If we read without taking notes, our knowledge increases for a short time only. Once we forget what we knew, having read the text becomes worthless\n\n\n[https://zettelkasten.de/posts/collectors-fallacy/ blog]"
+      "text": ">There’s a tendency in all of us to gather useful stuff and feel good about it. To collect is a reward in itself. As knowledge workers, we’re inclined to look for the next groundbreaking thought, for intellectual stimulation: we pile up promising books and articles, and we store half the internet as bookmarks, just so we get the feeling of being on the cutting edge.\n\n>Preparing reading material alone doesn’t get you anywhere. \n\n>If we read without taking notes, our knowledge increases for a short time only. Once we forget what we knew, having read the text becomes worthless\n\n\n[https://zettelkasten.de/posts/collectors-fallacy/ blog]"
     }
   ],
   "journal": [
@@ -103,6 +108,57 @@
         "text": ">There’s a tendency in all of us to gather useful stuff and feel good about it. To collect is a reward in itself. As knowledge workers, we’re inclined to look for the next groundbreaking thought, for intellectual stimulation: we pile up promising books and articles, and we store half the internet as bookmarks, just so we get the feeling of being on the cutting edge.\n\n>If we read without taking notes, our knowledge increases for a short time only. Once we forget what we knew, having read the text becomes worthless\n\n\n[https://zettelkasten.de/posts/collectors-fallacy/ blog]"
       },
       "date": 1587454153920
+    },
+    {
+      "type": "edit",
+      "id": "92933941f61259a1",
+      "item": {
+        "type": "markdown",
+        "id": "92933941f61259a1",
+        "text": ">There’s a tendency in all of us to gather useful stuff and feel good about it. To collect is a reward in itself. As knowledge workers, we’re inclined to look for the next groundbreaking thought, for intellectual stimulation: we pile up promising books and articles, and we store half the internet as bookmarks, just so we get the feeling of being on the cutting edge.\n"
+      },
+      "date": 1587454201867
+    },
+    {
+      "type": "edit",
+      "id": "92933941f61259a1",
+      "item": {
+        "type": "markdown",
+        "id": "92933941f61259a1",
+        "text": ">There’s a tendency in all of us to gather useful stuff and feel good about it. To collect is a reward in itself. As knowledge workers, we’re inclined to look for the next groundbreaking thought, for intellectual stimulation: we pile up promising books and articles, and we store half the internet as bookmarks, just so we get the feeling of being on the cutting edge.\n\n>Preparing reading material alone doesn’t get you anywhere. \n\n>If we read without taking notes, our knowledge increases for a short time only. Once we forget what we knew, having read the text becomes worthless\n\n\n[https://zettelkasten.de/posts/collectors-fallacy/ blog]"
+      },
+      "date": 1587454215301
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2c2f8505347711ca"
+      },
+      "id": "2c2f8505347711ca",
+      "type": "add",
+      "after": "92933941f61259a1",
+      "date": 1587454223464
+    },
+    {
+      "type": "edit",
+      "id": "2c2f8505347711ca",
+      "item": {
+        "type": "markdown",
+        "id": "2c2f8505347711ca",
+        "text": "The mis-guided belief that merely collecting reading material (or links to material) means that we have assimilated the knowledge in that material."
+      },
+      "date": 1587454269337
+    },
+    {
+      "id": "2c2f8505347711ca",
+      "type": "move",
+      "order": [
+        "2c2f8505347711ca",
+        "a1c50ad56072fecf",
+        "ed57ab000da9fe9d",
+        "92933941f61259a1"
+      ],
+      "date": 1587454272586
     }
   ]
 }

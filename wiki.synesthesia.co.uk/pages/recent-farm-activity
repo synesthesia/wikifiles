@@ -4,21 +4,12 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "9a0b7b139e0935b8"
+      "id": "fae95a141615690b"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "9300bce9de489fd4"
-    },
-    {
-      "date": 1587126841000,
-      "site": "wiki.synesthesia.co.uk",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
-      "type": "reference",
-      "id": "a3e705ccb4909257"
+      "id": "f008b9e79cb55bb7"
     },
     {
       "date": 1587136287000,
@@ -27,13 +18,31 @@
       "title": "Projects",
       "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 38 pages.",
       "type": "reference",
-      "id": "5ec699143e9d0648"
+      "id": "230ebacca861b2c8"
+    },
+    {
+      "date": 1587136741000,
+      "site": "wiki.synesthesia.co.uk",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
+      "type": "reference",
+      "id": "d0563a657305e644"
+    },
+    {
+      "date": 1587454272000,
+      "site": "pkm.wiki.synesthesia.co.uk",
+      "slug": "collectors-fallacy",
+      "title": "Collectors Fallacy",
+      "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 230 pages.",
+      "type": "reference",
+      "id": "80a0a0972ee4a348"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "1f0538da220da5c3",
+      "id": "8cb1d2ffeb8b2128",
       "item": {
         "title": "Recent Farm Activity"
       },
@@ -43,41 +52,27 @@
     },
     {
       "type": "add",
-      "id": "9a0b7b139e0935b8",
+      "id": "fae95a141615690b",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "9a0b7b139e0935b8"
+        "id": "fae95a141615690b"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "9300bce9de489fd4",
+      "id": "f008b9e79cb55bb7",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "9300bce9de489fd4"
+        "id": "f008b9e79cb55bb7"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "a3e705ccb4909257",
-      "item": {
-        "date": 1587126841000,
-        "site": "wiki.synesthesia.co.uk",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
-        "type": "reference",
-        "id": "a3e705ccb4909257"
-      },
-      "date": 1587126841000
-    },
-    {
-      "type": "add",
-      "id": "5ec699143e9d0648",
+      "id": "230ebacca861b2c8",
       "item": {
         "date": 1587136287000,
         "site": "code.wiki.synesthesia.co.uk",
@@ -85,9 +80,37 @@
         "title": "Projects",
         "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 38 pages.",
         "type": "reference",
-        "id": "5ec699143e9d0648"
+        "id": "230ebacca861b2c8"
       },
       "date": 1587136287000
+    },
+    {
+      "type": "add",
+      "id": "d0563a657305e644",
+      "item": {
+        "date": 1587136741000,
+        "site": "wiki.synesthesia.co.uk",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
+        "type": "reference",
+        "id": "d0563a657305e644"
+      },
+      "date": 1587136741000
+    },
+    {
+      "type": "add",
+      "id": "80a0a0972ee4a348",
+      "item": {
+        "date": 1587454272000,
+        "site": "pkm.wiki.synesthesia.co.uk",
+        "slug": "collectors-fallacy",
+        "title": "Collectors Fallacy",
+        "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 230 pages.",
+        "type": "reference",
+        "id": "80a0a0972ee4a348"
+      },
+      "date": 1587454272000
     }
   ]
 }

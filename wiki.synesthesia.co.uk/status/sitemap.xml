@@ -442,7 +442,7 @@
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/recent-farm-activity.html</loc>
-    <lastmod>2020-04-17</lastmod>
+    <lastmod>2020-04-21</lastmod>
   </url>
   <url>
     <loc>http://wiki.synesthesia.co.uk/reference.html</loc>
@@ -553,6 +553,10 @@
     <lastmod>2015-02-04</lastmod>
   </url>
   <url>
+    <loc>http://wiki.synesthesia.co.uk/tls-breaks-wiki-transclusion.html</loc>
+    <lastmod>2018-12-19</lastmod>
+  </url>
+  <url>
     <loc>http://wiki.synesthesia.co.uk/track-changes.html</loc>
     <lastmod>2014-12-11</lastmod>
   </url>
@@ -619,9 +623,5 @@
   <url>
     <loc>http://wiki.synesthesia.co.uk/wiki-page.html</loc>
     <lastmod>2015-08-31</lastmod>
-  </url>
-  <url>
-    <loc>http://wiki.synesthesia.co.uk/tls-breaks-wiki-transclusion.html</loc>
-    <lastmod>2018-12-19</lastmod>
   </url>
 </urlset>
