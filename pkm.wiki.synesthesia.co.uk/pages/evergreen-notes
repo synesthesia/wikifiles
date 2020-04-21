@@ -14,7 +14,12 @@
     {
       "type": "paragraph",
       "id": "646c3972258297d8",
-      "text": "[[Evergreen notes should be concept-based]]"
+      "text": "[[Evergreen Notes Should be Concept-Based]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f103c1111a29fee0",
+      "text": "[[Evergreen Notes should be Densely Linked]]"
     },
     {
       "type": "pagefold",
@@ -270,6 +275,37 @@
         "11fae017edd030d6"
       ],
       "date": 1587470375458
+    },
+    {
+      "type": "edit",
+      "id": "646c3972258297d8",
+      "item": {
+        "type": "paragraph",
+        "id": "646c3972258297d8",
+        "text": "[[Evergreen Notes Should be Concept-Based]]"
+      },
+      "date": 1587470519153
+    },
+    {
+      "type": "add",
+      "id": "f103c1111a29fee0",
+      "item": {
+        "type": "paragraph",
+        "id": "f103c1111a29fee0",
+        "text": "Evergreen Notes should be Densely Linked"
+      },
+      "after": "646c3972258297d8",
+      "date": 1587470605983
+    },
+    {
+      "type": "edit",
+      "id": "f103c1111a29fee0",
+      "item": {
+        "type": "paragraph",
+        "id": "f103c1111a29fee0",
+        "text": "[[Evergreen Notes should be Densely Linked]]"
+      },
+      "date": 1587470615200
     }
   ]
 }

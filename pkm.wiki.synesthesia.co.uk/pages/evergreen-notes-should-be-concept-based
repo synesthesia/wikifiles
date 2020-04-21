@@ -1,39 +1,74 @@
 {
-  "title": "Evergreen notes should be concept-based",
+  "title": "Evergreen Notes Should be Concept-Based",
   "story": [
     {
       "type": "paragraph",
-      "id": "3a8d31474583e29d",
-      "text": "It is better to "
+      "id": "ae0b0693fe7af1ff",
+      "text": "It is better to create Evergreen notes by concept than by other factors such as author or source."
+    },
+    {
+      "type": "paragraph",
+      "id": "3bb37a77b381d2e9",
+      "text": "This supports [[Evergreen Notes should be densely linked]]"
     }
   ],
   "journal": [
     {
       "type": "create",
       "item": {
-        "title": "Evergreen notes should be concept-based",
+        "title": "Evergreen Notes Should be Concept-Based",
         "story": []
       },
-      "date": 1587470383461
+      "date": 1587470548667
     },
     {
       "item": {
         "type": "factory",
-        "id": "3a8d31474583e29d"
+        "id": "ae0b0693fe7af1ff"
       },
-      "id": "3a8d31474583e29d",
+      "id": "ae0b0693fe7af1ff",
       "type": "add",
-      "date": 1587470387326
+      "date": 1587470552533
     },
     {
       "type": "edit",
-      "id": "3a8d31474583e29d",
+      "id": "ae0b0693fe7af1ff",
       "item": {
         "type": "paragraph",
-        "id": "3a8d31474583e29d",
-        "text": "It is better to "
+        "id": "ae0b0693fe7af1ff",
+        "text": "It is better to create Evergreen notes by concept than by other factors such as author or source."
       },
-      "date": 1587470398130
+      "date": 1587470555400
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3bb37a77b381d2e9"
+      },
+      "id": "3bb37a77b381d2e9",
+      "type": "add",
+      "after": "ae0b0693fe7af1ff",
+      "date": 1587470651129
+    },
+    {
+      "type": "edit",
+      "id": "3bb37a77b381d2e9",
+      "item": {
+        "type": "paragraph",
+        "id": "3bb37a77b381d2e9",
+        "text": "This supports [Evergreen Notes should be densely linked]]"
+      },
+      "date": 1587470670877
+    },
+    {
+      "type": "edit",
+      "id": "3bb37a77b381d2e9",
+      "item": {
+        "type": "paragraph",
+        "id": "3bb37a77b381d2e9",
+        "text": "This supports [[Evergreen Notes should be densely linked]]"
+      },
+      "date": 1587470676983
     }
   ]
 }
