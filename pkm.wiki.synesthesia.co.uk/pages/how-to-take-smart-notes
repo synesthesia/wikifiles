@@ -18,10 +18,6 @@
     },
     {
       "type": "factory",
-      "id": "e8111c2e952ccd30"
-    },
-    {
-      "type": "factory",
       "id": "8beec8db66c9d05e"
     }
   ],
@@ -245,6 +241,11 @@
         "8beec8db66c9d05e"
       ],
       "date": 1587463929293
+    },
+    {
+      "type": "remove",
+      "id": "e8111c2e952ccd30",
+      "date": 1587464718314
     }
   ]
 }
