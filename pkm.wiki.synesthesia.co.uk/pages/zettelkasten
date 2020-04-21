@@ -19,7 +19,7 @@
     {
       "type": "paragraph",
       "id": "610b6a3e31c2b06b",
-      "text": "The core of the process revolves around two collections of notes - Reference notes which summarise source material and include a link to the source, and the collection of [[evergreen notes]] which are written in the imnterpretive part of the process."
+      "text": "The core of the process revolves around two collections of notes - [[Reference Notes]] which summarise source material and include a link to the source, and the collection of [[evergreen notes]] which are written in the interpretive part of the process."
     }
   ],
   "journal": [
@@ -144,6 +144,26 @@
         "text": "The core of the process revolves around two collections of notes - Reference notes which summarise source material and include a link to the source, and the collection of [[evergreen notes]] which are written in the imnterpretive part of the process."
       },
       "date": 1587469282407
+    },
+    {
+      "type": "edit",
+      "id": "610b6a3e31c2b06b",
+      "item": {
+        "type": "paragraph",
+        "id": "610b6a3e31c2b06b",
+        "text": "The core of the process revolves around two collections of notes - Reference notes which summarise source material and include a link to the source, and the collection of [[evergreen notes]] which are written in the interpretive part of the process."
+      },
+      "date": 1587469512819
+    },
+    {
+      "type": "edit",
+      "id": "610b6a3e31c2b06b",
+      "item": {
+        "type": "paragraph",
+        "id": "610b6a3e31c2b06b",
+        "text": "The core of the process revolves around two collections of notes - [[Reference Notes]] which summarise source material and include a link to the source, and the collection of [[evergreen notes]] which are written in the interpretive part of the process."
+      },
+      "date": 1587469566731
     }
   ]
 }

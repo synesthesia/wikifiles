@@ -1,0 +1,77 @@
+{
+  "title": "Reference Notes",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "0cfc2694aec916f8",
+      "text": "Brief (but explicit) notes about a piece of content combined with bibliographic and link information."
+    },
+    {
+      "type": "factory",
+      "id": "e78b9fa6472066dd"
+    },
+    {
+      "type": "factory",
+      "id": "6f1c1b9c38b6b798"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Reference Notes",
+        "story": []
+      },
+      "date": 1587469571808
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0cfc2694aec916f8"
+      },
+      "id": "0cfc2694aec916f8",
+      "type": "add",
+      "date": 1587469574899
+    },
+    {
+      "type": "edit",
+      "id": "0cfc2694aec916f8",
+      "item": {
+        "type": "markdown",
+        "id": "0cfc2694aec916f8",
+        "text": "Brief notes about a piece of content combined with bibliographic and link information."
+      },
+      "date": 1587469600796
+    },
+    {
+      "type": "edit",
+      "id": "0cfc2694aec916f8",
+      "item": {
+        "type": "markdown",
+        "id": "0cfc2694aec916f8",
+        "text": "Brief (but explicit) notes about a piece of content combined with bibliographic and link information."
+      },
+      "date": 1587469633201
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e78b9fa6472066dd"
+      },
+      "id": "e78b9fa6472066dd",
+      "type": "add",
+      "after": "0cfc2694aec916f8",
+      "date": 1587469646702
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6f1c1b9c38b6b798"
+      },
+      "id": "6f1c1b9c38b6b798",
+      "type": "add",
+      "after": "e78b9fa6472066dd",
+      "date": 1587469650357
+    }
+  ]
+}
