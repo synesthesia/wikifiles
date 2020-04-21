@@ -1,0 +1,49 @@
+{
+  "title": "Evergreen Notes Should Be Atomic",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "50db77a96036fd51",
+      "text": "An [[Evergreen note]] should be about one thing (i.e. one concept) and aim to capture the entirety of that thing."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Evergreen Notes Should Be Atomic",
+        "story": []
+      },
+      "date": 1587469400135
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "50db77a96036fd51"
+      },
+      "id": "50db77a96036fd51",
+      "type": "add",
+      "date": 1587469402334
+    },
+    {
+      "type": "edit",
+      "id": "50db77a96036fd51",
+      "item": {
+        "type": "markdown",
+        "id": "50db77a96036fd51",
+        "text": "An [[Evergreen note]] should be about one thing (i.e. one concept)"
+      },
+      "date": 1587469425092
+    },
+    {
+      "type": "edit",
+      "id": "50db77a96036fd51",
+      "item": {
+        "type": "markdown",
+        "id": "50db77a96036fd51",
+        "text": "An [[Evergreen note]] should be about one thing (i.e. one concept) and aim to capture the entirety of that thing."
+      },
+      "date": 1587469447933
+    }
+  ]
+}

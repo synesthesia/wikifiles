@@ -17,8 +17,9 @@
       "text": "see also [[Zettelkasten project]]"
     },
     {
-      "type": "factory",
-      "id": "610b6a3e31c2b06b"
+      "type": "paragraph",
+      "id": "610b6a3e31c2b06b",
+      "text": "The core of the process revolves around two collections of notes - Reference notes which summarise source material and include a link to the source, and the collection of [[evergreen notes]] which are written in the imnterpretive part of the process."
     }
   ],
   "journal": [
@@ -133,6 +134,16 @@
       "type": "add",
       "after": "25d474a626af2b16",
       "date": 1587469183569
+    },
+    {
+      "type": "edit",
+      "id": "610b6a3e31c2b06b",
+      "item": {
+        "type": "paragraph",
+        "id": "610b6a3e31c2b06b",
+        "text": "The core of the process revolves around two collections of notes - Reference notes which summarise source material and include a link to the source, and the collection of [[evergreen notes]] which are written in the imnterpretive part of the process."
+      },
+      "date": 1587469282407
     }
   ]
 }

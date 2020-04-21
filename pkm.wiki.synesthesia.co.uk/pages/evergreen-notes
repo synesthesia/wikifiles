@@ -2,6 +2,16 @@
   "title": "Evergreen Notes",
   "story": [
     {
+      "type": "markdown",
+      "id": "0384d43236fdfbbb",
+      "text": "Persistent notes that capture concepts as they make sense to the author."
+    },
+    {
+      "type": "markdown",
+      "id": "411992cdb9b47dfb",
+      "text": "[[Evergreen Notes Should Be Atomic]]"
+    },
+    {
       "type": "pagefold",
       "id": "ef94fd7e06197bc4",
       "text": "Andy Matuschak"
@@ -9,12 +19,11 @@
     {
       "type": "markdown",
       "id": "11fae017edd030d6",
-      "text": ">Evergreen notes are written and organized to evolve, contribute, and accumulate over time, across projects."
+      "text": ">Evergreen notes are written and organized to evolve, contribute, and accumulate over time, across projects.\n[https://notes.andymatuschak.org/Evergreen_notes note]"
     },
     {
-      "type": "markdown",
-      "id": "f0eee59f413ac693",
-      "text": "[https://notes.andymatuschak.org/Evergreen_notes note]\nCites [[Zettelkasten]] as a strong influence"
+      "type": "factory",
+      "id": "646c3972258297d8"
     }
   ],
   "journal": [
@@ -139,6 +148,105 @@
         "text": "[https://notes.andymatuschak.org/Evergreen_notes note]\nCites [[Zettelkasten]] as a strong influence"
       },
       "date": 1587464116322
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0384d43236fdfbbb"
+      },
+      "id": "0384d43236fdfbbb",
+      "type": "add",
+      "after": "f0eee59f413ac693",
+      "date": 1587469302862
+    },
+    {
+      "type": "edit",
+      "id": "0384d43236fdfbbb",
+      "item": {
+        "type": "markdown",
+        "id": "0384d43236fdfbbb",
+        "text": "Persistent notes that capture concepts as they make sense to the author."
+      },
+      "date": 1587469336580
+    },
+    {
+      "id": "0384d43236fdfbbb",
+      "type": "move",
+      "order": [
+        "0384d43236fdfbbb",
+        "ef94fd7e06197bc4",
+        "11fae017edd030d6",
+        "f0eee59f413ac693"
+      ],
+      "date": 1587469338733
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "646c3972258297d8"
+      },
+      "id": "646c3972258297d8",
+      "type": "add",
+      "after": "f0eee59f413ac693",
+      "date": 1587469372572
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "411992cdb9b47dfb"
+      },
+      "id": "411992cdb9b47dfb",
+      "type": "add",
+      "after": "646c3972258297d8",
+      "date": 1587469378307
+    },
+    {
+      "type": "edit",
+      "id": "411992cdb9b47dfb",
+      "item": {
+        "type": "markdown",
+        "id": "411992cdb9b47dfb",
+        "text": "[[Evergreen Notes Should Be Atomic]]"
+      },
+      "date": 1587469394088
+    },
+    {
+      "id": "411992cdb9b47dfb",
+      "type": "move",
+      "order": [
+        "0384d43236fdfbbb",
+        "411992cdb9b47dfb",
+        "ef94fd7e06197bc4",
+        "11fae017edd030d6",
+        "f0eee59f413ac693",
+        "646c3972258297d8"
+      ],
+      "date": 1587469397040
+    },
+    {
+      "type": "edit",
+      "id": "f0eee59f413ac693",
+      "item": {
+        "type": "markdown",
+        "id": "f0eee59f413ac693",
+        "text": "\nCites [[Zettelkasten]] as a strong influence"
+      },
+      "date": 1587469479348
+    },
+    {
+      "type": "edit",
+      "id": "11fae017edd030d6",
+      "item": {
+        "type": "markdown",
+        "id": "11fae017edd030d6",
+        "text": ">Evergreen notes are written and organized to evolve, contribute, and accumulate over time, across projects.\n[https://notes.andymatuschak.org/Evergreen_notes note]"
+      },
+      "date": 1587469484940
+    },
+    {
+      "type": "remove",
+      "id": "f0eee59f413ac693",
+      "date": 1587469490411
     }
   ]
 }
