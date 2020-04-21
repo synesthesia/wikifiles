@@ -4,12 +4,12 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "0fc8e44de2e0a874"
+      "id": "62d1db733a7a62aa"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "64ae0e882e66df9a"
+      "id": "9c952b6d84c86f7a"
     },
     {
       "date": 1587136287000,
@@ -18,16 +18,7 @@
       "title": "Projects",
       "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 38 pages.",
       "type": "reference",
-      "id": "2c51b523ab050356"
-    },
-    {
-      "date": 1587454442000,
-      "site": "wiki.synesthesia.co.uk",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
-      "type": "reference",
-      "id": "68a60f90f655ba25"
+      "id": "cec4feee17c1090b"
     },
     {
       "date": 1587454843000,
@@ -36,13 +27,31 @@
       "title": "Collectors Fallacy",
       "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 230 pages.",
       "type": "reference",
-      "id": "095a03c7e2772f98"
+      "id": "d89f73be4677d8df"
+    },
+    {
+      "date": 1587456601000,
+      "site": "wiki.synesthesia.co.uk",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
+      "type": "reference",
+      "id": "523163b02b98e576"
+    },
+    {
+      "date": 1587456811000,
+      "site": "dataviz.wiki.synesthesia.co.uk",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "In [http://dataviz.wiki.synesthesia.co.uk dataviz.wiki.synesthesia.co.uk] with 2 pages.",
+      "type": "reference",
+      "id": "2175d3e4901754cb"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "9fd41254a8b88e33",
+      "id": "347b71436cb8da31",
       "item": {
         "title": "Recent Farm Activity"
       },
@@ -52,27 +61,27 @@
     },
     {
       "type": "add",
-      "id": "0fc8e44de2e0a874",
+      "id": "62d1db733a7a62aa",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "0fc8e44de2e0a874"
+        "id": "62d1db733a7a62aa"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "64ae0e882e66df9a",
+      "id": "9c952b6d84c86f7a",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "64ae0e882e66df9a"
+        "id": "9c952b6d84c86f7a"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "2c51b523ab050356",
+      "id": "cec4feee17c1090b",
       "item": {
         "date": 1587136287000,
         "site": "code.wiki.synesthesia.co.uk",
@@ -80,27 +89,13 @@
         "title": "Projects",
         "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 38 pages.",
         "type": "reference",
-        "id": "2c51b523ab050356"
+        "id": "cec4feee17c1090b"
       },
       "date": 1587136287000
     },
     {
       "type": "add",
-      "id": "68a60f90f655ba25",
-      "item": {
-        "date": 1587454442000,
-        "site": "wiki.synesthesia.co.uk",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
-        "type": "reference",
-        "id": "68a60f90f655ba25"
-      },
-      "date": 1587454442000
-    },
-    {
-      "type": "add",
-      "id": "095a03c7e2772f98",
+      "id": "d89f73be4677d8df",
       "item": {
         "date": 1587454843000,
         "site": "pkm.wiki.synesthesia.co.uk",
@@ -108,9 +103,37 @@
         "title": "Collectors Fallacy",
         "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 230 pages.",
         "type": "reference",
-        "id": "095a03c7e2772f98"
+        "id": "d89f73be4677d8df"
       },
       "date": 1587454843000
+    },
+    {
+      "type": "add",
+      "id": "523163b02b98e576",
+      "item": {
+        "date": 1587456601000,
+        "site": "wiki.synesthesia.co.uk",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
+        "type": "reference",
+        "id": "523163b02b98e576"
+      },
+      "date": 1587456601000
+    },
+    {
+      "type": "add",
+      "id": "2175d3e4901754cb",
+      "item": {
+        "date": 1587456811000,
+        "site": "dataviz.wiki.synesthesia.co.uk",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "In [http://dataviz.wiki.synesthesia.co.uk dataviz.wiki.synesthesia.co.uk] with 2 pages.",
+        "type": "reference",
+        "id": "2175d3e4901754cb"
+      },
+      "date": 1587456811000
     }
   ]
 }
