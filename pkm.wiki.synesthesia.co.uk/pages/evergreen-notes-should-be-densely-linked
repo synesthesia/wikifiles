@@ -1,14 +1,49 @@
 {
-  "title": "Evergreen Notes should be Densely Linked",
-  "story": [],
+  "title": "Evergreen Notes Should Be Densely Linked",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7f6a43b336cccdb7",
+      "text": "Adding links to notes requires us to think about what other concepts might be linked to the concept we are writing."
+    }
+  ],
   "journal": [
     {
       "type": "create",
       "item": {
-        "title": "Evergreen Notes should be Densely Linked",
+        "title": "Evergreen Notes Should Be Densely Linked",
         "story": []
       },
       "date": 1587470699307
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7f6a43b336cccdb7"
+      },
+      "id": "7f6a43b336cccdb7",
+      "type": "add",
+      "date": 1587470701177
+    },
+    {
+      "type": "edit",
+      "id": "7f6a43b336cccdb7",
+      "item": {
+        "type": "paragraph",
+        "id": "7f6a43b336cccdb7",
+        "text": "Adding links to notes requires us to think "
+      },
+      "date": 1587470711462
+    },
+    {
+      "type": "edit",
+      "id": "7f6a43b336cccdb7",
+      "item": {
+        "type": "paragraph",
+        "id": "7f6a43b336cccdb7",
+        "text": "Adding links to notes requires us to think about what other concepts might be linked to the concept we are writing."
+      },
+      "date": 1587470737184
     }
   ]
 }

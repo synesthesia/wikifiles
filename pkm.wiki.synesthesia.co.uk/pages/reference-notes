@@ -4,7 +4,7 @@
     {
       "type": "markdown",
       "id": "0cfc2694aec916f8",
-      "text": "Brief (but explicit) notes about a piece of content combined with bibliographic and link information."
+      "text": "Brief notes about a piece of content combined with bibliographic and link information."
     },
     {
       "type": "paragraph",
@@ -109,6 +109,16 @@
         "text": "Within the [[seek sense share]] model Reference Notes are potentially part of the [[link from seek to sense]]"
       },
       "date": 1587469786500
+    },
+    {
+      "type": "edit",
+      "id": "0cfc2694aec916f8",
+      "item": {
+        "type": "markdown",
+        "id": "0cfc2694aec916f8",
+        "text": "Brief notes about a piece of content combined with bibliographic and link information."
+      },
+      "date": 1587470982035
     }
   ]
 }

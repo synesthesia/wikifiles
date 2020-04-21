@@ -19,7 +19,7 @@
     {
       "type": "paragraph",
       "id": "f103c1111a29fee0",
-      "text": "[[Evergreen Notes should be Densely Linked]]"
+      "text": "[[Evergreen Notes Should Be Densely Linked]]"
     },
     {
       "type": "pagefold",
@@ -306,6 +306,16 @@
         "text": "[[Evergreen Notes should be Densely Linked]]"
       },
       "date": 1587470615200
+    },
+    {
+      "type": "edit",
+      "id": "f103c1111a29fee0",
+      "item": {
+        "type": "paragraph",
+        "id": "f103c1111a29fee0",
+        "text": "[[Evergreen Notes Should Be Densely Linked]]"
+      },
+      "date": 1587470803976
     }
   ]
 }
