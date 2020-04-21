@@ -15,6 +15,10 @@
       "type": "paragraph",
       "id": "25d474a626af2b16",
       "text": "see also [[Zettelkasten project]]"
+    },
+    {
+      "type": "factory",
+      "id": "610b6a3e31c2b06b"
     }
   ],
   "journal": [
@@ -119,6 +123,16 @@
         "text": "see also [[Zettelkasten project]]"
       },
       "date": 1586250648483
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "610b6a3e31c2b06b"
+      },
+      "id": "610b6a3e31c2b06b",
+      "type": "add",
+      "after": "25d474a626af2b16",
+      "date": 1587469183569
     }
   ]
 }
