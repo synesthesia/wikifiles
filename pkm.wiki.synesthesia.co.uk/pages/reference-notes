@@ -7,12 +7,14 @@
       "text": "Brief (but explicit) notes about a piece of content combined with bibliographic and link information."
     },
     {
-      "type": "factory",
-      "id": "e78b9fa6472066dd"
+      "type": "paragraph",
+      "id": "6f1c1b9c38b6b798",
+      "text": "When following a process similar to [[Zettelkasten]] Reference Notes are a key bridge between sources and the generative work of creating and maintaining [[evergreen notes]]."
     },
     {
-      "type": "factory",
-      "id": "6f1c1b9c38b6b798"
+      "type": "paragraph",
+      "id": "bdaf41f9a50025a7",
+      "text": "Within the [[seek sense share]] model Reference Notes are potentially part of the [[link from seek to sense]]"
     }
   ],
   "journal": [
@@ -72,6 +74,41 @@
       "type": "add",
       "after": "e78b9fa6472066dd",
       "date": 1587469650357
+    },
+    {
+      "type": "edit",
+      "id": "6f1c1b9c38b6b798",
+      "item": {
+        "type": "paragraph",
+        "id": "6f1c1b9c38b6b798",
+        "text": "When following a process similar to [[Zettelkasten]] Reference Notes are a key bridge between sources and the generative work of creating and maintaining [[evergreen notes]]."
+      },
+      "date": 1587469700816
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bdaf41f9a50025a7"
+      },
+      "id": "bdaf41f9a50025a7",
+      "type": "add",
+      "after": "6f1c1b9c38b6b798",
+      "date": 1587469721862
+    },
+    {
+      "type": "remove",
+      "id": "e78b9fa6472066dd",
+      "date": 1587469742466
+    },
+    {
+      "type": "edit",
+      "id": "bdaf41f9a50025a7",
+      "item": {
+        "type": "paragraph",
+        "id": "bdaf41f9a50025a7",
+        "text": "Within the [[seek sense share]] model Reference Notes are potentially part of the [[link from seek to sense]]"
+      },
+      "date": 1587469786500
     }
   ]
 }
