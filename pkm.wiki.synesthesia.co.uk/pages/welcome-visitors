@@ -48,7 +48,7 @@
     {
       "type": "markdown",
       "id": "b8d81c060d223a68",
-      "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context!*"
+      "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context! The preferred writing style is first-person plural*"
     }
   ],
   "journal": [
@@ -674,6 +674,16 @@
         "b8d81c060d223a68"
       ],
       "date": 1581524200090
+    },
+    {
+      "type": "edit",
+      "id": "b8d81c060d223a68",
+      "item": {
+        "type": "markdown",
+        "id": "b8d81c060d223a68",
+        "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context! The preferred writing style is first-person plural*"
+      },
+      "date": 1587470050295
     }
   ]
 }

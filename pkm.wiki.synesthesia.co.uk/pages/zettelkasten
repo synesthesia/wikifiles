@@ -2,6 +2,16 @@
   "title": "Zettelkasten",
   "story": [
     {
+      "type": "paragraph",
+      "id": "a921b42bbbe714fb",
+      "text": "A [[personal knowledge management]] process."
+    },
+    {
+      "type": "paragraph",
+      "id": "610b6a3e31c2b06b",
+      "text": "The core of the process revolves around two collections of notes - [[Reference Notes]] which summarise source material and include a link to the source, and the collection of [[evergreen notes]] which are written in the interpretive part of the process."
+    },
+    {
       "type": "markdown",
       "id": "3ca79c365fd47de1",
       "text": "The 20th-century German sociologist [[Niklas Luhmann]] managed to publish 70 books. He credits much of his success to his Zettelkasten, or \"slip box.\""
@@ -15,11 +25,6 @@
       "type": "paragraph",
       "id": "25d474a626af2b16",
       "text": "see also [[Zettelkasten project]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "610b6a3e31c2b06b",
-      "text": "The core of the process revolves around two collections of notes - [[Reference Notes]] which summarise source material and include a link to the source, and the collection of [[evergreen notes]] which are written in the interpretive part of the process."
     }
   ],
   "journal": [
@@ -164,6 +169,49 @@
         "text": "The core of the process revolves around two collections of notes - [[Reference Notes]] which summarise source material and include a link to the source, and the collection of [[evergreen notes]] which are written in the interpretive part of the process."
       },
       "date": 1587469566731
+    },
+    {
+      "id": "610b6a3e31c2b06b",
+      "type": "move",
+      "order": [
+        "610b6a3e31c2b06b",
+        "3ca79c365fd47de1",
+        "9e5f6d877d87c893",
+        "25d474a626af2b16"
+      ],
+      "date": 1587469961569
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a921b42bbbe714fb"
+      },
+      "id": "a921b42bbbe714fb",
+      "type": "add",
+      "after": "25d474a626af2b16",
+      "date": 1587469970312
+    },
+    {
+      "type": "edit",
+      "id": "a921b42bbbe714fb",
+      "item": {
+        "type": "paragraph",
+        "id": "a921b42bbbe714fb",
+        "text": "A [[personal knowledge management]] process."
+      },
+      "date": 1587469997917
+    },
+    {
+      "id": "a921b42bbbe714fb",
+      "type": "move",
+      "order": [
+        "a921b42bbbe714fb",
+        "610b6a3e31c2b06b",
+        "3ca79c365fd47de1",
+        "9e5f6d877d87c893",
+        "25d474a626af2b16"
+      ],
+      "date": 1587470000984
     }
   ]
 }

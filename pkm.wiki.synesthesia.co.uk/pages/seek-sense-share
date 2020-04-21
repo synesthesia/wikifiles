@@ -2,9 +2,9 @@
   "title": "Seek Sense Share",
   "story": [
     {
-      "type": "markdown",
-      "id": "86266fa548b03c71",
-      "text": ">Simple standards facilitated with\n>a light touch, enables knowledge\n>workers to capture, interpret, \n>and share their knowledge.\n\nHarold Jarche 2014 [http://jarche.com/2014/02/the-seek-sense-share-framework/ blog]"
+      "type": "paragraph",
+      "id": "ef37320a69abac7a",
+      "text": "A model of [[Personal Knowledge Management]]"
     },
     {
       "type": "paragraph",
@@ -20,6 +20,11 @@
       "type": "paragraph",
       "id": "e0fb60aa0cb302e3",
       "text": "[[Share]]"
+    },
+    {
+      "type": "markdown",
+      "id": "86266fa548b03c71",
+      "text": ">Simple standards facilitated with\n>a light touch, enables knowledge\n>workers to capture, interpret, \n>and share their knowledge.\n\n[[Harold Jarche]] 2014 [http://jarche.com/2014/02/the-seek-sense-share-framework/ blog]"
     }
   ],
   "journal": [
@@ -121,6 +126,79 @@
         "text": ">Simple standards facilitated with\n>a light touch, enables knowledge\n>workers to capture, interpret, \n>and share their knowledge.\n\nHarold Jarche 2014 [http://jarche.com/2014/02/the-seek-sense-share-framework/ blog]"
       },
       "date": 1563520316433
+    },
+    {
+      "type": "edit",
+      "id": "86266fa548b03c71",
+      "item": {
+        "type": "markdown",
+        "id": "86266fa548b03c71",
+        "text": ">Simple standards facilitated with\n>a light touch, enables knowledge\n>workers to capture, interpret, \n>and share their knowledge.\nHarold Jarche 2014 [http://jarche.com/2014/02/the-seek-sense-share-framework/ blog]"
+      },
+      "date": 1587469829292
+    },
+    {
+      "type": "edit",
+      "id": "86266fa548b03c71",
+      "item": {
+        "type": "markdown",
+        "id": "86266fa548b03c71",
+        "text": ">Simple standards facilitated with\n>a light touch, enables knowledge\n>workers to capture, interpret, \n>and share their knowledge.\n\nHarold Jarche 2014 [http://jarche.com/2014/02/the-seek-sense-share-framework/ blog]"
+      },
+      "date": 1587469837251
+    },
+    {
+      "id": "86266fa548b03c71",
+      "type": "move",
+      "order": [
+        "904a0c3fe232eb21",
+        "d7f788a16329ab42",
+        "e0fb60aa0cb302e3",
+        "86266fa548b03c71"
+      ],
+      "date": 1587469848051
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ef37320a69abac7a"
+      },
+      "id": "ef37320a69abac7a",
+      "type": "add",
+      "after": "86266fa548b03c71",
+      "date": 1587469851284
+    },
+    {
+      "type": "edit",
+      "id": "ef37320a69abac7a",
+      "item": {
+        "type": "paragraph",
+        "id": "ef37320a69abac7a",
+        "text": "A model of [[Personal Knowledge Management]]"
+      },
+      "date": 1587469868625
+    },
+    {
+      "id": "ef37320a69abac7a",
+      "type": "move",
+      "order": [
+        "ef37320a69abac7a",
+        "904a0c3fe232eb21",
+        "d7f788a16329ab42",
+        "e0fb60aa0cb302e3",
+        "86266fa548b03c71"
+      ],
+      "date": 1587469872316
+    },
+    {
+      "type": "edit",
+      "id": "86266fa548b03c71",
+      "item": {
+        "type": "markdown",
+        "id": "86266fa548b03c71",
+        "text": ">Simple standards facilitated with\n>a light touch, enables knowledge\n>workers to capture, interpret, \n>and share their knowledge.\n\n[[Harold Jarche]] 2014 [http://jarche.com/2014/02/the-seek-sense-share-framework/ blog]"
+      },
+      "date": 1587469881145
     }
   ]
 }
