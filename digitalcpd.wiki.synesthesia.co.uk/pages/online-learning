@@ -9,7 +9,7 @@
     {
       "type": "paragraph",
       "id": "4da6433e4605cab1",
-      "text": "[[The 10 Principles of "
+      "text": "- [[The 10 Fundamentals of Teaching Online]]"
     }
   ],
   "journal": [
@@ -80,6 +80,26 @@
       },
       "after": "cd26ac22fcc93b13",
       "date": 1587473697592
+    },
+    {
+      "type": "edit",
+      "id": "4da6433e4605cab1",
+      "item": {
+        "type": "paragraph",
+        "id": "4da6433e4605cab1",
+        "text": "[[The 10 Fundamentals of Teaching Online]]"
+      },
+      "date": 1587473731109
+    },
+    {
+      "type": "edit",
+      "id": "4da6433e4605cab1",
+      "item": {
+        "type": "paragraph",
+        "id": "4da6433e4605cab1",
+        "text": "- [[The 10 Fundamentals of Teaching Online]]"
+      },
+      "date": 1587473737956
     }
   ]
 }

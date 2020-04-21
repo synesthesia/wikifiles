@@ -10,6 +10,11 @@
       "type": "paragraph",
       "id": "bf9cc0d0d9daae17",
       "text": "[[Tony Bates]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2cc54086649acb5e",
+      "text": "The Continuum of Online Learning - from classroom aids to fully online (distance learning)."
     }
   ],
   "journal": [
@@ -59,6 +64,36 @@
         "text": "[[Tony Bates]]"
       },
       "date": 1587473332052
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2cc54086649acb5e"
+      },
+      "id": "2cc54086649acb5e",
+      "type": "add",
+      "after": "bf9cc0d0d9daae17",
+      "date": 1587473818241
+    },
+    {
+      "type": "edit",
+      "id": "2cc54086649acb5e",
+      "item": {
+        "type": "paragraph",
+        "id": "2cc54086649acb5e",
+        "text": "The Continuum of Online Learning - "
+      },
+      "date": 1587473828834
+    },
+    {
+      "type": "edit",
+      "id": "2cc54086649acb5e",
+      "item": {
+        "type": "paragraph",
+        "id": "2cc54086649acb5e",
+        "text": "The Continuum of Online Learning - from classroom aids to fully online (distance learning)."
+      },
+      "date": 1587473876376
     }
   ]
 }

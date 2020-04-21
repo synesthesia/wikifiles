@@ -5,6 +5,14 @@
       "type": "paragraph",
       "id": "9a91be10755b090a",
       "text": "The delivery of [[Online Learning]] aimed at improving work-related / professional  skills and knowledge."
+    },
+    {
+      "type": "reference",
+      "id": "70978906c5768998",
+      "site": "digitalcpd.wiki.synesthesia.co.uk",
+      "slug": "online-learning",
+      "title": "Online Learning",
+      "text": "Online Learning is any form of learning conducted partly or wholly over the internet"
     }
   ],
   "journal": [
@@ -34,6 +42,29 @@
         "text": "The delivery of [[Online Learning]] aimed at improving work-related / professional  skills and knowledge."
       },
       "date": 1587473604830
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "70978906c5768998"
+      },
+      "id": "70978906c5768998",
+      "type": "add",
+      "after": "9a91be10755b090a",
+      "date": 1587473750351
+    },
+    {
+      "type": "edit",
+      "id": "70978906c5768998",
+      "item": {
+        "type": "reference",
+        "id": "70978906c5768998",
+        "site": "digitalcpd.wiki.synesthesia.co.uk",
+        "slug": "online-learning",
+        "title": "Online Learning",
+        "text": "Online Learning is any form of learning conducted partly or wholly over the internet"
+      },
+      "date": 1587473759921
     }
   ]
 }
