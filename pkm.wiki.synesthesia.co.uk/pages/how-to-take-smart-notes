@@ -1,0 +1,94 @@
+{
+  "title": "How to Take Smart Notes",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c3dc2adf680ac1ec",
+      "text": "Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing,  Learning and Thinking – for Students, Academics and Nonfiction Book Writers (p. 2). "
+    },
+    {
+      "type": "paragraph",
+      "id": "80f0571871a103a6",
+      "text": "See also [https://takesmartnotes.com/ site]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "How to Take Smart Notes",
+        "story": []
+      },
+      "date": 1587463360383
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c3dc2adf680ac1ec"
+      },
+      "id": "c3dc2adf680ac1ec",
+      "type": "add",
+      "date": 1587463362117
+    },
+    {
+      "type": "edit",
+      "id": "c3dc2adf680ac1ec",
+      "item": {
+        "type": "paragraph",
+        "id": "c3dc2adf680ac1ec",
+        "text": "Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing,  Learning and Thinking – for Students, Academics and Nonfiction Book Writers (p. 2). UNKNOWN. Kindle Edition. "
+      },
+      "date": 1587463371805
+    },
+    {
+      "type": "edit",
+      "id": "c3dc2adf680ac1ec",
+      "item": {
+        "type": "paragraph",
+        "id": "c3dc2adf680ac1ec",
+        "text": "Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing,  Learning and Thinking – for Students, Academics and Nonfiction Book Writers (p. 2). "
+      },
+      "date": 1587463449187
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "80f0571871a103a6"
+      },
+      "id": "80f0571871a103a6",
+      "type": "add",
+      "after": "c3dc2adf680ac1ec",
+      "date": 1587463456177
+    },
+    {
+      "type": "edit",
+      "id": "80f0571871a103a6",
+      "item": {
+        "type": "paragraph",
+        "id": "80f0571871a103a6",
+        "text": "See also https://takesmartnotes.com/"
+      },
+      "date": 1587463464430
+    },
+    {
+      "type": "edit",
+      "id": "80f0571871a103a6",
+      "item": {
+        "type": "paragraph",
+        "id": "80f0571871a103a6",
+        "text": "See also [https://takesmartnotes.com/]"
+      },
+      "date": 1587463471404
+    },
+    {
+      "type": "edit",
+      "id": "80f0571871a103a6",
+      "item": {
+        "type": "paragraph",
+        "id": "80f0571871a103a6",
+        "text": "See also [https://takesmartnotes.com/ site]"
+      },
+      "date": 1587463479509
+    }
+  ]
+}

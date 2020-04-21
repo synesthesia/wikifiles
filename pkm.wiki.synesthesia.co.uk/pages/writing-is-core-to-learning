@@ -1,0 +1,63 @@
+{
+  "title": "Writing Is Core To Learning",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "c7dfb8214ddfb2cd",
+      "text": ">Writing is not what follows research, learning or studying, it is the medium of all this work.\n\nSource: [[How to Take Smart Notes]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Writing Is Core To Learning",
+        "story": []
+      },
+      "date": 1587463288452
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dce26aa9184a37e6"
+      },
+      "id": "dce26aa9184a37e6",
+      "type": "add",
+      "date": 1587463290295
+    },
+    {
+      "type": "remove",
+      "id": "dce26aa9184a37e6",
+      "date": 1587463294259
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c7dfb8214ddfb2cd"
+      },
+      "id": "c7dfb8214ddfb2cd",
+      "type": "add",
+      "date": 1587463295486
+    },
+    {
+      "type": "edit",
+      "id": "c7dfb8214ddfb2cd",
+      "item": {
+        "type": "markdown",
+        "id": "c7dfb8214ddfb2cd",
+        "text": ".."
+      },
+      "date": 1587463299744
+    },
+    {
+      "type": "edit",
+      "id": "c7dfb8214ddfb2cd",
+      "item": {
+        "type": "markdown",
+        "id": "c7dfb8214ddfb2cd",
+        "text": ">Writing is not what follows research, learning or studying, it is the medium of all this work.\n\nSource: [[How to Take Smart Notes]]"
+      },
+      "date": 1587463341085
+    }
+  ]
+}
