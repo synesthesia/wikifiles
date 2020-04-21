@@ -12,15 +12,9 @@
       "text": "Pages about us."
     },
     {
-      "type": "paragraph",
-      "id": "05e2fa92643677ca",
-      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
-      "text": "My other federated wiki sites - click the >> to add to the search neighbourhood"
-    },
-    {
-      "type": "roster",
-      "id": "095a1b7da5433377",
-      "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors"
+      "type": "factory",
+      "id": "63ad2e58eecdd9e5",
+      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below."
     },
     {
       "type": "paragraph",
@@ -28,9 +22,19 @@
       "text": "Pages where we do and share."
     },
     {
+      "type": "factory",
+      "id": "05e2fa92643677ca",
+      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+    },
+    {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    },
+    {
+      "type": "roster",
+      "id": "d48444388b40b368",
+      "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors"
     }
   ],
   "journal": [
@@ -108,92 +112,24 @@
       "date": 1420938220851
     },
     {
-      "type": "remove",
-      "id": "63ad2e58eecdd9e5",
-      "date": 1587456213552
-    },
-    {
       "item": {
         "type": "factory",
-        "id": "095a1b7da5433377"
+        "id": "d48444388b40b368"
       },
-      "id": "095a1b7da5433377",
+      "id": "d48444388b40b368",
       "type": "add",
       "after": "ee416d431ebf4fb4",
-      "date": 1587456215529
+      "date": 1587456568696
     },
     {
       "type": "edit",
-      "id": "095a1b7da5433377",
+      "id": "d48444388b40b368",
       "item": {
         "type": "roster",
-        "id": "095a1b7da5433377",
+        "id": "d48444388b40b368",
         "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors"
       },
-      "date": 1587456219864
-    },
-    {
-      "id": "095a1b7da5433377",
-      "type": "move",
-      "order": [
-        "7b56f22a4b9ee974",
-        "821827c99b90cfd1",
-        "095a1b7da5433377",
-        "2bbd646ff3f44b51",
-        "05e2fa92643677ca",
-        "ee416d431ebf4fb4"
-      ],
-      "date": 1587456224434
-    },
-    {
-      "id": "095a1b7da5433377",
-      "type": "move",
-      "order": [
-        "7b56f22a4b9ee974",
-        "821827c99b90cfd1",
-        "2bbd646ff3f44b51",
-        "095a1b7da5433377",
-        "05e2fa92643677ca",
-        "ee416d431ebf4fb4"
-      ],
-      "date": 1587456227813
-    },
-    {
-      "id": "2bbd646ff3f44b51",
-      "type": "move",
-      "order": [
-        "7b56f22a4b9ee974",
-        "821827c99b90cfd1",
-        "095a1b7da5433377",
-        "2bbd646ff3f44b51",
-        "05e2fa92643677ca",
-        "ee416d431ebf4fb4"
-      ],
-      "date": 1587456233207
-    },
-    {
-      "type": "edit",
-      "id": "05e2fa92643677ca",
-      "item": {
-        "type": "paragraph",
-        "id": "05e2fa92643677ca",
-        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
-        "text": "My other federated wiki sites - click the >> to add to the search neighbourhood"
-      },
-      "date": 1587456263196
-    },
-    {
-      "id": "05e2fa92643677ca",
-      "type": "move",
-      "order": [
-        "7b56f22a4b9ee974",
-        "821827c99b90cfd1",
-        "05e2fa92643677ca",
-        "095a1b7da5433377",
-        "2bbd646ff3f44b51",
-        "ee416d431ebf4fb4"
-      ],
-      "date": 1587456267914
+      "date": 1587456572697
     }
   ]
 }
