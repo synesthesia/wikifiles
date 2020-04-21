@@ -12,8 +12,9 @@
       "text": "[[Blended Learning]] incorporates multiple modes of teaching, including online resources, online activities and face-to-face teaching."
     },
     {
-      "type": "factory",
-      "id": "443d0bf6da33427f"
+      "type": "paragraph",
+      "id": "443d0bf6da33427f",
+      "text": "The [[Flipped Classroom]] approach engages students with online preparation activities before face-to-face learning takes place."
     }
   ],
   "journal": [
@@ -73,6 +74,36 @@
       "type": "add",
       "after": "004946e1741f283f",
       "date": 1587474593764
+    },
+    {
+      "type": "edit",
+      "id": "443d0bf6da33427f",
+      "item": {
+        "type": "paragraph",
+        "id": "443d0bf6da33427f",
+        "text": "[[Flipped Learning]] engages students with online activities before face-to-face learning takes place."
+      },
+      "date": 1587474664361
+    },
+    {
+      "type": "edit",
+      "id": "443d0bf6da33427f",
+      "item": {
+        "type": "paragraph",
+        "id": "443d0bf6da33427f",
+        "text": "The [[Flipped Classroom]] approach engages students with online activities before face-to-face learning takes place."
+      },
+      "date": 1587474698314
+    },
+    {
+      "type": "edit",
+      "id": "443d0bf6da33427f",
+      "item": {
+        "type": "paragraph",
+        "id": "443d0bf6da33427f",
+        "text": "The [[Flipped Classroom]] approach engages students with online preparation activities before face-to-face learning takes place."
+      },
+      "date": 1587474711272
     }
   ]
 }

@@ -29,22 +29,7 @@
     {
       "type": "paragraph",
       "id": "903c0a7f34744b9e",
-      "text": "I also have a couple of subject-specific areas:"
-    },
-    {
-      "type": "paragraph",
-      "id": "0328c7ca9941cd51",
-      "text": "[https://pkm.wiki.synesthesia.co.uk Personal Knowledge Management]"
-    },
-    {
-      "type": "paragraph",
-      "id": "e6f9f58b25d02c1d",
-      "text": "[https://code.wiki.synesthesia.co.uk Code Notes]"
-    },
-    {
-      "type": "paragraph",
-      "id": "caeafe4b294d6287",
-      "text": "[https://product.wiki.synesthesia.co.uk Product Strategy Notes]"
+      "text": "To find content across my [[Federated Wiki]] sites explore the neighborhood below. [[Recent Changes]] and [[Recent Farm Activity]] may also be of interest."
     },
     {
       "type": "roster",
@@ -1314,6 +1299,51 @@
         "text": "Julian Elve\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\nproduct.wiki.synesthesia.co.uk\ndataviz.wiki.synesthesia.co.uk\ndigitalcpd.wiki.synesthesia.co.uk\nsynesthesia.fed.wiki.org\n\n"
       },
       "date": 1587464487040
+    },
+    {
+      "type": "edit",
+      "id": "903c0a7f34744b9e",
+      "item": {
+        "type": "paragraph",
+        "id": "903c0a7f34744b9e",
+        "text": "To find content across my [[Federated Wiki]] sites explore the neighborhood below."
+      },
+      "date": 1587474827547
+    },
+    {
+      "type": "remove",
+      "id": "caeafe4b294d6287",
+      "date": 1587474834260
+    },
+    {
+      "type": "remove",
+      "id": "e6f9f58b25d02c1d",
+      "date": 1587474837260
+    },
+    {
+      "type": "remove",
+      "id": "0328c7ca9941cd51",
+      "date": 1587474839495
+    },
+    {
+      "type": "edit",
+      "id": "903c0a7f34744b9e",
+      "item": {
+        "type": "paragraph",
+        "id": "903c0a7f34744b9e",
+        "text": "To find content across my [[Federated Wiki]] sites explore the neighborhood below. [[Recent Changes]] and [[Recent farm Activity]] may also be of interest."
+      },
+      "date": 1587474868714
+    },
+    {
+      "type": "edit",
+      "id": "903c0a7f34744b9e",
+      "item": {
+        "type": "paragraph",
+        "id": "903c0a7f34744b9e",
+        "text": "To find content across my [[Federated Wiki]] sites explore the neighborhood below. [[Recent Changes]] and [[Recent Farm Activity]] may also be of interest."
+      },
+      "date": 1587474876011
     }
   ]
 }
