@@ -12,10 +12,6 @@
       "text": "Christian Tietze\n"
     },
     {
-      "type": "factory",
-      "id": "ed57ab000da9fe9d"
-    },
-    {
       "type": "markdown",
       "id": "92933941f61259a1",
       "text": ">There’s a tendency in all of us to gather useful stuff and feel good about it. To collect is a reward in itself. As knowledge workers, we’re inclined to look for the next groundbreaking thought, for intellectual stimulation: we pile up promising books and articles, and we store half the internet as bookmarks, just so we get the feeling of being on the cutting edge.\n\n>Preparing reading material alone doesn’t get you anywhere. \n\n>If we read without taking notes, our knowledge increases for a short time only. Once we forget what we knew, having read the text becomes worthless\n\n\n[https://zettelkasten.de/posts/collectors-fallacy/ blog]"
@@ -159,6 +155,11 @@
         "92933941f61259a1"
       ],
       "date": 1587454272586
+    },
+    {
+      "type": "remove",
+      "id": "ed57ab000da9fe9d",
+      "date": 1587454843278
     }
   ]
 }
