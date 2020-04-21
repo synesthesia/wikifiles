@@ -12,12 +12,6 @@
       "text": "This site is operated by [[Julian Elve]]"
     },
     {
-      "type": "paragraph",
-      "id": "63ad2e58eecdd9e5",
-      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
-      "text": "My other federated wiki sites - click the >> to add to the search neighbourhood"
-    },
-    {
       "type": "roster",
       "id": "d48444388b40b368",
       "text": "ROSTER wiki.synesthesia.co.uk/welcome-visitors"
@@ -37,6 +31,10 @@
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    },
+    {
+      "type": "factory",
+      "id": "52daea57feb87549"
     }
   ],
   "journal": [
@@ -196,8 +194,19 @@
       "date": 1587456774455
     },
     {
-      "type": "fork",
-      "date": 1587456811406
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1587456791181
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "52daea57feb87549"
+      },
+      "id": "52daea57feb87549",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1587456798773
     }
   ]
 }
