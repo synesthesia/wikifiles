@@ -14,12 +14,12 @@
     {
       "type": "paragraph",
       "id": "b8b29e7c0c84cfb2",
-      "text": "Retaining knowledge implies building upl inks with existing "
+      "text": "Retaining knowledge implies [[making meaning]] and linking the new with existing knowledge."
     },
     {
       "type": "paragraph",
       "id": "00e22b61b65ef6c3",
-      "text": "[[Knowledge work should accrete]] which implies [[evergreen notes]] that evolve over time."
+      "text": "Our goal is that the investment in [[knowledge work should accrete]] which implies [[evergreen notes]] that evolve over time."
     }
   ],
   "journal": [
@@ -161,6 +161,36 @@
       },
       "after": "18f9d5fbe109d8c9",
       "date": 1587471252625
+    },
+    {
+      "type": "edit",
+      "id": "b8b29e7c0c84cfb2",
+      "item": {
+        "type": "paragraph",
+        "id": "b8b29e7c0c84cfb2",
+        "text": "Retaining knowledge implies [[making meaning]] and linking the new with existing knolwedge."
+      },
+      "date": 1587471314684
+    },
+    {
+      "type": "edit",
+      "id": "b8b29e7c0c84cfb2",
+      "item": {
+        "type": "paragraph",
+        "id": "b8b29e7c0c84cfb2",
+        "text": "Retaining knowledge implies [[making meaning]] and linking the new with existing knowledge."
+      },
+      "date": 1587471321100
+    },
+    {
+      "type": "edit",
+      "id": "00e22b61b65ef6c3",
+      "item": {
+        "type": "paragraph",
+        "id": "00e22b61b65ef6c3",
+        "text": "Our goal is that the investment in [[knowledge work should accrete]] which implies [[evergreen notes]] that evolve over time."
+      },
+      "date": 1587471342571
     }
   ]
 }
