@@ -20,6 +20,16 @@
       "type": "paragraph",
       "id": "923fd70a9f21dcc7",
       "text": "[https://notes.andymatuschak.org/Knowledge%20work%20should%20accrete note]"
+    },
+    {
+      "type": "pagefold",
+      "id": "4fc9972b95282690",
+      "text": "Ahrens"
+    },
+    {
+      "type": "markdown",
+      "id": "db50a6f5e3c12274",
+      "text": "But most importantly, without a permanent reservoir of ideas, you will not be able to develop any major ideas over a longer period of time because you are restricting yourself either to the length of a single project or the capacity of your memory. Exceptional ideas need much more than that.\nSee [["
     }
   ],
   "journal": [
@@ -169,6 +179,46 @@
       "type": "fork",
       "site": "forage.wiki.synesthesia.co.uk",
       "date": 1586269199846
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4fc9972b95282690"
+      },
+      "id": "4fc9972b95282690",
+      "type": "add",
+      "after": "923fd70a9f21dcc7",
+      "date": 1587464666306
+    },
+    {
+      "type": "edit",
+      "id": "4fc9972b95282690",
+      "item": {
+        "type": "pagefold",
+        "id": "4fc9972b95282690",
+        "text": "Ahrens"
+      },
+      "date": 1587464681166
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "db50a6f5e3c12274"
+      },
+      "id": "db50a6f5e3c12274",
+      "type": "add",
+      "after": "4fc9972b95282690",
+      "date": 1587464682965
+    },
+    {
+      "type": "edit",
+      "id": "db50a6f5e3c12274",
+      "item": {
+        "type": "markdown",
+        "id": "db50a6f5e3c12274",
+        "text": "But most importantly, without a permanent reservoir of ideas, you will not be able to develop any major ideas over a longer period of time because you are restricting yourself either to the length of a single project or the capacity of your memory. Exceptional ideas need much more than that.\nSee [["
+      },
+      "date": 1587464695206
     }
   ]
 }

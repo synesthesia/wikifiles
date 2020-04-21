@@ -27,11 +27,6 @@
       "type": "paragraph",
       "id": "1165719e648f7541",
       "text": "[https://www.linkedin.com/in/julianelve LinkedIn]"
-    },
-    {
-      "type": "paragraph",
-      "id": "556e6fa2dae81df3",
-      "text": "[http://fedwiki.ssatuk.co.uk Experimental FedWiki farm at work] (including [http://je.fedwiki.ssatuk.co.uk my page] - very boring!)"
     }
   ],
   "journal": [
@@ -168,13 +163,19 @@
       "date": 1454421038693
     },
     {
-      "type": "fork",
-      "site": "wiki.synesthesia.co.uk",
-      "date": 1454427618439
+      "type": "remove",
+      "id": "556e6fa2dae81df3",
+      "date": 1522061747740
     },
     {
       "type": "fork",
-      "date": 1587464619987
+      "site": "wiki.synesthesia.co.uk",
+      "date": 1522768364157
+    },
+    {
+      "type": "fork",
+      "site": "pkm.wiki.synesthesia.co.uk",
+      "date": 1587464587126
     }
   ]
 }
