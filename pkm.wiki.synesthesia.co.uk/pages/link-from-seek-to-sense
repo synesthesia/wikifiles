@@ -5,6 +5,10 @@
       "type": "paragraph",
       "id": "31b0dfbdb93b0242",
       "text": "Seeking without Sense-making is an example of the [[Collectors Fallacy]]"
+    },
+    {
+      "type": "factory",
+      "id": "18f9d5fbe109d8c9"
     }
   ],
   "journal": [
@@ -44,6 +48,16 @@
         "text": "Seeking without Sense-making is an example of the [[Collectors Fallacy]]"
       },
       "date": 1587453883608
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "18f9d5fbe109d8c9"
+      },
+      "id": "18f9d5fbe109d8c9",
+      "type": "add",
+      "after": "31b0dfbdb93b0242",
+      "date": 1587463195865
     }
   ]
 }
