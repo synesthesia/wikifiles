@@ -1,0 +1,78 @@
+{
+  "title": "There Is No Single Form Of Online Learning",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2a5334d55a98eed1",
+      "text": "Given a broad definition of [[Online Learning]] there is no single form of the approach."
+    },
+    {
+      "type": "paragraph",
+      "id": "004946e1741f283f",
+      "text": "[[Blended Learning]] incorporates multiple modes of teaching, including online resources, online activities and face-to-face teaching."
+    },
+    {
+      "type": "factory",
+      "id": "443d0bf6da33427f"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "There Is No Single Form Of Online Learning",
+        "story": []
+      },
+      "date": 1587474503838
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a5334d55a98eed1"
+      },
+      "id": "2a5334d55a98eed1",
+      "type": "add",
+      "date": 1587474505481
+    },
+    {
+      "type": "edit",
+      "id": "2a5334d55a98eed1",
+      "item": {
+        "type": "paragraph",
+        "id": "2a5334d55a98eed1",
+        "text": "Given a broad definition of [[Online Learning]] there is no single form of the approach."
+      },
+      "date": 1587474540858
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "004946e1741f283f"
+      },
+      "id": "004946e1741f283f",
+      "type": "add",
+      "after": "2a5334d55a98eed1",
+      "date": 1587474543532
+    },
+    {
+      "type": "edit",
+      "id": "004946e1741f283f",
+      "item": {
+        "type": "paragraph",
+        "id": "004946e1741f283f",
+        "text": "[[Blended Learning]] incorporates multiple modes of teaching, including online resources, online activities and face-to-face teaching."
+      },
+      "date": 1587474588699
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "443d0bf6da33427f"
+      },
+      "id": "443d0bf6da33427f",
+      "type": "add",
+      "after": "004946e1741f283f",
+      "date": 1587474593764
+    }
+  ]
+}

@@ -15,6 +15,11 @@
       "type": "paragraph",
       "id": "2cc54086649acb5e",
       "text": "The Continuum of Online Learning - from classroom aids to fully online (distance learning)."
+    },
+    {
+      "type": "paragraph",
+      "id": "892445c5a03764ed",
+      "text": "TODO - finish going through the source"
     }
   ],
   "journal": [
@@ -94,6 +99,26 @@
         "text": "The Continuum of Online Learning - from classroom aids to fully online (distance learning)."
       },
       "date": 1587473876376
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "892445c5a03764ed"
+      },
+      "id": "892445c5a03764ed",
+      "type": "add",
+      "after": "2cc54086649acb5e",
+      "date": 1587474365025
+    },
+    {
+      "type": "edit",
+      "id": "892445c5a03764ed",
+      "item": {
+        "type": "paragraph",
+        "id": "892445c5a03764ed",
+        "text": "TODO - finish going through the source"
+      },
+      "date": 1587474385751
     }
   ]
 }

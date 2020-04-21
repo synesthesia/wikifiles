@@ -4,12 +4,12 @@
     {
       "type": "paragraph",
       "id": "cd26ac22fcc93b13",
-      "text": "Online Learning is any form of learning conducted partly or wholly over the internet"
+      "text": "Online Learning is any form of learning conducted partly or wholly over the internet - [[The 10 Fundamentals of Teaching Online]]"
     },
     {
       "type": "paragraph",
-      "id": "4da6433e4605cab1",
-      "text": "- [[The 10 Fundamentals of Teaching Online]]"
+      "id": "330327ff31cd326e",
+      "text": "[[There Is No Single Form Of Online Learning]]"
     }
   ],
   "journal": [
@@ -100,6 +100,42 @@
         "text": "- [[The 10 Fundamentals of Teaching Online]]"
       },
       "date": 1587473737956
+    },
+    {
+      "type": "add",
+      "id": "330327ff31cd326e",
+      "item": {
+        "type": "paragraph",
+        "id": "330327ff31cd326e",
+        "text": "[[There Is No Single Form Of Online Learning]]"
+      },
+      "after": "cd26ac22fcc93b13",
+      "date": 1587474477419
+    },
+    {
+      "id": "4da6433e4605cab1",
+      "type": "move",
+      "order": [
+        "cd26ac22fcc93b13",
+        "4da6433e4605cab1",
+        "330327ff31cd326e"
+      ],
+      "date": 1587474483804
+    },
+    {
+      "type": "remove",
+      "id": "4da6433e4605cab1",
+      "date": 1587474487651
+    },
+    {
+      "type": "edit",
+      "id": "cd26ac22fcc93b13",
+      "item": {
+        "type": "paragraph",
+        "id": "cd26ac22fcc93b13",
+        "text": "Online Learning is any form of learning conducted partly or wholly over the internet - [[The 10 Fundamentals of Teaching Online]]"
+      },
+      "date": 1587474491335
     }
   ]
 }

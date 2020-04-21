@@ -25,7 +25,7 @@
     {
       "type": "paragraph",
       "id": "2bbd646ff3f44b51",
-      "text": "THIs site is where I explore concepts related to [[Digital CPD]]"
+      "text": "This site is where I explore concepts related to [[Digital CPD]]"
     },
     {
       "type": "paragraph",
@@ -178,6 +178,16 @@
         "text": "THIs site is where I explore concepts related to [[Digital CPD]]"
       },
       "date": 1587473544692
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "This site is where I explore concepts related to [[Digital CPD]]"
+      },
+      "date": 1587474444020
     }
   ]
 }
