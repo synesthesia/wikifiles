@@ -9,7 +9,12 @@
     {
       "type": "paragraph",
       "id": "18f9d5fbe109d8c9",
-      "text": "[[Writing is core to Learning]] but writing without system has limited value. "
+      "text": "[[Writing is core to learning]] but writing without system has limited value. "
+    },
+    {
+      "type": "paragraph",
+      "id": "b8b29e7c0c84cfb2",
+      "text": "Retaining knowledge implies building upl inks with existing "
     },
     {
       "type": "paragraph",
@@ -135,6 +140,27 @@
       },
       "after": "18f9d5fbe109d8c9",
       "date": 1587464064648
+    },
+    {
+      "type": "edit",
+      "id": "18f9d5fbe109d8c9",
+      "item": {
+        "type": "paragraph",
+        "id": "18f9d5fbe109d8c9",
+        "text": "[[Writing is core to learning]] but writing without system has limited value. "
+      },
+      "date": 1587471226177
+    },
+    {
+      "type": "add",
+      "id": "b8b29e7c0c84cfb2",
+      "item": {
+        "type": "paragraph",
+        "id": "b8b29e7c0c84cfb2",
+        "text": "Retaining knowledge implies building upl inks with existing "
+      },
+      "after": "18f9d5fbe109d8c9",
+      "date": 1587471252625
     }
   ]
 }

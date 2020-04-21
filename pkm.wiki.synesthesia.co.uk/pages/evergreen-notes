@@ -4,7 +4,7 @@
     {
       "type": "markdown",
       "id": "0384d43236fdfbbb",
-      "text": "Persistent notes that capture concepts as they make sense to the author."
+      "text": "Persistent notes that capture concepts as they make sense to the author. We aim for a note to express clearly the essence of a concept."
     },
     {
       "type": "markdown",
@@ -316,6 +316,16 @@
         "text": "[[Evergreen Notes Should Be Densely Linked]]"
       },
       "date": 1587470803976
+    },
+    {
+      "type": "edit",
+      "id": "0384d43236fdfbbb",
+      "item": {
+        "type": "markdown",
+        "id": "0384d43236fdfbbb",
+        "text": "Persistent notes that capture concepts as they make sense to the author. We aim for a note to express clearly the essence of a concept."
+      },
+      "date": 1587471023954
     }
   ]
 }
