@@ -14,7 +14,7 @@
     {
       "type": "paragraph",
       "id": "b8b29e7c0c84cfb2",
-      "text": "Retaining knowledge implies [[making meaning]] and linking the new with existing knowledge."
+      "text": "We seek to retain grow knowledge which implies that we must invest effort in [[making meaning]] and linking the new with existing knowledge."
     },
     {
       "type": "paragraph",
@@ -191,6 +191,16 @@
         "text": "Our goal is that the investment in [[knowledge work should accrete]] which implies [[evergreen notes]] that evolve over time."
       },
       "date": 1587471342571
+    },
+    {
+      "type": "edit",
+      "id": "b8b29e7c0c84cfb2",
+      "item": {
+        "type": "paragraph",
+        "id": "b8b29e7c0c84cfb2",
+        "text": "We seek to retain grow knowledge which implies that we must invest effort in [[making meaning]] and linking the new with existing knowledge."
+      },
+      "date": 1587471691942
     }
   ]
 }
