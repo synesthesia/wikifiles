@@ -1,0 +1,64 @@
+{
+  "title": "Bibliographic Notes",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "031e5cfb04e68dd4",
+      "text": "Links to key sources"
+    },
+    {
+      "type": "paragraph",
+      "id": "91f6709d443a7a22",
+      "text": "[[The 10 Fundamentals of Teaching Online]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Bibliographic Notes",
+        "story": []
+      },
+      "date": 1587473202875
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "031e5cfb04e68dd4"
+      },
+      "id": "031e5cfb04e68dd4",
+      "type": "add",
+      "date": 1587473206359
+    },
+    {
+      "type": "edit",
+      "id": "031e5cfb04e68dd4",
+      "item": {
+        "type": "paragraph",
+        "id": "031e5cfb04e68dd4",
+        "text": "Links to key sources"
+      },
+      "date": 1587473212781
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "91f6709d443a7a22"
+      },
+      "id": "91f6709d443a7a22",
+      "type": "add",
+      "after": "031e5cfb04e68dd4",
+      "date": 1587473231719
+    },
+    {
+      "type": "edit",
+      "id": "91f6709d443a7a22",
+      "item": {
+        "type": "paragraph",
+        "id": "91f6709d443a7a22",
+        "text": "[[The 10 Fundamentals of Teaching Online]]"
+      },
+      "date": 1587473240962
+    }
+  ]
+}

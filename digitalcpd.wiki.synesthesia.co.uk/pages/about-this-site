@@ -1,0 +1,64 @@
+{
+  "title": "About This Site",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fc4cf46b5c8efd61",
+      "text": "This site is where I explore thoughts about the successful delivery of online work-related learning to adults - i.e. Digital CPD."
+    },
+    {
+      "type": "paragraph",
+      "id": "bf7cecb3a9a6a5da",
+      "text": "[[Bibliographic Notes]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "About This Site",
+        "story": []
+      },
+      "date": 1587473136919
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fc4cf46b5c8efd61"
+      },
+      "id": "fc4cf46b5c8efd61",
+      "type": "add",
+      "date": 1587473139745
+    },
+    {
+      "type": "edit",
+      "id": "fc4cf46b5c8efd61",
+      "item": {
+        "type": "paragraph",
+        "id": "fc4cf46b5c8efd61",
+        "text": "This site is where I explore thoughts about the successful delivery of online work-related learning to adults - i.e. Digital CPD."
+      },
+      "date": 1587473180026
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bf7cecb3a9a6a5da"
+      },
+      "id": "bf7cecb3a9a6a5da",
+      "type": "add",
+      "after": "fc4cf46b5c8efd61",
+      "date": 1587473185978
+    },
+    {
+      "type": "edit",
+      "id": "bf7cecb3a9a6a5da",
+      "item": {
+        "type": "paragraph",
+        "id": "bf7cecb3a9a6a5da",
+        "text": "[[Bibliographic Notes]]"
+      },
+      "date": 1587473200088
+    }
+  ]
+}

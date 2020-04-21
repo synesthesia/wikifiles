@@ -1,0 +1,39 @@
+{
+  "title": "The 10 Fundamentals of Teaching Online",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9253fc5dd6c84e95",
+      "text": "[https://teachonline.ca/sites/default/files/pdfs/the_10_fundamentals_of_teaching_online_for_faculty_and_instructors_-_september_2016.pdf pdf]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The 10 Fundamentals of Teaching Online",
+        "story": []
+      },
+      "date": 1587473248689
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9253fc5dd6c84e95"
+      },
+      "id": "9253fc5dd6c84e95",
+      "type": "add",
+      "date": 1587473251372
+    },
+    {
+      "type": "edit",
+      "id": "9253fc5dd6c84e95",
+      "item": {
+        "type": "paragraph",
+        "id": "9253fc5dd6c84e95",
+        "text": "[https://teachonline.ca/sites/default/files/pdfs/the_10_fundamentals_of_teaching_online_for_faculty_and_instructors_-_september_2016.pdf pdf]"
+      },
+      "date": 1587473259250
+    }
+  ]
+}
