@@ -22,8 +22,9 @@
       "text": "<i>To find new knowledge</i> - [[Query Trusted Sources]]"
     },
     {
-      "type": "factory",
-      "id": "90c55d3e4104f3d1"
+      "type": "paragraph",
+      "id": "90c55d3e4104f3d1",
+      "text": "We find that a critical gap in our process is the [[Link From Seek to Sense]]."
     }
   ],
   "journal": [
@@ -239,6 +240,16 @@
         "text": "<i>To find new knowledge</i> - [[Query Trusted Sources]]"
       },
       "date": 1522747004263
+    },
+    {
+      "type": "edit",
+      "id": "90c55d3e4104f3d1",
+      "item": {
+        "type": "paragraph",
+        "id": "90c55d3e4104f3d1",
+        "text": "We find that a critical gap in our process is the [[Link From Seek to Sense]]."
+      },
+      "date": 1587453794357
     }
   ]
 }

@@ -1,0 +1,49 @@
+{
+  "title": "Link From Seek to Sense",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "31b0dfbdb93b0242",
+      "text": "Seeking without Sense-making is an example of the [[Collectors Fallacy]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Link From Seek to Sense",
+        "story": []
+      },
+      "date": 1587453816484
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "31b0dfbdb93b0242"
+      },
+      "id": "31b0dfbdb93b0242",
+      "type": "add",
+      "date": 1587453820719
+    },
+    {
+      "type": "edit",
+      "id": "31b0dfbdb93b0242",
+      "item": {
+        "type": "paragraph",
+        "id": "31b0dfbdb93b0242",
+        "text": "Seeking without Sense-making is "
+      },
+      "date": 1587453845892
+    },
+    {
+      "type": "edit",
+      "id": "31b0dfbdb93b0242",
+      "item": {
+        "type": "paragraph",
+        "id": "31b0dfbdb93b0242",
+        "text": "Seeking without Sense-making is an example of the [[Collectors Fallacy]]"
+      },
+      "date": 1587453883608
+    }
+  ]
+}

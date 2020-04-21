@@ -694,7 +694,7 @@
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/seek.html</loc>
-    <lastmod>2018-04-03</lastmod>
+    <lastmod>2020-04-21</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/seek-sense-share.html</loc>
@@ -911,5 +911,9 @@
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/zettelkasten-project.html</loc>
     <lastmod>2020-04-07</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/link-from-seek-to-sense.html</loc>
+    <lastmod>2020-04-21</lastmod>
   </url>
 </urlset>
