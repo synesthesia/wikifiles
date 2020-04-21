@@ -1,0 +1,108 @@
+{
+  "title": "Collectors Fallacy",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "a1c50ad56072fecf",
+      "text": "Christian Tietze\n"
+    },
+    {
+      "type": "factory",
+      "id": "ed57ab000da9fe9d"
+    },
+    {
+      "type": "markdown",
+      "id": "92933941f61259a1",
+      "text": ">There’s a tendency in all of us to gather useful stuff and feel good about it. To collect is a reward in itself. As knowledge workers, we’re inclined to look for the next groundbreaking thought, for intellectual stimulation: we pile up promising books and articles, and we store half the internet as bookmarks, just so we get the feeling of being on the cutting edge.\n\n>If we read without taking notes, our knowledge increases for a short time only. Once we forget what we knew, having read the text becomes worthless\n\n\n[https://zettelkasten.de/posts/collectors-fallacy/ blog]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Collectors Fallacy",
+        "story": []
+      },
+      "date": 1587453939298
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a1c50ad56072fecf"
+      },
+      "id": "a1c50ad56072fecf",
+      "type": "add",
+      "date": 1587453948867
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ed57ab000da9fe9d"
+      },
+      "id": "ed57ab000da9fe9d",
+      "type": "add",
+      "after": "a1c50ad56072fecf",
+      "date": 1587453956821
+    },
+    {
+      "type": "edit",
+      "id": "a1c50ad56072fecf",
+      "item": {
+        "type": "pagefold",
+        "id": "a1c50ad56072fecf",
+        "text": ".\n"
+      },
+      "date": 1587453971400
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "92933941f61259a1"
+      },
+      "id": "92933941f61259a1",
+      "type": "add",
+      "after": "ed57ab000da9fe9d",
+      "date": 1587453977768
+    },
+    {
+      "type": "edit",
+      "id": "92933941f61259a1",
+      "item": {
+        "type": "markdown",
+        "id": "92933941f61259a1",
+        "text": ">There’s a tendency in all of us to gather useful stuff and feel good about it. To collect is a reward in itself. As knowledge workers, we’re inclined to look for the next groundbreaking thought, for intellectual stimulation: we pile up promising books and articles, and we store half the internet as bookmarks, just so we get the feeling of being on the cutting edge.\n\n[https://zettelkasten.de/posts/collectors-fallacy/ blog]"
+      },
+      "date": 1587454022987
+    },
+    {
+      "type": "edit",
+      "id": "a1c50ad56072fecf",
+      "item": {
+        "type": "pagefold",
+        "id": "a1c50ad56072fecf",
+        "text": "Christian Tietze\n"
+      },
+      "date": 1587454066184
+    },
+    {
+      "type": "edit",
+      "id": "92933941f61259a1",
+      "item": {
+        "type": "markdown",
+        "id": "92933941f61259a1",
+        "text": ">There’s a tendency in all of us to gather useful stuff and feel good about it. To collect is a reward in itself. As knowledge workers, we’re inclined to look for the next groundbreaking thought, for intellectual stimulation: we pile up promising books and articles, and we store half the internet as bookmarks, just so we get the feeling of being on the cutting edge.\n>If we read without taking notes, our knowledge increases for a short time only. Once we forget what we knew, having read the text becomes worthless\n\n\n[https://zettelkasten.de/posts/collectors-fallacy/ blog]"
+      },
+      "date": 1587454149327
+    },
+    {
+      "type": "edit",
+      "id": "92933941f61259a1",
+      "item": {
+        "type": "markdown",
+        "id": "92933941f61259a1",
+        "text": ">There’s a tendency in all of us to gather useful stuff and feel good about it. To collect is a reward in itself. As knowledge workers, we’re inclined to look for the next groundbreaking thought, for intellectual stimulation: we pile up promising books and articles, and we store half the internet as bookmarks, just so we get the feeling of being on the cutting edge.\n\n>If we read without taking notes, our knowledge increases for a short time only. Once we forget what we knew, having read the text becomes worthless\n\n\n[https://zettelkasten.de/posts/collectors-fallacy/ blog]"
+      },
+      "date": 1587454153920
+    }
+  ]
+}
