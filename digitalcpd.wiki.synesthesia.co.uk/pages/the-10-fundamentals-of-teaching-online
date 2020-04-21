@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "9253fc5dd6c84e95",
       "text": "[https://teachonline.ca/sites/default/files/pdfs/the_10_fundamentals_of_teaching_online_for_faculty_and_instructors_-_september_2016.pdf pdf]"
+    },
+    {
+      "type": "paragraph",
+      "id": "bf9cc0d0d9daae17",
+      "text": "[[Tony Bates]]"
     }
   ],
   "journal": [
@@ -34,6 +39,26 @@
         "text": "[https://teachonline.ca/sites/default/files/pdfs/the_10_fundamentals_of_teaching_online_for_faculty_and_instructors_-_september_2016.pdf pdf]"
       },
       "date": 1587473259250
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bf9cc0d0d9daae17"
+      },
+      "id": "bf9cc0d0d9daae17",
+      "type": "add",
+      "after": "9253fc5dd6c84e95",
+      "date": 1587473312786
+    },
+    {
+      "type": "edit",
+      "id": "bf9cc0d0d9daae17",
+      "item": {
+        "type": "paragraph",
+        "id": "bf9cc0d0d9daae17",
+        "text": "[[Tony Bates]]"
+      },
+      "date": 1587473332052
     }
   ]
 }

@@ -1,0 +1,73 @@
+{
+  "title": "Tony Bates",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2528b072e00aa4d9",
+      "text": "Tony Bates is President and CEO of Tony Bates Associates Ltd, a private company specializing in consultancy and training in the planning and management of e-learning and distance education. He is also Distinguished Visiting Professor in the G. Raymond Chang School of Continuing Education, Ryerson University, Toronto and a Research Associate at Contact North, Ontario."
+    },
+    {
+      "type": "paragraph",
+      "id": "cfb6b1c35d1fdec0",
+      "text": "[https://www.tonybates.ca/ personal site]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Tony Bates",
+        "story": []
+      },
+      "date": 1587473335084
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cfb6b1c35d1fdec0"
+      },
+      "id": "cfb6b1c35d1fdec0",
+      "type": "add",
+      "date": 1587473336600
+    },
+    {
+      "type": "edit",
+      "id": "cfb6b1c35d1fdec0",
+      "item": {
+        "type": "paragraph",
+        "id": "cfb6b1c35d1fdec0",
+        "text": "[https://www.tonybates.ca/ personal site]"
+      },
+      "date": 1587473344046
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2528b072e00aa4d9"
+      },
+      "id": "2528b072e00aa4d9",
+      "type": "add",
+      "after": "cfb6b1c35d1fdec0",
+      "date": 1587473385058
+    },
+    {
+      "type": "edit",
+      "id": "2528b072e00aa4d9",
+      "item": {
+        "type": "paragraph",
+        "id": "2528b072e00aa4d9",
+        "text": "Tony Bates is President and CEO of Tony Bates Associates Ltd, a private company specializing in consultancy and training in the planning and management of e-learning and distance education. He is also Distinguished Visiting Professor in the G. Raymond Chang School of Continuing Education, Ryerson University, Toronto and a Research Associate at Contact North, Ontario."
+      },
+      "date": 1587473387516
+    },
+    {
+      "id": "cfb6b1c35d1fdec0",
+      "type": "move",
+      "order": [
+        "2528b072e00aa4d9",
+        "cfb6b1c35d1fdec0"
+      ],
+      "date": 1587473390143
+    }
+  ]
+}
