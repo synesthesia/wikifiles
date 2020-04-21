@@ -14,12 +14,7 @@
     {
       "type": "markdown",
       "id": "f0eee59f413ac693",
-      "text": "[https://notes.andymatuschak.org/Evergreen_notes note]"
-    },
-    {
-      "type": "markdown",
-      "id": "7b649b3455fab06d",
-      "text": "Cites [[Zettelkasten]] as a strong influence"
+      "text": "[https://notes.andymatuschak.org/Evergreen_notes note]\nCites [[Zettelkasten]] as a strong influence"
     }
   ],
   "journal": [
@@ -129,6 +124,21 @@
         "text": "Cites [[Zettelkasten]] as a strong influence"
       },
       "date": 1586250429437
+    },
+    {
+      "type": "remove",
+      "id": "7b649b3455fab06d",
+      "date": 1587464111320
+    },
+    {
+      "type": "edit",
+      "id": "f0eee59f413ac693",
+      "item": {
+        "type": "markdown",
+        "id": "f0eee59f413ac693",
+        "text": "[https://notes.andymatuschak.org/Evergreen_notes note]\nCites [[Zettelkasten]] as a strong influence"
+      },
+      "date": 1587464116322
     }
   ]
 }
