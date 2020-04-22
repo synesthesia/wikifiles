@@ -1,22 +1,22 @@
 {
-  "title": "Evergreen Notes Should be Concept-Based",
+  "title": "Permanent Notes Should be Concept-Based",
   "story": [
     {
       "type": "paragraph",
       "id": "ae0b0693fe7af1ff",
-      "text": "It is better to create Evergreen notes by concept than by other factors such as author or source."
+      "text": "It is better to create Permanent notes by concept than by other factors such as author or source."
     },
     {
       "type": "paragraph",
       "id": "3bb37a77b381d2e9",
-      "text": "This supports [[Evergreen Notes should be densely linked]]"
+      "text": "This supports [[Permanent Notes should be densely linked]]"
     }
   ],
   "journal": [
     {
       "type": "create",
       "item": {
-        "title": "Evergreen Notes Should be Concept-Based",
+        "title": "Permanent Notes Should be Concept-Based",
         "story": []
       },
       "date": 1587470548667

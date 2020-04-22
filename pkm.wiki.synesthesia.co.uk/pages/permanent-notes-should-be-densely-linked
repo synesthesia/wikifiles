@@ -1,5 +1,5 @@
 {
-  "title": "Evergreen Notes Should Be Densely Linked",
+  "title": "Permanent Notes Should Be Densely Linked",
   "story": [
     {
       "type": "paragraph",
@@ -11,7 +11,7 @@
     {
       "type": "create",
       "item": {
-        "title": "Evergreen Notes Should Be Densely Linked",
+        "title": "Permanent Notes Should Be Densely Linked",
         "story": []
       },
       "date": 1587470699307

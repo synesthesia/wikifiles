@@ -9,7 +9,7 @@
     {
       "type": "markdown",
       "id": "411992cdb9b47dfb",
-      "text": "[[Evergreen Notes Should Be Atomic]]"
+      "text": "[[Permanent Notes Should Be Atomic]]"
     },
     {
       "type": "paragraph",
@@ -326,6 +326,16 @@
         "text": "Persistent notes that capture concepts as they make sense to the author. We aim for a note to express clearly the essence of a concept."
       },
       "date": 1587471023954
+    },
+    {
+      "type": "edit",
+      "id": "411992cdb9b47dfb",
+      "item": {
+        "type": "markdown",
+        "id": "411992cdb9b47dfb",
+        "text": "[[Permanent Notes Should Be Atomic]]"
+      },
+      "date": 1587560673796
     }
   ]
 }
