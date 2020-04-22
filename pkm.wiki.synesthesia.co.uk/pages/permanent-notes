@@ -1,5 +1,5 @@
 {
-  "title": "Evergreen Notes",
+  "title": "Permanent Notes",
   "story": [
     {
       "type": "markdown",
@@ -29,14 +29,14 @@
     {
       "type": "markdown",
       "id": "11fae017edd030d6",
-      "text": ">Evergreen notes are written and organized to evolve, contribute, and accumulate over time, across projects.\n[https://notes.andymatuschak.org/Evergreen_notes note]"
+      "text": ">Permanent notes are written and organized to evolve, contribute, and accumulate over time, across projects.\n[https://notes.andymatuschak.org/Evergreen_notes note]"
     }
   ],
   "journal": [
     {
       "type": "create",
       "item": {
-        "title": "Evergreen Notes",
+        "title": "Permanent Notes",
         "story": []
       },
       "date": 1586250253834

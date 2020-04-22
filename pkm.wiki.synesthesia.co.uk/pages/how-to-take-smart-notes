@@ -4,7 +4,7 @@
     {
       "type": "markdown",
       "id": "20b09bd7821c1562",
-      "text": "*Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing,  Learning and Thinking – for Students, Academics and Nonfiction Book Writers (p. 2)*"
+      "text": "*Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking: For Students, Academics and Nonfiction Book Writers. North Charleston, SC: CreateSpace, 2017.*"
     },
     {
       "type": "paragraph",
@@ -15,10 +15,6 @@
       "type": "paragraph",
       "id": "d03559a9a6f47e3a",
       "text": "See also [https://takesmartnotes.com/ site]"
-    },
-    {
-      "type": "factory",
-      "id": "8beec8db66c9d05e"
     }
   ],
   "journal": [
@@ -246,6 +242,21 @@
       "type": "remove",
       "id": "e8111c2e952ccd30",
       "date": 1587464718314
+    },
+    {
+      "type": "edit",
+      "id": "20b09bd7821c1562",
+      "item": {
+        "type": "markdown",
+        "id": "20b09bd7821c1562",
+        "text": "*Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking: For Students, Academics and Nonfiction Book Writers. North Charleston, SC: CreateSpace, 2017.*"
+      },
+      "date": 1587559919890
+    },
+    {
+      "type": "remove",
+      "id": "8beec8db66c9d05e",
+      "date": 1587559926887
     }
   ]
 }
