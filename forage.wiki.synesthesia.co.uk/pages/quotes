@@ -15,6 +15,11 @@
       "type": "paragraph",
       "id": "03e9b9d6079c4944",
       "text": "[[Knowledge work should accrete]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ee059b411b62dcdc",
+      "text": "[[Dare to Know]]"
     }
   ],
   "journal": [
@@ -104,6 +109,26 @@
         "text": "[[Knowledge work should accrete]]"
       },
       "date": 1586264170410
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ee059b411b62dcdc"
+      },
+      "id": "ee059b411b62dcdc",
+      "type": "add",
+      "after": "03e9b9d6079c4944",
+      "date": 1587541661312
+    },
+    {
+      "type": "edit",
+      "id": "ee059b411b62dcdc",
+      "item": {
+        "type": "paragraph",
+        "id": "ee059b411b62dcdc",
+        "text": "[[Dare to Know]]"
+      },
+      "date": 1587541675371
     }
   ]
 }
