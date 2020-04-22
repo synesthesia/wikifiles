@@ -12,8 +12,14 @@
       "text": ">Nonage [immaturity] is the inability to use one’s own understanding without another’s guidance. This nonage is self-imposed if its cause lies not in lack of understanding but in indecision and lack of courage to use one’s own mind without another’s guidance. Dare to know! (*Sapere aude*) 'Have the courage to use your own understanding,' is therefore the motto of the Enlightenment.\n\n"
     },
     {
-      "type": "factory",
-      "id": "1c3ccf2591457bcc"
+      "type": "paragraph",
+      "id": "1c3ccf2591457bcc",
+      "text": "\"What is Enlightenment\" [https://en.wikipedia.org/wiki/Answering_the_Question:_What_Is_Enlightenment%3F wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "29f55c3d6f1027b7",
+      "text": "[http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html English translation]"
     }
   ],
   "journal": [
@@ -73,6 +79,36 @@
       "type": "add",
       "after": "cdece96648e1a6a6",
       "date": 1587541784499
+    },
+    {
+      "type": "edit",
+      "id": "1c3ccf2591457bcc",
+      "item": {
+        "type": "paragraph",
+        "id": "1c3ccf2591457bcc",
+        "text": "\"What is Enlightenment\" [https://en.wikipedia.org/wiki/Answering_the_Question:_What_Is_Enlightenment%3F wikipedia]"
+      },
+      "date": 1587541803579
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "29f55c3d6f1027b7"
+      },
+      "id": "29f55c3d6f1027b7",
+      "type": "add",
+      "after": "1c3ccf2591457bcc",
+      "date": 1587541935700
+    },
+    {
+      "type": "edit",
+      "id": "29f55c3d6f1027b7",
+      "item": {
+        "type": "paragraph",
+        "id": "29f55c3d6f1027b7",
+        "text": "[http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html English translation]"
+      },
+      "date": 1587541948042
     }
   ]
 }
