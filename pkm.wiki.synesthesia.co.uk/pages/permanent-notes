@@ -14,12 +14,12 @@
     {
       "type": "paragraph",
       "id": "646c3972258297d8",
-      "text": "[[Evergreen Notes Should be Concept-Based]]"
+      "text": "[[Permanent Notes Should be Concept-Based]]"
     },
     {
       "type": "paragraph",
       "id": "f103c1111a29fee0",
-      "text": "[[Evergreen Notes Should Be Densely Linked]]"
+      "text": "[[Permanent Notes Should Be Densely Linked]]"
     },
     {
       "type": "pagefold",
@@ -336,6 +336,26 @@
         "text": "[[Permanent Notes Should Be Atomic]]"
       },
       "date": 1587560673796
+    },
+    {
+      "type": "edit",
+      "id": "646c3972258297d8",
+      "item": {
+        "type": "paragraph",
+        "id": "646c3972258297d8",
+        "text": "[[Permanent Notes Should be Concept-Based]]"
+      },
+      "date": 1587560718553
+    },
+    {
+      "type": "edit",
+      "id": "f103c1111a29fee0",
+      "item": {
+        "type": "paragraph",
+        "id": "f103c1111a29fee0",
+        "text": "[[Permanent Notes Should Be Densely Linked]]"
+      },
+      "date": 1587560734691
     }
   ]
 }
