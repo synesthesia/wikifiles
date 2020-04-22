@@ -293,15 +293,7 @@
     <lastmod>2020-04-07</lastmod>
   </url>
   <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/evergreen-notes-should-be-atomic.html</loc>
-    <lastmod>2020-04-21</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/evergreen-notes-should-be-concept-based.html</loc>
-    <lastmod>2020-04-21</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/evergreen-notes-should-be-densely-linked.html</loc>
+    <loc>http://pkm.wiki.synesthesia.co.uk/evergreen-notes.html</loc>
     <lastmod>2020-04-21</lastmod>
   </url>
   <url>
@@ -415,10 +407,6 @@
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/how-to-add-this-page-to-your-site.html</loc>
     <lastmod>2016-02-04</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/how-to-take-smart-notes.html</loc>
-    <lastmod>2020-04-22</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/how-word-gets-around.html</loc>
@@ -621,10 +609,6 @@
     <lastmod>2019-05-15</lastmod>
   </url>
   <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/permanent-notes.html</loc>
-    <lastmod>2020-04-21</lastmod>
-  </url>
-  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/personal-dynamic-media.html</loc>
     <lastmod>2015-02-02</lastmod>
   </url>
@@ -663,10 +647,6 @@
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/reconsolidation.html</loc>
     <lastmod>2020-01-28</lastmod>
-  </url>
-  <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/reference-notes.html</loc>
-    <lastmod>2020-04-21</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/reflection.html</loc>
@@ -929,10 +909,6 @@
     <lastmod>2015-01-11</lastmod>
   </url>
   <url>
-    <loc>http://pkm.wiki.synesthesia.co.uk/writing-is-core-to-learning.html</loc>
-    <lastmod>2020-04-21</lastmod>
-  </url>
-  <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/writing-with-strangers.html</loc>
     <lastmod>2015-04-17</lastmod>
   </url>
@@ -943,5 +919,29 @@
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/zettelkasten-project.html</loc>
     <lastmod>2020-04-07</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/writing-is-core-to-learning.html</loc>
+    <lastmod>2020-04-21</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/how-to-take-smart-notes.html</loc>
+    <lastmod>2020-04-22</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/evergreen-notes-should-be-atomic.html</loc>
+    <lastmod>2020-04-21</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/reference-notes.html</loc>
+    <lastmod>2020-04-21</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/evergreen-notes-should-be-concept-based.html</loc>
+    <lastmod>2020-04-21</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/evergreen-notes-should-be-densely-linked.html</loc>
+    <lastmod>2020-04-21</lastmod>
   </url>
 </urlset>

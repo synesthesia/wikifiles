@@ -1,5 +1,5 @@
 {
-  "title": "Evergreen note-writing as a fundamental unit of knowledge work",
+  "title": "Permanent note-writing as a fundamental unit of knowledge work",
   "story": [
     {
       "type": "pagefold",
@@ -9,7 +9,7 @@
     {
       "type": "markdown",
       "id": "f3cb5e2bd7ee80c7",
-      "text": ">If you had to set one metric to use as a leading indicator for yourself as a knowledge worker, the best I know might be the number of [[Evergreen Notes]] written per day"
+      "text": ">If you had to set one metric to use as a leading indicator for yourself as a knowledge worker, the best I know might be the number of [[Permanent Notes]] written per day"
     },
     {
       "type": "markdown",
@@ -25,7 +25,7 @@
     {
       "type": "create",
       "item": {
-        "title": "Evergreen note-writing as a fundamental unit of knowledge work",
+        "title": "Permanent note-writing as a fundamental unit of knowledge work",
         "story": []
       },
       "date": 1586250034114
@@ -135,7 +135,7 @@
       "item": {
         "type": "markdown",
         "id": "f3cb5e2bd7ee80c7",
-        "text": ">If you had to set one metric to use as a leading indicator for yourself as a knowledge worker, the best I know might be the number of [[Evergreen Notes]] written per day"
+        "text": ">If you had to set one metric to use as a leading indicator for yourself as a knowledge worker, the best I know might be the number of [[Permanent Notes]] written per day"
       },
       "date": 1586250192017
     },
