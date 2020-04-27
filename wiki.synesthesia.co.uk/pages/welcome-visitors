@@ -34,7 +34,7 @@
     {
       "type": "roster",
       "id": "5f2ada1338df24e3",
-      "text": "Julian Elve\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\nproduct.wiki.synesthesia.co.uk\ndataviz.wiki.synesthesia.co.uk\ndigitalcpd.wiki.synesthesia.co.uk\nsynesthesia.fed.wiki.org\n\n"
+      "text": "Julian Elve\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\nproduct.wiki.synesthesia.co.uk\ndataviz.wiki.synesthesia.co.uk\ndigitalcpd.wiki.synesthesia.co.uk\nsynesthesia.fed.wik\n\n"
     },
     {
       "type": "markdown",
@@ -1344,6 +1344,16 @@
         "text": "To find content across my [[Federated Wiki]] sites explore the neighborhood below. [[Recent Changes]] and [[Recent Farm Activity]] may also be of interest."
       },
       "date": 1587474876011
+    },
+    {
+      "type": "edit",
+      "id": "5f2ada1338df24e3",
+      "item": {
+        "type": "roster",
+        "id": "5f2ada1338df24e3",
+        "text": "Julian Elve\n\nwiki.synesthesia.co.uk\nforage.wiki.synesthesia.co.uk\npkm.wiki.synesthesia.co.uk\ncode.wiki.synesthesia.co.uk\nproduct.wiki.synesthesia.co.uk\ndataviz.wiki.synesthesia.co.uk\ndigitalcpd.wiki.synesthesia.co.uk\nsynesthesia.fed.wik\n\n"
+      },
+      "date": 1587981269742
     }
   ]
 }
