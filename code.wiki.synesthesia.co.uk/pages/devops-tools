@@ -1,0 +1,64 @@
+{
+  "title": "DevOps Tools",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "47f660929ea6e0e2",
+      "text": "[[Terraform]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7964abc8b422d058",
+      "text": "[[Ansible]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "DevOps Tools",
+        "story": []
+      },
+      "date": 1588578931712
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "47f660929ea6e0e2"
+      },
+      "id": "47f660929ea6e0e2",
+      "type": "add",
+      "date": 1588578941164
+    },
+    {
+      "type": "edit",
+      "id": "47f660929ea6e0e2",
+      "item": {
+        "type": "paragraph",
+        "id": "47f660929ea6e0e2",
+        "text": "[[Terraform]]"
+      },
+      "date": 1588578947936
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7964abc8b422d058"
+      },
+      "id": "7964abc8b422d058",
+      "type": "add",
+      "after": "47f660929ea6e0e2",
+      "date": 1588578949307
+    },
+    {
+      "type": "edit",
+      "id": "7964abc8b422d058",
+      "item": {
+        "type": "paragraph",
+        "id": "7964abc8b422d058",
+        "text": "[[Ansible]]"
+      },
+      "date": 1588578956152
+    }
+  ]
+}

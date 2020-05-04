@@ -21,6 +21,11 @@
     },
     {
       "type": "paragraph",
+      "id": "ddb2aa45758bbb49",
+      "text": "[[Technologies]]"
+    },
+    {
+      "type": "paragraph",
       "id": "05e2fa92643677ca",
       "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
       "text": "[[FedWiki Plugins]]"
@@ -34,10 +39,6 @@
       "type": "roster",
       "id": "3ee77225cf49833d",
       "text": "Some FedWiki sources\n\nEric Dobbs\n\ncode.wiki.dbbs.co\ndobbs.fed.wiki.org\ngoals.pods.wiki.dbbs.co\nwiki-wiki.glitch.me\n"
-    },
-    {
-      "type": "factory",
-      "id": "ddb2aa45758bbb49"
     }
   ],
   "journal": [
@@ -383,6 +384,30 @@
       "type": "add",
       "after": "3ee77225cf49833d",
       "date": 1588578896759
+    },
+    {
+      "type": "edit",
+      "id": "ddb2aa45758bbb49",
+      "item": {
+        "type": "paragraph",
+        "id": "ddb2aa45758bbb49",
+        "text": "[[Technologies]]"
+      },
+      "date": 1588578906890
+    },
+    {
+      "id": "ddb2aa45758bbb49",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2bbd646ff3f44b51",
+        "fa2a5b8eaba0a20e",
+        "ddb2aa45758bbb49",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4",
+        "3ee77225cf49833d"
+      ],
+      "date": 1588578909377
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "title": "Technologies",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ce27c02d741e4335",
+      "text": "[[DevOps Tools]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Technologies",
+        "story": []
+      },
+      "date": 1588578911705
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ce27c02d741e4335"
+      },
+      "id": "ce27c02d741e4335",
+      "type": "add",
+      "date": 1588578913695
+    },
+    {
+      "type": "edit",
+      "id": "ce27c02d741e4335",
+      "item": {
+        "type": "paragraph",
+        "id": "ce27c02d741e4335",
+        "text": "[[DevOps Tools]]"
+      },
+      "date": 1588578920740
+    }
+  ]
+}

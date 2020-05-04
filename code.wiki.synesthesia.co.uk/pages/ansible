@@ -1,0 +1,63 @@
+{
+  "title": "Ansible",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "e90fd786160d27cf",
+      "text": ">Ansible is an open-source software provisioning, configuration management, and application-deployment tool. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration.\n[https://en.wikipedia.org/wiki/Ansible_(software) wikipedia]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Ansible",
+        "story": []
+      },
+      "date": 1588578983875
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1b4e8d03e1b1ab8d"
+      },
+      "id": "1b4e8d03e1b1ab8d",
+      "type": "add",
+      "date": 1588579024700
+    },
+    {
+      "type": "remove",
+      "id": "1b4e8d03e1b1ab8d",
+      "date": 1588579027717
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e90fd786160d27cf"
+      },
+      "id": "e90fd786160d27cf",
+      "type": "add",
+      "date": 1588579032104
+    },
+    {
+      "type": "edit",
+      "id": "e90fd786160d27cf",
+      "item": {
+        "type": "markdown",
+        "id": "e90fd786160d27cf",
+        "text": ">Ansible is an open-source software provisioning, configuration management, and application-deployment tool. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration.\n["
+      },
+      "date": 1588579040715
+    },
+    {
+      "type": "edit",
+      "id": "e90fd786160d27cf",
+      "item": {
+        "type": "markdown",
+        "id": "e90fd786160d27cf",
+        "text": ">Ansible is an open-source software provisioning, configuration management, and application-deployment tool. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration.\n[https://en.wikipedia.org/wiki/Ansible_(software) wikipedia]"
+      },
+      "date": 1588579051627
+    }
+  ]
+}

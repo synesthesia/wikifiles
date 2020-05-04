@@ -4,72 +4,36 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "69a0eb1a0a586dfa"
+      "id": "5739c18ba2576f79"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "085b50657f5ad664"
+      "id": "a5921b8d4f9ed781"
     },
     {
-      "date": 1587456811000,
-      "site": "dataviz.wiki.synesthesia.co.uk",
-      "slug": "welcome-visitors",
-      "title": "Welcome Visitors",
-      "text": "In [http://dataviz.wiki.synesthesia.co.uk dataviz.wiki.synesthesia.co.uk] with 2 pages.",
-      "type": "reference",
-      "id": "69d7846c52870fbc"
-    },
-    {
-      "date": 1587464620000,
-      "site": "code.wiki.synesthesia.co.uk",
-      "slug": "julian-elve",
-      "title": "Julian Elve",
-      "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 38 pages.",
-      "type": "reference",
-      "id": "478d300ef6d94987"
-    },
-    {
-      "date": 1587474711000,
-      "site": "digitalcpd.wiki.synesthesia.co.uk",
-      "slug": "there-is-no-single-form-of-online-learning",
-      "title": "There Is No Single Form Of Online Learning",
-      "text": "In [http://digitalcpd.wiki.synesthesia.co.uk digitalcpd.wiki.synesthesia.co.uk] with 9 pages.",
-      "type": "reference",
-      "id": "1f7dd07efc3a25f9"
-    },
-    {
-      "date": 1587541947000,
-      "site": "forage.wiki.synesthesia.co.uk",
-      "slug": "dare-to-know",
-      "title": "Dare to Know",
-      "text": "In [http://forage.wiki.synesthesia.co.uk forage.wiki.synesthesia.co.uk] with 19 pages.",
-      "type": "reference",
-      "id": "ebf0051f1a4f3302"
-    },
-    {
-      "date": 1587562425000,
-      "site": "pkm.wiki.synesthesia.co.uk",
-      "slug": "how-to-take-smart-notes",
-      "title": "How to Take Smart Notes",
-      "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 236 pages.",
-      "type": "reference",
-      "id": "906ac7050af18767"
-    },
-    {
-      "date": 1587981284000,
+      "date": 1587981542000,
       "site": "wiki.synesthesia.co.uk",
-      "slug": "julian-elve",
-      "title": "Julian Elve",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
       "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
       "type": "reference",
-      "id": "ac330425c8336cf6"
+      "id": "99145a2b2e8cc1b9"
+    },
+    {
+      "date": 1588579053000,
+      "site": "code.wiki.synesthesia.co.uk",
+      "slug": "ansible",
+      "title": "Ansible",
+      "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 41 pages.",
+      "type": "reference",
+      "id": "88d30362b84b276e"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "2432c06deb045e24",
+      "id": "109a6af8818c30e5",
       "item": {
         "title": "Recent Farm Activity"
       },
@@ -79,107 +43,51 @@
     },
     {
       "type": "add",
-      "id": "69a0eb1a0a586dfa",
+      "id": "5739c18ba2576f79",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "69a0eb1a0a586dfa"
+        "id": "5739c18ba2576f79"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "085b50657f5ad664",
+      "id": "a5921b8d4f9ed781",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "085b50657f5ad664"
+        "id": "a5921b8d4f9ed781"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "69d7846c52870fbc",
+      "id": "99145a2b2e8cc1b9",
       "item": {
-        "date": 1587456811000,
-        "site": "dataviz.wiki.synesthesia.co.uk",
-        "slug": "welcome-visitors",
-        "title": "Welcome Visitors",
-        "text": "In [http://dataviz.wiki.synesthesia.co.uk dataviz.wiki.synesthesia.co.uk] with 2 pages.",
-        "type": "reference",
-        "id": "69d7846c52870fbc"
-      },
-      "date": 1587456811000
-    },
-    {
-      "type": "add",
-      "id": "478d300ef6d94987",
-      "item": {
-        "date": 1587464620000,
-        "site": "code.wiki.synesthesia.co.uk",
-        "slug": "julian-elve",
-        "title": "Julian Elve",
-        "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 38 pages.",
-        "type": "reference",
-        "id": "478d300ef6d94987"
-      },
-      "date": 1587464620000
-    },
-    {
-      "type": "add",
-      "id": "1f7dd07efc3a25f9",
-      "item": {
-        "date": 1587474711000,
-        "site": "digitalcpd.wiki.synesthesia.co.uk",
-        "slug": "there-is-no-single-form-of-online-learning",
-        "title": "There Is No Single Form Of Online Learning",
-        "text": "In [http://digitalcpd.wiki.synesthesia.co.uk digitalcpd.wiki.synesthesia.co.uk] with 9 pages.",
-        "type": "reference",
-        "id": "1f7dd07efc3a25f9"
-      },
-      "date": 1587474711000
-    },
-    {
-      "type": "add",
-      "id": "ebf0051f1a4f3302",
-      "item": {
-        "date": 1587541947000,
-        "site": "forage.wiki.synesthesia.co.uk",
-        "slug": "dare-to-know",
-        "title": "Dare to Know",
-        "text": "In [http://forage.wiki.synesthesia.co.uk forage.wiki.synesthesia.co.uk] with 19 pages.",
-        "type": "reference",
-        "id": "ebf0051f1a4f3302"
-      },
-      "date": 1587541947000
-    },
-    {
-      "type": "add",
-      "id": "906ac7050af18767",
-      "item": {
-        "date": 1587562425000,
-        "site": "pkm.wiki.synesthesia.co.uk",
-        "slug": "how-to-take-smart-notes",
-        "title": "How to Take Smart Notes",
-        "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 236 pages.",
-        "type": "reference",
-        "id": "906ac7050af18767"
-      },
-      "date": 1587562425000
-    },
-    {
-      "type": "add",
-      "id": "ac330425c8336cf6",
-      "item": {
-        "date": 1587981284000,
+        "date": 1587981542000,
         "site": "wiki.synesthesia.co.uk",
-        "slug": "julian-elve",
-        "title": "Julian Elve",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
         "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
         "type": "reference",
-        "id": "ac330425c8336cf6"
+        "id": "99145a2b2e8cc1b9"
       },
-      "date": 1587981284000
+      "date": 1587981542000
+    },
+    {
+      "type": "add",
+      "id": "88d30362b84b276e",
+      "item": {
+        "date": 1588579053000,
+        "site": "code.wiki.synesthesia.co.uk",
+        "slug": "ansible",
+        "title": "Ansible",
+        "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 41 pages.",
+        "type": "reference",
+        "id": "88d30362b84b276e"
+      },
+      "date": 1588579053000
     }
   ]
 }
