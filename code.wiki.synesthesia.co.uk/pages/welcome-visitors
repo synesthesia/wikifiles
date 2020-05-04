@@ -34,6 +34,10 @@
       "type": "roster",
       "id": "3ee77225cf49833d",
       "text": "Some FedWiki sources\n\nEric Dobbs\n\ncode.wiki.dbbs.co\ndobbs.fed.wiki.org\ngoals.pods.wiki.dbbs.co\nwiki-wiki.glitch.me\n"
+    },
+    {
+      "type": "factory",
+      "id": "ddb2aa45758bbb49"
     }
   ],
   "journal": [
@@ -369,6 +373,16 @@
         "text": "Some FedWiki sources\n\nEric Dobbs\n\ncode.wiki.dbbs.co\ndobbs.fed.wiki.org\ngoals.pods.wiki.dbbs.co\nwiki-wiki.glitch.me\n"
       },
       "date": 1587125954911
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ddb2aa45758bbb49"
+      },
+      "id": "ddb2aa45758bbb49",
+      "type": "add",
+      "after": "3ee77225cf49833d",
+      "date": 1588578896759
     }
   ]
 }
