@@ -32,11 +32,6 @@
     },
     {
       "type": "paragraph",
-      "id": "e5d2b0d3d1e24051",
-      "text": "You will need your own site to participate."
-    },
-    {
-      "type": "paragraph",
       "id": "aa5ebd0203376ad2",
       "text": "[[Inspirations]]"
     },
@@ -44,6 +39,11 @@
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby. Also [[Site Index]] for all local pages"
+    },
+    {
+      "type": "paragraph",
+      "id": "e5d2b0d3d1e24051",
+      "text": "You will need your own site to participate."
     },
     {
       "type": "markdown",
@@ -684,6 +684,54 @@
         "text": "*NB because this is [[Federated wiki]] pronouns such as \"I\" can be very confusing - on any page you see here \"I\" might be anyone - look for context! The preferred writing style is first-person plural*"
       },
       "date": 1587470050295
+    },
+    {
+      "id": "1d37e20209277a2d",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "63ad2e58eecdd9e5",
+        "351e58d819f708aa",
+        "821827c99b90cfd1",
+        "e5d2b0d3d1e24051",
+        "1d37e20209277a2d",
+        "aa5ebd0203376ad2",
+        "ee416d431ebf4fb4",
+        "b8d81c060d223a68"
+      ],
+      "date": 1589214609375
+    },
+    {
+      "id": "e5d2b0d3d1e24051",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "63ad2e58eecdd9e5",
+        "351e58d819f708aa",
+        "821827c99b90cfd1",
+        "1d37e20209277a2d",
+        "aa5ebd0203376ad2",
+        "e5d2b0d3d1e24051",
+        "ee416d431ebf4fb4",
+        "b8d81c060d223a68"
+      ],
+      "date": 1589214743018
+    },
+    {
+      "id": "e5d2b0d3d1e24051",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "63ad2e58eecdd9e5",
+        "351e58d819f708aa",
+        "821827c99b90cfd1",
+        "1d37e20209277a2d",
+        "aa5ebd0203376ad2",
+        "ee416d431ebf4fb4",
+        "e5d2b0d3d1e24051",
+        "b8d81c060d223a68"
+      ],
+      "date": 1589214748484
     }
   ]
 }
