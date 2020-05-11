@@ -5,6 +5,11 @@
       "type": "markdown",
       "id": "3997b1cb902a3c94",
       "text": "Because [[Iterative Development of Knowledge Artifacts Increases Feedback]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "fe2d2ce5702ca9f6",
+      "text": "And [[Revisiting Permanent Notes Encourages Deeper Linking]]"
     }
   ],
   "journal": [
@@ -34,6 +39,26 @@
         "text": "Because [[Iterative Development of Knowledge Artifacts Increases Feedback]]\n"
       },
       "date": 1589211278710
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fe2d2ce5702ca9f6"
+      },
+      "id": "fe2d2ce5702ca9f6",
+      "type": "add",
+      "after": "3997b1cb902a3c94",
+      "date": 1589211340982
+    },
+    {
+      "type": "edit",
+      "id": "fe2d2ce5702ca9f6",
+      "item": {
+        "type": "markdown",
+        "id": "fe2d2ce5702ca9f6",
+        "text": "And [[Revisiting Permanent Notes Encourages Deeper Linking]]"
+      },
+      "date": 1589211385300
     }
   ]
 }
