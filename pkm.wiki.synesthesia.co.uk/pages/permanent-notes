@@ -30,6 +30,11 @@
       "type": "markdown",
       "id": "11fae017edd030d6",
       "text": ">Permanent notes are written and organized to evolve, contribute, and accumulate over time, across projects.\n[https://notes.andymatuschak.org/Evergreen_notes note]"
+    },
+    {
+      "type": "markdown",
+      "id": "09dde5613c1d7309",
+      "text": "[[Permanent Notes should develop iteratively]]"
     }
   ],
   "journal": [
@@ -356,6 +361,26 @@
         "text": "[[Permanent Notes Should Be Densely Linked]]"
       },
       "date": 1587560734691
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "09dde5613c1d7309"
+      },
+      "id": "09dde5613c1d7309",
+      "type": "add",
+      "after": "11fae017edd030d6",
+      "date": 1589211134116
+    },
+    {
+      "type": "edit",
+      "id": "09dde5613c1d7309",
+      "item": {
+        "type": "markdown",
+        "id": "09dde5613c1d7309",
+        "text": "[[Permanent Notes should develop iteratively]]"
+      },
+      "date": 1589211171695
     }
   ]
 }

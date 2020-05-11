@@ -610,7 +610,7 @@
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/permanent-notes.html</loc>
-    <lastmod>2020-04-22</lastmod>
+    <lastmod>2020-05-11</lastmod>
   </url>
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/permanent-notes-should-be-atomic.html</loc>
@@ -943,5 +943,9 @@
   <url>
     <loc>http://pkm.wiki.synesthesia.co.uk/zettelkasten-project.html</loc>
     <lastmod>2020-04-07</lastmod>
+  </url>
+  <url>
+    <loc>http://pkm.wiki.synesthesia.co.uk/permanent-notes-should-develop-iteratively.html</loc>
+    <lastmod>2020-05-11</lastmod>
   </url>
 </urlset>

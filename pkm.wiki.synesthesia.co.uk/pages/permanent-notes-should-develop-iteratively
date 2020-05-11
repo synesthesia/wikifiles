@@ -1,0 +1,39 @@
+{
+  "title": "Permanent Notes should develop iteratively",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "3997b1cb902a3c94",
+      "text": "Because [[Iterative Development of Knowledge Artifacts Increases Feedback]]\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Permanent Notes should develop iteratively",
+        "story": []
+      },
+      "date": 1589211183639
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3997b1cb902a3c94"
+      },
+      "id": "3997b1cb902a3c94",
+      "type": "add",
+      "date": 1589211200865
+    },
+    {
+      "type": "edit",
+      "id": "3997b1cb902a3c94",
+      "item": {
+        "type": "markdown",
+        "id": "3997b1cb902a3c94",
+        "text": "Because [[Iterative Development of Knowledge Artifacts Increases Feedback]]\n"
+      },
+      "date": 1589211278710
+    }
+  ]
+}
