@@ -19,7 +19,12 @@
     {
       "type": "pagefold",
       "id": "1d7969c1e11b0815",
-      "text": "see also"
+      "text": "Karpicke & Roediger 2008"
+    },
+    {
+      "type": "markdown",
+      "id": "f896dbc8284c8d2f",
+      "text": ">Repeated studying after learning had no effect on delayed recall, but repeated testing produced a large positive effect. In addition, students’ predictions of their performance were uncorrelated with actual performance. The results demonstrate the critical role of retrieval practice in consolidating learning and show that even university students seem unaware of this fact.\n[http://learninglab.psych.purdue.edu/downloads/2008_Karpicke_Roediger_Science.pdf journal article] [https://www.zotero.org/julianelve/items/QVT3M8BM/library zotero]"
     }
   ],
   "journal": [
@@ -165,6 +170,76 @@
         "1d7969c1e11b0815"
       ],
       "date": 1589266649589
+    },
+    {
+      "type": "edit",
+      "id": "1d7969c1e11b0815",
+      "item": {
+        "type": "pagefold",
+        "id": "1d7969c1e11b0815",
+        "text": "Karpicke & Ro"
+      },
+      "date": 1589268978934
+    },
+    {
+      "type": "edit",
+      "id": "1d7969c1e11b0815",
+      "item": {
+        "type": "pagefold",
+        "id": "1d7969c1e11b0815",
+        "text": "Karpicke & Roediger"
+      },
+      "date": 1589269006645
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f896dbc8284c8d2f"
+      },
+      "id": "f896dbc8284c8d2f",
+      "type": "add",
+      "after": "1d7969c1e11b0815",
+      "date": 1589269047899
+    },
+    {
+      "type": "edit",
+      "id": "f896dbc8284c8d2f",
+      "item": {
+        "type": "markdown",
+        "id": "f896dbc8284c8d2f",
+        "text": ">Repeated studying after learning had no effect on delayed recall, but repeated testing produced a large positive effect. In addition, students’ predictions of their performance were uncorrelated with actual performance. The results demonstrate the critical role of retrieval practice in consolidating learning and show that even university students seem unaware of this fact.\n[ journal article]"
+      },
+      "date": 1589269081053
+    },
+    {
+      "type": "edit",
+      "id": "f896dbc8284c8d2f",
+      "item": {
+        "type": "markdown",
+        "id": "f896dbc8284c8d2f",
+        "text": ">Repeated studying after learning had no effect on delayed recall, but repeated testing produced a large positive effect. In addition, students’ predictions of their performance were uncorrelated with actual performance. The results demonstrate the critical role of retrieval practice in consolidating learning and show that even university students seem unaware of this fact.\n[http://learninglab.psych.purdue.edu/downloads/2008_Karpicke_Roediger_Science.pdf journal article]"
+      },
+      "date": 1589269091186
+    },
+    {
+      "type": "edit",
+      "id": "f896dbc8284c8d2f",
+      "item": {
+        "type": "markdown",
+        "id": "f896dbc8284c8d2f",
+        "text": ">Repeated studying after learning had no effect on delayed recall, but repeated testing produced a large positive effect. In addition, students’ predictions of their performance were uncorrelated with actual performance. The results demonstrate the critical role of retrieval practice in consolidating learning and show that even university students seem unaware of this fact.\n[http://learninglab.psych.purdue.edu/downloads/2008_Karpicke_Roediger_Science.pdf journal article] [https://www.zotero.org/julianelve/items/QVT3M8BM/library zotero]"
+      },
+      "date": 1589269148885
+    },
+    {
+      "type": "edit",
+      "id": "1d7969c1e11b0815",
+      "item": {
+        "type": "pagefold",
+        "id": "1d7969c1e11b0815",
+        "text": "Karpicke & Roediger 2008"
+      },
+      "date": 1589269170478
     }
   ]
 }
