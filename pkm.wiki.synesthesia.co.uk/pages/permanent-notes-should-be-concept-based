@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "ae0b0693fe7af1ff",
-      "text": "It is better to create Permanent notes by concept than by other factors such as author or source."
+      "text": "We consider that it is better to create [[Permanent Notes]] by concept than by other factors such as author or source to support [[Serendipitous Retrieval]]."
     },
     {
       "type": "paragraph",
@@ -69,6 +69,16 @@
         "text": "This supports [[Evergreen Notes should be densely linked]]"
       },
       "date": 1587470676983
+    },
+    {
+      "type": "edit",
+      "id": "ae0b0693fe7af1ff",
+      "item": {
+        "type": "paragraph",
+        "id": "ae0b0693fe7af1ff",
+        "text": "We consider that it is better to create [[Permanent Notes]] by concept than by other factors such as author or source to support [[Serendipitous Retrieval]]."
+      },
+      "date": 1589266829513
     }
   ]
 }

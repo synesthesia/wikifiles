@@ -4,12 +4,12 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "4b815a2abaad8605"
+      "id": "a9b1e94c0b63c33d"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "c2a8a524003f681b"
+      "id": "a1371165b5dd2367"
     },
     {
       "date": 1588579053000,
@@ -18,31 +18,31 @@
       "title": "Ansible",
       "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 41 pages.",
       "type": "reference",
-      "id": "3e2a800df5b44883"
+      "id": "75e86d4a70626557"
     },
     {
-      "date": 1589265841000,
+      "date": 1589266741000,
       "site": "wiki.synesthesia.co.uk",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
       "type": "reference",
-      "id": "f78ecd7df09578d6"
+      "id": "d22989f8f0cf8359"
     },
     {
-      "date": 1589266652000,
+      "date": 1589266832000,
       "site": "pkm.wiki.synesthesia.co.uk",
-      "slug": "retrieval-practice",
-      "title": "Retrieval Practice",
+      "slug": "permanent-notes-should-be-concept-based",
+      "title": "Permanent Notes Should be Concept-Based",
       "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 240 pages.",
       "type": "reference",
-      "id": "689b81641a8c5013"
+      "id": "e95c3c8297cc2eac"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "4177b1bc821656ec",
+      "id": "11983f857522866d",
       "item": {
         "title": "Recent Farm Activity"
       },
@@ -52,27 +52,27 @@
     },
     {
       "type": "add",
-      "id": "4b815a2abaad8605",
+      "id": "a9b1e94c0b63c33d",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "4b815a2abaad8605"
+        "id": "a9b1e94c0b63c33d"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "c2a8a524003f681b",
+      "id": "a1371165b5dd2367",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "c2a8a524003f681b"
+        "id": "a1371165b5dd2367"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "3e2a800df5b44883",
+      "id": "75e86d4a70626557",
       "item": {
         "date": 1588579053000,
         "site": "code.wiki.synesthesia.co.uk",
@@ -80,37 +80,37 @@
         "title": "Ansible",
         "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 41 pages.",
         "type": "reference",
-        "id": "3e2a800df5b44883"
+        "id": "75e86d4a70626557"
       },
       "date": 1588579053000
     },
     {
       "type": "add",
-      "id": "f78ecd7df09578d6",
+      "id": "d22989f8f0cf8359",
       "item": {
-        "date": 1589265841000,
+        "date": 1589266741000,
         "site": "wiki.synesthesia.co.uk",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
         "type": "reference",
-        "id": "f78ecd7df09578d6"
+        "id": "d22989f8f0cf8359"
       },
-      "date": 1589265841000
+      "date": 1589266741000
     },
     {
       "type": "add",
-      "id": "689b81641a8c5013",
+      "id": "e95c3c8297cc2eac",
       "item": {
-        "date": 1589266652000,
+        "date": 1589266832000,
         "site": "pkm.wiki.synesthesia.co.uk",
-        "slug": "retrieval-practice",
-        "title": "Retrieval Practice",
+        "slug": "permanent-notes-should-be-concept-based",
+        "title": "Permanent Notes Should be Concept-Based",
         "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 240 pages.",
         "type": "reference",
-        "id": "689b81641a8c5013"
+        "id": "e95c3c8297cc2eac"
       },
-      "date": 1589266652000
+      "date": 1589266832000
     }
   ]
 }
