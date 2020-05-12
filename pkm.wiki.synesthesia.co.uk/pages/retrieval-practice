@@ -2,6 +2,11 @@
   "title": "Retrieval Practice",
   "story": [
     {
+      "type": "paragraph",
+      "id": "cd2833bf657b73d7",
+      "text": "A strategy to strengthen concepts in [[long term memory]] by trying to recall them, thus reinforcing the neurological access pathways."
+    },
+    {
       "type": "pagefold",
       "id": "6c5f270afbf0c83c",
       "text": "Efrat Furst"
@@ -129,6 +134,37 @@
         "text": "see also"
       },
       "date": 1589266478923
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cd2833bf657b73d7"
+      },
+      "id": "cd2833bf657b73d7",
+      "type": "add",
+      "after": "1d7969c1e11b0815",
+      "date": 1589266571590
+    },
+    {
+      "type": "edit",
+      "id": "cd2833bf657b73d7",
+      "item": {
+        "type": "paragraph",
+        "id": "cd2833bf657b73d7",
+        "text": "A strategy to strengthen concepts in [[long term memory]] by trying to recall them, thus reinforcing the neurological access pathways."
+      },
+      "date": 1589266646666
+    },
+    {
+      "id": "cd2833bf657b73d7",
+      "type": "move",
+      "order": [
+        "cd2833bf657b73d7",
+        "6c5f270afbf0c83c",
+        "b07c75d925ce4645",
+        "1d7969c1e11b0815"
+      ],
+      "date": 1589266649589
     }
   ]
 }
