@@ -1,6 +1,17 @@
 {
   "title": "Iterative Development of Knowledge Artifacts Increases Feedback",
-  "story": [],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "aa37b792fe9cb96b",
+      "text": "Frequency of feedback is increased by the frequency with which successive states of a knowledge artifact are exposed to review by observers. "
+    },
+    {
+      "type": "pagefold",
+      "id": "f5152eb652380a2f",
+      "text": "References"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +20,75 @@
         "story": []
       },
       "date": 1589264688447
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aa37b792fe9cb96b"
+      },
+      "id": "aa37b792fe9cb96b",
+      "type": "add",
+      "date": 1589264700260
+    },
+    {
+      "type": "edit",
+      "id": "aa37b792fe9cb96b",
+      "item": {
+        "type": "markdown",
+        "id": "aa37b792fe9cb96b",
+        "text": "Frequency of feedback is increased by the frequency with which successive states of a knowledge artifact are exposed to review by observers. "
+      },
+      "date": 1589264829696
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6d87dc09e7f7d972"
+      },
+      "id": "6d87dc09e7f7d972",
+      "type": "add",
+      "after": "aa37b792fe9cb96b",
+      "date": 1589264959953
+    },
+    {
+      "type": "remove",
+      "id": "6d87dc09e7f7d972",
+      "date": 1589264965973
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f5152eb652380a2f"
+      },
+      "id": "f5152eb652380a2f",
+      "type": "add",
+      "after": "aa37b792fe9cb96b",
+      "date": 1589264971299
+    },
+    {
+      "type": "edit",
+      "id": "f5152eb652380a2f",
+      "item": {
+        "type": "pagefold",
+        "id": "f5152eb652380a2f",
+        "text": "References"
+      },
+      "date": 1589264981677
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f1c8151d6c64a3b2"
+      },
+      "id": "f1c8151d6c64a3b2",
+      "type": "add",
+      "after": "f5152eb652380a2f",
+      "date": 1589264987566
+    },
+    {
+      "type": "remove",
+      "id": "f1c8151d6c64a3b2",
+      "date": 1589264995588
     }
   ]
 }
