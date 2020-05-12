@@ -10,6 +10,10 @@
       "type": "markdown",
       "id": "fe2d2ce5702ca9f6",
       "text": "And [[Revisiting Permanent Notes Encourages Deeper Linking]]"
+    },
+    {
+      "type": "factory",
+      "id": "d15597e151e5c215"
     }
   ],
   "journal": [
@@ -109,6 +113,16 @@
         "text": "[[Quality of Permanent Notes]]\n These characteristics are improved by feedback from observers, and because [[Iterative Development of Knowledge Artifacts Increases Feedback]] we seek greater iteration.\n\n"
       },
       "date": 1589265174384
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d15597e151e5c215"
+      },
+      "id": "d15597e151e5c215",
+      "type": "add",
+      "after": "fe2d2ce5702ca9f6",
+      "date": 1589299981048
     }
   ]
 }
