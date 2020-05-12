@@ -5,6 +5,15 @@
       "type": "markdown",
       "id": "50db77a96036fd51",
       "text": "A [[Permanent note]] should be about one thing (i.e. one concept) and aim to capture the entirety of that thing."
+    },
+    {
+      "type": "pagefold",
+      "id": "0b6ec3ed932e802d",
+      "text": "see also"
+    },
+    {
+      "type": "factory",
+      "id": "46eaf29dc1713392"
     }
   ],
   "journal": [
@@ -44,6 +53,51 @@
         "text": "An [[Evergreen note]] should be about one thing (i.e. one concept) and aim to capture the entirety of that thing."
       },
       "date": 1587469447933
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6e891d61090d9aee"
+      },
+      "id": "6e891d61090d9aee",
+      "type": "add",
+      "after": "50db77a96036fd51",
+      "date": 1589265276788
+    },
+    {
+      "type": "remove",
+      "id": "6e891d61090d9aee",
+      "date": 1589265279643
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0b6ec3ed932e802d"
+      },
+      "id": "0b6ec3ed932e802d",
+      "type": "add",
+      "after": "50db77a96036fd51",
+      "date": 1589265283234
+    },
+    {
+      "type": "edit",
+      "id": "0b6ec3ed932e802d",
+      "item": {
+        "type": "pagefold",
+        "id": "0b6ec3ed932e802d",
+        "text": "see also"
+      },
+      "date": 1589265296142
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "46eaf29dc1713392"
+      },
+      "id": "46eaf29dc1713392",
+      "type": "add",
+      "after": "0b6ec3ed932e802d",
+      "date": 1589265298205
     }
   ]
 }

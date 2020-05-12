@@ -10,6 +10,11 @@
       "type": "pagefold",
       "id": "f5152eb652380a2f",
       "text": "References"
+    },
+    {
+      "type": "paragraph",
+      "id": "1a88991b6f6288af",
+      "text": "[[How to Take Smart Notes]] p51 ff."
     }
   ],
   "journal": [
@@ -89,6 +94,36 @@
       "type": "remove",
       "id": "f1c8151d6c64a3b2",
       "date": 1589264995588
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1a88991b6f6288af"
+      },
+      "id": "1a88991b6f6288af",
+      "type": "add",
+      "after": "f5152eb652380a2f",
+      "date": 1589265011495
+    },
+    {
+      "type": "edit",
+      "id": "1a88991b6f6288af",
+      "item": {
+        "type": "paragraph",
+        "id": "1a88991b6f6288af",
+        "text": "[[How to Take Smart Notes]] p51ff"
+      },
+      "date": 1589265039158
+    },
+    {
+      "type": "edit",
+      "id": "1a88991b6f6288af",
+      "item": {
+        "type": "paragraph",
+        "id": "1a88991b6f6288af",
+        "text": "[[How to Take Smart Notes]] p51 ff."
+      },
+      "date": 1589265050229
     }
   ]
 }
