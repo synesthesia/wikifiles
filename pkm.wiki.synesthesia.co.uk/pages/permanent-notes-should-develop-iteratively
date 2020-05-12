@@ -8,6 +8,21 @@
     },
     {
       "type": "markdown",
+      "id": "257474a5f82ecce5",
+      "text": "Each time we revisit a [[permanent note]] we ask ourselves what else it might link to - [[Revisiting Permanent Notes Encourages Deeper Linking]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "c081a5c2f8c074f0",
+      "text": "sources"
+    },
+    {
+      "type": "pagefold",
+      "id": "48dc2e424ce552f5",
+      "text": "to clean up"
+    },
+    {
+      "type": "markdown",
       "id": "fe2d2ce5702ca9f6",
       "text": "And [[Revisiting Permanent Notes Encourages Deeper Linking]]"
     },
@@ -15,10 +30,6 @@
       "type": "markdown",
       "id": "3997b1cb902a3c94",
       "text": "[[Quality of Permanent Notes]]\n These characteristics are improved by feedback from observers, and because [[Iterative Development of Knowledge Artifacts Increases Feedback]] we seek greater iteration.\n\n"
-    },
-    {
-      "type": "factory",
-      "id": "257474a5f82ecce5"
     }
   ],
   "journal": [
@@ -183,6 +194,104 @@
       "type": "add",
       "after": "3997b1cb902a3c94",
       "date": 1589303686799
+    },
+    {
+      "type": "edit",
+      "id": "257474a5f82ecce5",
+      "item": {
+        "type": "markdown",
+        "id": "257474a5f82ecce5",
+        "text": "Each time we revisit a [[permanent note]] we ask ourselves what else it might link to - [[Revisiting Permanent Notes Encourages Deeper Linking]]"
+      },
+      "date": 1589304097532
+    },
+    {
+      "id": "257474a5f82ecce5",
+      "type": "move",
+      "order": [
+        "d15597e151e5c215",
+        "257474a5f82ecce5",
+        "fe2d2ce5702ca9f6",
+        "3997b1cb902a3c94"
+      ],
+      "date": 1589304101634
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c081a5c2f8c074f0"
+      },
+      "id": "c081a5c2f8c074f0",
+      "type": "add",
+      "after": "3997b1cb902a3c94",
+      "date": 1589304112104
+    },
+    {
+      "id": "c081a5c2f8c074f0",
+      "type": "move",
+      "order": [
+        "d15597e151e5c215",
+        "257474a5f82ecce5",
+        "fe2d2ce5702ca9f6",
+        "c081a5c2f8c074f0",
+        "3997b1cb902a3c94"
+      ],
+      "date": 1589304113887
+    },
+    {
+      "type": "edit",
+      "id": "c081a5c2f8c074f0",
+      "item": {
+        "type": "pagefold",
+        "id": "c081a5c2f8c074f0",
+        "text": "sources"
+      },
+      "date": 1589304137927
+    },
+    {
+      "id": "c081a5c2f8c074f0",
+      "type": "move",
+      "order": [
+        "d15597e151e5c215",
+        "257474a5f82ecce5",
+        "c081a5c2f8c074f0",
+        "fe2d2ce5702ca9f6",
+        "3997b1cb902a3c94"
+      ],
+      "date": 1589304144931
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "48dc2e424ce552f5"
+      },
+      "id": "48dc2e424ce552f5",
+      "type": "add",
+      "after": "3997b1cb902a3c94",
+      "date": 1589304153741
+    },
+    {
+      "type": "edit",
+      "id": "48dc2e424ce552f5",
+      "item": {
+        "type": "pagefold",
+        "id": "48dc2e424ce552f5",
+        "text": "to clean up"
+      },
+      "date": 1589304163894
+    },
+    {
+      "id": "48dc2e424ce552f5",
+      "type": "move",
+      "order": [
+        "d15597e151e5c215",
+        "257474a5f82ecce5",
+        "c081a5c2f8c074f0",
+        "48dc2e424ce552f5",
+        "fe2d2ce5702ca9f6",
+        "3997b1cb902a3c94"
+      ],
+      "date": 1589304166789
     }
   ]
 }
