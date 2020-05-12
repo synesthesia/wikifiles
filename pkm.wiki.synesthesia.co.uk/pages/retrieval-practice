@@ -7,6 +7,16 @@
       "text": "A strategy to strengthen concepts in [[long term memory]] by trying to recall them, thus reinforcing the neurological access pathways."
     },
     {
+      "type": "paragraph",
+      "id": "a72c1f54c2d4c31f",
+      "text": "This is by contrast with simple study that reinforces the concept itself but does nothing to reinforce the access pathway."
+    },
+    {
+      "type": "paragraph",
+      "id": "a2a99f45dfb46c17",
+      "text": "See also the [[Testing Effect]]"
+    },
+    {
       "type": "pagefold",
       "id": "6c5f270afbf0c83c",
       "text": "Efrat Furst"
@@ -240,6 +250,28 @@
         "text": "Karpicke & Roediger 2008"
       },
       "date": 1589269170478
+    },
+    {
+      "type": "add",
+      "id": "a72c1f54c2d4c31f",
+      "item": {
+        "type": "paragraph",
+        "id": "a72c1f54c2d4c31f",
+        "text": "This is by contrast with simple study that reinforces the concept itself but does nothing to reinforce the access pathway."
+      },
+      "after": "cd2833bf657b73d7",
+      "date": 1589269285276
+    },
+    {
+      "type": "add",
+      "id": "a2a99f45dfb46c17",
+      "item": {
+        "type": "paragraph",
+        "id": "a2a99f45dfb46c17",
+        "text": "See also the [[Testing Effect]]"
+      },
+      "after": "a72c1f54c2d4c31f",
+      "date": 1589269321517
     }
   ]
 }
