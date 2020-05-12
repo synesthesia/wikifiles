@@ -44,7 +44,7 @@
     {
       "type": "markdown",
       "id": "6a10fe34052a3226",
-      "text": "The relationship to [[Sense]]-Making in [[Personal Knowledge Management]] seems in the first instance to tire in most congruently with the [[link from seek to sense]]."
+      "text": "The relationship to [[Sense]]-Making in [[Personal Knowledge Management]] seems in the first instance to tie in most congruently with the [[link from seek to sense]]."
     },
     {
       "type": "markdown",
@@ -702,6 +702,16 @@
       "type": "remove",
       "id": "6cb9ad6a74518c1e",
       "date": 1587471629201
+    },
+    {
+      "type": "edit",
+      "id": "6a10fe34052a3226",
+      "item": {
+        "type": "markdown",
+        "id": "6a10fe34052a3226",
+        "text": "The relationship to [[Sense]]-Making in [[Personal Knowledge Management]] seems in the first instance to tie in most congruently with the [[link from seek to sense]]."
+      },
+      "date": 1589266172783
     }
   ]
 }

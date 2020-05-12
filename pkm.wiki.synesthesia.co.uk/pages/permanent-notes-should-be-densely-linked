@@ -9,7 +9,7 @@
     {
       "type": "paragraph",
       "id": "e11d75ae161884a1",
-      "text": "Revisiting other concepts to consider potential links is a form of [[Retrieval Practice]] and thus forms deeper memory associations for those concepts through the neurological process of [[meaning making]]"
+      "text": "Revisiting other concepts to consider potential links is a form of [[Retrieval Practice]] and thus forms deeper memory associations for those concepts through the neurological process of [[making meaning]]"
     },
     {
       "type": "pagefold",
@@ -218,6 +218,26 @@
         "text": "[[How to Take Smart Notes]]"
       },
       "date": 1589266078283
+    },
+    {
+      "type": "edit",
+      "id": "e11d75ae161884a1",
+      "item": {
+        "type": "paragraph",
+        "id": "e11d75ae161884a1",
+        "text": "Revisiting other concepts to consider potential links is a form of [[Retrieval Practice]] and thus forms deeper memory associations for those concepts through the neurological process of [[meaning making meaning]]"
+      },
+      "date": 1589266123803
+    },
+    {
+      "type": "edit",
+      "id": "e11d75ae161884a1",
+      "item": {
+        "type": "paragraph",
+        "id": "e11d75ae161884a1",
+        "text": "Revisiting other concepts to consider potential links is a form of [[Retrieval Practice]] and thus forms deeper memory associations for those concepts through the neurological process of [[making meaning]]"
+      },
+      "date": 1589266132934
     }
   ]
 }
