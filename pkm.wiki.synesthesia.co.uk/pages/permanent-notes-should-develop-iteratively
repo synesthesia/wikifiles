@@ -4,7 +4,7 @@
     {
       "type": "markdown",
       "id": "3997b1cb902a3c94",
-      "text": "Because [[Iterative Development of Knowledge Artifacts Increases Feedback]]\n"
+      "text": "We suggest the quality of a [[Permanent Note]] is based on both the accuracy of expression of an atomic idea and the quality of cross-linking with other concepts. These characteristics are improved by feedback from observers, and because [[Iterative Development of Knowledge Artifacts Increases Feedback]] we seek greater iteration.\n\n"
     },
     {
       "type": "markdown",
@@ -59,6 +59,36 @@
         "text": "And [[Revisiting Permanent Notes Encourages Deeper Linking]]"
       },
       "date": 1589211385300
+    },
+    {
+      "type": "edit",
+      "id": "3997b1cb902a3c94",
+      "item": {
+        "type": "markdown",
+        "id": "3997b1cb902a3c94",
+        "text": "We suggest the quality of a [[Permanent Note]] is based on accuracy of expression of an atomic idea and the qualityBecause [[Iterative Development of Knowledge Artifacts Increases Feedback]]\n"
+      },
+      "date": 1589264480118
+    },
+    {
+      "type": "edit",
+      "id": "3997b1cb902a3c94",
+      "item": {
+        "type": "markdown",
+        "id": "3997b1cb902a3c94",
+        "text": "We suggest the quality of a [[Permanent Note]] is based on accuracy of expression of an atomic idea and the quality of cross-linking with other concepts. These characteristics are improved by feedback from observers, and because [[Iterative Development of Knowledge Artifacts Increases Feedback]] we seek greater iteration.\n\n"
+      },
+      "date": 1589264566148
+    },
+    {
+      "type": "edit",
+      "id": "3997b1cb902a3c94",
+      "item": {
+        "type": "markdown",
+        "id": "3997b1cb902a3c94",
+        "text": "We suggest the quality of a [[Permanent Note]] is based on both the accuracy of expression of an atomic idea and the quality of cross-linking with other concepts. These characteristics are improved by feedback from observers, and because [[Iterative Development of Knowledge Artifacts Increases Feedback]] we seek greater iteration.\n\n"
+      },
+      "date": 1589264596839
     }
   ]
 }
