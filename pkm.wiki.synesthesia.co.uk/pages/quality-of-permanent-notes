@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "169acc5cb556e3fc",
-      "text": "We suggest the quality of [[Permanent Notes]] is based on both the accuracy of expression of an atomic idea ([[permanent notes should be atomic]]) and the quality of cross-linking with other concepts."
+      "text": "We suggest the quality of [[Permanent Notes]] is based on both the accuracy of expression of an atomic idea ([[permanent notes should be atomic]]) and the quality of cross-linking with other concepts ([[permanent notes should be densely linked]])."
     }
   ],
   "journal": [
@@ -64,6 +64,16 @@
         "text": "We suggest the quality of [[Permanent Notes]] is based on both the accuracy of expression of an atomic idea ([[permanent notes should be atomic]]) and the quality of cross-linking with other concepts."
       },
       "date": 1589265269295
+    },
+    {
+      "type": "edit",
+      "id": "169acc5cb556e3fc",
+      "item": {
+        "type": "paragraph",
+        "id": "169acc5cb556e3fc",
+        "text": "We suggest the quality of [[Permanent Notes]] is based on both the accuracy of expression of an atomic idea ([[permanent notes should be atomic]]) and the quality of cross-linking with other concepts ([[permanent notes should be densely linked]])."
+      },
+      "date": 1589265350150
     }
   ]
 }

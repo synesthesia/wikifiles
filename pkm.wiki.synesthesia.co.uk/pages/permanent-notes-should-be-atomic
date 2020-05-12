@@ -12,8 +12,9 @@
       "text": "see also"
     },
     {
-      "type": "factory",
-      "id": "46eaf29dc1713392"
+      "type": "paragraph",
+      "id": "46eaf29dc1713392",
+      "text": "[[Quality of Permanent Notes]]"
     }
   ],
   "journal": [
@@ -98,6 +99,16 @@
       "type": "add",
       "after": "0b6ec3ed932e802d",
       "date": 1589265298205
+    },
+    {
+      "type": "edit",
+      "id": "46eaf29dc1713392",
+      "item": {
+        "type": "paragraph",
+        "id": "46eaf29dc1713392",
+        "text": "[[Quality of Permanent Notes]]"
+      },
+      "date": 1589265312965
     }
   ]
 }
