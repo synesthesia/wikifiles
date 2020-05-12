@@ -144,6 +144,21 @@
         "fe2d2ce5702ca9f6"
       ],
       "date": 1589300123222
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4a089ee284d477e6"
+      },
+      "id": "4a089ee284d477e6",
+      "type": "add",
+      "after": "fe2d2ce5702ca9f6",
+      "date": 1589300463289
+    },
+    {
+      "type": "remove",
+      "id": "4a089ee284d477e6",
+      "date": 1589300503595
     }
   ]
 }
