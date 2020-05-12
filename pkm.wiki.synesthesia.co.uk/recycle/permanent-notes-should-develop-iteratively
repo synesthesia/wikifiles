@@ -30,10 +30,6 @@
       "type": "markdown",
       "id": "3997b1cb902a3c94",
       "text": "[[Quality of Permanent Notes]]\n These characteristics are improved by feedback from observers, and because [[Iterative Development of Knowledge Artifacts Increases Feedback]] we seek greater iteration.\n\n"
-    },
-    {
-      "type": "factory",
-      "id": "d37af53e7fdb5f9e"
     }
   ],
   "journal": [
@@ -296,20 +292,6 @@
         "3997b1cb902a3c94"
       ],
       "date": 1589304166789
-    },
-    {
-      "type": "fork",
-      "date": 1589304872289
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "d37af53e7fdb5f9e"
-      },
-      "id": "d37af53e7fdb5f9e",
-      "type": "add",
-      "after": "3997b1cb902a3c94",
-      "date": 1589304876659
     }
   ]
 }
