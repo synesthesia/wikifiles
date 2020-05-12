@@ -17,6 +17,11 @@
       "text": "sources"
     },
     {
+      "type": "markdown",
+      "id": "d37af53e7fdb5f9e",
+      "text": "[[How to take smart notes]] p120"
+    },
+    {
       "type": "pagefold",
       "id": "48dc2e424ce552f5",
       "text": "to clean up"
@@ -30,10 +35,6 @@
       "type": "markdown",
       "id": "3997b1cb902a3c94",
       "text": "[[Quality of Permanent Notes]]\n These characteristics are improved by feedback from observers, and because [[Iterative Development of Knowledge Artifacts Increases Feedback]] we seek greater iteration.\n\n"
-    },
-    {
-      "type": "factory",
-      "id": "d37af53e7fdb5f9e"
     }
   ],
   "journal": [
@@ -310,6 +311,45 @@
       "type": "add",
       "after": "3997b1cb902a3c94",
       "date": 1589304876659
+    },
+    {
+      "type": "edit",
+      "id": "d37af53e7fdb5f9e",
+      "item": {
+        "type": "markdown",
+        "id": "d37af53e7fdb5f9e",
+        "text": "[[How to take smart notes]] p120"
+      },
+      "date": 1589304976272
+    },
+    {
+      "id": "d37af53e7fdb5f9e",
+      "type": "move",
+      "order": [
+        "d15597e151e5c215",
+        "257474a5f82ecce5",
+        "c081a5c2f8c074f0",
+        "d37af53e7fdb5f9e",
+        "48dc2e424ce552f5",
+        "fe2d2ce5702ca9f6",
+        "3997b1cb902a3c94"
+      ],
+      "date": 1589304979979
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2b0252b36110111f"
+      },
+      "id": "2b0252b36110111f",
+      "type": "add",
+      "after": "3997b1cb902a3c94",
+      "date": 1589305064111
+    },
+    {
+      "type": "remove",
+      "id": "2b0252b36110111f",
+      "date": 1589305118100
     }
   ]
 }
