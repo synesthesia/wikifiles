@@ -3,6 +3,11 @@
   "story": [
     {
       "type": "markdown",
+      "id": "d15597e151e5c215",
+      "text": "The [[quality of permanent notes]] is improved through more-frequent, cheaper feedback. Iterative development of these notes benefits from the effect that [[iterative development of knowledge artefacts increases feedback]]"
+    },
+    {
+      "type": "markdown",
       "id": "3997b1cb902a3c94",
       "text": "[[Quality of Permanent Notes]]\n These characteristics are improved by feedback from observers, and because [[Iterative Development of Knowledge Artifacts Increases Feedback]] we seek greater iteration.\n\n"
     },
@@ -10,10 +15,6 @@
       "type": "markdown",
       "id": "fe2d2ce5702ca9f6",
       "text": "And [[Revisiting Permanent Notes Encourages Deeper Linking]]"
-    },
-    {
-      "type": "factory",
-      "id": "d15597e151e5c215"
     }
   ],
   "journal": [
@@ -123,6 +124,26 @@
       "type": "add",
       "after": "fe2d2ce5702ca9f6",
       "date": 1589299981048
+    },
+    {
+      "type": "edit",
+      "id": "d15597e151e5c215",
+      "item": {
+        "type": "markdown",
+        "id": "d15597e151e5c215",
+        "text": "The [[quality of permanent notes]] is improved through more-frequent, cheaper feedback. Iterative development of these notes benefits from the effect that [[iterative development of knowledge artefacts increases feedback]]"
+      },
+      "date": 1589300118752
+    },
+    {
+      "id": "d15597e151e5c215",
+      "type": "move",
+      "order": [
+        "d15597e151e5c215",
+        "3997b1cb902a3c94",
+        "fe2d2ce5702ca9f6"
+      ],
+      "date": 1589300123222
     }
   ]
 }
