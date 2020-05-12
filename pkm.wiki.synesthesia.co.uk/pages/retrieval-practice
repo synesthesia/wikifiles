@@ -1,0 +1,134 @@
+{
+  "title": "Retrieval Practice",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "6c5f270afbf0c83c",
+      "text": "Efrat Furst"
+    },
+    {
+      "type": "markdown",
+      "id": "b07c75d925ce4645",
+      "text": ">Retrieval practice is a strategy to rehearse already learned information by trying to recall it from memory, or to actively locate the piece of information in one's mind. It is based on what is known as “The Testing Effect” – the findings that future long-term memory performance is enhanced for materials practiced by testing when compared to rehearsal.\n[https://sites.google.com/view/efratfurst/retrieval-practice page]"
+    },
+    {
+      "type": "pagefold",
+      "id": "1d7969c1e11b0815",
+      "text": "see also"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Retrieval Practice",
+        "story": []
+      },
+      "date": 1589266296222
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6c5f270afbf0c83c"
+      },
+      "id": "6c5f270afbf0c83c",
+      "type": "add",
+      "date": 1589266299877
+    },
+    {
+      "type": "edit",
+      "id": "6c5f270afbf0c83c",
+      "item": {
+        "type": "pagefold",
+        "id": "6c5f270afbf0c83c",
+        "text": "references"
+      },
+      "date": 1589266306350
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "25343714ec7fed15"
+      },
+      "id": "25343714ec7fed15",
+      "type": "add",
+      "after": "6c5f270afbf0c83c",
+      "date": 1589266324022
+    },
+    {
+      "type": "edit",
+      "id": "25343714ec7fed15",
+      "item": {
+        "type": "paragraph",
+        "id": "25343714ec7fed15",
+        "text": "[https://sites.google.com/view/efratfurst/retrieval-practice page]"
+      },
+      "date": 1589266341623
+    },
+    {
+      "type": "edit",
+      "id": "6c5f270afbf0c83c",
+      "item": {
+        "type": "pagefold",
+        "id": "6c5f270afbf0c83c",
+        "text": "Efrat Furst"
+      },
+      "date": 1589266386861
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b07c75d925ce4645"
+      },
+      "id": "b07c75d925ce4645",
+      "type": "add",
+      "after": "25343714ec7fed15",
+      "date": 1589266408931
+    },
+    {
+      "type": "edit",
+      "id": "b07c75d925ce4645",
+      "item": {
+        "type": "markdown",
+        "id": "b07c75d925ce4645",
+        "text": ">Retrieval practice is a strategy to rehearse already learned information by trying to recall it from memory, or to actively locate the piece of information in one's mind. It is based on what is known as “The Testing Effect” – the findings that future long-term memory performance is enhanced for materials practiced by testing when compared to rehearsal.\n[ page]"
+      },
+      "date": 1589266423678
+    },
+    {
+      "type": "edit",
+      "id": "b07c75d925ce4645",
+      "item": {
+        "type": "markdown",
+        "id": "b07c75d925ce4645",
+        "text": ">Retrieval practice is a strategy to rehearse already learned information by trying to recall it from memory, or to actively locate the piece of information in one's mind. It is based on what is known as “The Testing Effect” – the findings that future long-term memory performance is enhanced for materials practiced by testing when compared to rehearsal.\n[https://sites.google.com/view/efratfurst/retrieval-practice page]"
+      },
+      "date": 1589266433180
+    },
+    {
+      "type": "remove",
+      "id": "25343714ec7fed15",
+      "date": 1589266442671
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d7969c1e11b0815"
+      },
+      "id": "1d7969c1e11b0815",
+      "type": "add",
+      "after": "b07c75d925ce4645",
+      "date": 1589266471153
+    },
+    {
+      "type": "edit",
+      "id": "1d7969c1e11b0815",
+      "item": {
+        "type": "pagefold",
+        "id": "1d7969c1e11b0815",
+        "text": "see also"
+      },
+      "date": 1589266478923
+    }
+  ]
+}
