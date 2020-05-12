@@ -7,8 +7,9 @@
       "text": "Adding links to notes requires us to think about what other concepts might be linked to the concept we are writing."
     },
     {
-      "type": "factory",
-      "id": "e11d75ae161884a1"
+      "type": "paragraph",
+      "id": "e11d75ae161884a1",
+      "text": "Revisiting other concepts to consider potential links is a form of [[Retrieval Practice]] and thus forms deeper memory associations for those concepts."
     },
     {
       "type": "factory",
@@ -76,6 +77,26 @@
     {
       "type": "fork",
       "date": 1589265431492
+    },
+    {
+      "type": "edit",
+      "id": "e11d75ae161884a1",
+      "item": {
+        "type": "paragraph",
+        "id": "e11d75ae161884a1",
+        "text": "Revisiting other concepts to consider potential links is a form of [[Retrieval Practice]] and thus form"
+      },
+      "date": 1589265642299
+    },
+    {
+      "type": "edit",
+      "id": "e11d75ae161884a1",
+      "item": {
+        "type": "paragraph",
+        "id": "e11d75ae161884a1",
+        "text": "Revisiting other concepts to consider potential links is a form of [[Retrieval Practice]] and thus forms deeper memory associations for those concepts."
+      },
+      "date": 1589265896852
     }
   ]
 }
