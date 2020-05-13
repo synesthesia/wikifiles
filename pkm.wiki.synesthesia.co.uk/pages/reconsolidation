@@ -30,6 +30,11 @@
       "type": "markdown",
       "id": "68d7a5461eafce2f",
       "text": "1. Prior knowledge exists\n2. Prior knowledge is active\n3. Trigger predictions - while retrieving new knowledge think about how it can be used and what predictions can be made (see also [[Question Formulation Technique]])\n4. Make meaningful connections to new information\n5. Allow time for (re) consolidation\n[https://sites.google.com/view/efratfurst/powerofprediction page]"
+    },
+    {
+      "type": "markdown",
+      "id": "ffe32324a4268e35",
+      "text": "See also:\n* [[Making Meaning]]\n* [[Revisiting Permanent Notes Encourages Deeper Linking]]"
     }
   ],
   "journal": [
@@ -341,6 +346,36 @@
         "text": "1. Prior knowledge exists\n2. Prior knowledge is active\n3. Trigger predictions - while retrieving new knowledge think about how it can be used and what predictions can be made (see also [[Question Formulation Technique]])\n4. Make meaningful connections to new information\n5. Allow time for (re) consolidation\n[https://sites.google.com/view/efratfurst/powerofprediction page]"
       },
       "date": 1580237895810
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ffe32324a4268e35"
+      },
+      "id": "ffe32324a4268e35",
+      "type": "add",
+      "after": "68d7a5461eafce2f",
+      "date": 1589354113315
+    },
+    {
+      "type": "edit",
+      "id": "ffe32324a4268e35",
+      "item": {
+        "type": "markdown",
+        "id": "ffe32324a4268e35",
+        "text": "See also:\n* [[Making Meaning]]\n* [{Revisiting Permanent Notes Encourages Deeper Linking]]"
+      },
+      "date": 1589354145795
+    },
+    {
+      "type": "edit",
+      "id": "ffe32324a4268e35",
+      "item": {
+        "type": "markdown",
+        "id": "ffe32324a4268e35",
+        "text": "See also:\n* [[Making Meaning]]\n* [[Revisiting Permanent Notes Encourages Deeper Linking]]"
+      },
+      "date": 1589354155847
     }
   ]
 }

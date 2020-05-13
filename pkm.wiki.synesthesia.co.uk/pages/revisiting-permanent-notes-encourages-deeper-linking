@@ -9,7 +9,22 @@
     {
       "type": "markdown",
       "id": "aa0bb50ddba60885",
-      "text": "This may be stimulated when we consciously ask questions such as:\n* why is this concept important?\n* what does this concept remind me of?\n* what else supports this concept?\n* what counters this concept?"
+      "text": "This may be stimulated when we consciously ask questions such as:\n* why is this concept important?\n* how might this concept be used?\n* if this concept is true what else would we expect to see?\n* what does this concept remind us of?\n* what else supports this concept?\n* what counters this concept?"
+    },
+    {
+      "type": "markdown",
+      "id": "7ac91f37d525417c",
+      "text": "Through such questions we actively promote [[Reconsolidation]] and enhance the [[Meaning Making]]."
+    },
+    {
+      "type": "pagefold",
+      "id": "7cc6b1e2eedc4220",
+      "text": "sources"
+    },
+    {
+      "type": "markdown",
+      "id": "5e4c61d31ea52e13",
+      "text": "[[How to take Smart Notes]] p51 ff."
     }
   ],
   "journal": [
@@ -59,6 +74,96 @@
         "text": "This may be stimulated when we consciously ask questions such as:\n* why is this concept important?\n* what does this concept remind me of?\n* what else supports this concept?\n* what counters this concept?"
       },
       "date": 1589354043011
+    },
+    {
+      "type": "edit",
+      "id": "aa0bb50ddba60885",
+      "item": {
+        "type": "markdown",
+        "id": "aa0bb50ddba60885",
+        "text": "This may be stimulated when we consciously ask questions such as:\n* why is this concept important?\n* how might this concept be used?\n* if this concept is true what else wold we expect to see?\n* what does this concept remind me of?\n* what else supports this concept?\n* what counters this concept?"
+      },
+      "date": 1589354196631
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7ac91f37d525417c"
+      },
+      "id": "7ac91f37d525417c",
+      "type": "add",
+      "after": "aa0bb50ddba60885",
+      "date": 1589354199587
+    },
+    {
+      "type": "edit",
+      "id": "7ac91f37d525417c",
+      "item": {
+        "type": "markdown",
+        "id": "7ac91f37d525417c",
+        "text": "Through such questions we actively promote [[Reconsolidation]] and enhance the [[Meaning Making]]."
+      },
+      "date": 1589354233770
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7cc6b1e2eedc4220"
+      },
+      "id": "7cc6b1e2eedc4220",
+      "type": "add",
+      "after": "7ac91f37d525417c",
+      "date": 1589354236609
+    },
+    {
+      "type": "edit",
+      "id": "7cc6b1e2eedc4220",
+      "item": {
+        "type": "pagefold",
+        "id": "7cc6b1e2eedc4220",
+        "text": "sources"
+      },
+      "date": 1589354242228
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5e4c61d31ea52e13"
+      },
+      "id": "5e4c61d31ea52e13",
+      "type": "add",
+      "after": "7cc6b1e2eedc4220",
+      "date": 1589354249439
+    },
+    {
+      "type": "edit",
+      "id": "5e4c61d31ea52e13",
+      "item": {
+        "type": "markdown",
+        "id": "5e4c61d31ea52e13",
+        "text": "[[Taking Smart"
+      },
+      "date": 1589354259141
+    },
+    {
+      "type": "edit",
+      "id": "5e4c61d31ea52e13",
+      "item": {
+        "type": "markdown",
+        "id": "5e4c61d31ea52e13",
+        "text": "[[How to take Smart Notes]] p51 ff."
+      },
+      "date": 1589354277084
+    },
+    {
+      "type": "edit",
+      "id": "aa0bb50ddba60885",
+      "item": {
+        "type": "markdown",
+        "id": "aa0bb50ddba60885",
+        "text": "This may be stimulated when we consciously ask questions such as:\n* why is this concept important?\n* how might this concept be used?\n* if this concept is true what else would we expect to see?\n* what does this concept remind us of?\n* what else supports this concept?\n* what counters this concept?"
+      },
+      "date": 1589354308146
     }
   ]
 }
