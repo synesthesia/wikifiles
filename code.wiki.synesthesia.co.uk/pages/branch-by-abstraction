@@ -19,7 +19,7 @@
     {
       "type": "markdown",
       "id": "8e86e0a99864ea79",
-      "text": "[[Paul Hammant]] \"Introducing Branch By Abstraction\", 2007 [https://paulhammant.com/blog/branch_by_abstraction.html blog]"
+      "text": "[[Paul Hammant]] wrote about \"Introducing Branch By Abstraction\", 2007 [https://paulhammant.com/blog/branch_by_abstraction.html blog] but credits [[Stacey Curl]] with coining the phrase"
     },
     {
       "type": "markdown",
@@ -212,6 +212,36 @@
         "133670ebf825dfa9"
       ],
       "date": 1589356209412
+    },
+    {
+      "type": "edit",
+      "id": "8e86e0a99864ea79",
+      "item": {
+        "type": "markdown",
+        "id": "8e86e0a99864ea79",
+        "text": "[[Paul Hammant]] wrote about \"Introducing Branch By Abstraction\", 2007 [https://paulhammant.com/blog/branch_by_abstraction.html blog] but credits [{Stacey Curll]"
+      },
+      "date": 1589356735943
+    },
+    {
+      "type": "edit",
+      "id": "8e86e0a99864ea79",
+      "item": {
+        "type": "markdown",
+        "id": "8e86e0a99864ea79",
+        "text": "[[Paul Hammant]] wrote about \"Introducing Branch By Abstraction\", 2007 [https://paulhammant.com/blog/branch_by_abstraction.html blog] but credits [[Stacey Curl] with coining the phrase"
+      },
+      "date": 1589356759290
+    },
+    {
+      "type": "edit",
+      "id": "8e86e0a99864ea79",
+      "item": {
+        "type": "markdown",
+        "id": "8e86e0a99864ea79",
+        "text": "[[Paul Hammant]] wrote about \"Introducing Branch By Abstraction\", 2007 [https://paulhammant.com/blog/branch_by_abstraction.html blog] but credits [[Stacey Curl]] with coining the phrase"
+      },
+      "date": 1589356764509
     }
   ]
 }
