@@ -130,7 +130,7 @@
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/projects.html</loc>
-    <lastmod>2020-04-17</lastmod>
+    <lastmod>2020-05-13</lastmod>
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/sed.html</loc>
@@ -163,5 +163,9 @@
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/ansible.html</loc>
     <lastmod>2020-05-04</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/migrating-aspnet-to-aspnet-core.html</loc>
+    <lastmod>2020-05-13</lastmod>
   </url>
 </urlset>

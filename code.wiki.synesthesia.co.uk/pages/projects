@@ -21,6 +21,14 @@
       "slug": "testing",
       "title": "Testing",
       "text": "Why we test, how we test, the design of tests."
+    },
+    {
+      "type": "reference",
+      "id": "2a92f6895e6dea12",
+      "site": "code.wiki.synesthesia.co.uk",
+      "slug": "migrating-aspnet-to-aspnet-core",
+      "title": "Migrating ASP.Net to ASP.Net Core",
+      "text": "Modernising a web api"
     }
   ],
   "journal": [
@@ -171,6 +179,54 @@
         "text": "Why we test, how we test, the design of tests."
       },
       "date": 1587136287363
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "725d41dba0db35f0"
+      },
+      "id": "725d41dba0db35f0",
+      "type": "add",
+      "after": "8315cb7c8d942afb",
+      "date": 1589355203860
+    },
+    {
+      "type": "edit",
+      "id": "725d41dba0db35f0",
+      "item": {
+        "type": "paragraph",
+        "id": "725d41dba0db35f0",
+        "text": "[[Migrating ASP.Net to ASP.Net Core]]"
+      },
+      "date": 1589355222176
+    },
+    {
+      "type": "remove",
+      "id": "725d41dba0db35f0",
+      "date": 1589355246232
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a92f6895e6dea12"
+      },
+      "id": "2a92f6895e6dea12",
+      "type": "add",
+      "after": "8315cb7c8d942afb",
+      "date": 1589355249714
+    },
+    {
+      "type": "edit",
+      "id": "2a92f6895e6dea12",
+      "item": {
+        "type": "reference",
+        "id": "2a92f6895e6dea12",
+        "site": "code.wiki.synesthesia.co.uk",
+        "slug": "migrating-aspnet-to-aspnet-core",
+        "title": "Migrating ASP.Net to ASP.Net Core",
+        "text": "Modernising a web api"
+      },
+      "date": 1589355254646
     }
   ]
 }

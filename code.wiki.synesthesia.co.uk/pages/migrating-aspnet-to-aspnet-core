@@ -1,0 +1,39 @@
+{
+  "title": "Migrating ASP.Net to ASP.Net Core",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9157c566f3a54a54",
+      "text": "Modernising a web api"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Migrating ASP.Net to ASP.Net Core",
+        "story": []
+      },
+      "date": 1589355225933
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9157c566f3a54a54"
+      },
+      "id": "9157c566f3a54a54",
+      "type": "add",
+      "date": 1589355227903
+    },
+    {
+      "type": "edit",
+      "id": "9157c566f3a54a54",
+      "item": {
+        "type": "paragraph",
+        "id": "9157c566f3a54a54",
+        "text": "Modernising a web api"
+      },
+      "date": 1589355240188
+    }
+  ]
+}
