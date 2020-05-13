@@ -1,0 +1,72 @@
+{
+  "title": "Application of Reconsolidation Effects",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fe348f82d0de51d0",
+      "text": "[[Efrat Furst]] suggests that for practical application of the [[reconsolidation]] effect to acquiring new knowledge the following steps are required:"
+    },
+    {
+      "type": "markdown",
+      "id": "68d7a5461eafce2f",
+      "text": "1. Prior knowledge exists\n2. Prior knowledge is active\n3. Trigger predictions - while retrieving new knowledge think about how it can be used and what predictions can be made (see also [[Question Formulation Technique]])\n4. Make meaningful connections to new information\n5. Allow time for (re) consolidation\n[https://sites.google.com/view/efratfurst/powerofprediction page]"
+    },
+    {
+      "type": "markdown",
+      "id": "ffe32324a4268e35",
+      "text": "See also:\n* [[Making Meaning]]\n* [[Revisiting Permanent Notes Encourages Deeper Linking]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Application of Reconsolidation Effects",
+        "story": []
+      },
+      "date": 1589354414727
+    },
+    {
+      "id": "fe348f82d0de51d0",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "fe348f82d0de51d0",
+        "text": "Furst suggests that for practical application to acquiring new knowledge the following steps are required:"
+      },
+      "date": 1589354417494
+    },
+    {
+      "id": "68d7a5461eafce2f",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "68d7a5461eafce2f",
+        "text": "1. Prior knowledge exists\n2. Prior knowledge is active\n3. Trigger predictions - while retrieving new knowledge think about how it can be used and what predictions can be made (see also [[Question Formulation Technique]])\n4. Make meaningful connections to new information\n5. Allow time for (re) consolidation\n[https://sites.google.com/view/efratfurst/powerofprediction page]"
+      },
+      "after": "fe348f82d0de51d0",
+      "date": 1589354424431
+    },
+    {
+      "type": "edit",
+      "id": "fe348f82d0de51d0",
+      "item": {
+        "type": "paragraph",
+        "id": "fe348f82d0de51d0",
+        "text": "[[Efrat Furst]] suggests that for practical application of the [[reconsolidation]] effect to acquiring new knowledge the following steps are required:"
+      },
+      "date": 1589354448798
+    },
+    {
+      "id": "ffe32324a4268e35",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "ffe32324a4268e35",
+        "text": "See also:\n* [[Making Meaning]]\n* [[Revisiting Permanent Notes Encourages Deeper Linking]]"
+      },
+      "after": "68d7a5461eafce2f",
+      "date": 1589354472606
+    }
+  ]
+}

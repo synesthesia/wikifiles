@@ -23,13 +23,8 @@
     },
     {
       "type": "paragraph",
-      "id": "fe348f82d0de51d0",
-      "text": "Furst suggests that for practical application to acquiring new knowledge the following steps are required:"
-    },
-    {
-      "type": "markdown",
-      "id": "68d7a5461eafce2f",
-      "text": "1. Prior knowledge exists\n2. Prior knowledge is active\n3. Trigger predictions - while retrieving new knowledge think about how it can be used and what predictions can be made (see also [[Question Formulation Technique]])\n4. Make meaningful connections to new information\n5. Allow time for (re) consolidation\n[https://sites.google.com/view/efratfurst/powerofprediction page]"
+      "id": "0536e5c3a1d3c09e",
+      "text": "See [[Application of Reconsolidation Effects]]"
     },
     {
       "type": "markdown",
@@ -376,6 +371,43 @@
         "text": "See also:\n* [[Making Meaning]]\n* [[Revisiting Permanent Notes Encourages Deeper Linking]]"
       },
       "date": 1589354155847
+    },
+    {
+      "type": "add",
+      "id": "0536e5c3a1d3c09e",
+      "item": {
+        "type": "paragraph",
+        "id": "0536e5c3a1d3c09e",
+        "text": "See [[Application of Reconsolidation Effects]]"
+      },
+      "after": "f85a24a6ccec32f7",
+      "date": 1589354408886
+    },
+    {
+      "id": "68d7a5461eafce2f",
+      "type": "remove",
+      "date": 1589354424430
+    },
+    {
+      "type": "remove",
+      "id": "fe348f82d0de51d0",
+      "date": 1589354458777
+    },
+    {
+      "id": "ffe32324a4268e35",
+      "type": "remove",
+      "date": 1589354472602
+    },
+    {
+      "id": "ffe32324a4268e35",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "ffe32324a4268e35",
+        "text": "See also:\n* [[Making Meaning]]\n* [[Revisiting Permanent Notes Encourages Deeper Linking]]"
+      },
+      "after": "0536e5c3a1d3c09e",
+      "date": 1589354480476
     }
   ]
 }
