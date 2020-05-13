@@ -1,0 +1,39 @@
+{
+  "title": "Paul Hammant",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "79a0d1aa951d12a6",
+      "text": "DevOps consultant, writier, creator of several well known tools. [https://hammant.org/ bio page]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Paul Hammant",
+        "story": []
+      },
+      "date": 1589355979041
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "79a0d1aa951d12a6"
+      },
+      "id": "79a0d1aa951d12a6",
+      "type": "add",
+      "date": 1589355980465
+    },
+    {
+      "type": "edit",
+      "id": "79a0d1aa951d12a6",
+      "item": {
+        "type": "markdown",
+        "id": "79a0d1aa951d12a6",
+        "text": "DevOps consultant, writier, creator of several well known tools. [https://hammant.org/ bio page]"
+      },
+      "date": 1589355999640
+    }
+  ]
+}

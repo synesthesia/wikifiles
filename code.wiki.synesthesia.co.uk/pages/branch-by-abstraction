@@ -19,7 +19,7 @@
     {
       "type": "markdown",
       "id": "133670ebf825dfa9",
-      "text": "\n\n[[Martin Fowler]] promoted the phrase in ~2014"
+      "text": "\n[[Martin Fowler]] simplified and promoted the phrase in ~2014 [https://martinfowler.com/bliki/BranchByAbstraction.html page]"
     }
   ],
   "journal": [
@@ -165,6 +165,16 @@
         "133670ebf825dfa9"
       ],
       "date": 1589355893604
+    },
+    {
+      "type": "edit",
+      "id": "133670ebf825dfa9",
+      "item": {
+        "type": "markdown",
+        "id": "133670ebf825dfa9",
+        "text": "\n[[Martin Fowler]] simplified and promoted the phrase in ~2014 [https://martinfowler.com/bliki/BranchByAbstraction.html page]"
+      },
+      "date": 1589355935288
     }
   ]
 }

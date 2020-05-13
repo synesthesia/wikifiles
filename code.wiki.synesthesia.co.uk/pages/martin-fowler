@@ -1,0 +1,39 @@
+{
+  "title": "Martin Fowler",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "b42bac50a7bceeb2",
+      "text": "Author, speaker, Chief Scientist at Thoughtworks [https://martinfowler.com/aboutMe.html bio page]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Martin Fowler",
+        "story": []
+      },
+      "date": 1589356029329
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b42bac50a7bceeb2"
+      },
+      "id": "b42bac50a7bceeb2",
+      "type": "add",
+      "date": 1589356030773
+    },
+    {
+      "type": "edit",
+      "id": "b42bac50a7bceeb2",
+      "item": {
+        "type": "markdown",
+        "id": "b42bac50a7bceeb2",
+        "text": "Author, speaker, Chief Scientist at Thoughtworks [https://martinfowler.com/aboutMe.html bio page]"
+      },
+      "date": 1589356048976
+    }
+  ]
+}
