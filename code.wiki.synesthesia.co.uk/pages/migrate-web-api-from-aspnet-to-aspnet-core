@@ -1,0 +1,39 @@
+{
+  "title": "Migrate Web API from ASP.Net to ASP.Net Core",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "8d86ff28c33f5baa",
+      "text": "See Microsoft documentation [https://docs.microsoft.com/en-us/aspnet/core/migration/webapi?view=aspnetcore-3.1 page]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Migrate Web API from ASP.Net to ASP.Net Core",
+        "story": []
+      },
+      "date": 1589355401544
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8d86ff28c33f5baa"
+      },
+      "id": "8d86ff28c33f5baa",
+      "type": "add",
+      "date": 1589355412033
+    },
+    {
+      "type": "edit",
+      "id": "8d86ff28c33f5baa",
+      "item": {
+        "type": "markdown",
+        "id": "8d86ff28c33f5baa",
+        "text": "See Microsoft documentation [https://docs.microsoft.com/en-us/aspnet/core/migration/webapi?view=aspnetcore-3.1 page]"
+      },
+      "date": 1589355430871
+    }
+  ]
+}

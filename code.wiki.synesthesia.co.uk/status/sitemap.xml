@@ -168,4 +168,8 @@
     <loc>http://code.wiki.synesthesia.co.uk/migrating-aspnet-to-aspnet-core.html</loc>
     <lastmod>2020-05-13</lastmod>
   </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/migrate-web-api-from-aspnet-to-aspnet-core.html</loc>
+    <lastmod>2020-05-13</lastmod>
+  </url>
 </urlset>

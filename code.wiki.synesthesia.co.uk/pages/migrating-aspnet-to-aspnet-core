@@ -5,6 +5,16 @@
       "type": "paragraph",
       "id": "9157c566f3a54a54",
       "text": "Modernising a web api"
+    },
+    {
+      "type": "markdown",
+      "id": "4ee9e641d183ac40",
+      "text": "Microsoft supply extensive documentation on how to [[Migrate Web API from ASP.Net to ASP.Net Core]]"
+    },
+    {
+      "type": "markdown",
+      "id": "a2d5dd1f937cb12d",
+      "text": "In a significant application with multiple assemblies we find the first challenge is to [[Migrate Dependencies from  DotNetFramework to DotNetStandard]]"
     }
   ],
   "journal": [
@@ -34,6 +44,66 @@
         "text": "Modernising a web api"
       },
       "date": 1589355240188
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4ee9e641d183ac40"
+      },
+      "id": "4ee9e641d183ac40",
+      "type": "add",
+      "after": "9157c566f3a54a54",
+      "date": 1589355304466
+    },
+    {
+      "type": "edit",
+      "id": "4ee9e641d183ac40",
+      "item": {
+        "type": "markdown",
+        "id": "4ee9e641d183ac40",
+        "text": "Microsoft supply extensive documentation on migrating the core of a web app from Asp"
+      },
+      "date": 1589355340294
+    },
+    {
+      "type": "edit",
+      "id": "4ee9e641d183ac40",
+      "item": {
+        "type": "markdown",
+        "id": "4ee9e641d183ac40",
+        "text": "Microsoft supply extensive documentation on "
+      },
+      "date": 1589355376366
+    },
+    {
+      "type": "edit",
+      "id": "4ee9e641d183ac40",
+      "item": {
+        "type": "markdown",
+        "id": "4ee9e641d183ac40",
+        "text": "Microsoft supply extensive documentation on how to [[Migrate Web API from ASP.Net to ASP.Net Core]]"
+      },
+      "date": 1589355398790
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a2d5dd1f937cb12d"
+      },
+      "id": "a2d5dd1f937cb12d",
+      "type": "add",
+      "after": "4ee9e641d183ac40",
+      "date": 1589355436992
+    },
+    {
+      "type": "edit",
+      "id": "a2d5dd1f937cb12d",
+      "item": {
+        "type": "markdown",
+        "id": "a2d5dd1f937cb12d",
+        "text": "In a significant application with multiple assemblies we find the first challenge is to [[Migrate Dependencies from  DotNetFramework to DotNetStandard]]"
+      },
+      "date": 1589355520077
     }
   ]
 }
