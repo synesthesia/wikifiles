@@ -22,19 +22,9 @@
       "text": "[[How to take smart notes]] p120"
     },
     {
-      "type": "pagefold",
-      "id": "48dc2e424ce552f5",
-      "text": "to clean up"
-    },
-    {
-      "type": "markdown",
-      "id": "fe2d2ce5702ca9f6",
-      "text": "And [[Revisiting Permanent Notes Encourages Deeper Linking]]"
-    },
-    {
       "type": "markdown",
       "id": "3997b1cb902a3c94",
-      "text": "[[Quality of Permanent Notes]]\n These characteristics are improved by feedback from observers, and because [[Iterative Development of Knowledge Artifacts Increases Feedback]] we seek greater iteration.\n\n"
+      "text": "\n"
     }
   ],
   "journal": [
@@ -350,6 +340,26 @@
       "type": "remove",
       "id": "2b0252b36110111f",
       "date": 1589305118100
+    },
+    {
+      "type": "remove",
+      "id": "fe2d2ce5702ca9f6",
+      "date": 1589353850763
+    },
+    {
+      "type": "edit",
+      "id": "3997b1cb902a3c94",
+      "item": {
+        "type": "markdown",
+        "id": "3997b1cb902a3c94",
+        "text": "\n"
+      },
+      "date": 1589353856685
+    },
+    {
+      "type": "remove",
+      "id": "48dc2e424ce552f5",
+      "date": 1589353862453
     }
   ]
 }

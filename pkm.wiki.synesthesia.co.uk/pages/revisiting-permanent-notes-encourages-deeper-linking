@@ -1,0 +1,64 @@
+{
+  "title": "Revisiting Permanent Notes Encourages Deeper Linking",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "8421899f7db2b200",
+      "text": "Each time we visit a [[Permanent Note]] we may see new connections, or revise existing ones.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "aa0bb50ddba60885",
+      "text": "This may be stimulated when we consciously ask questions such as:\n* why is this concept important?\n* what does this concept remind me of?\n* what else supports this concept?\n* what counters this concept?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Revisiting Permanent Notes Encourages Deeper Linking",
+        "story": []
+      },
+      "date": 1589353901907
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8421899f7db2b200"
+      },
+      "id": "8421899f7db2b200",
+      "type": "add",
+      "date": 1589353903948
+    },
+    {
+      "type": "edit",
+      "id": "8421899f7db2b200",
+      "item": {
+        "type": "markdown",
+        "id": "8421899f7db2b200",
+        "text": "Each time we visit a [[Permanent Note]] we may see new connections, or revise existing ones.\n"
+      },
+      "date": 1589353953366
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aa0bb50ddba60885"
+      },
+      "id": "aa0bb50ddba60885",
+      "type": "add",
+      "after": "8421899f7db2b200",
+      "date": 1589353976360
+    },
+    {
+      "type": "edit",
+      "id": "aa0bb50ddba60885",
+      "item": {
+        "type": "markdown",
+        "id": "aa0bb50ddba60885",
+        "text": "This may be stimulated when we consciously ask questions such as:\n* why is this concept important?\n* what does this concept remind me of?\n* what else supports this concept?\n* what counters this concept?"
+      },
+      "date": 1589354043011
+    }
+  ]
+}
