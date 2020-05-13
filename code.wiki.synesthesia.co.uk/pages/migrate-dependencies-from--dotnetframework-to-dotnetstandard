@@ -2,9 +2,19 @@
   "title": "Migrate Dependencies from  DotNetFramework to DotNetStandard",
   "story": [
     {
+      "type": "paragraph",
+      "id": "f0f726278e5e043e",
+      "text": "For simple model assemblies it is usually sufficient to just re-create as [[DotNetStandard]]"
+    },
+    {
       "type": "markdown",
       "id": "f7dae9fcbaa5ff44",
-      "text": "We use [[Branch by Abstraction]] to provide a clear seam between the calling application and the dependency."
+      "text": "For more complex code we use [[Branch by Abstraction]] to provide a clear seam between the calling application and the dependency."
+    },
+    {
+      "type": "markdown",
+      "id": "895d5efe4be81f4d",
+      "text": "The task of writing the new dependency (supplier) may be made more complex by further dependencies. For example in an assembly that depends on the Microsoft Dynamics SDK significant refactoring will be needed as these are not available in a [[DotNetStandard]] version."
     }
   ],
   "journal": [
@@ -34,6 +44,65 @@
         "text": "We use [[Branch by Abstraction]] to provide a clear seam between the calling application and the dependency."
       },
       "date": 1589355670016
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f0f726278e5e043e"
+      },
+      "id": "f0f726278e5e043e",
+      "type": "add",
+      "after": "f7dae9fcbaa5ff44",
+      "date": 1589356954585
+    },
+    {
+      "type": "edit",
+      "id": "f0f726278e5e043e",
+      "item": {
+        "type": "paragraph",
+        "id": "f0f726278e5e043e",
+        "text": "For simple model assemblies it is usually sufficient to just re-create as [[DotNetStandard]]"
+      },
+      "date": 1589356989997
+    },
+    {
+      "id": "f0f726278e5e043e",
+      "type": "move",
+      "order": [
+        "f0f726278e5e043e",
+        "f7dae9fcbaa5ff44"
+      ],
+      "date": 1589356992169
+    },
+    {
+      "type": "edit",
+      "id": "f7dae9fcbaa5ff44",
+      "item": {
+        "type": "markdown",
+        "id": "f7dae9fcbaa5ff44",
+        "text": "For more complex code we use [[Branch by Abstraction]] to provide a clear seam between the calling application and the dependency."
+      },
+      "date": 1589357000996
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "895d5efe4be81f4d"
+      },
+      "id": "895d5efe4be81f4d",
+      "type": "add",
+      "after": "f7dae9fcbaa5ff44",
+      "date": 1589357026571
+    },
+    {
+      "type": "edit",
+      "id": "895d5efe4be81f4d",
+      "item": {
+        "type": "markdown",
+        "id": "895d5efe4be81f4d",
+        "text": "The task of writing the new dependency (supplier) may be made more complex by further dependencies. For example in an assembly that depends on the Microsoft Dynamics SDK significant refactoring will be needed as these are not available in a [[DotNetStandard]] version."
+      },
+      "date": 1589357095780
     }
   ]
 }

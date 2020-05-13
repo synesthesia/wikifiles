@@ -1,0 +1,49 @@
+{
+  "title": "Stacey Curl",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "a566aa3a5122c376",
+      "text": "UK-based developer [https://www.linkedin.com/in/stacycurl/?originalSubdomain=uk linkedin] [https://github.com/stacycurl github] credited by [[Paul Hammant]] with coining the phrase \"Branch by Abstraction\""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Stacey Curl",
+        "story": []
+      },
+      "date": 1589356836060
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a566aa3a5122c376"
+      },
+      "id": "a566aa3a5122c376",
+      "type": "add",
+      "date": 1589356837909
+    },
+    {
+      "type": "edit",
+      "id": "a566aa3a5122c376",
+      "item": {
+        "type": "markdown",
+        "id": "a566aa3a5122c376",
+        "text": "UK-based developer [https://github.com/stacycurl github] credited by [[Paul Hammant]] with coining the phrase \"Branch by Abstraction\""
+      },
+      "date": 1589356874576
+    },
+    {
+      "type": "edit",
+      "id": "a566aa3a5122c376",
+      "item": {
+        "type": "markdown",
+        "id": "a566aa3a5122c376",
+        "text": "UK-based developer [https://www.linkedin.com/in/stacycurl/?originalSubdomain=uk linkedin] [https://github.com/stacycurl github] credited by [[Paul Hammant]] with coining the phrase \"Branch by Abstraction\""
+      },
+      "date": 1589356918238
+    }
+  ]
+}
