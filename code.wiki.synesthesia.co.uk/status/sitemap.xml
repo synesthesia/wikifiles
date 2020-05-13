@@ -172,4 +172,12 @@
     <loc>http://code.wiki.synesthesia.co.uk/migrate-web-api-from-aspnet-to-aspnet-core.html</loc>
     <lastmod>2020-05-13</lastmod>
   </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/migrate-dependencies-from--dotnetframework-to-dotnetstandard.html</loc>
+    <lastmod>2020-05-13</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/branch-by-abstraction.html</loc>
+    <lastmod>2020-05-13</lastmod>
+  </url>
 </urlset>

@@ -1,0 +1,39 @@
+{
+  "title": "Migrate Dependencies from  DotNetFramework to DotNetStandard",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "f7dae9fcbaa5ff44",
+      "text": "We use [[Branch by Abstraction]] to provide a clear seam between the calling application and the dependency."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Migrate Dependencies from  DotNetFramework to DotNetStandard",
+        "story": []
+      },
+      "date": 1589355629786
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f7dae9fcbaa5ff44"
+      },
+      "id": "f7dae9fcbaa5ff44",
+      "type": "add",
+      "date": 1589355633507
+    },
+    {
+      "type": "edit",
+      "id": "f7dae9fcbaa5ff44",
+      "item": {
+        "type": "markdown",
+        "id": "f7dae9fcbaa5ff44",
+        "text": "We use [[Branch by Abstraction]] to provide a clear seam between the calling application and the dependency."
+      },
+      "date": 1589355670016
+    }
+  ]
+}

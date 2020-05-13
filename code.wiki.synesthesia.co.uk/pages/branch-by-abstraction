@@ -1,0 +1,170 @@
+{
+  "title": "Branch by Abstraction",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "536c1852dba5b846",
+      "text": "An approach to large-scale change in a codebase that allows ongoing releases whilst the change is in progress."
+    },
+    {
+      "type": "pagefold",
+      "id": "e992fdbb437ef6d1",
+      "text": "Sources"
+    },
+    {
+      "type": "markdown",
+      "id": "8e86e0a99864ea79",
+      "text": "[[Paul Hammant]] \"Introducing Branch By Abstraction\", 2007 [https://paulhammant.com/blog/branch_by_abstraction.html blog]"
+    },
+    {
+      "type": "markdown",
+      "id": "133670ebf825dfa9",
+      "text": "\n\n[[Martin Fowler]] promoted the phrase in ~2014"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Branch by Abstraction",
+        "story": []
+      },
+      "date": 1589355676835
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "536c1852dba5b846"
+      },
+      "id": "536c1852dba5b846",
+      "type": "add",
+      "date": 1589355685841
+    },
+    {
+      "type": "edit",
+      "id": "536c1852dba5b846",
+      "item": {
+        "type": "markdown",
+        "id": "536c1852dba5b846",
+        "text": "An approach to "
+      },
+      "date": 1589355693194
+    },
+    {
+      "type": "edit",
+      "id": "536c1852dba5b846",
+      "item": {
+        "type": "markdown",
+        "id": "536c1852dba5b846",
+        "text": "An approach to large-scale change in a codebase that allows ongoing releases whilst the change is in progress."
+      },
+      "date": 1589355726558
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e992fdbb437ef6d1"
+      },
+      "id": "e992fdbb437ef6d1",
+      "type": "add",
+      "after": "536c1852dba5b846",
+      "date": 1589355739461
+    },
+    {
+      "type": "edit",
+      "id": "e992fdbb437ef6d1",
+      "item": {
+        "type": "pagefold",
+        "id": "e992fdbb437ef6d1",
+        "text": "Sources"
+      },
+      "date": 1589355747592
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "133670ebf825dfa9"
+      },
+      "id": "133670ebf825dfa9",
+      "type": "add",
+      "after": "e992fdbb437ef6d1",
+      "date": 1589355749026
+    },
+    {
+      "type": "edit",
+      "id": "133670ebf825dfa9",
+      "item": {
+        "type": "markdown",
+        "id": "133670ebf825dfa9",
+        "text": "[[Martin Fowler]] coined the phrase in ~2014"
+      },
+      "date": 1589355774247
+    },
+    {
+      "type": "edit",
+      "id": "133670ebf825dfa9",
+      "item": {
+        "type": "markdown",
+        "id": "133670ebf825dfa9",
+        "text": "\n\n[[Martin Fowler]] promoted the phrase in ~2014"
+      },
+      "date": 1589355843584
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c5a6cd595b5d97ec"
+      },
+      "id": "c5a6cd595b5d97ec",
+      "type": "add",
+      "after": "133670ebf825dfa9",
+      "date": 1589355845082
+    },
+    {
+      "type": "remove",
+      "id": "c5a6cd595b5d97ec",
+      "date": 1589355850053
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8e86e0a99864ea79"
+      },
+      "id": "8e86e0a99864ea79",
+      "type": "add",
+      "after": "133670ebf825dfa9",
+      "date": 1589355854671
+    },
+    {
+      "type": "edit",
+      "id": "8e86e0a99864ea79",
+      "item": {
+        "type": "markdown",
+        "id": "8e86e0a99864ea79",
+        "text": "[[Paul Hammant]] \"Introducing Branch By Abstraction\", 2007"
+      },
+      "date": 1589355879385
+    },
+    {
+      "type": "edit",
+      "id": "8e86e0a99864ea79",
+      "item": {
+        "type": "markdown",
+        "id": "8e86e0a99864ea79",
+        "text": "[[Paul Hammant]] \"Introducing Branch By Abstraction\", 2007 [https://paulhammant.com/blog/branch_by_abstraction.html blog]"
+      },
+      "date": 1589355891255
+    },
+    {
+      "id": "133670ebf825dfa9",
+      "type": "move",
+      "order": [
+        "536c1852dba5b846",
+        "e992fdbb437ef6d1",
+        "8e86e0a99864ea79",
+        "133670ebf825dfa9"
+      ],
+      "date": 1589355893604
+    }
+  ]
+}

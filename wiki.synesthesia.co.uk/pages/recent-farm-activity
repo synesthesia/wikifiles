@@ -4,21 +4,12 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "f280c0686cb14202"
+      "id": "d16805a3bb1b3430"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "8f86ee7eef78ed4e"
-    },
-    {
-      "date": 1589354341000,
-      "site": "wiki.synesthesia.co.uk",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
-      "type": "reference",
-      "id": "e6ba94d1b363460f"
+      "id": "70d333cd0ece1f84"
     },
     {
       "date": 1589354519000,
@@ -27,22 +18,31 @@
       "title": "Revisiting Permanent Notes Encourages Deeper Linking",
       "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 242 pages.",
       "type": "reference",
-      "id": "1668f72e795e4e21"
+      "id": "828fe60b7572851e"
     },
     {
-      "date": 1589355230000,
-      "site": "code.wiki.synesthesia.co.uk",
-      "slug": "migrating-aspnet-to-aspnet-core",
-      "title": "Migrating ASP.Net to ASP.Net Core",
-      "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 42 pages.",
+      "date": 1589355241000,
+      "site": "wiki.synesthesia.co.uk",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
       "type": "reference",
-      "id": "989a7bbdd41a894a"
+      "id": "632069f4545d8c03"
+    },
+    {
+      "date": 1589355777000,
+      "site": "code.wiki.synesthesia.co.uk",
+      "slug": "branch-by-abstraction",
+      "title": "Branch by Abstraction",
+      "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 45 pages.",
+      "type": "reference",
+      "id": "fe52cb0531289f81"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "08a166e6c497f091",
+      "id": "8a2cab95cedffea2",
       "item": {
         "title": "Recent Farm Activity"
       },
@@ -52,41 +52,27 @@
     },
     {
       "type": "add",
-      "id": "f280c0686cb14202",
+      "id": "d16805a3bb1b3430",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "f280c0686cb14202"
+        "id": "d16805a3bb1b3430"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "8f86ee7eef78ed4e",
+      "id": "70d333cd0ece1f84",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "8f86ee7eef78ed4e"
+        "id": "70d333cd0ece1f84"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "e6ba94d1b363460f",
-      "item": {
-        "date": 1589354341000,
-        "site": "wiki.synesthesia.co.uk",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
-        "type": "reference",
-        "id": "e6ba94d1b363460f"
-      },
-      "date": 1589354341000
-    },
-    {
-      "type": "add",
-      "id": "1668f72e795e4e21",
+      "id": "828fe60b7572851e",
       "item": {
         "date": 1589354519000,
         "site": "pkm.wiki.synesthesia.co.uk",
@@ -94,23 +80,37 @@
         "title": "Revisiting Permanent Notes Encourages Deeper Linking",
         "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 242 pages.",
         "type": "reference",
-        "id": "1668f72e795e4e21"
+        "id": "828fe60b7572851e"
       },
       "date": 1589354519000
     },
     {
       "type": "add",
-      "id": "989a7bbdd41a894a",
+      "id": "632069f4545d8c03",
       "item": {
-        "date": 1589355230000,
-        "site": "code.wiki.synesthesia.co.uk",
-        "slug": "migrating-aspnet-to-aspnet-core",
-        "title": "Migrating ASP.Net to ASP.Net Core",
-        "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 42 pages.",
+        "date": 1589355241000,
+        "site": "wiki.synesthesia.co.uk",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
         "type": "reference",
-        "id": "989a7bbdd41a894a"
+        "id": "632069f4545d8c03"
       },
-      "date": 1589355230000
+      "date": 1589355241000
+    },
+    {
+      "type": "add",
+      "id": "fe52cb0531289f81",
+      "item": {
+        "date": 1589355777000,
+        "site": "code.wiki.synesthesia.co.uk",
+        "slug": "branch-by-abstraction",
+        "title": "Branch by Abstraction",
+        "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 45 pages.",
+        "type": "reference",
+        "id": "fe52cb0531289f81"
+      },
+      "date": 1589355777000
     }
   ]
 }
