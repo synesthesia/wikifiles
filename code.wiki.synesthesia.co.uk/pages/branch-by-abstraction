@@ -7,6 +7,11 @@
       "text": "An approach to large-scale change in a codebase that allows ongoing releases whilst the change is in progress."
     },
     {
+      "type": "markdown",
+      "id": "f889185b3218b7ee",
+      "text": "* assume we have client code (dependent) and supplier code (dependency)\n* introduce abstraction layer between client and supplier by modifying both\n* develop new supplier code\n* migrate client code to use the new supplier code via the abstraction layer\n* remove old supplier code\n* (optional) remove abstraction layer"
+    },
+    {
       "type": "pagefold",
       "id": "e992fdbb437ef6d1",
       "text": "Sources"
@@ -20,10 +25,6 @@
       "type": "markdown",
       "id": "133670ebf825dfa9",
       "text": "\n[[Martin Fowler]] simplified and promoted the phrase in ~2014 [https://martinfowler.com/bliki/BranchByAbstraction.html page]"
-    },
-    {
-      "type": "factory",
-      "id": "f889185b3218b7ee"
     }
   ],
   "journal": [
@@ -189,6 +190,28 @@
       "type": "add",
       "after": "133670ebf825dfa9",
       "date": 1589356116783
+    },
+    {
+      "type": "edit",
+      "id": "f889185b3218b7ee",
+      "item": {
+        "type": "markdown",
+        "id": "f889185b3218b7ee",
+        "text": "* assume we have client code (dependent) and supplier code (dependency)\n* introduce abstraction layer between client and supplier by modifying both\n* develop new supplier code\n* migrate client code to use the new supplier code via the abstraction layer\n* remove old supplier code\n* (optional) remove abstraction layer"
+      },
+      "date": 1589356207119
+    },
+    {
+      "id": "f889185b3218b7ee",
+      "type": "move",
+      "order": [
+        "536c1852dba5b846",
+        "f889185b3218b7ee",
+        "e992fdbb437ef6d1",
+        "8e86e0a99864ea79",
+        "133670ebf825dfa9"
+      ],
+      "date": 1589356209412
     }
   ]
 }
