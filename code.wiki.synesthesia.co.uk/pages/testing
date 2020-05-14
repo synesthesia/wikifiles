@@ -5,6 +5,16 @@
       "type": "paragraph",
       "id": "700db8bc8fe32344",
       "text": "Why we test, how we test, the design of tests."
+    },
+    {
+      "type": "pagefold",
+      "id": "0a1e6b4e8c0b3c46",
+      "text": "Some key testing concepts"
+    },
+    {
+      "type": "paragraph",
+      "id": "0d0a75a738e3a22d",
+      "text": "[[Test Double]]"
     }
   ],
   "journal": [
@@ -34,6 +44,46 @@
         "text": "Why we test, how we test, the design of tests."
       },
       "date": 1587136278871
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0a1e6b4e8c0b3c46"
+      },
+      "id": "0a1e6b4e8c0b3c46",
+      "type": "add",
+      "after": "700db8bc8fe32344",
+      "date": 1589467202952
+    },
+    {
+      "type": "edit",
+      "id": "0a1e6b4e8c0b3c46",
+      "item": {
+        "type": "pagefold",
+        "id": "0a1e6b4e8c0b3c46",
+        "text": "Some key testing concepts"
+      },
+      "date": 1589467238734
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0d0a75a738e3a22d"
+      },
+      "id": "0d0a75a738e3a22d",
+      "type": "add",
+      "after": "0a1e6b4e8c0b3c46",
+      "date": 1589467240785
+    },
+    {
+      "type": "edit",
+      "id": "0d0a75a738e3a22d",
+      "item": {
+        "type": "paragraph",
+        "id": "0d0a75a738e3a22d",
+        "text": "[[Test Double]]"
+      },
+      "date": 1589467250135
     }
   ]
 }

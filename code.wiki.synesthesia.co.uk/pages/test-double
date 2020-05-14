@@ -1,0 +1,92 @@
+{
+  "title": "Test Double",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "139a39ae204743e3",
+      "text": "A Test Double is a non-production code dependency that sufficiently mimics product behaviour to support testing.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "15eec6c85c75fb45",
+      "text": "[[Gerard Meszaros]] identifies 5 types of Test Double:\n* Stub\n* Mock\n* Spy\n* Fake\n* Dummy"
+    },
+    {
+      "type": "factory",
+      "id": "3f6df68939dbb89a"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Test Double",
+        "story": []
+      },
+      "date": 1589467302935
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7c5780d51e11c6b1"
+      },
+      "id": "7c5780d51e11c6b1",
+      "type": "add",
+      "date": 1589467304498
+    },
+    {
+      "type": "remove",
+      "id": "7c5780d51e11c6b1",
+      "date": 1589467309348
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "139a39ae204743e3"
+      },
+      "id": "139a39ae204743e3",
+      "type": "add",
+      "date": 1589467319882
+    },
+    {
+      "type": "edit",
+      "id": "139a39ae204743e3",
+      "item": {
+        "type": "markdown",
+        "id": "139a39ae204743e3",
+        "text": "A Test Double is a non-production code dependency that sufficiently mimics product behaviour to support testing.\n"
+      },
+      "date": 1589467365629
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "15eec6c85c75fb45"
+      },
+      "id": "15eec6c85c75fb45",
+      "type": "add",
+      "after": "139a39ae204743e3",
+      "date": 1589467398417
+    },
+    {
+      "type": "edit",
+      "id": "15eec6c85c75fb45",
+      "item": {
+        "type": "markdown",
+        "id": "15eec6c85c75fb45",
+        "text": "[[Gerard Meszaros]] identifies 5 types of Test Double:\n* Stub\n* Mock\n* Spy\n* Fake\n* Dummy"
+      },
+      "date": 1589467438769
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3f6df68939dbb89a"
+      },
+      "id": "3f6df68939dbb89a",
+      "type": "add",
+      "after": "15eec6c85c75fb45",
+      "date": 1589467494738
+    }
+  ]
+}
