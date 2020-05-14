@@ -8,15 +8,6 @@
     },
     {
       "type": "markdown",
-      "id": "46e934a7f16b63dc",
-      "text": "Author of [[Unit Testing Principles, Practices, and Patterns]]"
-    },
-    {
-      "type": "factory",
-      "id": "79896145d59515da"
-    },
-    {
-      "type": "markdown",
       "id": "b763d394419f3f34",
       "text": "Author of *Unit Testing Principles, Practices, and Patterns* [https://www.manning.com/books/unit-testing?a_aid=unit-testing&a_bid=f3557833 publisher] [https://www.zotero.org/julianelve/items/Z5YFPRYG/library zotero]"
     }
@@ -158,6 +149,16 @@
         "text": "Author of [[Unit Testing Principles, Practices, and Patterns]]"
       },
       "date": 1589471253414
+    },
+    {
+      "type": "remove",
+      "id": "46e934a7f16b63dc",
+      "date": 1589471282850
+    },
+    {
+      "type": "remove",
+      "id": "79896145d59515da",
+      "date": 1589471290668
     }
   ]
 }
