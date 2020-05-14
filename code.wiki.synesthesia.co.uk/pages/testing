@@ -12,6 +12,11 @@
       "text": "Some key testing concepts"
     },
     {
+      "type": "markdown",
+      "id": "2a0b868ee20c6bfc",
+      "text": "[[System Under Test]]"
+    },
+    {
       "type": "paragraph",
       "id": "0d0a75a738e3a22d",
       "text": "[[Test Double]]"
@@ -84,6 +89,37 @@
         "text": "[[Test Double]]"
       },
       "date": 1589467250135
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a0b868ee20c6bfc"
+      },
+      "id": "2a0b868ee20c6bfc",
+      "type": "add",
+      "after": "0d0a75a738e3a22d",
+      "date": 1589467786791
+    },
+    {
+      "type": "edit",
+      "id": "2a0b868ee20c6bfc",
+      "item": {
+        "type": "markdown",
+        "id": "2a0b868ee20c6bfc",
+        "text": "[[System Under Test]]"
+      },
+      "date": 1589467798215
+    },
+    {
+      "id": "2a0b868ee20c6bfc",
+      "type": "move",
+      "order": [
+        "700db8bc8fe32344",
+        "0a1e6b4e8c0b3c46",
+        "2a0b868ee20c6bfc",
+        "0d0a75a738e3a22d"
+      ],
+      "date": 1589467800204
     }
   ]
 }
