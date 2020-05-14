@@ -4,7 +4,12 @@
     {
       "type": "markdown",
       "id": "6bf9697b367a39c7",
-      "text": "In [[DotNetFra"
+      "text": "In [[DotNetFramework]] applications which act as a client towards [[Dynamics365]] // [[PowerPlatform]] the traditional approach to use the [[Microsoft Dynamics SDK Assemblies]]. These are not available on [[DotNetCore]] / [[DotNetStandard]] so alternative approaches are needed.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "089629e74064957e",
+      "text": "[[Call Pow"
     }
   ],
   "journal": [
@@ -34,6 +39,61 @@
         "text": "In [[DotNetFra"
       },
       "date": 1589472281065
+    },
+    {
+      "type": "edit",
+      "id": "6bf9697b367a39c7",
+      "item": {
+        "type": "markdown",
+        "id": "6bf9697b367a39c7",
+        "text": "In [[DotNetFramework]] aplpicaitons which act as a client towards [[Dynamics365]] // [[PowerPlatform]] the traditional approach to use the [[Microsoft Dynamics SDK Assemblies]]"
+      },
+      "date": 1589472386344
+    },
+    {
+      "type": "edit",
+      "id": "6bf9697b367a39c7",
+      "item": {
+        "type": "markdown",
+        "id": "6bf9697b367a39c7",
+        "text": "In [[DotNetFramework]] applications which act as a client towards [[Dynamics365]] // [[PowerPlatform]] the traditional approach to use the [[Microsoft Dynamics SDK Assemblies]]. These are not available on [[DotNetCore]] / [[DotNetStandard]] so alternative approaches are needed.\n"
+      },
+      "date": 1589472435670
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "965d90354481951c"
+      },
+      "id": "965d90354481951c",
+      "type": "add",
+      "after": "6bf9697b367a39c7",
+      "date": 1589472483121
+    },
+    {
+      "type": "remove",
+      "id": "965d90354481951c",
+      "date": 1589472487106
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "089629e74064957e"
+      },
+      "id": "089629e74064957e",
+      "type": "add",
+      "after": "6bf9697b367a39c7",
+      "date": 1589472488995
+    },
+    {
+      "type": "edit",
+      "id": "089629e74064957e",
+      "item": {
+        "type": "markdown",
+        "id": "089629e74064957e",
+        "text": "[[Call Pow"
+      },
+      "date": 1589472504862
     }
   ]
 }
