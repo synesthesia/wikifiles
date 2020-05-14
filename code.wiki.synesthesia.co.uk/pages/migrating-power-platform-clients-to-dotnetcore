@@ -9,7 +9,11 @@
     {
       "type": "markdown",
       "id": "089629e74064957e",
-      "text": "[[Call Pow"
+      "text": "Microsoft have started development on [[DotNetCore]] versions of the SDK - as at Spring 2020 in alpha [https://powerusers.microsoft.com/t5/Power-Apps-Pro-Dev-ISV/Announcing-the-net-Core-SDK-for-Common-Data-Service-CDS-External/td-p/470035 announcement] [https://github.com/microsoft/PowerPlatform-CdsServiceClient github]"
+    },
+    {
+      "type": "factory",
+      "id": "ba4bec54464b22e8"
     }
   ],
   "journal": [
@@ -94,6 +98,46 @@
         "text": "[[Call Pow"
       },
       "date": 1589472504862
+    },
+    {
+      "type": "edit",
+      "id": "089629e74064957e",
+      "item": {
+        "type": "markdown",
+        "id": "089629e74064957e",
+        "text": "Microsoft have started development on [[DotNetCore]] versions of the SDK - as at Spring 2020 in alpha [[https://powerusers.microsoft.com/t5/Power-Apps-Pro-Dev-ISV/Announcing-the-net-Core-SDK-for-Common-Data-Service-CDS-External/td-p/470035 announcement]]"
+      },
+      "date": 1589472771365
+    },
+    {
+      "type": "edit",
+      "id": "089629e74064957e",
+      "item": {
+        "type": "markdown",
+        "id": "089629e74064957e",
+        "text": "Microsoft have started development on [[DotNetCore]] versions of the SDK - as at Spring 2020 in alpha [https://powerusers.microsoft.com/t5/Power-Apps-Pro-Dev-ISV/Announcing-the-net-Core-SDK-for-Common-Data-Service-CDS-External/td-p/470035 announcement]"
+      },
+      "date": 1589472781128
+    },
+    {
+      "type": "edit",
+      "id": "089629e74064957e",
+      "item": {
+        "type": "markdown",
+        "id": "089629e74064957e",
+        "text": "Microsoft have started development on [[DotNetCore]] versions of the SDK - as at Spring 2020 in alpha [https://powerusers.microsoft.com/t5/Power-Apps-Pro-Dev-ISV/Announcing-the-net-Core-SDK-for-Common-Data-Service-CDS-External/td-p/470035 announcement] [https://github.com/microsoft/PowerPlatform-CdsServiceClient github]"
+      },
+      "date": 1589472826925
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ba4bec54464b22e8"
+      },
+      "id": "ba4bec54464b22e8",
+      "type": "add",
+      "after": "089629e74064957e",
+      "date": 1589472849162
     }
   ]
 }
