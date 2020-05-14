@@ -9,6 +9,15 @@
     {
       "type": "markdown",
       "id": "46e934a7f16b63dc",
+      "text": "Author of [[Unit Testing Principles, Practices, and Patterns]]"
+    },
+    {
+      "type": "factory",
+      "id": "79896145d59515da"
+    },
+    {
+      "type": "markdown",
+      "id": "b763d394419f3f34",
       "text": "Author of *Unit Testing Principles, Practices, and Patterns* [https://www.manning.com/books/unit-testing?a_aid=unit-testing&a_bid=f3557833 publisher] [https://www.zotero.org/julianelve/items/Z5YFPRYG/library zotero]"
     }
   ],
@@ -109,6 +118,46 @@
         "text": "Author of *Unit Testing Principles, Practices, and Patterns* [https://www.manning.com/books/unit-testing?a_aid=unit-testing&a_bid=f3557833 publisher] [https://www.zotero.org/julianelve/items/Z5YFPRYG/library zotero]"
       },
       "date": 1589470598226
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "79896145d59515da"
+      },
+      "id": "79896145d59515da",
+      "type": "add",
+      "after": "46e934a7f16b63dc",
+      "date": 1589471216425
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b763d394419f3f34"
+      },
+      "id": "b763d394419f3f34",
+      "type": "add",
+      "after": "79896145d59515da",
+      "date": 1589471224059
+    },
+    {
+      "type": "edit",
+      "id": "b763d394419f3f34",
+      "item": {
+        "type": "markdown",
+        "id": "b763d394419f3f34",
+        "text": "Author of *Unit Testing Principles, Practices, and Patterns* [https://www.manning.com/books/unit-testing?a_aid=unit-testing&a_bid=f3557833 publisher] [https://www.zotero.org/julianelve/items/Z5YFPRYG/library zotero]"
+      },
+      "date": 1589471227227
+    },
+    {
+      "type": "edit",
+      "id": "46e934a7f16b63dc",
+      "item": {
+        "type": "markdown",
+        "id": "46e934a7f16b63dc",
+        "text": "Author of [[Unit Testing Principles, Practices, and Patterns]]"
+      },
+      "date": 1589471253414
     }
   ]
 }
