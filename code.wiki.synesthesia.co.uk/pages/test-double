@@ -12,8 +12,14 @@
       "text": "[[Gerard Meszaros]] identifies 5 types of Test Double:\n* Stub\n* Mock\n* Spy\n* Fake\n* Dummy"
     },
     {
-      "type": "factory",
-      "id": "3f6df68939dbb89a"
+      "type": "pagefold",
+      "id": "3f6df68939dbb89a",
+      "text": "References"
+    },
+    {
+      "type": "markdown",
+      "id": "9664e453ec0d9430",
+      "text": ">Frequently, the final release software consists of a complex set of objects or procedures interacting together to create the final result. In automated unit testing, it may be necessary to use objects or procedures that look and behave like their release-intended counterparts, but are actually simplified versions that reduce the complexity and facilitate testing. A test double is a generic (meta) term used for these objects or procedures.\n[https://en.wikipedia.org/wiki/Test_double  wikipedia]"
     }
   ],
   "journal": [
@@ -87,6 +93,61 @@
       "type": "add",
       "after": "15eec6c85c75fb45",
       "date": 1589467494738
+    },
+    {
+      "type": "edit",
+      "id": "3f6df68939dbb89a",
+      "item": {
+        "type": "pagefold",
+        "id": "3f6df68939dbb89a",
+        "text": "References"
+      },
+      "date": 1589467505138
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "02375510ce9f391b"
+      },
+      "id": "02375510ce9f391b",
+      "type": "add",
+      "after": "3f6df68939dbb89a",
+      "date": 1589467507076
+    },
+    {
+      "type": "remove",
+      "id": "02375510ce9f391b",
+      "date": 1589467519419
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9664e453ec0d9430"
+      },
+      "id": "9664e453ec0d9430",
+      "type": "add",
+      "after": "3f6df68939dbb89a",
+      "date": 1589467548479
+    },
+    {
+      "type": "edit",
+      "id": "9664e453ec0d9430",
+      "item": {
+        "type": "markdown",
+        "id": "9664e453ec0d9430",
+        "text": ">Frequently, the final release software consists of a complex set of objects or procedures interacting together to create the final result. In automated unit testing, it may be necessary to use objects or procedures that look and behave like their release-intended counterparts, but are actually simplified versions that reduce the complexity and facilitate testing. A test double is a generic (meta) term used for these objects or procedures.\n[  wikipedia]"
+      },
+      "date": 1589467562103
+    },
+    {
+      "type": "edit",
+      "id": "9664e453ec0d9430",
+      "item": {
+        "type": "markdown",
+        "id": "9664e453ec0d9430",
+        "text": ">Frequently, the final release software consists of a complex set of objects or procedures interacting together to create the final result. In automated unit testing, it may be necessary to use objects or procedures that look and behave like their release-intended counterparts, but are actually simplified versions that reduce the complexity and facilitate testing. A test double is a generic (meta) term used for these objects or procedures.\n[https://en.wikipedia.org/wiki/Test_double  wikipedia]"
+      },
+      "date": 1589467569560
     }
   ]
 }
