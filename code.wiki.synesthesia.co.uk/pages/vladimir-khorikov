@@ -1,0 +1,104 @@
+{
+  "title": "Vladimir Khorikov",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "c18dee0c2e76b79b",
+      "text": "Developer and technical author.\n\nWrites at https://enterprisecraftsmanship.com/"
+    },
+    {
+      "type": "markdown",
+      "id": "46e934a7f16b63dc",
+      "text": "Author of *Unit Testing Principles, Practices, and Patterns* [https://www.manning.com/books/unit-testing?a_aid=unit-testing&a_bid=f3557833 publisher]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Vladimir Khorikov",
+        "story": []
+      },
+      "date": 1589468470264
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c18dee0c2e76b79b"
+      },
+      "id": "c18dee0c2e76b79b",
+      "type": "add",
+      "date": 1589468506577
+    },
+    {
+      "type": "edit",
+      "id": "c18dee0c2e76b79b",
+      "item": {
+        "type": "markdown",
+        "id": "c18dee0c2e76b79b",
+        "text": "Developer and technical author.\nWrites at "
+      },
+      "date": 1589468523676
+    },
+    {
+      "type": "edit",
+      "id": "c18dee0c2e76b79b",
+      "item": {
+        "type": "markdown",
+        "id": "c18dee0c2e76b79b",
+        "text": "Developer and technical author.\nWrites at https://enterprisecraftsmanship.com/"
+      },
+      "date": 1589468534803
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "46e934a7f16b63dc"
+      },
+      "id": "46e934a7f16b63dc",
+      "type": "add",
+      "after": "c18dee0c2e76b79b",
+      "date": 1589468612312
+    },
+    {
+      "type": "edit",
+      "id": "46e934a7f16b63dc",
+      "item": {
+        "type": "markdown",
+        "id": "46e934a7f16b63dc",
+        "text": "Author of Unit Testing Principles, Practices, and Patterns"
+      },
+      "date": 1589468627097
+    },
+    {
+      "type": "edit",
+      "id": "46e934a7f16b63dc",
+      "item": {
+        "type": "markdown",
+        "id": "46e934a7f16b63dc",
+        "text": "Author of Unit Testing Principles, Practices, and Patterns [https://www.manning.com/books/unit-testing?a_aid=unit-testing&a_bid=f3557833 publisher]"
+      },
+      "date": 1589468662672
+    },
+    {
+      "type": "edit",
+      "id": "46e934a7f16b63dc",
+      "item": {
+        "type": "markdown",
+        "id": "46e934a7f16b63dc",
+        "text": "Author of *Unit Testing Principles, Practices, and Patterns* [https://www.manning.com/books/unit-testing?a_aid=unit-testing&a_bid=f3557833 publisher]"
+      },
+      "date": 1589468673550
+    },
+    {
+      "type": "edit",
+      "id": "c18dee0c2e76b79b",
+      "item": {
+        "type": "markdown",
+        "id": "c18dee0c2e76b79b",
+        "text": "Developer and technical author.\n\nWrites at https://enterprisecraftsmanship.com/"
+      },
+      "date": 1589468681165
+    }
+  ]
+}
