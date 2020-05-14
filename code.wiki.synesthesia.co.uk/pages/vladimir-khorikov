@@ -9,7 +9,7 @@
     {
       "type": "markdown",
       "id": "46e934a7f16b63dc",
-      "text": "Author of *Unit Testing Principles, Practices, and Patterns* [https://www.manning.com/books/unit-testing?a_aid=unit-testing&a_bid=f3557833 publisher]"
+      "text": "Author of *Unit Testing Principles, Practices, and Patterns* [https://www.manning.com/books/unit-testing?a_aid=unit-testing&a_bid=f3557833 publisher] [https://www.zotero.org/julianelve/items/Z5YFPRYG/library zotero]"
     }
   ],
   "journal": [
@@ -99,6 +99,16 @@
         "text": "Developer and technical author.\n\nWrites at https://enterprisecraftsmanship.com/"
       },
       "date": 1589468681165
+    },
+    {
+      "type": "edit",
+      "id": "46e934a7f16b63dc",
+      "item": {
+        "type": "markdown",
+        "id": "46e934a7f16b63dc",
+        "text": "Author of *Unit Testing Principles, Practices, and Patterns* [https://www.manning.com/books/unit-testing?a_aid=unit-testing&a_bid=f3557833 publisher] [https://www.zotero.org/julianelve/items/Z5YFPRYG/library zotero]"
+      },
+      "date": 1589470598226
     }
   ]
 }
