@@ -1,0 +1,39 @@
+{
+  "title": "Gerard Meszaros",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2a8d32417b61dee7",
+      "text": "Chief Scientist and Senior Consultant at ClearStream Consulting, a Calgary-based consultancy specializing in agile development"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Gerard Meszaros",
+        "story": []
+      },
+      "date": 1589468154997
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a8d32417b61dee7"
+      },
+      "id": "2a8d32417b61dee7",
+      "type": "add",
+      "date": 1589468161355
+    },
+    {
+      "type": "edit",
+      "id": "2a8d32417b61dee7",
+      "item": {
+        "type": "paragraph",
+        "id": "2a8d32417b61dee7",
+        "text": "Chief Scientist and Senior Consultant at ClearStream Consulting, a Calgary-based consultancy specializing in agile development"
+      },
+      "date": 1589468166929
+    }
+  ]
+}

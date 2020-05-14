@@ -20,6 +20,11 @@
       "type": "markdown",
       "id": "9664e453ec0d9430",
       "text": ">Frequently, the final release software consists of a complex set of objects or procedures interacting together to create the final result. In automated unit testing, it may be necessary to use objects or procedures that look and behave like their release-intended counterparts, but are actually simplified versions that reduce the complexity and facilitate testing. A test double is a generic (meta) term used for these objects or procedures.\n[https://en.wikipedia.org/wiki/Test_double  wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "3075945fc469356e",
+      "text": "[[Vladimir Khorikov]] simplifies to key two types:\n>they can all be grouped together into just two types: mocks and stubs\n>* Mocks help to emulate and examine **outgoing** interactions. These interactions are calls the system under test (SUT) makes to its dependencies to change their state.\n>* Stubs help to emulate **incoming** interactions. These interactions are calls the SUT makes to its dependencies to get input data.\n[https://enterprisecraftsmanship.com/posts/when-to-mock/ page]\n"
     }
   ],
   "journal": [
@@ -168,6 +173,66 @@
         "text": "[[Gerard Meszaros]] identifies 5 types of Test Double:\n* [[Test Stub]]\n* [[Mock Object]]\n* [[Test Spy]]\n* [[Fake Object]]\n* [[Dummy Object]]"
       },
       "date": 1589467882421
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3075945fc469356e"
+      },
+      "id": "3075945fc469356e",
+      "type": "add",
+      "after": "9664e453ec0d9430",
+      "date": 1589468219581
+    },
+    {
+      "type": "edit",
+      "id": "3075945fc469356e",
+      "item": {
+        "type": "markdown",
+        "id": "3075945fc469356e",
+        "text": "[[Vladimir Khorikov]] simplifies to key two types:\n"
+      },
+      "date": 1589468237590
+    },
+    {
+      "type": "edit",
+      "id": "3075945fc469356e",
+      "item": {
+        "type": "markdown",
+        "id": "3075945fc469356e",
+        "text": "[[Vladimir Khorikov]] simplifies to key two types:\n>they can all be grouped together into just two types: mocks and stubs\n>\n"
+      },
+      "date": 1589468304399
+    },
+    {
+      "type": "edit",
+      "id": "3075945fc469356e",
+      "item": {
+        "type": "markdown",
+        "id": "3075945fc469356e",
+        "text": "[[Vladimir Khorikov]] simplifies to key two types:\n>they can all be grouped together into just two types: mocks and stubs\n>* Mocks help to emulate and examine outcoming interactions. These interactions are calls the system under test (SUT) makes to its dependencies to change their state.\n>* Stubs help to emulate incoming interactions. These interactions are calls the SUT makes to its dependencies to get input data.\n"
+      },
+      "date": 1589468330065
+    },
+    {
+      "type": "edit",
+      "id": "3075945fc469356e",
+      "item": {
+        "type": "markdown",
+        "id": "3075945fc469356e",
+        "text": "[[Vladimir Khorikov]] simplifies to key two types:\n>they can all be grouped together into just two types: mocks and stubs\n>* Mocks help to emulate and examine **outgoing** interactions. These interactions are calls the system under test (SUT) makes to its dependencies to change their state.\n>* Stubs help to emulate **incoming** interactions. These interactions are calls the SUT makes to its dependencies to get input data.\n"
+      },
+      "date": 1589468350232
+    },
+    {
+      "type": "edit",
+      "id": "3075945fc469356e",
+      "item": {
+        "type": "markdown",
+        "id": "3075945fc469356e",
+        "text": "[[Vladimir Khorikov]] simplifies to key two types:\n>they can all be grouped together into just two types: mocks and stubs\n>* Mocks help to emulate and examine **outgoing** interactions. These interactions are calls the system under test (SUT) makes to its dependencies to change their state.\n>* Stubs help to emulate **incoming** interactions. These interactions are calls the SUT makes to its dependencies to get input data.\n[https://enterprisecraftsmanship.com/posts/when-to-mock/ page]\n"
+      },
+      "date": 1589468367084
     }
   ]
 }
