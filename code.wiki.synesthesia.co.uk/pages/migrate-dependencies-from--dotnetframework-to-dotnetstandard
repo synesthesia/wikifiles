@@ -19,7 +19,11 @@
     {
       "type": "markdown",
       "id": "87218a56886e170a",
-      "text": "For example in an assembly that depends on the Microsoft Dynamics SDK significant refactoring will be needed as this is not available in a [[DotNetStandard]] version because of underlying WCF dependencies."
+      "text": "For example in an assembly that depends on the Microsoft Dynamics SDK significant refactoring will be needed as this is not available in a [[DotNetStandard]] version because of underlying WCF dependencies. (see [[Migrating Power Platform Clients to DotNetCore]])"
+    },
+    {
+      "type": "factory",
+      "id": "3d465dd439dfe8a9"
     }
   ],
   "journal": [
@@ -149,6 +153,26 @@
       },
       "after": "895d5efe4be81f4d",
       "date": 1589357235176
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3d465dd439dfe8a9"
+      },
+      "id": "3d465dd439dfe8a9",
+      "type": "add",
+      "after": "87218a56886e170a",
+      "date": 1589472216338
+    },
+    {
+      "type": "edit",
+      "id": "87218a56886e170a",
+      "item": {
+        "type": "markdown",
+        "id": "87218a56886e170a",
+        "text": "For example in an assembly that depends on the Microsoft Dynamics SDK significant refactoring will be needed as this is not available in a [[DotNetStandard]] version because of underlying WCF dependencies. (see [[Migrating Power Platform Clients to DotNetCore]])"
+      },
+      "date": 1589472255310
     }
   ]
 }

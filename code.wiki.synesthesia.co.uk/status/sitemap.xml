@@ -174,7 +174,7 @@
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/migrate-dependencies-from--dotnetframework-to-dotnetstandard.html</loc>
-    <lastmod>2020-05-13</lastmod>
+    <lastmod>2020-05-14</lastmod>
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/branch-by-abstraction.html</loc>
@@ -202,6 +202,10 @@
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/vladimir-khorikov.html</loc>
+    <lastmod>2020-05-14</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/migrating-power-platform-clients-to-dotnetcore.html</loc>
     <lastmod>2020-05-14</lastmod>
   </url>
 </urlset>

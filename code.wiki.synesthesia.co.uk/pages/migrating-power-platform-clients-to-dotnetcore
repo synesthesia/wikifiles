@@ -1,0 +1,39 @@
+{
+  "title": "Migrating Power Platform Clients to DotNetCore",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "6bf9697b367a39c7",
+      "text": "In [[DotNetFra"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Migrating Power Platform Clients to DotNetCore",
+        "story": []
+      },
+      "date": 1589472260870
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6bf9697b367a39c7"
+      },
+      "id": "6bf9697b367a39c7",
+      "type": "add",
+      "date": 1589472266603
+    },
+    {
+      "type": "edit",
+      "id": "6bf9697b367a39c7",
+      "item": {
+        "type": "markdown",
+        "id": "6bf9697b367a39c7",
+        "text": "In [[DotNetFra"
+      },
+      "date": 1589472281065
+    }
+  ]
+}

@@ -4,12 +4,12 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "295320ddc773c367"
+      "id": "ff4ab89ccf813e95"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "1f0ec0be468c9ca8"
+      "id": "6003b2cdb0f12564"
     },
     {
       "date": 1589354519000,
@@ -18,31 +18,31 @@
       "title": "Revisiting Permanent Notes Encourages Deeper Linking",
       "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 242 pages.",
       "type": "reference",
-      "id": "5599eab71484af78"
+      "id": "e2a9282537ae6ea0"
     },
     {
-      "date": 1589471041000,
+      "date": 1589471941000,
       "site": "wiki.synesthesia.co.uk",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
       "type": "reference",
-      "id": "16bb692ab7a44fb0"
+      "id": "848ae47150cb434c"
     },
     {
-      "date": 1589471290000,
+      "date": 1589472216000,
       "site": "code.wiki.synesthesia.co.uk",
-      "slug": "vladimir-khorikov",
-      "title": "Vladimir Khorikov",
+      "slug": "migrate-dependencies-from--dotnetframework-to-dotnetstandard",
+      "title": "Migrate Dependencies from  DotNetFramework to DotNetStandard",
       "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 51 pages.",
       "type": "reference",
-      "id": "a093d36d3e367812"
+      "id": "6a8ea5880e563a89"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "d18a7123c07f9201",
+      "id": "a0d731e6eb81d287",
       "item": {
         "title": "Recent Farm Activity"
       },
@@ -52,27 +52,27 @@
     },
     {
       "type": "add",
-      "id": "295320ddc773c367",
+      "id": "ff4ab89ccf813e95",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "295320ddc773c367"
+        "id": "ff4ab89ccf813e95"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "1f0ec0be468c9ca8",
+      "id": "6003b2cdb0f12564",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "1f0ec0be468c9ca8"
+        "id": "6003b2cdb0f12564"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "5599eab71484af78",
+      "id": "e2a9282537ae6ea0",
       "item": {
         "date": 1589354519000,
         "site": "pkm.wiki.synesthesia.co.uk",
@@ -80,37 +80,37 @@
         "title": "Revisiting Permanent Notes Encourages Deeper Linking",
         "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 242 pages.",
         "type": "reference",
-        "id": "5599eab71484af78"
+        "id": "e2a9282537ae6ea0"
       },
       "date": 1589354519000
     },
     {
       "type": "add",
-      "id": "16bb692ab7a44fb0",
+      "id": "848ae47150cb434c",
       "item": {
-        "date": 1589471041000,
+        "date": 1589471941000,
         "site": "wiki.synesthesia.co.uk",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
         "type": "reference",
-        "id": "16bb692ab7a44fb0"
+        "id": "848ae47150cb434c"
       },
-      "date": 1589471041000
+      "date": 1589471941000
     },
     {
       "type": "add",
-      "id": "a093d36d3e367812",
+      "id": "6a8ea5880e563a89",
       "item": {
-        "date": 1589471290000,
+        "date": 1589472216000,
         "site": "code.wiki.synesthesia.co.uk",
-        "slug": "vladimir-khorikov",
-        "title": "Vladimir Khorikov",
+        "slug": "migrate-dependencies-from--dotnetframework-to-dotnetstandard",
+        "title": "Migrate Dependencies from  DotNetFramework to DotNetStandard",
         "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 51 pages.",
         "type": "reference",
-        "id": "a093d36d3e367812"
+        "id": "6a8ea5880e563a89"
       },
-      "date": 1589471290000
+      "date": 1589472216000
     }
   ]
 }
