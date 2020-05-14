@@ -12,8 +12,9 @@
       "text": "Microsoft have started development on [[DotNetCore]] versions of the SDK - as at Spring 2020 in alpha [https://powerusers.microsoft.com/t5/Power-Apps-Pro-Dev-ISV/Announcing-the-net-Core-SDK-for-Common-Data-Service-CDS-External/td-p/470035 announcement] [https://github.com/microsoft/PowerPlatform-CdsServiceClient github]"
     },
     {
-      "type": "factory",
-      "id": "ba4bec54464b22e8"
+      "type": "markdown",
+      "id": "ba4bec54464b22e8",
+      "text": "Alternative approaches include:\n* direct development with HttpClient against the PowerPlatform WebApi [https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/webapi/overview docs]\n* use of helper libraries that abstract the detail of forming HTTP requests, for example [[Xrm.Tools.CRMWebAPI]]"
     }
   ],
   "journal": [
@@ -138,6 +139,36 @@
       "type": "add",
       "after": "089629e74064957e",
       "date": 1589472849162
+    },
+    {
+      "type": "edit",
+      "id": "ba4bec54464b22e8",
+      "item": {
+        "type": "markdown",
+        "id": "ba4bec54464b22e8",
+        "text": "Alternative approaches include:\n* direct development with HttpClient against the PowerPlatform WebApi\n* use of helper libraries that abstract the detail of forming HTTP requests"
+      },
+      "date": 1589472912457
+    },
+    {
+      "type": "edit",
+      "id": "ba4bec54464b22e8",
+      "item": {
+        "type": "markdown",
+        "id": "ba4bec54464b22e8",
+        "text": "Alternative approaches include:\n* direct development with HttpClient against the PowerPlatform WebApi\n* use of helper libraries that abstract the detail of forming HTTP requests, for example [[Xrm.Tools.CRMWebAPI]]"
+      },
+      "date": 1589473002364
+    },
+    {
+      "type": "edit",
+      "id": "ba4bec54464b22e8",
+      "item": {
+        "type": "markdown",
+        "id": "ba4bec54464b22e8",
+        "text": "Alternative approaches include:\n* direct development with HttpClient against the PowerPlatform WebApi [https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/webapi/overview docs]\n* use of helper libraries that abstract the detail of forming HTTP requests, for example [[Xrm.Tools.CRMWebAPI]]"
+      },
+      "date": 1589473102740
     }
   ]
 }

@@ -4,12 +4,12 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "ff4ab89ccf813e95"
+      "id": "88f496bb6d4bcb91"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "6003b2cdb0f12564"
+      "id": "2601076a78c6995b"
     },
     {
       "date": 1589354519000,
@@ -18,31 +18,31 @@
       "title": "Revisiting Permanent Notes Encourages Deeper Linking",
       "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 242 pages.",
       "type": "reference",
-      "id": "e2a9282537ae6ea0"
+      "id": "9ee2a94b85008c4e"
     },
     {
-      "date": 1589471941000,
+      "date": 1589472241000,
       "site": "wiki.synesthesia.co.uk",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
       "type": "reference",
-      "id": "848ae47150cb434c"
+      "id": "bf924335a7563005"
     },
     {
-      "date": 1589472216000,
+      "date": 1589473102000,
       "site": "code.wiki.synesthesia.co.uk",
-      "slug": "migrate-dependencies-from--dotnetframework-to-dotnetstandard",
-      "title": "Migrate Dependencies from  DotNetFramework to DotNetStandard",
-      "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 51 pages.",
+      "slug": "migrating-power-platform-clients-to-dotnetcore",
+      "title": "Migrating Power Platform Clients to DotNetCore",
+      "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 53 pages.",
       "type": "reference",
-      "id": "6a8ea5880e563a89"
+      "id": "6d2979493e1e9556"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "a0d731e6eb81d287",
+      "id": "dcda3e634024a35b",
       "item": {
         "title": "Recent Farm Activity"
       },
@@ -52,27 +52,27 @@
     },
     {
       "type": "add",
-      "id": "ff4ab89ccf813e95",
+      "id": "88f496bb6d4bcb91",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "ff4ab89ccf813e95"
+        "id": "88f496bb6d4bcb91"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "6003b2cdb0f12564",
+      "id": "2601076a78c6995b",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "6003b2cdb0f12564"
+        "id": "2601076a78c6995b"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "e2a9282537ae6ea0",
+      "id": "9ee2a94b85008c4e",
       "item": {
         "date": 1589354519000,
         "site": "pkm.wiki.synesthesia.co.uk",
@@ -80,37 +80,37 @@
         "title": "Revisiting Permanent Notes Encourages Deeper Linking",
         "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 242 pages.",
         "type": "reference",
-        "id": "e2a9282537ae6ea0"
+        "id": "9ee2a94b85008c4e"
       },
       "date": 1589354519000
     },
     {
       "type": "add",
-      "id": "848ae47150cb434c",
+      "id": "bf924335a7563005",
       "item": {
-        "date": 1589471941000,
+        "date": 1589472241000,
         "site": "wiki.synesthesia.co.uk",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
         "type": "reference",
-        "id": "848ae47150cb434c"
+        "id": "bf924335a7563005"
       },
-      "date": 1589471941000
+      "date": 1589472241000
     },
     {
       "type": "add",
-      "id": "6a8ea5880e563a89",
+      "id": "6d2979493e1e9556",
       "item": {
-        "date": 1589472216000,
+        "date": 1589473102000,
         "site": "code.wiki.synesthesia.co.uk",
-        "slug": "migrate-dependencies-from--dotnetframework-to-dotnetstandard",
-        "title": "Migrate Dependencies from  DotNetFramework to DotNetStandard",
-        "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 51 pages.",
+        "slug": "migrating-power-platform-clients-to-dotnetcore",
+        "title": "Migrating Power Platform Clients to DotNetCore",
+        "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 53 pages.",
         "type": "reference",
-        "id": "6a8ea5880e563a89"
+        "id": "6d2979493e1e9556"
       },
-      "date": 1589472216000
+      "date": 1589473102000
     }
   ]
 }

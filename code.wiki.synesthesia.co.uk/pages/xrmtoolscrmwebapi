@@ -1,0 +1,49 @@
+{
+  "title": "Xrm.Tools.CRMWebAPI",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "a69f842110816c32",
+      "text": "An API helper for working with the Common Data Service (CDS) Web API [https://github.com/davidyack/Xrm.Tools.CRMWebAPI github]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Xrm.Tools.CRMWebAPI",
+        "story": []
+      },
+      "date": 1589473029125
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a69f842110816c32"
+      },
+      "id": "a69f842110816c32",
+      "type": "add",
+      "date": 1589473032030
+    },
+    {
+      "type": "edit",
+      "id": "a69f842110816c32",
+      "item": {
+        "type": "markdown",
+        "id": "a69f842110816c32",
+        "text": "[https://github.com/davidyack/Xrm.Tools.CRMWebAPI github]"
+      },
+      "date": 1589473038568
+    },
+    {
+      "type": "edit",
+      "id": "a69f842110816c32",
+      "item": {
+        "type": "markdown",
+        "id": "a69f842110816c32",
+        "text": "An API helper for working with the Common Data Service (CDS) Web API [https://github.com/davidyack/Xrm.Tools.CRMWebAPI github]"
+      },
+      "date": 1589473053858
+    }
+  ]
+}
