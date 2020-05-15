@@ -4,7 +4,12 @@
     {
       "type": "markdown",
       "id": "7775a87d6372f1eb",
-      "text": ".NET Standard is a formal specification of .NET APIs that are intended to be available on all .NET implementations. The motivation behind .NET Standard is to establish greater uniformity in the .NET ecosystem. ECMA 335 continues to establish uniformity for .NET implementation behavior, and while ECMA 335 specifies a small set of standard libraries, the .NET Standard specification encompasses a broader range of .NET APIs.\n\n.NET Standard enables the following key scenarios:\n\n* Defines uniform set of BCL APIs for all .NET implementations to implement, independent of workload.\n* Enables developers to produce portable libraries that are usable across .NET implementations, using this same set of APIs.\n* Reduces or even eliminates conditional compilation of shared source due to .NET APIs, only for OS APIs.\n\nThe various .NET implementations target specific versions of .NET Standard. \n"
+      "text": "**.NET Standard** is a formal specification of .NET APIs that are intended to be available on all .NET implementations. [https://docs.microsoft.com/en-us/dotnet/standard/net-standard docs]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "e508026386d6ba28",
+      "text": "The motivation behind .NET Standard is to establish greater uniformity in the .NET ecosystem. ECMA 335 continues to establish uniformity for .NET implementation behavior, and while ECMA 335 specifies a small set of standard libraries, the .NET Standard specification encompasses a broader range of .NET APIs.\n\n.NET Standard enables the following key scenarios:\n\n* Defines uniform set of BCL APIs for all .NET implementations to implement, independent of workload.\n* Enables developers to produce portable libraries that are usable across .NET implementations, using this same set of APIs.\n* Reduces or even eliminates conditional compilation of shared source due to .NET APIs, only for OS APIs.\n\nThe various .NET implementations target specific versions of .NET Standard. \n"
     },
     {
       "type": "markdown",
@@ -60,6 +65,47 @@
       },
       "after": "7775a87d6372f1eb",
       "date": 1589543996924
+    },
+    {
+      "type": "edit",
+      "id": "7775a87d6372f1eb",
+      "item": {
+        "type": "markdown",
+        "id": "7775a87d6372f1eb",
+        "text": "**.NET Standard** is a formal specification of .NET APIs that are intended to be available on all .NET implementations. The motivation behind .NET Standard is to establish greater uniformity in the .NET ecosystem. ECMA 335 continues to establish uniformity for .NET implementation behavior, and while ECMA 335 specifies a small set of standard libraries, the .NET Standard specification encompasses a broader range of .NET APIs.\n\n.NET Standard enables the following key scenarios:\n\n* Defines uniform set of BCL APIs for all .NET implementations to implement, independent of workload.\n* Enables developers to produce portable libraries that are usable across .NET implementations, using this same set of APIs.\n* Reduces or even eliminates conditional compilation of shared source due to .NET APIs, only for OS APIs.\n\nThe various .NET implementations target specific versions of .NET Standard. \n"
+      },
+      "date": 1589544008203
+    },
+    {
+      "type": "edit",
+      "id": "7775a87d6372f1eb",
+      "item": {
+        "type": "markdown",
+        "id": "7775a87d6372f1eb",
+        "text": "**.NET Standard** is a formal specification of .NET APIs that are intended to be available on all .NET implementations. \n"
+      },
+      "date": 1589544014372
+    },
+    {
+      "type": "add",
+      "id": "e508026386d6ba28",
+      "item": {
+        "type": "markdown",
+        "id": "e508026386d6ba28",
+        "text": "The motivation behind .NET Standard is to establish greater uniformity in the .NET ecosystem. ECMA 335 continues to establish uniformity for .NET implementation behavior, and while ECMA 335 specifies a small set of standard libraries, the .NET Standard specification encompasses a broader range of .NET APIs.\n\n.NET Standard enables the following key scenarios:\n\n* Defines uniform set of BCL APIs for all .NET implementations to implement, independent of workload.\n* Enables developers to produce portable libraries that are usable across .NET implementations, using this same set of APIs.\n* Reduces or even eliminates conditional compilation of shared source due to .NET APIs, only for OS APIs.\n\nThe various .NET implementations target specific versions of .NET Standard. \n"
+      },
+      "after": "7775a87d6372f1eb",
+      "date": 1589544015531
+    },
+    {
+      "type": "edit",
+      "id": "7775a87d6372f1eb",
+      "item": {
+        "type": "markdown",
+        "id": "7775a87d6372f1eb",
+        "text": "**.NET Standard** is a formal specification of .NET APIs that are intended to be available on all .NET implementations. [https://docs.microsoft.com/en-us/dotnet/standard/net-standard docs]\n"
+      },
+      "date": 1589544036545
     }
   ]
 }
