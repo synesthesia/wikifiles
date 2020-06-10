@@ -11,11 +11,17 @@
     {
       "type": "markdown",
       "id": "b51be2bd6b0ae5cb",
-      "text": "A model proposed by [[David Didau]] as an improvement on [[Bloom's Taxonomy]] to represent the relationships between\n\n* knowledge\n* cognitive skills\n* cognitive structures in the brain\n\nin a way that is useful for educators.\n"
+      "text": "A model proposed in 2017 by [[David Didau]] as an improvement on [[Bloom's Taxonomy]] to represent the relationships between\n\n* knowledge\n* cognitive skills\n* cognitive structures in the brain\n\nin a way that is useful for educators.\n"
     },
     {
-      "type": "factory",
-      "id": "3ff4c26ff4942d50"
+      "type": "markdown",
+      "id": "3ff4c26ff4942d50",
+      "text": "Didau's key premise is that knowledge and cognitive skills are not hierarchical (as suggested by the normal representation of [[Bloom's Taxonomy]] as stacked triangles) but in fact reinforce each other in a cyclical way.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "8babda25ed4cfc7a",
+      "text": ">My contention is this: You cannot think about something you don’t know, and the more you know, the better you can think. It’s certainly true that raw reasoning ability – sometimes referred to as fluid intelligence – exists without prior knowledge. As such, we can apply our fluid intelligence to problems in the environment about which we have no knowledge. But, the ability to apply what we know – or crystallised intelligence – trumps fluid intelligence.\n[https://learningspy.co.uk/featured/didaus-taxonomy/ page]\n"
     }
   ],
   "journal": [
@@ -190,6 +196,56 @@
       "type": "add",
       "after": "b51be2bd6b0ae5cb",
       "date": 1591783448964
+    },
+    {
+      "type": "edit",
+      "id": "3ff4c26ff4942d50",
+      "item": {
+        "type": "markdown",
+        "id": "3ff4c26ff4942d50",
+        "text": "Didau's key premise is that knowledge and cognitive skills are not hierarchical (as suggested by the normal representation of [[Bloom's Taxonomy]] as stacked triangles) but in fact reinforce each other in a cyclical way.\n"
+      },
+      "date": 1591783526252
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8babda25ed4cfc7a"
+      },
+      "id": "8babda25ed4cfc7a",
+      "type": "add",
+      "after": "3ff4c26ff4942d50",
+      "date": 1591783543424
+    },
+    {
+      "type": "edit",
+      "id": "8babda25ed4cfc7a",
+      "item": {
+        "type": "markdown",
+        "id": "8babda25ed4cfc7a",
+        "text": ">My contention is this: You cannot think about something you don’t know, and the more you know, the better you can think. It’s certainly true that raw reasoning ability – sometimes referred to as fluid intelligence – exists without prior knowledge. As such, we can apply our fluid intelligence to problems in the environment about which we have no knowledge. But, the ability to apply what we know – or crystallised intelligence – trumps fluid intelligence.\n"
+      },
+      "date": 1591783553063
+    },
+    {
+      "type": "edit",
+      "id": "8babda25ed4cfc7a",
+      "item": {
+        "type": "markdown",
+        "id": "8babda25ed4cfc7a",
+        "text": ">My contention is this: You cannot think about something you don’t know, and the more you know, the better you can think. It’s certainly true that raw reasoning ability – sometimes referred to as fluid intelligence – exists without prior knowledge. As such, we can apply our fluid intelligence to problems in the environment about which we have no knowledge. But, the ability to apply what we know – or crystallised intelligence – trumps fluid intelligence.\n[https://learningspy.co.uk/featured/didaus-taxonomy/ page]\n"
+      },
+      "date": 1591783564988
+    },
+    {
+      "type": "edit",
+      "id": "b51be2bd6b0ae5cb",
+      "item": {
+        "type": "markdown",
+        "id": "b51be2bd6b0ae5cb",
+        "text": "A model proposed in 2017 by [[David Didau]] as an improvement on [[Bloom's Taxonomy]] to represent the relationships between\n\n* knowledge\n* cognitive skills\n* cognitive structures in the brain\n\nin a way that is useful for educators.\n"
+      },
+      "date": 1591783645057
     }
   ]
 }

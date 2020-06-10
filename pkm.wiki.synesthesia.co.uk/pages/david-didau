@@ -1,0 +1,69 @@
+{
+  "title": "David Didau",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "07ff12c039279edc",
+      "text": "British-born ex-teacher, now education writer, speaker and trainer.\n[https://learningspy.co.uk/about/ site]\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "David Didau",
+        "story": []
+      },
+      "date": 1591783687599
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "07ff12c039279edc"
+      },
+      "id": "07ff12c039279edc",
+      "type": "add",
+      "date": 1591783689219
+    },
+    {
+      "type": "edit",
+      "id": "07ff12c039279edc",
+      "item": {
+        "type": "markdown",
+        "id": "07ff12c039279edc",
+        "text": "Education writer , speaker and trainer.\n"
+      },
+      "date": 1591783708774
+    },
+    {
+      "type": "edit",
+      "id": "07ff12c039279edc",
+      "item": {
+        "type": "markdown",
+        "id": "07ff12c039279edc",
+        "text": "British-born ex-teacher, now education writer , speaker and trainer.\n\n"
+      },
+      "date": 1591783766603
+    },
+    {
+      "type": "edit",
+      "id": "07ff12c039279edc",
+      "item": {
+        "type": "markdown",
+        "id": "07ff12c039279edc",
+        "text": "British-born ex-teacher, now education writer , speaker and trainer.\n[https://learningspy.co.uk/about/ site]\n"
+      },
+      "date": 1591783782472
+    },
+    {
+      "type": "edit",
+      "id": "07ff12c039279edc",
+      "item": {
+        "type": "markdown",
+        "id": "07ff12c039279edc",
+        "text": "British-born ex-teacher, now education writer, speaker and trainer.\n[https://learningspy.co.uk/about/ site]\n"
+      },
+      "date": 1591783792544
+    }
+  ]
+}
