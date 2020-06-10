@@ -66,38 +66,114 @@
       "date": 1591782641518
     },
     {
-      "type": "fork",
-      "date": 1591782959799
+      "item": {
+        "type": "factory",
+        "id": "cbcc05e360b32043"
+      },
+      "id": "cbcc05e360b32043",
+      "type": "add",
+      "after": "b51be2bd6b0ae5cb",
+      "date": 1591782658095
+    },
+    {
+      "type": "remove",
+      "id": "cbcc05e360b32043",
+      "date": 1591782675567
     },
     {
       "item": {
         "type": "factory",
-        "id": "7a5faeff4ef2f753"
+        "id": "5860d470faea87e1"
       },
-      "id": "7a5faeff4ef2f753",
+      "id": "5860d470faea87e1",
       "type": "add",
       "after": "b51be2bd6b0ae5cb",
-      "date": 1591782971252
+      "date": 1591782703903
     },
     {
       "type": "remove",
-      "id": "7a5faeff4ef2f753",
-      "date": 1591782979668
+      "id": "5860d470faea87e1",
+      "date": 1591782709354
     },
     {
       "item": {
         "type": "factory",
-        "id": "a1c3b360774b75c1"
+        "id": "4058823ce310863e"
       },
-      "id": "a1c3b360774b75c1",
+      "id": "4058823ce310863e",
       "type": "add",
       "after": "b51be2bd6b0ae5cb",
-      "date": 1591782983241
+      "date": 1591782765925
     },
     {
       "type": "remove",
-      "id": "a1c3b360774b75c1",
-      "date": 1591782986457
+      "id": "4058823ce310863e",
+      "date": 1591782774743
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f288bddcce9d19ac"
+      },
+      "id": "f288bddcce9d19ac",
+      "type": "add",
+      "after": "b51be2bd6b0ae5cb",
+      "date": 1591782782137
+    },
+    {
+      "type": "remove",
+      "id": "f288bddcce9d19ac",
+      "date": 1591782784842
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dcf0b6806d32a693"
+      },
+      "id": "dcf0b6806d32a693",
+      "type": "add",
+      "after": "b51be2bd6b0ae5cb",
+      "date": 1591782790205
+    },
+    {
+      "type": "remove",
+      "id": "dcf0b6806d32a693",
+      "date": 1591782794921
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "858ea6eefd697f66"
+      },
+      "id": "858ea6eefd697f66",
+      "type": "add",
+      "after": "b51be2bd6b0ae5cb",
+      "date": 1591782802609
+    },
+    {
+      "type": "remove",
+      "id": "858ea6eefd697f66",
+      "date": 1591782810153
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "abf2e856c689de9d"
+      },
+      "id": "abf2e856c689de9d",
+      "type": "add",
+      "after": "b51be2bd6b0ae5cb",
+      "date": 1591782903043
+    },
+    {
+      "type": "remove",
+      "id": "abf2e856c689de9d",
+      "date": 1591782912616
+    },
+    {
+      "type": "remove",
+      "id": "abf2e856c689de9d",
+      "date": 1591782932472
     }
   ]
 }

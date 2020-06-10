@@ -4,45 +4,27 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "12a0c183d8b93c24"
+      "id": "2eddd613ba8d9a9b"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "14b3fdc695a8db81"
+      "id": "792057fd42f41006"
     },
     {
-      "date": 1589354519000,
+      "date": 1591782986000,
       "site": "pkm.wiki.synesthesia.co.uk",
-      "slug": "revisiting-permanent-notes-encourages-deeper-linking",
-      "title": "Revisiting Permanent Notes Encourages Deeper Linking",
-      "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 242 pages.",
+      "slug": "didaus-taxonomy",
+      "title": "Didau's Taxonomy",
+      "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 244 pages.",
       "type": "reference",
-      "id": "3e70a9f6ea1b8c07"
-    },
-    {
-      "date": 1589543941000,
-      "site": "wiki.synesthesia.co.uk",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
-      "type": "reference",
-      "id": "cb5dc25030df6bf8"
-    },
-    {
-      "date": 1589544037000,
-      "site": "code.wiki.synesthesia.co.uk",
-      "slug": "dotnetstandard",
-      "title": "DotNetStandard",
-      "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 54 pages.",
-      "type": "reference",
-      "id": "3e501b9b50a6c908"
+      "id": "4d011206a58e20ad"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "8d3ccd1d9ad9b6cd",
+      "id": "994fb66258a14efd",
       "item": {
         "title": "Recent Farm Activity"
       },
@@ -52,65 +34,37 @@
     },
     {
       "type": "add",
-      "id": "12a0c183d8b93c24",
+      "id": "2eddd613ba8d9a9b",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "12a0c183d8b93c24"
+        "id": "2eddd613ba8d9a9b"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "14b3fdc695a8db81",
+      "id": "792057fd42f41006",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "14b3fdc695a8db81"
+        "id": "792057fd42f41006"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "3e70a9f6ea1b8c07",
+      "id": "4d011206a58e20ad",
       "item": {
-        "date": 1589354519000,
+        "date": 1591782986000,
         "site": "pkm.wiki.synesthesia.co.uk",
-        "slug": "revisiting-permanent-notes-encourages-deeper-linking",
-        "title": "Revisiting Permanent Notes Encourages Deeper Linking",
-        "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 242 pages.",
+        "slug": "didaus-taxonomy",
+        "title": "Didau's Taxonomy",
+        "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 244 pages.",
         "type": "reference",
-        "id": "3e70a9f6ea1b8c07"
+        "id": "4d011206a58e20ad"
       },
-      "date": 1589354519000
-    },
-    {
-      "type": "add",
-      "id": "cb5dc25030df6bf8",
-      "item": {
-        "date": 1589543941000,
-        "site": "wiki.synesthesia.co.uk",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
-        "type": "reference",
-        "id": "cb5dc25030df6bf8"
-      },
-      "date": 1589543941000
-    },
-    {
-      "type": "add",
-      "id": "3e501b9b50a6c908",
-      "item": {
-        "date": 1589544037000,
-        "site": "code.wiki.synesthesia.co.uk",
-        "slug": "dotnetstandard",
-        "title": "DotNetStandard",
-        "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 54 pages.",
-        "type": "reference",
-        "id": "3e501b9b50a6c908"
-      },
-      "date": 1589544037000
+      "date": 1591782986000
     }
   ]
 }
