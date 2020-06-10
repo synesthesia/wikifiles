@@ -54,7 +54,7 @@
     {
       "type": "markdown",
       "id": "3357230f892a92b2",
-      "text": "As well as relating theories of learning to PKM, we might also consider [[Contributions to PKM from NeuroScience]]."
+      "text": "As well as relating [[Models of Learning]] to PKM, we might also consider [[Contributions to PKM from NeuroScience]]."
     }
   ],
   "journal": [
@@ -1099,6 +1099,16 @@
         "text": "One of the leading proponents of PKM is [[Harold Jarche]] through his [[Seek Sense Share]] framework.."
       },
       "date": 1581607291906
+    },
+    {
+      "type": "edit",
+      "id": "3357230f892a92b2",
+      "item": {
+        "type": "markdown",
+        "id": "3357230f892a92b2",
+        "text": "As well as relating [[Models of Learning]] to PKM, we might also consider [[Contributions to PKM from NeuroScience]]."
+      },
+      "date": 1591782450008
     }
   ]
 }

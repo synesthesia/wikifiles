@@ -1,0 +1,39 @@
+{
+  "title": "Models of Learning",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "bc65c45890914889",
+      "text": "[[Didau's Taxonomy]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Models of Learning",
+        "story": []
+      },
+      "date": 1591782454167
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bc65c45890914889"
+      },
+      "id": "bc65c45890914889",
+      "type": "add",
+      "date": 1591782455604
+    },
+    {
+      "type": "edit",
+      "id": "bc65c45890914889",
+      "item": {
+        "type": "markdown",
+        "id": "bc65c45890914889",
+        "text": "[[Didau's Taxonomy]]"
+      },
+      "date": 1591782471031
+    }
+  ]
+}
