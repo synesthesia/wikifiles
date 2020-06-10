@@ -1,6 +1,12 @@
 {
   "title": "Didau's Taxonomy",
-  "story": [],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "b51be2bd6b0ae5cb",
+      "text": "A model proposed by [[David Didau]] to represent the relationships between\n\n* cognitive science\n"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +15,35 @@
         "story": []
       },
       "date": 1591782476335
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b51be2bd6b0ae5cb"
+      },
+      "id": "b51be2bd6b0ae5cb",
+      "type": "add",
+      "date": 1591782507548
+    },
+    {
+      "type": "edit",
+      "id": "b51be2bd6b0ae5cb",
+      "item": {
+        "type": "markdown",
+        "id": "b51be2bd6b0ae5cb",
+        "text": "A model proposed by [[David Didau]] to represent the relationships between\n* "
+      },
+      "date": 1591782530392
+    },
+    {
+      "type": "edit",
+      "id": "b51be2bd6b0ae5cb",
+      "item": {
+        "type": "markdown",
+        "id": "b51be2bd6b0ae5cb",
+        "text": "A model proposed by [[David Didau]] to represent the relationships between\n\n* cognitive science\n"
+      },
+      "date": 1591782549458
     }
   ]
 }
