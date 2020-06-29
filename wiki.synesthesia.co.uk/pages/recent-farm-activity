@@ -4,36 +4,27 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "4c4b43395805dd59"
+      "id": "21b0ea1e35925c3d"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "f3afed8cf3269cc6"
+      "id": "1ca7a7d4fc2e5d8b"
     },
     {
-      "date": 1591783441000,
+      "date": 1593426747000,
       "site": "wiki.synesthesia.co.uk",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
       "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
       "type": "reference",
-      "id": "b909bfb8b00996a0"
-    },
-    {
-      "date": 1591783792000,
-      "site": "pkm.wiki.synesthesia.co.uk",
-      "slug": "david-didau",
-      "title": "David Didau",
-      "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 245 pages.",
-      "type": "reference",
-      "id": "0c4e04da356d44ee"
+      "id": "25947f051243534b"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "1035719c254fe446",
+      "id": "162e7f3aefceccd3",
       "item": {
         "title": "Recent Farm Activity"
       },
@@ -43,51 +34,37 @@
     },
     {
       "type": "add",
-      "id": "4c4b43395805dd59",
+      "id": "21b0ea1e35925c3d",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "4c4b43395805dd59"
+        "id": "21b0ea1e35925c3d"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "f3afed8cf3269cc6",
+      "id": "1ca7a7d4fc2e5d8b",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "f3afed8cf3269cc6"
+        "id": "1ca7a7d4fc2e5d8b"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "b909bfb8b00996a0",
+      "id": "25947f051243534b",
       "item": {
-        "date": 1591783441000,
+        "date": 1593426747000,
         "site": "wiki.synesthesia.co.uk",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
         "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
         "type": "reference",
-        "id": "b909bfb8b00996a0"
+        "id": "25947f051243534b"
       },
-      "date": 1591783441000
-    },
-    {
-      "type": "add",
-      "id": "0c4e04da356d44ee",
-      "item": {
-        "date": 1591783792000,
-        "site": "pkm.wiki.synesthesia.co.uk",
-        "slug": "david-didau",
-        "title": "David Didau",
-        "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 245 pages.",
-        "type": "reference",
-        "id": "0c4e04da356d44ee"
-      },
-      "date": 1591783792000
+      "date": 1593426747000
     }
   ]
 }
