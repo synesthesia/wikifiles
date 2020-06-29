@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://digitalcpd.wiki.synesthesia.co.uk/welcome-visitors.html</loc>
-    <lastmod>2020-04-21</lastmod>
-  </url>
-  <url>
-    <loc>http://digitalcpd.wiki.synesthesia.co.uk/julian-elve.html</loc>
-    <lastmod>2018-03-26</lastmod>
-  </url>
-  <url>
     <loc>http://digitalcpd.wiki.synesthesia.co.uk/about-this-site.html</loc>
     <lastmod>2020-04-21</lastmod>
   </url>
@@ -17,7 +9,23 @@
     <lastmod>2020-04-21</lastmod>
   </url>
   <url>
+    <loc>http://digitalcpd.wiki.synesthesia.co.uk/digital-cpd.html</loc>
+    <lastmod>2020-04-21</lastmod>
+  </url>
+  <url>
+    <loc>http://digitalcpd.wiki.synesthesia.co.uk/julian-elve.html</loc>
+    <lastmod>2018-03-26</lastmod>
+  </url>
+  <url>
+    <loc>http://digitalcpd.wiki.synesthesia.co.uk/online-learning.html</loc>
+    <lastmod>2020-04-21</lastmod>
+  </url>
+  <url>
     <loc>http://digitalcpd.wiki.synesthesia.co.uk/the-10-fundamentals-of-teaching-online.html</loc>
+    <lastmod>2020-04-21</lastmod>
+  </url>
+  <url>
+    <loc>http://digitalcpd.wiki.synesthesia.co.uk/there-is-no-single-form-of-online-learning.html</loc>
     <lastmod>2020-04-21</lastmod>
   </url>
   <url>
@@ -25,15 +33,7 @@
     <lastmod>2020-04-21</lastmod>
   </url>
   <url>
-    <loc>http://digitalcpd.wiki.synesthesia.co.uk/digital-cpd.html</loc>
-    <lastmod>2020-04-21</lastmod>
-  </url>
-  <url>
-    <loc>http://digitalcpd.wiki.synesthesia.co.uk/online-learning.html</loc>
-    <lastmod>2020-04-21</lastmod>
-  </url>
-  <url>
-    <loc>http://digitalcpd.wiki.synesthesia.co.uk/there-is-no-single-form-of-online-learning.html</loc>
+    <loc>http://digitalcpd.wiki.synesthesia.co.uk/welcome-visitors.html</loc>
     <lastmod>2020-04-21</lastmod>
   </url>
 </urlset>

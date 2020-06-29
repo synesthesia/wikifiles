@@ -9,6 +9,10 @@
     <lastmod>2014-12-14</lastmod>
   </url>
   <url>
+    <loc>http://code.wiki.synesthesia.co.uk/ansible.html</loc>
+    <lastmod>2020-05-04</lastmod>
+  </url>
+  <url>
     <loc>http://code.wiki.synesthesia.co.uk/azure.html</loc>
     <lastmod>2018-10-10</lastmod>
   </url>
@@ -19,6 +23,10 @@
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/binding-redirects-broken-on-azure-functions.html</loc>
     <lastmod>2018-04-04</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/branch-by-abstraction.html</loc>
+    <lastmod>2020-05-13</lastmod>
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/core-plugins.html</loc>
@@ -33,8 +41,16 @@
     <lastmod>2019-11-20</lastmod>
   </url>
   <url>
+    <loc>http://code.wiki.synesthesia.co.uk/devops-tools.html</loc>
+    <lastmod>2020-05-04</lastmod>
+  </url>
+  <url>
     <loc>http://code.wiki.synesthesia.co.uk/domain-driven-design.html</loc>
     <lastmod>2017-02-09</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/dotnetstandard.html</loc>
+    <lastmod>2020-05-15</lastmod>
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/dynamics-365.html</loc>
@@ -77,6 +93,10 @@
     <lastmod>2018-10-15</lastmod>
   </url>
   <url>
+    <loc>http://code.wiki.synesthesia.co.uk/gerard-meszaros.html</loc>
+    <lastmod>2020-05-14</lastmod>
+  </url>
+  <url>
     <loc>http://code.wiki.synesthesia.co.uk/hacking-wikis-methods.html</loc>
     <lastmod>2014-12-14</lastmod>
   </url>
@@ -105,6 +125,26 @@
     <lastmod>2018-10-15</lastmod>
   </url>
   <url>
+    <loc>http://code.wiki.synesthesia.co.uk/martin-fowler.html</loc>
+    <lastmod>2020-05-13</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/migrate-dependencies-from--dotnetframework-to-dotnetstandard.html</loc>
+    <lastmod>2020-05-14</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/migrate-web-api-from-aspnet-to-aspnet-core.html</loc>
+    <lastmod>2020-05-13</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/migrating-aspnet-to-aspnet-core.html</loc>
+    <lastmod>2020-05-13</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/migrating-power-platform-clients-to-dotnetcore.html</loc>
+    <lastmod>2020-05-14</lastmod>
+  </url>
+  <url>
     <loc>http://code.wiki.synesthesia.co.uk/my-other-wikis.html</loc>
     <lastmod>2016-02-02</lastmod>
   </url>
@@ -115,6 +155,10 @@
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/original-ddd-preface.html</loc>
     <lastmod>2017-02-09</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/paul-hammant.html</loc>
+    <lastmod>2020-05-13</lastmod>
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/plugin-lifecycle.html</loc>
@@ -137,8 +181,20 @@
     <lastmod>2019-06-11</lastmod>
   </url>
   <url>
+    <loc>http://code.wiki.synesthesia.co.uk/stacey-curl.html</loc>
+    <lastmod>2020-05-13</lastmod>
+  </url>
+  <url>
     <loc>http://code.wiki.synesthesia.co.uk/technical-debt.html</loc>
     <lastmod>2019-11-20</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/technologies.html</loc>
+    <lastmod>2020-05-04</lastmod>
+  </url>
+  <url>
+    <loc>http://code.wiki.synesthesia.co.uk/test-double.html</loc>
+    <lastmod>2020-05-14</lastmod>
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/testing.html</loc>
@@ -149,71 +205,15 @@
     <lastmod>2019-06-11</lastmod>
   </url>
   <url>
-    <loc>http://code.wiki.synesthesia.co.uk/welcome-visitors.html</loc>
-    <lastmod>2020-05-04</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/technologies.html</loc>
-    <lastmod>2020-05-04</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/devops-tools.html</loc>
-    <lastmod>2020-05-04</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/ansible.html</loc>
-    <lastmod>2020-05-04</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/migrating-aspnet-to-aspnet-core.html</loc>
-    <lastmod>2020-05-13</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/migrate-web-api-from-aspnet-to-aspnet-core.html</loc>
-    <lastmod>2020-05-13</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/migrate-dependencies-from--dotnetframework-to-dotnetstandard.html</loc>
-    <lastmod>2020-05-14</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/branch-by-abstraction.html</loc>
-    <lastmod>2020-05-13</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/paul-hammant.html</loc>
-    <lastmod>2020-05-13</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/martin-fowler.html</loc>
-    <lastmod>2020-05-13</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/stacey-curl.html</loc>
-    <lastmod>2020-05-13</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/test-double.html</loc>
-    <lastmod>2020-05-14</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/gerard-meszaros.html</loc>
-    <lastmod>2020-05-14</lastmod>
-  </url>
-  <url>
     <loc>http://code.wiki.synesthesia.co.uk/vladimir-khorikov.html</loc>
     <lastmod>2020-05-14</lastmod>
   </url>
   <url>
-    <loc>http://code.wiki.synesthesia.co.uk/migrating-power-platform-clients-to-dotnetcore.html</loc>
-    <lastmod>2020-05-14</lastmod>
+    <loc>http://code.wiki.synesthesia.co.uk/welcome-visitors.html</loc>
+    <lastmod>2020-05-04</lastmod>
   </url>
   <url>
     <loc>http://code.wiki.synesthesia.co.uk/xrmtoolscrmwebapi.html</loc>
     <lastmod>2020-05-14</lastmod>
-  </url>
-  <url>
-    <loc>http://code.wiki.synesthesia.co.uk/dotnetstandard.html</loc>
-    <lastmod>2020-05-15</lastmod>
   </url>
 </urlset>
