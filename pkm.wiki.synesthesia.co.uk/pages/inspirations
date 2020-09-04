@@ -9,7 +9,7 @@
     {
       "type": "roster",
       "id": "42b5dfae7c6f3cbc",
-      "text": "Mike Caulfield\n\n\nhhol.mike.fed.wiki.org\nfwthoughts.mike.fed.wiki.org\n\n\nWard Cunningham\n\nward.bay.wiki.org\n\n\nJon Richter\n\njon.2019.federated.wiki\njon.2018.federated.wiki\njon.2017.federated.wiki"
+      "text": "Mike Caulfield\n\n\nhhol.mike.fed.wiki.org\nfwthoughts.mike.fed.wiki.org\n\n\nWard Cunningham\n\nward.bay.wiki.org\n\n\nJon Richter\n\njon.2019.federated.wiki\njon.2018.federated.wiki\njon.2017.federated.wiki\n\nMc MOrgan\njournal.mcmorgan.org"
     }
   ],
   "journal": [
@@ -238,6 +238,16 @@
         "text": "Mike Caulfield\n\n\nhhol.mike.fed.wiki.org\nfwthoughts.mike.fed.wiki.org\n\n\nWard Cunningham\n\nward.bay.wiki.org\n\n\nJon Richter\n\njon.2019.federated.wiki\njon.2018.federated.wiki\njon.2017.federated.wiki"
       },
       "date": 1563811735488
+    },
+    {
+      "type": "edit",
+      "id": "42b5dfae7c6f3cbc",
+      "item": {
+        "type": "roster",
+        "id": "42b5dfae7c6f3cbc",
+        "text": "Mike Caulfield\n\n\nhhol.mike.fed.wiki.org\nfwthoughts.mike.fed.wiki.org\n\n\nWard Cunningham\n\nward.bay.wiki.org\n\n\nJon Richter\n\njon.2019.federated.wiki\njon.2018.federated.wiki\njon.2017.federated.wiki\n\nMc MOrgan\njournal.mcmorgan.org"
+      },
+      "date": 1599229114898
     }
   ]
 }
