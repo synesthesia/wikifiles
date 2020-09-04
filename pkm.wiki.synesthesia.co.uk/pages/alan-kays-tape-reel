@@ -3,13 +3,13 @@
   "story": [
     {
       "type": "paragraph",
-      "id": "a2d93e0290b40875",
-      "text": "Federated Wiki implements an idea similar to that expressed by Alan Kay at OOPSLA '97: the Internet as a version of the 1961 B220 file format he observed in the Air Force in 1961."
+      "id": "9999f9eab3e00023",
+      "text": "In his 1997 OOPSLA keynote, Alan Kay identified what he believed to be the fatal flaw of the web -- it didn't follow a simple data processing architecture that had been known for decades."
     },
     {
       "type": "paragraph",
-      "id": "9999f9eab3e00023",
-      "text": "In his 1997 OOPSLA keynote, Alan Kay identified what he believed to be the fatal flaw of the web -- it didn't follow a simple data processing architecture that had been known for decades."
+      "id": "a2d93e0290b40875",
+      "text": "Federated Wiki implements an idea similar to that expressed by Alan Kay at OOPSLA '97: the Internet as a version of the 1961 B220 file format he observed in the Air Force in 1961."
     },
     {
       "type": "paragraph",
@@ -1154,6 +1154,35 @@
       "type": "fork",
       "site": "fwthoughts.mike.fed.wiki.org",
       "date": 1563812191855
+    },
+    {
+      "id": "a2d93e0290b40875",
+      "type": "move",
+      "order": [
+        "9999f9eab3e00023",
+        "a2d93e0290b40875",
+        "9a94c5eefd483c99",
+        "4996272cc874ab37",
+        "4e460403cd81c514",
+        "97ae3e529655b762",
+        "593ba1c6f2efb675",
+        "1be082076538b1ac",
+        "9d9bcbd31701e85d",
+        "18b3e915ac0a9e15",
+        "5b97e329f44153d2",
+        "96debfb793fe755d",
+        "6c5510893b6ce166",
+        "ae5b4dfcdd60fc11",
+        "ad65be96efa97e7c",
+        "287f9dd4e9e0d18d",
+        "6d54f1f37f151cdb",
+        "473144139ee9bed7",
+        "8b47e612288f3c79",
+        "0a68f99db89e9c1d",
+        "cd5c604cda50475a",
+        "f6fbeea2f02f8616"
+      ],
+      "date": 1599229709234
     }
   ]
 }
