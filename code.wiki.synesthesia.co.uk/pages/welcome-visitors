@@ -36,6 +36,11 @@
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
     },
     {
+      "type": "paragraph",
+      "id": "f78c6bb63a5484d7",
+      "text": "[[Site Index]]"
+    },
+    {
       "type": "roster",
       "id": "3ee77225cf49833d",
       "text": "Some FedWiki sources\n\nEric Dobbs\n\ncode.wiki.dbbs.co\ndobbs.fed.wiki.org\ngoals.pods.wiki.dbbs.co\nwiki-wiki.glitch.me\n"
@@ -408,6 +413,17 @@
         "3ee77225cf49833d"
       ],
       "date": 1588578909377
+    },
+    {
+      "type": "add",
+      "id": "f78c6bb63a5484d7",
+      "item": {
+        "type": "paragraph",
+        "id": "f78c6bb63a5484d7",
+        "text": "[[Site Index]]"
+      },
+      "after": "ee416d431ebf4fb4",
+      "date": 1616767577501
     }
   ]
 }
