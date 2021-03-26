@@ -4,36 +4,27 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "3b98d6ac2a1bfda3"
+      "id": "51b8773ec4712f32"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "5d880c62f5489daf"
+      "id": "7939c783ea11a7b6"
     },
     {
-      "date": 1599229141000,
-      "site": "wiki.synesthesia.co.uk",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
+      "date": 1616767577000,
+      "site": "code.wiki.synesthesia.co.uk",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 54 pages.",
       "type": "reference",
-      "id": "490ac20ef8014f82"
-    },
-    {
-      "date": 1599229711000,
-      "site": "pkm.wiki.synesthesia.co.uk",
-      "slug": "alan-kays-tape-reel",
-      "title": "Alan Kay's Tape Reel",
-      "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 245 pages.",
-      "type": "reference",
-      "id": "92bce4b423220fb2"
+      "id": "f8f2528da27f447e"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "da4c9deb398a9096",
+      "id": "1002593db8c8a35c",
       "item": {
         "title": "Recent Farm Activity"
       },
@@ -43,51 +34,37 @@
     },
     {
       "type": "add",
-      "id": "3b98d6ac2a1bfda3",
+      "id": "51b8773ec4712f32",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "3b98d6ac2a1bfda3"
+        "id": "51b8773ec4712f32"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "5d880c62f5489daf",
+      "id": "7939c783ea11a7b6",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "5d880c62f5489daf"
+        "id": "7939c783ea11a7b6"
       },
       "date": 1583252176000
     },
     {
       "type": "add",
-      "id": "490ac20ef8014f82",
+      "id": "f8f2528da27f447e",
       "item": {
-        "date": 1599229141000,
-        "site": "wiki.synesthesia.co.uk",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://wiki.synesthesia.co.uk wiki.synesthesia.co.uk] with 156 pages.",
+        "date": 1616767577000,
+        "site": "code.wiki.synesthesia.co.uk",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "In [http://code.wiki.synesthesia.co.uk code.wiki.synesthesia.co.uk] with 54 pages.",
         "type": "reference",
-        "id": "490ac20ef8014f82"
+        "id": "f8f2528da27f447e"
       },
-      "date": 1599229141000
-    },
-    {
-      "type": "add",
-      "id": "92bce4b423220fb2",
-      "item": {
-        "date": 1599229711000,
-        "site": "pkm.wiki.synesthesia.co.uk",
-        "slug": "alan-kays-tape-reel",
-        "title": "Alan Kay's Tape Reel",
-        "text": "In [http://pkm.wiki.synesthesia.co.uk pkm.wiki.synesthesia.co.uk] with 245 pages.",
-        "type": "reference",
-        "id": "92bce4b423220fb2"
-      },
-      "date": 1599229711000
+      "date": 1616767577000
     }
   ]
 }
